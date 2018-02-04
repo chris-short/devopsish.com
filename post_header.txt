@@ -1,0 +1,15 @@
++++
+
+author = "Chris Short"
+categories = ["Weekly"]
+date = 
+description = 
+draft = false
+slug = ""
+tags = ["devops", "cloud native", "open source"]
+title = ""
+featured = 
+featuredalt = 
+featuredpath = "date"
+
++++
