@@ -2,14 +2,14 @@
 
 author = "Chris Short"
 categories = ["Weekly"]
-date = 
-description = 
+date = 2019-01-01T00:00:00Z
+description = ""
 draft = false
 slug = ""
 tags = ["devops", "cloud native", "open source"]
 title = ""
-featured = 
-featuredalt = 
+featured = ""
+featuredalt = ""
 featuredpath = "date"
 
 +++
