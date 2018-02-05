@@ -11,7 +11,7 @@ theme = "hugo-future-imperfect"
 title = "DevOps'ish"
 
 [permalinks]
-  post = ":title/"
+  post = ":slug/"
 
 [params]
   description = "DevOps, Cloud Native, Open Source, and the 'ish in between."
