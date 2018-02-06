@@ -29,8 +29,8 @@ title = "DevOps'ish"
   loadFavicon          = false
   faviconVersion       = ""
 
-[params.intro.pic]
-  src       = "/img/main/logo.jpg"
+#  [params.intro.pic]
+#    src = "/img/devopsish-optimized.png"
 
 [[menu.main]]
   name = "Home"
