@@ -1,0 +1,69 @@
++++
+
+author = "Chris Short"
+categories = ["Newsletter"]
+date = 2018-02-04T05:16:00.766Z
+description = ""
+draft = false
+slug = "0XX"
+tags = ["devops", "cloud native", "open source"]
+title = "0XX: 🔥 Week, CoreOS Acquisition, 20 Years of Open Source, Heptio's Undistribution, and..."
+featured = ""
+featuredalt = ""
+featuredpath = "date"
+
++++
+
+MONOLOGUE
+
+AD
+
+## People
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="3366918039"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+## Process
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="3366918039"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+## Tools
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="3366918039"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+## Tweet of the Week
+
+TWEET
+
+## whoami
+
+I'm [**Chris Short**](https://chrisshort.net), 20+ veteran of the IT industry and 11 year veteran of the US Air Force. I help people and companies embrace DevOps practices and tools through writing and public speaking. I am a staunch advocate for transparency and open source solutions to problems. Follow me on [Twitter](https://twitter.com/ChrisShort)!

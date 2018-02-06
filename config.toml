@@ -5,7 +5,7 @@ googleAnalytics = "UA-4498776-13"
 languageCode = "en-us"
 metaDataFormat = "toml"
 newContentEditor = "code"
-paginate = 5
+paginate = 3
 relativeURLs = true
 theme = "hugo-future-imperfect"
 title = "DevOps'ish"
@@ -15,15 +15,22 @@ title = "DevOps'ish"
 
 [params]
   description = "DevOps, Cloud Native, Open Source, and the 'ish in between."
+  dynamicTitles = true
   navbarTitle = "DevOps'ish"
   rssAppearAtTop = true
   rssAppearAtBottom = true
   socialAppearAtTop = true
   socialAppearAtBottom = true
   includeReadingTime = true
+  showSidebarCategories = false
   socialShare = true
   UseChroma = true
   dateFormat = "2015-01-21"
+  loadFavicon          = false
+  faviconVersion       = ""
+
+[params.intro.pic]
+  src       = "/img/main/logo.jpg"
 
 [[menu.main]]
   name = "Home"
