@@ -15,7 +15,6 @@ title = "DevOps'ish"
 
 [params]
   description = "DevOps, Cloud Native, Open Source, and the 'ish in between."
-  dynamicTitles = true
   navbarTitle = "DevOps'ish"
   rssAppearAtTop = true
   rssAppearAtBottom = true
@@ -26,8 +25,9 @@ title = "DevOps'ish"
   socialShare = true
   UseChroma = true
   dateFormat = "2015-01-21"
-  loadFavicon          = false
-  faviconVersion       = ""
+  loadFavicon = false
+  faviconVersion = ""
+  disable_highlight = true
 
 #  [params.intro.pic]
 #    src = "/img/devopsish-optimized.png"
