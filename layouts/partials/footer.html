@@ -11,10 +11,10 @@
     <!-- If the value "default" is passed into the param then we will first
      load the standard js files associated with the theme -->
     {{ if or (in ($.Scratch.Get "jsFiles") "default") (eq ($.Scratch.Get "jsFiles") false) }}
-      <script src="{{ "css/jquery-3.2.1.min.js" | relURL }}"></script>
-      <script src="{{ "css/highlight.min.js" | relURL }}"></script>
-      <script src="{{ "css/skel.min.js" | relURL }}"></script>
-      <script src="{{ "css/jquery.fancybox.min.js" | relURL }}"></script>
+      <script src="{{ "js/jquery-3.2.1.min.js" | relURL }}"></script>
+      <script src="{{ "js/highlight.min.js" | relURL }}"></script>
+      <script src="{{ "js/skel.min.js" | relURL }}"></script>
+      <script src="{{ "js/jquery.fancybox.min.js" | relURL }}"></script>
       <script src="{{ "js/util.js" | relURL }}"></script>
       <script src="{{ "js/main.js" | relURL }}"></script>
       <script src="{{ "js/backToTop.js" | relURL }}"></script>

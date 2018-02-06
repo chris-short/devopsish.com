@@ -29,6 +29,9 @@ title = "DevOps'ish"
   faviconVersion = ""
   disable_highlight = true
 
+[params.intro]
+  header    = "<a href="/img/devopsish-optimized.png" alt="DevOps'ish ">"
+
 #  [params.intro.pic]
 #    src = "/img/devopsish-optimized.png"
 
