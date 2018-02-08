@@ -63,6 +63,7 @@
     {{ if or (.Params.categories) (.Params.tags) }}{{ partial "meta-terms.html" . }}{{ end }}</p>
     <p>{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" />{{ end }}</p>
   </header>
+
   {{ .Content }}
 
   {{ if .IsTranslated }}
@@ -93,5 +94,3 @@
 </article> <!-- /.blog-post -->
 
 {{ end }}
-
-{{- /* vim: set ts=2 sw=2 et: */}}

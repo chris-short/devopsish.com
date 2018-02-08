@@ -16,7 +16,7 @@ addons:
 install:
 - rm -rf public || exit 0
 before_script:
-- curl --silent -L https://github.com/gohugoio/hugo/releases/download/v0.35/hugo_0.35_Linux-64bit.tar.gz
+- curl --silent -L https://github.com/gohugoio/hugo/releases/download/v0.36/hugo_0.36_Linux-64bit.tar.gz
   | tar zxf -
 script:
 - ./hugo
