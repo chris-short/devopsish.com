@@ -8,9 +8,8 @@ draft = false
 slug = "0XX"
 tags = ["devops", "cloud native", "open source"]
 title = "0XX: 🔥 Week, CoreOS Acquisition, 20 Years of Open Source, Heptio's Undistribution, and..."
-featured = ""
-featuredalt = ""
-featuredpath = "date"
+image = ""
+imagealt = ""
 
 +++
 

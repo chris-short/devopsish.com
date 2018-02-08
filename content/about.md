@@ -8,4 +8,4 @@ title = "About"
 
 +++
 
-DevOps, Cloud Native, Open Source, and the 'ish in between. Attempting to lower the barrier to entry into the DevOps field while keeping seasoned professionals informed on the latest news, tools, and trends. Sign up for the [newsletter](/newsletter/) today
+DevOps, Cloud Native, Open Source, and the 'ish in between. A weekly newsletter assembled by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/). Attempting to lower the barrier to entry into the DevOps and Cloud Native world while keeping seasoned professionals informed on the latest news, tools, and trends. Sign up for the [newsletter](/newsletter/) today!

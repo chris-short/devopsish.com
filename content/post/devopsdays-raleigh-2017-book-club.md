@@ -8,9 +8,8 @@ draft = false
 slug = "devopsdays-raleigh-2017-book-club"
 tags = ["devops", "cloud native", "open source", "books"]
 title = "DevOpsDays Raleigh 2017 Book Club"
-featured = "DevOpsDays-Raleigh-2017-Book-Club.jpg"
-featuredalt = "DevOpsDays Raleigh 2017 Speakers and Attendees During the Book Club Open Space"
-featuredpath = "date"
+image = "/img/2017/10/DevOpsDays-Raleigh-2017-Book-Club.jpg"
+imagealt = "DevOpsDays Raleigh 2017 Speakers and Attendees During the Book Club Open Space"
 
 +++
 
