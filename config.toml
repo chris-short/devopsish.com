@@ -1,54 +1,24 @@
 baseURL = "/"
+copyright = "[Some rights reserved](https://creativecommons.org/licenses/by-sa/4.0/)"
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-4498776-13"
 languageCode = "en-us"
 metaDataFormat = "toml"
 newContentEditor = "code"
-paginate = 3
+paginate = 5
 relativeURLs = true
-theme = "hugo-future-imperfect"
+theme = "hugo-theme-bootstrap4-blog"
 title = "DevOps'ish"
 
 [permalinks]
   post = ":slug/"
+  page = ":slug/"
 
 [params]
-  description = "DevOps, Cloud Native, Open Source, and the 'ish in between."
-  navbarTitle = "DevOps'ish"
-  rssAppearAtTop = true
-  rssAppearAtBottom = true
-  socialAppearAtTop = true
-  socialAppearAtBottom = true
-  includeReadingTime = true
-  showSidebarCategories = false
-  socialShare = true
-  UseChroma = true
-  dateFormat = "2015-01-21"
-  loadFavicon = false
-  faviconVersion = ""
-  disable_highlight = true
+  author = "Chris Short"
+  description = "DevOps, Cloud Native, Open Source, and the ‘ish in between."
 
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  identifier = "fa fa-home"
-  weight = 1
-
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  identifier = "fa fa-id-card-o"
-  weight = 2
-
-[[menu.main]]
-  name = "Newsletter Signup"
-  url = "/Newsletter/"
-  identifier = "fa fa-newspaper-o"
-  weight = 3
-
-[social]
-  github = "chris-short/devopsish.com"
-  linkedin = "christopherbshort"
-  twitter = "ChrisShort"
-  email = "chris@devopsish.com"
+  [params.sidebar]
+    About = "DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/)."
+    num_recent_posts = 3
