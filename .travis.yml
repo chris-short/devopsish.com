@@ -29,4 +29,3 @@ deploy:
   local-dir: public
   skip_cleanup: true
   acl: public-read
-  detect_encoding: true
