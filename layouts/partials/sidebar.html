@@ -1,0 +1,38 @@
+<aside class="col-sm-3 ml-auto blog-sidebar">
+  {{ if and (.Site.Params.sidebar) (isset .Site.Params.sidebar "about") }}
+  <section class="sidebar-module sidebar-module-inset">
+    <h4>{{ i18n "about" }}</h4>
+    <p>{{ .Site.Params.sidebar.about | markdownify }}</p>
+  </section>
+  {{ end }}
+
+  {{ if .Site.Params.sidebar }}
+      {{ partialCached "recent.html" .}}
+  {{ end }}
+
+  {{ with .Site.Menus.sidebar }}
+  <section class="sidebar-module">
+    <h4>{{ i18n "links" }}</h4>
+    <ol class="list-unstyled">
+      {{ range . }}
+      <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ol>
+  </section>
+  {{ end }}
+
+  <section class="sidebar-module">
+    <h4>Social</h4> 
+      <a href="mailto:chris@chrisshort.net"><span class="fa fa-envelope fa-lg"></span></a>&nbsp;
+      <a href="https://twitter.com/ChrisShort"><span class="fa fa-twitter fa-lg"></span></a>&nbsp;
+      <a href="https://linkedin.com/in/christopherbshort/"><span class="fa fa-linkedin fa-lg"></span></a>&nbsp;
+      <a href="https://medium.com/@chrisshort/"><span class="fa fa-medium fa-lg"></span></a>&nbsp;
+      {{- if .RSSLink }}
+      <a href="{{ .RSSLink }}"><span class="fa fa-rss fa-lg"></span></a>
+      {{- else }}
+      <a href="{{ .Site.RSSLink }}"><span class="fa fa-rss fa-lg"></span></a>
+      {{- end }}    
+  </section>    
+</aside><!-- /.blog-sidebar -->
+
+{{- /* vim: set ts=2 sw=2 et: */}}
