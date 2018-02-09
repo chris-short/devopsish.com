@@ -11,7 +11,7 @@ title = "Newsletter Signup"
 DevOps'ish is a weekly newsletter DevOps, Cloud Native, Open Source, and the 'ish in between by open source contributor, DevOps veteran, and CNCF Ambassador Chris Short.
 
 <!-- Begin MailChimp Signup Form -->
-<link href="//cdn.chrisshort.net/static/css/classic-10_7.css" rel="stylesheet" type="text/css">
+<link href="/css/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
