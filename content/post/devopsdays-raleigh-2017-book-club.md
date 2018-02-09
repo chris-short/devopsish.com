@@ -69,6 +69,5 @@ Attributed to Proximate Cause; and the Resulting New Understanding of Patient Sa
 
 [The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It](https://smile.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934/) by Kelly McGonigal — Drawing from groundbreaking research, psychologist and award-winning teacher Kelly McGonigal, PhD, offers a surprising new view of stress — one that reveals the upside of stress, and shows us exactly how to capitalize on its benefits. [There is a great TED talk that Kelly McGonigal did too](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend).
 
-## whoami
 
-I'm [**Chris Short**](https://chrisshort.net), 20+ veteran of the IT industry and 11 year veteran of the US Air Force. I help people and companies embrace DevOps practices and tools through writing and public speaking. I am a staunch advocate for transparency and open source solutions to problems. Follow me on [Twitter](https://twitter.com/ChrisShort)!
+
