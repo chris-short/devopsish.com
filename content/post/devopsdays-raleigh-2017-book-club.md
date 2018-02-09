@@ -21,6 +21,16 @@ As part of the Open Spaces at [DevOpsDays Raleigh](https://www.devopsdays.org/ev
 
 [Maverick: The Success Story Behind the World's Most Unusual Workplace](https://smile.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553/ref=sr_1_1?s=books&ie=UTF8&qid=1505076806&sr=1-1&keywords=maverick) by Ricardo Semler — Semler turned his family's business, the aging Semco corporation of Brazil, into the most revolutionary business success story of our time. By eliminating unneeded layers of management and allowing employees unprecedented democracy in the workplace, he created a company that challenged the old ways and blazed a path to success in an uncertain economy.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="9019534115"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
 [The Heretic's Guide to Best Practices: The Reality of Managing Complex Problems in Organisations](https://smile.amazon.com/Heretics-Guide-Best-Practices-Organisations-ebook/dp/B00D5S7C5K/) by Paul Culmsee and Kailash Awati — When it comes to solving complex problems, we often perform elaborate rituals in the guise of best practices that promise a world of order, certainty, and control. But reality paints a far different picture, which practitioners are often reluctant to discuss.
 
 [2 Second Lean Book](https://paulakers.net/books/2-second-lean) by Paul Akers
@@ -41,6 +51,17 @@ Attributed to Proximate Cause; and the Resulting New Understanding of Patient Sa
 [The Greatest Business Decisions of All Time: How Apple, Ford, IBM, Zappos, and others made radical choices that changed the course of business](https://smile.amazon.com/FORTUNE-Greatest-Business-Decisions-Time/dp/1603200592/) by Verne Harnish — Decisions equal success-nothing happens until one is made. Businesses make millions of decisions every day. But once in a great while a leader makes a truly game-changing decision that shifts not only the strategy of a single company but how everyone does business.
 
 [The Goal: A Process of Ongoing Improvement](https://smile.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951/) by Eliyahu M. Goldratt and Jeff Cox — Written in a fast-paced thriller style, The Goal, a gripping novel, is transforming management thinking throughout the world. It is a book to recommend to your friends in industry — even to your bosses — but not to your competitors.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- devopsish.com Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="4977359089"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 [The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't](https://smile.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202/) by Robert I. Sutton — The definitive guide to working with — and surviving — bullies, creeps, jerks, tyrants, tormentors, despots, backstabbers, egomaniacs, and all the other assholes who do their best to destroy you at work.
 
