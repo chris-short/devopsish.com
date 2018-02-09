@@ -20,8 +20,8 @@ before_script:
   | tar zxf -
 script:
 - ./hugo
-after_success:
-- find public/ -name '*.css' -o -name '*.js' -o -name '*.html' -type f | xargs gzip -9
+#after_success:
+#- find public/ -name '*.css' -o -name '*.js' -o -name '*.html' -type f | xargs gzip -9
 deploy:
   provider: gcs
   access_key_id: GOOGU2LT7AP6FT66C6RA
