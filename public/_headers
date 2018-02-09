@@ -4,4 +4,3 @@
   Referrer-Policy: no-referrer-when-downgrade
   X-Content-Type-Options: nosniff
   X-DNS-Prefetch-Control: on
-  strict-transport-security: max-age=31536000
