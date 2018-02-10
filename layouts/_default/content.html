@@ -2,7 +2,9 @@
 
 <article class="blog-post">
   <header>
-    {{ if .Params.image }}<p><a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" /></a></p>>{{ end }}
+    {{ if .Params.image }}<p><a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" /></a>
+      {{ if .Params.imagecap }}<br />{{ .Params.imagecap | markdownify }}{{ end }}
+    </p>{{ end }}
     <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
     <p class="blog-post-meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> by {{ .Params.author | default .Site.Params.author }}<br />
     {{ if or (.Params.categories) (.Params.tags) }}{{ partial "meta-terms.html" . }}{{ end }}</p>
