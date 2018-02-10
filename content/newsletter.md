@@ -54,4 +54,4 @@ DevOps'ish is a weekly newsletter DevOps, Cloud Native, Open Source, and the 'is
 
 #### Grateful to have readers from across the globe and companies such as:
 
-![DevOps'ish Subscriber Logos](https://cdn.chrisshort.net/static/img/subscriber-logos.png)
+![DevOps'ish Subscriber Logos](/img/subscriber-logos.png)
