@@ -4,7 +4,7 @@ date = 2018-02-10T09:00:00Z
 description = "Sponsor DevOps'ish"
 draft = false
 slug = "sponsorships"
-title = "Sponsorships"
+title = "Sponsor"
 
 +++
 
