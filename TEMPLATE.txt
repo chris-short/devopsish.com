@@ -10,6 +10,7 @@ tags = ["devops", "cloud native", "open source"]
 title = "0XX: "
 image = ""
 imagealt = ""
+imagecap = ""
 
 +++
 
