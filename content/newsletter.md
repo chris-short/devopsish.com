@@ -8,7 +8,7 @@ title = "Signup"
 
 +++
 
-DevOps'ish is a weekly newsletter DevOps, Cloud Native, Open Source, and the 'ish in between by open source contributor, DevOps veteran, and CNCF Ambassador Chris Short.
+DevOps'ish is a weekly newsletter covering DevOps, Cloud Native, Open Source, and the 'ish in between by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/).
 
 <!-- Begin MailChimp Signup Form -->
 <link href="/css/classic-10_7.css" rel="stylesheet" type="text/css">
