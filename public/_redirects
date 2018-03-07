@@ -68,5 +68,6 @@
 /@chrisshort /about/ 301
 /archive / 301
 /latest / 301
+/all / 301
 
 /browserconfig.xml /favicons/browserconfig.xml 302
