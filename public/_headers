@@ -4,3 +4,7 @@
   Referrer-Policy: no-referrer-when-downgrade
   X-Content-Type-Options: nosniff
   X-DNS-Prefetch-Control: on
+
+/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
