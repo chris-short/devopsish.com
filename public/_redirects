@@ -62,6 +62,7 @@
 /devopsish-060-wtf-google-sre-in-a-serverless-world-devops-requires-rethinking-norms-kubernetes-163ab5eaef53 /060/ 301
 /devopsish-061-week-coreos-acquisition-20-years-of-open-source-heptio-s-undistribution-and-4f63428fc1b1 /061/ 301
 /feed /index.xml 301
+/rss /index.xml 301
 /tagged/* /tags/:splat/ 301
 /tags/weekly/ / 301
 /tags/newsletter/ / 301
