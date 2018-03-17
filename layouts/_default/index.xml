@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps&#39;ish</title>
+    <link>https://devopsish.com/</link>
+    <description>Please Subscribe to the E-mail Newsletter</description>
+    <language>en-us</language>
+    <copyright>[Some rights reserved](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Sat, 17 Mar 2018 16:45:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://devopsish.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Please Subscribe to the Newsletter via E-mail</title>
+      <link>https://devopsish.com/newsletter/</link>
+      <pubDate>Sun, 11 Mar 2018 07:00:00 +0000</pubDate>
+      
+      <guid>https://devopsish.com/newsletter/</guid>
+      <description>As of 17 March 2018, DevOps'ish will no longer be available via RSS. Please subscribe to the newsletter via e-mail.</description>
+    </item>
+    
+  </channel>
+</rss>
