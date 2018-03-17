@@ -1,4 +1,4 @@
-/static/css/*.css
+/css/style.css
     Access-Control-Allow-Origin: *
     Content-Type: text/css
 
