@@ -4,7 +4,11 @@
 
 /fonts/*.woff
     Access-Control-Allow-Origin: *
-    Content-Type: text/css
+    Content-Type: font/woff
+
+/fonts/*.woff2
+    Access-Control-Allow-Origin: *
+    Content-Type: font/woff2
 
 /*
   X-Frame-Options: DENY
