@@ -40,4 +40,9 @@ DevOps'ish is a weekly newsletter covering DevOps, Cloud Native, Open Source, an
 
 #### Grateful to have readers from across the globe and companies such as:
 
-![DevOps'ish Subscriber Logos](/img/subscriber-logos.png)
+* Amazon
+* Apple
+* Google
+* Intel
+* Microsoft
+* Red Hat
