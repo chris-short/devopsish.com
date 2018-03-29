@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-03-29T18:37:00Z
+date = 2018-03-29T19:22:00Z
 description = "Sponsor DevOps'ish"
 draft = false
 slug = "sponsorships"
