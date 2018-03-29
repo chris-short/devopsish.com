@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-02-09T09:00:00Z
+date = 2018-03-29T19:23:00Z
 description = "Subscribe to DevOps'ish for updates on DevOps, Cloud Native, and Open Source news."
 draft = false
 slug = "newsletter"
@@ -40,4 +40,9 @@ DevOps'ish is a weekly newsletter covering DevOps, Cloud Native, Open Source, an
 
 #### Grateful to have readers from across the globe and companies such as:
 
-![DevOps'ish Subscriber Logos](/img/subscriber-logos.png)
+* Amazon
+* Apple
+* Google
+* Intel
+* Microsoft
+* Red Hat
