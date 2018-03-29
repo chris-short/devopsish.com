@@ -6,7 +6,7 @@ draft = false
 slug = "sponsorships"
 title = "Sponsor"
 aliases = [
-    "/sponsor"
+    "/sponsor",
     "/sponsors"
 ]
 
