@@ -5,6 +5,10 @@ description = "Sponsor DevOps'ish"
 draft = false
 slug = "sponsorships"
 title = "Sponsor"
+aliases = [
+    "/sponsor"
+    "/sponsors"
+]
 
 +++
 
