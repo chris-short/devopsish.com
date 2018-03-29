@@ -32,7 +32,7 @@ Your ad will be featured *natively* in e-mails to all subcribers and devopsish.c
 
 Ads include a bolded headline, additional copy, links as specified, and are followed by the italicized word, *SPONSORED*. This native format prevents ad blockers from blocking ads. It also eliminates a lot of headaches with regards to formatting. Total ad length including headline and *SPONSORED* tag should not exceed 280 characters.
 
-**EXAMPLE AD**  
+[**EXAMPLE AD**](/)  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut libero erat. Morbi convallis tempor facilisis. In vulputate hendrerit mollis. Suspendisse vitae massa aliquet, dignissim nibh quis, facilisis odio. Fusce sed consequat magna. *SPONSORED*
 
 Every week I begin the newsletter with a personal message that I call the "monologue". Ads appear after this message. If another location in the newsletter fits better for your ad please let me know.
