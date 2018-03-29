@@ -12,8 +12,6 @@ DevOps'ish readers are a diverse group of people who care deeply about a wide ra
 
 Demographic data outside of what's shared on this page for DevOps'ish subscribers is not available.
 
-The newsletter is sent every Sunday to a highly technical audience. There may be weeks where due to travel or timezone differences the newsletter is sent a day earlier or a day later but this is rare.
-
 ## Sponsorship Rates
 
 For a one (1) week sponsorship period, the fixed fee is **$100 USD**. Sponsors purchasing four or more weeks at a time receive a 5% discount.

@@ -22,6 +22,8 @@ They do not reflect the opinions or views of:
 
 Nor those of any group Chris Short is affiliated with or employed by.
 
+The newsletter is typically sent on Sundays at 0700 UTC. There may be weeks where due to travel or timezone differences the newsletter is sent a day earlier or a day later but this is rare.
+
 ## Sponsorship Disclaimer
 
 The right to refuse sponsorship from anyone for any reason is reserved.
