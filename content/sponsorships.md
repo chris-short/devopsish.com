@@ -30,7 +30,7 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 
 ## Ad Format
 
-Your ad will be featured *natively* in e-mails to all subcribers and devopsish.com. Additionally, I'd be happy to [Tweet](https://twitter.com/ChrisShort) your ad no more than three times per week on a schedule that fits the needs of advertiser(s).
+Your ad will be featured *natively* in e-mails to all subcribers and on [devopsish.com](https://devopsish.com). Additionally, I'd be happy to [Tweet](https://twitter.com/ChrisShort) your ad no more than three times per week on a schedule that fits the needs of advertiser(s).
 
 Ads include a bolded headline, additional copy, links as specified, and are followed by the italicized word, *SPONSORED*. This native format prevents ad blockers from blocking ads. It also eliminates a lot of headaches with regards to formatting. Total ad length including headline and *SPONSORED* tag should not exceed 280 characters.
 
@@ -40,3 +40,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut libero erat. M
 Every week I begin the newsletter with a personal message that I call the "monologue". Ads appear after this message. If another location in the newsletter fits better for your ad please let me know.
 
 Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
+
+[Terms and conditions](/terms/) apply.

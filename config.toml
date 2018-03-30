@@ -1,5 +1,5 @@
 baseURL = "https://devopsish.com/"
-copyright = "[Some rights reserved](https://creativecommons.org/licenses/by-sa/4.0/) | [Disclaimer](/disclaimer/)"
+copyright = "[Some rights reserved](https://creativecommons.org/licenses/by-sa/4.0/) | [Terms](/terms/)"
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-4498776-13"
