@@ -1,6 +1,6 @@
 env:
   global:
-  - HUGO_VER: 0.38
+  - HUGO_VER: 0.38.2
 language: generic
 cache: false
 branches:
