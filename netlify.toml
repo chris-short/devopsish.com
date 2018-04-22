@@ -2,15 +2,15 @@
   publish = "public"
   command = "hugo"
 
-[context.production]
+[context.production.environment]
   HUGO_VERSION = "0.39"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
-[context.deploy-preview]
+[context.deploy-preview.environment]
   HUGO_VERSION = "0.39"
   HUGO_ENABLEGITINFO = "true"
   command = "hugo --buildDrafts --buildFuture"
-[context.branch-deploy]
+[context.branch-deploy.environment]
   HUGO_VERSION = "0.39"
   HUGO_ENABLEGITINFO = "true"
   command = "hugo --buildDrafts --buildFuture"
