@@ -12,7 +12,7 @@ aliases = [
 
 +++
 
-DevOps'ish readers are a diverse group of people who care deeply about a wide range of technologies and the business practices pertinent to them. The audience includes people from Amazon, Apple, Google, Intel, Microsoft, Red Hat, and many other organizations.
+DevOps'ish readers are a diverse group of people who care deeply about a wide range of technologies and the business practices pertinent to them. The audience includes people from Amazon, Apple, Google, Intel, Microsoft, Red Hat, Chef, and many other organizations.
 
 Demographic data outside of what's shared on this page for DevOps'ish subscribers is not available.
 
@@ -24,7 +24,7 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 
 ## Stats for the DevOps'ish Newsletter
 
-* Subscribed Contacts: 1,150
+* Subscribed Contacts: 1,510
 * Average open rate: 50.7%
 * Average click rate: 25.4%
 
