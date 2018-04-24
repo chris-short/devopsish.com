@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.org/chris-short/devopsish.com.svg?branch=master)](https://travis-ci.org/chris-short/devopsish.com)
-
 # devopsish.com
 
-[devopsish.com](https://devopsish.com)
+[**devopsish.com**](https://devopsish.com)
 
-Powered by Hugo.
+Created by [Chris Short](https://chrisshort.net/).
 
-Delivered by Netlify.
+Built by [Hugo](https://gohugo.io/).
 
-Made in Michigan.
+Delivered by [Netlify](https://www.netlify.com/).
+
+Made in [Michigan](https://www.michigan.org/).
