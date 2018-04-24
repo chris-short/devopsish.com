@@ -1,4 +1,4 @@
-# devopsish.com
+![DevOps'ish](static/img/DevOpsish-Wide.png)
 
 [**devopsish.com**](https://devopsish.com)
 
