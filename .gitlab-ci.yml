@@ -9,28 +9,67 @@ variables:
 test:
   stage: test
   image: registry.gitlab.com/pages/hugo:latest
+  before_script:
+    - rm -rf public || exit 0
   script:
-  - hugo
+    - hugo
 
-build:
+build:preview:
   stage: build
+  environment:
+    name: preview
   artifacts:
     paths:
       - public
     expire_in: 10d
   image: registry.gitlab.com/pages/hugo:latest
+  before_script:
+    - rm -rf public || exit 0
+  script:
+    - hugo --buildDrafts --buildFuture
+  except:
+    - master
+
+build:production:
+  stage: build
+  environment:
+    name: production
+  artifacts:
+    paths:
+      - public
+    expire_in: 10d
+  image: registry.gitlab.com/pages/hugo:latest
+  before_script:
+    - rm -rf public || exit 0
   script:
     - hugo
   only:
-  - master
+    - master
 
-deploy:
-  stage: deploy
+deploy:preview:
+  stage: preview
+  environment:
+    name: preview
   image: google/cloud-sdk:alpine
-  script:
+  before_script:
     - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
     - gcloud config set project ${GCS_PROJECT}
     - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
+  script:
+    - gsutil -m rsync -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
+  except:
+    - master
+
+deploy:production:
+  stage: deploy
+  environment:
+    name: production
+  image: google/cloud-sdk:alpine
+  before_script:
+    - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
+    - gcloud config set project ${GCS_PROJECT}
+    - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
+  script:
     - gsutil -m rsync -a public-read -d -r public gs://${CI_PROJECT_NAME}/
   only:
-  - master
+    - master
