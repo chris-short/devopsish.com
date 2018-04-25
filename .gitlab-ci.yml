@@ -14,7 +14,7 @@ test:
   script:
     - hugo
 
-build:preview:
+build-preview:
   stage: build
   environment:
     name: preview
@@ -30,7 +30,7 @@ build:preview:
   except:
     - master
 
-build:production:
+build-production:
   stage: build
   environment:
     name: production
@@ -46,7 +46,7 @@ build:production:
   only:
     - master
 
-deploy:preview:
+deploy-preview:
   stage: preview
   environment:
     name: preview
@@ -60,7 +60,7 @@ deploy:preview:
   except:
     - master
 
-deploy:production:
+deploy-production:
   stage: deploy
   environment:
     name: production
