@@ -1,0 +1,37 @@
+stages:
+  - test
+  - build
+  - deploy
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+test:
+  stage: test
+  image: registry.gitlab.com/pages/hugo:latest
+  script:
+  - hugo
+
+build:
+  stage: build
+  artifacts:
+    paths:
+      - public
+  image: registry.gitlab.com/pages/hugo:latest
+  script:
+    - hugo
+  only:
+  - master
+
+deploy:
+  stage: deploy
+  dependencies:
+    - build
+  image: google/cloud-sdk:alpine
+  script:
+    - echo -n ${GCS_TOKEN} | base64 --decode > ${GCS_TOKEN_FILE}
+    - gcloud config set project ${GCS_PROJECT}
+    - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
+    - gsutil -m rsync -a public-read -d -r public gs://devopsish.com/
+  only:
+  - master
