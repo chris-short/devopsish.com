@@ -67,7 +67,7 @@
 /tags/weekly/ / 301
 /tags/newsletter/ / 301
 /@chrisshort /about/ 301
-/archive / 301
+/archive/* / 301
 /latest / 301
 /all / 301
 
