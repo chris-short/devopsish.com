@@ -47,7 +47,7 @@ build-production:
     - master
 
 deploy-preview:
-  stage: preview
+  stage: deploy
   environment:
     name: preview
   image: google/cloud-sdk:alpine
