@@ -6,7 +6,16 @@ stages:
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-test:
+link-check:
+  stage: test
+  image: 2.4-alpine
+  before_script:
+    - rm ab-results-*
+    - gem install awesome_bot
+  script:
+    - awesome_bot
+
+compile:
   stage: test
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
