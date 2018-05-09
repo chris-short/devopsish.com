@@ -11,9 +11,8 @@ link-check:
   image: chrisshort/awesome_bot
   before_script:
     - rm ab-results-*
-    - gem install awesome_bot
   script:
-    - awesome_bot
+    - awesome_bot --allow-redirect --skip-save-results 
 
 compile:
   stage: test
