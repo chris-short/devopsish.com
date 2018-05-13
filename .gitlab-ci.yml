@@ -6,13 +6,13 @@ stages:
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-link-check:
-  stage: test
-  image: chrisshort/awesome_bot
-  before_script:
-    - rm ab-results-*
-  script:
-    - awesome_bot --allow-redirect --skip-save-results 
+#link-check:
+#  stage: test
+#  image: chrisshort/awesome_bot
+#  before_script:
+#    - rm ab-results-*
+#  script:
+#    - awesome_bot --allow-redirect --skip-save-results 
 
 compile:
   stage: test
