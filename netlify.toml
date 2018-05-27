@@ -3,18 +3,18 @@
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.40.2"
+  HUGO_VERSION = "0.41"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
   command = "hugo --buildDrafts --buildFuture"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.40.2"
+  HUGO_VERSION = "0.41"
   HUGO_ENABLEGITINFO = "true"
 
 [context.branch-deploy]
   command = "hugo --buildDrafts --buildFuture"
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.40.2"
+  HUGO_VERSION = "0.41"
   HUGO_ENABLEGITINFO = "true"
