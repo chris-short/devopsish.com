@@ -70,5 +70,6 @@
 /archive/* / 301
 /latest / 301
 /all / 301
+/trending / 301
 
 /browserconfig.xml /favicons/browserconfig.xml 302
