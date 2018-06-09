@@ -71,5 +71,7 @@
 /latest / 301
 /all / 301
 /trending / 301
+/icons/favicon-hatch-editor.ico /favicons/favicon.ico 301
+/icons/favicon-medium-editor.ico /favicons/favicon.ico 301
 
 /browserconfig.xml /favicons/browserconfig.xml 302
