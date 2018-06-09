@@ -4,7 +4,11 @@ date = 2018-03-29T19:23:00Z
 description = "Subscribe to DevOps'ish for updates on DevOps, Cloud Native, and Open Source news."
 draft = false
 slug = "newsletter"
-title = "Signup"
+title = "Newsletter"
+aliases = [
+	"signup",
+	"subscribe"
+]
 
 +++
 

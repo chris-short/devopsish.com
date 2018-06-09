@@ -6,6 +6,11 @@
   </section>
   {{ end }}
 
+  <section class="sidebar-module">
+    <h4>Newsletter</h4>
+    <a href="/newsletter/"><strong>Subscribe to DevOps'ish</strong></a> for updates on DevOps, Cloud Native, and Open Source news.
+  </section>
+
   {{ if .Site.Params.sidebar }}
       {{ partialCached "recent.html" .}}
   {{ end }}
