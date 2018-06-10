@@ -70,17 +70,14 @@
 /archive/* / 301
 /latest / 301
 /all / 301
-/trending / 301
+/trending* / 301
 /icons/favicon-hatch-editor.ico /favicons/favicon.ico 301
 /icons/favicon-medium-editor.ico /favicons/favicon.ico 301
-/media/2303ec75c889d600e5c49292f2295e9a?postId=99b8a5618673 https://twitter.com/jessfraz/status/930426418361757696 301
-/media/f5686b254b1ec8cde541ab15ff3330cc?postId=a913ad9dfa6a https://twitter.com/ashleymcnamara/status/862674035745882113 301
-/media/239453e847b9ef7f0497228ebd71594f?postId=89edb0cc703e https://medium.com/media/239453e847b9ef7f0497228ebd71594f?postId=89edb0cc703e 301
-/media/feb8855a22cf62412bdd21e65224846b?postId=4bee6dbfd01d https://medium.com/media/feb8855a22cf62412bdd21e65224846b?postId=4bee6dbfd01d 301
+/media/* https://medium.com/media/:splat 301
 /*/Comments /:splat/ 301
 /tags/tech/ /tags/ 301
 /tags/development/ /tags/ 301
 /tags/software-development/ /tags/ 301
-
+/tags/aws-lambda/ /tags/lambda/ 301
 
 /browserconfig.xml /favicons/browserconfig.xml 302
