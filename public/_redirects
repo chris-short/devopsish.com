@@ -80,6 +80,7 @@
 /*/Comments /:splat/ 301
 /tags/tech/ /tags/ 301
 /tags/development/ /tags/ 301
+/tags/software-development/ /tags/ 301
 
 
 /browserconfig.xml /favicons/browserconfig.xml 302
