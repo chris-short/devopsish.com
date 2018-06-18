@@ -51,3 +51,5 @@ DevOps'ish is a weekly newsletter covering DevOps, Cloud Native, Open Source, an
 * Intel
 * Microsoft
 * Red Hat
+
+If you are looking for other DevOps related newsletters head over to [**DevOps Newsletters**](https://devopsnewsletters.com/) for a comprehensive list.
