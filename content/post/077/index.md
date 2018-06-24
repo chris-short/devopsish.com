@@ -188,6 +188,8 @@ A healthy debate happening on my LinkedIn page (of all places) about why contain
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
 
+> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+
 ## Tweet of the Week
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">To journalist and analyst doing interviews at tech confs: don&#39;t change the conversation to from technical to D&amp;I _just_ because the interviewee is woman, minority, or PoC.</p>&mdash; Vincent Batts (@vbatts) <a href="https://twitter.com/vbatts/status/999644575659581441?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
