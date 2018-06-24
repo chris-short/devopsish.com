@@ -157,6 +157,8 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
 
+> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+
 ## Tweet of the Week
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Can I tell you how much I love it when folks like <a href="https://twitter.com/ChrisShort?ref_src=twsrc%5Etfw">@ChrisShort</a> make strong statements on diversity and inclusion?! ❤️ <a href="https://twitter.com/hashtag/devopsdaysto?src=hash&amp;ref_src=twsrc%5Etfw">#devopsdaysto</a> <a href="https://t.co/UiTQtirMXe">pic.twitter.com/UiTQtirMXe</a></p>&mdash; Emily Freeman (@editingemily) <a href="https://twitter.com/editingemily/status/1001855561963581446?ref_src=twsrc%5Etfw">May 30, 2018</a></blockquote>

@@ -171,6 +171,8 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
 As a DevOps Engineer, you'll be part of a small operations team responsible for engineering and maintaining the production infrastructure for Tivo's Advanced Search and Recommendations platform in the cloud and on-premises.
 
+> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+
 ## Tweet of the Week
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Kubernetes will solve your container orchestration problem but you don&#39;t have a container orchestration problem you have a culture problem.</p>&mdash; Czarcloudski (@pczarkowski) <a href="https://twitter.com/pczarkowski/status/1003643593729294337?ref_src=twsrc%5Etfw">June 4, 2018</a></blockquote>
