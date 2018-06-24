@@ -14,7 +14,7 @@ imagecap = "Shout out to all the penguins and southern hemisphere folks that wen
 
 +++
 
-I had a very quiet week (which explains the enormity of this week's newsletter). To give you an idea what the highlight of my week was, on Friday, I wiped two laptops, went to FedEx, and shipped them back to their owners. I'm spending the weekend between jobs resting and reseting. I will be in Raleigh the first part of the week and will finish the week at home, working for a new employer. To say I'm looking forward to getting started would be an understatement. I'm probably more excited to start this job than any other job I've ever had. Keep your eyes on [chrisshort.net](https://chrisshort.net/) for an announcement on Monday.
+I had a very quiet week (which explains the enormity of this week's newsletter). To give you an idea what the highlight of my week was, on Friday, I wiped two laptops, went to FedEx, and shipped them back to their owners. I'm spending the weekend between jobs resting and resetting. I will be in Raleigh the first part of the week and will finish the week at home, working for a new employer. To say I'm looking forward to getting started would be an understatement. I'm probably more excited to start this job than any other job I've ever had. Keep your eyes on [chrisshort.net](https://chrisshort.net/) for an announcement on Monday.
 
 [**Webinar: Continuous Delivery with Docker, Kubernetes, and GoCD**](https://info.thoughtworks.com/Continuous-Delivery-Docker-Kubernetes-webinar)  
 Docker and Kubernetes provide the platform for organizations to get software to market quickly. In this webinar, you will get a practical guide in designing a Docker-based CD pipeline on Kubernetes with GoCD. *SPONSORED*
@@ -73,7 +73,7 @@ Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Ou
 
 [It's the culture, stupid](https://www.cio.com/article/3283234/hiring-and-staffing/its-the-culture-stupid.html): If culture is why women are leaving tech, then how do we begin to change it?
 
-[CEO of struggling storage biz Tintri quits](https://www.theregister.co.uk/2018/06/19/tintri_ceo_quits/): SEC filing shows company up the creek and sans paddle. Thomas Barton resigned from his role as CEO after only three months. Tintri was [delisted from the NASDAQ on June 22](https://seekingalpha.com/article/4182301-tintri-hope-acquisition-final-days), due to trading under $1.00 for 30 consecutive calendar days. Collapse of Tintri has been described as, "[imminent](https://www.sdxcentral.com/articles/news/ttintri-collapse-imminent-as-funds-wither-stock-plunges/2018/06/)". Tintri's IPO was 2017-06-30 (less than a year ago).
+[CEO of struggling storage biz Tintri quits](https://www.theregister.co.uk/2018/06/19/tintri_ceo_quits/): SEC filing shows company up the creek and sans paddle. Thomas Barton resigned from his role as CEO after only three months. Tintri was [delisted from the NASDAQ on June 22](https://seekingalpha.com/article/4182301-tintri-hope-acquisition-final-days), due to trading under $1.00 for 30 consecutive calendar days. The collapse of Tintri has been described as, "[imminent](https://www.sdxcentral.com/articles/news/ttintri-collapse-imminent-as-funds-wither-stock-plunges/2018/06/)". Tintri's IPO was 2017-06-30 (less than a year ago).
 
 [16 blogs and newsletters to follow for DevOps practitioners](https://opensource.com/article/18/6/devops-blogs-newsletters-follow)
 Continuous learning is a tenet of DevOps. It's important to keep up with trends in this fast-paced world of technology.
@@ -162,7 +162,7 @@ Continuous learning is a tenet of DevOps. It's important to keep up with trends 
 
 [A Beginner's Guide To Firewalling with pf](http://srobb.net/pf.html): "This guide is written for the person very new to firewalling. Please realize that the sample firewall we build should not be considered appropriate for actual use."
 
-[How I use Wireshark](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/): Julia Evans breaks down how she uses Wireshark to troubleshoot real world development issues.
+[How I use Wireshark](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/): Julia Evans breaks down how she uses Wireshark to troubleshoot real-world development issues.
 
 [Accelerate large-scale applications with BOLT](https://code.facebook.com/posts/605721433136474/accelerate-large-scale-applications-with-bolt/): BOLT, a binary optimization and layout tool from Facebook.
 
@@ -174,7 +174,7 @@ Continuous learning is a tenet of DevOps. It's important to keep up with trends 
 
 [Serverless Migration Strategies: What to Know Before Making the Leap](https://thenewstack.io/serverless-migration-strategies-what-to-know-before-making-the-leap/): "There are also wrong and right ways to migrate to serverless resources. Here are a few things to keep in mind before making the leap."
 
-[DataDog/pupernetes](https://github.com/DataDog/pupernetes): Spin up a full fledged Kubernetes environment designed for local development & CI
+[DataDog/pupernetes](https://github.com/DataDog/pupernetes): Spin up a full-fledged Kubernetes environment designed for local development & CI
 
 [khlieng/dispatch](https://github.com/khlieng/dispatch): Web-based IRC client in Go.
 
@@ -200,7 +200,7 @@ The core of developer relations is community and empathy. We're looking for some
 [Product Marketer at Kickbox (REMOTE, US Only)](https://kickbox.workable.com/j/C4E099F227)  
 The core of product marketing is rooted in product promotion. It's a combination of product development and branding and plays a critical role in bringing new tech products to market. We're looking for someone to enthusiastically collect data, create developer personas and develop a marketing funnel.
 
-**NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being I'm happy to feature job postings from subscribers for free.
+**NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
 > [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
 
