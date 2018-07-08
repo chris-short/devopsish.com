@@ -8,8 +8,12 @@
 
 Created by [Chris Short](https://chrisshort.net/).
 
-Built by [Hugo](https://gohugo.io/).
+Built with [Hugo](https://gohugo.io/).
 
-Delivered by [Netlify](https://www.netlify.com/).
+Version Controlled on [GitLab](https://gitlab.com/chrisshort/devopsish.com)
+
+Stored on [Google Cloud Storage](https://cloud.google.com/storage/).
+
+Delivered by [Cloudflare](https://www.cloudflare.com/).
 
 Made in [Michigan](https://www.michigan.org/).
