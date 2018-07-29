@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Newsletter"]
 date = 2018-07-29T07:00:00Z
-description = ""
+description = "Last Chance, Kubernetes, Knative, Ansible, Google Next, and More"
 draft = false
 slug = "086"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible"]
+tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "google", "knative", "survey", "build"]
 title = "086: Last Chance, Kubernetes, Knative, Ansible, Google Next, and More"
 image = "/086/fox-86.jpg"
 imagealt = ""
