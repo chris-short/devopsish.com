@@ -1,13 +1,14 @@
 +++
 author = "Chris Short"
-date = 2018-07-08T00:58:00Z
+date = 2018-08-05T07:00:00Z
 description = "Sponsor DevOps'ish"
 draft = false
-slug = "sponsorships"
+slug = "sponsor"
 title = "Sponsor"
 aliases = [
-    "/sponsor",
-    "/sponsors"
+    "/sponsorships",
+    "/sponsors",
+    "/sponsorship"
 ]
 
 +++
@@ -24,8 +25,8 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 
 ## Stats for the DevOps'ish Newsletter
 
-* Subscribed Contacts: 1,887
-* Average open rate: 50.3%
+* Subscribed Contacts: 1,905
+* Average open rate: 50.1%
 * Average click rate: 24.8%
 
 ## Ad Format
