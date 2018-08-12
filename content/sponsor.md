@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-08-05T07:00:00Z
+date = 2018-08-12T07:00:00Z
 description = "Sponsor DevOps'ish"
 draft = false
 slug = "sponsor"
@@ -19,15 +19,15 @@ Demographic data outside of what's shared on this page for DevOps'ish subscriber
 
 ## Sponsorship Rates
 
-For a one (1) week sponsorship period, the fixed fee is **$100 USD**. Sponsors purchasing four or more weeks at a time receive a 5% discount.
+For a one (1) week sponsorship period, the fixed fee is **$200 USD**. Sponsors purchasing four or more weeks at a time receive a 5% discount.
 
 Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 
 ## Stats for the DevOps'ish Newsletter
 
-* Subscribed Contacts: 1,905
-* Average open rate: 50.1%
-* Average click rate: 24.8%
+* Subscribed Contacts: 2,004
+* Average open rate: 50.0%
+* Average click rate: 24.7%
 
 ## Ad Format
 
