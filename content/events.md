@@ -35,6 +35,10 @@ Date: 2018-10-17 (24 hours)
 Where: From your desktop, laptop, or mobile device  
 [**Free** Registration](https://www.alldaydevops.com/all-day-devops-2018-register)
 
+[#causeascene Conference - London](https://ti.to/kim.crayton.llc/causeascene-conference-London)  
+Date: 2018-10-22 tp 2018-10-23  
+#causeascene Conf is an event without borders, which is designed to be safe space for members of underrepresented and marginalized communities in tech to tell their stories. To share what they’re working on, what they’ve experienced, their tech enabled hopes and dreams. This is an opportunity for these, often sidelined and silenced, individuals to use the platform to amplify their voices, uncensored, in a very authentic manner.
+
 [Cloud Native Day Israel 2018](https://cloudnativeisrael.com)  
 Date: 2018-11-05  
 This conference is looking to be at the forefront of the cloud native revolution and this year will focus on the hottest trends such as Edge Computing, Multi-Cloud Automation, Kubernetes and containers, Serverless, IoT and more. Join us in beautiful Tel Aviv by submitting your talks or getting a ticket at: [https://www.cloudnativeisrael.com/](https://www.cloudnativeisrael.com/).
