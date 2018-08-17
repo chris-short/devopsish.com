@@ -19,6 +19,11 @@ DevOps'ish readers receive a 10% discount by using code **DEVOPSISH** at checkou
 Date: 2018-08-22 to 2018-08-23  
 It's the second year of Sensu goodness in Portland. Join us for two days of technical talks, tutorials, discussions, and hallway track conversations. Check out the speaker line-up and schedule and register to attend.
 
+[SaltConf](https://saltconf.com/)  
+Date: 2018-09-10 to 2018-09-13  
+Tuesday, 4:23pm
+SaltConf18 is a gathering designed to help systems administrators, cloud architects, enterprise IT operators, site reliability engineers, IT directors, and IT managers more effectively manage and secure data center infrastructure using SaltStack event-driven automation.  SaltConf18 will be held in downtown Salt Lake City from Sept. 10–13 at the the Salt Palace Convention Center.  Group discounts and diversity scholarships are both still available. SaltConf18 is the fifth annual SaltStack user conference and the absolute best way to get your full dose of Salt.
+
 [DevOpsDays Boston 2018](https://www.devopsdays.org/events/2018-boston/welcome/)  
 Date: 2018-09-24 to 2018-09-25  
 
@@ -26,7 +31,7 @@ Date: 2018-09-24 to 2018-09-25
 Date: 2018-09-28  
 Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP AWS, who called 2018 "The year of #chaosengineering". Closing out the night will be Jessie Frazelle, one of the top #containers experts on the planet currently at Microsoft.
 
-[AnsibleFest 2018](https://www.ansible.com/ansiblefest)  
+[**AnsibleFest 2018**](https://www.ansible.com/ansiblefest)  
 Date: 2018-10-02 to 2018-10-03  
 AnsibleFest is the annual user conference for the Ansible community and Red Hat Ansible Automation users. For the first time, we've expanded to two-days, jam-packed with content covering all aspects of IT automation, whether you're just getting started or already an advanced automation professional.
 
