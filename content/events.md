@@ -8,16 +8,11 @@ title = "Events"
 
 +++
 
+## [Diversity Tickets](https://diversitytickets.org/)
+
+We help events reach a more diverse audience. And we help you to find these events. Because diversity is what makes communities whole. Learn more at [https://diversitytickets.org/](https://diversitytickets.org/)
+
 > [**Subscribe to DevOps'ish**](https://devopsi.sh/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
-
-[REdeploy](https://re-deploy.io/)  
-Date: 2018-08-16 to 2018-08-17  
-We're here to explore what it really means to build solid, sustainable infrastructures—not only for our code, but for our organizations and people as well. We all know that we care about the technology, but it's becoming increasingly clear that we need to consider the impact that these choices have on the people responsible for the technology as well.  
-DevOps'ish readers receive a 10% discount by using code **DEVOPSISH** at checkout
-
-[Sensu Summit](https://sensu.io/summit)  
-Date: 2018-08-22 to 2018-08-23  
-It's the second year of Sensu goodness in Portland. Join us for two days of technical talks, tutorials, discussions, and hallway track conversations. Check out the speaker line-up and schedule and register to attend.
 
 [SaltConf](https://saltconf.com/)  
 Date: 2018-09-10 to 2018-09-13  
