@@ -14,6 +14,10 @@ We help events reach a more diverse audience. And we help you to find these even
 
 > [**Subscribe to DevOps'ish**](https://devopsi.sh/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
 
+[Grand Rapids Red Hat User Group](https://www.meetup.com/Grand-Rapids-RHUG/events/253614873/)  
+Date: 2018-09-12  
+Spend time with other programmers, architects, and systems administrators who are using Open Source technologies in business critical environments! Beer, Networking, Open Source. Red Hat. Are your JEE apps cloud ready? We are also going to have a contest for some cool Red Hat SWAG. So bring your own laptop and JEE .ear file and we'll run it against our migration tool. Most story points will win some cool Red Hat SWAG.
+
 [SaltConf](https://saltconf.com/)  
 Date: 2018-09-10 to 2018-09-13  
 Tuesday, 4:23pm
