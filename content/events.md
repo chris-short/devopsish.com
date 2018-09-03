@@ -35,6 +35,11 @@ Date: 2018-09-24 to 2018-09-25
 Date: 2018-09-28  
 Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP AWS, who called 2018 "The year of #chaosengineering". Closing out the night will be Jessie Frazelle, one of the top #containers experts on the planet currently at Microsoft.
 
+[Tammy Butow. Alice Goldfuss. Bridget Kromhout. And you?](https://www.oreilly.com/pub/cpc/167269)  
+The O’Reilly Velocity Conference is returning to New York City, | September 30 - October 3—and the speaker lineup is bigger than ever. You'll learn from experts and practitioners like Tammy Butow (Principle SRE, Gremlin), Alice Goldfuss (Site Reliability Engineer, GitHub), Bridget Kromhout (Principal Cloud Developer Advocate, Microsoft), plus another 73 experts and thought leaders. And that's just the speakers. Velocity attendees are a pretty fascinating bunch, too. Don't miss this unique opportunity to discuss the latest in DevOps, Systems Engineering, and Infrastructure with those working on the front lines.
+
+Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *SPONSORED*
+
 [**AnsibleFest 2018**](https://www.ansible.com/ansiblefest)  
 Date: 2018-10-02 to 2018-10-03  
 AnsibleFest is the annual user conference for the Ansible community and Red Hat Ansible Automation users. For the first time, we've expanded to two-days, jam-packed with content covering all aspects of IT automation, whether you're just getting started or already an advanced automation professional.
