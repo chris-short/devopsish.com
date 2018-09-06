@@ -8,15 +8,16 @@
 
   <section class="sidebar-module">
     <h4>Newsletter</h4>
-    <a href="/newsletter/"><strong>Subscribe to DevOps'ish</strong></a> for updates on DevOps, Cloud Native, and Open Source news.
+    <a href="/newsletter/"><strong>Subscribe to DevOps'ish</strong></a> for updates on DevOps, Cloud Native, and Open
+    Source news.
   </section>
-  
+
   <section class="sidebar-module">
-    <a href="https://www.oreilly.com/pub/cpc/166966"><img src="https://www.oreilly.com/partner_file/orm_partner_meerkats_125x125.png" /></a>
+    <a href="https://www.oreilly.com/pub/cpc/166966"><img src="https://devopsish.com/img/partners/orm_partner_meerkats_125x125.png" /></a>
   </section>
 
   {{ if .Site.Params.sidebar }}
-      {{ partialCached "recent.html" .}}
+  {{ partialCached "recent.html" .}}
   {{ end }}
 
   {{ with .Site.Menus.sidebar }}
@@ -32,14 +33,14 @@
 
   <section class="sidebar-module">
     <h4>Social</h4>
-      <a href="https://twitter.com/ChrisShort" title="Chris Short on Twitter"><span class="fa fa-twitter fa-lg"></span></a>&nbsp;
-      <a href="https://www.facebook.com/devopsish/" title="DevOps'ish on Facebook"><span class="fa fa-facebook fa-lg"></span></a>&nbsp;
-      <a href="https://linkedin.com/in/thechrisshort/" title="Chris Short on LinkedIn"><span class="fa fa-linkedin fa-lg"></span></a>&nbsp;
-      <a href="https://gitlab.com/chrisshort" title="Chris Short on GitLab"><span class="fa fa-gitlab fa-lg"></span></a>&nbsp;
-      <a href="https://github.com/chris-short" title="Chris Short on GitHub"><span class="fa fa-github fa-lg"></span></a>&nbsp;
-      <a href="/index.xml" title="DevOps'ish via RSS"><span class="fa fa-rss fa-lg"></span></a>&nbsp;
-      <a href="mailto:chris@devopsish.com" title="Chris Short via E-mail"><span class="fa fa-envelope fa-lg"></span></a>&nbsp;
-  </section>    
+    <a href="https://twitter.com/ChrisShort" title="Chris Short on Twitter"><span class="fa fa-twitter fa-lg"></span></a>&nbsp;
+    <a href="https://www.facebook.com/devopsish/" title="DevOps'ish on Facebook"><span class="fa fa-facebook fa-lg"></span></a>&nbsp;
+    <a href="https://linkedin.com/in/thechrisshort/" title="Chris Short on LinkedIn"><span class="fa fa-linkedin fa-lg"></span></a>&nbsp;
+    <a href="https://gitlab.com/chrisshort" title="Chris Short on GitLab"><span class="fa fa-gitlab fa-lg"></span></a>&nbsp;
+    <a href="https://github.com/chris-short" title="Chris Short on GitHub"><span class="fa fa-github fa-lg"></span></a>&nbsp;
+    <a href="/index.xml" title="DevOps'ish via RSS"><span class="fa fa-rss fa-lg"></span></a>&nbsp;
+    <a href="mailto:chris@devopsish.com" title="Chris Short via E-mail"><span class="fa fa-envelope fa-lg"></span></a>&nbsp;
+  </section>
 </aside><!-- /.blog-sidebar -->
 
 {{- /* vim: set ts=2 sw=2 et: */}}
