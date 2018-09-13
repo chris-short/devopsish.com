@@ -1,19 +1,36 @@
 <aside class="col-sm-3 ml-auto blog-sidebar">
+
+  <section class="sidebar-module">
+    <p>
+      <a href="/"><img src="/img/DevOpsish.svg" /></a>
+    </p>
+  </section>
+
   {{ if and (.Site.Params.sidebar) (isset .Site.Params.sidebar "about") }}
   <section class="sidebar-module sidebar-module-inset">
     <h4>{{ i18n "about" }}</h4>
     <p>{{ .Site.Params.sidebar.about | markdownify }}</p>
+
+    <h4>Newsletter</h4>
+    <p><a href="/newsletter/"><strong>Subscribe to DevOps'ish</strong></a> for updates on DevOps, Cloud Native, and
+      Open Source news.</p>
   </section>
   {{ end }}
 
   <section class="sidebar-module">
-    <h4>Newsletter</h4>
-    <a href="/newsletter/"><strong>Subscribe to DevOps'ish</strong></a> for updates on DevOps, Cloud Native, and Open
-    Source news.
+    <a href="https://www.oreilly.com/pub/cpc/166966"><img src="https://devopsish.com/img/partners/orm_partner_meerkats_125x125.png" /></a>
   </section>
 
   <section class="sidebar-module">
-    <a href="https://www.oreilly.com/pub/cpc/166966"><img src="https://devopsish.com/img/partners/orm_partner_meerkats_125x125.png" /></a>
+    <h4>Social</h4>
+    <p><a href="https://twitter.com/ChrisShort" title="Chris Short on Twitter"><span class="fa fa-twitter fa-lg"></span></a>&nbsp;
+      <a href="https://www.facebook.com/devopsish/" title="DevOps'ish on Facebook"><span class="fa fa-facebook fa-lg"></span></a>&nbsp;
+      <a href="https://t.me/devopsish" title="DevOps'ish on Telegram"><span class="fa fa-telegram fa-lg"></span></a>&nbsp;
+      <a href="https://linkedin.com/in/thechrisshort/" title="Chris Short on LinkedIn"><span class="fa fa-linkedin fa-lg"></span></a>&nbsp;
+      <a href="https://gitlab.com/chrisshort" title="Chris Short on GitLab"><span class="fa fa-gitlab fa-lg"></span></a>&nbsp;
+      <a href="https://github.com/chris-short" title="Chris Short on GitHub"><span class="fa fa-github fa-lg"></span></a>&nbsp;
+      <a href="/index.xml" title="DevOps'ish via RSS"><span class="fa fa-rss fa-lg"></span></a>&nbsp;
+      <a href="mailto:chris@devopsish.com" title="Chris Short via E-mail"><span class="fa fa-envelope fa-lg"></span></a></p>
   </section>
 
   {{ if .Site.Params.sidebar }}
@@ -30,18 +47,6 @@
     </ol>
   </section>
   {{ end }}
-
-  <section class="sidebar-module">
-    <h4>Social</h4>
-    <a href="https://twitter.com/ChrisShort" title="Chris Short on Twitter"><span class="fa fa-twitter fa-lg"></span></a>&nbsp;
-    <a href="https://www.facebook.com/devopsish/" title="DevOps'ish on Facebook"><span class="fa fa-facebook fa-lg"></span></a>&nbsp;
-    <a href="https://t.me/devopsish" title="DevOps'ish on Telegram"><span class="fa fa-telegram fa-lg"></span></a>&nbsp;
-    <a href="https://linkedin.com/in/thechrisshort/" title="Chris Short on LinkedIn"><span class="fa fa-linkedin fa-lg"></span></a>&nbsp;
-    <a href="https://gitlab.com/chrisshort" title="Chris Short on GitLab"><span class="fa fa-gitlab fa-lg"></span></a>&nbsp;
-    <a href="https://github.com/chris-short" title="Chris Short on GitHub"><span class="fa fa-github fa-lg"></span></a>&nbsp;
-    <a href="/index.xml" title="DevOps'ish via RSS"><span class="fa fa-rss fa-lg"></span></a>&nbsp;
-    <a href="mailto:chris@devopsish.com" title="Chris Short via E-mail"><span class="fa fa-envelope fa-lg"></span></a>&nbsp;
-  </section>
 </aside><!-- /.blog-sidebar -->
 
 {{- /* vim: set ts=2 sw=2 et: */}}

@@ -8,25 +8,11 @@ title = "Events"
 
 +++
 
-## [Diversity Tickets](https://diversitytickets.org/)
-
-We help events reach a more diverse audience. And we help you to find these events. Because diversity is what makes communities whole. Learn more at [https://diversitytickets.org/](https://diversitytickets.org/)
-
 > [**Subscribe to DevOps'ish**](https://devopsi.sh/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
 
-[Grand Rapids Red Hat User Group](https://www.meetup.com/Grand-Rapids-RHUG/events/253614873/)  
-Date: 2018-09-12  
-Spend time with other programmers, architects, and systems administrators who are using Open Source technologies in business critical environments! Beer, Networking, Open Source. Red Hat. Are your JEE apps cloud ready? We are also going to have a contest for some cool Red Hat SWAG. So bring your own laptop and JEE .ear file and we'll run it against our migration tool. Most story points will win some cool Red Hat SWAG.
+#### [**Diversity Tickets**](https://diversitytickets.org/)
 
-[Fastly presents Altitude San Francisco](https://www.fastly.com/altitude/2018/san-francisco)  
-Date: 2018-09-12 to 2018-09-13  
-Join Fastly for its flagship 2-day event in San Francisco and learn about the future of edge computing, cloud networking, and serverless.
-
-
-[SaltConf](https://saltconf.com/)  
-Date: 2018-09-10 to 2018-09-13  
-Tuesday, 4:23pm
-SaltConf18 is a gathering designed to help systems administrators, cloud architects, enterprise IT operators, site reliability engineers, IT directors, and IT managers more effectively manage and secure data center infrastructure using SaltStack event-driven automation.  SaltConf18 will be held in downtown Salt Lake City from Sept. 10–13 at the the Salt Palace Convention Center.  Group discounts and diversity scholarships are both still available. SaltConf18 is the fifth annual SaltStack user conference and the absolute best way to get your full dose of Salt.
+We help events reach a more diverse audience. And we help you to find these events. Because diversity is what makes communities whole. Learn more at [https://diversitytickets.org/](https://diversitytickets.org/)
 
 [DevOpsDays Boston 2018](https://www.devopsdays.org/events/2018-boston/welcome/)  
 Date: 2018-09-24 to 2018-09-25  
@@ -49,9 +35,9 @@ Date: 2018-10-17 (24 hours)
 Where: From your desktop, laptop, or mobile device  
 [**Free** Registration](https://www.alldaydevops.com/all-day-devops-2018-register)
 
-[#causeascene Conference - London](https://ti.to/kim.crayton.llc/causeascene-conference-London)  
+[\#causeascene Conference - London](https://ti.to/kim.crayton.llc/causeascene-conference-London)  
 Date: 2018-10-22 tp 2018-10-23  
-#causeascene Conf is an event without borders, which is designed to be safe space for members of underrepresented and marginalized communities in tech to tell their stories. To share what they’re working on, what they’ve experienced, their tech enabled hopes and dreams. This is an opportunity for these, often sidelined and silenced, individuals to use the platform to amplify their voices, uncensored, in a very authentic manner.
+\#causeascene Conf is an event without borders, which is designed to be safe space for members of underrepresented and marginalized communities in tech to tell their stories. To share what they’re working on, what they’ve experienced, their tech enabled hopes and dreams. This is an opportunity for these, often sidelined and silenced, individuals to use the platform to amplify their voices, uncensored, in a very authentic manner.
 
 [Cloud Native Day Israel 2018](https://cloudnativeisrael.com)  
 Date: 2018-11-05  
