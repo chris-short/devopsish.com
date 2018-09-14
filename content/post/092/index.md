@@ -2,10 +2,10 @@
 
 author = "Chris Short"
 categories = ["Newsletter"]
-date = 2018-09-09T07:00:00Z
-description =""
+date = 2018-09-16T07:00:00Z
+description ="Kubernetes, Musk, Dorsey, Go, Blame, Serverless, and More"
 draft = false
-slug = "092"
+slug = "093"
 tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "infrastructure", "Elon Musk", "Jack Dorsey", "serverless"]
 title = "092: Kubernetes, Musk, Dorsey, Go, Blame, Serverless, and More"
 
