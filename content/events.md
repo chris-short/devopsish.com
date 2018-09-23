@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-09-25T07:00:00Z
+date = 2018-09-23T07:00:00Z
 description = "DevOps, Cloud Native, and Open Source Events"
 draft = false
 slug = "events"
