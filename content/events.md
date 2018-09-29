@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-09-23T07:00:00Z
+date = 2018-09-29T07:00:00Z
 description = "DevOps, Cloud Native, and Open Source Events"
 draft = false
 slug = "events"
@@ -13,13 +13,6 @@ title = "Events"
 #### [**Diversity Tickets**](https://diversitytickets.org/)
 
 We help events reach a more diverse audience. And we help you to find these events. Because diversity is what makes communities whole. Learn more at [https://diversitytickets.org/](https://diversitytickets.org/)
-
-[DevOpsDays Boston 2018](https://www.devopsdays.org/events/2018-boston/welcome/)  
-Date: 2018-09-24 to 2018-09-25  
-
-[Chaos Conf](https://chaosconf.splashthat.com/)  
-Date: 2018-09-28  
-Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP AWS, who called 2018 "The year of #chaosengineering". Closing out the night will be Jessie Frazelle, one of the top #containers experts on the planet currently at Microsoft.
 
 [Tammy Butow. Alice Goldfuss. Bridget Kromhout. And you?](https://www.oreilly.com/pub/cpc/167269)  
 The O’Reilly Velocity Conference is returning to New York City, | September 30 - October 3—and the speaker lineup is bigger than ever. You'll learn from experts and practitioners like Tammy Butow (Principle SRE, Gremlin), Alice Goldfuss (Site Reliability Engineer, GitHub), Bridget Kromhout (Principal Cloud Developer Advocate, Microsoft), plus another 73 experts and thought leaders. And that's just the speakers. Velocity attendees are a pretty fascinating bunch, too. Don't miss this unique opportunity to discuss the latest in DevOps, Systems Engineering, and Infrastructure with those working on the front lines.
