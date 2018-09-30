@@ -34,7 +34,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [New zine: Help! I have a manager!](https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/): A new zine from Julia Evans!
 
-[The dark side of conferences](https://techcrunch.com/2018/09/28/lyft-unveils-second-annual-diversity-report/): "Like the click baity title? Nice! Now let's talk about the 'glamorous' conference life." I can definitely relate to everything in this. I don't cry myself to sleep though. That stopped long, long ago. Don't get me wrong, I'm very fortunate to be able to travel. But, I'm also fortunate enough to know I need to say no more (still).
+[The dark side of conferences](https://uxdesign.cc/the-dark-side-of-conferences-4b103143179f): "Like the click baity title? Nice! Now let's talk about the 'glamorous' conference life." I can definitely relate to everything in this. I don't cry myself to sleep though. That stopped long, long ago. Don't get me wrong, I'm very fortunate to be able to travel. But, I'm also fortunate enough to know I need to say no more (still).
 
 [Business Travel Life: Chris Short](https://www.tripit.com/blog/2018/09/business-travel-tips-chris-short.html): Coincidentally, I was profiled in a new business travel life series from TripIt this week.
 
