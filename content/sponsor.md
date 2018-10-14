@@ -25,7 +25,7 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 
 ## Stats for the DevOps'ish Newsletter
 
-* Subscribed Contacts: 2,168
+* Subscribed Contacts: 2,185
 * Average open rate: 49.4%
 * Average click rate: 24.2%
 
