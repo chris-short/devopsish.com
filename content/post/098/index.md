@@ -26,8 +26,8 @@ Want to deliver faster? Join our free webinar: Actionable Continuous Delivery Me
 [**Finally, it's time for actionable APM!**](https://raygun.com/)  
 Raygun delivers what New Relic and other APM tools can't: an intuitive and easy to use interface with unparalleled detail into app transactions. [Now available for .NET.](https://raygun.com/) *SPONSORED*
 
-[**[Webinar] Discover how to Automate an AppSec Pipeline using Docker and Serverless**](https://info.signalsciences.com/docker-serverless-automated-appsec-pipeline?utm_medium=newsletter&utm_source=devopsish)  
-With the rise of docker and serverless patterns there is a whole new suite of tools available. Discover how to get started automating appsec tooling and reporting using these new patterns. *SPONSORED*
+[**Webinar: Kubernetes and Security Crash Course**](https://info.signalsciences.com/crash-course-kubernetes-security?utm_medium=newsletter&utm_source=devopsish)  
+Kubernetes is so powerful, it sometimes seems like magic. However, if not setup correctly, it can lead to serious security issues. In this webinar, learn how to avoid these issues and unlock the full benefits of Kubernetes. *SPONSORED*
 
 <p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
