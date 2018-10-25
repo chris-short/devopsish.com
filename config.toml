@@ -1,6 +1,5 @@
 baseURL = "https://devopsish.com/"
-copyright = "[Some rights reserved](https://creativecommons.org/licenses/by-sa/4.0/) | [Terms](/terms/)"
-disableKinds = ["category", "categories"]
+copyright = "[Some rights reserved](/cc-by-sa-4.0/) | [Terms](/terms/)"
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-4498776-13"
@@ -14,6 +13,7 @@ title = "DevOps'ish"
 
 [taxonomies]
   tag = "tags"
+  category = "categories"
 
 [permalinks]
   post = ":slug/"
