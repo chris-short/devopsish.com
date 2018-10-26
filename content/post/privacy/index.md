@@ -27,6 +27,7 @@ We may also collect data about the device you're using to access our website. Th
 ### Personal information
 
 We may ask for personal information, such as your:
+
 * Name
 * Email
 
