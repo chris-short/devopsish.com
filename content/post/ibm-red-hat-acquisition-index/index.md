@@ -43,6 +43,13 @@ A one-stop shop for opinion, analysis, and/or coverage of the IBM acquistion of 
 * [Turning Blue: IBM to Acquire Red Hat](https://thenewstack.io/turning-blue-ibm-to-acquire-red-hat/) TechCrunch
 * [Analysts predict IBM's $34 billion acquisition of Red Hat could be 'game changing,' but there are still plenty of reasons to be skeptical](https://www.cnbc.com/2018/10/29/wall-street-says-ibms-red-hat-acquisition-could-be-game-changing.html) CNBC
 * [IBM sits draped over the bar at The Cloud or Bust saloon. In walks Red Hat](https://www.theregister.co.uk/2018/10/29/ibm_red_hat_analysis/) The Register
+* [We spoke with 7 insiders about IBM's $34 billion Red Hat takeover — here's how the biggest software deal of all time came together](https://www.businessinsider.com/how-ibm-and-red-hat-deal-came-together-2018-10) Business Insider
+
+### Industry
+
+* [IBM Acquires Red Hat, Now Who Does Google Buy?](https://www.cloudbees.com/blog/ibm-acquires-red-hat) CloudBees 🤮
+* [Statement on the IBM acquisition of Red Hat](https://blog.ubuntu.com/2018/10/30/statement-on-ibm-acquisition-of-red-hat) Ubuntu Blog 🙄
+* [2019 is the Year of Consolidation: Why IBM’s Deal with Red Hat is a Harbinger of Things to Come](https://www.cloudfoundry.org/blog/2019-is-the-year-of-consolidation-why-ibms-deal-with-red-hat-is-a-harbinger-of-things-to-come/) Cloud Foundry
 
 ### Blogs, Newsletters, Digital Media, etc.
 
@@ -53,14 +60,14 @@ A one-stop shop for opinion, analysis, and/or coverage of the IBM acquistion of 
 * [IBM’s acquisition of Red Hat is a pivot to growth, but many questions remain](https://siliconangle.com/2018/10/29/ibms-acquisition-red-hat-pivot-growth-many-questions-remain/) SiliconAngle
 * [How IBM’s $34B Bid for Red Hat Will Spur DevOps Adoption](https://devops.com/how-ibms-34b-bid-for-red-hat-will-spur-devops-adoption/) DevOps.com
 * [IBM Acquires Red Hat to Create DevOps Behemoth](https://devops.com/ibm-acquires-red-hat-to-create-devops-behemoth/) DevOps.com
-* [IBM Acquires Red Hat, Now Who Does Google Buy?](https://www.cloudbees.com/blog/ibm-acquires-red-hat) CloudBees 🤮
 * [IBM Hybrid Cloud Plan for Red Hat Hinges on Kubernetes](https://containerjournal.com/2018/10/30/ibm-hybrid-cloud-plan-for-red-hat-hinges-on-kubernetes/) Container Journal
-* [Statement on the IBM acquisition of Red Hat](https://blog.ubuntu.com/2018/10/30/statement-on-ibm-acquisition-of-red-hat) Ubuntu Blog 🙄
 * [Red Hat takes over IBM](https://www.cringely.com/2018/10/29/red-hat-takes-over-ibm/) I, Cringely
 * [IBM’s Old Playbook](https://stratechery.com/2018/ibms-old-playbook/) Stratechery
 * [On being acquired – a personal view](https://aliceevebob.com/2018/10/30/on-being-acquired-a-personal-view/) Mike Bursell
 * [Red Hat's Acquisition - A Triumph of Open Source](http://tomtunguz.com/redhat-ibm/) Tom Tunguz
 * [Security Implications of IBM-Red Hat Merger Unclear](https://www.darkreading.com/cloud/security-implications-of-ibm-red-hat-merger-unclear-/d/d-id/1333148) Dark Reading
 * [IBM to acquire Red Hat in $34 billion deal](https://thestack.com/cloud/2018/10/29/ibm-to-acquire-red-hat-in-34-billion-deal/) The Stack
+* [Red vs Blue, why Red Hat acquisition may revolutionise IBM](https://www.itassetmanagement.net/2018/10/30/red-vs-blue-why-red-hat-acquisition-may-revolutionise-ibm/) The ITAM Review
+* [Red Hat-IBM Acquisition: Clash of Cultures or Best of Both Worlds?](https://thenewstack.io/red-hat-ibm-acquisition-clash-of-cultures-or-best-of-both-worlds/) The New Stack
 
 Note: All links shared here have gone through the normal DevOps'ish editioral and curation process.
