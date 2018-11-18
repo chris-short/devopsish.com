@@ -144,7 +144,7 @@ A healthy debate happening on my LinkedIn page (of all places) about why contain
 
 [CalVer](http://calver.org/): CalVer is a software versioning convention that is based on your project's release calendar, instead of arbitrary numbers.
 
-> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Tweet of the Week
 

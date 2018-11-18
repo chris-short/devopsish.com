@@ -25,7 +25,7 @@ Ballerina makes it easy to write microservices that integrate APIs. TechWorld pl
 [**DevOps'ish Summer 2018 Survey**](http://devopsi.sh/survey)  
 Please complete a quick sixteen question survey to make DevOps'ish even better! It won't be the best survey you take all year. But, it'll definitely make at least one person feel better about taking the time to make it!
 
-> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Events
 
@@ -167,6 +167,8 @@ Where: From your desktop, laptop, or mobile device
 
 [The Horrors of Upgrading Etcd Beneath Kubernetes](https://gravitational.com/blog/kubernetes-and-offline-etcd-upgrades/): I have a confession to make, Etcd scares the shit out of me and this is why.
 
+{{< upscribe >}}
+
 ## Jobs
 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
@@ -186,7 +188,7 @@ The Red Hat Ansible Consulting team is looking for a Network Automation Senior C
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
-> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Tweet of the Week
 

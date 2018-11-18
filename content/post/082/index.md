@@ -27,7 +27,7 @@ Ballerina makes it easy to write microservices that integrate APIs. TechWorld pl
 [**The all-new Tower Git client for macOS & Windows has launched**](https://www.git-tower.com/?utm_source=devopsish%20newsletter&utm_medium=newsletter&utm_campaign=tower%20x%20launch&utm_content=june%202018)  
 The new version adds an extensive set of new features: from Pull Requests to Interactive Rebase, Tower gives you access to Git's powerful feature set right from your desktop. [Save 20% for a limited time only](https://www.git-tower.com/?utm_source=devopsish%20newsletter&utm_medium=newsletter&utm_campaign=tower%20x%20launch&utm_content=june%202018)!  *SPONSORED*
 
-> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Events
 
@@ -146,7 +146,7 @@ The core of product marketing is rooted in product promotion. It's a combination
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
-> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Tweet of the Week
 
