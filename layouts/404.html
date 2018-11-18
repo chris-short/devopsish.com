@@ -1,0 +1,14 @@
+{{ define "main"}}
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title">Page Not Found</h2>
+  </header>
+  <video width="480" height="270" autoplay loop>
+    <source src="{{ .Site.BaseURL }}movies/travolta-r2d2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
+  <p>Page not found. Go back <a href="{{ "/" | relURL }}">home</a>.</p>
+</article> <!-- /.blog-post -->
+
+{{ end }}

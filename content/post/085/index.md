@@ -27,7 +27,7 @@ Ballerina makes it easy to write microservices that integrate APIs. TechWorld pl
 [**DevOps'ish Summer 2018 Survey**](http://devopsi.sh/survey)  
 Please complete a sixteen question survey to make DevOps'ish even better! It won't be the best survey you take all year. But, it'll definitely make an impact on this newsletter.
 
-> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Events
 
@@ -177,7 +177,7 @@ The DevOps Engineer will play an important role in supporting the 24x7 availabil
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
-> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Tweet of the Week
 

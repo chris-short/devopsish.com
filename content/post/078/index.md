@@ -29,6 +29,8 @@ Join us to learn about the revolutions happening in communities around container
 Date: 2018-09-28  
 Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP AWS, who called 2018 "The year of #chaosengineering". Closing out the night will be Jessie Frazelle, one of the top #containers experts on the planet currently at Microsoft.
 
+{{< upscribe >}}
+
 ## People
 
 [Open sass: Ubuntu/Red Hat drama erupts at Openstack](https://www.computerworld.com.au/article/641672/open-sass-ubuntu-red-hat-drama-erupts-openstack/): "Canonical founder and part-time hobby astronaut Mark Shuttleworth opened a war of words with Red Hat on stage at Openstack last week" 🤭🤭🤭
@@ -113,7 +115,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [lucperkins/colossus](https://github.com/lucperkins/colossus): An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, and more
 
-> [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Tweet of the Week
 
