@@ -23,17 +23,6 @@ This blog series from Sheroy Marker cover the principles of CD of microservices.
 [**What's Kubernetes Doing? Datadog Knows, So You Can Too!**](https://www.datadoghq.com/monitor-kubernetes/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterKubernetes)  
 Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the performance of your entire container infrastructure at a glance and investigate issues quickly. [Start your free Datadog trial today](https://www.datadoghq.com/monitor-kubernetes/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterKubernetes) *SPONSORED*
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [Chemists discover how blue light speeds blindness](https://phys.org/news/2018-08-chemists-blue.html): Time to get some blue filter computer glasses.
@@ -51,17 +40,6 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 [DevOps lessons learned: What I wish I knew sooner](https://enterprisersproject.com/article/2018/8/devops-lessons-learned-what-i-wish-i-knew-sooner?page=1): Eight DevOps veterans share the one thing they wish they'd learned earlier in their careers. Apply their wisdom to your work.
 
 [The Obscene Coupling Known as Spaghetti Code](https://queue.acm.org/detail.cfm?ref=rss&id=3265943): Teach your junior programmers how to read code
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -96,17 +74,6 @@ The expanding role that business leaders expect from IT comes with many challeng
 
 [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics): "Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good. The ACM Code of Ethics and Professional Conduct ("the Code") expresses the conscience of the profession."
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tools
 
 [kubespray 2.6.0](https://github.com/kubernetes-incubator/kubespray/releases/tag/v2.6.0) was released this week. [Kubespray](https://github.com/kubernetes-incubator/kubespray) is an awesome project for standing up Kubernetes clusters.
@@ -133,18 +100,6 @@ The expanding role that business leaders expect from IT comes with many challeng
 
 [Kubernetes Tutorials, Resources, and Courses.](https://medium.com/@pavanbelagatti/kubernetes-tutorials-resources-and-courses-d75c0ce56401)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.” — Henry Peterosk</p>&mdash; Dave Cheney (@davecheney) <a href="https://twitter.com/davecheney/status/1028142599750578176?ref_src=twsrc%5Etfw">August 11, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1028142599750578176 >}}

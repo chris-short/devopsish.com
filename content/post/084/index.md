@@ -55,17 +55,6 @@ Date: 2018-10-17 (24 hours)
 Where: From your desktop, laptop, or mobile device  
 [**Free** Registration](https://www.alldaydevops.com/all-day-devops-2018-register)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [Employers will do almost anything to find workers to fill jobs — except pay them more](http://www.latimes.com/business/hiltzik/la-fi-hiltzik-employment-20180710-story.html): "The underlying cause of the “labor shortage” is hiding in plain sight. It's the long-term trend of funneling the gains from labor productivity not to the workforce, but to shareholders."
@@ -81,17 +70,6 @@ Where: From your desktop, laptop, or mobile device
 [Why I Won't be Speaking at OSCON](https://medium.com/@nebrius/why-i-wont-be-speaking-at-oscon-575fde0c2abd)
 
 [What a Long Strange Trip It's Been](https://medium.com/@jasonhand/what-a-long-strange-trip-its-been-3f2e035c0a89): TL;DR — [Jason Hand] is leaving VictorOps/Splunk to join Microsoft.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -127,17 +105,6 @@ Using dev test methods in the ops environment may catch potential infrastructure
 [Predict your future costs with Google Cloud Billing cost forecast](https://cloudplatform.googleblog.com/2018/07/predict-your-future-costs-with-google-cloud-billing-cost-forecast.html)
 
 [How to learn Kubernetes quickly](https://www.reddit.com/r/devops/comments/8xrthv/how_to_learn_kubernetes_quickly/): "I just got given the option to work on a kubernetes project that is in the pipeline and am wondering how I should go about learning it quickly to get up to speed on what I need to do a fairly (seemingly) simple deployment?"
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -190,17 +157,6 @@ Container management platform with built-in revision control, teamwork and CI/CD
 
 [hazbo/httpu](https://github.com/hazbo/httpu): The terminal-first http client
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Jobs
 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
@@ -224,5 +180,4 @@ The Red Hat Ansible Consulting team is looking for a Network Automation Senior C
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Startup employee: &quot;ew, why do you still use &lt;&#39;legacy&#39; technology X&gt;&quot;<br><br>Me: *slaps roof of PHP monolith* this bad boy can hold a hundred times your valuation in it</p>&mdash; Ben Ng (@_benng) <a href="https://twitter.com/_benng/status/1017790702703595520?ref_src=twsrc%5Etfw">July 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1017790702703595520 >}}

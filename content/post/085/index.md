@@ -60,17 +60,6 @@ This conference is looking to be at the forefront of the cloud native revolution
 Date: 2018-12-18 to 2018-12-19  
 As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in December) Tel Aviv for a two-day DevOps extravaganza with keynotes from Jono Bacon, Dr. Nicole Forsgren, and more as well as insightful discussions on various ways to strengthen DevOps in your organization.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [**Morning Brew**](https://www.morningbrew.com/?kid=c21e26): Our DevOps decisions aren't made in a vacuum. Having an idea about the business world around us matters. Morning Brew is an awesome daily newsletter that delivers the top business news in a way that's informative and witty. Best of all, it's free, and only takes 5 minutes to read each morning! Please, give it a try and [subscribe using my personal invite link](https://www.morningbrew.com/?kid=c21e26).
@@ -92,17 +81,6 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 [Is BDFL a death sentence?](https://opensource.com/article/18/7/bdfl): What happens when a Benevolent Dictator For Life moves on from an open source project?
 
 [5 open source principles that help DevOps teams excel](https://enterprisersproject.com/article/2018/7/5-open-source-principles-help-devops-teams-excel): From a belief in meritocracy to a focus on continuous improvement, open source culture principles can supercharge DevOps teams. CIOs can help maximize the benefits
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -138,19 +116,7 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 
 [Government’s Kaspersky Ban Takes Effect](https://www.nextgov.com/cybersecurity/2018/07/governments-kaspersky-ban-takes-effect/149758/)
 
-
 [Fastly raises another $40 million before an IPO](https://techcrunch.com/2018/07/16/fastly-raises-another-40-million-before-an-ipo/): Congrats to my Fastly peeps!
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -195,17 +161,6 @@ Some big changes happening to Ansible Galaxy. Looks like a major improvement.
 
 [rtr7/router7](https://github.com/rtr7/router7): pure-Go small home internet router
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Jobs
 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
@@ -226,5 +181,4 @@ The DevOps Engineer will play an important role in supporting the 24x7 availabil
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you don’t take the high road with regard to your industry competitors, it really makes you look worse than you’re trying to make them look. <br><br>Seriously. How hard of a concept is this?</p>&mdash; Matty McStrattyface (@mattstratton) <a href="https://twitter.com/mattstratton/status/1019643998854524928?ref_src=twsrc%5Etfw">July 18, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1019643998854524928 >}}

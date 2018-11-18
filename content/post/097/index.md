@@ -22,17 +22,6 @@ Raygun delivers what New Relic and other APM tools can't: an intuitive and easy 
 [**Sponsor DevOps'ish**](https://devopsish.com/sponsor/)  
 A new sponsor was supposed to have their ad copy here this week. But, they never sent it to me (invoice is paid and all). Maybe your company can do better?
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [I'm Leaving Google — Here's the Real Deal Behind Google Cloud](https://medium.com/@amirh1/im-leaving-google-and-here-s-the-real-deal-behind-google-cloud-1b86513be01b): The good and bad of GCP through the eyes of someone leaving Google.
@@ -48,17 +37,6 @@ A new sponsor was supposed to have their ad copy here this week. But, they never
 [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G): Amazon built a tool to speed hiring. It "learned" that most candidates were male and became biased against women.
 
 [GitLab + STEM Gems: Giving girls role models in tech](https://about.gitlab.com/2018/10/08/stem-gems-give-girls-role-models/): Meet the GitLabbers working to inspire the next generation to pursue careers in STEM.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -87,17 +65,6 @@ A new sponsor was supposed to have their ad copy here this week. But, they never
 [Netlify just got $30 million to change the way developers build websites](https://techcrunch.com/2018/10/09/netlify-just-got-30-million-to-change-the-way-developers-build-websites/): Congrats to the folks at Netlify!
 
 [BBC News disrupted by software glitch](https://www.bbc.com/news/technology-45812540): An upgrade gone wrong.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -139,18 +106,6 @@ A new sponsor was supposed to have their ad copy here this week. But, they never
 
 [Systems Monitoring: top vs Htop vs Glances](http://tech.marksblogg.com/top-htop-glances.html): "In this post I'm going to look at three popular tools often used for ad-hoc monitoring as well as look at a simplistic solution for monitoring distributed systems."
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you find yourself commenting code, this is a sign that it is not written clearly enough. Code should be self-documenting.<br><br>For the same reason, no process at work should be documented: A well-run business is its own documentation.</p>&mdash; Reginald Braithwaite (@raganwald) <a href="https://twitter.com/raganwald/status/1049716731172638722?ref_src=twsrc%5Etfw">October 9, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1049716731172638722 >}}

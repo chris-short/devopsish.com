@@ -29,17 +29,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 Date: 2018-10-02 through 2018-10-03  
 AnsibleFest is the annual user conference for the Ansible community and Red Hat Ansible Automation users. For the first time, we've expanded to two-days, jam-packed with content covering all aspects of IT automation, whether you're just getting started or already an advanced automation professional.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 ['Very Lonely.' The Unsettling Hum of Silicon Valley's Failure to Hire More Black Workers](https://www.bloomberg.com/news/articles/2018-06-08/tech-companies-still-aren-t-hiring-black-workers): Among eight large firms, the portion of black employees in technical roles has risen less than a percentage point since 2014.
@@ -55,17 +44,6 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 [IT executives! Take the lead in DevOps transformations](https://about.gitlab.com/2018/06/14/gary-gruver-interview-post/): Gary Gruver, author of "Starting and Scaling DevOps in the Enterprise," shares his thoughts on the role of executives in a DevOps transformation.
 
 [Just How Bad Is Business Travel for Your Health? Here's the Data.](https://hbr.org/2018/05/just-how-bad-is-business-travel-for-your-health-heres-the-data): Yep. Business travel is terrible for you.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -90,17 +68,6 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 [How to Prevent Your Users from Using Breached Passwords](https://developer.okta.com/blog/2018/06/11/how-to-prevent-your-users-from-using-breached-passwords): "The new NIST recommendations mean that every time a user gives you a password, it's your responsibility as a developer to check their password against a list of breached passwords and prevent the user from using a previously breached password."
 
 [How Spotify is migrating from an in-house Docker orchestration platform to Kubernetes](https://www.ciodive.com/news/how-spotify-is-migrating-from-an-in-house-docker-orchestration-platform-to/525465/): The company started small, experimenting with a few services on Kubernetes clusters then moving up to more complex workloads and self-service migration.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -131,17 +98,6 @@ Takes in a GIF, short video, or a query to the Tenor GIF API and converts it to 
 
 [Microsoft/Freeflow](https://github.com/Microsoft/Freeflow): High-performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application code/binary.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Jobs
 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
@@ -151,5 +107,4 @@ As a DevOps Engineer, you'll be part of a small operations team responsible for 
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/REeJ8Sxdpt">pic.twitter.com/REeJ8Sxdpt</a></p>&mdash; Carolyn Van Slyck (@carolynvs) <a href="https://twitter.com/carolynvs/status/1006619292987731969?ref_src=twsrc%5Etfw">June 12, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1006619292987731969 >}}

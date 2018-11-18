@@ -57,17 +57,6 @@ Date: 2018-10-17 (24 hours)
 Where: From your desktop, laptop, or mobile device  
 [**Free** Registration](https://www.alldaydevops.com/all-day-devops-2018-register)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [3 Military Behaviors That Don’t Work In The Civilian Workplace](https://taskandpurpose.com/3-military-behaviors-that-dont-work-in-the-civilian-workplace/): Number 3 took me a while to learn.
@@ -89,17 +78,6 @@ Where: From your desktop, laptop, or mobile device
 [13 must-read books to take your DevOps skills to the next level](https://opensource.com/article/18/6/13-books-devops-practitioners): This reading list includes some uncommon books to fine tune your DevOps practice.
 
 [10 IT salary negotiation do's and don'ts](https://enterprisersproject.com/article/2018/6/10-it-salary-negotiation-dos-and-donts): Get the salary you deserve for that new job. Follow this advice on how to prepare – and how to avoid mistakes
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -126,17 +104,6 @@ Where: From your desktop, laptop, or mobile device
 [Gentoo Github Organization hacked](https://archives.gentoo.org/gentoo-announce/message/dc23d48d2258e1ed91599a8091167002)
 
 [Stop Scheduling Conference Calls and Finally Commit to Videoconferencing](https://hbr.org/2018/06/stop-scheduling-conference-calls-and-finally-commit-to-videoconferencing): There is an enormous benefit to seeing who you're talking to.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -166,17 +133,6 @@ Where: From your desktop, laptop, or mobile device
 
 [Why Kubernetes is The New Application Server](https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/): "In this new containerized world, application servers are mutating into becoming more like frameworks."
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Jobs
 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
@@ -194,5 +150,4 @@ The core of product marketing is rooted in product promotion. It's a combination
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Tech debt is almost always a management problem. If you&#39;re a manager who is complaining about tech debt on your teams, take a long look in the mirror and then give them time to prioritize fixing it.</p>&mdash; Camille Fournier (@skamille) <a href="https://twitter.com/skamille/status/1012011199897141249?ref_src=twsrc%5Etfw">June 27, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1012011199897141249 >}}

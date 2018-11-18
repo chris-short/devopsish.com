@@ -30,7 +30,7 @@ We consider logs to be just another form of time series data, and we want to giv
 [**Webinar with Shannon Lietz: DevSecOps: Finding the Adversaries in Our Midst**](https://info.signalsciences.com/devsecops-finding-the-adversaries-in-our-midst-webinar?utm_medium=newsletter&utm_source=devopsish)  
 Discover how you can get greater visibility into how and where you’re being attacked, and use that visibility to build, create, and deploy sites that protect what your business cares about. *SPONSORED*
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 ## People
 
@@ -55,17 +55,6 @@ Discover how you can get greater visibility into how and where you’re being at
 [How to stand out, and get hired, at Grace Hopper Celebration](https://www.redhat.com/en/blog/how-stand-out-and-get-hired-grace-hopper-celebration) — "Here’s how to stand out when you’re trying to leave GHC with opportunities to chart your own path in technology."
 
 [This Chemical Is So Hot It Destroys Nerve Endings—in a Good Way](https://www.wired.com/story/resiniferatoxin/) — Wired stories like this give me a lot of hope. If you know  anyone working with RTX, have them give me a call. I've got some periphery nerve damage they can test.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -106,17 +95,6 @@ Discover how you can get greater visibility into how and where you’re being at
 [Corporate America's blockchain and bitcoin fever is over](https://www.axios.com/corporate-america-blockchain-bitcoin-fervor-over-fb13bc5c-81fd-4c12-8a7b-07ad107817ca.html) — S&P 500 executives are dropping blockchain buzzwords less on earnings calls and during presentations to analysts and investors. Analysts are also asking about it less.
 
 [Salesforce makes undisclosed “strategic investment” in Docker, companies will cross-sell MuleSoft and Docker Enterprise](https://www.geekwire.com/2018/salesforce-makes-undisclosed-strategic-investment-docker-companies-will-cross-sell-mulesoft-docker-enterprise/) 👀
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -163,17 +141,6 @@ Discover how you can get greater visibility into how and where you’re being at
 [SSH Agents In Depth](https://dev.to/samuyi/ssh-agents-in-depth-4116) — A deep dive into how SSH agents work including some edge cases.
 
 [Find “Toxicity/Profanity” of a comment using Google Perspective](https://dev.to/sandeshsuvarna/find-toxicityprofanity-of-a-comment-using-google-perspective-3m22) — I need this built into my brain ASAP!
-
-<p><script asyncsrc="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tweet of the Week
 

@@ -60,17 +60,6 @@ This conference is looking to be at the forefront of the cloud native revolution
 Date: 2018-12-18 to 2018-12-19  
 As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in December) Tel Aviv for a two-day DevOps extravaganza with keynotes from Jono Bacon, Dr. Nicole Forsgren, and more as well as insightful discussions on various ways to strengthen DevOps in your organization.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [Military Phrases For Use in DevOps](https://chrisshort.net/military-phrases-for-use-in-devops/): The U.S. military is known for quite a few things, including its excessive and fascinating use of acronyms, euphemisms, and colorful phrases to describe certain situations. But many of these terms are applicable to other areas of life, including many non-military jobs. These are a few phrases I think crossover between both DevOps and the armed forces.
@@ -88,17 +77,6 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 [In Collaborative Work Cultures, Women Carry More of the Weight](https://hbr.org/2018/07/in-collaborative-work-cultures-women-carry-more-of-the-weight): Women give up a ton in collaborative cultures.
 
 [A Successful CEO Shares the 2 Most Important Factors for Choosing Your Next Job](https://inkandvolt.com/2018/07/ceo-two-most-important-factors-choosing-your-next-job/): Pick a goal, not a title. Pick people, not projects.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -126,20 +104,9 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 
 [Amazon cloud revenue jumps 49 percent](https://www.cnbc.com/2018/07/26/aws-earnings-q2-2018.html): Amazon is huge and maybe that's a bad thing.
 
-[How to avoid cloud sticker shock](https://enterprisersproject.com/article/2018/7/how-avoid-cloud-sticker-shock: I usually call [Corey Quinn](https://lastweekinaws.com/) but, as usual, proper planning prevents piss poor performance.
+[How to avoid cloud sticker shock](https://enterprisersproject.com/article/2018/7/how-avoid-cloud-sticker-shock): I usually call [Corey Quinn](https://lastweekinaws.com/) but, as usual, proper planning prevents piss poor performance.
 
 [Shift Happens, Why Your Software Needs To 'Shift Left'](https://www.forbes.com/sites/adrianbridgwater/2018/07/23/shift-happens-why-your-software-needs-to-shift-left/#53f9ba217f8c): Shift left testing is defined as application and wider system testing that happens earlier in the software development lifecycle. Shift left also means moving the developer, process, technology platform, device and its connections closer to the customer and end user.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -179,17 +146,6 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 
 [Portable Cloud Programming with Go Cloud](https://blog.golang.org/go-cloud): "The Go team at Google is releasing a new open source project, Go Cloud, a library and tools for developing on the open cloud. With this project, we aim to make Go the language of choice for developers building portable cloud applications."
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Jobs
 
 [Developer Advocate at Kickbox (REMOTE, US Only)](https://kickbox.workable.com/j/3A32893ACE)  
@@ -207,5 +163,4 @@ The DevOps Engineer will play an important role in supporting the 24x7 availabil
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/kubernetesio?ref_src=twsrc%5Etfw">@kubernetesio</a> is a meteor from the heavens barreling down on the IT industry. We know it&#39;s going to change our world. The trick is surviving its impact and initial fallout. <a href="https://twitter.com/hashtag/DontBeAnITDinosaur?src=hash&amp;ref_src=twsrc%5Etfw">#DontBeAnITDinosaur</a></p>&mdash; jduncan:wheel (@jamieeduncan) <a href="https://twitter.com/jamieeduncan/status/1022104622981410816?ref_src=twsrc%5Etfw">July 25, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1022104622981410816 >}}

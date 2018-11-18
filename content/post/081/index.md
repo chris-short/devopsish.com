@@ -47,17 +47,6 @@ Date: 2018-10-17 (24 hours)
 Where: From your desktop, laptop, or mobile device  
 [**Free** Registration](https://www.alldaydevops.com/all-day-devops-2018-register)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [![Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities](/081/kim-crayton-unintended-consequences.jpg "Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities")
@@ -84,17 +73,6 @@ Continuous learning is a tenet of DevOps. It's important to keep up with trends 
 
 [Come find me in the hallway](https://medium.com/spkr/come-find-me-in-the-hallway-541e935cf3f8): As a speaker, you shouldn't be taking questions on stage after your talk.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Process
 
 [Open Hardware: Good for Your Brand, Good for Your Bottom Line](https://www.linuxjournal.com/content/open-hardware-good-your-brand-good-your-bottom-line): With the rise of IoT, we're inside a short window where "open" is a strong differentiator for hardware products. Is your company ready to take advantage of it?
@@ -120,17 +98,6 @@ Continuous learning is a tenet of DevOps. It's important to keep up with trends 
 [Facebook and Google must do more to support Wikipedia](https://www.wired.co.uk/article/wikipedia-google-youtube-facebook-support): If big tech companies are going to use Wikipedia as a resource, they should better support its important work, says the executive director of the Wikimedia Foundation
 
 [Nginx lands $43 million Series C to fuel expansion](https://techcrunch.com/2018/06/20/nginx-lands-43-million-series-c-to-fuel-expansion/): Congrats to Nginx!
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -178,17 +145,6 @@ Continuous learning is a tenet of DevOps. It's important to keep up with trends 
 
 [khlieng/dispatch](https://github.com/khlieng/dispatch): Web-based IRC client in Go.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Jobs
 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
@@ -206,5 +162,4 @@ The core of product marketing is rooted in product promotion. It's a combination
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I don't usually weigh in on this topic, but “devops” isn't the same as “continuous deployment.” <br><br>I realize they're conflated often. <br>I acknowledge it's useful for some to conflate them. <br><br>But they're not the same thing.</p>&mdash; John Allspaw (@allspaw) <a href="https://twitter.com/allspaw/status/1009600059758006273?ref_src=twsrc%5Etfw">June 21, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1009600059758006273 >}}

@@ -6,7 +6,7 @@ date = 2018-09-16T07:00:00Z
 description = "Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More"
 draft = false
 slug = "093"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "9/11"]
+tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "9-11"]
 title = "093: Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More"
 
 +++
@@ -43,17 +43,6 @@ Learn tools and techniques for: implementing security across your Kubernetes pip
 [**Cloud Native DevOps with Kubernetes**](https://www.safaribooksonline.com/library/view/cloud-native-devops/9781492040750/)  
 Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](https://devopsi.sh/telegram) will receive a free copy of [Cloud Native DevOps with Kubernetes](https://www.safaribooksonline.com/library/view/cloud-native-devops/9781492040750/) by Justin Domingus and John Arundel. *SPONSORED*
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [Love Ansible?](https://cshort.co/2CJ7QL5) We want to hear from you! Tell us how you're innovating. Tell us how you got started. What do you do with the time that Ansible helps you save?
@@ -71,17 +60,6 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 [How Companies Can Ensure Maternity Leave Doesn’t Hurt Women’s Careers](https://hbr.org/2018/09/how-companies-can-ensure-maternity-leave-doesnt-hurt-womens-careers): "Imagine that a temporary absence from your workplace could lead to 10 years of sustained high performance being forgotten."
 
 [SRE Anti-Pattern: "I Could Fix It, If I Could Get To It"](https://www.rundeck.com/blog/sre-anti-pattern-i-could-fix-it-if-i-could-get-to-it): "The common enterprise problem of disjointed access. Often the people responding to an incident are blocked from taking the required recovery actions even though they have the first-hand knowledge and experience needed to know what to do."
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -123,17 +101,6 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 
 [Building + testing open source monitoring tools](https://blog.sensu.io/building-testing-open-source-monitoring-tools): A lot of testing talk. Very useful if you've ever wondered what a standard testing business unit should be doing.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tools
 
 [DNS over TLS - Thoughts and Implementation](https://sagi.io/2018/09/dns-over-tls---thoughts-and-implementation/): In this post we’ll survey DNS over TLS, implement a client and share some thoughts!
@@ -166,19 +133,6 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 
 [jessfraz/bpfd](https://github.com/jessfraz/bpfd): Framework for running BPF programs with rules on Linux as a daemon. Container aware.
 
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m getting tired of seeing folks say writing docs is the &quot;easy&quot; way to get started contributing to <a href="https://twitter.com/hashtag/OpenSource?src=hash&amp;ref_src=twsrc%5Etfw">#OpenSource</a>.<br><br>No! Writing effectively is HARD! It requires a ton of knowledge about the project and the users!<br><br>It&#39;s still a great way to contribute, but don&#39;t diminish the effort.</p>&mdash; VM (Vicky) Brasseur (@vmbrasseur) <a href="https://twitter.com/vmbrasseur/status/1040341060029886464?ref_src=twsrc%5Etfw">September 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1040341060029886464 >}}
