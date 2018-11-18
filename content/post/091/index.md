@@ -24,17 +24,6 @@ The O’Reilly Velocity Conference is returning to New York City, | September 30
 
 Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *SPONSORED*
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [Running Windows 95 in an "app" is a dumb stunt that makes a good point](https://arstechnica.com/gadgets/2018/08/running-windows-95-in-an-app-is-a-dumb-stunt-that-makes-a-good-point/): Software piracy remains an important part of preserving our digital heritage.
@@ -46,17 +35,6 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 [Microsoft will require suppliers to offer paid parental leave](https://www.axios.com/microsoft-require-suppliers-offer-paid-parental-leave-dc573198-123c-4c51-ab78-432863003165.html): Be the change you want to see in the world. Unless you can *force* the change. Then force the change.
 
 [Advice for a new executive](https://larahogan.me/blog/advice-for-new-executive/) by Lara Hogan
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -83,17 +61,6 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 [That Time Telco Lobbyists Sent Me All Their Talking Points About Trying To Shift The Blame To Internet Companies](https://www.techdirt.com/articles/20180829/18030740541/that-time-telco-lobbyists-sent-me-all-their-talking-points-about-trying-to-shift-blame-to-internet-companies.shtml)
 
 [Open Source Program Management 2018 Survey Results](https://todogroup.org/blog/survey-2018/)
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -129,18 +96,6 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 
 [Announcing Project Athens and GopherSource for the Go community](https://open.microsoft.com/2018/08/28/announcing-project-athens-gophersource-go-community/)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Deploying a cluster <a href="https://twitter.com/hashtag/devops?src=hash&amp;ref_src=twsrc%5Etfw">#devops</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash&amp;ref_src=twsrc%5Etfw">#sysadmin</a> <a href="https://t.co/rUZKIXYluP">pic.twitter.com/rUZKIXYluP</a></p>&mdash; DevOps reactions (@devopsreact) <a href="https://twitter.com/devopsreact/status/1029414616864968704?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1029414616864968704 >}}

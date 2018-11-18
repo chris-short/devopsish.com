@@ -23,17 +23,6 @@ In systems based on microservices architecture, you have multiple services getti
 [**Kelsey Hightower and Chris Gaun on serverless and Kubernetes**](https://www.oreilly.com/pub/cpc/168517)  
 Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverless and Kubernetes, with Kelsey Hightower, developer advocate for Google Cloud Platform at Google (and co-author of Kubernetes: Up and Running), and Chris Gaun, Kubernetes product marketing manager at Mesosphere. *SPONSORED*
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 **The Linus Torvalds Apology**:
@@ -65,17 +54,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [OK, Google](https://medium.com/@nathenharvey/ok-google-95fa8617293f): Nathen goes to Google
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Process
 
 [My Notes for Certified Kubernetes Application Developer — Part 1, Core Concepts](https://medium.com/@elliot_f/my-notes-for-certified-kubernetes-application-developer-part-1-core-concepts-d1bab7bc2446): "This won't be a comprehensive view of Kubernetes, but it should give anyone reading it a solid-enough grounding to base their own studies off of."
@@ -99,17 +77,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 [Is cloud native starting to kill Hadoop? This CTO says yes](https://siliconangle.com/2018/09/20/cloud-native-starting-kill-hadoop-cto-says-yes-cubenyc/): "Yaron Haviv, founder and chief technology officer of Iguazio Systems Ltd, believes that Hadoop may be outmaneuvered in the future with other solutions."
 
 [CRI-O is now our default container runtime interface](https://kubic.opensuse.org/blog/2018-09-17-crio-default/): "We’re really excited to announce that as of today, we now officially supports the CRI-O Container Runtime Interface as our default way of interfacing with containers on your Kubic systems!"
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -157,23 +124,10 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Microsoft Highlights Kubernetes Support on Windows Server 2019](https://redmondmag.com/articles/2018/09/21/kubernetes-support-windows-server-2019.aspx): "Microsoft's No. 1 networking feature for the forthcoming Windows Server 2019 product is Kubernetes support, according to a Wednesday announcement."
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
 Two Tweets of the Week this week because Sage covers the Linus Torvalds news from her POV so well and Abby is 100% right (there's more to life than just tech and it's all connected).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thread: Linus Torvalds temporarily stepped down from the Linux kernel, and the Linux Foundation Technical Advisory Board pushed a new Code of Conduct. Can we trust them to change? I don&#39;t believe we can unless they publish transparency reports: <a href="https://t.co/JShZR8XPZg">https://t.co/JShZR8XPZg</a></p>&mdash; Sage Sharp (@_sagesharp_) <a href="https://twitter.com/_sagesharp_/status/1042769391279063040?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1042769391279063040 >}}
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;keep it to technical content/stop complaining/be professional/these things don&#39;t even happen/not all men/unfollowing bc feminism&quot; <br><br>Guess what? These issues are important: they affect our whole community. We&#39;re going to keep talking about them.<br><br>We&#39;re more than just our jobs.</p>&mdash; Abby Fuller (@abbyfuller) <a href="https://twitter.com/abbyfuller/status/1041691120332431361?ref_src=twsrc%5Etfw">September 17, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1041691120332431361 >}}

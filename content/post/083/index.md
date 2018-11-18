@@ -59,17 +59,6 @@ Date: 2018-10-17 (24 hours)
 Where: From your desktop, laptop, or mobile device  
 [**Free** Registration](https://www.alldaydevops.com/all-day-devops-2018-register)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [5 military phrases for DevOps practitioners](https://opensource.com/article/18/7/military-phrases-devops): Many of the armed forces' colorful euphemisms are equally at home in DevOps.
@@ -95,17 +84,6 @@ Where: From your desktop, laptop, or mobile device
 [Tech Career Advice from 30 Interviews](https://hackernoon.com/tech-career-advice-from-30-interviews-9c022acaad5): "We learned a lot about these folks, from how they got started, to how to get into roles likes through to how they mime typing."
 
 [Amazon poached 30 executives from Microsoft in the past 3 years — 6 times as many executives as the next lead poacher, Google](http://www.businessinsider.com/amazon-poached-30-former-microsoft-executives-2015-to-2017-vs-google-report-2018-6): The thing about this perceived issue is that Microsoft isn't the one that should be worried, Amazon is. Do you really want execs that Microsoft was willing to let go in this day and age?
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -144,17 +122,6 @@ Where: From your desktop, laptop, or mobile device
 [The advantages of an email-driven git workflow](https://drewdevault.com/2018/07/02/Email-driven-git.html): "Email is standardized, federated, well-understood, and venerable. A very large body of email-related software exists and is equally reliable and well-understood."
 
 [Top 9 Kubernetes Settings You Should Check to Optimize Security](https://containerjournal.com/2018/07/03/top-9-kubernetes-settings-you-should-check-to-optimize-security/): "Taking advantage of orchestrator security features is one of the highest-impact steps you can take to improve your security posture."
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -200,17 +167,6 @@ Where: From your desktop, laptop, or mobile device
 
 [The Horrors of Upgrading Etcd Beneath Kubernetes](https://gravitational.com/blog/kubernetes-and-offline-etcd-upgrades/): I have a confession to make, Etcd scares the shit out of me and this is why.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Jobs
 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
@@ -234,5 +190,4 @@ The Red Hat Ansible Consulting team is looking for a Network Automation Senior C
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Also if you have a junior engineer really set something on fire. <br><br>Be there for them. <br><br>During clean up share your stories and explain how recovering from your screw ups helped you become a senior. <br><br>Remember your own terror when you burned it all down and show empathy.</p>&mdash; Brendan (@SparkleOps) <a href="https://twitter.com/SparkleOps/status/1015011900508082176?ref_src=twsrc%5Etfw">July 5, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1015011900508082176 >}}

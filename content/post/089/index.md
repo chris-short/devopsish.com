@@ -22,17 +22,6 @@ Smoothly navigate between logs, metrics, and request traces for a clear view of 
 [**eBook: Building Continuous Delivery Pipelines**](https://go.weave.works/TPCS-devops-newsletter)  
 Learn the steps required to plan and implement a CD pipeline in your organization, including the benefits and best practices. [Download eBook](https://go.weave.works/TPCS-devops-newsletter) *SPONSORED*
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [Kwyn Meagher is looking for work](https://blog.kwyn.io/hireme.html): **You should hire Kwyn**. "I'm looking for a senior full-stack role on a product or developer tools team."
@@ -51,17 +40,6 @@ Planes, ships, military equipment at risk due to backdoors, vulns
 [Engineers Say "No Thanks" to Silicon Valley Recruiters, Citing Ethical Concerns](https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/engineers-say-no-thanks-to-silicon-valley-recruiters-citing-ethical-concerns): "Some engineers are turning down tech recruiters by citing concerns about corporate values." One good thing the Baby Boomers showed us is that selling your soul for work doesn't actually get you much.
 
 [An Interview with Jez Humble on Continuous Delivery, Engineering Culture, and Making Decisions](https://www.split.io/blog/jez-humble-interview-decisions-2018/)
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -92,17 +70,6 @@ Planes, ships, military equipment at risk due to backdoors, vulns
 [Logging Best Practices for Kubernetes using Elasticsearch, Fluent Bit and Kibana](https://itnext.io/logging-best-practices-for-kubernetes-using-elasticsearch-fluent-bit-and-kibana-be9b7398dfee): "There are many options for logging when building Cloud Native applications. We’ve evaluated several options and found a set of tools that work well for us."
 
 [CNCF Seeks to Advance IT Performance Monitoring with OpenMetrics Spec](https://thenewstack.io/cncf-seeks-to-advance-it-performance-monitoring-with-openmetrics-project/): "Prometheus will move to this OpenMetrics model, as will microservices-oriented monitoring software from InfluxData, Sysdig, Weave, and OpenCensus."
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -140,18 +107,6 @@ Planes, ships, military equipment at risk due to backdoors, vulns
 
 [Tutorial: How to deploy an app to production with an actual button](https://blog.github.com/2018-08-16-how-to-deploy-to-production-with-an-actual-button/)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just heard someone mention every member of the state of DevOps report except one person.  <a href="https://twitter.com/nicolefv?ref_src=twsrc%5Etfw">@nicolefv</a> doesn&#39;t get the recognition she deserves.</p>&mdash; Jamie Phillips (@phillipsj73) <a href="https://twitter.com/phillipsj73/status/1030238942744981505?ref_src=twsrc%5Etfw">August 16, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1030238942744981505 >}}

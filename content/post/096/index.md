@@ -24,17 +24,6 @@ With the rise of docker and serverless patterns there is a whole new suite of to
 
 Interested in sponsoring this newsletter? [**Sponsor DevOps'ish**](https://devopsish.com/sponsor/)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [If you're a recruiter, don't ever do this.](https://www.linkedin.com/feed/update/urn:li:activity:6452743681614106624/)
@@ -52,17 +41,6 @@ Interested in sponsoring this newsletter? [**Sponsor DevOps'ish**](https://devop
 [Golang Cafe](https://golang.cafe/): The Go Job Board With No Recruiters And Clear Salary Ranges
 
 [Setting Up Your Tech on the Assumption You'll Be Hacked](https://www.nytimes.com/2018/10/03/technology/personaltech/hacking-protection-passwords.html): Sheera Frenkel, who writes about cybersecurity for The Times, explains how she safeguards her devices, and why passwords remain a weak link for more people.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -95,17 +73,6 @@ Interested in sponsoring this newsletter? [**Sponsor DevOps'ish**](https://devop
 [Why Agile Goes Awry — and How to Fix It](https://hbr.org/2018/10/why-agile-goes-awry-and-how-to-fix-it)
 
 [Here come Wi-Fi 4, 5 and 6 in plan to simplify 802.11 networking names](https://www.cnet.com/news/wi-fi-alliance-simplifying-802-11-wireless-network-tech-names/): The Wi-Fi Alliance wants to make wireless networks easier to understand and recognize.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -155,18 +122,6 @@ Interested in sponsoring this newsletter? [**Sponsor DevOps'ish**](https://devop
 
 [Making Sense of Kubernetes RBAC and IAM Roles on GKE](https://medium.com/uptime-99/making-sense-of-kubernetes-rbac-and-iam-roles-on-gke-914131b01922)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best comment on the Linux CoC thread on Github (which is a raging trash fire) <a href="https://t.co/WQGXuxQ4Ve">pic.twitter.com/WQGXuxQ4Ve</a></p>&mdash; Coraline Ada Ehmke (@CoralineAda) <a href="https://twitter.com/CoralineAda/status/1047126974450282496?ref_src=twsrc%5Etfw">October 2, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1047126974450282496 >}}

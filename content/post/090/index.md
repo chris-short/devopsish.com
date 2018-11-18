@@ -25,17 +25,6 @@ Moving your organization to a DevOps culture isn't as simple as buying a tool. I
 [**What's Kubernetes Doing? Datadog Knows, So You Can Too!**](https://www.datadoghq.com/monitor-kubernetes/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterKubernetes)  
 Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the performance of your entire container infrastructure at a glance and investigate issues quickly. [Start your free Datadog trial today](https://www.datadoghq.com/monitor-kubernetes/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterKubernetes) *SPONSORED*
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [Artificial Intelligence Still Isn't All That Smart](https://www.bloomberg.com/view/articles/2018-08-16/smart-machines-won-t-be-ready-to-do-complex-jobs-anytime-soon): Some routine jobs might be at risk someday, but work requiring judgment seems safe.
@@ -49,17 +38,6 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 [Case Study: Can You Fix a Toxic Culture Without Firing People?](https://hbr.org/2018/08/case-study-can-you-fix-a-toxic-culture-without-firing-people)
 
 [A Brief History of DevOps, Part I: Waterfall](https://circleci.com/blog/a-brief-history-of-devops-part-i-waterfall/): "When software development was still young, engineers modeled their work on the hardware world."
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -101,17 +79,6 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 [Pentagon Amends JEDI Contract, Moves Forward Despite Protest](https://www.nextgov.com/it-modernization/2018/08/pentagon-amends-jedi-contract-moves-forward-despite-protest/150808/)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tools
 
 ["Prometheus changed how the cloud-native world thinks of data ingestion scale and how it labels monitoring & other data"](https://jaxenter.com/prometheus-cncf-interview-hartmann-148526.html)
@@ -148,7 +115,7 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 [What Stable Kernel Should I Use?](http://kroah.com/log/blog/2018/08/24/what-stable-kernel-should-i-use/): I like [Jamie Duncan](https://twitter.com/jamieeduncan/status/1033420624264347648)'s take here, "The one that's lets you sleep at night."
 
-[Getting Started With Consul & Vault in Kubernetes](view-source:https://kruschecompany.com/blog/post/hashicorp-in-kubernetes): "The implementation of Consul or Vault in Kubernetes, or Kubernetes itself is not an easy task."
+[Getting Started With Consul & Vault in Kubernetes](https://kruschecompany.com/blog/post/hashicorp-in-kubernetes): "The implementation of Consul or Vault in Kubernetes, or Kubernetes itself is not an easy task."
 
 [defionscode/stig-cli](https://github.com/defionscode/stig-cli): A CLI for perusing DISA STIG content Mac, Linux, and Windows Compatible
 
@@ -156,18 +123,6 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 [coredns/auto](https://coredns.io/plugins/auto/): auto enables serving zone data from an RFC 1035-style master file, which is automatically picked up from disk.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cultivating a diverse audience at <a href="https://twitter.com/hashtag/AnsibleFest?src=hash&amp;ref_src=twsrc%5Etfw">#AnsibleFest</a> is important to us. This year we are thrilled to offer tickets to underrepresented groups in tech. If that&#39;s you or someone you know, learn more and apply here: <a href="https://t.co/sH4Kwv3zt4">https://t.co/sH4Kwv3zt4</a></p>&mdash; Red Hat Ansible (@ansible) <a href="https://twitter.com/ansible/status/1032714604542132224?ref_src=twsrc%5Etfw">August 23, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1032714604542132224 >}}

@@ -58,17 +58,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 > If you’d like me to speak at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [opensource.com is giving away a System76 laptop](https://opensource.com/article/18/5/system76-oryx-pro-laptop-giveaway): Enter for a chance to win a brand new laptop from System76. Not just any laptop either; it's a first generation Oryx Pro!
@@ -80,17 +69,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [15 books for kids who (you want to) love Linux and open source](https://opensource.com/article/18/5/books-kids-linux-open-source): Plus, three books for babies.
 
 ['Elitist den of hate': Silicon Valley pastor decries hypocrisy of area's rich liberals](https://www.theguardian.com/technology/2018/may/22/silicon-valley-pastor-gregory-stevens-wealth-liberals): Gregory Stevens resigns after tweets about Palo Alto, slamming tech industry greed and empty social justice promises
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -119,17 +97,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [Kubernetes best practices: terminating with grace](https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-terminating-with-grace.html): "When it comes to distributed systems, handling failure is key."
 
 [Your Success with Enterprise Kubernetes Isn’t About Kubernetes](https://medium.com/google-cloud/your-success-with-enterprise-kubernetes-isnt-about-kubernetes-1c2b18dedc9): Running like Google is more than Kubernetes products or a nice UI.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -177,20 +144,8 @@ A healthy debate happening on my LinkedIn page (of all places) about why contain
 
 [CalVer](http://calver.org/): CalVer is a software versioning convention that is based on your project's release calendar, instead of arbitrary numbers.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 > [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">To journalist and analyst doing interviews at tech confs: don&#39;t change the conversation to from technical to D&amp;I _just_ because the interviewee is woman, minority, or PoC.</p>&mdash; Vincent Batts (@vbatts) <a href="https://twitter.com/vbatts/status/999644575659581441?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 999644575659581441 >}}

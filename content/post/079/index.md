@@ -31,17 +31,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 Date: 2018-10-02 through 2018-10-03  
 AnsibleFest is the annual user conference for the Ansible community and Red Hat Ansible Automation users. For the first time, we've expanded to two-days, jam-packed with content covering all aspects of IT automation, whether you're just getting started or already an advanced automation professional.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [👋 Hello, GitHub](https://natfriedman.github.io/hello/): GitHub's new CEO, Nat Friedman, colors the path forward for GitHub. Give it a read if you hated this week's introduction.
@@ -66,17 +55,6 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 
 [Live-Tweeting at Conferences by Kim McMahon](https://www.linkedin.com/pulse/live-tweeting-conferences-kim-mcmahon/): I'm trying to get better at this. But, I think I'll leave the event tweeting to the pros.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Process
 
 [GitHub Is Microsoft's $7.5 Billion Undo Button](https://www.bloomberg.com/news/articles/2018-06-06/github-is-microsoft-s-7-5-billion-undo-button): "Steve Ballmer spent years hating on open source software. Satya Nadella recognized that the service has become indispensable to programmers."
@@ -94,17 +72,6 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 [Squarespace: Gaining Productivity and Resilience with Kubernetes](https://kubernetes.io/case-studies/squarespace/): "Since Squarespace moved to Kubernetes, in conjunction with modernizing its networking stack, deployment time has been reduced by almost 85%." WOW!
 
 [Can DevOps Really Shift Everything 'To The Left'?](https://www.forbes.com/sites/jasonbloomberg/2018/06/08/can-devops-really-shift-everything-to-the-left/#68b870cbc83a)
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -155,17 +122,6 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 
 [Use Satellite 6 as an Inventory Source in Ansible Tower](https://www.ansible.com/blog/use-satellite-6-as-an-inventory-source-in-ansible-tower)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Jobs
 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
@@ -175,5 +131,4 @@ As a DevOps Engineer, you'll be part of a small operations team responsible for 
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Kubernetes will solve your container orchestration problem but you don&#39;t have a container orchestration problem you have a culture problem.</p>&mdash; Czarcloudski (@pczarkowski) <a href="https://twitter.com/pczarkowski/status/1003643593729294337?ref_src=twsrc%5Etfw">June 4, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1003643593729294337 >}}

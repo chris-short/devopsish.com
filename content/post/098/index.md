@@ -29,17 +29,6 @@ Raygun delivers what New Relic and other APM tools can't: an intuitive and easy 
 [**Webinar: Kubernetes and Security Crash Course**](https://info.signalsciences.com/crash-course-kubernetes-security?utm_medium=newsletter&utm_source=devopsish)  
 Kubernetes is so powerful, it sometimes seems like magic. However, if not setup correctly, it can lead to serious security issues. In this webinar, learn how to avoid these issues and unlock the full benefits of Kubernetes. *SPONSORED*
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [Kubernetes: Call for Outreachy mentors](https://www.outreachy.org/communities/cfp/kubernetes/): HALP
@@ -57,17 +46,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 [Survey of YC female founders on sexual coercion and assault by angel and VC investors](https://blog.ycombinator.com/survey-of-yc-female-founders-on-sexual-harassment-and-coercion-by-angel-and-vc-investors/)
 
 [Microsoft co-founder Paul Allen dead at 65 from non-Hodgkin's lymphoma](https://www.usatoday.com/story/tech/2018/10/15/microsoft-co-founder-paul-allen-dead-65/1653564002/)
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -99,17 +77,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [AWS Lambda announces service level agreement](https://aws.amazon.com/about-aws/whats-new/2018/10/aws-lambda-introduces-service-level-agreement/)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tools
 
 [socat](https://medium.com/@copyconstruct/socat-29453e9fc8a6): As taught by the brilliant Cindy Sridharan.
@@ -124,18 +91,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [Adopting Istio in Your Kubernetes Clusters](https://medium.com/uptime-99/adopting-istio-in-your-kubernetes-clusters-a3e28ed6f4b7): "Computer: Install me an Istio"
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">a public-facing job doesn&#39;t mean i&#39;m not entitled to privacy</p>&mdash; Aboogail Ghouler 👻🎃🔮 (@abbyfuller) <a href="https://twitter.com/abbyfuller/status/1052283996414062599?ref_src=twsrc%5Etfw">October 16, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1052283996414062599 >}}

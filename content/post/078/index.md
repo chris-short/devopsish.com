@@ -29,17 +29,6 @@ Join us to learn about the revolutions happening in communities around container
 Date: 2018-09-28  
 Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP AWS, who called 2018 "The year of #chaosengineering". Closing out the night will be Jessie Frazelle, one of the top #containers experts on the planet currently at Microsoft.
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [Open sass: Ubuntu/Red Hat drama erupts at Openstack](https://www.computerworld.com.au/article/641672/open-sass-ubuntu-red-hat-drama-erupts-openstack/): "Canonical founder and part-time hobby astronaut Mark Shuttleworth opened a war of words with Red Hat on stage at Openstack last week" 🤭🤭🤭
@@ -53,17 +42,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [Melinda Gates has sharp words for the VC industry: Enough with your love for 'the white guy in a hoodie'](http://www.businessinsider.com/melinda-gates-has-sharp-words-for-the-vc-industry-2018-5): We *still* have a huge problem in tech and it's going to take folks like Melinda Gates to help fix it.
 
 [Kelsey Hightower on Imposter Syndrome](http://communitypulse.io/24-imposter-syndrome/)
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -86,17 +64,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [Ops Moving At Git Pace](https://medium.com/@jaydestro/ops-moving-at-git-pace-b731d4bc3441): GitOps, y'all
 
 [Google Plans Not to Renew Its Contract for Project Maven, a Controversial Pentagon Drone AI Imaging Program](https://gizmodo.com/google-plans-not-to-renew-its-contract-for-project-mave-1826488620): Maven, the controversial program that Googlers are up in arms about, won't be getting a contract extension with Google next year. But, as [JBD and I discussed on Twitter](https://twitter.com/ChrisShort/status/996524634093817856), "The government will find someone to do this in place of Google. Imagine how crappily a defense contractor would handle this challenge. I trust Google with this task over the competition any day." Sadly, "This is a no win scenario."
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -146,20 +113,8 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [lucperkins/colossus](https://github.com/lucperkins/colossus): An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, and more
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 > [**Subscribe to DevOps'ish**](https://cshort.co/subscribe) for updates on DevOps, Cloud Native, and Open Source news.
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Can I tell you how much I love it when folks like <a href="https://twitter.com/ChrisShort?ref_src=twsrc%5Etfw">@ChrisShort</a> make strong statements on diversity and inclusion?! ❤️ <a href="https://twitter.com/hashtag/devopsdaysto?src=hash&amp;ref_src=twsrc%5Etfw">#devopsdaysto</a> <a href="https://t.co/UiTQtirMXe">pic.twitter.com/UiTQtirMXe</a></p>&mdash; Emily Freeman (@editingemily) <a href="https://twitter.com/editingemily/status/1001855561963581446?ref_src=twsrc%5Etfw">May 30, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1001855561963581446 >}}

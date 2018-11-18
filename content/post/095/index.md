@@ -19,17 +19,6 @@ In systems based on microservices architecture, you have multiple services getti
 [**Kelsey Hightower and Chris Gaun on serverless and Kubernetes**](https://www.oreilly.com/pub/cpc/168517)  
 Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverless and Kubernetes, with Kelsey Hightower, developer advocate for Google Cloud Platform at Google (and co-author of Kubernetes: Up and Running), and Chris Gaun, Kubernetes product marketing manager at Mesosphere. *SPONSORED*
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [New zine: Help! I have a manager!](https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/): A new zine from Julia Evans!
@@ -49,17 +38,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 [Managering in Terrible Times](https://larahogan.me/blog/being-a-manager-in-terrible-times/) by Lara Hogan: This week was hard for a lot of people. Lara shares what to do to be a better person to the folks you lead. As a reminder, [this is was the most clicked link](http://bit.ly/2OmzZMD) this week out of everything I've shared by over 200% (and growing).
 
 [Lyft unveils second annual diversity report](https://techcrunch.com/2018/09/28/lyft-unveils-second-annual-diversity-report/): Not bad given the rapid growth. But, still, work to be done.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -88,17 +66,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 [A Silicon Valley Start-Up That Loves the Pentagon](https://foreignpolicy.com/2018/09/26/a-silicon-valley-startup-that-loves-the-pentagon-hivemapper-dod-google/): Google may balk at military contracts, but Hivemapper founder Ariel Seidman believes working with the U.S. Defense Department can help save lives.
 
 [Former Google CEO predicts the internet will split in two  — and one part will be led by China](https://www.cnbc.com/2018/09/20/eric-schmidt-ex-google-ceo-predicts-internet-split-china.html): To be honest, I think this has already happened. While the Internet is still whole it's nearly impossible for a Chinese citizen to legally see anything outside of what China allows. Foreign businesses also can't wholly own their presence in China and must use a partner (who is likely in bed with government). This isn't a matter of if when the split occurs but whether or not that split will speed up or not.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -154,18 +121,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Amid Trump-China tariff tiff, Cisco kit prices to resellers soar up to 25%](https://www.theregister.co.uk/2018/09/25/cisco_price_rises/): The price rises Chuck Robbins warned us about are coming
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">what are we if not an aggregate of the giants we build on top of</p>&mdash; jessie frazelle (@jessfraz) <a href="https://twitter.com/jessfraz/status/1045010991216353280?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 1045010991216353280 >}}

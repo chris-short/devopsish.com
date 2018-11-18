@@ -20,17 +20,6 @@ I've never felt more comfortable telling an employer, even a person for that mat
 [**Continuous delivery on modern infrastructure - Run GoCD on Kubernetes**](https://www.gocd.org/kubernetes/?utm_campaign=Kubernetes&utm_medium=newsletter_ad&utm_source=importpython&utm_content=kubernete_lp&utm_term=)  
 Model Docker-based build workflows more effectively with our GoCD Kubernetes integration. Run GoCD natively on Kubernetes, define your build workflow and let GoCD provision and scale build infrastructure on the fly. **SPONSORED**
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## People
 
 [A public f***ing service announcement that this is not ok, and you should absolutely not do this.](https://twitter.com/abbyfuller/status/1023937990991720448): Abby Fuller took dude bros to task over their behavior. Women deserve so much better.
@@ -52,17 +41,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 [Can a culture of change improve innovation?](https://www.washingtonpost.com/sf/brand-connect/red-hat/can-a-culture-of-change-improve-innovation/) By Jim Whitehurst, president and chief executive officer, Red Hat
 
 [How to be a stronger DevOps leader: 9 tips](https://enterprisersproject.com/article/2018/7/how-be-stronger-devops-leader-9-tips): Want to lead your DevOps team to new heights? IT leaders and DevOps experts share steps to take in the realms of talent, measurement, vision, and IT culture
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -89,17 +67,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 [Observerless: The hottest new thing in monitoring you’re already doing](https://weekly.monitoring.love/library/observerless/)
 
 [DevOps At Nike: There Is No Finish Line](https://itrevolution.com/devops-at-nike/)
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -137,30 +104,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 [Multiline logs in OpenShift EFK stack](https://itnext.io/multiline-logs-in-openshift-efk-stack-7a7bda4ed055)
 
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">you shouldn&#39;t need mothers or sisters or wives or daughters to understand that women are people.  the number of tweets i get saying &quot;as a father/husband i appreciate you educating me&quot;.  you shouldn&#39;t need me.  educate yourself. respect all women, not just the ones in your life.</p>&mdash; Abby Fuller (@abbyfuller) <a href="https://twitter.com/abbyfuller/status/1024101529043849216?ref_src=twsrc%5Etfw">July 31, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- devopsish.com Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4977359089"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
+{{< tweet 1024101529043849216 >}}

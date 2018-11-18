@@ -34,7 +34,7 @@ Raygun delivers what New Relic and other APM tools can't: an intuitive and easy 
 [**Webinar: Kubernetes and Security Crash Course**](https://info.signalsciences.com/crash-course-kubernetes-security?utm_medium=newsletter&utm_source=devopsish)  
 Kubernetes is so powerful, it sometimes seems like magic. However, if not setup correctly, it can lead to serious security issues. In this webinar, learn how to avoid these issues and unlock the full benefits of Kubernetes. *SPONSORED*
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 ## People
 
@@ -57,17 +57,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 [Open Source Veterans Join source{d} as advisors](https://medium.com/sourcedtech/open-source-veterans-join-source-d-as-advisors-2b48717b1748): Wow! What a great group of folks to have on the side of [source{d}](https://sourced.tech/)
 
 [What is a site reliability engineer and why you should consider this career path](https://opensource.com/article/18/10/what-site-reliability-engineer): If you want a challenging, in-demand role that goes beyond DevOps, consider becoming an SRE.
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Process
 
@@ -92,17 +81,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 [Amazon's move off Oracle caused Prime Day outage in one of its biggest warehouses, internal report says](https://www.cnbc.com/2018/10/23/amazon-move-off-oracle-caused-prime-day-outage-in-warehouse.html): Amazon's move off Oracle's database software was the main reason for an outage in one of its biggest warehouses on Prime Day, according to internal documents obtained by CNBC.
 
 [Why IT Ticketing Systems Don’t Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tools
 
@@ -133,18 +111,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
 
 [IBM/mac-ibm-enrollment-app](https://github.com/IBM/mac-ibm-enrollment-app): The Mac@IBM enrollment app makes setting up macOS with Jamf Pro more intuitive for users and easier for IT.
-
-
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="9019534115"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
 
 ## Tweet of the Week
 
