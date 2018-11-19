@@ -1,4 +1,4 @@
-baseURL = "https://devopsish.com"
+baseURL = "https://devopsish.com/"
 copyright = "[Some rights reserved](/cc-by-sa-4.0/) | [Terms](/terms/) | [Privacy](/privacy/)"
 enableEmoji = true
 enableRobotsTXT = true
