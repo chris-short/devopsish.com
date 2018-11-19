@@ -19,6 +19,8 @@ compile:
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - rm -rf public || exit 0
+    - git submodule sync --recursive
+    - git submodule update --init --recursive
   script:
     - hugo
 
@@ -34,6 +36,8 @@ build-preview:
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - rm -rf public || exit 0
+    - git submodule sync --recursive
+    - git submodule update --init --recursive
   script:
     - hugo --buildDrafts --buildFuture --config config.preview.toml
   except:
@@ -51,6 +55,8 @@ build-production:
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - rm -rf public || exit 0
+    - git submodule sync --recursive
+    - git submodule update --init --recursive
   script:
     - hugo
   only:
