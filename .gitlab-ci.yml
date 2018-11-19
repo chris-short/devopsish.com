@@ -35,7 +35,7 @@ build-preview:
   before_script:
     - rm -rf public || exit 0
   script:
-    - hugo --buildDrafts --buildFuture
+    - hugo --buildDrafts --buildFuture --config config.preview.toml
   except:
     - master
 
