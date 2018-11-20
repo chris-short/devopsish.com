@@ -43,6 +43,8 @@ Learn tools and techniques for: implementing security across your Kubernetes pip
 [**Cloud Native DevOps with Kubernetes**](https://www.safaribooksonline.com/library/view/cloud-native-devops/9781492040750/)  
 Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](https://devopsi.sh/telegram) will receive a free copy of [Cloud Native DevOps with Kubernetes](https://www.safaribooksonline.com/library/view/cloud-native-devops/9781492040750/) by Justin Domingus and John Arundel. *SPONSORED*
 
+{{< upscribe >}}
+
 ## People
 
 [Love Ansible?](https://cshort.co/2CJ7QL5) We want to hear from you! Tell us how you're innovating. Tell us how you got started. What do you do with the time that Ansible helps you save?

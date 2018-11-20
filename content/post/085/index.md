@@ -177,8 +177,6 @@ The DevOps Engineer will play an important role in supporting the 24x7 availabil
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
-{{< upscribe >}}
-
 ## Tweet of the Week
 
 {{< tweet 1019643998854524928 >}}

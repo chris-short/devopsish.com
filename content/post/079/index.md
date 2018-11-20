@@ -21,6 +21,8 @@ The big news this week is Microsoft's acquisition of GitHub. Jim Zemlin, Executi
 [**Two Key Practices for your CI process**](https://www.gocd.org/2018/05/30/ci-microservices-feature-toggles-trunk-based-development/)  
 Trunk-based development and feature toggles are the two key practices which go a long way in implementing a robust CI process. In our new post of the CD of Microservices blog series, we'll focus on how to implement these two.  *SPONSORED*
 
+{{< upscribe >}}
+
 ## Events
 
 [Chaos Conf](https://chaosconf.splashthat.com/)  
@@ -126,8 +128,6 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
 As a DevOps Engineer, you'll be part of a small operations team responsible for engineering and maintaining the production infrastructure for Tivo's Advanced Search and Recommendations platform in the cloud and on-premises.
-
-{{< upscribe >}}
 
 ## Tweet of the Week
 

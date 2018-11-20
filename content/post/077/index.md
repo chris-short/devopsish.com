@@ -16,6 +16,8 @@ imagecap = "Chicago River from Michigan Ave Bridge after ChefConf"
 
 I have a lot to talk about this week. I'm putting sections in the introduction for ease of reading (feel free to skip parts you're not mildly interested in). Also, thank you to this week's sponsors; [**Replicated**](https://www.replicated.com/) and [**GoCD**](https://www.gocd.org/2018/05/08/continuous-delivery-microservices-test-strategy/)!
 
+{{< upscribe >}}
+
 ### ChefConf 2018
 
 The highlight of my week was being able to meet 1,400 new friends at [ChefConf](http://chefconf.chef.io/) 2018 in Chicago. If you are ever wondering how to run an amazing event, look no further than the good folks at Chef. From a speaker's perspective, I have never felt more prepared for a talk. The event itself was meticulously planned and executed. I presented my talk, *DevOps is Not War* to a standing room only audience. Thanks to the fantastic guidance from the conference's speaking coach, [Anna Boynton](http://messageglue.com/), I was able to take a forty minute talk and land it perfectly inside the twenty-minute time slot I had. The event morphed my bias of Chef from a niche tool to a formidable accompaniment of software to ease automation tasks. The messages from the keynotes were like those I've delivered to many audiences before, "You're not an X company, you're a technology company." I highly recommend adding ChefConf 2019 to your schedules as soon as it is announced.
@@ -143,8 +145,6 @@ A healthy debate happening on my LinkedIn page (of all places) about why contain
 [鯨魚水上飄的修煉 Day 4：Raspberry Pi上的Kubernetes](https://medium.com/mr-efacani-teatime/%E9%AF%A8%E9%AD%9A%E6%B0%B4%E4%B8%8A%E9%A3%84%E7%9A%84%E4%BF%AE%E7%85%89-day-4-raspberry-pi%E4%B8%8A%E7%9A%84kubernetes-b9f60cbc5517): 兩個月學習Docker & Kubernetes 的心得分享
 
 [CalVer](http://calver.org/): CalVer is a software versioning convention that is based on your project's release calendar, instead of arbitrary numbers.
-
-{{< upscribe >}}
 
 ## Tweet of the Week
 

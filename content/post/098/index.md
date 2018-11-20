@@ -29,6 +29,8 @@ Raygun delivers what New Relic and other APM tools can't: an intuitive and easy 
 [**Webinar: Kubernetes and Security Crash Course**](https://info.signalsciences.com/crash-course-kubernetes-security?utm_medium=newsletter&utm_source=devopsish)  
 Kubernetes is so powerful, it sometimes seems like magic. However, if not setup correctly, it can lead to serious security issues. In this webinar, learn how to avoid these issues and unlock the full benefits of Kubernetes. *SPONSORED*
 
+{{< upscribe >}}
+
 ## People
 
 [Kubernetes: Call for Outreachy mentors](https://www.outreachy.org/communities/cfp/kubernetes/): HALP

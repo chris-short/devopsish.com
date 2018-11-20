@@ -146,8 +146,6 @@ The core of product marketing is rooted in product promotion. It's a combination
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
-{{< upscribe >}}
-
 ## Tweet of the Week
 
 {{< tweet 1012011199897141249 >}}

@@ -22,6 +22,8 @@ Raygun delivers what New Relic and other APM tools can't: an intuitive and easy 
 [**Sponsor DevOps'ish**](https://devopsish.com/sponsor/)  
 A new sponsor was supposed to have their ad copy here this week. But, they never sent it to me (invoice is paid and all). Maybe your company can do better?
 
+{{< upscribe >}}
+
 ## People
 
 [I'm Leaving Google — Here's the Real Deal Behind Google Cloud](https://medium.com/@amirh1/im-leaving-google-and-here-s-the-real-deal-behind-google-cloud-1b86513be01b): The good and bad of GCP through the eyes of someone leaving Google.

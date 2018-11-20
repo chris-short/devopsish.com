@@ -22,6 +22,8 @@ Smoothly navigate between logs, metrics, and request traces for a clear view of 
 [**eBook: Building Continuous Delivery Pipelines**](https://go.weave.works/TPCS-devops-newsletter)  
 Learn the steps required to plan and implement a CD pipeline in your organization, including the benefits and best practices. [Download eBook](https://go.weave.works/TPCS-devops-newsletter) *SPONSORED*
 
+{{< upscribe >}}
+
 ## People
 
 [Kwyn Meagher is looking for work](https://blog.kwyn.io/hireme.html): **You should hire Kwyn**. "I'm looking for a senior full-stack role on a product or developer tools team."

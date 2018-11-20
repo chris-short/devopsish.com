@@ -22,6 +22,8 @@ Docker and Kubernetes provide the platform for organizations to get software to 
 [**Ballerina: Cloud-Native Programming Language**](http://ballerina.io/)  
 Ballerina makes it easy to write microservices that integrate APIs. TechWorld placed it as #1 in their "Top programming languages you should try". Ballerina supports modern protocols and data formats, has built-in constructs for event and stream processing, resiliency, parallel execution, and can deploy directly onto Docker and Kubernetes. *SPONSORED*
 
+{{< upscribe >}}
+
 ## Events
 
 [Kubernetes Workshop, Getting Minikube Up On Your Computer](https://www.meetup.com/Detroit-Kubernetes-Docker-all-things-Cloud-Native/events/251658852/)  
@@ -157,8 +159,6 @@ The core of developer relations is community and empathy. We're looking for some
 The core of product marketing is rooted in product promotion. It's a combination of product development and branding and plays a critical role in bringing new tech products to market. We're looking for someone to enthusiastically collect data, create developer personas and develop a marketing funnel.
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
-
-{{< upscribe >}}
 
 ## Tweet of the Week
 

@@ -18,7 +18,9 @@ I was nervous. In the past, people have found my story hard to comprehend becaus
 I've never felt more comfortable telling an employer, even a person for that matter, all the things that are going on with me. I know that my boss has my back. She might not understand every nuanced detail but she is willing to learn without prying. She's willing to ask how things are going. To make sure I'm mentally ready to tackle the things we're trying to take on. She's there if I need her. I've never felt more secure in a position than I do right now. **Psychological safety** matters a lot. I finally have it in my work life. For that, I am truly thankful.
 
 [**Continuous delivery on modern infrastructure - Run GoCD on Kubernetes**](https://www.gocd.org/kubernetes/?utm_campaign=Kubernetes&utm_medium=newsletter_ad&utm_source=importpython&utm_content=kubernete_lp&utm_term=)  
-Model Docker-based build workflows more effectively with our GoCD Kubernetes integration. Run GoCD natively on Kubernetes, define your build workflow and let GoCD provision and scale build infrastructure on the fly. **SPONSORED**
+Model Docker-based build workflows more effectively with our GoCD Kubernetes integration. Run GoCD natively on Kubernetes, define your build workflow and let GoCD provision and scale build infrastructure on the fly. *SPONSORED*
+
+{{< upscribe >}}
 
 ## People
 

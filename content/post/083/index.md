@@ -167,8 +167,6 @@ Where: From your desktop, laptop, or mobile device
 
 [The Horrors of Upgrading Etcd Beneath Kubernetes](https://gravitational.com/blog/kubernetes-and-offline-etcd-upgrades/): I have a confession to make, Etcd scares the shit out of me and this is why.
 
-{{< upscribe >}}
-
 ## Jobs
 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
@@ -187,8 +185,6 @@ The Red Hat Ansible Consulting team is looking for a Senior Ansible Automation C
 The Red Hat Ansible Consulting team is looking for a Network Automation Senior Consultant to join us. In this role, you will guide the adoption of Ansible in our key enterprise accounts, government agencies, and service provider partners. You'll develop relationships with customer engineering, development, and operations teams by aligning their requirements and use cases with the functional capabilities of our solutions. We'll need you to have a thorough working knowledge and practical experience with Ansible, as well as familiarity with Chef, Puppet, and Salt. As a Network Automation Senior Consultant, you will bring an understanding of network device automation and methodologies, tools, and how they can be applied within an organization. You'll bring together cross-functional teams working on Red Hat solutions to meet the needs of our most demanding customers. We'll need you to act as the customer's advocate to find the right solutions, and to ensure those solutions are implemented and supported in a reliable way. This is a remote position with weekly travel to client sites and can be located anywhere in the Central Region of United States within close proximity to an airport. Successful applicants must reside in a state where Red Hat is registered to do business.
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
-
-{{< upscribe >}}
 
 ## Tweet of the Week
 

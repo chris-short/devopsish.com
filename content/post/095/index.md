@@ -19,6 +19,8 @@ In systems based on microservices architecture, you have multiple services getti
 [**Kelsey Hightower and Chris Gaun on serverless and Kubernetes**](https://www.oreilly.com/pub/cpc/168517)  
 Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverless and Kubernetes, with Kelsey Hightower, developer advocate for Google Cloud Platform at Google (and co-author of Kubernetes: Up and Running), and Chris Gaun, Kubernetes product marketing manager at Mesosphere. *SPONSORED*
 
+{{< upscribe >}}
+
 ## People
 
 [New zine: Help! I have a manager!](https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/): A new zine from Julia Evans!

@@ -24,6 +24,8 @@ The O’Reilly Velocity Conference is returning to New York City, | September 30
 
 Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *SPONSORED*
 
+{{< upscribe >}}
+
 ## People
 
 [Running Windows 95 in an "app" is a dumb stunt that makes a good point](https://arstechnica.com/gadgets/2018/08/running-windows-95-in-an-app-is-a-dumb-stunt-that-makes-a-good-point/): Software piracy remains an important part of preserving our digital heritage.
