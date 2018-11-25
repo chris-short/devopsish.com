@@ -69,5 +69,6 @@ A one-stop shop for opinion, analysis, and/or coverage of the IBM acquistion of 
 * [IBM to acquire Red Hat in $34 billion deal](https://thestack.com/cloud/2018/10/29/ibm-to-acquire-red-hat-in-34-billion-deal/) The Stack
 * [Red vs Blue, why Red Hat acquisition may revolutionise IBM](https://www.itassetmanagement.net/2018/10/30/red-vs-blue-why-red-hat-acquisition-may-revolutionise-ibm/) The ITAM Review
 * [Red Hat-IBM Acquisition: Clash of Cultures or Best of Both Worlds?](https://thenewstack.io/red-hat-ibm-acquisition-clash-of-cultures-or-best-of-both-worlds/) The New Stack
+* [IBM’s acquisition of Red Hat gives it access to crown jewels: OpenShift and Ansible](https://www.computerdealernews.com/news/ibms-acquisition-of-red-hat-gives-them-access-to-crown-jewels-openshift-and-ansible/62950) Computer Dealer News
 
 Note: All links shared here have gone through the normal DevOps'ish editioral and curation process.
