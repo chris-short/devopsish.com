@@ -5,7 +5,7 @@ categories = ["Open Source"]
 date = 2018-10-30T07:00:00Z
 description = ""
 draft = true
-slug = "devopsish-sources"
+slug = "sources"
 tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security"]
 title = "DevOps'ish Sources"
 

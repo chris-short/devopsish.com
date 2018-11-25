@@ -5,9 +5,9 @@ categories = [""]
 date = 2018-11-11T07:00:00Z
 description = "Friends of DevOps'ish"
 draft = true
-slug = "friends-of-devopsish"
+slug = "friends"
 tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security"]
-title = "Friends of DevOps'ish"
+title = "Friends"
 
 +++
 
