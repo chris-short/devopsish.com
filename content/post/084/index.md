@@ -178,4 +178,5 @@ The Red Hat Ansible Consulting team is looking for a Network Automation Senior C
 
 ## Tweet of the Week
 
-{{< tweet 1017790702703595520 >}}
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Startup employee: &quot;ew, why do you still use &lt;&#39;legacy&#39; technology X&gt;&quot;<br><br>Me: *slaps roof of PHP monolith* this bad boy can hold a hundred times your valuation in it</p>&mdash; Ben Ng (@_benng) <a href="https://twitter.com/_benng/status/1017790702703595520?ref_src=twsrc%5Etfw">July 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
