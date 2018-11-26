@@ -8,8 +8,11 @@ draft = false
 slug = "054"
 tags = ["devops", "cloud native", "open source", "kubernetes", "infrastructure", "linux", "google", "containers"]
 title = "054: Kubernetes, Docker is Dead, Friend in Need, KubeCon Videos, and More!"
-image = "/img/2017/12/great-white-north.jpg"
+image = "/054/great-white-north.jpg"
 imagealt = "I have to drive south to get to Canada"
+aliases = [
+    "devopsish-054-kubernetes-docker-is-dead-friend-in-need-kubecon-videos-and-more-1011d4dd5cf0"
+]
 
 +++
 
