@@ -99,8 +99,7 @@ Where: From your desktop, laptop, or mobile device
 
 [Malware found in the Arch Linux AUR repository](https://lwn.net/Articles/759461/rss)
 
-[How an infrastructure team starts using CI/CD](https://opensource.com/article/18/7/infrastructure-team-starts-using-ci-cd): 
-Using dev test methods in the ops environment may catch potential infrastructure issues before they become problems.
+[How an infrastructure team starts using CI/CD](https://opensource.com/article/18/7/infrastructure-team-starts-using-ci-cd): Using dev test methods in the ops environment may catch potential infrastructure issues before they become problems.
 
 [Predict your future costs with Google Cloud Billing cost forecast](https://cloudplatform.googleblog.com/2018/07/predict-your-future-costs-with-google-cloud-billing-cost-forecast.html)
 
@@ -121,8 +120,7 @@ Get answers to the big questions about life, the universe, and everything else a
 
 [Packet.net Vagrant Provider](https://medium.com/@jeefy/packet-net-vagrant-provider-81e5a7c3d6f9)
 
-[Generate Kubernetes YAML Right From Your App Code](https://dzone.com/articles/yaml-less-kubernetes): 
-Learn how a new programming language, Ballerina, can compile into Docker and Kubernetes artifacts, letting you generate YAML from your microservices app code.
+[Generate Kubernetes YAML Right From Your App Code](https://dzone.com/articles/yaml-less-kubernetes): Learn how a new programming language, Ballerina, can compile into Docker and Kubernetes artifacts, letting you generate YAML from your microservices app code.
 
 [Taking Go modules for a spin](https://dave.cheney.net/2018/07/14/taking-go-modules-for-a-spin): TL;DR: When Go 1.11 ships you'll be able to download the tarball and unpack it anywhere you like. When Go 1.11 ships you'll be able to write Go modules anywhere you like.
 
@@ -148,8 +146,7 @@ Learn how a new programming language, Ballerina, can compile into Docker and Kub
 
 [kubaj/kubeauth](https://github.com/kubaj/kubeauth): Interactive CLI utility for getting Kubernetes cluster credentials.
 
-[containerum/containerum](https://github.com/containerum/containerum): 
-Container management platform with built-in revision control, teamwork and CI/CD pipelines.
+[containerum/containerum](https://github.com/containerum/containerum): Container management platform with built-in revision control, teamwork and CI/CD pipelines.
 
 [kris-nova/krex](https://github.com/kris-nova/krex): Kubernetes Resource Explorer
 
@@ -178,5 +175,4 @@ The Red Hat Ansible Consulting team is looking for a Network Automation Senior C
 
 ## Tweet of the Week
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Startup employee: &quot;ew, why do you still use &lt;&#39;legacy&#39; technology X&gt;&quot;<br><br>Me: *slaps roof of PHP monolith* this bad boy can hold a hundred times your valuation in it</p>&mdash; Ben Ng (@_benng) <a href="https://twitter.com/_benng/status/1017790702703595520?ref_src=twsrc%5Etfw">July 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{ tweet 1017790702703595520 }}

@@ -128,8 +128,7 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 
 [Getting Started with the OpenFaaS Kubernetes Operator on EKS](https://www.weave.works/blog/getting-started-with-openfaas-kubernetes-operator-on-eks): The OpenFaaS Operator comes with an extension to the Kubernetes API that allows you to manage OpenFaaS functions in a declarative manner. The operator implements a control loop that tries to match the desired state of your OpenFaaS functions, defined as a collection of custom resources, with the actual state of your cluster.
 
-[Ansible Galaxy: Doin' It Right](https://www.ansible.com/blog/ansible-galaxy-doin-it-right): 
-Some big changes happening to Ansible Galaxy. Looks like a major improvement.
+[Ansible Galaxy: Doin' It Right](https://www.ansible.com/blog/ansible-galaxy-doin-it-right): Some big changes happening to Ansible Galaxy. Looks like a major improvement.
 
 [Podman 0.7.2 released](https://medium.com/cri-o/podman-0-7-2-released-1f81cc3aacd1): "There were also two interesting features that users will be interested in: the ability to create a container with multiple networks and the podman remote client."
 

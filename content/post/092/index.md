@@ -17,8 +17,8 @@ In other news, two incredibly close and amazing friends of ours (both were in Ju
 
 They turn it into a healthy competition pitting wife (Kim) against husband (Chris). As I'm writing this, Chris is getting shellacked in the donation department. If you are able, please contribute. I will be matching confirmed contributions made by DevOps'ish readers (up to $200). Please forward your receipts to me by 2018-09-24.
 
-To Donate to Kim: https://pages.lightthenight.org/nc/Triangle18/KHaught  
-To Donate to Chris: https://pages.lightthenight.org/nc/Triangle18/CHaught
+To Donate to Kim: [https://pages.lightthenight.org/nc/Triangle18/KHaught](https://pages.lightthenight.org/nc/Triangle18/KHaught)  
+To Donate to Chris: [https://pages.lightthenight.org/nc/Triangle18/CHaught](https://pages.lightthenight.org/nc/Triangle18/CHaught)
 
 [**Continuous delivery on modern infrastructure - Run GoCD on Kubernetes**](https://www.gocd.org/kubernetes)  
 Model Docker-based build workflows more effectively with our GoCD Kubernetes integration. Run GoCD natively on Kubernetes, define your build workflow and let GoCD provision and scale build infrastructure on the fly. *SPONSORED*

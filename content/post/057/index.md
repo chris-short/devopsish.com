@@ -22,6 +22,7 @@ Is anything going on in the InfoSec arena this week? I couldn't tell. If you hav
 The blast radius of these vulnerabilities is massive. Considering that, I am making a new section of the newsletter this week dedicated to Meltdown and Spectre. The reason for this is twofold: 1) There's so much information in this space it could be a newsletter edition all by itself. 2) You might have some fatigue from these vulnerabilities. I don't want you to skip over other awesome things in the newsletter. Scroll down past Tools for the Meltdown and Spectre section. Stay vigilant, keep your eyes open for patches, and rest assured [**Linus is PISSED**](http://www.businessinsider.com/linus-torvalds-linux-inventor-is-furious-at-intel-2018-1).
 
 Two personal notes:
+
 1. I ran my first Kubernetes Community meeting this week (and it was awesome)! Kubernetes 1.10 is coming Wednesday, March 21st.
 2. I have some job news coming very soon so stay tuned to [chrisshort.net](https://chrisshort.net/).
 

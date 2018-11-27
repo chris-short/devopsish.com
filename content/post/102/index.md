@@ -114,7 +114,7 @@ Discover how you can get greater visibility into how and where you’re being at
 
 [Announcing Knative v0.2 Release](https://medium.com/knative/https-medium-com-knative-v0-2-963f276af58e) — Improved pluggability, autoscaling, stability, and performance
 
-[chris-short.ansible_role_adguard_home](https://galaxy.ansible.com/chris-short/ansible_role_adguard_home) — This Ansible Role will install AdGuard Home (https://github.com/AdguardTeam/AdGuardHome) on target system(s). This shows off some of the new features we've been working on in Ansible Galaxy too.
+[chris-short.ansible_role_adguard_home](https://galaxy.ansible.com/chris-short/ansible_role_adguard_home) — This Ansible Role will install [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) on target system(s). This shows off some of the new features we've been working on in Ansible Galaxy too.
 
 [Integrating Ansible and Red Hat Enterprise Linux 8 Beta](https://www.ansible.com/blog/integrating-ansible-and-red-hat-enterprise-linux-8-beta) — RHEL 8 represents another significant change in RHEL. Python isn't generally available by default (it's still there at /usr/libexec/platform-python).
 

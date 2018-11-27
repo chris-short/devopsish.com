@@ -28,8 +28,7 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 
 [Kwyn Meagher is looking for work](https://blog.kwyn.io/hireme.html): **You should hire Kwyn**. "I'm looking for a senior full-stack role on a product or developer tools team."
 
-[Hackers can cook you alive using 'microwave oven' sat-comms – claim](https://www.theregister.co.uk/2018/08/10/satellite_communications_microwave_oven_hacking/): 
-Planes, ships, military equipment at risk due to backdoors, vulns
+[Hackers can cook you alive using 'microwave oven' sat-comms – claim](https://www.theregister.co.uk/2018/08/10/satellite_communications_microwave_oven_hacking/): Planes, ships, military equipment at risk due to backdoors, vulns
 
 [This lifehack will change your life—if you can stand it](https://qz.com/1353399/this-lifehack-will-change-your-life-if-you-can-stand-it/): The secret to achieving excellence is disarmingly simple. You might not like it, though.
 
@@ -53,7 +52,7 @@ Planes, ships, military equipment at risk due to backdoors, vulns
 
 [GitHub goes off the Rails as Microsoft closes in](https://www.theregister.co.uk/2018/08/16/github_rails_microsoft/): Ruby shop turns to Go, Java, and Kubernetes for platform makeover
 
-[Firefighters choke on Oracle's alleged smoke-and-mirrors cloud](https://www.theregister.co.uk/2018/08/13/oracle_sued_cloud_numbers/: Pension fund cries fraud over database giant's boasts about its off-prem biz performance
+[Firefighters choke on Oracle's alleged smoke-and-mirrors cloud](https://www.theregister.co.uk/2018/08/13/oracle_sued_cloud_numbers/): Pension fund cries fraud over database giant's boasts about its off-prem biz performance
 
 [Site Reliability Engineering at New Relic](https://newrelic.com/resource/site-reliability-engineering): Philosophies, Habits, and Tools for SRE Success
 

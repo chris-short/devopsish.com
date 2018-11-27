@@ -11,7 +11,7 @@ title = "093: Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More"
 
 +++
 
-Join the DevOps'ish group on Telegram to discuss this week's latest newsletter! https://devopsi.sh/telegram
+Join the DevOps'ish group on Telegram to discuss this week's latest newsletter! [https://devopsi.sh/telegram](https://devopsi.sh/telegram)
 
 This week was REALLY hard. The past two weeks are the anniversary of the worst two week span of my life. In 2001, I was working like a dog at Langley AFB, VA. It was great work but the hours were LONG. With a normal shift, training, and other fun outside of work hours military things there was a lot going on. Then my grandmother died. Not earth shattering but it was another ratcheting up of the stress levels
 
@@ -31,8 +31,8 @@ I was going to write about [Azure DevOps](https://azure.microsoft.com/en-us/blog
 
 **Leukemia and Lymphoma Society's Light the Night 2018**  
 I will be matching confirmed contributions made by DevOps'ish readers (up to $200). Please forward your receipts to me by 2018-09-24.  
-To Donate to Kim's Team: https://pages.lightthenight.org/nc/Triangle18/KHaught  
-To Donate to Chris' Team: https://pages.lightthenight.org/nc/Triangle18/CHaught
+To Donate to Kim's Team: [https://pages.lightthenight.org/nc/Triangle18/KHaught](https://pages.lightthenight.org/nc/Triangle18/KHaught)  
+To Donate to Chris' Team: [https://pages.lightthenight.org/nc/Triangle18/CHaught](https://pages.lightthenight.org/nc/Triangle18/CHaught)
 
 [**Remediation Strategy for Continuous Delivery of Microservices**](https://www.gocd.org/2018/09/11/cd-microservices-remediation-strategy/)  
 In systems based on microservices architecture, you have multiple services getting updated frequently. How do you respond when a deployment of a service introduces instability or bugs? Sheroy Marker offers some remediation strategies [in this blog](https://www.gocd.org/2018/09/11/cd-microservices-remediation-strategy/). *SPONSORED*

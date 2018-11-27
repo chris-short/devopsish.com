@@ -104,7 +104,7 @@ Want to write for opensource.com and can't come up with a good topic? Reach out 
 
 [Exploring the Security of Helm](http://engineering.bitnami.com/articles/helm-security.html): There are several angles from which someone might try to abuse Helm/Tiller
 
-[Leader election in Kubernetes control plane](http://blog.heptio.com/leader-election-in-kubernetes-control-plane-heptioprotip-1ed9fb0f3e6d): #HeptioProTip 
+[Leader election in Kubernetes control plane](http://blog.heptio.com/leader-election-in-kubernetes-control-plane-heptioprotip-1ed9fb0f3e6d): #HeptioProTip
 
 [MongoDB gets support for multi-document ACID transactions](https://techcrunch.com/2018/02/15/mongodb-gets-support-for-multi-document-acid-transactions/): Is Mongo trying to be all things database? Has there been a realization that growth requires features? Or... Does this say something about "NoSQL"? You be the judge.
 

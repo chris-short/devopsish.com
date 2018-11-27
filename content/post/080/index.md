@@ -95,8 +95,7 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 
 [kubernetes-incubator/external-dns](https://github.com/kubernetes-incubator/external-dns): You can now use CoreDNS as an external DNS provider 👀
 
-[google/gif-for-cli](https://github.com/google/gif-for-cli): 
-Takes in a GIF, short video, or a query to the Tenor GIF API and converts it to animated ASCII art.
+[google/gif-for-cli](https://github.com/google/gif-for-cli): Takes in a GIF, short video, or a query to the Tenor GIF API and converts it to animated ASCII art.
 
 [Microsoft/Freeflow](https://github.com/Microsoft/Freeflow): High-performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application code/binary.
 

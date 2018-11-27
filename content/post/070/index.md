@@ -77,7 +77,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [DevOps as the Art and Science of Deliberate Practice](https://danielmiessler.com/blog/devops-as-the-art-and-science-of-deliberate-practice/): "Professional teams get and stay at peak performance through constant practice. And it's not just repeating the same drills over and over—it's based on continuous iterative improvement, which has multiple components."
 
-[No, seriously. Root Cause is a Fallacy.](http://willgallego.com/2018/04/02/no-seriously-root-cause-is-a-fallacy/): 
+[No, seriously. Root Cause is a Fallacy.](http://willgallego.com/2018/04/02/no-seriously-root-cause-is-a-fallacy/)
 
 [Apple Plans to Use Its Own Chips in Macs From 2020, Replacing Intel](https://www.bloomberg.com/news/articles/2018-04-02/apple-is-said-to-plan-move-from-intel-to-own-mac-chips-from-2020): I can't wait; I'm a big fan of ARM. Intel is not worth the money. Apple is doing innovative work on ARM chips. The fact my iPhone has six cores and my first generation iPad Pro can run Civilization VI with no fans is impressive. Bring on the Apple processors, please.
 

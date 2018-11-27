@@ -77,8 +77,7 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 
 ## Tools
 
-[The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.io/the-best-ci-cd-tool-for-kubernetes-doesnt-exist/): 
-"'The hardest thing about running on Kubernetes is gluing all the pieces together. You need to think more holistically about your systems and get a deep understanding of what you're working with,' said [Chris Short](https://twitter.com/ChrisShort), a DevOps consultant and CNCF ambassador."
+[The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.io/the-best-ci-cd-tool-for-kubernetes-doesnt-exist/): "'The hardest thing about running on Kubernetes is gluing all the pieces together. You need to think more holistically about your systems and get a deep understanding of what you're working with,' said [Chris Short](https://twitter.com/ChrisShort), a DevOps consultant and CNCF ambassador."
 
 [Getting started with Buildah](https://opensource.com/article/18/6/getting-started-buildah): Buildah offers a flexible, scriptable way to create lean, efficient container images using your favorite tools.
 

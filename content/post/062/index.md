@@ -37,7 +37,7 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 
 [12 emerging IT job titles with a bright future](https://enterprisersproject.com/article/2017/11/12-emerging-it-job-titles-bright-future): If you would have asked me this time last year I would have told you "DevOps Engineer" is a legit title. But, I now know that is no longer the case. If you're creating a DevOps team within a larger engineering organization you are creating silos.
 
-[Tech workers are now earning an average of $135,000 but black tech workers are getting 'shortchanged'](http://www.businessinsider.com/tech-workers-tend-to-earn-135000-depending-on-their-race-2018-2?nr_email_referer=1&utm_source=Sailthru&utm_medium=email&utm_content=10ThingsSAI&pt=385758&ct=Sailthru_BI_Newsletters&mt=8&utm_campaign=Post Blast (sai): 10 things in tech you need to know today&utm_term=10 Things In Tech You Need To Know - Engaged, Active, Passive, Disengaged): This needs to stop, folks. Show them the money!
+[Tech workers are now earning an average of $135,000 but black tech workers are getting 'shortchanged'](http://www.businessinsider.com/tech-workers-tend-to-earn-135000-depending-on-their-race-2018-2): This needs to stop, folks. Show them the money!
 
 [Career Change Into DevOps With Michael Hedgpeth, Annie Hedgpeth, And Megan Bohl (ADO102)](https://www.arresteddevops.com/career-change-into-devops/)
 
