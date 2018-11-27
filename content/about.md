@@ -5,6 +5,9 @@ description = "About DevOps'ish"
 draft = false
 slug = "about"
 title = "About"
+aliases = [
+    "@chrisshort"
+]
 
 +++
 

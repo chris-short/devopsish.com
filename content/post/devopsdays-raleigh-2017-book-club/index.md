@@ -10,6 +10,9 @@ tags = ["devops", "cloud native", "open source", "books", "infrastructure"]
 title = "DevOpsDays Raleigh 2017 Book Club"
 image = "/devopsdays-raleigh-2017-book-club/DevOpsDays-Raleigh-2017-Book-Club.jpg"
 imagealt = "DevOpsDays Raleigh 2017 Speakers and Attendees During the Book Club Open Space"
+aliases = [
+    "devopsdays-raleigh-2017-book-club-e5dccc8f7943"
+]
 
 +++
 
@@ -43,6 +46,8 @@ Attributed to Proximate Cause; and the Resulting New Understanding of Patient Sa
 [The Greatest Business Decisions of All Time: How Apple, Ford, IBM, Zappos, and others made radical choices that changed the course of business](https://smile.amazon.com/FORTUNE-Greatest-Business-Decisions-Time/dp/1603200592/) by Verne Harnish — Decisions equal success-nothing happens until one is made. Businesses make millions of decisions every day. But once in a great while a leader makes a truly game-changing decision that shifts not only the strategy of a single company but how everyone does business.
 
 [The Goal: A Process of Ongoing Improvement](https://smile.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951/) by Eliyahu M. Goldratt and Jeff Cox — Written in a fast-paced thriller style, The Goal, a gripping novel, is transforming management thinking throughout the world. It is a book to recommend to your friends in industry — even to your bosses — but not to your competitors.
+
+{{< upscribe >}}
 
 [The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't](https://smile.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202/) by Robert I. Sutton — The definitive guide to working with — and surviving — bullies, creeps, jerks, tyrants, tormentors, despots, backstabbers, egomaniacs, and all the other assholes who do their best to destroy you at work.
 

@@ -19,7 +19,7 @@ Want to deliver faster? Join our free webinar: Actionable Continuous Delivery Me
 [**Finally, it's time for actionable APM!**](https://raygun.com/)  
 Raygun delivers what New Relic and other APM tools can't: an intuitive and easy to use interface with unparalleled detail into app transactions. [Now available for .NET.](https://raygun.com/) *SPONSORED*
 
-[**Sponsor DevOps'ish**](https://devopsish.com/sponsor/)  
+[**Sponsor DevOps'ish**](/sponsor/)  
 A new sponsor was supposed to have their ad copy here this week. But, they never sent it to me (invoice is paid and all). Maybe your company can do better?
 
 {{< upscribe >}}

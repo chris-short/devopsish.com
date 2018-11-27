@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-10-27T03:51:00Z
+date = 2018-11-27T01:21:00Z
 description = "Sponsor DevOps'ish"
 draft = false
 slug = "sponsor"
@@ -25,17 +25,17 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 
 ## Stats for the DevOps'ish Newsletter
 
-* Subscribed Contacts: 2,285
-* Average open rate: 49.1%
-* Average click rate: 23.9%
+* Subscribed Contacts: 2,296
+* Average open rate: 49.0%
+* Average click rate: 23.8%
 
 ## Ad Format
 
-Your ad will be featured *natively* in e-mails to all subcribers and on [devopsish.com](https://devopsish.com). Additionally, I'd be happy to [Tweet](https://twitter.com/ChrisShort) your ad no more than three times per week on a schedule that fits the needs of advertiser(s).
+Your ad will be featured *natively* in e-mails to all subcribers and on [devopsish.com](/). Additionally, I'd be happy to share your ad on social media. However, a limit of no more than three times per week on a schedule that fits the needs of advertiser(s) exists.
 
 Ads include a bolded headline, additional copy, links as specified, and are followed by the italicized word, *SPONSORED*. This native format prevents ad blockers from blocking ads. It also eliminates a lot of headaches with regards to formatting. Total ad length including headline and *SPONSORED* tag should not exceed 280 characters.
 
-[**EXAMPLE AD**](/)  
+[**DEVOPS NEWSLETTER**](/)  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut libero erat. Morbi convallis tempor facilisis. In vulputate hendrerit mollis. Suspendisse vitae massa aliquet, dignissim nibh quis, facilisis odio. Fusce sed consequat magna. *SPONSORED*
 
 Every week I begin the newsletter with a personal message that I call the "monologue". Ads appear after this message. If another location in the newsletter fits better for your ad please let me know.

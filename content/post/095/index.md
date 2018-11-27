@@ -11,7 +11,7 @@ title = "095: Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforc
 
 +++
 
-I will be in Austin, TX Sunday through Thursday this week for [AnsibleFest](https://www.ansible.com/ansiblefest). If you are attending, please come say, "Hello." and ask me for some [DevOps'ish](https://devopsish.com/) stickers, please. If you're in the Austin area and want to grab a coffee, drink, etc. let me know. I'll be in Orlando next week for some work and some play. If you're around Orlando the week of the 8th, let me know.
+I will be in Austin, TX Sunday through Thursday this week for [AnsibleFest](https://www.ansible.com/ansiblefest). If you are attending, please come say, "Hello." and ask me for some [DevOps'ish](/) stickers, please. If you're in the Austin area and want to grab a coffee, drink, etc. let me know. I'll be in Orlando next week for some work and some play. If you're around Orlando the week of the 8th, let me know.
 
 [**Remediation Strategy for Continuous Delivery of Microservices**](https://www.gocd.org/2018/09/11/cd-microservices-remediation-strategy/)  
 In systems based on microservices architecture, you have multiple services getting updated frequently. How do you respond when a deployment of a service introduces instability or bugs? Sheroy Marker offers some remediation strategies [in this blog](https://www.gocd.org/2018/09/11/cd-microservices-remediation-strategy/). *SPONSORED*
