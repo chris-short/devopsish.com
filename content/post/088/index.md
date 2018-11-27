@@ -11,11 +11,11 @@ title = "088: Survey Results, Kubernetes, Prometheus Graduates 🎓, Blue Light 
 
 +++
 
-If you participated in the DevOps'ish Summer 2018 Survey, thank you. It was vital to make sure I was putting bits in the right places. The [aggregate results are available](https://docs.google.com/forms/d/1XRAHLduV_ssmPPP_CB_Pbw33LMeaurOfOTEsFDoppkQ/viewanalytics). A few changes you might have noticed last week; [Events](https://devopsish.com/events/) and [Jobs](https://devopsish.com/jobs/) now live as pages on the website. While they add value, they also added unnecessary weight to every newsletter. The benefit of them being pages now either of them can be updated as new listings come in. The offer still stands for readers getting their listings on the site for free.
+If you participated in the DevOps'ish Summer 2018 Survey, thank you. It was vital to make sure I was putting bits in the right places. The [aggregate results are available](https://docs.google.com/forms/d/1XRAHLduV_ssmPPP_CB_Pbw33LMeaurOfOTEsFDoppkQ/viewanalytics). A few changes you might have noticed last week; [Events](/events/) and [Jobs](/jobs/) now live as pages on the website. While they add value, they also added unnecessary weight to every newsletter. The benefit of them being pages now either of them can be updated as new listings come in. The offer still stands for readers getting their listings on the site for free.
 
 The next cut was the photo header. I thought it was a beautiful thing to add back in 2016. It humanized the newsletter in a way words couldn't. But, the metrics have spoken. With 62 respondents (out of 90) rating it a 5 or less, it was probably past time to pull it. The introduction is staying. Sorry (not sorry) for those of you who think it's too political at times. But, DevOps is about breaking down silos in organizations and I'm about breaking them down in life. Aside from that, not much else is changing.
 
-The newsletter cracked 2,000 this week! Thanks for reading! Tell your friends to subscribe today. [Drop a link](https://devopsish.com/subscribe/) in your company Slack when you have a moment. I'd like to do some big things in 2019 that will require capital. [Mo' subscriber's, mo' money.](https://devopsish.com/sponsor/) —Notorious B.I.G. (or someone like that).
+The newsletter cracked 2,000 this week! Thanks for reading! Tell your friends to subscribe today. [Drop a link](/subscribe/) in your company Slack when you have a moment. I'd like to do some big things in 2019 that will require capital. [Mo' subscriber's, mo' money.](/sponsor/) —Notorious B.I.G. (or someone like that).
 
 [**Blog Series: Continuous Delivery of Microservices - Parts 1 - 5**](https://www.gocd.org/tags/cd-for-microservices.html)  
 This blog series from Sheroy Marker cover the principles of CD of microservices. Get a practical guide on designing CD workflows for microservices, testing strategies, trunk based development, feature toggles and environment plans. *SPONSORED*
@@ -64,7 +64,7 @@ The expanding role that business leaders expect from IT comes with many challeng
 
 [Feeling the Heat of High-Frequency Trading](https://hackaday.com/2018/08/06/feeling-the-heat-of-high-frequency-trading/): I once set a tree on fire with a point-to-point microwave radio antenna like those mentioned in this article.
 
-[Prometheus Graduates Within CNCF](https://prometheus.io/blog/2018/08/09/prometheus-graduates-within-cncf/): Prometheus graduates within the CNCF. Recall [DevOps'ish 066](https://devopsish.com/066/) when Kubernetes graduated, "[Graduation] is meant to be a stamp from the Technical Oversight Committee and the CNCF of what is a sustainable, production ready and mature open source project (i.e., you can bet your business on it)."
+[Prometheus Graduates Within CNCF](https://prometheus.io/blog/2018/08/09/prometheus-graduates-within-cncf/): Prometheus graduates within the CNCF. Recall [DevOps'ish 066](/066/) when Kubernetes graduated, "[Graduation] is meant to be a stamp from the Technical Oversight Committee and the CNCF of what is a sustainable, production ready and mature open source project (i.e., you can bet your business on it)."
 
 [MailChimp bans Alex Jones for hateful conduct](https://techcrunch.com/2018/08/07/mailchimp-bans-alex-jones-for-hateful-conduct/): DevOps'ish uses MailChimp and will continue to do so. This Alex Jones nonsense is NOT a free speech issue. These platforms are not run by the US government. They can silence whomever they wish for the health of their platforms.
 

@@ -22,7 +22,7 @@ Raygun delivers what New Relic and other APM tools can't: an intuitive and easy 
 [**[Webinar] Discover how to Automate an AppSec Pipeline using Docker and Serverless**](https://info.signalsciences.com/docker-serverless-automated-appsec-pipeline?utm_medium=newsletter&utm_source=devopsish)  
 With the rise of docker and serverless patterns there is a whole new suite of tools available. Discover how to get started automating appsec tooling and reporting using these new patterns. *SPONSORED*
 
-Interested in sponsoring this newsletter? [**Sponsor DevOps'ish**](https://devopsish.com/sponsor/)
+Want to reach thousands of technology professionals every week? [**Sponsor DevOps'ish**](/sponsor/) to reach professionals from a wide cross section of DevOps, cloud native, and open source worlds.
 
 {{< upscribe >}}
 

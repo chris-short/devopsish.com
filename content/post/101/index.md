@@ -15,7 +15,7 @@ Self-care is important. It's been a stressful past two weeks for me. This mornin
 
 It's amazing how stress, anxiety, and pain can shut out all the other signals your brain is receiving. That's why the newsletter is delayed again this week. Yesterday, it became clear that I wasn't listening to my body due to the noise from all the other issues going on. At about 8:30, having already started the newsletter, I decided to relax. My body had finally found peace, so I let it rest. Take care of yourselves out there.
 
-Editor's Note: Thank you to the folks that put my [IBM Red Hat acquisition](https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/) story on the front page of [Hacker News](https://news.ycombinator.com/item?id=18391098) this week. Stay up to date on the Red Hat acquisition with the [DevOps’ish IBM Red Hat Acquisition Index](https://devopsish.com/ibm-red-hat-acquisition-index/). Thanks!
+Editor's Note: Thank you to the folks that put my [IBM Red Hat acquisition](https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/) story on the front page of [Hacker News](https://news.ycombinator.com/item?id=18391098) this week. Stay up to date on the Red Hat acquisition with the [DevOps’ish IBM Red Hat Acquisition Index](/ibm-red-hat-acquisition-index/). Thanks!
 
 [**Free eBook : Actionable Continuous Delivery Metrics**](https://www.gocd.org/ebook-cd-analytics.html)  
 Want to deliver faster? Want to recover from failures more quickly? Want to improve your cycle time? This Actionable Continuous Delivery Metrics eBook will provide you with insight into your software delivery pipeline, and help you to improve your delivery and team processes. *SPONSORED*
