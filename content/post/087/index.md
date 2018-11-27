@@ -20,7 +20,7 @@ I've never felt more comfortable telling an employer, even a person for that mat
 [**Continuous delivery on modern infrastructure - Run GoCD on Kubernetes**](https://www.gocd.org/kubernetes/?utm_campaign=Kubernetes&utm_medium=newsletter_ad&utm_source=importpython&utm_content=kubernete_lp&utm_term=)  
 Model Docker-based build workflows more effectively with our GoCD Kubernetes integration. Run GoCD natively on Kubernetes, define your build workflow and let GoCD provision and scale build infrastructure on the fly. *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

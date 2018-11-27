@@ -39,7 +39,7 @@ Free Registration: All Day DevOps Registration ([http://www.alldaydevops.com](ht
 
 On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevOps Conference. This is a 24-hour event with 5 simultaneous tracks, delivering 96 sessions and 4 keynotes in 38 time zones. Session tracks include Automated Security, CI/CD, Modern Infrastructure, DevOps in Government, and the Tech Crawl, where companies will take you behind the scenes of their DevOps working environments.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

@@ -24,7 +24,7 @@ With the rise of docker and serverless patterns there is a whole new suite of to
 
 Want to reach thousands of technology professionals every week? [**Sponsor DevOps'ish**](/sponsor/) to reach professionals from a wide cross section of DevOps, cloud native, and open source worlds.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

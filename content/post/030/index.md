@@ -24,7 +24,7 @@ The world of **DevOps** is running full bore. Microsoft is making big moves. Kub
 Barcelona, 4–8 Sept. 2017  
 Are you a curious mind? [Full Stack Fest](https://2017.fullstackfest.com) is a week-long conference based in the amazing city of Barcelona that peeks into the web of tomorrow. Serverless, Blockchain, WebVR, Distributed Web, Progressive Web Apps... Come and see! Early bird tickets available with a 10% discount using the code DEVOPSISH. *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Choice Concepts
 

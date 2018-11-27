@@ -16,7 +16,7 @@ imagecap = "Chicago River from Michigan Ave Bridge after ChefConf"
 
 I have a lot to talk about this week. I'm putting sections in the introduction for ease of reading (feel free to skip parts you're not mildly interested in). Also, thank you to this week's sponsors; [**Replicated**](https://www.replicated.com/) and [**GoCD**](https://www.gocd.org/2018/05/08/continuous-delivery-microservices-test-strategy/)!
 
-{{< upscribe >}}
+{{< mc >}}
 
 ### ChefConf 2018
 

@@ -19,7 +19,7 @@ This has been a whirlwind week. On Sunday, we celebrated Mother's Day. It was a 
 [**5 considerations for continuous delivery of microservices**](https://www.gocd.org/2018/04/25/five-considerations-continuous-delivery-microservices/?utm_campaign=cd_microservices&utm_medium=newsletter_ad&utm_source=devopsish&utm_content=cd_microservices_blog&utm_term=)  
 Continuous Delivery is an essential component of any software delivery practice, including microservices. This new blog series shares five considerations we recommend keeping in mind when designing a CD workflow on microservices architectures. *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Events
 

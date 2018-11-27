@@ -19,7 +19,7 @@ This week I announced [I am leaving SJ Technologies](https://twitter.com/ChrisSh
 [**Webinar: Continuous Delivery with Docker, Kubernetes, and GoCD**](https://info.thoughtworks.com/Continuous-Delivery-Docker-Kubernetes-webinar)  
 Docker and Kubernetes provide the platform for organizations to get software to market quickly. In this webinar, you will get a practical guide in designing a Docker-based CD pipeline on Kubernetes with GoCD. *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Events
 

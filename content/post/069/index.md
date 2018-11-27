@@ -25,7 +25,7 @@ The best Git client for your Mac and PC now supports pull requests, interactive 
 **[Visualize AWS VPC data flow logs, in near real-time, on an interactive and immersive visual platform](https://beta.totalcloud.io/)**  
 Tighten the VPC's security and improve its performance with complete visibility. *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Events
 

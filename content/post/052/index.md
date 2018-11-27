@@ -36,7 +36,7 @@ In personal news, thanks to the generosity of the Cloud Native Computing Foundat
 [**Continuous Delivery: GoCD VS Spinnaker**](https://www.gocd.org/2017/07/10/gocd-vs-spinnaker/?utm_campaign=gocd_vs_spinnaker&utm_medium=email&utm_source=devopsish_newsletter&utm_content=gocd_vs_spinnaker&utm_term=)  
 GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are different from each other and which problems you should use them to solve. [Check it out](https://www.gocd.org/2017/07/10/gocd-vs-spinnaker/?utm_campaign=gocd_vs_spinnaker&utm_medium=email&utm_source=devopsish_newsletter&utm_content=gocd_vs_spinnaker&utm_term=). *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

@@ -32,7 +32,7 @@ So much [**DevOps**](/) , so little time.
 
 [blockloop has a good post on bash and the terminal](https://www.blockloop.io/mastering-bash-and-terminal). It's pretty basic stuff and a little macOS centric. But, it does discuss my two favorite CLI utilities in macOS: pbcopy and pbpaste.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Choice Concepts
 

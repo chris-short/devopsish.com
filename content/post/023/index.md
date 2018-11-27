@@ -20,7 +20,7 @@ I have to admit, I am really, really angry this week. For the first time in a lo
 
 Fast forward to this week and [the WannaCry exploit](https://www.us-cert.gov/ncas/alerts/TA17-132A?ref=devopsish) is unleashed on the web. [The UK's NHS was the first major victim](https://www.theguardian.com/society/live/2017/may/12/england-hospitals-cyber-attack-nhs-live-updates?ref=devopsish). Rapidly the [WannaCry tidal wave was washing over 99 countries](http://money.cnn.com/2017/05/12/technology/ransomware-attack-nsa-microsoft/index.html?ref=devopsish). Meanwhile, back in the UK, [a researcher discovers that there is a kill switch in the exploit](https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html). Apparently, the NSA put a kill switch is in place in case the worm accidentally went public (WHICH IT DID). The kill switch, was a check to see if a specific domain existed; not responding with a 200, not having a specific payload or string, nothing! Just whether or not a domain was REGISTERED controlled the worm! The NSA didn't think to spend the $11 to kill the worm. But, a 22-year-old in the UK saved billions of dollars and probably lives with $11 while *the NSA maintained its horrific negligence*. Unconscionable!
 
-{{< upscribe >}}
+{{< mc >}}
 
 [**Security Newsletter: weekly digest of security news**
 ](https://securitynewsletter.co/?utm_source=devopsish&utm_medium=email&utm_campaign=devopsish1)  

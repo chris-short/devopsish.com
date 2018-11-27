@@ -24,7 +24,7 @@ Part of my job is to bring consistency to these teams that are separated 3,676 m
 
 The good news is I organized and lead my first [Triangle DevOps](https://tridevops.com) meetup on Wednesday night. It was a blast! [Josh Atwell](https://twitter.com/Josh_Atwell) did a superb job speaking (the GIF is glorious), [The Select Group](http://www.selectgroup.com/) fed us well, and [Transloc](http://transloc.com/) was a fantastic host. Thanks to everyone for a successful first rodeo!
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Choice Concepts
 

@@ -24,7 +24,7 @@ This blog uses a simple web service as an example to show you how to setup your 
 [**Next-Gen Immersive Cloud Visualization Interface for your AWS, With Live Topology View!**](https://totalcloud.io/?utm_medium=newsletter_ad&utm_source=devopsish)  
 TotalCloud is first-of-its-kind visually-rich interactive & immersive visual platform offering real-time AWS cloud management & monitoring capabilities. Ideal for DevOps and IT managers, this unique platform provides a single pane of glass view of IT infrastructure across all AWS cloud services on a live topology bedecked with rich metric data & insights. [Take 30-day free trial, today](https://totalcloud.io/user-signup.html?utm_medium=newsletter_ad&utm_source=devopsish), and experience quicker & easier contextual monitoring, debugging, cost optimization, cloud operations, and security & compliance fixes on a single gaming-AI powered visual console. *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

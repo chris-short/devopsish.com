@@ -25,7 +25,7 @@ Moving your organization to a DevOps culture isn't as simple as buying a tool. I
 [**What's Kubernetes Doing? Datadog Knows, So You Can Too!**](https://www.datadoghq.com/monitor-kubernetes/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterKubernetes)  
 Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the performance of your entire container infrastructure at a glance and investigate issues quickly. [Start your free Datadog trial today](https://www.datadoghq.com/monitor-kubernetes/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterKubernetes) *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

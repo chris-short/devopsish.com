@@ -26,7 +26,7 @@ Oh look! There's a 666 in the epoch this week... Great! But, as one of my co-wor
 
 ![[Linux Performance](http://www.brendangregg.com/linuxperf.html) by [Brendan Gregg](https://twitter.com/brendangregg)](/008/linux-observability-tools.png)  *[Linux Performance](http://www.brendangregg.com/linuxperf.html) by [Brendan Gregg](https://twitter.com/brendangregg)*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Data Defense
 

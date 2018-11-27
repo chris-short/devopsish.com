@@ -22,7 +22,7 @@ As part of the Open Spaces at [DevOpsDays Raleigh](https://www.devopsdays.org/ev
 
 [Release It!: Design and Deploy Production-Ready Software](https://smile.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ref=dp_ob_title_bk) by Michael T. Nygard — A single dramatic software failure can cost a company millions of dollars — but can be avoided with simple changes to design and architecture.
 
-{{< upscribe >}}
+{{< mc >}}
 
 [Maverick: The Success Story Behind the World's Most Unusual Workplace](https://smile.amazon.com/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553/ref=sr_1_1?s=books&ie=UTF8&qid=1505076806&sr=1-1&keywords=maverick) by Ricardo Semler — Semler turned his family's business, the aging Semco corporation of Brazil, into the most revolutionary business success story of our time. By eliminating unneeded layers of management and allowing employees unprecedented democracy in the workplace, he created a company that challenged the old ways and blazed a path to success in an uncertain economy.
 
@@ -47,7 +47,7 @@ Attributed to Proximate Cause; and the Resulting New Understanding of Patient Sa
 
 [The Goal: A Process of Ongoing Improvement](https://smile.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951/) by Eliyahu M. Goldratt and Jeff Cox — Written in a fast-paced thriller style, The Goal, a gripping novel, is transforming management thinking throughout the world. It is a book to recommend to your friends in industry — even to your bosses — but not to your competitors.
 
-{{< upscribe >}}
+{{< mc >}}
 
 [The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't](https://smile.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202/) by Robert I. Sutton — The definitive guide to working with — and surviving — bullies, creeps, jerks, tyrants, tormentors, despots, backstabbers, egomaniacs, and all the other assholes who do their best to destroy you at work.
 

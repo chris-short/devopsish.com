@@ -11,7 +11,7 @@ title = "103: DevOps for All, Requirements, Discord Acquisition Coming, Kubernet
 
 +++
 
-This week was Thanksgiving in the US. It was a holiday and I unplugged to a certain extent. I played games on my phone instead of working on various things and reading research. I took a little bit of a mental break the second half of this week (and I hope you did too if you could). This week, while most of the tech world is Las Vegas, I'll be the designated survivor in an undisclosed location (aka Westford, Massachusettes). re:Invent is too big for me and too soft of a target for my frayed whatever you want to call it (nerves, anxiety, etc.). Have a great week!
+This week was Thanksgiving in the US. It was a holiday and I unplugged to a certain extent. I played games on my phone instead of working on various things and reading research. I took a little bit of a mental break the second half of this week (and I hope you did too if you could). This week, while most of the tech world is Las Vegas, I'll be the designated survivor in an undisclosed location (aka Westford, Massachusetts). re:Invent is too big for me and too soft of a target for my frayed whatever you want to call it (nerves, anxiety, etc.). Have a great week!
 
 [**Spin up a Continuous Delivery server in less than 5 minutes**](https://www.gocd.org/test-drive-gocd/)  
 Trying out new continuous delivery tools can take some time, so the team at GoCD created a quick start option for new users to spin up a GoCD server in under 5 minutes. [Try now](https://www.gocd.org/test-drive-gocd/). *SPONSORED*
@@ -24,7 +24,7 @@ Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don'
 
 Want to reach thousands of technology professionals every week? [**Sponsor DevOps'ish**](/sponsor/) to reach professionals from a wide cross section of DevOps, cloud native, and open source worlds.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

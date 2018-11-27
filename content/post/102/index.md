@@ -30,7 +30,7 @@ We consider logs to be just another form of time series data, and we want to giv
 [**Webinar with Shannon Lietz: DevSecOps: Finding the Adversaries in Our Midst**](https://info.signalsciences.com/devsecops-finding-the-adversaries-in-our-midst-webinar?utm_medium=newsletter&utm_source=devopsish)  
 Discover how you can get greater visibility into how and where you’re being attacked, and use that visibility to build, create, and deploy sites that protect what your business cares about. *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

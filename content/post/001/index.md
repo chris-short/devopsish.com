@@ -20,7 +20,7 @@ Welcome to this week's edition of DevOps'ish where we cover Dev, Ops, and all th
 
 I love the idea of [dumping XML and JSON for HTML 5](https://blog.gladwell.me/html-microservices.html). Despite having to block people trying to pick fights on Twitter, this idea has been pretty well received. I would love to see the frustrations of JSON cast aside for something less syntactically challenging and more human readable.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Happy Little Clouds
 

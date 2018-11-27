@@ -18,7 +18,7 @@ aliases = [
 
 What a week in [**DevOps**](/) ! There is so much news to share this week it took me an hour to collect it all! I also went to the [Open Source 101](http://opensource101.com/) conference this week to pick up some knowledge on communities. It was a very good conference. If the future of open source software was represented there it will definitely not be a white male dominated field.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Choice Concepts
 

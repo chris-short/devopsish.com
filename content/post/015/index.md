@@ -20,7 +20,7 @@ I have recently taken over as a co-organizer of [**Triangle DevOps**](https://ww
 
 The customer cares the most about the interface they use for the products we facilitate. If we do not consider caching, CDNs, and asset utilization at some point in our journey are we doing DevOps justice? I would argue it's not the job of development or design to consider global optimizations such as this. Don't get me wrong, it would be awesome if someone else cared but so often it is not even a thought. This is a part of what DevOps is all about! Optimization, reduce costs, and gain efficiencies. *DevOps is everything and everything is DevOps.*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Choice Concepts
 

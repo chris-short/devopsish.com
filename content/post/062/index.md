@@ -27,7 +27,7 @@ If you're around any of these places or events please don't hesitate to stop me 
 [**Scale Continuous Delivery for Your Enterprise?**](https://www.gocd.org/enterprise/?utm_campaign=enterprise_page&utm_medium=email&utm_source=devopsish_newsletter&utm_content=enterprise_page&utm_term=)  
 GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visualize complex workflows. Our enterprise offering provides plugins and professional support to help your scale CD in your organization. [Check out GOCD's enterprise features and performance upgrades now!](https://www.gocd.org/enterprise/?utm_campaign=enterprise_page&utm_medium=email&utm_source=devopsish_newsletter&utm_content=enterprise_page&utm_term=) *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

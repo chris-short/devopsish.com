@@ -22,7 +22,7 @@ ReactiveOps provides DevOps expertise and best practices to help companies imple
 **Get early access to the all-new Tower Git client for Mac and Windows**  
 The best Git client for your Mac and PC now supports pull requests, interactive rebase and many powerful new features. [Read more](https://www.git-tower.com/blog/tower-public-beta-2018-whats-new?utm_source=devopsish%20newsletter&utm_medium=newsletter&utm_campaign=tower%20public%20beta&utm_content=april%202018) about the upcoming release and [sign up here](https://www.git-tower.com/public-beta-2018?utm_source=devopsish%20newsletter&utm_medium=newsletter&utm_campaign=tower%20public%20beta&utm_content=april%202018) to get early access. *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Events
 
