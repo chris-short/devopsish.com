@@ -26,7 +26,7 @@ Our applications speak, and time series is one of their languages. DevOps, cloud
 [**Guide: Application Security for Modern Operations Teams**](https://info.signalsciences.com/application-security-modern-operations-teams?utm_medium=newsletter&utm_source=devopsish)  
 Operations teams have seen major benefits from DevOps. Now those benefits are extending to security. Download this guide for four ways operations teams can help security go faster and reduce threats. *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

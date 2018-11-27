@@ -28,7 +28,7 @@ Bankrate.com is looking for a DevOps Engineer! Are you ready for the next phase 
 December 5, 2017  
 Where users, partners, customers, contributors and upstream project leads come together to collaborate and work together on OpenShift.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

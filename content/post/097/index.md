@@ -22,7 +22,7 @@ Raygun delivers what New Relic and other APM tools can't: an intuitive and easy 
 [**Sponsor DevOps'ish**](/sponsor/)  
 A new sponsor was supposed to have their ad copy here this week. But, they never sent it to me (invoice is paid and all). Maybe your company can do better?
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

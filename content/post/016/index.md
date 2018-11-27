@@ -56,7 +56,7 @@ Last Sunday, shortly after [DevOps'ish Weekly 015](/016/) went out, [**Nicole Fo
 
 If Nicole Forsgren can bust out 38 awesome people DevOps'ing surely you can come up with ten. Share your ten awesome folks of #DevOps with [me on Twitter](https://twitter.com/ChrisShort). Nicole also started a "Ladies in [#DevOps](https://twitter.com/hashtag/DevOps?src=hash)" trend in the process of sharing this list. Show people respect where it is due.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Choice Concepts
 

@@ -17,7 +17,7 @@ aliases = [
 
 Sunday, I flew back to NC to help close and move out of our house. It has turned into quite the saga that I won't bother with trying to explain to everyone. But, having injections on moving day was not as bad as I thought it was going to be. The world of [**DevOps**](/) was quite busy this week. Also, several great [talks from GopherCon are available in various forms](https://github.com/gophercon/2017-talks), including my GopherCon 2017 Lightning Talk: [Golang to the rescue: Saving DevOps from TLS turmoil](https://chrisshort.net/testing-certificate-chains-in-go/). Last, but not least, [happy second birthday, Kubernetes!](https://twitter.com/hashtag/K8sBday?src=hash)
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## People
 

@@ -19,7 +19,7 @@ On Wednesday, Kelsey Hightower decided to [take the rest of the year off from pu
 [**Announcement: Continuous Delivery on Kubernetes with GoCD**](https://www.gocd.org/2018/03/21/continuous-delivery-gocd-kubernetes/)  
 GoCD now integrates natively with Kubernetes! GoCD's pipeline capability along with Kubernetes' highly programmable platform provide you the premiere Continuous Delivery tool on modern infrastructure. *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 # Events
 

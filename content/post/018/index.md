@@ -22,7 +22,7 @@ Surprisingly, I maintain a Mac server or two for package building for one of our
 
 In the world of [**DevOps**](/) otherwise, it has been a pretty busy week. Let's have a look!
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Choice Concepts
 

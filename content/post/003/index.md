@@ -33,7 +33,7 @@ Ruby 2.4.0 was released! The [full changelog is also available](https://github.c
 
 [Tony Narlock](http://www.git-pull.com/) has made his upcoming book, [The Tao of tmux,](https://leanpub.com/the-tao-of-tmux) available to read for free.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Choice Concepts
 

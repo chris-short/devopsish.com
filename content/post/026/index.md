@@ -20,7 +20,7 @@ It was a very busy week for me personally and in the world of [DevOps](/). The [
 
 Not to downplay its significance, but, The Open Organization released its latest book, [*The Open Organization Guide to IT Culture Change*](https://opensource.com/open-organization/resources/culture-change?sc_cid=7016000000127L3AAI) this week. The book as a whole is [a feat of open source community](https://opensource.com/open-organization/17/6/working-open-and-gsd) in and of itself. It is a quality piece of work based off what I read during the open editing process. I'm still trying to read through it between working, packing, staging, and sleeping. I was very fortunate to have been able to contribute to this book. It's a free download and if you want a physical copy it will be available soon in print! Also, if you want to convert the ODT to an ePub [we are accepting pull requests](https://github.com/open-organization-ambassadors/open-org-it-culture/issues/36) (my eyes will thank you).
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Data Defense
 

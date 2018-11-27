@@ -18,7 +18,7 @@ aliases = [
 
 Happy Easter! Hope you are enjoying your [**DevOps**](/)'ing selves. I have family in from the northern reaches of the US. Trying to optimize time this week so no "monologue"; let's get it!
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Refreshment and Refurbishment
 

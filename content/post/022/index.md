@@ -18,7 +18,7 @@ aliases = [
 
 [Concerns about Kubernetes Community newcomers](https://groups.google.com/forum/#!topic/kubernetes-dev/k58OyLT4wAU) dominated news this week. An established, well respected member of the Kubernetes community felt unwelcome. Someone they have had bad experiences with in the past was trying to work in the same space the well respected member was in (as part of their day job no less). The community huddled and decided that the new member was not welcome due to past issues. The Kubernetes Team's decision was a huge sigh of relieve. But this does point to a larger issue with Codes of Conduct and how to enforce them outside of the community. One of my concerns (which I'm still trying to address), is how to handle Code of Conduct violators. Asking them to leave could be met with a, "No." Then what?
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Choice Concepts
 

@@ -27,7 +27,7 @@ Ballerina makes it easy to write microservices that integrate APIs. TechWorld pl
 [**The all-new Tower Git client for macOS & Windows has launched**](https://www.git-tower.com/?utm_source=devopsish%20newsletter&utm_medium=newsletter&utm_campaign=tower%20x%20launch&utm_content=june%202018)  
 The new version adds an extensive set of new features: from Pull Requests to Interactive Rebase, Tower gives you access to Git's powerful feature set right from your desktop. [Save 20% for a limited time only](https://www.git-tower.com/?utm_source=devopsish%20newsletter&utm_medium=newsletter&utm_campaign=tower%20x%20launch&utm_content=june%202018)!  *SPONSORED*
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Events
 

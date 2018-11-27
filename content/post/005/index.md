@@ -26,7 +26,7 @@ Let It Snow! Let It Snow! Let It Snow!
 
 This song has been in my head all day as the US east coast has been coated in a blanket of frozen participation. We have not taken down our interior Christmas decorations yet either so that might be part of it too.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Choice Concepts
 

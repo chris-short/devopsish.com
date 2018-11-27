@@ -30,7 +30,7 @@ I like this time of year for the wrap-up pieces and year in reviews. Here are a 
 
 * [What I Learned in 2016](https://chrisshort.net/what-i-learned-in-2016/)
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Department of Next Year's Old Tech
 

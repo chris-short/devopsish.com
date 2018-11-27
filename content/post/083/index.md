@@ -25,7 +25,7 @@ Ballerina makes it easy to write microservices that integrate APIs. TechWorld pl
 [**DevOps'ish Summer 2018 Survey**](http://devopsi.sh/survey)  
 Please complete a quick sixteen question survey to make DevOps'ish even better! It won't be the best survey you take all year. But, it'll definitely make at least one person feel better about taking the time to make it!
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Events
 
