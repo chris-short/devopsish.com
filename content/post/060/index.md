@@ -26,6 +26,8 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [**Support The Cloudcast during the Krispy Kreme Challenge!**](https://www.crowdrise.com/thecloudcastnet)
 Since 2013, Aaron Delp and Brian Gracely have asked the community to donate to the Krispy Kreme Challenge with the goal of making things better for children and families at the NC Children's Hospital. **Deadline for donations is February 3rd**. This is one of my favorite [causes](https://chrisshort.net/causes/)!
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -43,6 +45,7 @@ Since 2013, Aaron Delp and Brian Gracely have asked the community to donate to t
 [7 leadership rules for the DevOps age](https://enterprisersproject.com/article/2018/1/7-leadership-rules-devops-age)
 
 [Women Who Go: A New Regime](https://medium.com/@sadams.codes/women-who-go-a-new-regime-40047e2ce4b0): I am deeply saddened that Sarah Adams is leaving the Go community. When I attended GopherCon last year it was, to that point, the biggest conference I've been to. Sarah was the one person in the whole of Denver to get me out of my shell. She has been a source of inspiration to me as I've learned to deal with some of my anxiety issues of late.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -69,6 +72,7 @@ Since 2013, Aaron Delp and Brian Gracely have asked the community to donate to t
 [Dell Mulls Return to Market Four Years After Going Private](https://www.bloomberg.com/news/articles/2018-01-26/dell-technologies-is-said-to-be-considering-ipo-other-options)
 
 [Tigera raises $10M to help enterprises secure their cloud native applications](https://techcrunch.com/2018/01/24/tigera-raises-10m-to-help-enterprises-secure-their-cloud-native-applications/)
+{{< adsense-inarticle >}}
 
 ## Tools
 

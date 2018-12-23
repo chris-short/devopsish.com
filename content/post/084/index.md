@@ -70,6 +70,7 @@ Where: From your desktop, laptop, or mobile device
 [Why I Won't be Speaking at OSCON](https://medium.com/@nebrius/why-i-wont-be-speaking-at-oscon-575fde0c2abd)
 
 [What a Long Strange Trip It's Been](https://medium.com/@jasonhand/what-a-long-strange-trip-its-been-3f2e035c0a89): TL;DR — [Jason Hand] is leaving VictorOps/Splunk to join Microsoft.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -104,6 +105,7 @@ Where: From your desktop, laptop, or mobile device
 [Predict your future costs with Google Cloud Billing cost forecast](https://cloudplatform.googleblog.com/2018/07/predict-your-future-costs-with-google-cloud-billing-cost-forecast.html)
 
 [How to learn Kubernetes quickly](https://www.reddit.com/r/devops/comments/8xrthv/how_to_learn_kubernetes_quickly/): "I just got given the option to work on a kubernetes project that is in the pipeline and am wondering how I should go about learning it quickly to get up to speed on what I need to do a fairly (seemingly) simple deployment?"
+{{< adsense-inarticle >}}
 
 ## Tools
 

@@ -30,6 +30,8 @@ We consider logs to be just another form of time series data, and we want to giv
 [**Webinar with Shannon Lietz: DevSecOps: Finding the Adversaries in Our Midst**](https://info.signalsciences.com/devsecops-finding-the-adversaries-in-our-midst-webinar?utm_medium=newsletter&utm_source=devopsish)  
 Discover how you can get greater visibility into how and where you’re being attacked, and use that visibility to build, create, and deploy sites that protect what your business cares about. *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -55,6 +57,7 @@ Discover how you can get greater visibility into how and where you’re being at
 [How to stand out, and get hired, at Grace Hopper Celebration](https://www.redhat.com/en/blog/how-stand-out-and-get-hired-grace-hopper-celebration) — "Here’s how to stand out when you’re trying to leave GHC with opportunities to chart your own path in technology."
 
 [This Chemical Is So Hot It Destroys Nerve Endings—in a Good Way](https://www.wired.com/story/resiniferatoxin/) — Wired stories like this give me a lot of hope. If you know  anyone working with RTX, have them give me a call. I've got some periphery nerve damage they can test.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -95,6 +98,7 @@ Discover how you can get greater visibility into how and where you’re being at
 [Corporate America's blockchain and bitcoin fever is over](https://www.axios.com/corporate-america-blockchain-bitcoin-fervor-over-fb13bc5c-81fd-4c12-8a7b-07ad107817ca.html) — S&P 500 executives are dropping blockchain buzzwords less on earnings calls and during presentations to analysts and investors. Analysts are also asking about it less.
 
 [Salesforce makes undisclosed “strategic investment” in Docker, companies will cross-sell MuleSoft and Docker Enterprise](https://www.geekwire.com/2018/salesforce-makes-undisclosed-strategic-investment-docker-companies-will-cross-sell-mulesoft-docker-enterprise/) 👀
+{{< adsense-inarticle >}}
 
 ## Tools
 

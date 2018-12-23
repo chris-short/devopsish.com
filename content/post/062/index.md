@@ -27,6 +27,8 @@ If you're around any of these places or events please don't hesitate to stop me 
 [**Scale Continuous Delivery for Your Enterprise?**](https://www.gocd.org/enterprise/?utm_campaign=enterprise_page&utm_medium=email&utm_source=devopsish_newsletter&utm_content=enterprise_page&utm_term=)  
 GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visualize complex workflows. Our enterprise offering provides plugins and professional support to help your scale CD in your organization. [Check out GOCD's enterprise features and performance upgrades now!](https://www.gocd.org/enterprise/?utm_campaign=enterprise_page&utm_medium=email&utm_source=devopsish_newsletter&utm_content=enterprise_page&utm_term=) *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -52,6 +54,7 @@ My friend, [Tammy Butow](http://tammybutow.com/), also of Gremlin, will be speak
 [Lyft riders can now add to fares and donate to Black Girls Code](http://www.usatoday.com/story/tech/2018/02/09/lyft-riders-can-now-add-fares-and-donate-black-girls-code/321414002/)
 
 [Russian nuclear scientists arrested for 'Bitcoin mining plot'](http://www.bbc.com/news/world-europe-43003740): Who needs nukes when you can have Bitcoin?
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -70,6 +73,7 @@ My friend, [Tammy Butow](http://tammybutow.com/), also of Gremlin, will be speak
 [When to use Serverless? When to use Kubernetes?](http://heidloff.net/article/when-to-use-serverless-kubernetes)
 
 [Open Source and Standards Team: How Red Hat Measures Open Source Success](https://www.linuxfoundation.org/blog/open-source-standards-team-red-hat-measures-open-source-success/)
+{{< adsense-inarticle >}}
 
 ## Tools
 

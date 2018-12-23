@@ -35,7 +35,7 @@ The DevOps Roadmap for Security eBook: Tips and tools for bridging the security 
 [**The real story on container, cloud, and data adoption**](https://www.oreilly.com/pub/cpc/175842)  
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*
 
-Want to reach thousands of technology professionals every week? [**Sponsor DevOps'ish**](https://devopsish.com/sponsor/) to reach professionals from a wide cross-section of DevOps, cloud native, and open source worlds across the globe.
+{{< sponsor-blurb >}}
 
 {{< mc >}}
 
@@ -56,6 +56,8 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 [Dear tech companies, I don't want to see pregnancy ads after my child was stillborn](https://www.washingtonpost.com/lifestyle/2018/12/12/dear-tech-companies-i-dont-want-see-pregnancy-ads-after-my-child-was-stillborn/?noredirect=on&utm_term=.0e34b870ed83) — After our miscarriage last year, it was very painful to go to Amazon in the following weeks. I wrote it off as, "How would they know?" But, if there is enough intelligence in platforms to determine I want to see certain products perhaps there should be a catastrophic event button to turn it off. If this already exists, please let me know.
 
 {{< tweet 1072945965340872704 >}}
+
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -84,6 +86,8 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 [Mark your calendar: Google Cloud Next 2019](https://cloud.google.com/blog/products/gcp/mark-your-calendar-google-cloud-next-2019)
 
 [Red Hat Sets Jan. 16, 2019, Special Meeting for Vote on Merger Agreement with IBM](https://www.redhat.com/en/about/press-releases/red-hat-sets-jan-16-2019-special-meeting-vote-merger-agreement-ibm) — The expectation is this will be a quiet event.
+
+{{< adsense-inarticle >}}
 
 ## Tools
 

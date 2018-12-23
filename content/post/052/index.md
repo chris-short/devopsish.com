@@ -36,6 +36,8 @@ In personal news, thanks to the generosity of the Cloud Native Computing Foundat
 [**Continuous Delivery: GoCD VS Spinnaker**](https://www.gocd.org/2017/07/10/gocd-vs-spinnaker/?utm_campaign=gocd_vs_spinnaker&utm_medium=email&utm_source=devopsish_newsletter&utm_content=gocd_vs_spinnaker&utm_term=)  
 GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are different from each other and which problems you should use them to solve. [Check it out](https://www.gocd.org/2017/07/10/gocd-vs-spinnaker/?utm_campaign=gocd_vs_spinnaker&utm_medium=email&utm_source=devopsish_newsletter&utm_content=gocd_vs_spinnaker&utm_term=). *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -57,6 +59,7 @@ GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are 
 [What Etsy's former CTO is bringing to his new startup](https://technical.ly/brooklyn/2017/11/29/john-allspaw-etsy-former-cto-adaptive-capacity-labs/): John Allspaw talks about Adaptive Capacity Labs and what he learned from the Great Etsy Shakeup of 2017.
 
 [David Karp is leaving Tumblr by the end of the year](https://techcrunch.com/2017/11/27/david-karp-is-leaving-tumblr-by-the-end-of-the-year/?ncid=rss)
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -81,6 +84,7 @@ DORA released [*Cloud Infrastructure in the Federal Government: Modern Practices
 [DevSecOps in Government: You Deploy It, You Own It](https://www.linkedin.com/pulse/devsecops-government-you-deploy-own-derek-e-weeks/)
 
 [Dear CIOs: Stop beating yourselves up for being behind on transformation](https://enterprisersproject.com/article/2017/11/dear-cios-stop-beating-yourselves-being-behind-transformation): Let's break down three misconceptions about digital transformation for CIOs racing to make progress
+{{< adsense-inarticle >}}
 
 ## Tools
 

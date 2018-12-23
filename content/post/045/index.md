@@ -36,6 +36,8 @@ Free Registration: All Day DevOps Registration ([http://www.alldaydevops.com](ht
 
 On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevOps Conference. This is a 24-hour event with 5 simultaneous tracks, delivering 96 sessions and 4 keynotes in 38 time zones. Session tracks include Automated Security, CI/CD, Modern Infrastructure, DevOps in Government, and the Tech Crawl, where companies will take you behind the scenes of their DevOps working environments.
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -59,6 +61,7 @@ On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevO
 [Is Uncle Bob serious?](https://dev.to/bosepchuk/is-uncle-bob-serious-dhi)
 
 [GitLab raises $20M Series C round led by GV](https://techcrunch.com/2017/10/09/gitlab-raises-20m-series-c-round-led-by-gv/)
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -75,6 +78,7 @@ On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevO
 [Operating a Kubernetes network](https://jvns.ca/blog/2017/10/10/operating-a-kubernetes-network/) by Julia Evans
 
 [Disqus Demonstrates How to Do Breach Disclosure Right](https://www.troyhunt.com/disqus-demonstrates-how-to-do-data-breach-disclosure-right/): It's " important that we acknowledge exemplary handling of data breaches when they occur because that's behaviour that should be encouraged."
+{{< adsense-inarticle >}}
 
 ## Tools
 

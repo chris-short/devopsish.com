@@ -22,7 +22,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 [**AWS re:Invent 2018 is THIS WEEK**](https://lastweekinaws.com/)  
 Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don't cover AWS much unless I feel like it's amazing news. If you want great AWS coverage and snark subscribe to [Last Week in AWS](https://lastweekinaws.com/). *SPONSORED*
 
-Want to reach thousands of technology professionals every week? [**Sponsor DevOps'ish**](/sponsor/) to reach professionals from a wide cross section of DevOps, cloud native, and open source worlds.
+{{< sponsor-blurb >}}
 
 {{< mc >}}
 
@@ -41,6 +41,7 @@ Want to reach thousands of technology professionals every week? [**Sponsor DevOp
 [Want to work at Amazon? Former ‘Bar Raiser’ launches startup to prepare candidates for tech giant’s grueling interview process](https://www.geekwire.com/2018/want-work-amazon-former-bar-raiser-launches-startup-prepare-candidates-tech-giants-grueling-interview-process/) — If you're into that kind of thing (working for Amazon)
 
 [My hiring experience as a submarine sonar operator in the Norwegian Navy](https://www.brautaset.org/articles/2018/submarine-sonar-hiring.html) — There are some "requirements" that are anything but required.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -63,6 +64,7 @@ Want to reach thousands of technology professionals every week? [**Sponsor DevOp
 [On the Future of Cloud Computing](https://thenewstack.io/on-the-future-of-cloud-computing/) — Simon Wardley thinks the world will become serverless.
 
 [Operations: The Last Mile Problem for Digital Transformation and DevOps](https://www.rundeck.com/blog/operations-the-last-mile-problem-for-digital-transformation-and-devops) by Damon Edwards
+{{< adsense-inarticle >}}
 
 ## Tools
 

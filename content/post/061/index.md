@@ -21,6 +21,8 @@ I've had an absolutely amazing week! I was named a [Cloud Native Computing Found
 [**Scale Continuous Delivery for Your Enterprise?**](https://www.gocd.org/enterprise/?utm_campaign=enterprise_page&utm_medium=email&utm_source=devopsish_newsletter&utm_content=enterprise_page&utm_term=)  
 GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visualize complex workflows. Our enterprise offering provides plugins and professional support to help your scale CD in your organization. [Check out GOCD's enterprise features and performance upgrades now!](https://www.gocd.org/enterprise/?utm_campaign=enterprise_page&utm_medium=email&utm_source=devopsish_newsletter&utm_content=enterprise_page&utm_term=) *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -30,6 +32,7 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 [How I coined the term 'open source'](https://opensource.com/article/18/2/coining-term-open-source-software): Christine Peterson finally publishes her account of that fateful day, 20 years ago.
 
 [Devops Turbo Encabulator](https://youtu.be/iCPOWHgUKyo) from John Willis
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -59,6 +62,7 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 [RFC-8314: Use of Transport Layer Security (TLS) for Email Submission and Access](https://tools.ietf.org/html/rfc8314)
 
 [CNCF to Host the Rook Project to Further Cloud-Native Storage Capabilities](https://www.cncf.io/blog/2018/01/29/cncf-host-rook-project-cloud-native-storage-capabilities/)
+{{< adsense-inarticle >}}
 
 ## Tools
 

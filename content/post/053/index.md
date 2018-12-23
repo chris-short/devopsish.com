@@ -21,6 +21,8 @@ Last week, there was a giveaway of [Cloud Native Infrastructure](http://www.cnib
 [**GoCD — Open Source Continuous Delivery Server**](https://www.gocd.org/?utm_campaign=gocd_oss&utm_medium=email&utm_source=devopsish_newsletter&utm_content=go_website&utm_term=)  
 GoCD is a continuous delivery tool supporting modern infrastructure with elastic on-demand agents and cloud deployments. With GoCD, you can easily model, orchestrate and visualize complex workflows from end to end. [It's open source, free to use and download.](https://www.gocd.org/?utm_campaign=gocd_oss&utm_medium=email&utm_source=devopsish_newsletter&utm_content=go_website&utm_term=) *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -42,6 +44,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [Uber has settled with a woman whose medical files an executive accessed after she was raped](https://www.recode.net/2017/12/8/16754796/uber-lawsuit-india-rape-victim-medical-files)
 
 [Microsoft's Global Diversity and Inclusion Training](https://www.microsoft.com/en-us/diversity/training)
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -58,6 +61,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [The road to a more usable Kubernetes](http://slides.eightypercent.net/kubecon-2017/index.html#p1) by Joe Beda (slides with notes)
 
 [What DevOps teams really need from a CIO](https://enterprisersproject.com/article/2017/12/what-devops-teams-really-need-cio)
+{{< adsense-inarticle >}}
 
 ## Tools
 

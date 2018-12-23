@@ -23,6 +23,8 @@ I don't like to do prediction pieces typically (although I do read them). Feedba
 [**GoCD — Open Source Continuous Delivery Server**](https://devopsish.us14.list-manage.com/track/click?u=631fcd11ad2a643d08035c221&id=5a1471dfb5&e=7cc492dc98)  
 GoCD is a continuous delivery tool supporting modern infrastructure with elastic on-demand agents and cloud deployments. With GoCD, you can easily model, orchestrate and visualize complex workflows from end to end. [It's open source, free to use and download](https://devopsish.us14.list-manage.com/track/click?u=631fcd11ad2a643d08035c221&id=3133731028&e=7cc492dc98). *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -40,6 +42,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 ['The most important Apple executive you've never heard of' is now also Apple's second-best paid](http://www.businessinsider.com/apple-johny-srouji-second-best-paid-executive-2017-12): The fact Apple is becoming a very viable chip maker (look at the iPhone's latest chips) should scare the hell out of Intel.
 
 [How I learned to program](https://danluu.com/learning-to-program/)
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -48,6 +51,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [New York State Eyes Its Own Net Neutrality Law](http://www.techdirt.com/articles/20171226/10390638883/new-york-state-eyes-own-net-neutrality-law.shtml)
 
 [How "expensive" is crypto anyway?](https://medium.com/cloudflare-blog/how-expensive-is-crypto-anyway-920d08fe71ee)
+{{< adsense-inarticle >}}
 
 ## Tools
 

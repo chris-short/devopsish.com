@@ -61,6 +61,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [The Evolution of the DBA in an "As-A-Service" World](https://www.percona.com/blog/2018/04/26/the-evolution-of-the-dba-in-an-as-a-service-world/)
 
 [How to kill needless meetings](https://enterprisersproject.com/article/2018/4/how-kill-needless-meetings-7-tips): Stuck in recurring meeting madness? Leaders share their tips for how to have fewer, better meetings
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -81,6 +82,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [Kubernetes best practices: Organizing with Namespaces](https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-Organizing-with-Namespaces.html)
 
 [Trust, but verify: The importance of test automation](https://about.gitlab.com/2018/04/23/test-automation-devops/): Guest author Steve Ropa explains what a Cold War era motto has to do with test automation (seriously) and bringing development and operations closer together.
+{{< adsense-inarticle >}}
 
 ## Tools
 

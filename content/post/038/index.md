@@ -32,6 +32,8 @@ To get 20% off enter code ***DevOpsish20*** when registering to attend.
 Website: [https://allthingsopen.org](https://allthingsopen.org)
 To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/register-now)
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -45,6 +47,7 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 [Fighting Neo-Nazis and the Future of Free Expression](https://www.eff.org/deeplinks/2017/08/fighting-neo-nazis-future-free-expression): But we must also recognize that on the Internet, any tactic used now to silence neo-Nazis will soon be used against others, including people whose opinions we agree with.
 
 [Melinda Gates: I spent my career in technology. I wasn't prepared for its effect on my kids.](https://www.washingtonpost.com/news/parenting/wp/2017/08/24/melinda-gates-i-spent-my-career-in-technology-i-wasnt-prepared-for-its-effect-on-my-kids/?utm_term=.9dd6ec14df13)
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -53,6 +56,7 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 [Red Hat and Microsoft Simplify Containers to Help Enterprises Accelerate to the Hybrid Cloud](https://www.redhat.com/en/about/press-releases/red-hat-and-microsoft-simplify-containers-help-enterprises-accelerate-hybrid-cloud): What a time to be alive!
 
 [The Zen of PGP](https://medium.com/@thegrugq/the-zen-of-pgp-6f55d44657dd): A Pragmatic Approach
+{{< adsense-inarticle >}}
 
 ## Tools
 

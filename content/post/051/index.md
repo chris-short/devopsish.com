@@ -20,6 +20,8 @@ I have been through the highest of highs and lowest of lows this week. But, Than
 [**Continuous Delivery: GoCD VS Spinnaker**](https://www.gocd.org/2017/07/10/gocd-vs-spinnaker/?utm_campaign=gocd_vs_spinnaker&utm_medium=email&utm_source=devopsish_newsletter&utm_content=gocd_vs_spinnaker&utm_term=)  
 GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are different from each other and which problems you should use them to solve. [Check it out](https://www.gocd.org/2017/07/10/gocd-vs-spinnaker/?utm_campaign=gocd_vs_spinnaker&utm_medium=email&utm_source=devopsish_newsletter&utm_content=gocd_vs_spinnaker&utm_term=). *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -37,6 +39,7 @@ GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are 
 [Google signs lease for new Detroit location next to Little Caesars Arena](http://www.wxyz.com/news/google-signs-lease-for-new-detroit-location-next-to-little-caesars-arena)
 
 [These cities have the best chance of winning the war for Amazon's new headquarters](https://www.cnbc.com/2017/11/20/these-cities-may-win-war-for-amazons-new-headquarters.html)
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -55,6 +58,7 @@ GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are 
 [Rename "Major" to Breaking and "Minor" to Feature #411](https://github.com/semver/semver/issues/411#issuecomment-346446936): If you are into Semantic Versioning you should pay attention to this.
 
 [Fewer unit tests more logs](https://hackernoon.com/less-unit-tests-more-logs-8acbfedc24a0): A controversial idea from Mike Sedzielewski.
+{{< adsense-inarticle >}}
 
 ## Tools
 

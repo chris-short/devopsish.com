@@ -32,6 +32,8 @@ To get 20% off enter code ***DevOpsish20*** when registering to attend.
 Website: [https://allthingsopen.org](https://allthingsopen.org)
 To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/register-now)
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -51,6 +53,7 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 [Tech companies declare war on hate speech — and conservatives are worried](https://arstechnica.com/tech-policy/2017/08/tech-companies-are-cracking-down-on-hate-speech/): In light of Charlottesville, Silicon Valley revisits its absolute approach to free speech.
 
 [Mapping The Journey Episode 8](https://www.mappingthejourney.com/single-post/2017/08/31/Episode-8-Interview-with-Ryan-Dahl-Creator-of-Nodejs): Interview with Ryan Dahl, Creator of Node.js
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -67,6 +70,7 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 [Distributed Systems Are Hard](https://thenewstack.io/distributed-systems-hard): Forget Conway's Law, distributed systems at scale follow Murphy's Law: "Anything that can go wrong, will go wrong."
 
 [The 7 habits of highly effective DevOps](https://enterprisersproject.com/article/2017/8/7-habits-highly-effective-devops): Most people struggle to communicate about DevOps culture and desired results.
+{{< adsense-inarticle >}}
 
 ## Tools
 
