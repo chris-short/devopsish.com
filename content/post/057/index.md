@@ -29,6 +29,8 @@ Two personal notes:
 [**GoCD — Open Source Continuous Delivery Server**](https://devopsish.us14.list-manage.com/track/click?u=631fcd11ad2a643d08035c221&id=5a1471dfb5&e=7cc492dc98)  
 GoCD is a continuous delivery tool supporting modern infrastructure with elastic on-demand agents and cloud deployments. With GoCD, you can easily model, orchestrate and visualize complex workflows from end to end. [It's open source, free to use and download](https://devopsish.us14.list-manage.com/track/click?u=631fcd11ad2a643d08035c221&id=3133731028&e=7cc492dc98). *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -50,6 +52,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 ["Oh My God, This Is So F — -ed Up": Inside Silicon Valley's Secretive, Orgiastic Dark Side](https://www.vanityfair.com/news/2018/01/brotopia-silicon-valley-secretive-orgiastic-inner-sanctum)
 
 [2017 SRE & DevOps Influencers](https://robhirschfeld.com/2018/01/01/2017-sre-devops-influencers/)
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -66,6 +69,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [The future of DevOps is mastery of multi-cloud environments](https://opensource.com/article/18/1/future-devops)
 
 [It's 2018 and your Docker containers need to be secure](https://blog.cloudpassage.com/2018/01/02/2018-docker-containers-need-secure/)
+{{< adsense-inarticle >}}
 
 ## Tools
 

@@ -27,6 +27,8 @@ To get 20% off enter code ***DevOpsish20*** when registering to attend.
 Website: [https://allthingsopen.org](https://allthingsopen.org)
 To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/register-now)
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -38,6 +40,7 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 [The sudden death and eternal life of Solaris](http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/): I still loathe Oracle
 
 [Software as a Coloring Book](https://www.coderscoloringbook.com/): A new study tool for students and programmers.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -56,6 +59,7 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 [In Search of a Secure Time Source](https://blog.hboeck.de/archives/890-In-Search-of-a-Secure-Time-Source.html): All our computers and smartphones have an internal clock and need to know the current time. As configuring the time manually is annoying it's common to set the time via Internet services. What tends to get forgotten is that a reasonably accurate clock is often a crucial part of security features like certificate lifetimes or features with [expiration times like HSTS](https://www.youtube.com/watch?v=eLhb4jZuv6M). Thus the timesetting should be secure — but usually it isn't.
 
 [Systemd on Ubuntu 16.04 can't (or won't) reliably reboot your server](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdUbuntuRebootFailure): On some servers, usually the busiest and most important ones, the system will just stop during the shutdown process and sit there. And sit there. And sit there.
+{{< adsense-inarticle >}}
 
 ## Tools
 

@@ -29,6 +29,8 @@ Seamlessly navigate between logs, metrics, and request traces for a clear view o
 [**Office Hours: Developing on Kubernetes**](http://bit.ly/2Nso0wq)  
 Learn how to develop and push your apps to Kubernetes in our Office Hours every Thursday 10am PT — This week's topic: Progressive Delivery (A/B testing, Blue/Green, Canary) - Part 1. [Register here](http://bit.ly/2Nso0wq) *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -52,6 +54,7 @@ Learn how to develop and push your apps to Kubernetes in our Office Hours every 
 [5 DevOps Trends CISOs Must Watch](https://securityboulevard.com/2018/09/5-devops-trends-cisos-must-watch/): "Make no mistake, DevOps trends are catching fire in the enterprise these days and for good reason. A new report out by DevOps Research & Assessment (DORA) shows that the highest performing DevOps organizations are crushing their software delivery metrics."
 
 [4 dying IT jobs](https://enterprisersproject.com/article/2018/9/4-dying-it-jobs): R.I.P. project managers and sysadmins? IT recruiters say these roles are vanishing due to factors including AI and DevOps
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -76,6 +79,7 @@ Learn how to develop and push your apps to Kubernetes in our Office Hours every 
 [Updated: Microsoft Azure's southern U.S. data center goes down for hours, impacting Office365 and Active Directory customers](https://www.geekwire.com/2018/microsoft-azures-southern-u-s-data-center-goes-hours-impacting-office365-active-directory-customers/)
 
 [The Hidden Benefit of Giving Back to Open Source Software](https://hbswk.hbs.edu/item/the-hidden-benefit-of-giving-back-to-open-source-software): Firms that allow their software programmers to "give back" to the open source community on company time gain benefits—even though competitors might benefit too, says Frank Nagle.
+{{< adsense-inarticle >}}
 
 ## Tools
 

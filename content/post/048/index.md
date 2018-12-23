@@ -28,6 +28,8 @@ Bankrate.com is looking for a DevOps Engineer! Are you ready for the next phase 
 December 5, 2017  
 Where users, partners, customers, contributors and upstream project leads come together to collaborate and work together on OpenShift.
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -53,6 +55,7 @@ Where users, partners, customers, contributors and upstream project leads come t
 Ashley McNamara led Microsoft Azure OpenDev and [the entire event is available for your viewing pleasure](https://azure.microsoft.com/en-us/opendev/).
 
 [DevOps In Politics](https://www.devopsdays.org/events/2017-seattle/program/nell-shamrell-harrington/): Working technology for a political campaign involves the shortest timelines, tightest deadlines, and highest stakes you will likely ever encounter in a technology career.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -71,6 +74,7 @@ Ashley McNamara led Microsoft Azure OpenDev and [the entire event is available f
 [Writing a 9P server from scratch](https://blog.aqwari.net/9p/)
 
 [Google Developer Documentation Style Guide](https://developers.google.com/style/)
+{{< adsense-inarticle >}}
 
 ## Tools
 

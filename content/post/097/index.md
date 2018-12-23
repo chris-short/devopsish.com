@@ -22,6 +22,8 @@ Raygun delivers what New Relic and other APM tools can't: an intuitive and easy 
 [**Sponsor DevOps'ish**](/sponsor/)  
 A new sponsor was supposed to have their ad copy here this week. But, they never sent it to me (invoice is paid and all). Maybe your company can do better?
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -39,6 +41,7 @@ A new sponsor was supposed to have their ad copy here this week. But, they never
 [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G): Amazon built a tool to speed hiring. It "learned" that most candidates were male and became biased against women.
 
 [GitLab + STEM Gems: Giving girls role models in tech](https://about.gitlab.com/2018/10/08/stem-gems-give-girls-role-models/): Meet the GitLabbers working to inspire the next generation to pursue careers in STEM.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -67,6 +70,7 @@ A new sponsor was supposed to have their ad copy here this week. But, they never
 [Netlify just got $30 million to change the way developers build websites](https://techcrunch.com/2018/10/09/netlify-just-got-30-million-to-change-the-way-developers-build-websites/): Congrats to the folks at Netlify!
 
 [BBC News disrupted by software glitch](https://www.bbc.com/news/technology-45812540): An upgrade gone wrong.
+{{< adsense-inarticle >}}
 
 ## Tools
 

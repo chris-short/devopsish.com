@@ -23,6 +23,8 @@ Typically, DevOps manages geographical differences through detailed ticketing an
 **GoCD — open source continuous delivery server**  
 GoCD is a continuous delivery tool specializing in advanced workflow modeling and dependency management. It lets you track a change from commit to deploy at a glance, providing superior visibility into your workflow. [It's open source, free to use and download](https://www.gocd.org/?utm_campaign=devops_newsletter&utm_medium=email&utm_source=devopsish&utm_content=go_website&utm_term=). *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -37,6 +39,7 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 ![I think I'm going to start lobbying hard for less midday meetings](/037/developer-meetings.png)  
 *I think I'm going to start lobbying hard for less midday meetings*
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -45,6 +48,7 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 [debian-policy: Packages should be reproducible](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=844431): The recent arrival of the final pieces of the toolchain into unstable encourages Chris Lamb to propose that packages in Debian should be reproducible.
 
 [An Intro to Compilers](https://nicoleorchard.com/blog/compilers): A compiler is just a program that translates other programs.
+{{< adsense-inarticle >}}
 
 ## Tools
 

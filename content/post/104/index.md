@@ -24,7 +24,7 @@ Discover how you can get greater visibility into how and where you’re being at
 [**The real story on container, cloud, and data adoption**](https://www.oreilly.com/pub/cpc/175842)  
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*
 
-Want to reach thousands of technology professionals every week? [**Sponsor DevOps'ish**](/sponsor/) to reach professionals from a wide cross section of DevOps, cloud native, and open source worlds across the globe.
+{{< sponsor-blurb >}}
 
 {{< mc >}}
 
@@ -53,6 +53,7 @@ Want to reach thousands of technology professionals every week? [**Sponsor DevOp
 [9 top tech recruiting mistakes to avoid](https://opensource.com/article/18/11/top-tech-recruiting-mistakes-avoid) — We round up common mistakes tech recruiters make and a few best practices to adopt instead.
 
 [Twitter: Friend or Foe? (Episode 30)](http://communitypulse.io/30-twitter/) — "Twitter, Facebook, Instagram, LinkedIn…these are all major parts of what we use every day to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?"
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -83,6 +84,7 @@ Want to reach thousands of technology professionals every week? [**Sponsor DevOp
 [All the Serverless announcements at re:Invent 2018](https://serverless.com/blog/reinvent-2018-serverless-announcements/) — BYOR (Bring Your Own Runtime), Lambda Layers, managed Kafka, and more!
 
 [The don'ts of software engineering](https://www.imaginarycloud.com/blog/the-donts-of-software-engineering/) — Some pretty obvious ones but if you have some new folks on your team it's a good read.
+{{< adsense-inarticle >}}
 
 ## Tools
 

@@ -18,6 +18,8 @@ aliases = [
 
 A long and arduous week in the world of [**DevOps**](/) for me. The challenges of management are quite interesting. Trying to jump start DevOps initiatives, change technologies, migrate away from legacy infrastructure, as well as hire and manage people is grueling and exciting all at the same time. Then 💥 boom 💥 along comes the most arbitrarily timed, poorly planned project you have ever seen to throw a monkey wrench into everything. Remember The 6Ps, kids: Proper Planning Prevents Piss Poor Performance. Did I mention we closed on a new house this week and are having problems with our moving company? Life gets in the way, yet life always finds a way. You have to remember you're not an electron, your path will not always be the least resistant one. If DevOps was easy, everyone would already be doing it.
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -37,6 +39,7 @@ A long and arduous week in the world of [**DevOps**](/) for me. The challenges o
 [Google Spent 2 Years Studying 180 Teams. The Most Successful Ones Shared These 5 Traits](https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html)
 
 {{< tweet 891072671122731009 >}}
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -57,6 +60,7 @@ A long and arduous week in the world of [**DevOps**](/) for me. The challenges o
 [Status update from the Reproducible Builds project](https://lists.debian.org/debian-devel-announce/2017/07/msg00004.html)
 
 {{< tweet 890155828841398273 >}}
+{{< adsense-inarticle >}}
 
 ## Tools
 

@@ -54,6 +54,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 [Creating a strong 'office' culture for remote workers](https://slackhq.com/creating-a-strong-office-culture-for-remote-workers-77caad08306d): How the dispersed team at Student Loan Hero prioritizes communication and connection
 
 [Through the looking glass: Security and the SRE](https://opensource.com/article/18/3/through-looking-glass-security-sre): It's time to take a more proactive approach to system security. Here's how chaos engineering can play a key role.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -74,6 +75,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 [All AWS Services GDPR ready](https://aws.amazon.com/blogs/security/all-aws-services-gdpr-ready/): AWS services comply with the General Data Protection Regulation (GDPR)
 
 [GoDaddy signs multiyear deal with Amazon Web Services for 'vast majority' of its computing infrastructure](https://www.geekwire.com/2018/godaddy-signs-multiyear-deal-amazon-web-services-vast-majority-computing-infrastructure/): GoDaddy's new tagline should be: "GoDaddy: AWS run poorly so you don't have to!"
+{{< adsense-inarticle >}}
 
 ## Tools
 

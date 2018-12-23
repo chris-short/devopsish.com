@@ -70,6 +70,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [3 DevOps culture mistakes and how to fix them](https://enterprisersproject.com/article/2018/4/3-devops-culture-mistakes-and-how-fix-them): Don't let these common breakdowns derail your DevOps work: Deploy these proven fixes
 
 [github-drama](https://nikolas.github.io/github-drama/): A curated collection of "dramatic" github interactions.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -88,6 +89,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [Open Source, What a Concept!](http://www.projectatomic.io/blog/2018/04/open-source-what-a-concept/): This article discusses how buildah devs diagnosed and fixed a bug the open source way.
 
 [Set Up Docker For Mac with Native NFS](https://medium.com/@sean.handley/how-to-set-up-docker-for-mac-with-native-nfs-145151458adc): If you need it, NFS is there.
+{{< adsense-inarticle >}}
 
 ## Tools
 

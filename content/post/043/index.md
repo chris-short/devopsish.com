@@ -35,6 +35,8 @@ Free Registration: All Day DevOps Registration ([http://www.alldaydevops.com](ht
 
 On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevOps Conference. This is a 24-hour event with 5 simultaneous tracks, delivering 96 sessions and 4 keynotes in 38 time zones. Session tracks include Automated Security, CI/CD, Modern Infrastructure, DevOps in Government, and the Tech Crawl, where companies will take you behind the scenes of their DevOps working environments.
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -58,6 +60,7 @@ On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevO
 [Ego at 24,000 feet](https://medium.com/@jboursiquot/ego-at-24-000-feet-6ac4e1a5b4f0): I had allowed ego to take over. It felt disrespected. It felt entitled to a better treatment, especially after such a long day, and it didn't get its due.
 
 [What is Microsoft Doing?](http://redmonk.com/sogrady/2017/09/28/microsoft-hiring/) Attracting more attention than [cloud] transition, in many quarters, is the hiring spree that Microsoft has been on in the developer advocate and evangelism space.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -76,6 +79,7 @@ On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevO
 [Broadening HSTS to secure more of the Web](https://security.googleblog.com/2017/09/broadening-hsts-to-secure-more-of-web.html): In 2015 we created the first secure TLD when we added .google to the HSTS preload list, and we are now rolling out HSTS for a larger number of our TLDs, starting with .foo and .dev.
 
 [Microsoft Makes it Official: Becomes Sponsor of Open Source Initiative](https://opensource.org/node/901)
+{{< adsense-inarticle >}}
 
 ## Tools
 

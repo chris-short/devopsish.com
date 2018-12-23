@@ -26,6 +26,8 @@ Our applications speak, and time series is one of their languages. DevOps, cloud
 [**Guide: Application Security for Modern Operations Teams**](https://info.signalsciences.com/application-security-modern-operations-teams?utm_medium=newsletter&utm_source=devopsish)  
 Operations teams have seen major benefits from DevOps. Now those benefits are extending to security. Download this guide for four ways operations teams can help security go faster and reduce threats. *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -43,6 +45,7 @@ Operations teams have seen major benefits from DevOps. Now those benefits are ex
 [My Amazon Interview Horror Story](https://www.igorkromin.net/index.php/2018/11/04/my-amazon-interview-horror-story/) — I think at this point either we all have Amazon on our CVs or we've had an unusual experience interviewing with them. My interview with them back in 2012 taught me it's okay to say you don't know and ask for help.
 
 [Ex-Microsoft employee sues company and former manager for gender discrimination](https://www.geekwire.com/2018/ex-microsoft-employee-sues-company-former-manager-gender-discrimination/) — It's like I said last week, "If you’re not in turmoil and you’re at a tech company consider yourself lucky."
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -65,6 +68,7 @@ Operations teams have seen major benefits from DevOps. Now those benefits are ex
 [We don' need no stinkin' bounties: VirtualBox guest-to-host escape zero-day lands at GitHub](https://www.theregister.co.uk/2018/11/07/virtualbox_0day_github/) — Bug hunter rages at wearisome disclosure process
 
 [TriggerMesh, with Sebastien Goasguen](https://kubernetespodcast.com/episode/028-triggermesh/) — "[TriggerMesh](https://triggermesh.com/) is a new serverless management platform built on top of Knative. Co-founder Sebastien Goasguen joins Adam and Craig to discuss serverless, and potential trips to space."
+{{< adsense-inarticle >}}
 
 ## Tools
 

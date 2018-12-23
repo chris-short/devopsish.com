@@ -24,6 +24,8 @@ This blog uses a simple web service as an example to show you how to setup your 
 [**Next-Gen Immersive Cloud Visualization Interface for your AWS, With Live Topology View!**](https://totalcloud.io/?utm_medium=newsletter_ad&utm_source=devopsish)  
 TotalCloud is first-of-its-kind visually-rich interactive & immersive visual platform offering real-time AWS cloud management & monitoring capabilities. Ideal for DevOps and IT managers, this unique platform provides a single pane of glass view of IT infrastructure across all AWS cloud services on a live topology bedecked with rich metric data & insights. [Take 30-day free trial, today](https://totalcloud.io/user-signup.html?utm_medium=newsletter_ad&utm_source=devopsish), and experience quicker & easier contextual monitoring, debugging, cost optimization, cloud operations, and security & compliance fixes on a single gaming-AI powered visual console. *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -55,6 +57,7 @@ TotalCloud is first-of-its-kind visually-rich interactive & immersive visual pla
 [The Cloud Native Computing Foundation (CNCF) participates in Google's Summer of Code (GSoC)](https://github.com/cncf/soc): CNCF is a great place to spend a summer learning, coding, participating and contributing. We are an exciting open source foundation with a vibrant community of projects, and we look forward to your application and your project ideas!
 
 [Fired Google Engineer Loses Diversity Memo Challenge](http://www.bloomberg.com/news/articles/2018-02-16/google-firing-of-damore-was-legal-u-s-labor-panel-lawyer-said): 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -79,6 +82,7 @@ TotalCloud is first-of-its-kind visually-rich interactive & immersive visual pla
 [Everything I know about open source I learned from SpaceX](https://opensource.com/article/18/2/everything-i-know-about-open-source-i-learned-spacex)
 
 Want to write for opensource.com and can't come up with a good topic? Reach out to me or take a gander at the [opensource.com editorial calendar](http://opensource.com/resources/editorial-calendar) for inspiration.
+{{< adsense-inarticle >}}
 
 ## Tools
 

@@ -21,6 +21,8 @@ We have been totally buried by snow this week in Michigan. The daily snow foreca
 [**GoCD — Open Source Continuous Delivery Server**](https://devopsish.us14.list-manage.com/track/click?u=631fcd11ad2a643d08035c221&id=5a1471dfb5&e=7cc492dc98)  
 GoCD is a continuous delivery tool supporting modern infrastructure with elastic on-demand agents and cloud deployments. With GoCD, you can easily model, orchestrate and visualize complex workflows from end to end. [It's open source, free to use and download.](https://devopsish.us14.list-manage.com/track/click?u=631fcd11ad2a643d08035c221&id=3133731028&e=7cc492dc98)
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -42,6 +44,7 @@ Nyah Check, a Software Developer from Cameroon and friend of mine has been accep
 [No Need to Pinkify](https://code.likeagirl.io/no-need-to-pinkify-c5609faf6f7f?source=userActivityShare-459b2bcd8b13-1513222905): Girls don't get interested in tech because it is pink. They get interested in it because it is INTERESTING.
 
 [Dear Kubernetes Community](https://medium.com/@rothgar/dear-kubernetes-community-e51cbaabd419) by Justin Garrison
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -62,6 +65,7 @@ Nyah Check, a Software Developer from Cameroon and friend of mine has been accep
 [So you're 'agile', huh? I do not think it means what you think it means](http://www.theregister.co.uk/2017/12/11/you_say_you_are_doing_devops/)
 
 [Introducing Gremlin: Orchestrating Chaos](https://blog.gremlin.com/introducing-gremlin-orchestrating-chaos-b137b74f2371)
+{{< adsense-inarticle >}}
 
 ## Tools
 

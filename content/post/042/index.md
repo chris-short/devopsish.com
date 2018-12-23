@@ -36,6 +36,8 @@ Free Registration: All Day DevOps Registration ([http://www.alldaydevops.com](ht
 
 On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevOps Conference. This is a 24-hour event with 5 simultaneous tracks, delivering 96 sessions and 4 keynotes in 38 time zones. Session tracks include Automated Security, CI/CD, Modern Infrastructure, DevOps in Government, and the Tech Crawl, where companies will take you behind the scenes of their DevOps working environments.
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -47,6 +49,7 @@ On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevO
 [Technical Interview Performance by Editor/OS/Language](https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language): There is a correlation between what editor an engineer uses, their language and OS, and their ability to pass programming interviews.
 
 [Go: Ten years and climbing](https://commandcenter.blogspot.com/2017/09/go-ten-years-and-climbing.html)
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -59,6 +62,7 @@ As mentioned in [DevOps'ish 037](/037/), MongoDB, a database software company ba
 [Proposal: Just Use Github #21956](https://github.com/golang/go/issues/21956)
 
 [Red Hat Announces Broad Expansion to Open Source Patent Promise](https://www.redhat.com/en/about/patent-promise)
+{{< adsense-inarticle >}}
 
 ## Tools
 

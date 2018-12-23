@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-11-27T01:21:00Z
+date = 2018-12-23T12:51:00Z
 description = "Sponsor DevOps'ish"
 draft = false
 slug = "sponsor"
@@ -19,17 +19,28 @@ Demographic data outside of what's shared on this page for DevOps'ish subscriber
 
 ## Sponsorship Rates
 
-For a one (1) week sponsorship period, the fixed fee is **$200 USD**. Sponsors purchasing four or more weeks at a time receive a 5% discount.
+Effective 2019-01-01
+
+For a one (1) week sponsorship period, the fixed fee is **$300 USD**. 
+
+Fess are negotiable for nonprofits, community led projects without revenue, events with no revenue, or part of an ad sharing deal between other publications.
+
+### Sponsorship Discounts
+
+Discounts are provided as a way of saying thank you to DevOps'ish sponsors. Your long-term commitment is greatly appreciated!
+
+* Sponsors purchasing four to twelve weeks at a time receive a 5% discount.
+* Sponsors purchasing thirteen weeks or more at a time receive a 10% discount.
 
 Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 
 ## Stats for the DevOps'ish Newsletter
 
-* Subscribed Contacts: 2,296
-* Average open rate: 49.0%
-* Average click rate: 23.8%
+* Subscribed Contacts: 2,393
+* Average open rate: 48.8%
+* Average click rate: 23.5%
 
-## Ad Format
+## DevOps'ish Ad Format
 
 Your ad will be featured *natively* in e-mails to all subcribers and on [devopsish.com](/). Additionally, I'd be happy to share your ad on social media. However, a limit of no more than three times per week on a schedule that fits the needs of advertiser(s) exists.
 
@@ -38,7 +49,7 @@ Ads include a bolded headline, additional copy, links as specified, and are foll
 [**DEVOPS NEWSLETTER**](/)  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut libero erat. Morbi convallis tempor facilisis. In vulputate hendrerit mollis. Suspendisse vitae massa aliquet, dignissim nibh quis, facilisis odio. Fusce sed consequat magna. *SPONSORED*
 
-Every week I begin the newsletter with a personal message that I call the "monologue". Ads appear after this message. If another location in the newsletter fits better for your ad please let me know.
+Every week I begin the newsletter with an personal message or introduction. Ads appear after this message. If another location in the newsletter fits better for your ad please let me know.
 
 Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 

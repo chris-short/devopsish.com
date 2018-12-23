@@ -52,6 +52,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [10 things leaders with emotional intelligence never do](https://enterprisersproject.com/article/2018/4/10-things-leaders-emotional-intelligence-never-do): High EQ leaders don't lose their cool. They don't swallow emotions. Learn about the behaviors to avoid as you build emotional intelligence.
 
 [What developers need to know about security](https://opensource.com/article/18/4/what-developers-need-know-about-security): Developers don't need to become security specialists, but they do need to shift away from a mindset that views security as some unfortunate obstacle.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -78,6 +79,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [DevSecOps and Containers: The Numbers Don't Lie](https://www.devsecopsdays.com/articles/numbersdontlie): Container Security is quickly becoming a segment ripe for standardization and simplification. Given the recent explosive growth of Kubernetes and the creation of new container runtimes in the past year, this should not come as a surprise.
 
 [The Agony and the Ecstasy of Cloud Billing](https://www.linuxjournal.com/content/agony-and-ecstasy-cloud-billing)
+{{< adsense-inarticle >}}
 
 ## Tools
 

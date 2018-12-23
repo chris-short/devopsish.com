@@ -22,7 +22,7 @@ Raygun delivers what New Relic and other APM tools can't: an intuitive and easy 
 [**[Webinar] Discover how to Automate an AppSec Pipeline using Docker and Serverless**](https://info.signalsciences.com/docker-serverless-automated-appsec-pipeline?utm_medium=newsletter&utm_source=devopsish)  
 With the rise of docker and serverless patterns there is a whole new suite of tools available. Discover how to get started automating appsec tooling and reporting using these new patterns. *SPONSORED*
 
-Want to reach thousands of technology professionals every week? [**Sponsor DevOps'ish**](/sponsor/) to reach professionals from a wide cross section of DevOps, cloud native, and open source worlds.
+{{< sponsor-blurb >}}
 
 {{< mc >}}
 
@@ -43,6 +43,7 @@ Want to reach thousands of technology professionals every week? [**Sponsor DevOp
 [Golang Cafe](https://golang.cafe/): The Go Job Board With No Recruiters And Clear Salary Ranges
 
 [Setting Up Your Tech on the Assumption You'll Be Hacked](https://www.nytimes.com/2018/10/03/technology/personaltech/hacking-protection-passwords.html): Sheera Frenkel, who writes about cybersecurity for The Times, explains how she safeguards her devices, and why passwords remain a weak link for more people.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -75,6 +76,7 @@ Want to reach thousands of technology professionals every week? [**Sponsor DevOp
 [Why Agile Goes Awry — and How to Fix It](https://hbr.org/2018/10/why-agile-goes-awry-and-how-to-fix-it)
 
 [Here come Wi-Fi 4, 5 and 6 in plan to simplify 802.11 networking names](https://www.cnet.com/news/wi-fi-alliance-simplifying-802-11-wireless-network-tech-names/): The Wi-Fi Alliance wants to make wireless networks easier to understand and recognize.
+{{< adsense-inarticle >}}
 
 ## Tools
 

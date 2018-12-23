@@ -34,6 +34,8 @@ Free Registration: All Day DevOps Registration ([http://www.alldaydevops.com](ht
 
 On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevOps Conference. This is a 24-hour event with 5 simultaneous tracks, delivering 96 sessions and 4 keynotes in 38 time zones. Session tracks include Automated Security, CI/CD, Modern Infrastructure, DevOps in Government, and the Tech Crawl, where companies will take you behind the scenes of their DevOps working environments.
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -47,6 +49,7 @@ On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevO
 [Rackspace acquires Datapipe as it looks to expand its managed services business](https://techcrunch.com/2017/09/11/rackspace-acquires-datapipe-as-it-looks-to-expand-its-managed-cloud-business/)
 
 [DevOpsDays Raleigh 2017 Book Club](/devopsdays-raleigh-2017-book-club/): As part of the Open Spaces at DevOpsDays Raleigh, the group decided to do a "Book Club" to share interesting books, podcasts, etc.
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -59,6 +62,7 @@ On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevO
 [Deploying ASP.NET Core apps on Kubernetes/Container Engine](https://meteatamel.wordpress.com/2017/09/11/deploying-asp-net-core-apps-on-kubernetescontainer-engine/)
 
 [Chrome's Plan to Distrust Symantec Certificates](https://security.googleblog.com/2017/09/chromes-plan-to-distrust-symantec.html#)
+{{< adsense-inarticle >}}
 
 ## Tools
 

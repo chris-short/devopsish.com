@@ -24,6 +24,8 @@ This week I will be in New York City for [DevOpsDays NYC](https://www.devopsdays
 [**GoCD — Open Source Continuous Delivery Server**](https://devopsish.us14.list-manage.com/track/click?u=631fcd11ad2a643d08035c221&id=5a1471dfb5&e=7cc492dc98)  
 GoCD is a continuous delivery tool supporting modern infrastructure with elastic on-demand agents and cloud deployments. With GoCD, you can easily model, orchestrate and visualize complex workflows from end to end. [It's open source, free to use and download](https://devopsish.us14.list-manage.com/track/click?u=631fcd11ad2a643d08035c221&id=3133731028&e=7cc492dc98). *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -37,6 +39,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [3 areas where DevOps and CIOs must get on the same page](https://enterprisersproject.com/article/2018/1/3-areas-where-devops-and-cios-must-get-same-page): "Consider this: more than 60 percent of executives believe their organization's DevOps plans have been implemented and will even expand in the new year. However, more than 50 percent of DevOps pros who are in the weeds and working through their pipelines every day disagree."
 
 [5 leadership lessons for 2018](https://enterprisersproject.com/article/2018/1/5-leadership-lessons-2018)
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -59,6 +62,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [AWS Open Source Blog: Cloud Native Computing](https://aws.amazon.com/blogs/opensource/cloud-native-computing/)
 
 [Recovering the productivity stolen by depression with kanban and emoji](http://jpetazzo.github.io/2017/12/24/productivity-depression-kanban-emoji/)
+{{< adsense-inarticle >}}
 
 ## Tools
 

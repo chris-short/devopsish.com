@@ -22,6 +22,8 @@ Smoothly navigate between logs, metrics, and request traces for a clear view of 
 [**eBook: Building Continuous Delivery Pipelines**](https://go.weave.works/TPCS-devops-newsletter)  
 Learn the steps required to plan and implement a CD pipeline in your organization, including the benefits and best practices. [Download eBook](https://go.weave.works/TPCS-devops-newsletter) *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -41,6 +43,7 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 [Engineers Say "No Thanks" to Silicon Valley Recruiters, Citing Ethical Concerns](https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/engineers-say-no-thanks-to-silicon-valley-recruiters-citing-ethical-concerns): "Some engineers are turning down tech recruiters by citing concerns about corporate values." One good thing the Baby Boomers showed us is that selling your soul for work doesn't actually get you much.
 
 [An Interview with Jez Humble on Continuous Delivery, Engineering Culture, and Making Decisions](https://www.split.io/blog/jez-humble-interview-decisions-2018/)
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -71,6 +74,7 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 [Logging Best Practices for Kubernetes using Elasticsearch, Fluent Bit and Kibana](https://itnext.io/logging-best-practices-for-kubernetes-using-elasticsearch-fluent-bit-and-kibana-be9b7398dfee): "There are many options for logging when building Cloud Native applications. We’ve evaluated several options and found a set of tools that work well for us."
 
 [CNCF Seeks to Advance IT Performance Monitoring with OpenMetrics Spec](https://thenewstack.io/cncf-seeks-to-advance-it-performance-monitoring-with-openmetrics-project/): "Prometheus will move to this OpenMetrics model, as will microservices-oriented monitoring software from InfluxData, Sysdig, Weave, and OpenCensus."
+{{< adsense-inarticle >}}
 
 ## Tools
 

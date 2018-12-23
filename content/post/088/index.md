@@ -23,6 +23,8 @@ This blog series from Sheroy Marker cover the principles of CD of microservices.
 [**What's Kubernetes Doing? Datadog Knows, So You Can Too!**](https://www.datadoghq.com/monitor-kubernetes/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterKubernetes)  
 Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the performance of your entire container infrastructure at a glance and investigate issues quickly. [Start your free Datadog trial today](https://www.datadoghq.com/monitor-kubernetes/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterKubernetes) *SPONSORED*
 
+{{< sponsor-blurb >}}
+
 {{< mc >}}
 
 ## People
@@ -42,6 +44,7 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 [DevOps lessons learned: What I wish I knew sooner](https://enterprisersproject.com/article/2018/8/devops-lessons-learned-what-i-wish-i-knew-sooner?page=1): Eight DevOps veterans share the one thing they wish they'd learned earlier in their careers. Apply their wisdom to your work.
 
 [The Obscene Coupling Known as Spaghetti Code](https://queue.acm.org/detail.cfm?ref=rss&id=3265943): Teach your junior programmers how to read code
+{{< adsense-inarticle >}}
 
 ## Process
 
@@ -75,6 +78,7 @@ The expanding role that business leaders expect from IT comes with many challeng
 [Satellite Turla: APT Command and Control in the Sky](https://securelist.com/satellite-turla-apt-command-and-control-in-the-sky/72081/): How the Turla operators hijack satellite Internet links
 
 [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics): "Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good. The ACM Code of Ethics and Professional Conduct ("the Code") expresses the conscience of the profession."
+{{< adsense-inarticle >}}
 
 ## Tools
 
