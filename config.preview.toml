@@ -23,6 +23,7 @@ title = "DevOps'ish"
   author = "Chris Short"
   description = "DevOps, Cloud Native, Open Source, and the 'ish in between."
   favicon = "/favicons/favicon.ico"
+  disable_sri = true
 
   [params.sidebar]
     About = "DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/)."
