@@ -34,11 +34,7 @@ Discounts are provided as a way of saying thank you to DevOps'ish sponsors. Your
 
 Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 
-## Stats for the DevOps'ish Newsletter
-
-* Subscribed Contacts: 2,393
-* Average open rate: 48.8%
-* Average click rate: 23.5%
+{{< stats >}}
 
 ## DevOps'ish Ad Format
 
