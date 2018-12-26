@@ -1,12 +1,12 @@
 baseURL = "https://devopsish.com/"
-copyright = "[Some rights reserved](/cc-by-sa-4.0/) | [Terms](/terms/) | [Privacy](/privacy/)"
+copyright = "[Some rights reserved](https://devopsish.com/cc-by-sa-4.0/) | [Terms](https://devopsish.com/terms/) | [Privacy](https://devopsish.com/privacy/)"
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-4498776-13"
 languageCode = "en-us"
 metaDataFormat = "toml"
 newContentEditor = "code"
-paginate = 4
+paginate = 5
 relativeURLs = true
 theme = "hugo-theme-bootstrap4-blog"
 title = "DevOps'ish"
@@ -28,6 +28,11 @@ title = "DevOps'ish"
   [params.sidebar]
     About = "DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/)."
     num_recent_posts = 6
+
+  [params.stats]
+    subscribers = "2,397"
+    avg_open_rate = "48.8%"
+    avg_click_rate = "23.5%"
 
 [Author]
   name = "Chris Short"
