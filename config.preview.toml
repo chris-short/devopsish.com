@@ -28,6 +28,11 @@ title = "DevOps'ish"
   [params.sidebar]
     About = "DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/)."
     num_recent_posts = 6
+  
+  [params.stats]
+    subscribers = "2,397"
+    avg_open_rate = "48.8%"
+    avg_click_rate = "23.5%"
 
 [Author]
   name = "Chris Short"
