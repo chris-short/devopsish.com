@@ -84,6 +84,6 @@ As mentioned in [DevOps'ish 037](/037/), MongoDB, a database software company ba
 
 [Announcing Intel® Clear Containers 3.0!](https://clearlinux.org/blogs/announcing-intel-clear-containers-30)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 910842397290057728 >}}

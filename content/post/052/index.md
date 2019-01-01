@@ -128,6 +128,6 @@ SysAdvent [Day 2 — Shifting Left Securely With inSpec](https://sysadvent.blogs
 
 [CNCF Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/): (CIL) provides free access to state-of-the-art computing resources for open source developers working to advance cloud native computing.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 935890590377697281 >}}

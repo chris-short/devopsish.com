@@ -63,7 +63,7 @@ Anil Dash and Fog Creek launched a new product called [Gomix](https://gomix.com/
 
 Red Hat gave Duke University a $180,000 gift that will, "[assist students who have project ideas that use open-source software to advance humanitarian issues](https://today.duke.edu/2016/11/red-hat-gift-spurs-open-source-ideas-duke)." Two seniors are building a specialized prosthetic arm for a cake decorator using open source software.
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 I needed to figure out how big some Amazon S3 buckets were this week and found there was not an obvious way but at least [serverfault](http://serverfault.com/questions/84815/how-can-i-get-the-size-of-an-amazon-s3-bucket) netted this beauty:
 

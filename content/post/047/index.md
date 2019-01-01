@@ -116,6 +116,6 @@ Corey Quinn's [**Last Week in AWS**](https://lastweekinaws.com/): You Had Me at 
 
 [Templating your Kubernetes files](https://medium.com/@adambarreiro/templating-your-kubernetes-files-5bb8097706f7)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 922925951402385409 >}}

@@ -115,6 +115,6 @@ Learn how to develop and push your apps to Kubernetes in our Office Hours every 
 
 [Introducing stateless microservices for OpenFaaS](https://www.openfaas.com/blog/stateless-microservices/): Alex walks us through the latest addition to OpenFaaS - full support for stateless microservices giving an example of a guestbook written in Ruby with Sinatra
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1037832137905524737 >}}

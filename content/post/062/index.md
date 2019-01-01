@@ -105,6 +105,6 @@ GitHub is not a package repo:[jteeuwen/go-bindata](https://github.com/jteeuwen/g
 
 [devops-israel/aws-inventory](https://github.com/devops-israel/aws-inventory): AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 960827149585395712 >}}

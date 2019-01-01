@@ -112,6 +112,6 @@ A new sponsor was supposed to have their ad copy here this week. But, they never
 
 [Systems Monitoring: top vs Htop vs Glances](http://tech.marksblogg.com/top-htop-glances.html): "In this post I'm going to look at three popular tools often used for ad-hoc monitoring as well as look at a simplistic solution for monitoring distributed systems."
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1049716731172638722 >}}

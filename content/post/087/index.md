@@ -110,6 +110,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 [Multiline logs in OpenShift EFK stack](https://itnext.io/multiline-logs-in-openshift-efk-stack-7a7bda4ed055)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1024101529043849216 >}}

@@ -58,6 +58,6 @@ As previously mentioned, GitHub has had a hard time of late. [GitHub experienced
 
 Uber sunk to new lows this week. [Uber fired more than 20 employees after receiving 215 claims in probe of sex harassment and other incidents](http://www.businessinsider.com/uber-fired-more-than-20-employees-as-part-of-its-sex-harassment-probe-2017-6). [A top Uber executive, who obtained the medical records of a customer who was a rape victim, has been fired](https://www.recode.net/2017/6/7/15754316/uber-executive-india-assault-rape-medical-records). [Uber CEO Travis Kalanick advised employees on sex rules for a company celebration in 2013 'Miami letter'](https://www.recode.net/2017/6/8/15765514/2013-miami-letter-uber-ceo-kalanick-employees-sex-rules-company-celebration). [Kalanick has started meditating in an office lactation room, says Arianna Huffington](https://www.cnbc.com/amp/2017/06/07/arianna-huffington-says-uber-ceo-travis-kalanick-has-started-meditating.html). If you still are working at Uber, I'd like to know why? Seriously.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 872073119682498560 >}}

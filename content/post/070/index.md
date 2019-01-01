@@ -145,6 +145,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [Duo Security](https://duo.com/about/careers/job/1047643), a Michigan based company, is looking for an experienced person to fill a Operations Engineer - Platform Security role. I've heard nothing but good things about Duo.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 982325661179166720 >}}

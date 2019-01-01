@@ -129,6 +129,6 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 [coredns/auto](https://coredns.io/plugins/auto/): auto enables serving zone data from an RFC 1035-style master file, which is automatically picked up from disk.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1032714604542132224 >}}

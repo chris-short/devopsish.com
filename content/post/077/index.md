@@ -148,6 +148,6 @@ A healthy debate happening on my LinkedIn page (of all places) about why contain
 
 [CalVer](http://calver.org/): CalVer is a software versioning convention that is based on your project's release calendar, instead of arbitrary numbers.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 999644575659581441 >}}

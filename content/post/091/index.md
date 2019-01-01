@@ -102,6 +102,6 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 
 [Announcing Project Athens and GopherSource for the Go community](https://open.microsoft.com/2018/08/28/announcing-project-athens-gophersource-go-community/)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1029414616864968704 >}}

@@ -101,6 +101,6 @@ Nyah Check, a Software Developer from Cameroon and friend of mine has been accep
 
 [CoreOS's Open Cloud Services Could Bring Cloud Portability to Container-Native Apps](https://thenewstack.io/coreos-open-cloud-services/)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 942031487809085440 >}}

@@ -93,6 +93,6 @@ March 9, 2018
 
 [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 967910454449274881 >}}

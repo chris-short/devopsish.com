@@ -101,6 +101,6 @@ This post chronicles a mobile app development team's journey to continuous deliv
 
 [Getting started with .NET for Linux](https://opensource.com/article/17/11/net-linux): Microsoft's decision to make .NET Core open source means it's time for Linux developers to get comfortable and start experimenting.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 928708580999647232 >}}

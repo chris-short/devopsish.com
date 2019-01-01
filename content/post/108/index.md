@@ -99,6 +99,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) — Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1078750833410375680 >}}

@@ -126,6 +126,6 @@ With the rise of docker and serverless patterns there is a whole new suite of to
 
 [Making Sense of Kubernetes RBAC and IAM Roles on GKE](https://medium.com/uptime-99/making-sense-of-kubernetes-rbac-and-iam-roles-on-gke-914131b01922)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1047126974450282496 >}}

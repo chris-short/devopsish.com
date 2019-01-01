@@ -114,7 +114,7 @@ Vulnerabilities, Attacks, and Countermeasures (PDF)](https://arxiv.org/pdf/1811.
 
 [The Future of OpenJDK at Red Hat](https://www.infoq.com/news/2018/11/red-hat-openjdk-gc-Nov18) — I welcome Java's open first future.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 Two tweets of the week for the second birthday of DevOps'ish. One because it's amazing how just getting together to say hi and chat can turn into something amazing when you open it to all. Another because, life is hard and then your job gets automated in the Short household 🎄.
 

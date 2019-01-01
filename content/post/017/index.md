@@ -72,6 +72,6 @@ Congress made VPNs all the rage this week when they [repealed broadband privacy 
 
 [Google announced](https://opensource.googleblog.com/2017/03/a-new-home-for-google-open-source.html?m=1) their new home for open source, [Google Open Source](https://opensource.google.com/). Google has opened a treasure trove of documentation to help companies advance their open source initiatives. [The Changelog episode with Will Norris](https://changelog.com/podcast/245) announcing Google Open Source is a great listen.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 848200675674607616 >}}

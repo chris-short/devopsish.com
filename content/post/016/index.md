@@ -84,7 +84,7 @@ A utility company made a horrific mistake this week by letting a lesser experien
 
 [Open floor plans suck](https://codewithoutrules.com/2017/03/20/open-floor-plan/). Can we just go ahead and come up with something between open and rows of offices? [Open floor plans are detrimental to those that live in more cognitive roles](https://qz.com/938169/introverts-are-the-secret-weapons-of-the-modern-office/).
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 ![This is so great! Thank you, David Neal](/016/melts-in-production-not-in-development.jpg)  
 *This is so great! Thank you, David Neal*

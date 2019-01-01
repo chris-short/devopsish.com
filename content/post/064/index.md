@@ -127,6 +127,6 @@ Vladimir Vivien: [Twitter](https://twitter.com/VladimirVivien) [LinkedIn](https:
 
 [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper): CloudMapper creates network diagrams of AWS environments
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 965857172117737472 >}}

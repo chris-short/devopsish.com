@@ -97,6 +97,6 @@ Meanwhile, [Ansible is the highest-paying DevOps skill](http://insights.dice.com
 
 [The Setup interviewed Fog Creek's Jenn Schiffer](https://usesthis.com/interviews/jenn.schiffer/)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 859922360077623298 >}}

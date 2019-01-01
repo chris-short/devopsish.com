@@ -116,6 +116,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [Persisting state between AWS EC2 spot instances](https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/) using Docker on an external volume
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 919042522596360193 >}}

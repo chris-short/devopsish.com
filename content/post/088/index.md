@@ -106,6 +106,6 @@ The expanding role that business leaders expect from IT comes with many challeng
 
 [Kubernetes Tutorials, Resources, and Courses.](https://medium.com/@pavanbelagatti/kubernetes-tutorials-resources-and-courses-d75c0ce56401)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1028142599750578176 >}}

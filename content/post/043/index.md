@@ -123,6 +123,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [Linux System Call Table](http://thevivekpandey.github.io/posts/2017-09-25-linux-system-calls.html)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 913202252025868288 >}}

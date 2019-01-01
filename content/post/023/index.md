@@ -98,6 +98,6 @@ GitHub has created a [Code of Conduct tool](https://help.github.com/articles/add
 
 [Net neutrality: why the next 10 days are so important in the fight for fair internet](https://www.theguardian.com/technology/2017/may/09/what-is-net-neutrality-fcc-vote-why-it-matters?ref=devopsish) (The Guardian)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 862674035745882113 >}}

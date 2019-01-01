@@ -45,6 +45,6 @@ I keep coming back to this time and time again lately. The Cloud Native Computin
 
 [Apache Web Server is continuing to lose market share](https://news.netcraft.com/archives/2017/02/27/february-2017-web-server-survey.html) at a pretty steady clip. Microsoft has the largest market share and nginx is continuing to gain on Apache and is within striking distance of overtaking the Apache behemoth. Interestingly, I am considering writing my own web server in Go with no configuration files; compile and launch a single binary.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 836662634543992832 >}}

@@ -92,6 +92,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 [rivo/tview](https://github.com/rivo/tview): Rich interactive widgets for terminal-based UIs written in Go
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 951780912848654336 >}}

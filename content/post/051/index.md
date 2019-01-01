@@ -100,6 +100,6 @@ GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are 
 
 [kelseyhightower/pipeline](https://github.com/kelseyhightower/pipeline): A step by step guide on creating build and deployment pipelines for Kubernetes.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 934049260827529217 >}}

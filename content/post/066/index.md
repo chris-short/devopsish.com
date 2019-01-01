@@ -113,6 +113,6 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [GoogleCloudPlatform/skaffold](https://github.com/GoogleCloudPlatform/skaffold): Easy and Repeatable Kubernetes Development
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 971781245074948101 >}}

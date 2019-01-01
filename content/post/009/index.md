@@ -54,7 +54,7 @@ I have not finished reading the Site Reliability Engineering book cover-to-cover
 
 [Opensource.com](https://opensource.com/) announced their [2017 Community Award Winners](https://opensource.com/article/17/2/community-awards-2017) this week. Congrats to all those selected!
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 I had to blow away a temp directory that was consuming an enormous amount of inodes this week. rm -rf was running far too slow and I needed a faster solution:
 

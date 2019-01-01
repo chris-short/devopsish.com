@@ -105,6 +105,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 Several projects announced they were going 1.0 in around CloudNativeCon + KubeCon: [CoreDNS](https://coredns.io/2017/12/01/coredns-1.0.0-release/), [containerd](https://github.com/containerd/containerd/releases/tag/v1.0.0), and [fluentd](https://github.com/fluent/fluentd/releases) (I'm probably missing one).
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 938902771302060034 >}}

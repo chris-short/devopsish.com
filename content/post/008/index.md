@@ -50,7 +50,7 @@ We found two annoying bugs this week during our daily DevOps'ing. One bug involv
 
 [Gopher Academy is launching training courses](http://finance.yahoo.com/news/gopher-academy-launches-training-programs-134500474.html). I will be attending the [Introduction to Buffalo — Web Development in Go](https://www.bigmarker.com/gopheracademy/Introduction-to-Buffalo-Web-Development-in-Go) on January 31, 2017. Take a look at what is coming up.
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 If you are looking to show AWS instances that do not have a particular tag (specified by key); you can execute this command to find them:
 

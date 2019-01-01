@@ -124,6 +124,6 @@ Ashley McNamara led Microsoft Azure OpenDev and [the entire event is available f
 
 [Introducing Tarmak — the toolkit for Kubernetes cluster provisioning and management](https://blog.jetstack.io/blog/introducing-tarmak/)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 926431612606275584 >}}

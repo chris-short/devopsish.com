@@ -7,7 +7,7 @@ description = ""
 draft = false
 slug = "033"
 tags = ["devops", "cloud native", "open source", "kubernetes", "golang", "hiring", "women in tech", "gophercon", "password management", "microservices"]
-title = "033: More GopherCon, Women in Tech, Kubernetes, etcdhcp, and More"
+title = "033: More GopherCon, Women in Tech, DevOps, Kubernetes, etcdhcp, and More"
 image = "/033/burning-oil-well.jpg"
 imagealt = "Moving Sucks (and other obvious things)"
 aliases = [
@@ -36,6 +36,7 @@ Sunday, I flew back to NC to help close and move out of our house. It has turned
 [Azure on a hot streak of hiring, hoovering up developer advocates](https://redmonk.com/jgovernor/2017/07/20/azure-on-a-hot-streak-of-hiring-hoovering-up-developer-advocates/): We're seeing Microsoft establish a new center of gravity for developer advocacy talent in "Cloud City", under Jeff Sandquist, General Manager on the Cloud and Enterprise team.
 
 [A message from The Iron Yard](http://blog.theironyard.com/2017/07/20/message-iron-yard/): In considering the current environment, the board of The Iron Yard has made the difficult decision to cease operations at all campuses after teaching out remaining summer cohorts.
+
 {{< adsense-inarticle >}}
 
 ## Process
@@ -65,6 +66,7 @@ Sunday, I flew back to NC to help close and move out of our house. It has turned
 [How to be proactive about performance](https://pocketgophers.com/proactive-performance/): Instrument your code, monitor its performance, and improve it where it matters most
 
 [How I Reduced my DB Server Load by 80%](https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/)
+
 {{< adsense-inarticle >}}
 
 ## Tools
@@ -95,6 +97,6 @@ Sunday, I flew back to NC to help close and move out of our house. It has turned
 
 [awesome-guidelines](https://github.com/Kristories/awesome-guidelines): A curated list of high quality coding style conventions and standards.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 888751291802898433 >}}

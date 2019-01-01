@@ -83,6 +83,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 [docker/docker-bench-security](https://github.com/docker/docker-bench-security): The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 946480696893116416 >}}

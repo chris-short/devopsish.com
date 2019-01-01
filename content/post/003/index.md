@@ -45,7 +45,7 @@ Ruby 2.4.0 was released! The [full changelog is also available](https://github.c
 
 [ClusterHQ shut its doors](https://clusterhq.com/2016/12/22/clusterf-ed/). Their software is still [open source](https://github.com/ClusterHQ/).
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 Should you be in a position and need to figure out what systems are holding a high number of connections to a system login and try this out:
 

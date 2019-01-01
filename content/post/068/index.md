@@ -99,6 +99,6 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [Ansible 2.5 is Out](https://www.ansible.com/blog/ansible-2.5-traveling-space-and-time)!
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 976499995724558337 >}}

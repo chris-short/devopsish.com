@@ -100,6 +100,6 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 
 [Cisco Debuts its Own Kubernetes Container Platform](https://mobile.serverwatch.com/server-news/cisco-debuts-its-own-kubernetes-container-platform.html): Ugh...
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 959145481619124225 >}}

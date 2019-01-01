@@ -112,6 +112,6 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 
 [Tutorial: How to deploy an app to production with an actual button](https://blog.github.com/2018-08-16-how-to-deploy-to-production-with-an-actual-button/)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1030238942744981505 >}}

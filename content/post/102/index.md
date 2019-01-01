@@ -146,6 +146,6 @@ Discover how you can get greater visibility into how and where you’re being at
 
 [Find “Toxicity/Profanity” of a comment using Google Perspective](https://dev.to/sandeshsuvarna/find-toxicityprofanity-of-a-comment-using-google-perspective-3m22) — I need this built into my brain ASAP!
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1062537254361415681 >}}

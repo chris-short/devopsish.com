@@ -84,6 +84,6 @@ A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for
 
 [aws-ec2rescue-linux](https://github.com/awslabs/aws-ec2rescue-linux): Amazon Web Services Elastic Compute Cloud (EC2) Rescue for Linux is a python-based tool that allows for the automatic diagnosis of common problems found on EC2 Linux instances.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 889644081093255168 >}}

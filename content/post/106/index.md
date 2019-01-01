@@ -141,6 +141,6 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 
 [Introducing the New Docker Hub](https://blog.docker.com/2018/12/the-new-docker-hub/) — You mean having seventeen repositories, one for every use case, isn't sustainable? I'm shocked!
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1073688115066347520 >}}

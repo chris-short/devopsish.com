@@ -112,6 +112,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [clcollins/terraform-ansible-inventory](https://github.com/clcollins/terraform-ansible-inventory): An Ansible dynamic inventory script for generating an inventory from a Terraform terraform.tfstate file.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 915578413016080386 >}}

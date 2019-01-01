@@ -68,6 +68,6 @@ I studied Buddhism as a child ([long story](https://chrisshort.net/center-for-pu
 
 [Older fathers have 'geekier sons'](http://www.bbc.com/news/health-40340540) via BBC
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 878748980125069313 >}}

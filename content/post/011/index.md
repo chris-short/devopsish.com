@@ -48,7 +48,7 @@ I am a sucker for a good cheatsheet or command reference. [Bobbin Zachariah crea
 
 [Brian Krebs had some news on folks that have messed with him personally.](https://krebsonsecurity.com/2017/02/men-who-sent-swat-team-heroin-to-my-home-sentenced/) Justice is being served and some of the attackers are apologetic to Krebs.
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 This week's one-liner is pretty simple but one that I actually used this week. We needed to run [pt-query-digest](https://www.percona.com/software/database-tools/percona-toolkit) against a week's worth of MySQL slow query logs. The problem was the logs were rotated daily and I needed a single file for input.
 

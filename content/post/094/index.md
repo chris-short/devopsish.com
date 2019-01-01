@@ -130,7 +130,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Microsoft Highlights Kubernetes Support on Windows Server 2019](https://redmondmag.com/articles/2018/09/21/kubernetes-support-windows-server-2019.aspx): "Microsoft's No. 1 networking feature for the forthcoming Windows Server 2019 product is Kubernetes support, according to a Wednesday announcement."
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 Two Tweets of the Week this week because Sage covers the Linus Torvalds news from her POV so well and Abby is 100% right (there's more to life than just tech and it's all connected).
 

@@ -87,6 +87,6 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 [Atlantis](https://github.com/hootsuite/atlantis): A unified workflow for collaborating on Terraform through GitHub from HootSuite
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 895349503603097601 >}}

@@ -119,6 +119,6 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 [DZone](http://careers.dzone.com/apply/DBWe0hiNCN/Site-Reliability-Engineer) is looking for a Site Reliability Engineer in Cary, NC. Based off my experiences with DZone, this is a cool place to work. To quote a decision maker at DZone, "We need strong cloud, automation, security [experience]." Check them out.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 992054069148770304 >}}

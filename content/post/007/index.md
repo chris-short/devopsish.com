@@ -53,7 +53,7 @@ yossorion shared their thoughts on [what they wish they knew before they joined 
 
 Jérôme Petazzoni penned a fantastic piece on sexism in our industry. [This shit is not okay](http://jpetazzo.github.io/2017/01/15/yes-all-men/) and our industry HAS to fix this right the fuck now (RTFN).
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 The one true way to grep IP addresses:
 

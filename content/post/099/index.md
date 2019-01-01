@@ -116,6 +116,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [IBM/mac-ibm-enrollment-app](https://github.com/IBM/mac-ibm-enrollment-app): The Mac@IBM enrollment app makes setting up macOS with Jamf Pro more intuitive for users and easier for IT.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1054680928247799809 >}}

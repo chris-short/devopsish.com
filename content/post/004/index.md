@@ -58,6 +58,6 @@ CVE Details has a run down for the [Top 50 Vendors By Total Number Of "Distinct"
 
 Joel Sing pointed out this week that [migrating to OpenSSL 1.1 is really (unnecessarily) hard](https://www.mail-archive.com/tech@openbsd.org/msg36437.html). I have to agree, it should not be as hard as he describes. Want a good example? Compile nmap configured to use OpenSSL 1.1.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 814871794649808896 >}}

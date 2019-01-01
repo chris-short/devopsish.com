@@ -119,6 +119,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [liangw89/faas_measure: A framework for measuring coldstart latency, io/network throughput, and more in AWS Lambda](https://github.com/liangw89/faas_measure)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1068301077303500805 >}}

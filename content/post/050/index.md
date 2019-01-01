@@ -119,6 +119,6 @@ This post chronicles a mobile app development team's journey to continuous deliv
 
 [Microsoft and GitHub team up to take Git virtual file system to macOS, Linux](https://arstechnica.com/gadgets/2017/11/microsoft-and-github-team-up-to-take-git-virtual-file-system-to-macos-linux/): Microsoft isn't the only company that's interested in scaling Git.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 930426418361757696 >}}

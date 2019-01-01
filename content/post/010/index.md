@@ -42,7 +42,7 @@ The Australian Signals Directorate has released some refreshing blunt InfoSec ad
 
 [takeover.sh](https://github.com/marcan/takeover.sh) was released this week. It promises to be able to, "Wipe and reinstall a running Linux system via SSH, without rebooting." A crafty idea but I have not attempted to try it yet. YMMV.
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 Do you have an AWS API key that has more rights than your personal login does? Here is a good way to get into the AWS console with that API key:
 

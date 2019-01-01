@@ -121,6 +121,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [kz26/mailproxy](https://github.com/kz26/mailproxy): mailproxy is a simple SMTP proxy. It receives emails through an unencrypted, unauthenticated SMTP interface and retransmits them through a remote SMTP server that requires modern features such as encryption and/or authentication. mailproxy is primarily useful for enabling email functionality in legacy software that only supports plain SMTP.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 921155261263499264 >}}

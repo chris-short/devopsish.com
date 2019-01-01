@@ -102,6 +102,6 @@ Operations teams have seen major benefits from DevOps. Now those benefits are ex
 
 [Open-Source Phishing Framework](https://getgophish.com/) — "Gophish is a powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing."
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1060656756735516672 >}}

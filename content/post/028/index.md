@@ -90,6 +90,6 @@ I love this post from Katherine Daniels about [accidentally upgrading Apache in 
 
 [Lara Hogan shares a treasure trove of ally resources with us](https://github.com/larahogan/ally-resources). "Just a handful of things that were helpful to me, or that I developed with other allies, while working at Etsy."
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 873527496939102212 >}}

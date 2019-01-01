@@ -94,6 +94,6 @@ We are about a month away from [**DevOpsDay Raleigh**](https://www.devopsdays.or
 
 [learn-regex](https://github.com/zeeshanu/learn-regex): Learn RegEx The Easy Way
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 892141526213591041 >}}

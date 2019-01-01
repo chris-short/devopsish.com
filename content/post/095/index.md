@@ -42,6 +42,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 [Managering in Terrible Times](https://larahogan.me/blog/being-a-manager-in-terrible-times/) by Lara Hogan: This week was hard for a lot of people. Lara shares what to do to be a better person to the folks you lead. As a reminder, [this is was the most clicked link](http://bit.ly/2OmzZMD) this week out of everything I've shared by over 200% (and growing).
 
 [Lyft unveils second annual diversity report](https://techcrunch.com/2018/09/28/lyft-unveils-second-annual-diversity-report/): Not bad given the rapid growth. But, still, work to be done.
+
 {{< adsense-inarticle >}}
 
 ## Process
@@ -71,6 +72,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 [A Silicon Valley Start-Up That Loves the Pentagon](https://foreignpolicy.com/2018/09/26/a-silicon-valley-startup-that-loves-the-pentagon-hivemapper-dod-google/): Google may balk at military contracts, but Hivemapper founder Ariel Seidman believes working with the U.S. Defense Department can help save lives.
 
 [Former Google CEO predicts the internet will split in two  — and one part will be led by China](https://www.cnbc.com/2018/09/20/eric-schmidt-ex-google-ceo-predicts-internet-split-china.html): To be honest, I think this has already happened. While the Internet is still whole it's nearly impossible for a Chinese citizen to legally see anything outside of what China allows. Foreign businesses also can't wholly own their presence in China and must use a partner (who is likely in bed with government). This isn't a matter of if when the split occurs but whether or not that split will speed up or not.
+
 {{< adsense-inarticle >}}
 
 ## Tools
@@ -127,6 +129,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Amid Trump-China tariff tiff, Cisco kit prices to resellers soar up to 25%](https://www.theregister.co.uk/2018/09/25/cisco_price_rises/): The price rises Chuck Robbins warned us about are coming
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1045010991216353280 >}}

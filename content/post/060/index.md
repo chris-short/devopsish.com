@@ -106,6 +106,6 @@ Since 2013, Aaron Delp and Brian Gracely have asked the community to donate to t
 
 [Kubernetes: It's alive!](https://dev.to/danielkun/kubernetes-its-alive-2ndc) Another use case for Raspberry Pi Kubernetes clusters. Don't forget about [**rak8s**](https://rak8s.io)!
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 956924975704784896 >}}

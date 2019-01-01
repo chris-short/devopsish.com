@@ -139,6 +139,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 dig +short txt istheinternetonfire.com
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 948750329646075905 >}}

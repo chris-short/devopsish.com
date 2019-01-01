@@ -77,6 +77,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 [Mine all the data, they said. It will be worth your while, they said](http://www.theregister.co.uk/2018/01/10/devops_telemetry/): Good developers instrument their applications. Good ops teams monitor everything. This near-fetishisation of telemetry has been extended to DevOps, where it now risks becoming something of a problem.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 953745935477170176 >}}

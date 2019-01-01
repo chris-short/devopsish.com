@@ -73,7 +73,7 @@ A great episode of a great podcast with friend, Ashley McNamara, talking about h
 
 This [Microsoft Flight Simulator support case](https://blogs.msdn.microsoft.com/oldnewthing/20170418-00/?p=95985) reminds me of a call I answered when I worked at a dial-up ISP. The customer called in late at night to figure out why he couldn't get online. It was late but, I was in the office because of a bad thunderstorm potentially affecting phone lines, modems, etc. I went through several troubleshooting steps only to find out that there was nothing being displayed on his monitor. When I asked if his monitor was turned on he informed me the power was out due to the storm. I was dumbfounded that this seemingly intelligent human did not realize his computer wasn't powered by the phone line. He asked, "If I can call you, why can't I get online?" I can't...
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 Putting the period on the end of the Docker/Moby change:
 

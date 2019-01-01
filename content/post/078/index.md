@@ -119,6 +119,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [lucperkins/colossus](https://github.com/lucperkins/colossus): An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, and more
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1001855561963581446 >}}

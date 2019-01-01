@@ -90,6 +90,6 @@ Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don'
 
 [Using Ark and Restic to provide DR for IBM Kubernetes Service](https://medium.com/@mlrborowski/using-ark-and-restic-to-provide-dr-for-ibm-kubernetes-service-cae53cfe532) — Restore your application configurations AND your persistent storage.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1064899991968219136 >}}

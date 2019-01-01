@@ -97,6 +97,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [Adopting Istio in Your Kubernetes Clusters](https://medium.com/uptime-99/adopting-istio-in-your-kubernetes-clusters-a3e28ed6f4b7): "Computer: Install me an Istio"
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1052283996414062599 >}}

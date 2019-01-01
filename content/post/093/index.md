@@ -139,6 +139,6 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 
 [jessfraz/bpfd](https://github.com/jessfraz/bpfd): Framework for running BPF programs with rules on Linux as a daemon. Container aware.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1040341060029886464 >}}

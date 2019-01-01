@@ -52,7 +52,7 @@ This should not even have to be a thing but it is: [neveragain.tech](http://neve
 
 {{< youtube wewAC5X_CZ8 >}}
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 Should you ever need to figure out if an IP address is a TOR exit node or not just run this gem:
 

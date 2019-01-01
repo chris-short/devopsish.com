@@ -70,7 +70,7 @@ Citrix has an office here in Raleigh and they employ quite a few people there. M
 
 [The Raspberry Pi is the third best-selling general purpose computer of all time](https://www.raspberrypi.org/magpi/raspberry-pi-sales/).
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 Ever want to just grab the dates from a PagerDuty ICS file? Well I needed to this week:
 

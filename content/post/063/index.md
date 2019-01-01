@@ -122,6 +122,6 @@ Want to write for opensource.com and can't come up with a good topic? Reach out 
 
 [spotahome/kooper](https://github.com/spotahome/kooper): Kooper is a simple Go library to create Kubernetes operators and controllers.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 963428093292457984 >}}

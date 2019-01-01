@@ -100,6 +100,6 @@ StockX is looking for an experienced Cloud Systems Engineer, or DevOps Engineer,
 [**Director, Software Engineering — Bankrate — Detroit, MI**](http://app.jobvite.com/m?3N1q0jw2)
 A manager in an agile environment with strong technical skills. Collaborative leader who will understand our people, business, technology, and customers' needs. Leader who helps drive our culture of empowerment, ownership, and accountability to help develop our team technically and professionally. Identify and successfully implement improvements in our engineering processes, tools, and architecture to enable us to deliver on our key initiatives.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 908409289076727809 >}}

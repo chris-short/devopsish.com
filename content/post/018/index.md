@@ -62,7 +62,7 @@ In a surprise to no one, [San Francisco has gotten so expensive, some tech compa
 
 I wrote some Go and wrote about it! [Golang to the rescue: Saving DevOps from TLS turmoil](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program).
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 Another tweet from Kelsey Hightower this week. I am particularly interested in seeing how this pans out:
 

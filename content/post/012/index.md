@@ -46,7 +46,7 @@ Unless you live under a rock I am almost certain you have heard about the [insan
 
 [Ansible turned five years old this week!](https://www.ansible.com/blog/happy-birthday-ansible)
 
-## One-Liner of the Week
+## DevOps'ish One-Liner of the Week
 
 I end up sending a lot of work through AWS SQS. This little one liner is handy for blasting more than one message into SQS:
 

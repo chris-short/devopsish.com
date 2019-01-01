@@ -137,6 +137,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [SJ Technologies](http://sjtechcorp.com/) is looking to bring someone on board to work in our DevOps and Digital Transformation practice. If you want to help some big time companies eager to implement change [*let me know*](mailto:chris@devopsish.com). Plus, you get to work with [John Willis](https://twitter.com/botchagalupe/) and I which is pretty great (IMHO).
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 986587313265405953 >}}

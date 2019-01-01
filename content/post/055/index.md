@@ -89,6 +89,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 [Tar and Curl Come to Windows!](https://blogs.technet.microsoft.com/virtualization/2017/12/19/tar-and-curl-come-to-windows/)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 943886395302481920 >}}

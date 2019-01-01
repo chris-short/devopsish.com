@@ -80,6 +80,6 @@ Are you a curious mind? [Full Stack Fest](https://2017.fullstackfest.com) is a w
 
 [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers): On the other side of job seeking is hiring. As a hiring manager, I am finding it very challenging to get people to open up during that initial phone call. I want details but not rambling, I want low ego but please tell me what you're proud of. This how to is good and I especially think asking every candidate the same questions is very important.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 882960436911636482 >}}

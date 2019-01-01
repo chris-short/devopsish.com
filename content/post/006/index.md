@@ -75,7 +75,7 @@ The fantastic Hacker News alternative, [**Lobsters](https://lobste.rs/)** is hav
 
 If you are a Linux DevOps person with AWS talents please [consider joining my Global DevOps team](http://solarwinds.jobs/durham-nc/senior-aws-systems-engineer/866A1F89D368408CB7F6F774409D961A/job/).
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 This week's one-liner comes courtesy of [Jérôme Petazzoni](https://twitter.com/jpetazzo/status/819288097376583680):
 

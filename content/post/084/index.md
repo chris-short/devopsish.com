@@ -175,6 +175,6 @@ The Red Hat Ansible Consulting team is looking for a Network Automation Senior C
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{ tweet 1017790702703595520 }}

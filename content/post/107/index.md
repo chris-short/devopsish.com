@@ -128,6 +128,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [Linux ip Command Examples](https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/) — I've never used `ip link set dev {DEVICE} {up|down}` before. It's been a long time since I've bounced an interface on a Linux server come to think about it.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1076532900806311936 >}}

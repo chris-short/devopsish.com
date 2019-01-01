@@ -76,6 +76,6 @@ What if I told you that, like in Star Wars, [DevOps has a dark side](https://chr
 
 Who remembers Windows 95's disk defragmentation tool? I sure do! I ran it every Friday night for YEARS. [Relive the good ole days](http://hultbergs.org/defrag/) complete with sound.
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 838798979353587713 >}}

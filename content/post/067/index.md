@@ -87,6 +87,6 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [8 DevOps tools that smoothed our migration from AWS to GCP: Tamr](https://cloudplatform.googleblog.com/2018/03/8-DevOps-tools-that-smoothed-our-migration-from-AWS-to-GCP-Tamr.html)
 
-## Tweet of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 974392354328272897 >}}
