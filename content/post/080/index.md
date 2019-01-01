@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Newsletter"]
+categories = ["Weekly", "Newsletter"]
 date = 2018-06-17T07:00:00Z
 description = "Improving the Workforce, Programming Myths, Kubernetes, New Books, and More"
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Newsletter"]
+categories = ["Weekly", "Newsletter"]
 date = 2018-11-11T07:00:00Z
 description = "Self-Care, Kubernetes, Red Hat Acquisition, Veterans, HQ2, Heptio Acquisition, and More"
 draft = false

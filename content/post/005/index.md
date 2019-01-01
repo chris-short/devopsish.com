@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Newsletter"]
+categories = ["Weekly", "Newsletter"]
 date = "2017-01-08T05:34:47.583Z"
 description = ""
 draft = false

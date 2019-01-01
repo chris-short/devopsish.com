@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Newsletter"]
+categories = ["Weekly", "Newsletter"]
 date = 2018-12-23T12:45:00Z
 description = "KubeCon Recap, Larry Ellison, China Hacking, Kubernetes Security, and More"
 draft = false

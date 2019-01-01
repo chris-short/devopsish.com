@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Newsletter"]
+categories = ["Weekly", "Newsletter"]
 date = 2018-12-30T07:00:00Z
 description = "Stats, Emily Freeman, IPOs, Kubernetes Future, Go, and More"
 draft = false

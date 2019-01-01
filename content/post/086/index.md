@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Newsletter"]
+categories = ["Weekly", "Newsletter"]
 date = 2018-07-29T07:00:00Z
 description = "Last Chance, Kubernetes, Knative, Ansible, Google Next, and More"
 draft = false

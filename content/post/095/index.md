@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Newsletter"]
+categories = ["Weekly", "Newsletter"]
 date = 2018-09-30T07:00:00Z
 description = "Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforce, Microsoft Ignite, Rook, and More"
 draft = false
