@@ -16,7 +16,7 @@ aliases = [
 
 +++
 
-It was a very busy week for me personally and in the world of [DevOps](/). The [news I hinted at last week](/025/) is my public announcement [I'm leaving SolarWinds MSP, moving to Detroit, and taking the role of Manager, Infrastructure & Operations at Bankrate](https://chrisshort.net/leaving-north-carolina/). I am beyond excited about the position and the work I will be doing. If you want the job I'm vacating, [apply with SolarWinds](http://solarwinds.jobs/durham-nc-nc/senior-aws-systems-engineer/C28A5E389CEE4983B580F6CD0B3799DB/job/).
+It was a very busy week for me personally and in the world of [DevOps](https://devopsish.com/). The [news I hinted at last week](/025/) is my public announcement [I'm leaving SolarWinds MSP, moving to Detroit, and taking the role of Manager, Infrastructure & Operations at Bankrate](https://chrisshort.net/leaving-north-carolina/). I am beyond excited about the position and the work I will be doing. If you want the job I'm vacating, [apply with SolarWinds](http://solarwinds.jobs/durham-nc-nc/senior-aws-systems-engineer/C28A5E389CEE4983B580F6CD0B3799DB/job/).
 
 Not to downplay its significance, but, The Open Organization released its latest book, [*The Open Organization Guide to IT Culture Change*](https://opensource.com/open-organization/resources/culture-change?sc_cid=7016000000127L3AAI) this week. The book as a whole is [a feat of open source community](https://opensource.com/open-organization/17/6/working-open-and-gsd) in and of itself. It is a quality piece of work based off what I read during the open editing process. I'm still trying to read through it between working, packing, staging, and sleeping. I was very fortunate to have been able to contribute to this book. It's a free download and if you want a physical copy it will be available soon in print! Also, if you want to convert the ODT to an ePub [we are accepting pull requests](https://github.com/open-organization-ambassadors/open-org-it-culture/issues/36) (my eyes will thank you).
 
@@ -36,7 +36,7 @@ British Airways had quite the debacle. Apparently, [a human error took down all 
 
 [Managing microservices with the Istio service mesh](http://blog.kubernetes.io/2017/05/managing-microservices-with-istio-service-mesh.html)
 
-If you somehow think [DevOps](/) is still a fad allow me to point out the [June 2017 Hacker News "Who is hiring"](https://news.ycombinator.com/item?id=14460777) has 97 mentions of DevOps.
+If you somehow think [DevOps](https://devopsish.com/) is still a fad allow me to point out the [June 2017 Hacker News "Who is hiring"](https://news.ycombinator.com/item?id=14460777) has 97 mentions of DevOps.
 
 [gonvim](https://github.com/dzhou121/gonvim) looks really cool.
 

@@ -70,7 +70,7 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 
 [Plex Shuts Down Its Cloud Service](https://variety.com/2018/digital/news/plex-cloud-shutting-down-1202936840/): Compute heavy SaaS offerings isn't a good idea for a consumer level product it seems.
 
-[Forbes Cloud 100](https://www.forbes.com/cloud100/list/): Notable mentions include Stripe, Zoom, CrowdStrike, Elastic, Mailchimp (powers this [newsletter](/)), PagerDuty, Hashicorp, Fastly, Digital Ocean, JFrog, and Pendo
+[Forbes Cloud 100](https://www.forbes.com/cloud100/list/): Notable mentions include Stripe, Zoom, CrowdStrike, Elastic, Mailchimp (powers this [newsletter](https://devopsish.com/)), PagerDuty, Hashicorp, Fastly, Digital Ocean, JFrog, and Pendo
 
 [Tech startup Pendo has raised more than $100 million. Can it become the next Red Hat?](https://www.newsobserver.com/news/business/article217871325.html)
 

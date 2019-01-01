@@ -17,7 +17,7 @@ aliases = [
 
 +++
 
-Is DevOps dying? I've had this thought for a few weeks now. Since [DevOpsDays Detroit](https://www.devopsdays.org/events/2017-detroit/welcome/) when Richard I. Cook, M.D. sat shaking his head at Gene Kim on stage in a panel discussion titled, "DevOps, Safety, And Lean". Like a concept twisted by bad marketing DevOps has become almost a cult. There are those that practice it religiously and others that cannot adhere to every tenet every moment of every day but do try to "DevOps". Site Reliability Engineering has gained significant ground. As have many other practices and ideas that if embraced would balance the future of information work. Those of us in DevOps often forget where we came from. Never doing a deploy while the sun is up, only on the lowest traffic period, and rarely completed within the allotted time slot. Damn near anything was better than those days. Let's not be too high and mighty about [DevOps](/). We all should focus on making things better for everyone.
+Is DevOps dying? I've had this thought for a few weeks now. Since [DevOpsDays Detroit](https://www.devopsdays.org/events/2017-detroit/welcome/) when Richard I. Cook, M.D. sat shaking his head at Gene Kim on stage in a panel discussion titled, "DevOps, Safety, And Lean". Like a concept twisted by bad marketing DevOps has become almost a cult. There are those that practice it religiously and others that cannot adhere to every tenet every moment of every day but do try to "DevOps". Site Reliability Engineering has gained significant ground. As have many other practices and ideas that if embraced would balance the future of information work. Those of us in DevOps often forget where we came from. Never doing a deploy while the sun is up, only on the lowest traffic period, and rarely completed within the allotted time slot. Damn near anything was better than those days. Let's not be too high and mighty about [DevOps](https://devopsish.com/). We all should focus on making things better for everyone.
 
 I'll be in Raleigh at All Things Open this week. If you're around definitely come say hello and get a DevOps'ish sticker. Also, come check out my [lightning talk on Tuesday](https://allthingsopen.org/lightning-talks-hosted-by-opensource-com/).
 
@@ -37,7 +37,7 @@ When: October 24, 2017 (24 hours)
 Where: From your desktop, laptop, or mobile device  
 Free Registration: All Day DevOps Registration ([http://www.alldaydevops.com](http://www.alldaydevops.com))
 
-On October 24th, [DevOps'ish](/) will be supporting the Live Online All Day DevOps Conference. This is a 24-hour event with 5 simultaneous tracks, delivering 96 sessions and 4 keynotes in 38 time zones. Session tracks include Automated Security, CI/CD, Modern Infrastructure, DevOps in Government, and the Tech Crawl, where companies will take you behind the scenes of their DevOps working environments.
+On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Live Online All Day DevOps Conference. This is a 24-hour event with 5 simultaneous tracks, delivering 96 sessions and 4 keynotes in 38 time zones. Session tracks include Automated Security, CI/CD, Modern Infrastructure, DevOps in Government, and the Tech Crawl, where companies will take you behind the scenes of their DevOps working environments.
 
 {{< sponsor-blurb >}}
 

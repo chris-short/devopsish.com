@@ -13,7 +13,7 @@ imagealt = "MacBook Running an IDE"
 
 +++
 
-I have been sick all week. I have pushed through it as much as possible but this was not a great week physically. However, there is plenty to discuss in the land of [**DevOps**](/).
+I have been sick all week. I have pushed through it as much as possible but this was not a great week physically. However, there is plenty to discuss in the land of [**DevOps**](https://devopsish.com/).
 
 {{< mc >}}
 

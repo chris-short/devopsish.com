@@ -17,7 +17,7 @@ aliases = [
 
 +++
 
-What a busy week in the land of [DevOps](/)! It seems like everyone has shaken off the holidays and snow days. So without further adieu let's get to it!
+What a busy week in the land of [DevOps](https://devopsish.com/)! It seems like everyone has shaken off the holidays and snow days. So without further adieu let's get to it!
 
 ## Department of Choice Concepts
 

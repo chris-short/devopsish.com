@@ -20,7 +20,7 @@ I did so many different things this week! DevOps is really great and my role wor
 
 Surprisingly, I maintain a Mac server or two for package building for one of our products. There are literally no "out of the box" monitoring solutions for Mac OS X anymore. This is equally unsurprising and indicative of how a platform that is used by so many in DevOps is not used for production workloads. There is nothing wrong with this; it is just odd to me monitoring a Mac is such a cumbersome task (no it's not just FreeBSD).
 
-In the world of [**DevOps**](/) otherwise, it has been a pretty busy week. Let's have a look!
+In the world of [**DevOps**](https://devopsish.com/) otherwise, it has been a pretty busy week. Let's have a look!
 
 {{< mc >}}
 

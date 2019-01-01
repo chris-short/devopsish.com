@@ -18,7 +18,7 @@ aliases = [
 
 Alexander Graham Bell Birthplace, Edinburgh, Scotland, United Kingdom
 
-My apologies for the delay in this week's DevOps'ish newsletter. When I opened the ole MacBook last night to hammer it out it dawned on me how exhausted I was. Instead of this newsletter I spent time with family and went to bed early. Sorry, not sorry. It was an eventful week in the world of [**DevOps**](/) though.
+My apologies for the delay in this week's DevOps'ish newsletter. When I opened the ole MacBook last night to hammer it out it dawned on me how exhausted I was. Instead of this newsletter I spent time with family and went to bed early. Sorry, not sorry. It was an eventful week in the world of [**DevOps**](https://devopsish.com/) though.
 
 {{< mc >}}
 

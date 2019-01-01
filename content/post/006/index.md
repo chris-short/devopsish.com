@@ -16,11 +16,11 @@ aliases = [
 
 +++
 
-Welcome to this week's edition of [**DevOps'ish**](/) where we cover Dev, Ops, and all the ish in between.
+Welcome to this week's edition of [**DevOps'ish**](https://devopsish.com/) where we cover Dev, Ops, and all the ish in between.
 
 I hope you had a productive week and are looking forward to another productive week ahead!
 
-So much [**DevOps**](/) , so little time.
+So much [**DevOps**](https://devopsish.com/) , so little time.
 
 ## Department of Assemblage Obtainment
 

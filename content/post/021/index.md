@@ -18,7 +18,7 @@ aliases = [
 
 [North Carolina, and particularly the Triangle area, has had an enormous amount of rain this week](http://www.cnn.com/2017/04/25/us/north-carolina-flooding/). The tiny creek behind our house was a rapid early in the week. According to the USGS, [Falls Lake is almost ten feet above it's average levels](https://waterdata.usgs.gov/nc/nwis/uv?cb_00065=on&format=gif_stats&site_no=02087182&period=&begin_date=2017-04-22&end_date=2017-04-29). There was [one fatality as a result of someone driving around a barricade](https://governor.nc.gov/news/governor-cooper-urges-caution-flooding-continues-threaten-eastern-nc-communities) onto a flooded roadway. Common sense is not common. Please stay safe out there, folks.
 
-Meanwhile, back on the [**DevOps**](/) ranch, it was a VERY busy week. I'm on-call for two products this week, working on three projects, writing an article inspired by my VP, submitting CFPs, and trying to keep up with the news. With so much going on let's get to the [DevOps'ish](/)!
+Meanwhile, back on the [**DevOps**](https://devopsish.com/) ranch, it was a VERY busy week. I'm on-call for two products this week, working on three projects, writing an article inspired by my VP, submitting CFPs, and trying to keep up with the news. With so much going on let's get to the [DevOps'ish](https://devopsish.com/)!
 
 {{< mc >}}
 
@@ -41,7 +41,7 @@ Speaking of Kubernetes, here is a [handy cheatsheet for Kubernetes](https://sema
 
 [Understand Go pointers in less than 800 words or your money back](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
 
-Go is a great programming language (especially for [DevOps](/)). One feature I feel is missing is its ability to update itself or having some built-in process for doing so. [I think we should be past the days of languages not at least having an integrated update process](https://groups.google.com/forum/#!topic/golang-devexp/-ejglEViXN0). This is not to say that it should auto-update; *I am COMPLETELY against that*. But, the fact I have to use something outside of the golang environment to update go is a little awkward to me in this day and age. [update-golang](https://github.com/udhos/update-golang) looks to simplify the process of updating Go.
+Go is a great programming language (especially for [DevOps](https://devopsish.com/)). One feature I feel is missing is its ability to update itself or having some built-in process for doing so. [I think we should be past the days of languages not at least having an integrated update process](https://groups.google.com/forum/#!topic/golang-devexp/-ejglEViXN0). This is not to say that it should auto-update; *I am COMPLETELY against that*. But, the fact I have to use something outside of the golang environment to update go is a little awkward to me in this day and age. [update-golang](https://github.com/udhos/update-golang) looks to simplify the process of updating Go.
 
 ## Department of Woke Workplaces
 

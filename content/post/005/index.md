@@ -18,7 +18,7 @@ aliases = [
 
 Oh the weather outside is frightful,
 
-But the [**DevOps**](/) is so delightful,
+But the [**DevOps**](https://devopsish.com/) is so delightful,
 
 And since we've no place to go,
 
@@ -34,7 +34,7 @@ This song has been in my head all day as the US east coast has been coated in a 
 
 ## Department of Dafuq
 
-[When I mentioned the leap second last week](/004/) I was hoping it would go off without a hitch. That was not the case when Cloudflare had a [globally impacting issue with its RRDNS software](https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/). Developers have a hard job, I believe all of us in [DevOps](/) recognize that. But, this is a good example of how [an assumption caused a big problem](https://chrisshort.net/take-ownership-plant-your-flag/).
+[When I mentioned the leap second last week](/004/) I was hoping it would go off without a hitch. That was not the case when Cloudflare had a [globally impacting issue with its RRDNS software](https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/). Developers have a hard job, I believe all of us in [DevOps](https://devopsish.com/) recognize that. But, this is a good example of how [an assumption caused a big problem](https://chrisshort.net/take-ownership-plant-your-flag/).
 
 ## Department of Data Defense
 

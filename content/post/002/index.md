@@ -16,7 +16,7 @@ aliases = [
 
 +++
 
-It was the week before Christmas 🤶 🎅 and all through the [**DevOps**](/) world not a creature was stirring not even a mouse 🖱.
+It was the week before Christmas 🤶 🎅 and all through the [**DevOps**](https://devopsish.com/) world not a creature was stirring not even a mouse 🖱.
 
 Hardly... You might be in a change freeze but the open source world is a glow with many gifts under the tree this week.
 

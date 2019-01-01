@@ -16,7 +16,7 @@ aliases = [
 
 +++
 
-Quite the week in the greater world of technology. [Apple had an event](https://developer.apple.com/wwdc/) and [folks had a meltdown about their new show](http://www.businessinsider.com/apple-planet-of-the-apps-ad-developer-rarely-saw-his-kids-2017-6). GitHub had a rough week, Uber sunk to new lows, and Intel has fired a massive warning shot at the future of computing. A lot of [DevOps](/) happened too. Let's break it all down.
+Quite the week in the greater world of technology. [Apple had an event](https://developer.apple.com/wwdc/) and [folks had a meltdown about their new show](http://www.businessinsider.com/apple-planet-of-the-apps-ad-developer-rarely-saw-his-kids-2017-6). GitHub had a rough week, Uber sunk to new lows, and Intel has fired a massive warning shot at the future of computing. A lot of [DevOps](https://devopsish.com/) happened too. Let's break it all down.
 
 [**Full Stack Fest 2017: Problems of today, wonders from the future.**](https://2017.fullstackfest.com)  
 Barcelona, 4–8 Sept. 2017  

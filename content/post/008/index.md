@@ -16,7 +16,7 @@ aliases = [
 
 +++
 
-Oh look! There's a 666 in the epoch this week... Great! But, as one of my co-workers and I always say, we're going to "will it" to be a good week in [**DevOps**](/) . It usually works out too.
+Oh look! There's a 666 in the epoch this week... Great! But, as one of my co-workers and I always say, we're going to "will it" to be a good week in [**DevOps**](https://devopsish.com/) . It usually works out too.
 
 ## Department of Choice Concepts
 

@@ -16,13 +16,13 @@ aliases = [
 
 +++
 
-Happy Easter! Hope you are enjoying your [**DevOps**](/)'ing selves. I have family in from the northern reaches of the US. Trying to optimize time this week so no "monologue"; let's get it!
+Happy Easter! Hope you are enjoying your [**DevOps**](https://devopsish.com/)'ing selves. I have family in from the northern reaches of the US. Trying to optimize time this week so no "monologue"; let's get it!
 
 {{< mc >}}
 
 ## Department of Refreshment and Refurbishment
 
-[Ex-Facebook engineers launch Honeycomb, a new tool for your debugging nightmares](http://www.techrepublic.com/article/ex-facebook-engineers-launch-honeycomb-a-new-tool-for-your-debugging-nightmares/): Friend of [DevOps'ish](/), Charity Majors, and her fellow team members have officially launched [Honeycomb.io](https://honeycomb.io/). Honeycomb.io is an impressive product. I ingested a week's worth of nginx logs in seconds and had a beautiful dashboard up in running in as much time as it took to write this sentence. Dope!
+[Ex-Facebook engineers launch Honeycomb, a new tool for your debugging nightmares](http://www.techrepublic.com/article/ex-facebook-engineers-launch-honeycomb-a-new-tool-for-your-debugging-nightmares/): Friend of [DevOps'ish](https://devopsish.com/), Charity Majors, and her fellow team members have officially launched [Honeycomb.io](https://honeycomb.io/). Honeycomb.io is an impressive product. I ingested a week's worth of nginx logs in seconds and had a beautiful dashboard up in running in as much time as it took to write this sentence. Dope!
 
 [Ansible 2.3 has been released](https://www.redhat.com/en/about/press-releases/red-hat-delivers-advanced-network-automation-latest-version-ansible?sc_cid=7016000000127NJAAY)! This release appears to focus on bringing more advocates into the Ansible fold as it enhances Windows and networking capabilities. I welcome the additional features as a fully unified management platform for all components in an enterprise has never really panned out.
 

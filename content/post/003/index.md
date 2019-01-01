@@ -15,7 +15,7 @@ aliases = [
 ]
 +++
 
-Merry Christmas and Happy [**DevOps**](/)! 🎅 🎄 🤶
+Merry Christmas and Happy [**DevOps**](https://devopsish.com/)! 🎅 🎄 🤶
 
 Quick hitter this week as the family watches Elf.
 

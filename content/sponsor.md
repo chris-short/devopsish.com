@@ -38,11 +38,11 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 
 ## DevOps'ish Ad Format
 
-Your ad will be featured *natively* in e-mails to all subcribers and on [devopsish.com](/). Additionally, I'd be happy to share your ad on social media. However, a limit of no more than three times per week on a schedule that fits the needs of advertiser(s) exists.
+Your ad will be featured *natively* in e-mails to all subcribers and on [devopsish.com](https://devopsish.com/). Additionally, I'd be happy to share your ad on social media. However, a limit of no more than three times per week on a schedule that fits the needs of advertiser(s) exists.
 
 Ads include a bolded headline, additional copy, links as specified, and are followed by the italicized word, *SPONSORED*. This native format prevents ad blockers from blocking ads. It also eliminates a lot of headaches with regards to formatting. Total ad length including headline and *SPONSORED* tag should not exceed 280 characters.
 
-[**DEVOPS NEWSLETTER**](/)  
+[**DEVOPS NEWSLETTER**](https://devopsish.com/)  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut libero erat. Morbi convallis tempor facilisis. In vulputate hendrerit mollis. Suspendisse vitae massa aliquet, dignissim nibh quis, facilisis odio. Fusce sed consequat magna. *SPONSORED*
 
 Every week I begin the newsletter with an personal message or introduction. Ads appear after this message. If another location in the newsletter fits better for your ad please let me know.

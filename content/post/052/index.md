@@ -17,7 +17,7 @@ aliases = [
 
 +++
 
-This is the 52nd issue of [**DevOps'ish**](/)! While the official one-year anniversary is next week, there are 52 weeks in a year and now is as good a time as any to celebrate. In keeping with DevOps best practices, I shared some lessons learned in, [Notes on Running a Newsletter: A Year of DevOps'ish](https://chrisshort.net/notes-on-running-a-newsletter-a-year-of-devopsish/).
+This is the 52nd issue of [**DevOps'ish**](https://devopsish.com/)! While the official one-year anniversary is next week, there are 52 weeks in a year and now is as good a time as any to celebrate. In keeping with DevOps best practices, I shared some lessons learned in, [Notes on Running a Newsletter: A Year of DevOps'ish](https://chrisshort.net/notes-on-running-a-newsletter-a-year-of-devopsish/).
 
 To celebrate the DevOps'ish first anniversary, Kris Nova has graciously offered to sponsor a giveaway of her and Justin Garrison's new book, [*Cloud Native Infrastructure*](http://shop.oreilly.com/product/0636920075837.do). If you want to be entered to win, please complete the [DevOps'ish Diversity Form](https://goo.gl/forms/aVCS0AVwIyLouV1p2) for consideration. Winners will be announced in next week's newsletter!
 

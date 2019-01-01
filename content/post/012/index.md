@@ -18,7 +18,7 @@ aliases = [
 
 This week has been highlighted by multiple security events
 
-What an incredibly busy week news wise. No matter where you are in your [**DevOps**](/) journey it's very likely one of the major events this week affected you. I am in the process of fighting off a sinus infection too so this week was a lot to handle.
+What an incredibly busy week news wise. No matter where you are in your [**DevOps**](https://devopsish.com/) journey it's very likely one of the major events this week affected you. I am in the process of fighting off a sinus infection too so this week was a lot to handle.
 
 {{< mc >}}
 

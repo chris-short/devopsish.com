@@ -16,7 +16,7 @@ aliases = [
 
 +++
 
-I have recently taken over as a co-organizer of [**Triangle DevOps**](https://www.meetup.com/Triangle-DevOps/). In a meeting with the other primary co-organizer we talked a little about performance. [**DevOps**](/) considers network, code, system, and other aspects of performance. Yet, we rarely, if ever, consider what we can do to help the most critical part of our products; the front end.
+I have recently taken over as a co-organizer of [**Triangle DevOps**](https://www.meetup.com/Triangle-DevOps/). In a meeting with the other primary co-organizer we talked a little about performance. [**DevOps**](https://devopsish.com/) considers network, code, system, and other aspects of performance. Yet, we rarely, if ever, consider what we can do to help the most critical part of our products; the front end.
 
 The customer cares the most about the interface they use for the products we facilitate. If we do not consider caching, CDNs, and asset utilization at some point in our journey are we doing DevOps justice? I would argue it's not the job of development or design to consider global optimizations such as this. Don't get me wrong, it would be awesome if someone else cared but so often it is not even a thought. This is a part of what DevOps is all about! Optimization, reduce costs, and gain efficiencies. *DevOps is everything and everything is DevOps.*
 
