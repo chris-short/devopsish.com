@@ -49,7 +49,7 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 
 [Spectre-Like Flaw Undermines Intel Processors' Most Secure Element](https://www.wired.com/story/foreshadow-intel-secure-enclave-vulnerability/): Another bad week for Intel.
 
-[Pinning its Past, Present, and Future on Cloud Native](https://www.cncf.io/blog/2018/08/14/pinning-its-past-present-and-future-on-cloud-native/): My friend, Kim McMahon, shows us a talk I sadly missed at KubeCon last year (I was looking for a job after all).
+[Pinning its Past, Present, and Future on Cloud Native](https://www.cncf.io/blog/2018/08/14/pinning-its-past-present-and-future-on-cloud-native/): My friend, [Kim McMahon](https://kimmcmahon.me/), shows us a talk I sadly missed at KubeCon last year (I was looking for a job after all).
 
 [2FA, SMS, and you](https://www.juliaferraioli.com/blog/2018/08/2fa-sms-you/): Julia Ferraioli (sorry Julia, I probably spelled your name wrong) shows us, "not all 2FA is created equal."
 
