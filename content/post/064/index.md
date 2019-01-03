@@ -46,7 +46,7 @@ David vonThenen: [Twitter](https://twitter.com/dvonthenen) [LinkedIn](http://www
 Jonas Rosland: [Twitter](https://twitter.com/jonasrosland) [LinkedIn](https://www.linkedin.com/in/jonasrosland/)  
 Josh Bernstein: [Twitter](https://twitter.com/quityourjoshing) [LinkedIn](https://www.linkedin.com/in/jbernstein)  
 Kenny Coleman: [Twitter](https://twitter.com/kendrickcoleman) [LinkedIn](https://www.linkedin.com/in/kendrickcoleman/)  
-Kim McMahon: [Twitter](https://twitter.com/kamcmahon) [LinkedIn](https://www.linkedin.com/in/kimmcmahonmarketingdirector/)  
+[Kim McMahon](https://kimmcmahon.me/): [Twitter](https://twitter.com/kamcmahon) [LinkedIn](https://www.linkedin.com/in/kimmcmahonmarketingdirector/)  
 Steve Wong: [Twitter](https://twitter.com/cantbewong) [LinkedIn](http://www.linkedin.com/in/stevewongcodeteam)  
 Travis Rhoden: [Twitter](https://twitter.com/codenrhoden) [LinkedIn](http://www.linkedin.com/in/trhoden)  
 Vladimir Vivien: [Twitter](https://twitter.com/VladimirVivien) [LinkedIn](https://www.linkedin.com/in/vvivien)

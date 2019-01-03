@@ -55,7 +55,8 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 
 [L8ist Sh9y Podcast: Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes](https://soundcloud.com/user-410091210/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes)
 
-[Live-Tweeting at Conferences by Kim McMahon](https://www.linkedin.com/pulse/live-tweeting-conferences-kim-mcmahon/): I'm trying to get better at this. But, I think I'll leave the event tweeting to the pros.
+[Live-Tweeting at Conferences](https://www.linkedin.com/pulse/live-tweeting-conferences-kim-mcmahon/) by [Kim McMahon](https://kimmcmahon.me/): I'm trying to get better at this. But, I think I'll leave the event tweeting to the pros.
+
 {{< adsense-inarticle >}}
 
 ## Process
