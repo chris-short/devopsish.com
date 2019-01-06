@@ -11,7 +11,7 @@ title = "109: Get Caught Up, Kubernetes in High Demand, Two Monorepos Walk into 
 
 +++
 
-What a weird week. It started on Wednesday first of all. It felt like half of everyone was still on vacation. It was quiet but it was busy. There was a lot of great content this week too surprisingly. The time at the end of one year, the beginning of another is awesome. So many folks are taking time to write down their thoughts on everything from note taking during programming to monorepos to Kubernetes to infosec. It feels kinda magical out in the world of tech right now. Hopefully, we can turn this positive energy into something awesome this year.a
+What a weird week. It started on Wednesday first of all. It felt like half of everyone was still on vacation. It was quiet but, it was busy. There was a lot of great content this week too surprisingly. The time at the end of one year, the beginning of another is awesome. So many folks are taking time to write down their thoughts on everything from note taking during programming to monorepos to Kubernetes to infosec. It feels kinda magical out in the world of tech right now. Hopefully, we can turn this positive energy into something awesome this year.
 
 In case you have been in a cave, here are the top stories you might have missed the past two weeks:
 
