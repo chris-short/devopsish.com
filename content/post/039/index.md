@@ -98,4 +98,4 @@ A manager in an agile environment with strong technical skills. Collaborative le
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 902868413722349569 >}}
+{{< twitter 902868413722349569 >}}

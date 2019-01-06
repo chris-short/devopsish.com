@@ -82,4 +82,4 @@ Are you a curious mind? [Full Stack Fest](https://2017.fullstackfest.com) is a w
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 882960436911636482 >}}
+[![031 Tweet of the Week](/031/031-tweet-of-the-week.png)](https://twitter.com/chrisshort/status/882960128445747202)
