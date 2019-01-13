@@ -44,6 +44,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the IBM acquistion of 
 * [Analysts predict IBM's $34 billion acquisition of Red Hat could be 'game changing,' but there are still plenty of reasons to be skeptical](https://www.cnbc.com/2018/10/29/wall-street-says-ibms-red-hat-acquisition-could-be-game-changing.html) CNBC
 * [IBM sits draped over the bar at The Cloud or Bust saloon. In walks Red Hat](https://www.theregister.co.uk/2018/10/29/ibm_red_hat_analysis/) The Register
 * [We spoke with 7 insiders about IBM's $34 billion Red Hat takeover — here's how the biggest software deal of all time came together](https://www.businessinsider.com/how-ibm-and-red-hat-deal-came-together-2018-10) Business Insider
+* [IBM Began Buying Red Hat 20 Years Ago](https://www.linuxjournal.com/content/ibm-began-buying-red-hat-20-years-ago) TechCrunch
 
 ### Industry
 
