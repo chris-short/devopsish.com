@@ -118,4 +118,5 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 919042522596360193 >}}
+Malware to Fashion. Here is my malware disassembly dress I designed and sewn: [https://t.co/xK4KCkq0Gh](pic.twitter.com/xK4KCkq0Gh)  
+— Amanda Rousseau (@malwareunicorn) [October 14, 2017](https://twitter.com/malwareunicorn/status/919042522596360193)
