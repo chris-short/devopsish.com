@@ -79,8 +79,6 @@
   </ul>
   {{ end }}
 
-  {{ partial "jesf.html" . }}
-
   {{ partial "whoami.html" . }}
 
   {{ if or (ne ($.Param "sharingicons") false) (.Site.DisqusShortname) }}

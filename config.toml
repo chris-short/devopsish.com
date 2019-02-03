@@ -8,6 +8,7 @@ metaDataFormat = "toml"
 newContentEditor = "code"
 paginate = 5
 relativeURLs = true
+rssLimit = 5
 theme = "hugo-theme-bootstrap4-blog"
 title = "DevOps'ish"
 
@@ -30,9 +31,9 @@ title = "DevOps'ish"
     num_recent_posts = 6
 
   [params.stats]
-    subscribers = "2,515"
-    avg_open_rate = "48.5%"
-    avg_click_rate = "23.3%"
+    subscribers = "2,555"
+    avg_open_rate = "48.4%"
+    avg_click_rate = "23.2%"
 
 [Author]
   name = "Chris Short"
