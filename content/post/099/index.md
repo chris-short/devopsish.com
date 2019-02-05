@@ -36,8 +36,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [How Google Protected Andy Rubin, the ‘Father of Android’](https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html): The internet giant paid Mr. Rubin $90 million and praised him, while keeping silent about a misconduct claim.

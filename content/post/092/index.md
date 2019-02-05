@@ -31,8 +31,6 @@ Learn how to develop and push your apps to Kubernetes in our Office Hours every 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Air Force is looking into Elon Musk's pot smoking: Source](https://www.cnbc.com/2018/09/07/air-force-is-looking-into-elon-musks-pot-smoking-source.html) and [Air Force says it's not investigating Elon Musk for smoking pot](http://thehill.com/policy/defense/405688-air-force-says-its-not-investigating-elon-musk-for-smoking-pot): At this point, I don't think the Air Force can do much but, who knows.

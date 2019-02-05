@@ -41,8 +41,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Robert Scoble and Me](https://medium.com/@quinnnorton/robert-scoble-and-me-9b14ee92fffb) by Quinn Foster

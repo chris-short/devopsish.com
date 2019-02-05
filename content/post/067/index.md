@@ -21,8 +21,6 @@ GoCD supports continuous delivery out of the box with its built-in pipelines, ad
 
 [Learn how to setup your first pipeline](https://www.gocd.org/getting-started/part-1/?utm_source=changelog&utm_campaign=changelog-news&utm_campaign=gocd_visualize_model_workslow&utm_medium=newsletter_ad&utm_source=devopsish&utm_content=GOCD_getting_started&utm_term=) OR [check out their enterprise plugins and support](https://www.gocd.org/enterprise/?utm_campaign=gocd_visualize_model_workslow&utm_medium=newsletter_ad&utm_source=devopsish&utm_content=enterprise_page&utm_term=). *SPONSORED*
 
-{{< mc >}}
-
 ## Events
 
 [**Open Source 101 Columbia**](http://opensource101.com/columbia/)  

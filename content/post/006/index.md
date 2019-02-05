@@ -32,8 +32,6 @@ So much [**DevOps**](https://devopsish.com/) , so little time.
 
 [blockloop has a good post on bash and the terminal](https://www.blockloop.io/mastering-bash-and-terminal). It's pretty basic stuff and a little macOS centric. But, it does discuss my two favorite CLI utilities in macOS: pbcopy and pbpaste.
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 I don't know how I missed this last week but Flickr (yes, Flickr) has a great post about how they [tried to go through 2016 without buying new storage systems](https://code.flickr.net/2017/01/05/a-year-without-a-byte/).

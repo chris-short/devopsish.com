@@ -26,8 +26,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [We are Google employees. Google must drop Dragonfly.](https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb) — "We are Google employees and we join Amnesty International in calling on Google to cancel project [Dragonfly](https://theintercept.com/2018/08/01/google-china-search-engine-censorship/)." Let's face it, folks, censorship is terrible. There are [millions of Chinese citizens moving in with Chinese Uighurs to spy on them](https://www.usatoday.com/story/news/2018/11/15/china-diplomats-congress-muslim-persecution-rubio-uighur/2010636002/). The US Revolution was literally fought over stuff like this. It goes against the very fabric of freedom to aid in the creation of a wholly censored internet. It is highly likely that Chinese teenagers likely have no idea that [something happened in 1989](/104/china-89.pdf) that led to the putting down of over 10,000 people. US companies should not be in the business of aiding oppressive regimes oppress their people. China might be a market everyone wants to be in but, at what cost, Google?

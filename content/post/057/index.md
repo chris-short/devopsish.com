@@ -31,8 +31,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Vincent Batts: An Open Source Career from KDE to OCI](https://thenewstack.io/vincent-batts-kde-oci/): Vincent is a friend, and an absolutely wonderful person. It's awesome to see him get the recognition he deserves.

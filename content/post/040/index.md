@@ -29,8 +29,6 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Dave Cheney joined Heptio](https://dave.cheney.net/2017/09/06/why-i-joined-heptio) this week. The reason why is pretty awesome.

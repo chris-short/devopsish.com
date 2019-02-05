@@ -30,8 +30,6 @@ I like this time of year for the wrap-up pieces and year in reviews. Here are a 
 
 * [What I Learned in 2016](https://chrisshort.net/what-i-learned-in-2016/)
 
-{{< mc >}}
-
 ## Department of Next Year's Old Tech
 
 Please, for the love of God, do not let leap seconds bite you in the ass ever again. Percona has a great piece for getting this problem solved: [Don't Let a Leap Second Leap on Your Database!](https://www.percona.com/blog/2016/12/27/prepare-for-the-new-leap-second/)

@@ -24,8 +24,6 @@ Part of my job is to bring consistency to these teams that are separated 3,676 m
 
 The good news is I organized and lead my first [Triangle DevOps](https://tridevops.com) meetup on Wednesday night. It was a blast! [Josh Atwell](https://twitter.com/Josh_Atwell) did a superb job speaking (the GIF is glorious), [The Select Group](http://www.selectgroup.com/) fed us well, and [Transloc](http://transloc.com/) was a fantastic host. Thanks to everyone for a successful first rodeo!
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 I think it's save to say Jessie Frazzle broke the Internet with her exquisite comparison of [containers vs. Zones vs. Jails vs. VMs](https://blog.jessfraz.com/post/containers-zones-jails-vms/). Also, dudes need to stop telling Jess how containers work.

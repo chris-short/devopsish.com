@@ -36,8 +36,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [The Realities of Being a FOSS Maintainer](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728)

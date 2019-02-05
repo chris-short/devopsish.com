@@ -18,8 +18,6 @@ aliases = [
 
 March is Women's History Month and this past Wednesday was International Women's Day. I have a lot of people that influence me. I observe and take notes from a wide group of people who have great experiences to learn. This week I would like to take a moment and recognize some of the fantastic people that have influenced and helped me over the course of my DevOps journey. This list is 100% personal and selfish. You should make and share your own (even if it's just one).
 
-{{< mc >}}
-
 [**Jessie Frazelle**](https://blog.jessfraz.com/): Jess has been a wealth of knowledge both technically and socially. If I ever have a question about containers or Go I can go read something Jess has written or in a pinch ask her flat out. Jess is one of the smartest people I know. What's even crazier is despite how in demand she is, Jess is one of the nicest people I know. I nominated Jess for [The 2017 Women In Open Source Award](https://www.redhat.com/en/about/women-in-open-source) because she will likely go down in history as one of the greatest contributors of our generation. Thank you, Jess, for everything.
 
 [**Ashley McNamara**](http://ashleymcnamara.github.io/learn_to_code/): Ashley has helped me learn a bunch of coding fundamentals along my DevOps journey. She has referred me to so many people to talk to about myriad problems I have had over time (I have lost count). Ashley is a constant sounding board for issues, CFPs, and career advice. I cannot thank her enough for her guidance and advice. Ashley is an all around great person and friend too. She does all this while being a fantastic source of parenting advice. Thank you, Smash.

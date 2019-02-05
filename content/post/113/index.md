@@ -34,8 +34,6 @@ Just like how DevOps changed the way software is built and maintained, Kubernete
 4. [101 More Security Best Practices for Kubernetes](https://rancher.com/blog/2019/2019-01-17-101-more-kubernetes-security-best-practices/)
 5. [What Does a Site Reliability Engineer Do?](https://blog.scalyr.com/2019/01/site-reliability-engineer/)
 
-{{< mc >}}
-
 ## People
 
 [DevOps Team Topologies](https://web.devopstopologies.com/) — "What Team Structure is Right for DevOps to Flourish?" This is solid gold right here. So many nails being hit on the head here.

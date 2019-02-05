@@ -33,8 +33,6 @@ Ruby 2.4.0 was released! The [full changelog is also available](https://github.c
 
 [Tony Narlock](http://www.git-pull.com/) has made his upcoming book, [The Tao of tmux,](https://leanpub.com/the-tao-of-tmux) available to read for free.
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [David Gilbertson](https://hackernoon.com/@david.gilbertson?source=post_header_lockup) shares some performance tips during his experience, "[making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.xyp27gsp2)"

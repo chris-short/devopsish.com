@@ -21,8 +21,6 @@ The big news this week is Microsoft's acquisition of GitHub. Jim Zemlin, Executi
 [**Two Key Practices for your CI process**](https://www.gocd.org/2018/05/30/ci-microservices-feature-toggles-trunk-based-development/)  
 Trunk-based development and feature toggles are the two key practices which go a long way in implementing a robust CI process. In our new post of the CD of Microservices blog series, we'll focus on how to implement these two.  *SPONSORED*
 
-{{< mc >}}
-
 ## Events
 
 [Chaos Conf](https://chaosconf.splashthat.com/)  

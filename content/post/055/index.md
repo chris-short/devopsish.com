@@ -23,8 +23,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [A look at 42 women in tech who crushed it in 2017](https://techcrunch.com/gallery/a-look-at-42-women-in-tech-who-crushed-it-in-2017/): What a challenging, exhilarating year it has been for women everywhere, starting from the women's March on Washington to former Uber engineer Susan Fowler's eye-opening and now famous blog post to the #metoo movement that has swept the country, washing dozens of sexual predators out of their powerful roles in the process.

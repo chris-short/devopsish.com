@@ -31,8 +31,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Kubernetes: Call for Outreachy mentors](https://www.outreachy.org/communities/cfp/kubernetes/): HALP

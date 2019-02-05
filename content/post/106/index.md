@@ -37,8 +37,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Ashley McNamara created a Patreon](https://www.patreon.com/ashleymcnamara) (finally) — Y'all know what to do.

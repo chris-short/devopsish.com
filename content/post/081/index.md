@@ -22,8 +22,6 @@ Docker and Kubernetes provide the platform for organizations to get software to 
 [**Ballerina: Cloud-Native Programming Language**](http://ballerina.io/)  
 Ballerina makes it easy to write microservices that integrate APIs. TechWorld placed it as #1 in their "Top programming languages you should try". Ballerina supports modern protocols and data formats, has built-in constructs for event and stream processing, resiliency, parallel execution, and can deploy directly onto Docker and Kubernetes. *SPONSORED*
 
-{{< mc >}}
-
 ## Events
 
 [Kubernetes Workshop, Getting Minikube Up On Your Computer](https://www.meetup.com/Detroit-Kubernetes-Docker-all-things-Cloud-Native/events/251658852/)  

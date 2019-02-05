@@ -22,8 +22,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [A public f***ing service announcement that this is not ok, and you should absolutely not do this.](https://twitter.com/abbyfuller/status/1023937990991720448): Abby Fuller took dude bros to task over their behavior. Women deserve so much better.

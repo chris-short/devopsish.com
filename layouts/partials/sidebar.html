@@ -2,22 +2,16 @@
 
   <section class="sidebar-module">
     <p><a href="/"><img src="{{ .Site.BaseURL }}img/DevOpsish.png" alt="DevOps'ish" /></a></p>
-    <p>{{ partial "adsense-sidebar.html" . }}</p>
-
   </section>
 
   {{ if and (.Site.Params.sidebar) (isset .Site.Params.sidebar "about") }}
   <section class="sidebar-module sidebar-module-inset">
-    <h4>{{ i18n "about" }}</h4>
-    <p>{{ .Site.Params.sidebar.about | markdownify }}</p>
-
-    <h4>Newsletter</h4>
-    <p><a href="{{ .Site.BaseURL }}subscribe/"><strong>Subscribe to DevOps'ish</strong></a> for updates on DevOps, Cloud Native, and
-      Open Source news.</p>
+    {{ if .Site.Params.sidebar }}{{ partial "mc.html" . }}{{ end }}
   </section>
   {{ end }}
 
   <section class="sidebar-module">
+    <p>{{ partial "adsense-sidebar.html" . }}</p>
     <h4>Social</h4>
     <p><a href="https://twitter.com/ChrisShort" title="Chris Short on Twitter"><span class="fa fa-twitter fa-lg"></span></a>&nbsp;
       <a href="https://www.facebook.com/devopsish/" title="DevOps'ish on Facebook"><span class="fa fa-facebook fa-lg"></span></a>&nbsp;
@@ -25,7 +19,6 @@
       <a href="https://linkedin.com/in/thechrisshort/" title="Chris Short on LinkedIn"><span class="fa fa-linkedin fa-lg"></span></a>&nbsp;
       <a href="https://gitlab.com/chrisshort" title="Chris Short on GitLab"><span class="fa fa-gitlab fa-lg"></span></a>&nbsp;
       <a href="https://github.com/chris-short" title="Chris Short on GitHub"><span class="fa fa-github fa-lg"></span></a>&nbsp;
-      <a href="{{ .Site.BaseURL }}index.xml" title="DevOps'ish via RSS"><span class="fa fa-rss fa-lg"></span></a>&nbsp;
       <a href="mailto:chris@devopsish.com" title="Chris Short via E-mail"><span class="fa fa-envelope fa-lg"></span></a></p>
   </section>
 

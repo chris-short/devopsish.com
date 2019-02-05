@@ -35,8 +35,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [2018 Learnings, 2019 Expectations](https://chrisshort.net/2018-learnings-2019-expectations/) — What I learned this year and what I expect next year. I touched on Kubernetes, SRE, DevOps, Serverless, hypervisors, Impostor Syndrome, and much more.

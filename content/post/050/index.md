@@ -27,8 +27,6 @@ This post chronicles a mobile app development team's journey to continuous deliv
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Productivity When You Just Can't Even](https://superyesmore.com/0c73d6a1f086209af420c2ced442a2e8)

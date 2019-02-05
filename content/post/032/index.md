@@ -28,8 +28,6 @@ Are you a curious mind? [Full Stack Fest](https://2017.fullstackfest.com) is a w
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 Linus Torvalds said, "[I no longer feel like I can trust 'init' to do the sane thing](https://lkml.org/lkml/2017/7/6/577)" when discussing rlimit defaults for setuid execs.

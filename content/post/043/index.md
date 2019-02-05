@@ -37,8 +37,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Join the Open Source DevOps Team](https://opensource.com/devops-team): How to contribute to the Opensource.com DevOps resource collection

@@ -20,8 +20,6 @@ Memorial Day has many meanings but, this weekend I will remember those we've los
 
 The world of DevOps was a little chaotic this week. More and more I realize that people need a shock to the system to realize that they are just layering on more and more technical debt while driving themselves to obsolescence. We as a society have become two things: 1) a disposable society in which we would rather get something new than fixing a broken thing, and 2) an Apple society in which we expect simplistic concepts to have equally simplistic implementations. "It just works" has permeated our consciousness. Not many people care how it works.
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [Thirty common challenges to DevOps and how to resolve them](https://techbeacon.com/30-common-challenges-devops-how-resolve-them).

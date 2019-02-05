@@ -26,8 +26,6 @@ StitchFix delivers stylist-picked clothes to you with free shipping & returns. I
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Conference: All Things Open 2018](https://www.juliaferraioli.com/blog/2018/10/all-things-open-2018/): Julia Ferraioli breaks down All Things Open 2018 from her point of view. I was incredibly fortunate enough to hang out with Julia during All Things Open.

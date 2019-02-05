@@ -23,8 +23,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c) by Ashley McNamara

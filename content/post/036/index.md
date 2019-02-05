@@ -23,8 +23,6 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Let's Talk About Google by Kylie Robison](http://www.kylieerin.com/lets-talk-about-google/) inspired me to write [Chilling Effect of Google Manifesto](https://chrisshort.net/chilling-effect-of-google-manifesto/). Read both and see two different concerns about the Google memo.

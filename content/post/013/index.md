@@ -15,8 +15,6 @@ imagealt = "MacBook Running an IDE"
 
 I have been sick all week. I have pushed through it as much as possible but this was not a great week physically. However, there is plenty to discuss in the land of [**DevOps**](https://devopsish.com/).
 
-{{< mc >}}
-
 ## Department of Data Defense
 
 The Amazon S3 outage is the big story of the week. How many of you were impacted by it. I was to a minimal extent. Our products have been architected for failure pretty well. There was a little work to be done during the outage to work around one issue. Aside from that my time was spent monitoring things anticipating the catastrophe to expand (which it did to an extent). This did not cause any additional burden on my teams and I though. Why am I not mentioning [the reason behind the outage](https://aws.amazon.com/message/41926/)? Because it should not have been as devastating as it was. Folks, the cloud is still something you have to manage. Remember [error budgets from Google's Site Reliability Engineering](https://landing.google.com/sre/book/chapters/introduction.html) book? You have to anticipate outages and down time for just about everything in this world. Your code should not depend on one cloud provider's regional resource, ever. **Diversify your cloud**, folks!

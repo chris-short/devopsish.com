@@ -22,8 +22,6 @@ Quite the week in the greater world of technology. [Apple had an event](https://
 Barcelona, 4–8 Sept. 2017  
 Are you a curious mind? [Full Stack Fest](https://2017.fullstackfest.com) is a week-long conference based in the amazing city of Barcelona that peeks into the web of tomorrow. Serverless, Blockchain, WebVR, Distributed Web, Progressive Web Apps... Come and see! *SPONSORED*
 
-{{< mc >}}
-
 ## Department of Patent Pedantry
 
 Intel took us down memory lane this week with a [blog post discussing how X86 is almost forty years old](https://newsroom.intel.com/editorials/x86-approaching-40-still-going-strong/). Remember the 8086? MMX? SSE 1 through 4? VMX? Good times! Oh and remember that Intel has 1,600 patents and they are not afraid to sue the bejesus out of you.

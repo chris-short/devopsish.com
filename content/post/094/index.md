@@ -25,8 +25,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 **The Linus Torvalds Apology**:

@@ -26,8 +26,6 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Running Windows 95 in an "app" is a dumb stunt that makes a good point](https://arstechnica.com/gadgets/2018/08/running-windows-95-in-an-app-is-a-dumb-stunt-that-makes-a-good-point/): Software piracy remains an important part of preserving our digital heritage.

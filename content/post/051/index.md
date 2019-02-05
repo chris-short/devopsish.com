@@ -22,8 +22,6 @@ GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Inside the Revolution at Etsy](https://www.nytimes.com/2017/11/25/business/etsy-josh-silverman.html): The gutting of Etsy was particularly interesting for the DevOps world.

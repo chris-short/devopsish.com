@@ -26,8 +26,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Engineering well-rounded technology leaders](https://www.oreilly.com/ideas/engineering-well-rounded-technology-leaders): "Taking the time to construct a balanced plan of attack will enhance your breadth of knowledge while equipping you to stand anchored in the waves of digital transformation."

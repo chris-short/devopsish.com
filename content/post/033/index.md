@@ -19,8 +19,6 @@ Sunday, I flew back to NC to help close and move out of our house. It has turned
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Right Here, Right Now: 27 Simple Actions to Support Women in Tech](https://shift.newco.co/amp/p/1672110989cd): Below is a list of ideas. They require nothing but intention and time. They apply to men and women, people in leadership roles or individual contributors, people working for themselves or in companies. They won't just benefit women, or even just tech, they'll create a great environment for everyone.

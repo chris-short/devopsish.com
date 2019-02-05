@@ -31,8 +31,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Open sass: Ubuntu/Red Hat drama erupts at Openstack](https://www.computerworld.com.au/article/641672/open-sass-ubuntu-red-hat-drama-erupts-openstack/): "Canonical founder and part-time hobby astronaut Mark Shuttleworth opened a war of words with Red Hat on stage at Openstack last week" 🤭🤭🤭

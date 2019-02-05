@@ -24,8 +24,6 @@ The world of **DevOps** is running full bore. Microsoft is making big moves. Kub
 Barcelona, 4–8 Sept. 2017  
 Are you a curious mind? [Full Stack Fest](https://2017.fullstackfest.com) is a week-long conference based in the amazing city of Barcelona that peeks into the web of tomorrow. Serverless, Blockchain, WebVR, Distributed Web, Progressive Web Apps... Come and see! Early bird tickets available with a 10% discount using the code DEVOPSISH. *SPONSORED*
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [John Willis](https://twitter.com/botchagalupe) continues blowing peoples' minds in his latest piece, [The Calculus of Decision Making](https://medium.com/@johnwillis/the-calculus-of-decision-making-9721df6e5620)

@@ -23,8 +23,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 Nyah Check, a Software Developer from Cameroon and friend of mine has been accepted into the Hack Reactor San Francisco January 2018 cohort. The problem is he has to live in SF for four months! [Nyah started a crowdfunding campaign to help out](https://www.generosity.com/education-fundraising/hack-reactor-sf-sponsorship) and he's a little over halfway there. [Help Nyah!!!](https://www.generosity.com/education-fundraising/hack-reactor-sf-sponsorship)

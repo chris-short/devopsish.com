@@ -28,8 +28,6 @@ Since 2013, Aaron Delp and Brian Gracely have asked the community to donate to t
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [The Dirty War Over Diversity Inside Google](https://www.wired.com/story/the-dirty-war-over-diversity-inside-google/): This is insane. People I know are being impacted by this and it's happening in what was one of the good places to work.

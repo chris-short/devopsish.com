@@ -21,8 +21,6 @@ Ever have one of those weeks where you feel like more of a consultant than a ful
 
 In other news, I received a request to make the newsletter more responsive and readable. If you are reading this in a mail client then you should be benefitting from the hour or so I put into the new template. Reply to let me know what you think.
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [Ben Sima shared the first three things he installs on any new server.](https://bsima.me/clog/server-tools.html) I'm surprised he doesn't have this in Ansible for easy deployment.

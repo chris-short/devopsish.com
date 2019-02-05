@@ -21,8 +21,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [New zine: Help! I have a manager!](https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/): A new zine from Julia Evans!

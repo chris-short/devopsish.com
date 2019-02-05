@@ -26,8 +26,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [U.S. Yield Curve Just Inverted. That’s Huge.](https://www.bloomberg.com/opinion/articles/2018-12-03/u-s-yield-curve-just-inverted-that-s-huge) — This is a big deal. 2019 will bring an economic recession (not 2008 level but, within striking distance). Make sure you're at a place in life that can weather it.

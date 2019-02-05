@@ -19,8 +19,6 @@ I'm fresh off the plane from [DevOpsDays Charlotte 2018](https://www.devopsdays.
 [**How to build your first GoCD continuous delivery pipeline?**](https://www.gocd.org/2018/02/13/managing-build-versions-pipeline/?utm_campaign=cd_hacks&utm_medium=newsletter_ad&utm_source=devopsish&utm_content=cd_hacks_no_visual&utm_term=)  
 This blog uses a simple web service as an example to show you how to setup your first GoCD continuous delivery pipeline and manage your build version in it. [Check out the blog](https://www.gocd.org/2018/02/13/managing-build-versions-pipeline/?utm_campaign=cd_hacks&utm_medium=newsletter_ad&utm_source=devopsish&utm_content=cd_hacks_no_visual&utm_term=), and [get started with GoCD](https://www.gocd.org/2018/02/13/managing-build-versions-pipeline/?utm_campaign=cd_hacks&utm_medium=newsletter_ad&utm_source=devopsish&utm_content=GOCD_getting_started&utm_term=). *SPONSORED*
 
-{{< mc >}}
-
 ## Events
 
 The good folks at Linux Expo of Southern California, Inc. are providing a 50% discount to DevOps'ish readers. Use promo code **SHORT** for 50% off registration to SCALE and DevOpsDay LA!

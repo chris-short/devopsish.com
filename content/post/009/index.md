@@ -18,8 +18,6 @@ aliases = [
 
 What a week in [**DevOps**](https://devopsish.com/) ! There is so much news to share this week it took me an hour to collect it all! I also went to the [Open Source 101](http://opensource101.com/) conference this week to pick up some knowledge on communities. It was a very good conference. If the future of open source software was represented there it will definitely not be a white male dominated field.
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 Like a lot of sysadmin and DevOps teams, I bet you have some random cron jobs that are critical to your daily/weekly/monthly workflows. The problem with these jobs is that they always seem to never have a great place to live. [Marc Cuva](https://medium.com/@marccuva) and the Serverless movement [might have given us a solution to consider](https://blog.readme.io/writing-a-cron-job-microservice-with-serverless-and-aws-lambda/).

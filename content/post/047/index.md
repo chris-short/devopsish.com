@@ -28,8 +28,6 @@ Corey Quinn's [**Last Week in AWS**](https://lastweekinaws.com/): You Had Me at 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 ['Build a team that doesn't need you' and other counterintuitive strategies to succeed as a manager](https://blog.gitprime.com/counterintuitive-strategies-succeed-manager/): This speaks to my monologue in [DevOps'ish 045](/045/).

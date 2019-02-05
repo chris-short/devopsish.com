@@ -36,8 +36,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 4. [The 50 Best Workplaces in Technology](http://fortune.com/2019/01/17/50-best-workplaces-in-technology/)
 5. [A Crash Course For Running Istio](https://medium.com/namely-labs/a-crash-course-for-running-istio-1c6125930715)
 
-{{< mc >}}
-
 ## People
 
 [CEO of IBM Says Hiring Based on Skills Instead of College Degrees is Vital for the Future of Tech](https://gizmodo.com/ceo-of-ibm-says-hiring-based-on-skills-instead-of-colle-1831977815) — I'm still grappling with this one personally. No, I didn't go to college in the traditional sense. But, I also think colleges play an important role in our society. The real reason this is a topic here in the US is due to the enourmous cost of tuition. For example, we're estimating Max's (age 3) university tuition to be close to $200,000 USD. That's the equivalent of ₹14,180,100.00 Indian Rupees, £151,521.00 Pounds, ¥1,349,460.00 Chinese Yuan, or €175,431.00 Euro.

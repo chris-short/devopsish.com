@@ -24,8 +24,6 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Kwyn Meagher is looking for work](https://blog.kwyn.io/hireme.html): **You should hire Kwyn**. "I'm looking for a senior full-stack role on a product or developer tools team."
