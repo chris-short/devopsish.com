@@ -28,8 +28,6 @@ Operations teams have seen major benefits from DevOps. Now those benefits are ex
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [30 spies dead after Iran cracked CIA comms network with, er, Google search – new claim](https://www.theregister.co.uk/2018/11/02/iran_cracked_cia_google/) — Uncle Sam's snoops got sloppy with online chat, it seems

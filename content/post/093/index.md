@@ -45,8 +45,6 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Love Ansible?](https://cshort.co/2CJ7QL5) We want to hear from you! Tell us how you're innovating. Tell us how you got started. What do you do with the time that Ansible helps you save?

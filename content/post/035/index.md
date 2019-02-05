@@ -24,8 +24,6 @@ We are about a month away from [**DevOpsDay Raleigh**](https://www.devopsdays.or
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Exclusive: Here's The Full 10-Page Anti-Diversity Screed Circulating Internally at Google [Updated]](http://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320): This is fucking despicable. I'm not mad, I'm just utterly disappointed.

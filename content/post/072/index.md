@@ -19,8 +19,6 @@ This week has been a blur. Monday through Wednesday, I was in Atlanta for DevOps
 [**ReactiveOps — The Kubernetes Experts**](https://www.reactiveops.com/the-kubernetes-experts/?utm_campaign=DevOps%27ish&utm_source=newsletter)  
 ReactiveOps provides DevOps expertise and best practices to help companies implement world-class, Kubernetes-based Infrastructure on AWS/GCP — then we maintain it. We instill confidence in a company's application so that their engineers can focus on innovation that matters. *SPONSORED*
 
-{{< mc >}}
-
 ## Events
 
 [**Event-Based Architectures in Go**](https://www.meetup.com/DetroitGolang/events/249236487/)  

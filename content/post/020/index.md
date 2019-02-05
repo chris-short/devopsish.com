@@ -22,8 +22,6 @@ I used [Comic Sans](https://en.wikipedia.org/wiki/Comic_Sans) in the above image
 
 Containers are hard to explain to people because [containers aren't really a thing](https://blog.jessfraz.com/post/containers-zones-jails-vms/). Linux containers are a combination of pre-existing Linux kernel components. The Founder of Docker, Solomon Hykes, [tweeted out two sketches to explain the Moby Project](https://twitter.com/solomonstre/status/855918630915133440). The fact that this was necessary shows how awkward this is to explain. Now, the container waters are even muddier than they already were by this rough re-branding effort.
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [Mini-Guide to Google's Golang and Why It's Perfect for DevOps](https://blog.bluematador.com/posts/mini-guide-google-golang-why-its-perfect-for-devops/)

@@ -20,8 +20,6 @@ A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Ops: It's everyone's job now by Charity Majors](https://opensource.com/article/17/7/state-systems-administration): Ops is the process of delivering value to users. Ops is where beautiful theory meets stubborn reality.

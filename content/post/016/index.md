@@ -56,8 +56,6 @@ Last Sunday, shortly after [DevOps'ish Weekly 015](/016/) went out, [**Nicole Fo
 
 If Nicole Forsgren can bust out 38 awesome people DevOps'ing surely you can come up with ten. Share your ten awesome folks of #DevOps with [me on Twitter](https://twitter.com/ChrisShort). Nicole also started a "Ladies in [#DevOps](https://twitter.com/hashtag/DevOps?src=hash)" trend in the process of sharing this list. Show people respect where it is due.
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [Jacob Hoffman-Andrews was on The Changelog recently discussing Let's Encrypt](https://changelog.com/podcast/243). It is a fairly journey through the birth of one of the most important projects of the last couple of years.

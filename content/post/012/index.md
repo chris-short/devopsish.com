@@ -20,8 +20,6 @@ This week has been highlighted by multiple security events
 
 What an incredibly busy week news wise. No matter where you are in your [**DevOps**](https://devopsish.com/) journey it's very likely one of the major events this week affected you. I am in the process of fighting off a sinus infection too so this week was a lot to handle.
 
-{{< mc >}}
-
 ## Department of Sane Workplaces
 
 Unless you live under a rock I am almost certain you have heard about the [insanity Susan J. Fowler went through during her time at Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber). This shit is #NotOkay, folks, period. If you proposition your coworkers, you are in the wrong. If you harass your coworkers, you are in the wrong. If you cover up sexual misconduct, workplace violence, or any other human resource issue in your organization, **YOU ARE IN THE WRONG**. [I have said this a lot in the past year](https://chrisshort.net/what-the-military-taught-me-about-devops/), I did not spend 11 years in the military so ignorant jerks can harass people. You can read the [incredibly well written piece by Mike Isaac](https://www.nytimes.com/2017/02/22/technology/uber-workplace-culture.html) for an impartial point of view.

@@ -19,8 +19,6 @@ My week started out great! Spring had finally sprung here in Michigan. But, with
 [**Free Webinar: Continuous Delivery with Docker, Kubernetes, and GoCD**](https://info.thoughtworks.com/Continuous-Delivery-Docker-Kubernetes-webinar)  
 Docker and Kubernetes provide the platform for organizations to get software to market quickly. In this webinar, you will get a practical guide in designing a Docker-based CD pipeline on Kubernetes with GoCD. *SPONSORED*
 
-{{< mc >}}
-
 ## Events
 
 [**ChefConf 2018**](https://chefconf.chef.io/)  

@@ -23,8 +23,6 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [WHATIS Going to Happen With WHOIS?](https://motherboard.vice.com/en_us/article/vbpgga/whois-gdpr-europe-icann-registrar) Why is this a people issue? Because to display an EU citizen's name in WHOIS data would be illegal under the GDPR. ICANN is trying to figure out how to meet their transparency goals while still complying with the [GDPR](https://www.eugdpr.org/).

@@ -26,8 +26,6 @@ Let It Snow! Let It Snow! Let It Snow!
 
 This song has been in my head all day as the US east coast has been coated in a blanket of frozen participation. We have not taken down our interior Christmas decorations yet either so that might be part of it too.
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [Vladimir Vivien](https://medium.com/learning-the-go-programming-language/why-i-wrote-a-book-on-go-programming-b67aa5d3067b#.utvbksmbn) wrote a book on Go. [*Learning Go Programming*](https://vladimirvivien.github.io/learning-go/) was written over the course of a year and a half and is an attempt to make it easier for newcomers. I bought it and intend to read it.

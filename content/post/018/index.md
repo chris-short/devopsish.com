@@ -22,8 +22,6 @@ Surprisingly, I maintain a Mac server or two for package building for one of our
 
 In the world of [**DevOps**](https://devopsish.com/) otherwise, it has been a pretty busy week. Let's have a look!
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [Naveen](https://medium.com/@snaveen) shared a great list of [tools that make working with Kubernetes easier](https://medium.com/google-cloud/tools-that-make-my-life-easier-to-work-with-kubernetes-fce3801086c0). This is a kind of must have list. For whatever reason, I cannot get tab completion working with kubectl. ¯\\\_(ツ)\_/¯

@@ -34,8 +34,6 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Hacker Maps](http://www.hackermaps.org/): A consolidated map of B-Sides, 2600, and other hacker events

@@ -25,8 +25,6 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Chemists discover how blue light speeds blindness](https://phys.org/news/2018-08-chemists-blue.html): Time to get some blue filter computer glasses.

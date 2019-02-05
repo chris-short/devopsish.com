@@ -26,8 +26,6 @@ Oh look! There's a 666 in the epoch this week... Great! But, as one of my co-wor
 
 ![[Linux Performance](http://www.brendangregg.com/linuxperf.html) by [Brendan Gregg](https://twitter.com/brendangregg)](/008/linux-observability-tools.png)  *[Linux Performance](http://www.brendangregg.com/linuxperf.html) by [Brendan Gregg](https://twitter.com/brendangregg)*
 
-{{< mc >}}
-
 ## Department of Data Defense
 
 There is some pretty insane stuff happening in Russia. Some pretty [senior cybersecurity folks are being held by a military tribunal](https://www.buzzfeed.com/sheerafrenkel/theres-something-very-weird-happening-inside-russias-cyberse?utm_term=.mjeldYBvYv#.soZRp8Yg8g). Keep an eye on this one.

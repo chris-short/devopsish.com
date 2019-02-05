@@ -20,8 +20,6 @@ aliases = [
 
 Meanwhile, back on the [**DevOps**](https://devopsish.com/) ranch, it was a VERY busy week. I'm on-call for two products this week, working on three projects, writing an article inspired by my VP, submitting CFPs, and trying to keep up with the news. With so much going on let's get to the [DevOps'ish](https://devopsish.com/)!
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [Boot an OpenSSH server in 10 mins with LinuxKit](http://blog.alexellis.io/boot-linuxkit-in-10-mins/): Hands-on guide to use Docker's LinuxKit to build, run and connect to a bootable Linux system image with OpenSSH.

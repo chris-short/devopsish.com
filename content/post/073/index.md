@@ -21,8 +21,6 @@ If your AWS bill is too high, too complex, or too horrifying to observe directly
 [**Free Webinar: Continuous Delivery with Docker, Kubernetes, and GoCD**](https://info.thoughtworks.com/Continuous-Delivery-Docker-Kubernetes-webinar)  
 Docker and Kubernetes provide the platform for organizations to get software to market quickly. In this webinar, you will get a practical guide in designing a Docker-based CD pipeline on Kubernetes with GoCD. *SPONSORED*
 
-{{< mc >}}
-
 ## Events
 
 [**CNCF Webinar Series – Dynamic Security Governance and Visibility of Kubernetes Workloads**](https://www.cncf.io/event/webinar-security-governance-kubernetes/)

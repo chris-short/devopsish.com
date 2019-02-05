@@ -18,8 +18,6 @@ aliases = [
 
 Happy Easter! Hope you are enjoying your [**DevOps**](https://devopsish.com/)'ing selves. I have family in from the northern reaches of the US. Trying to optimize time this week so no "monologue"; let's get it!
 
-{{< mc >}}
-
 ## Department of Refreshment and Refurbishment
 
 [Ex-Facebook engineers launch Honeycomb, a new tool for your debugging nightmares](http://www.techrepublic.com/article/ex-facebook-engineers-launch-honeycomb-a-new-tool-for-your-debugging-nightmares/): Friend of [DevOps'ish](https://devopsish.com/), Charity Majors, and her fellow team members have officially launched [Honeycomb.io](https://honeycomb.io/). Honeycomb.io is an impressive product. I ingested a week's worth of nginx logs in seconds and had a beautiful dashboard up in running in as much time as it took to write this sentence. Dope!

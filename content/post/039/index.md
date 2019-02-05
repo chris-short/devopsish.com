@@ -34,8 +34,6 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [DevOpsDays Raleigh 2017 Attracts Top Talent](http://blog.globalknowledge.com/2017/08/29/devopsdays-raleigh-2017-attracts-top-talent/): Some of DevOps' elite will journey to Raleigh to share their wisdom and experiences from the trenches

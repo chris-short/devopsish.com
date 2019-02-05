@@ -38,8 +38,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Kubernetes Community Steering Committee Election Results](https://kubernetes.io/blog/2017/10/kubernetes-community-steering-committee-election-results/): Please congratulate Aaron Crickenberger, Derek Carr, Michelle Noorali, Phillip Wittrock, Quinton Hoole and Timothy St. Clair.

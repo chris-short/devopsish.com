@@ -38,8 +38,6 @@ GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Linux Journal Ceases Publication](http://www.linuxjournal.com/content/linux-journal-ceases-publication): "The simple fact is that we've run out of money, and options along with it."

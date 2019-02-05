@@ -37,8 +37,6 @@ The Real World DevOps Podcast talks about the messy, behind-the-scenes realities
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [18 people in tech every programmer and software engineer needs to follow in 2019](https://hub.packtpub.com/18-people-in-tech-every-programmer-and-software-engineer-needs-to-follow-in-2019/) — I'm honored (and flattered) to be on this list of wonderfully brilliant minds.

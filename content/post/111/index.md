@@ -38,8 +38,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 4. [I'm a Red Hat Certified Specialist: Ansible Automation](https://chrisshort.net/im-a-red-hat-certified-specialist-ansible-automation/)
 5. [5 open source tools to upgrade your next Kubernetes project](https://jaxenter.com/5-kubernetes-open-source-tools-154333.html)
 
-{{< mc >}}
-
 ## People
 
 [MacKenzie Bezos and the Myth of the Lone Genius Founder](https://www.wired.com/story/mackenzie-bezos-amazon-lone-genius-myth/) — I fully recognize the fact that I'm able to do everything I can do because my significant other does a lot that I can't. Be humble and thankful out there to everyone.

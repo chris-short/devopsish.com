@@ -26,8 +26,6 @@ TotalCloud is first-of-its-kind visually-rich interactive & immersive visual pla
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Containers Will Not Fix Your Broken Culture (and Other Hard Truths)](https://queue.acm.org/detail.cfm?id=3185224): I've seen Bridget give this talk a few times and I'm very glad to see it become a written work.

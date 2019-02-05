@@ -27,8 +27,6 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Artificial Intelligence Still Isn't All That Smart](https://www.bloomberg.com/view/articles/2018-08-16/smart-machines-won-t-be-ready-to-do-complex-jobs-anytime-soon): Some routine jobs might be at risk someday, but work requiring judgment seems safe.

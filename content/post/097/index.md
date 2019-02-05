@@ -24,8 +24,6 @@ A new sponsor was supposed to have their ad copy here this week. But, they never
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [I'm Leaving Google — Here's the Real Deal Behind Google Cloud](https://medium.com/@amirh1/im-leaving-google-and-here-s-the-real-deal-behind-google-cloud-1b86513be01b): The good and bad of GCP through the eyes of someone leaving Google.

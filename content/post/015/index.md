@@ -20,8 +20,6 @@ I have recently taken over as a co-organizer of [**Triangle DevOps**](https://ww
 
 The customer cares the most about the interface they use for the products we facilitate. If we do not consider caching, CDNs, and asset utilization at some point in our journey are we doing DevOps justice? I would argue it's not the job of development or design to consider global optimizations such as this. Don't get me wrong, it would be awesome if someone else cared but so often it is not even a thought. This is a part of what DevOps is all about! Optimization, reduce costs, and gain efficiencies. *DevOps is everything and everything is DevOps.*
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 Speaking of front end performance, [Google just announced Guetzli](https://research.googleblog.com/2017/03/announcing-guetzli-new-open-source-jpeg.html). It can create high quality JPEG images with file sizes 35% smaller.

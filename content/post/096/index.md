@@ -24,8 +24,6 @@ With the rise of docker and serverless patterns there is a whole new suite of to
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [If you're a recruiter, don't ever do this.](https://www.linkedin.com/feed/update/urn:li:activity:6452743681614106624/)

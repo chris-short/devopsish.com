@@ -18,8 +18,6 @@ aliases = [
 
 It has been a very busy week for me. I have been in Scotland since Tuesday. Jet lag is a real thing but, I have to say I have met some of the nicest people here (and I am a Southerner). As far as [**DevOps**](https://devopsish.com/) this week, I have been head down DevOps'ing. I have also been building bridges between teams in our global company. It is very exciting and despite constantly being tired the connections are happening.
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 The OpenShift Developer Evangelist Team announced this week that they are [releasing OpenShift tutorials](https://blog.openshift.com/announcing-easy-interactive-openshift-tutorials-developers/) targeting developers. They have teamed up with Katacoda and the first tutorial is [Getting Started with OpenShift for Developers](https://openshift.katacoda.com/introduction/getting-started/).

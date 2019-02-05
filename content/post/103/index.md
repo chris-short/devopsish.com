@@ -24,8 +24,6 @@ Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don'
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 ['Tis the Season of Family Tech Support](https://chrisshort.net/tis-the-season-of-family-tech-support/) — I put in some work this weekend.

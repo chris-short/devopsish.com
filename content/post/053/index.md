@@ -23,8 +23,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Here is what I read on the way to KubeCon](http://kanchana-wickremasinghe.blogspot.com/2017/12/here-is-what-i-read-on-way-to-kubecon.html): A review of Cloud Native Infrastructure

@@ -24,8 +24,6 @@ Hopefully, the week ahead will be calmer. Doubtful given I'll be in Atlanta on M
 Barcelona, 4–8 Sept. 2017  
 Are you a curious mind? [Full Stack Fest](https://2017.fullstackfest.com) is a week-long conference based in the amazing city of Barcelona that peeks into the web of tomorrow. Serverless, Blockchain, WebVR, Distributed Web, Progressive Web Apps... Come and see! Early bird tickets available with a 10% discount using the code DEVOPSISH. *SPONSORED*
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [Let's Encrypt Wildcard Certificates Coming January 2018](https://letsencrypt.org//2017/07/06/wildcard-certificates-coming-jan-2018.html): "Wildcard certificates will be offered free of charge via our upcoming ACME v2 API endpoint. We will initially only support base domain validation via DNS for wildcard certificates, but may explore additional validation options over time."

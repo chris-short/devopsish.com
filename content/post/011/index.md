@@ -20,8 +20,6 @@ Alexander Graham Bell Birthplace, Edinburgh, Scotland, United Kingdom
 
 My apologies for the delay in this week's DevOps'ish newsletter. When I opened the ole MacBook last night to hammer it out it dawned on me how exhausted I was. Instead of this newsletter I spent time with family and went to bed early. Sorry, not sorry. It was an eventful week in the world of [**DevOps**](https://devopsish.com/) though.
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 [Google Spanner](https://cloud.google.com/spanner/) was introduced as, "The first horizontally scalable, globally consistent, relational database service." After some initial reading on [Wired about Spanner](https://www.wired.com/2017/02/spanner-google-database-harnessed-time-now-open-everyone/) my interest has piqued. There is a white paper in regards to [CAP Theorem and Spanner](https://cloud.google.com/spanner/docs/whitepapers/SpannerAndCap.pdf) that is like reading a sci-fi novel in which laws of physics are bent to humanity's will. But the true gem in Spanner is [Google's handling of time](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf) (dubbed TrueTime) to create consistency.

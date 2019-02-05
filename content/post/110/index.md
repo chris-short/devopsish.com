@@ -45,8 +45,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 I'm going to add this new top five from the previous newsletter. Hit reply and tell me what you think.
 
-{{< mc >}}
-
 ## People
 
 [2018 and what’s to come in 2019](https://kimmcmahon.me/2018-and-whats-to-come-in-2019/) — My dear friend, **Kim McMahon**, wrote a great recap of her 2018, which started with the {code} team shuttering and being unemployed to becoming Senior Director of Digital Strategy at Cloud Foundry Foundation (CFF). A great read because it crosses over so many facets of the tech industry.

@@ -30,8 +30,6 @@ Where users, partners, customers, contributors and upstream project leads come t
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [The Five Love Languages of DevOps](https://medium.com/@mattstratton/the-five-love-languages-of-devops-77606263c910) by Matt Stratton

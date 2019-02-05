@@ -29,8 +29,6 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [Codeship and CloudBees Join Forces!](https://www.cloudbees.com/blog/codeship-and-cloudbees-join-forces)

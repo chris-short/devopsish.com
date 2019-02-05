@@ -38,8 +38,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [A venture capitalist says he's so afraid for his reputation that he's canceling meetings with women](http://www.businessinsider.com/a-vc-fears-for-his-reputation-and-is-canceling-meetings-with-women-2017-10)

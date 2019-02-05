@@ -23,8 +23,6 @@ This post chronicles a mobile app development team's journey to continuous deliv
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [The Highly-Effective Bipolar](https://medium.com/invisible-illness/the-highly-effective-bipolar-922ed3b8665) by Sarah Adams

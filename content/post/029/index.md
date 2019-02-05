@@ -26,8 +26,6 @@ Baruch also addressed the DevOps as a job title or department in a way that reso
 Barcelona, 4–8 Sept. 2017  
 Are you a curious mind? [Full Stack Fest](https://2017.fullstackfest.com) is a week-long conference based in the amazing city of Barcelona that peeks into the web of tomorrow. Serverless, Blockchain, WebVR, Distributed Web, Progressive Web Apps... Come and see! Early bird tickets available with a 10% discount using the code DEVOPSISH. *SPONSORED*
 
-{{< mc >}}
-
 ## Department of Choice Concepts
 
 Serverless is very real, folks. [Adam Pash](https://medium.com/@adampash) shows us how he's [Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of Magnitude](https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd)

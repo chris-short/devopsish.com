@@ -38,8 +38,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [My Cross-Platform Dev Setup on Surface Laptop](https://brianketelsen.com/my-cross-platform-dev-setup-on-surface-laptop/) by Brian Ketelsen

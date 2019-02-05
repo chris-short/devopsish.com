@@ -22,8 +22,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [The Mom Project, a job site for moms returning to work, nabs $8M from Initialized and more](https://techcrunch.com/2018/12/17/the-mom-project-a-job-site-for-moms-returning-to-work-nabs-8m-from-initialized-and-more/)

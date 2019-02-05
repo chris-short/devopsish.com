@@ -32,8 +32,6 @@ Discover how you can get greater visibility into how and where you’re being at
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [How old were you when you first started using Linux?](https://opensource.com/article/18/11/linux-age-poll) — Old or young: New Linux users come in all ages.

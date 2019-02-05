@@ -31,8 +31,6 @@ Jessie Frazelle hacked the bejesus out of CoreOS' Container Linux. [She put grap
 
 Eric Raymond is making the next version of NTP, aptly named NTPsec. He recently made [a comparison of Rust vs. Go for the NTPsec project](https://blog.ntpsec.org/2017/01/18/rust-vs-go.html) that is a good assessment of both languages.
 
-{{< mc >}}
-
 ## Department of Dafuq
 
 Remember [last week](/006/), when I linked to a piece from Red Hat about [SELinux stopping a Docker bug dead in its tracks](http://rhelblog.redhat.com/2017/01/13/selinux-mitigates-container-vulnerability/)? [Docker is not too happy about that](http://thenewstack.io/docker-calls-out-red-hat/) for some reason.

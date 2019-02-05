@@ -25,8 +25,6 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [How To Unfuck the Tech Industry by Respecting People](https://unfesto.com/)

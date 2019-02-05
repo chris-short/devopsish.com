@@ -25,8 +25,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 {{< sponsor-blurb >}}
 
-{{< mc >}}
-
 ## People
 
 [The Night Before Christmas, AWS Version (Video)](https://youtu.be/sNDaJqGwKjI)
