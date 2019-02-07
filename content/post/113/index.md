@@ -21,9 +21,6 @@ Check out GoCD’s latest blog in CD Metrics series. It talks about what lead ti
 [**Triangle DevOps presents DevOps is Not War with Chris Short of Red Hat**](https://www.meetup.com/triangle-devops/events/257189603/)  
 Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won’t lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to prevent conflict during your DevOps journey. *SPONSORED*
 
-[**WEBINAR: Being DevOps in a Kubernetes World**](https://resources.scalyr.com/being-devops-in-a-kubernetes-world-twp)  
-Just like how DevOps changed the way software is built and maintained, Kubernetes and its cloud-native ecosystem is changing the nature of development and deployment of applications. Join Chris Short at a virtual fireside chat on Tue 2-26 at 10:30am PST. *SPONSORED*
-
 {{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
