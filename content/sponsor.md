@@ -21,16 +21,16 @@ Demographic data outside of what's shared on this page for DevOps'ish subscriber
 
 Effective 2019-01-01
 
-For a one (1) week sponsorship period, the fixed fee is **$300 USD**. 
+For a one (1) week sponsorship period, the fixed fee is **$300 USD**.
 
-Fess are negotiable for nonprofits, community led projects without revenue, events with no revenue, or part of an ad sharing deal between other publications.
+Fees are negotiable for nonprofits, community led projects without revenue, events with no revenue, or part of an ad sharing deal between other publications.
 
 ### Sponsorship Discounts
 
 Discounts are provided as a way of saying thank you to DevOps'ish sponsors. Your long-term commitment is greatly appreciated!
 
-* Sponsors purchasing four to twelve weeks at a time receive a 5% discount.
-* Sponsors purchasing thirteen weeks or more at a time receive a 10% discount.
+* Sponsors purchasing four to twelve weeks at a time receive a 5% discount
+* Sponsors purchasing thirteen weeks or more at a time receive a 10% discount
 
 Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 
@@ -38,14 +38,16 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 
 ## DevOps'ish Ad Format
 
-Your ad will be featured *natively* in e-mails to all subcribers and on [devopsish.com](https://devopsish.com/). Additionally, I'd be happy to share your ad on social media. However, a limit of no more than three times per week on a schedule that fits the needs of advertiser(s) exists.
+Your ad will be featured *natively* in e-mails to all subcribers and on [devopsish.com](https://devopsish.com/). At special request, I can share your ad on social media. However, a limit exists of no more than three shares per week on a schedule that fits the needs of advertiser(s).
 
 Ads include a bolded headline, additional copy, links as specified, and are followed by the italicized word, *SPONSORED*. This native format prevents ad blockers from blocking ads. It also eliminates a lot of headaches with regards to formatting. Total ad length including headline and *SPONSORED* tag should not exceed 280 characters.
 
+Every week the newsletter begins with an introduction. Ads appear after this message. If another location in the newsletter fits better for your ad please let me know.
+
+### Example Ad
+
 [**DEVOPS NEWSLETTER**](https://devopsish.com/)  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut libero erat. Morbi convallis tempor facilisis. In vulputate hendrerit mollis. Suspendisse vitae massa aliquet, dignissim nibh quis, facilisis odio. Fusce sed consequat magna. *SPONSORED*
-
-Every week I begin the newsletter with an personal message or introduction. Ads appear after this message. If another location in the newsletter fits better for your ad please let me know.
 
 Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 
