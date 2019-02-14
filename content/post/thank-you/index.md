@@ -14,6 +14,8 @@ aliases = [
 
 +++
 
-I appreciate you subscribing! The newsletter uses a double opt-in sign-up. Please confirm your subscription. Once that is done a Welcome e-mail will come with a lovely GIF and eBook.
+I appreciate you subscribing! The newsletter uses a double opt-in sign-up following anti-spam laws and best practices. Please confirm your subscription via e-mail.
+
+Once confirmation is complete, a welcome e-mail will come with a lovely GIF and eBook. If there is anything you are particularly interested in, please don't hesitate to get in touch.
 
 Again, thank you for subscribing.
