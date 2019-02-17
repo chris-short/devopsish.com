@@ -3,7 +3,6 @@ author = "Chris Short"
 date = 2018-12-23T12:51:00Z
 description = "Sponsor DevOps'ish"
 draft = false
-slug = "sponsor"
 title = "Sponsor"
 aliases = [
     "/sponsorships",

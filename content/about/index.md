@@ -3,7 +3,6 @@ author = "Chris Short"
 date = 2018-03-29T19:25:00Z
 description = "About DevOps'ish"
 draft = false
-slug = "about"
 title = "About"
 aliases = [
     "@chrisshort"
