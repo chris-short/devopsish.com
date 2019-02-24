@@ -11,7 +11,7 @@ title = "116: Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, H
 
 +++
 
-Last week's attempt at full automation failed and pointed out a shortcoming or two. I hope that's all ironed out (time will tell).
+Last week's attempt at full automation failed and pointed out a shortcoming or two. ~~I hope that's all ironed out (time will tell).~~ It also highlights the need to think of always starting from a clean slate. My theory is, a cached version of the newsletter was stored on MailChimp. When I enabled the automation for web site to e-mail, MailChimp observed 115 as new and shipped it. Hopefully, you get this while I'm sleeping and everything works wonderfully. Ha!
 
 I was in Raleigh and Durham this week for several meetings and collaborative efforts. A HUGE thank you to everyone that attended the Triangle DevOps Meetup on Wednesday. Y'all showed up in crappy weather before the most anticipated [shoe blowouts](https://devopsish.com/116/zion-nike-shoe-fail.gif) of the year. Seriously though, thank you. I met some [great people from far away lands](https://twitter.com/cotufa82/status/1098580247853838336) and the discussion afterward was delightful.
 
