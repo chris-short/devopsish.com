@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
-date = 2019-03-03T06:00:00Z
+date = 2019-03-03T07:00:00Z
 description = "Docker Layoffs, Purl, Linus Knocks Arm, Killing k8s, Ansible, OperatorHub, Gremlin, PostgreSQL Operator, and More"
 draft = false
 slug = "117"
