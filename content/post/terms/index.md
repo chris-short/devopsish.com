@@ -37,6 +37,10 @@ The materials on DevOps'ish's website are provided on an 'as is' basis. DevOps'i
 
 Further, DevOps'ish does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
 
+## Privacy
+
+Please see [Privacy Policy](/privacy/).
+
 ## Limitations
 
 In no event shall DevOps'ish or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on DevOps'ish's website, even if DevOps'ish or a DevOps'ish authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.

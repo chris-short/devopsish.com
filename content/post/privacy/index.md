@@ -12,7 +12,7 @@ aliases = [
 
 +++
 
-Your privacy is important to us. It is DevOps'ish's policy to respect your privacy regarding any information we may collect from you across our website, [https://devopsish.com](https://devopsish.com/), and other sites we own and operate.
+It is DevOps'ish's policy to respect your privacy regarding any information we may collect from you across our website, [https://devopsish.com](https://devopsish.com/), and other sites we own and operate.
 
 ## Information we collect
 
