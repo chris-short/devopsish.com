@@ -7,7 +7,8 @@ draft = false
 slug = "terms"
 title = "Terms of Service"
 aliases = [
-    "disclaimer"
+    "disclaimer",
+    "legal"
 ]
 
 +++
