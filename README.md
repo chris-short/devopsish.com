@@ -10,7 +10,7 @@ Created by [Chris Short](https://chrisshort.net/).
 
 Built with [Hugo](https://gohugo.io/).
 
-Version Controlled on [GitLab](https://gitlab.com/chrisshort/devopsish.com)
+Version Control on [GitLab](https://gitlab.com/chrisshort/devopsish.com)
 
 Stored on [Google Cloud Storage](https://cloud.google.com/storage/).
 
