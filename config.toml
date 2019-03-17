@@ -31,9 +31,9 @@ title = "DevOps'ish"
     num_recent_posts = 5
 
   [params.stats]
-    subscribers = "2,738"
+    subscribers = "2,748"
     avg_open_rate = "48.4%"
-    avg_click_rate = "22.8%"
+    avg_click_rate = "22.9%"
 
 [Author]
   name = "Chris Short"
