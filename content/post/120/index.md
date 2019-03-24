@@ -42,7 +42,7 @@ Get access to a continuous flow of ideas and innovation that keeps you up to dat
 
 {{< tweet 1108967233915478016 >}}
 
-[5 Ways to Boost Your Earning Potential in DevOps](https://www.thirdrepublic.com/blog/boost-earning-potential-devops) — This article is Surprising good. It's sound advice.
+[5 Ways to Boost Your Earning Potential in DevOps](https://www.thirdrepublic.com/blog/boost-earning-potential-devops) — This article is surprisingly good. It's sound advice.
 
 [DevOps hiring and training: 16 top-rated skills](https://enterprisersproject.com/article/2019/3/devops-hiring-and-training-16-top-rated-skills)
 
