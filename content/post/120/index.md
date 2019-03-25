@@ -48,7 +48,7 @@ Get access to a continuous flow of ideas and innovation that keeps you up to dat
 
 [How to Help Your Team with Burnout When You’re Burned Out Yourself](https://hbr.org/2019/03/how-to-help-your-team-with-burnout-when-youre-burned-out-yourself) — I definitely nabbed a PDF of this for frequent reference.
 
-[Defining a Distinguished Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/) — An amazing checklist of things I attempt to (and often fail at) doing every, single day.
+[Defining a Distinguished Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/) — A fantastic checklist of things I attempt to (and often fail at) doing every, single day.
 
 [Meritocracy doesn't exist, and believing it does is bad for you](https://www.fastcompany.com/40510522/meritocracy-doesnt-exist-and-believing-it-does-is-bad-for-you) — "[I]n companies that explicitly held meritocracy as a core value, managers assigned greater rewards to male employees over female employees with identical performance evaluations. This preference disappeared where meritocracy was not explicitly adopted as a value."
 
@@ -66,7 +66,7 @@ Get access to a continuous flow of ideas and innovation that keeps you up to dat
 
 [Clippy briefly resurrected as Teams add-on, brutally taken down by brand police](https://arstechnica.com/gadgets/2019/03/clippy-briefly-resurrected-as-teams-add-on-brutally-taken-down-by-brand-police/) — The four people not a Microsoft employee that use Microsoft Teams wept.
 
-[Detecting the Kubernetes API Server DoS Vulnerability (CVE-2019-1002100)](https://sysdig.com/blog/detecting-the-kubernetes-api-server-dos-vulnerability-cve-2019-1002100/) — If you are not measuring traffic usage trends, looking for anomalies then you're missing some pretty early indicators of trouble.
+[Detecting the Kubernetes API Server DoS Vulnerability (CVE-2019-1002100)](https://sysdig.com/blog/detecting-the-kubernetes-api-server-dos-vulnerability-cve-2019-1002100/) — If you do not measure traffic usage trends, looking for anomalies, then you're missing some pretty early indicators of trouble.
 
 [Container storage outfit Portworx lands $27M funding round](https://siliconangle.com/2019/03/20/container-storage-outfit-portworx-lands-27m-series-c-round-funding/) — A Portworx customer once told me Portworx wasn't going to be around much longer. That was two years ago and they are so clearly wrong now.
 
@@ -90,7 +90,7 @@ Get access to a continuous flow of ideas and innovation that keeps you up to dat
 
 [The What and the Why of the Cluster API](https://blogs.vmware.com/cloudnative/2019/03/14/what-and-why-of-cluster-api/)
 
-[Bite Size zine pack!](https://wizardzines.com/zines/bite-size-3-pack/) — Julia Evan's three Bite Size zines are for sale as a $28 pack! This is definitely one of those things you will buy, keep in your notes app as the evolve over the years, and reference at least once a quarter.
+[Bite Size zine pack!](https://wizardzines.com/zines/bite-size-3-pack/) — Julia Evan's three Bite Size zines are for sale as a $28 pack! This is definitely one of those things you will buy, keep in your notes app as they evolve over the years, and reference at least once a quarter.
 
 [CI, and CI, and CI, oh my! (then more CI)](https://podman.io/blogs/2019/03/18/CI3.html) — "A detailed post about the CI setup we use for exercising proposed changes to libpod (podman repo)." If you build things, this will interest you. `podman` is literally mentioned twice and it's written by a GitHub employee (so stop with your Red Hat hate).
 
@@ -102,7 +102,7 @@ Get access to a continuous flow of ideas and innovation that keeps you up to dat
 
 [Git Releases - The missing link to your latest GitHub release asset](https://gitreleases.dev/) — I've always loathed the lack of a latest tag on GitHub releases. This helps with that!
 
-[Knative: What developers need to know](https://developers.redhat.com/blog/2019/03/20/knative-what-developers-need-to-know/) — "Although making wholesale changes to your system just to incorporate the latest and greatest technologies is most often not a good idea, you should stay informed and prepared. I hope this short article helps point you in the right direction." That's an awesome statement right there!
+[Knative: What developers need to know](https://developers.redhat.com/blog/2019/03/20/knative-what-developers-need-to-know/) — "Although making wholesale changes to your system just to incorporate the latest and greatest technologies is most often not a good idea, you should stay informed and prepared. I hope this short article helps point you in the right direction." That's a remarkable statement right there!
 
 [Move your dotfiles to version control](https://opensource.com/article/19/3/move-your-dotfiles-version-control) — Be like a tennis shoe and just do it.
 
