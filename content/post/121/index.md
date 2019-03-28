@@ -15,6 +15,9 @@ INTRO
 
 > QUOTE
 
+[**Log Management Modernized**](https://logdna.com/sign-up/?utm_medium=Syndication&utm_campaign=DevOpsish&utm_source=DevOpsish)  
+With LogDNA's fast, multi-cloud logging platform, Engineering and DevOps teams can easily and quickly aggregate all system and application logs into one efficient platform. Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don't take our word for it. [Get started logging in a few minutes with a free trial](https://logdna.com/sign-up/?utm_medium=Syndication&utm_campaign=DevOpsish&utm_source=DevOpsish). *SPONSORED*
+
 **New Microsoft Azure Elastic Agent Plugin for GoCD**  
 With GoCD's new Azure plugin, run your CI/CD pipelines on Azure virtual machines, and let GoCD scale up on-demand agents based on your need. Remove bottlenecks and reduce the cost of your agent infrastructure.
 
