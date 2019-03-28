@@ -139,4 +139,6 @@ dig +short txt istheinternetonfire.com
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 948750329646075905 >}}
+> Fun new game this week: Figure out if your Chrome CPU usage is so high because of a JavaScript cryptominer delivered through a compromised ad, or if someone is dumping your kernel memory with JavaScript delivered through a compromised ad.
+
+— SwiftOnSecurity (@SwiftOnSecurity) [January 4, 2018](https://twitter.com/SwiftOnSecurity/status/948750329646075905?ref_src=twsrc%5Etfw)
