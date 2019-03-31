@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-03-31T07:00:00Z
-description = "No introduction. Enjoy your week!"
+description = "Kubernetes 1.14, Cloudy with a Chance of Complexity, Accelerate State of DevOps survey, and More"
 draft = false
 slug = "121"
 tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security"]
-title = "121"
+title = "121: Kubernetes 1.14, Cloudy with a Chance of Complexity, Accelerate State of DevOps survey, and More"
 
 +++
 
@@ -96,9 +96,9 @@ Get access to a continuous flow of ideas and innovation that keeps you up to dat
 
 [Analysis of Open source Kubernetes Operators](https://medium.com/@cloudark/analysis-of-open-source-kubernetes-operators-f6be898f2340) — "In this post we present analysis of open source Kubernetes Operators available on GitHub."
 
-[Ansible AWX 4.0.0](https://github.com/ansible/awx/releases/tag/4.0.0)
+[Ansible AWX 4.0.0](https://github.com/ansible/awx/releases/tag/4.0.0) — 48 commits in this release
 
-[minikube 1.0.0](https://github.com/kubernetes/minikube/releases/tag/v1.0.0)
+[minikube 1.0.0](https://github.com/kubernetes/minikube/releases/tag/v1.0.0) — Going v1!!!
 
 [lyft/cartography](https://github.com/lyft/cartography) — Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 
