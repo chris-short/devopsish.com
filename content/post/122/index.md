@@ -50,7 +50,7 @@ Get access to a continuous flow of ideas and innovation that keeps you up to dat
 
 ## Tools
 
-TOOLS
+[terraform-provider-dominos](https://ndmckinley.github.io/terraform-provider-dominos/) — "[E]ven though it’s a joke it will still order you a pizza. You are going to get a pizza. You should be careful with this provider, if you don’t want a pizza." Storing my credit card info in Vault seems natural now.
 
 ## DevOps'ish Tweet of the Week
 
