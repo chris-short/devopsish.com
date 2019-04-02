@@ -21,12 +21,6 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [Get started logging in a few minutes with a free trial](https://logdna.com/sign-up/?utm_medium=Syndication&utm_campaign=DevOpsish&utm_source=DevOpsish). *SPONSORED*
 
-**New Microsoft Azure Elastic Agent Plugin for GoCD**  
-With GoCD's new Azure plugin, run your CI/CD pipelines on Azure virtual machines, and let GoCD scale up on-demand agents based on your need. Remove bottlenecks and reduce the cost of your agent infrastructure.
-
-Learn more about GoCD: [www.gocd.org](https://www.gocd.org)  
-Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/current/ *SPONSORED*
-
 [**O'Reilly Online Learning**](https://www.oreilly.com/pub/cpc/202986)  
 Get access to a continuous flow of ideas and innovation that keeps you up to date. Start a 10-day free O'Reilly Online Learning trial today *SPONSORED*
 
