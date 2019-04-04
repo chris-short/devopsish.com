@@ -38,6 +38,8 @@ Get access to a continuous flow of ideas and innovation that keeps you up to dat
 
 [Want an awesome job, working in a great team, with a tremendous leader?](https://social.icims.com/viewjob/pt1553611085158445da) — If you're in Europe and want to work on the Ansible team with other fellow Red Hatters. This is the job for you (maybe)!
 
+[Please Vote for Command Line Heroes in the Webby Awards](https://vote.webbyawards.com/PublicVoting/#/2019/podcasts/features/best-branded-podcast-or-segment) — Command Line Heroes is a podcast produced by my employer, Red Hat, but, it's definitely not sales pitchy (at all). I have friends that have appeared on the podcast and just last week I sat here in my office with a producer and recorded for an episode. Please take the time to vote. Thank you!
+
 ## Process
 
 [Take the Accelerate State of DevOps survey today!](https://google.qualtrics.com/jfe/form/SV_0v2VZMeA2Eha365?sp=5) — Can you spare some time to help the DORA research team know what it takes to make great software?
