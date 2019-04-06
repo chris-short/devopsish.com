@@ -28,11 +28,11 @@ Get access to a continuous flow of ideas and innovation that keeps you up to dat
 
 ## DevOps'ish Top Five from Last Week
 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [Kubernetes has a problem called etcd](https://www.reddit.com/r/kubernetes/comments/b6g90j/kubernetes_has_a_problem_called_etcd/)
+1. [5 Ways to Leave Your Work Stress at Work](https://hbr.org/2019/03/5-ways-to-leave-your-work-stress-at-work)
+1. [Istio monitoring explained](https://blog.giantswarm.io/Istio-monitoring-explained/)
+1. [Kubernetes v1.14: What you need to know](https://developers.redhat.com/blog/2019/03/25/kubernetes-v1-14-what-you-need-to-know/)
+1. [Endlessh](https://nullprogram.com/blog/2019/03/22/)
 
 ## People
 
