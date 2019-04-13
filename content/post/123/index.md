@@ -13,7 +13,7 @@ title = "123"
 
 INTRO
 
-> QUOTE
+> "Doubt kills more dreams than failure ever will." —Suzy Kassem
 
 [**Log Management Modernized**](https://logdna.com/sign-up/?utm_medium=Syndication&utm_campaign=DevOpsish&utm_source=DevOpsish)  
 With LogDNA's fast, multi-cloud logging platform, DevOps and Engineering teams can easily and quickly aggregate all system and application logs into one efficient platform.  
@@ -48,4 +48,4 @@ TOOLS
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1113239960348499968 >}}
+{{< tweet 1115593200184377346 >}}
