@@ -79,6 +79,12 @@
   </ul>
   {{ end }}
 
+  <hr />
+
+  <h3 id="subscribe">Subscribe to DevOps'ish</h3>
+
+  {{ partial "mc.html" . }}
+
   {{ partial "whoami.html" . }}
 
   {{ if or (ne ($.Param "sharingicons") false) (.Site.DisqusShortname) }}
