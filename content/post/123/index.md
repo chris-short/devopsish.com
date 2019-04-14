@@ -6,12 +6,12 @@ date = 2019-04-14T07:00:00Z
 description = ""
 draft = false
 slug = "123"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security"]
-title = "123"
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "system"]
+title = "123: Kubernetes, DevOps Pipelines, Trolls & Corporate Liability, How to Get Into SRE, Hannah Montana Linux, and More"
 
 +++
 
-I received my first credible death threat from someone over the internet when I was eighteen. No one knew what to do then. A few years later, I referred a credible threat to the FBI for investigation. No one knew what I should do in the meantime. A few months ago, a Twitter troll hounded my personal and several Red Hat accounts FOR DAYS. Why? I liked a tweet telling the troll people aren't obligated to talk to them because they released open source software. I liked a tweet and had to watch some jerkoff degrade my team, background, and professionalism. But, corporate policy is don't feed the trolls, so I didn't. I know folks that have gotten a lot worse.
+I received my first credible death threat from someone over the internet when I was eighteen (I was working for an ISP and had to cancel an account for terms violations). No one knew what to do then. A few years later, I referred a credible threat to the FBI for investigation (Muslim extremists). No one knew what I should do then either. A few months ago, a Twitter troll hounded my personal and several corporate accounts FOR DAYS. Why? I liked a tweet telling the troll people aren't obligated to talk to them because they released open source software. I liked a tweet and had to watch a troll degrade my team, background, and professionalism. But, corporate policy is don't feed the trolls, so I didn't. I know folks that have gotten a lot worse.
 
 One of my coworkers did something awesome behind the scenes and I got credit for it. When I asked my coworker if I could credit them, they asked me not to. They didn't want "that kind" of attention. That kinda sucked but, I completely understand. I talked to a friend of mine this week that was going through a hard time. They were getting all manner of trolls and "creepy fetish emails" this week. They protected their Twitter account and contacted their superiors as needed. But, at what point is the employer obligated to step in and digitally protect their employee? Sure, physical protection at events is excellent. But, [the harassment on the internet this week alone](https://www.nbcnews.com/tech/tech-news/first-picture-black-hole-made-katie-bouman-overnight-celebrity-then-n994081) has me thinking that employers do share some responsibility for it. We have these public personas for our jobs. The e-mails come to work addresses. At what point do we need to force Human Resources, Corporate Security, InfoSec, and others to sit at the table and figure this out?
 
