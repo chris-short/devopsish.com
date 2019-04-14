@@ -112,4 +112,8 @@ A new sponsor was supposed to have their ad copy here this week. But, they never
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1049716731172638722 >}}
+If you find yourself commenting code, this is a sign that it is not written clearly enough. Code should be self-documenting.
+
+For the same reason, no process at work should be documented: A well-run business is its own documentation.
+
+— Reginald Braithwaite (@raganwald) [October 9, 2018](https://twitter.com/raganwald/status/1049716731172638722?ref_src=twsrc%5Etfw)
