@@ -23,8 +23,8 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [Get started logging in a few minutes with a free trial](https://logdna.com/sign-up/?utm_medium=Syndication&utm_campaign=DevOpsish&utm_source=DevOpsish). *SPONSORED*
 
-[**O'Reilly Online Learning**](https://www.oreilly.com/pub/cpc/202986)  
-Get access to a continuous flow of ideas and innovation that keeps you up to date. Start a 10-day free O'Reilly Online Learning trial today *SPONSORED*
+[**Audiobook: Lean Enterprise**](https://devopsi.sh/g8MpN7)  
+How well does your organization respond to changing market conditions, customer needs, and emerging technologies? This practical guide presents Lean and Agile principles and patterns that enable you to move fast at scale—and demonstrates why and how to apply these methodologies throughout your organization, rather than in just one department or team. Through case studies, you'll learn how successful enterprises have rethought everything from governance and financial management to systems architecture and organizational culture in the pursuit of radically improved performance. *SPONSORED*
 
 {{< sponsor-blurb >}}
 
