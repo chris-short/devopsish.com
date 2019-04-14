@@ -97,4 +97,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1052283996414062599 >}}
+a public-facing job doesn't mean i'm not entitled to privacy
+
+— Abby Fuller (@abbyfuller) [October 16, 2018](https://twitter.com/abbyfuller/status/1052283996414062599?ref_src=twsrc%5Etfw)

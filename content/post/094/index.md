@@ -134,4 +134,10 @@ Two Tweets of the Week this week because Sage covers the Linus Torvalds news fro
 
 {{< tweet 1042769391279063040 >}}
 
-{{< tweet 1041691120332431361 >}}
+"keep it to technical content/stop complaining/be professional/these things don't even happen/not all men/unfollowing bc feminism" 
+
+Guess what? These issues are important: they affect our whole community. We're going to keep talking about them.
+
+We're more than just our jobs.
+
+— Abby Fuller (@abbyfuller) [September 17, 2018](https://twitter.com/abbyfuller/status/1041691120332431361?ref_src=twsrc%5Etfw)

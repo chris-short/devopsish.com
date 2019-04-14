@@ -110,4 +110,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1024101529043849216 >}}
+you shouldn't need mothers or sisters or wives or daughters to understand that women are people. the number of tweets i get saying "as a father/husband i appreciate you educating me". you shouldn't need me. educate yourself. respect all women, not just the ones in your life.
+
+— Abby Fuller (@abbyfuller) [July 31, 2018](https://twitter.com/abbyfuller/status/1024101529043849216?ref_src=twsrc%5Etfw)
