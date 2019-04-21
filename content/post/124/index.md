@@ -7,11 +7,11 @@ description = ""
 draft = false
 slug = "124"
 tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "system"]
-title = "124:"
+title = "124: Kubernetes Tools, Google Anthos and Cloud Run, Fenrir for Serverless, Five Abstractions Make an Inception, Ports on Linux, and More"
 
 +++
 
-INTRO
+I hope you had a wonderful week and are looking forward to the week ahead. I have been heads down working on Red Hat Summit work, upcoming releases, and trying to properly define DevOps this week. But, it has left me little time to really think about solving new problems. What do you do when you have complex problems to solve but only short bursts of time to work on them in? It's a balancing act for sure. Good luck this week in your endeavors!
 
 [**Log Management Modernized**](https://logdna.com/sign-up/?utm_medium=Syndication&utm_campaign=DevOpsish&utm_source=DevOpsish)  
 With LogDNA's fast, multi-cloud logging platform, DevOps and Engineering teams can easily and quickly aggregate all system and application logs into one efficient platform.  
@@ -40,7 +40,7 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 [The 5 communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/) — "Missing Empathy" and "Communication that triggers anxiety" are two big ones for me personally. Come to folks with problems but show that you're interested in learning more about the context. Also, if you send four separate DMs, one after another triggering four separate notifications on Slack, you're part of the problem.
 
-[The introvert's guide to Red Hat Summit](https://www.redhat.com/en/blog/introverts-guide-red-hat-summit) — If you're like me, going to Red Hat Summit but, have to ninja off to be a normal version of yourself for a little bit every once in a while, this guid is for you. Yes, I'll be at Red Hat Summit in Boston. Let me know if you'll be attending.
+[The introvert's guide to Red Hat Summit](https://www.redhat.com/en/blog/introverts-guide-red-hat-summit) — If you're like me, going to Red Hat Summit but, have to ninja off to be a normal version of yourself for a little bit every once in a while, this guide is for you. Yes, I'll be at Red Hat Summit in Boston. Let me know if you'll be attending.
 
 [What Happened When The DEA Demanded Passwords From LastPass](https://www.forbes.com/sites/thomasbrewster/2019/04/10/what-happened-when-the-dea-demanded-passwords-from-lastpass/#190345307ebe) — LastPass couldn't give the DEA the passwords because of their encryption implementation. But, there is always metadata and metadata can sometimes paint an even better picture than the data itself. An interesting tale of how you can do everything right and still screw your customers (or yourself, depending on the point of view).
 
@@ -50,11 +50,11 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 ## Process
 
-[**Accelerate: State of DevOps 2019 Survey**](https://google.qualtrics.com/jfe/form/SV_0v2VZMeA2Eha365?sp=5):  Nicole Forsgren, PhD is conducting the State of DevOps 2019 Survey. Your input is incredibly important. On several occassions, I have referenced [the 2018 report](https://cloudplatformonline.com/2018-state-of-devops.html) since its release for real world work that impacts real numbers. Nicole's group also wrote, [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2), which I cannot recommend enough either.
+[**Accelerate: State of DevOps 2019 Survey**](https://google.qualtrics.com/jfe/form/SV_0v2VZMeA2Eha365?sp=5):  Nicole Forsgren, PhD is conducting the State of DevOps 2019 Survey. Your input is incredibly important. On several occasions, I have referenced [the 2018 report](https://cloudplatformonline.com/2018-state-of-devops.html) since its release for real-world work that impacts real numbers. Nicole's group also wrote, [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2), which I cannot recommend enough either.
 
-[Homeland Security warns of security flaws in enterprise VPN apps](https://techcrunch.com/2019/04/12/enterprise-security-flaws/) — A hole in OpenVPN means there's a whole in your backdoor, eek! Seriously, upgrade ASAP. I stepped back from OpenVPN a couple years ago for a few reasons. If you need an alternative I'd recommend [WireGuard](https://www.wireguard.com/) (for personal use there is also [Outline](https://getoutline.org/)).
+[Homeland Security warns of security flaws in enterprise VPN apps](https://techcrunch.com/2019/04/12/enterprise-security-flaws/) — A hole in OpenVPN means there's a hole in your backdoor, eek! Seriously, upgrade ASAP. I stepped back from OpenVPN a couple of years ago for a few reasons. If you need an alternative I'd recommend [WireGuard](https://www.wireguard.com/) (for personal use there is also [Outline](https://getoutline.org/)).
 
-[Big Companies Thought Insurance Covered a Cyberattack. They May Be Wrong.](https://www.nytimes.com/2019/04/15/technology/cyberinsurance-notpetya-attack.html) — "Zurich Insurance, said it would not be sending a reimbursement check. It cited a common, but rarely used, clause in insurance contracts: the “war exclusion,” which protects insurers from being saddled with costs related to damage from war. Mondelez was deemed collateral damage in a cyberwar."
+[Big Companies Thought Insurance Covered a Cyberattack. They May Be Wrong.](https://www.nytimes.com/2019/04/15/technology/cyberinsurance-notpetya-attack.html) — "Zurich Insurance said it would not be sending a reimbursement check. It cited a common, but rarely used, clause in insurance contracts: the 'war exclusion,' which protects insurers from being saddled with costs related to damage from war. Mondelez was deemed collateral damage in a cyberwar."
 
 [The top two most popular Docker base images each have over 500 vulnerabilities](https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/) — "The last scan as of March 11, 2019 shows that the official Node.js image ships with 567 vulnerable system libraries. The remaining nine images ship with at least 31 publicly known vulnerabilities each." Remember, containers make it easy to ship software vulnerabilities too.
 
@@ -62,7 +62,7 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 [The Problem with SSH Agent Forwarding](https://defn.io/2019/04/12/ssh-forwarding/) — If you use SSH in an even remotely complicated way, please read this article. `ProxyJump` is your best friend in a lot of different situations.
 
-[Sometimes Kanban is Better Than Scrum - Yes, I Said It](https://www.mountaingoatsoftware.com/blog/when-kanban-is-the-better-choice) — "In some situations, other approaches are called for. Usually it will still be some variant of an agile approach. Most commonly that means Kanban."
+[Sometimes Kanban is Better Than Scrum - Yes, I Said It](https://www.mountaingoatsoftware.com/blog/when-kanban-is-the-better-choice) — "In some situations, other approaches are called for. Usually, it will still be some variant of an agile approach. Most commonly that means Kanban."
 
 ## Tools
 
@@ -74,11 +74,11 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 [Monitoring container vitality and availability with Podman](https://developers.redhat.com/blog/2019/04/18/monitoring-container-vitality-and-availability-with-podman/) — Healthchecks in Podman are now a thing.
 
-[How Google Cloud Run Combines Serverless with Containers](https://thenewstack.io/how-google-cloud-run-combines-serverless-with-containers/) — Cloud Run is a Google made layer on top of knative on top of Kubernetes on top of compute (which on GCP is probably a container in a container of containers). We might have finally hit enough abstractions to start measuring them by "inceptions" (five abstractions is one inception). Thoughts?
+[How Google Cloud Run Combines Serverless with Containers](https://thenewstack.io/how-google-cloud-run-combines-serverless-with-containers/) — Cloud Run is a Google-made layer on top of knative on top of Kubernetes on top of compute (which on GCP is probably a container in a container of containers). We might have finally hit enough abstractions to start measuring them by "inceptions" (five abstractions is one inception). Thoughts?
 
 [CRI-O + Container Linux: How to Install](https://edenmal.moe/post/2018/CRI-O-Container-Linux-How-to-Install/) — This post is showing how you can install and run CRI-O for Kubernetes on Container Linux
 
-[How do I check if a port is in use on Linux?](https://www.cyberciti.biz/faq/how-do-i-check-if-a-port-is-in-use-on-linux/) — The thing that shocked me the most about this article was the number of people that told me they had never heard of [`ss`](https://linux.die.net/man/8/ss) before. I've known about it since before RHEL 7 was released (2014). I discovered it in [this handy set of cheat sheets from Red Hat](https://access.redhat.com/articles/1189123) that shows you the difference in common commands between RHEL 5, 6, 7, and now RHEL 8. Full disclosure: I still use `sudo netstat -tupan` a lot more than I should (that command along with `perl -pie` solidifed my first position as a full time Linux SysAdmin).
+[How do I check if a port is in use on Linux?](https://www.cyberciti.biz/faq/how-do-i-check-if-a-port-is-in-use-on-linux/) — The thing that shocked me the most about this article was the number of people that told me they had never heard of [`ss`](https://linux.die.net/man/8/ss) before. I've known about it since before RHEL 7 was released (2014). I discovered it in [this handy set of cheat sheets from Red Hat](https://access.redhat.com/articles/1189123) that shows you the difference in common commands between RHEL 5, 6, 7, and now RHEL 8. Full disclosure: I still use `sudo netstat -tupan` a lot more than I should (that command along with `perl -pie` solidifed my first position as a full-time Linux SysAdmin).
 
 [Announcing Packer v.1.4.0](https://www.hashicorp.com/blog/announcing-packer-v-1-4-0) — Some interesting features for Packer users including a bevy of Windows features and some new provisioners (including Vagrant and InSpec).
 
