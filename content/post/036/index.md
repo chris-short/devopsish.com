@@ -67,7 +67,7 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 ## Tools
 
-[Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://smile.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677) by Kelsey Hightower, Brendan Burns, and Joe Beda
+[Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2Gr2AdK) by Kelsey Hightower, Brendan Burns, and Joe Beda
 
 [Disney Open Source](http://disney.github.io/)
 

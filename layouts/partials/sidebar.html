@@ -2,7 +2,7 @@
 
   <section class="sidebar-module">
     <p><a href="/"><img src="{{ .Site.BaseURL }}img/DevOpsish.png" alt="DevOps'ish" /></a></p>
-    {{ partial "adsense-sidebar-200.html" . }}
+    {{ partial "adsense-sidebar-auto.html" . }}
   </section>
 
   {{ if and (.Site.Params.sidebar) (isset .Site.Params.sidebar "about") }}
@@ -16,8 +16,8 @@
     <p><a href="https://t.me/devopsish" title="DevOps'ish on Telegram"><span class="fa fa-telegram fa-lg"></span></a>&nbsp;
       <a href="https://twitter.com/ChrisShort" title="Chris Short on Twitter"><span class="fa fa-twitter fa-lg"></span></a>&nbsp;
       <a href="https://linkedin.com/in/thechrisshort/" title="Chris Short on LinkedIn"><span class="fa fa-linkedin fa-lg"></span></a>&nbsp;
-      <a href="https://gitlab.com/chrisshort" title="Chris Short on GitLab"><span class="fa fa-gitlab fa-lg"></span></a>&nbsp;
       <a href="https://github.com/chris-short" title="Chris Short on GitHub"><span class="fa fa-github fa-lg"></span></a>&nbsp;
+      <a href="https://gitlab.com/chrisshort" title="Chris Short on GitLab"><span class="fa fa-gitlab fa-lg"></span></a>&nbsp;
       <a href="mailto:chris@devopsish.com" title="Chris Short via E-mail"><span class="fa fa-envelope fa-lg"></span></a></p>
   </section>
 
