@@ -1,6 +1,3 @@
-[Homeland Security warns of security flaws in enterprise VPN apps | TechCrunch](https://techcrunch.com/2019/04/12/enterprise-security-flaws/)
-[How much does a DevOps engineer make? | The Enterprisers Project](https://enterprisersproject.com/article/2019/4/devops-engineer-salary)
-[The top two most popular Docker base images each have over 500 vulnerabilities | Snyk](https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/)
 [Google bankrupting Apple privacy promises by handing data to police - Business Insider](https://www.businessinsider.com/google-bankrupting-apple-privacy-promises-by-handing-data-to-police-2019-4)
 [Chaos Engineering Traps – Nora Jones – Medium](https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059)
 [Announcing Packer v.1.4.0](https://www.hashicorp.com/blog/announcing-packer-v-1-4-0)

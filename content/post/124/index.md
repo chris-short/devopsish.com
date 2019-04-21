@@ -42,9 +42,15 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 [What Happened When The DEA Demanded Passwords From LastPass](https://www.forbes.com/sites/thomasbrewster/2019/04/10/what-happened-when-the-dea-demanded-passwords-from-lastpass/#190345307ebe) — LastPass couldn't give the DEA the passwords because of their encryption implementation. But, there is always metadata and metadata can sometimes paint an even better picture than the data itself. An interesting tale of how you can do everything right and still screw your customers (or yourself, depending on the point of view).
 
+[How much does a DevOps engineer make?](https://enterprisersproject.com/article/2019/4/devops-engineer-salary) — Putting debates around the term DevOps engineer aside, let’s explore data points on salaries for this hot job title
+
 ## Process
 
 [**Accelerate: State of DevOps 2019 Survey**](https://google.qualtrics.com/jfe/form/SV_0v2VZMeA2Eha365?sp=5):  Nicole Forsgren, PhD is conducting the State of DevOps 2019 Survey. Your input is incredibly important. On several occassions, I have referenced [the 2018 report](https://cloudplatformonline.com/2018-state-of-devops.html) since its release for real world work that impacts real numbers. Nicole's group also wrote, [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2), which I cannot recommend enough either.
+
+[Homeland Security warns of security flaws in enterprise VPN apps](https://techcrunch.com/2019/04/12/enterprise-security-flaws/) — A hole in OpenVPN means there's a whole in your backdoor, eek! Seriously, upgrade ASAP. I stepped back from OpenVPN a couple years ago for a few reasons. If you need an alternative I'd recommend [WireGuard](https://www.wireguard.com/) (for personal use there is also [Outline](https://getoutline.org/)).
+
+[The top two most popular Docker base images each have over 500 vulnerabilities](https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/) — "The last scan as of March 11, 2019 shows that the official Node.js image ships with 567 vulnerable system libraries. The remaining nine images ship with at least 31 publicly known vulnerabilities each." Remember, containers make it easy to ship software vulnerabilities too.
 
 ## Tools
 
