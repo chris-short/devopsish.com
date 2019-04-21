@@ -1,8 +1,3 @@
-[Introducing Fenrir: How Coinbase is Scaling Serverless Applications](https://blog.coinbase.com/introducing-fenrir-how-coinbase-is-scaling-serverless-applications-9ba6e3a74761)
-[The introvert’s guide to Red Hat Summit](https://www.redhat.com/en/blog/introverts-guide-red-hat-summit)
-[The Future of Serverless is… Functionless?](https://www.stackery.io/blog/future-of-serverless/)
-[What Happened When The DEA Demanded Passwords From LastPass](https://www.forbes.com/sites/thomasbrewster/2019/04/10/what-happened-when-the-dea-demanded-passwords-from-lastpass/#190345307ebe)
-[How Google Cloud Run Combines Serverless with Containers - The New Stack](https://thenewstack.io/how-google-cloud-run-combines-serverless-with-containers/)
 [Homeland Security warns of security flaws in enterprise VPN apps | TechCrunch](https://techcrunch.com/2019/04/12/enterprise-security-flaws/)
 [How much does a DevOps engineer make? | The Enterprisers Project](https://enterprisersproject.com/article/2019/4/devops-engineer-salary)
 [The top two most popular Docker base images each have over 500 vulnerabilities | Snyk](https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/)

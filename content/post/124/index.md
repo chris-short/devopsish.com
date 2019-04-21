@@ -38,13 +38,21 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 [Sonatype, Senior Technical Ambassador, DevOps Community](https://jobs.lever.co/sonatype/eb80a45e-dd73-4cc2-beae-58f2d4b937b2) — My friends at Sonatype are looking for an awesome DevOps person to talk about their great products and practices.
 
+[The introvert's guide to Red Hat Summit](https://www.redhat.com/en/blog/introverts-guide-red-hat-summit) — If you're like me, going to Red Hat Summit but, have to ninja off to be a normal version of yourself for a little bit every once in a while, this guid is for you. Yes, I'll be at Red Hat Summit in Boston. Let me know if you'll be attending.
+
+[What Happened When The DEA Demanded Passwords From LastPass](https://www.forbes.com/sites/thomasbrewster/2019/04/10/what-happened-when-the-dea-demanded-passwords-from-lastpass/#190345307ebe) — LastPass couldn't give the DEA the passwords because of their encryption implementation. But, there is always metadata and metadata can sometimes paint an even better picture than the data itself. An interesting tale of how you can do everything right and still screw your customers (or yourself, depending on the point of view).
+
 ## Process
 
 [**Accelerate: State of DevOps 2019 Survey**](https://google.qualtrics.com/jfe/form/SV_0v2VZMeA2Eha365?sp=5):  Nicole Forsgren, PhD is conducting the State of DevOps 2019 Survey. Your input is incredibly important. On several occassions, I have referenced [the 2018 report](https://cloudplatformonline.com/2018-state-of-devops.html) since its release for real world work that impacts real numbers. Nicole's group also wrote, [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2), which I cannot recommend enough either.
 
 ## Tools
 
-TOOLS
+[Introducing Fenrir: How Coinbase is Scaling Serverless Applications](https://blog.coinbase.com/introducing-fenrir-how-coinbase-is-scaling-serverless-applications-9ba6e3a74761) — "Fenrir is our AWS SAM deployer; at its core is a reimplementation of the `sam deploy` command as an AWS Step Function, so it’s a serverless serverless (serverless²) deployer." 🤯🤯🤯
+
+[The Future of Serverless is... Functionless?](https://www.stackery.io/blog/future-of-serverless/) — "With [AWS] [AppSync](https://aws.amazon.com/appsync/), DynamoDB Tables, SQL Databases (via Aurora Serverless), Lambda Functions, and ElasticSearch domains have all been elevated as [first-class “Data Sources” for GraphQL resolvers](https://docs.aws.amazon.com/appsync/latest/devguide/tutorials.html)."
+
+[How Google Cloud Run Combines Serverless with Containers](https://thenewstack.io/how-google-cloud-run-combines-serverless-with-containers/) — Cloud Run is a Google made layer on top of knative on top of Kubernetes on top of compute (which on GCP is probably a container in a container of containers). We might have finally hit enough abstractions to start measuring them by "inceptions" (five abstractions is one inception). Thoughts?
 
 ## DevOps'ish Tweet of the Week
 
