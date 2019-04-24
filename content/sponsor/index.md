@@ -18,18 +18,11 @@ Demographic data outside of what's shared on this page for DevOps'ish subscriber
 
 ## Sponsorship Rates
 
-Effective 2019-01-01
+Effective 2019-04-25
 
 For a one (1) week sponsorship period, the fixed fee is **$300 USD**.
 
 Fees are negotiable for nonprofits, community led projects without revenue, events with no revenue, or part of an ad sharing deal between other publications.
-
-### Sponsorship Discounts
-
-Discounts are provided as a way of saying thank you to DevOps'ish sponsors. Your long-term commitment is greatly appreciated!
-
-* Sponsors purchasing four to twelve weeks at a time receive a 5% discount
-* Sponsors purchasing thirteen weeks or more at a time receive a 10% discount
 
 Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 
@@ -48,6 +41,12 @@ Every week the newsletter begins with an introduction. Ads appear after this mes
 [**DEVOPS NEWSLETTER**](https://devopsish.com/)  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut libero erat. Morbi convallis tempor facilisis. In vulputate hendrerit mollis. Suspendisse vitae massa aliquet, dignissim nibh quis, facilisis odio. Fusce sed consequat magna. *SPONSORED*
 
-Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
+## Contact Me
+
+Interested in sponsoring?
+
+Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
+
+### Legal
 
 [Terms and conditions](/terms/) apply.
