@@ -11,11 +11,7 @@ aliases = [
 
 +++
 
-DevOps'ish is a weekly newsletter covering DevOps, Cloud Native, Open Source, and the 'ish in between by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/).
-
-{{< mc >}}
-
-DevOps'ish is grateful to have readers from across the globe and these organizations:
+DevOps'ish is a weekly newsletter covering DevOps, Cloud Native, Open Source, and the 'ish in between by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/). DevOps'ish is grateful to have readers from across the globe and these organizations:
 
 |             |          |                   |                     |
 |-------------|----------|-------------------|---------------------|
@@ -37,4 +33,4 @@ DevOps'ish is grateful to have readers from across the globe and these organizat
 
 And many others!
 
-If you are looking for other DevOps related newsletters head over to [**DevOps Newsletters**](https://devopsnewsletters.com/) for a comprehensive list.
+## Subscribe Today
