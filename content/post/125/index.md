@@ -6,8 +6,8 @@ date = 2019-04-28T07:00:00Z
 description = "125"
 draft = false
 slug = "125"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "system", "Docker Hub breach", "docker", "docker hub", "compromise"]
-title = "125: Docker Hub Breach, "
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "system", "Docker Hub breach", "docker", "docker hub", "compromise"]
+title = "125: Docker Hub Breach, Kubernetes Jobby Jobs, "
 image = "/125/docker-hub-breach.png"
 imagealt = "Docker Hub breach impacting at least 190,000 accounts"
 
@@ -19,7 +19,7 @@ What a series of unfortunate events for [**Docker**](http://petty.company) in 20
 
 Fast forward to Friday night on the US east coast (like we weren't going to notice?!?). Many people (myself included) [received an e-mail from Docker](https://devopsish.com/125/docker-hub-breach-email.pdf) about a **Docker Hub breach** impacting at least 190,000 accounts. According to the e-mail, "Data includes usernames and hashed passwords... as well as Github and Bitbucket tokens for Docker autobuilds." Audit any Docker Hub tokens right now. Docker also, "revoked GitHub tokens and access keys. This means your autobuilds will fail." Nothing like a page on a weekend because Docker broke your builds. Check your [Docker Hub Linked Accounts](https://cloud.docker.com/settings) and re-link them. You'll then likely have to do a weird do-si-do in the Build config of one of your image pages to get everything working as is.
 
-This Docker Hub breach is a **significant breach**. If any of the tokens of any of the common base images had been compromised — packages like Alpine, busybox, Node.JS, or any of the major databases — these could have easily permeated into the wild with little or no knowledge. From my point of view, the only way to be sure you're not affected is to somehow verify with the image provider that their account has been cleaned up and redeploy all your containers. Cleaned up as [directed by Docker](https://success.docker.com/article/docker-hub-user-notification) — note the URL, "success". Why? Because it's likely some upstream used Docker Hub even if you didn't. In other words, "Nuke the entire site from orbit. It's the only way to be sure."
+This Docker Hub breach is a **significant breach**. If any of the tokens of any of the common base images had been compromised — packages like Alpine, busybox, Node.JS, or any of the major databases — these could have easily permeated into the wild with little or no knowledge. From my point of view, the only way to be sure you're not affected is to somehow verify with the image provider that their account has been cleaned up and redeploy all your containers. Cleaned up as [directed by Docker](https://success.docker.com/article/docker-hub-user-notification) (note the URL, "success"). Why? Because it's likely some upstream used Docker Hub even if you didn't. In other words, "Nuke the entire site from orbit. It's the only way to be sure." Yes, it's that bad until it's confirmed otherwise.
 
 *What a Docker freaking mess we're in*. At the risk of being extra petty, I can't help but mention I started using [Quay](https://quay.io/) when I joined Red Hat and I'm pretty happy with it. It's a container registry, not an Alexander Wang piece. Quay is not perfect but, I'm not expecting a whole lot here. It looks like I'll be moving more images off Docker Hub in the future.
 
@@ -128,4 +128,4 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1118816110571339778 >}}
+{{< tweet 1122117406372057090 >}}
