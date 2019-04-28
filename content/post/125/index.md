@@ -46,7 +46,7 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [Google Walkout Organizers Say They're Facing Retaliation](https://www.wired.com/story/google-walkout-organizers-say-theyre-facing-retaliation/) — "Two employee activists at Google say they have been retaliated against for helping to organize a walkout among thousands of Google workers in November." I'm pretty sure this is illegal, no? The [dispute intensified](https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/) at a town hall on Friday. [#NotOkGoogle](https://twitter.com/hashtag/NotOkGoogle)
 
-[Hire People or Optimize Processes: A cost-benefit analysis for engineering leaders](https://codeclimate.com/blog/scale-engineering-calculator/) — Help figuring out if you should hire more people or optimize your widget making.
+[Hire People or Optimize Processes: A cost-benefit analysis for engineering leaders](https://codeclimate.com/blog/scale-engineering-calculator/) — Help to figure out if you should hire more people or optimize your widget making.
 
 [Kubernetes jobs hunt: How to land that role](https://enterprisersproject.com/article/2019/4/kubernetes-jobs-hunt-how-land-role) — Trying to get a job working with Kubernetes? Consider these five tips.
 
@@ -56,7 +56,7 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [The Science Behind DevOps with Dr. Nicole Forsgren — Real World DevOps](https://share.transistor.fm/s/433ecde0)
 
-[DevOps'ish Telegram](https://devopsi.sh/telegram) — Join the over 230+ DevOps, Kubernetes, SRE, and other technology professionals discussing real world problems and solutions to modern day issues.
+[DevOps'ish Telegram](https://devopsi.sh/telegram) — Join the over 230+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems and solutions to modern-day issues.
 
 ## Process
 
@@ -66,7 +66,7 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [7 advantages of open source for agile teams](https://enterprisersproject.com/article/2019/4/7-advantages-open-source-agile) — "Adopting DevOps and agile practices is how companies are managing the velocity of change. I imagine it’s possible to do agile or DevOps in a closed source world. The question then becomes, why put that hurdle there?"
 
-[Open Source Software: The Complete Wired Guide](https://www.wired.com/story/wired-guide-open-source-software/) — Some knowledge about open source software that's easily consumable by the unknowning.
+[Open Source Software: The Complete Wired Guide](https://www.wired.com/story/wired-guide-open-source-software/) — Some knowledge about open source software that's easily consumable by the unknowing.
 
 [Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur](https://pragprog.com/book/vbopens/forge-your-future-with-open-source) — And if you want to get going in Open Source, I highly recommend Vicky's book.
 
@@ -120,7 +120,7 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [bxcodec/gotcha](https://github.com/bxcodec/gotcha) — gotcha: inmemory-cache in Go (Golang) with customizable algorithm
 
-[mhausenblas/kboom](https://github.com/mhausenblas/kboom) — The Kubernetes scale & soak load tester (do you want to shread some clusters with me?!?)
+[mhausenblas/kboom](https://github.com/mhausenblas/kboom) — The Kubernetes scale & soak load tester (do you want to shred some clusters with me?!?)
 
 [GoogleCloudPlatform/berglas](https://github.com/GoogleCloudPlatform/berglas) — A tool for managing secrets on Google Cloud (I hope Google does End of Life this before the newsletter goes live)
 
