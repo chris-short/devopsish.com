@@ -31,6 +31,7 @@ Views expressed on this site do not reflect the opinions or views of:
 * opensource.com
 * Detroit Go Meetup
 * Detroit Kubernetes Meetup
+* Sponsors of DevOps'ish
 
 Nor those of any group Chris Short is or has been affiliated with or employed by.
 
