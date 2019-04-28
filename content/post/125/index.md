@@ -78,7 +78,7 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [A Roadmap to Convergence – OpenTracing](https://medium.com/opentracing/a-roadmap-to-convergence-b074e5815289) — "We are creating a new, unified set of libraries and specifications for observability telemetry. It will [merge the OpenTracing and OpenCensus projects](https://medium.com/opentracing/merging-opentracing-and-opencensus-f0fe9c7ca6f0), and provide a supported migration path."
 
-[The DevOps Institute Has Been Brandjacked](https://devops.com/the-devops-institute-has-been-brandjacked/) This is some pretty gross behavior by [QuickStart](https://www.quickstart.com/) but, trademark and copyright law exist for a reason. I certainly hope QuickStart Learning Inc. finds out about very soon.
+[The DevOps Institute Has Been Brandjacked](https://devops.com/the-devops-institute-has-been-brandjacked/) This is some pretty gross behavior by [QuickStart](https://www.quickstart.com/) but, trademark and copyright law exist for a reason. I certainly hope QuickStart Learning Inc. finds out about the law very soon.
 
 [Accenture sued over website redesign so bad it Hertz: Car hire biz demands $32m+ for 'defective' cyber-revamp](https://www.theregister.co.uk/2019/04/23/hertz_accenture_lawsuit/) — This is so bad y'all. [This Twitter thread](https://twitter.com/allafarce/status/1121174850226147328) is also gold.
 
