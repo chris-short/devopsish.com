@@ -6,16 +6,16 @@
 
 [**devopsish.com**](https://devopsish.com)
 
-Created by [Chris Short](https://chrisshort.net/).
+Created by [Chris Short](https://chrisshort.net/)
 
-Built with [Hugo](https://gohugo.io/).
+Built with [Hugo](https://gohugo.io/)
 
 Version Control on [GitHub](https://github.com/chris-short/devopsish.com)
 
 Continuous Integration on [GitLab](https://gitlab.com/chrisshort/devopsish.com/pipelines)
 
-Stored on [Google Cloud Storage](https://cloud.google.com/storage/).
+Stored on [Google Cloud Storage](https://cloud.google.com/storage/)
 
-Delivered by [Cloudflare](https://www.cloudflare.com/).
+Delivered by [Cloudflare](https://www.cloudflare.com/)
 
-Made in [Michigan](https://www.michigan.org/).
+Made in [Michigan](https://www.michigan.org/)
