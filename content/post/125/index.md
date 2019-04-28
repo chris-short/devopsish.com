@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-04-28T07:00:00Z
-description = "125"
+description = "Docker Hub Breach, Drupal in Kubernetes, Localize Kubernetes, Get Into Open Source, Apple's AWS Bill, Hertz Sues Accenture, and Much More"
 draft = false
 slug = "125"
 tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "system", "Docker Hub breach", "docker", "docker hub", "compromise"]
-title = "125: Docker Hub Breach, Kubernetes Jobby Jobs, "
+title = "125: Docker Hub Breach, Drupal in Kubernetes, Localize Kubernetes, Get Into Open Source, Apple's AWS Bill, Hertz Sues Accenture, and Much More"
 image = "/125/docker-hub-breach.png"
 imagealt = "Docker Hub breach impacting at least 190,000 accounts"
 
