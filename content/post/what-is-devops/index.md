@@ -2,11 +2,13 @@
 
 author = "Chris Short"
 date = 2019-05-08T07:00:00Z
-description = ""
+description = "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
 draft = false
 slug = "what-is-devops"
-tags = ["DevOps"]
+tags = ["DevOps", "business", "outcomes", "change", "open source", "high-velocity organization", "iterative improvement"]
 title = "What is DevOps"
+image = "/what-is-devops/devops.svg"
+imagealt = "Devops Toolchain graphic is provided under the CC BY-SA 4.0 via Wikimedia Commons"
 
 +++
 
@@ -82,3 +84,5 @@ In [The Dark Side of DevOps](https://chrisshort.net/the-dark-side-of-devops/) th
 ### Special Thanks
 
 A very special thanks to [Nathen Harvey](https://twitter.com/nathenharvey), [Kim McMahon](https://kimmcmahon.me), and [Emily Freeman](https://emilyfreeman.io/).
+
+[DevOps Toolchain](https://commons.wikimedia.org/wiki/File:Devops-toolchain.svg) graphic is provided under the CC BY-SA 4.0 via Wikimedia Commons
