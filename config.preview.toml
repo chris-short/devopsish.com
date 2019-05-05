@@ -1,5 +1,5 @@
 baseURL = "https://preview.devopsish.com/"
-copyright = "[Some rights reserved](https://devopsish.com/cc-by-sa-4.0/) | [Terms](https://devopsish.com/terms/) | [Privacy](https://devopsish.com/privacy/)"
+copyright = "[Some rights reserved](https://devopsish.com/cc-by-sa-4.0/) | [Terms](https://devopsish.com/terms/) | [Privacy](https://devopsish.com/privacy/) | [What is DevOps](https://devopsish.com/what-is-devops/)"
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-4498776-13"
