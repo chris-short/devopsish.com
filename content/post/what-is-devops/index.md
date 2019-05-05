@@ -62,7 +62,8 @@ In [The Dark Side of DevOps](https://chrisshort.net/the-dark-side-of-devops/) th
 
 ## What DevOps Isn't
 
-{{< tweet 859158123722010628 >}}
+[![Lemi Orhan Ergin on Twitter](/what-is-devops/lemiorhan-859158123722010628-devops.png "Lemi Orhan Ergin on Twitter")](https://twitter.com/lemiorhan/status/859158123722010628?ref_url=https:/devopsish.com/what-is-devops/)
+
 
 * DevOps is not something you can buy.
 * DevOps is not a tool.
