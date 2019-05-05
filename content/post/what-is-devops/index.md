@@ -1,14 +1,14 @@
 +++
 
 author = "Chris Short"
-date = 2019-05-08T07:00:00Z
+date = 2019-05-05T15:23:00Z
 description = "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
 draft = false
 slug = "what-is-devops"
 tags = ["DevOps", "business", "outcomes", "change", "open source", "high-velocity organization", "iterative improvement"]
 title = "What is DevOps"
 image = "/what-is-devops/devops.svg"
-imagealt = "Devops Toolchain graphic is provided under the CC BY-SA 4.0 via Wikimedia Commons"
+imagealt = "DevOps Toolchain graphic is provided under the CC BY-SA 4.0 via Wikimedia Commons"
 
 +++
 
