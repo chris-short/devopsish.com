@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-05-05T07:00:00Z
-description = ""
+description = "Ransom Attacks Hit Git, Managing Many Clusters, Kubernetes Failure Stories, Ansible-based Kubernetes Operators, Deadlines are Horrible, and More"
 draft = false
 slug = "126"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "system"]
-title = "126"
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "Red Hat", "docker", "ansible", "Ansible-based Operators", "logo", "AWS", "Amazon Web Services", "clusters", "infrastructure", "git", "GitHub", "GitLab"]
+title = "126: Ransom Attacks Hit Git, Managing Many Clusters, Kubernetes Failure Stories, Ansible-based Kubernetes Operators, Deadlines are Horrible, & More"
 
 +++
 
-Friday afternoon (US east coast time), some oddities around git repos being taken for ransom [started to pop-up](https://twitter.com/tomgilray/status/1124027843233615873). Safe to say, I'm paranoid af when it comes to the software delivery pipeline (GitHub and GitLab are both used to manage DevOps'ish) and immediately changed passwords everywhere I have code stored (and you should too, if you haven't already). [GitLab chimed in on the issue](https://about.gitlab.com/2019/05/03/suspicious-git-activity-security-update/) to confirm it did not appear to be a total loss of data on affected repos and provided fixes. GitLab also provided extensive incident details and I recommend checking them out. The cause? The age old problem of exposing version control dot directory when deploying a web site. [Don't publicly expose .git or how we downloaded your website's sourcecode - An analysis of Alexa's 1M](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/)
+Friday afternoon (US east coast time), some oddities around git repos being taken for ransom [started to pop-up](https://twitter.com/tomgilray/status/1124027843233615873). Safe to say, I'm paranoid af when it comes to the software delivery pipeline (GitHub and GitLab are both used to manage DevOps'ish). I immediately changed passwords everywhere I have code stored (and you should too if you haven't already). [GitLab chimed in](https://about.gitlab.com/2019/05/03/suspicious-git-activity-security-update/) on the issue to confirm it did not appear to be a total loss of data on affected repos and provided potential fixes. GitLab also provided extensive incident details I recommend checking out. The cause? The age-old problem of exposing version control dot directory when deploying a web site. [Don't publicly expose .git or how we downloaded your website's source code](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/).
 
 [**Find your next tech job**](https://www.indeedprime.com/devopsish/?sid=us_other-EmailSponsor_JS_ACQ&kw=Devopsish_Email2)  
 No more inbox spam from recruiters! Indeed Prime matches you with top tech companies and only sends tech job opportunities that match your career goals, technical skill set, location, and salary preferences. [Join for free today](https://www.indeedprime.com/devopsish/?sid=us_other-EmailSponsor_JS_ACQ&kw=Devopsish_Email2)! *SPONSORED*
@@ -34,7 +34,7 @@ Try LogDNA - [Start free trial](https://logdna.com/sign-up/?utm_medium=Syndicati
 
 ## People
 
-[Deadlines are horrible](https://groups.google.com/forum/m/#!msg/kubernetes-sig-release/dGVBrlkOXQo/5m1zFTT7AwAJ) — I have stopped apologizing for being "behind" on Kubernetes community work. I wish I could do more and commit to more things but, it's not my full time job. Open source work is largely volunteer-based and we shouldn't be this stressed helping folks out. Right?
+[Deadlines are horrible](https://groups.google.com/forum/m/#!msg/kubernetes-sig-release/dGVBrlkOXQo/5m1zFTT7AwAJ) — I have stopped apologizing for being "behind" on Kubernetes community work. I wish I could do more and commit to more things but, it's not my full-time job. Open source work is largely volunteer-based and we shouldn't be this stressed helping folks out. Right?
 
 [Product Marketing Manager — Ansible Automation](https://us-redhat.icims.com/jobs/69628/product-marketing-manager---ansible-automation/job?mobile=false&width=1638&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) — There are two or three open reqs on my team right now. If you're interested let me know (if I don't know you personally, send your LinkedIn profile too). I'll send you a unique URL to apply if I think you might be a good fit. Not a good fit but still need a job? [Indeed Prime](https://www.indeedprime.com/devopsish/?sid=us_other-EmailSponsor_JS_ACQ&kw=Devopsish_Email2) is a sponsor this week.
 
@@ -72,7 +72,7 @@ Try LogDNA - [Start free trial](https://logdna.com/sign-up/?utm_medium=Syndicati
 
 [What a pain in the Azzz-ure: Microsoft Azure, SharePoint, etc knocked offline by DNS blunder](https://www.theregister.co.uk/2019/05/02/microsoft_azure_outage_dns/) — I appreciate the difficult nature of DNS. But, outages like this are going to become less and less tolerated as more reliability is baked into infrastructure.
 
-[Brand New: New Logo for Red Hat](https://www.underconsideration.com/brandnew/archives/new_logo_for_redhat.php) — "The new logo is quite literal: it’s a red hat, but it’s red AF and hat AF."
+[Brand New: New Logo for Red Hat](https://www.underconsideration.com/brandnew/archives/new_logo_for_redhat.php) — "The new logo is quite literal: it's a red hat, but it's red AF and hat AF."
 
 ## Tools
 
@@ -84,13 +84,13 @@ Try LogDNA - [Start free trial](https://logdna.com/sign-up/?utm_medium=Syndicati
 
 [I forgot how to manage a server](https://ma.ttias.be/i-forgot-how-to-manage-a-server/) — "My config management does this for me. Whether it's Puppet, Ansible, Chef, ... all of the boring parts of being a sysadmin have been hidden behind management tools. Yet here I am, trying to quickly configure a personal server, without my company-managed config management to aid me." In a world of automation, the manual becomes foreign.
 
-[Building Operators with Ansible](https://www.ansible.com/integrations/containers/operators) — I have been working hard with my co-workers and OpenShift team to make sure Ansible-based Opeators for Kubernetes are a known solution. Want to run Day 2 operations inside your Kubernetes cluster? You might already have what you need in the form of an Ansible Playbook or Role. Operators are a pretty dope technology. Making them with Ansible is something I'll be talking about in two mini-theater sessions at Red Hat Summit this week.
+[Building Operators with Ansible](https://www.ansible.com/integrations/containers/operators) — I have been working hard with my co-workers and OpenShift team to make sure Ansible-based Operators for Kubernetes are a known solution. Want to run Day 2 operations inside your Kubernetes cluster? You might already have what you need in the form of an Ansible Playbook or Role. Operators are pretty dope technology. Making them with Ansible is something I'll be talking about in two mini-theater sessions at Red Hat Summit this week.
 
 [Introducing Red Hat Quay 3 - A Registry for your Linux and Windows Containers](https://www.redhat.com/en/blog/introducing-red-hat-quay-3-registry-your-linux-and-windows-containers) — Normally, I would not feature a product announcement from Red Hat unless it was something I worked on. But, as I mentioned last week, I really like Quay. It is now capable of multiarch builds which is very handy as well as a few other nice features from a container registry.
 
 [Grafana Dashboards for Kubernetes Administrators](https://povilasv.me/grafana-dashboards-for-kubernetes-administrators/) — Minimum Viable Dashboards for Kubernetes via Grafana
 
-[Why Script Based Deployments to Kubernetes Don't Scale](https://blog.armory.io/why-script-based-deployments-to-kubernetes-dont-scale/) — "Why use Spinnaker when I can just keep doing the same thing I’ve done before?"
+[Why Script Based Deployments to Kubernetes Don't Scale](https://blog.armory.io/why-script-based-deployments-to-kubernetes-dont-scale/) — "Why use Spinnaker when I can just keep doing the same thing I've done before?"
 
 [Synthetic Kubernetes cluster monitoring with Kuberhealthy](https://opensource.com/article/19/4/kuberhealthy) — "By enabling some simple synthetic checking, we stand a much better chance of catching these kinds of ephemeral and limited-scope disturbances in our infrastructure before customers or developers notice."
 
@@ -98,7 +98,7 @@ Try LogDNA - [Start free trial](https://logdna.com/sign-up/?utm_medium=Syndicati
 
 [Kubernetes Ingress Tutorial: Beginners Series](https://devopscube.com/kubernetes-ingress-tutorial/) — "You will learn the concept of ingress resource and ingress controllers used for routing external traffic to Kubernetes deployments."
 
-[Cilium 1.5: Scaling to 5k nodes and 100k pods, BPF-based SNAT, and Rolling Key Updates for Transparent Encryption](https://cilium.io/blog/2019/04/24/cilium-15/) — Cilium 1.5 now officially supports an eye watering, "5k nodes, 100k pods and 20k services."
+[Cilium 1.5: Scaling to 5k nodes and 100k pods, BPF-based SNAT, and Rolling Key Updates for Transparent Encryption](https://cilium.io/blog/2019/04/24/cilium-15/) — Cilium 1.5 now officially supports an eye-watering, "5k nodes, 100k pods and 20k services."
 
 [gopls](https://github.com/golang/go/wiki/gopls) — `gopls` (pronounced: "go please") is an implementation of the Language Server Protocol (LSP) server for Go. The LSP allows any text editor to be extended with IDE-like features.
 
