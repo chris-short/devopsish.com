@@ -19,3 +19,5 @@ Stored on [Google Cloud Storage](https://cloud.google.com/storage/)
 Delivered by [Cloudflare](https://www.cloudflare.com/)
 
 Made in [Michigan](https://www.michigan.org/)
+
+[What is DevOps](https://devopsish.com/what-is-devops/)
