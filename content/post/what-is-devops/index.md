@@ -79,7 +79,7 @@ In [The Dark Side of DevOps](https://chrisshort.net/the-dark-side-of-devops/) th
 
 * [DevOps README.md](https://chrisshort.net/devops-readme.md/)
 * [*DevOps For Dummies*](https://amzn.to/2TFOQFe)
-* [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling HighPerforming Technology Organizations*](https://amzn.to/2Xnc5S2)
+* [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2)
 
 ### Special Thanks
 
