@@ -15,14 +15,14 @@ imagealt = "Red Hat | IBM"
 
 A one-stop shop for opinion, analysis, and/or coverage of the IBM acquistion of Red Hat.
 
-### Official Statements
+## Official Statements
 
 * [IBM TO ACQUIRE RED HAT, COMPLETELY CHANGING THE CLOUD LANDSCAPE AND BECOMING WORLD’S #1 HYBRID CLOUD PROVIDER](https://www.redhat.com/en/about/press-releases/ibm-acquire-red-hat-completely-changing-cloud-landscape-and-becoming-worlds-1-hybrid-cloud-provider?intcmp=701f2000000RWK2AAO) (why are we shouting?) Red Hat
 * [Red Hat + IBM: Creating the leading hybrid cloud provider](https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider?intcmp=701f2000000RWK7AAO) Red Hat CEO, Jim Whitehurst
 * [A monumental day for open source and Red Hat](https://www.redhat.com/en/blog/monumental-day-open-source-and-red-hat?intcmp=701f2000000RWKCAA4) Red Hat EVP and President, Products and Technologies, Paul Cormier
 * [Why IBM's acquisition of Red Hat is a game-changer for the cloud industry](https://newsroom.ibm.com/Why-IBMs-acquisition-of-Red-Hat-is-a-game-changer-for-the-cloud-industry) IBM
 
-### Press
+## Press
 
 * [IBM to Acquire Linux Distributor Red Hat for $33.4 Billion](https://www.bloomberg.com/news/articles/2018-10-28/ibm-is-said-to-near-deal-to-acquire-software-maker-red-hat) Bloomberg
 * [IBM to acquire software company Red Hat for $34 billion](https://www.reuters.com/article/us-red-hat-m-a-ibm/ibm-nears-deal-to-acquire-cyber-security-company-red-hat-sources-idUSKCN1N20N3) Reuters
@@ -45,14 +45,15 @@ A one-stop shop for opinion, analysis, and/or coverage of the IBM acquistion of 
 * [IBM sits draped over the bar at The Cloud or Bust saloon. In walks Red Hat](https://www.theregister.co.uk/2018/10/29/ibm_red_hat_analysis/) The Register
 * [We spoke with 7 insiders about IBM's $34 billion Red Hat takeover — here's how the biggest software deal of all time came together](https://www.businessinsider.com/how-ibm-and-red-hat-deal-came-together-2018-10) Business Insider
 * [IBM Began Buying Red Hat 20 Years Ago](https://www.linuxjournal.com/content/ibm-began-buying-red-hat-20-years-ago) TechCrunch
+* [Department of Justice approves $34B IBM acquisition of Red Hat](https://www.wraltechwire.com/2019/05/06/department-of-justice-approves-34b-ibm-acquisition-of-red-hat/)
 
-### Industry
+## Industry
 
 * [IBM Acquires Red Hat, Now Who Does Google Buy?](https://www.cloudbees.com/blog/ibm-acquires-red-hat) CloudBees 🤮
 * [Statement on the IBM acquisition of Red Hat](https://blog.ubuntu.com/2018/10/30/statement-on-ibm-acquisition-of-red-hat) Ubuntu Blog 🙄
 * [2019 is the Year of Consolidation: Why IBM’s Deal with Red Hat is a Harbinger of Things to Come](https://www.cloudfoundry.org/blog/2019-is-the-year-of-consolidation-why-ibms-deal-with-red-hat-is-a-harbinger-of-things-to-come/) Cloud Foundry
 
-### Blogs, Newsletters, Digital Media, etc.
+## Blogs, Newsletters, Digital Media, etc.
 
 * [One Fish, Two Fish, Blue Fish Sporting New Red Hat](https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/) by Chris Short
 * [Red Hat and IBM: Elephants Can Dance](https://www.aniszczyk.org/2018/10/29/red-hat-and-ibm-elephants-can-dance/) Chris Aniszczyk
