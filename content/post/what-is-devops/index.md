@@ -20,7 +20,7 @@ If forced to put it in one sentence, I would describe DevOps as follows:
 
 > ***DevOps*** is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes.
 
-Etymological Note: DevOps, the word itself, should be used in an active voice. The word itself is the combining of two words Development and Operations.
+Etymological Note: DevOps, the word itself, should be used in an active voice. The word itself is the combining of two words Development and Operations. The word itself indicates that there will be a removal of silos as intended throughout this document.
 
 There's a lot to unpack in this definition. Let's dive into specific words and phrases to provide more color and further explain why this is my definition for DevOps.
 
