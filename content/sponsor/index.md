@@ -28,7 +28,7 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 
 {{< stats >}}
 
-## DevOps'ish Ad Format
+## Ad Format
 
 Your ad will be featured *natively* in e-mails to all subcribers and on [devopsish.com](https://devopsish.com/). At special request, I can share your ad on social media. However, a limit exists of no more than three shares per week on a schedule that fits the needs of advertiser(s).
 
