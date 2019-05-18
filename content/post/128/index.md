@@ -32,7 +32,7 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 ## People
 
-PEOPLE
+[DevOps'ish Telegram](https://devopsi.sh/telegram) — Join the nearly 300 DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
 
 ## Process
 
