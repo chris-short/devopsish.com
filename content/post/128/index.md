@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-05-19T07:00:00Z
-description = ""
+description = "128: MDS, Mined Minds, Red Hat & IBM, Kubernetes Operating Systems, ReactiveOps Polaris, ~~Best~~ Practices, and More"
 draft = false
 slug = "128"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "infrastructure", "git", "GitHub", "MDS", "Mined Minds"]
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "infrastructure", "git", "GitHub", "MDS", "Mined Minds", "best practice", "practices", "vuln", "vulnerabilities", "open source contributor"]
 title = "128: MDS, Mined Minds, Red Hat & IBM, Kubernetes Operating Systems, ReactiveOps Polaris, ~~Best~~ Practices, and More"
 
 +++
