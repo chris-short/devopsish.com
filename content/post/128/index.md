@@ -11,7 +11,9 @@ title = "128: MDS, Mined Minds, Red Hat & IBM, Kubernetes Operating Systems, Rea
 
 +++
 
-No. Contrary to what everyone I've talked to this week thinks, I'm not going to KubeCon Barcelona. I don't think I was really planning on it at the beginning of the year. I believe it was added to my schedule right before my Shingles diagnosis. Let me tell you, Shingles is bullshit. I've been battling a flare up of the nerve pain today and it's gnarly af. I was going to discuss the use of the term "best practice" this week but, I need to go get some rest. Instead, lend me your thoughts. [The Tweet of the Week this week](https://twitter.com/Kate_Catlin/status/1128403226678587393) provides the thinking behind modifying or eliminating the use of the phrase "best practices". [I asked for clarification from the greater community this week](https://twitter.com/ChrisShort/status/1129342806307278848) and the conversation was insightful. Check it all out and let me know what you think (Twitter, email, Telegram, etc.)!
+No. Contrary to what everyone I've talked to this week thinks, I'm not going to KubeCon Barcelona. I don't think I was really planning on it at the beginning of the year. I believe it was added to my schedule right before my Shingles diagnosis. Let me tell you, Shingles is bullshit. I've been battling a flare-up of the nerve pain today and it's gnarly af. I was going to discuss the use of the term "best practice" this week but, I need to go get some rest. Instead, lend me your thoughts. [The Tweet of the Week this week](https://twitter.com/Kate_Catlin/status/1128403226678587393) provides the thinking behind modifying or eliminating the use of the phrase "best practices". [I asked for clarification from the greater community this week](https://twitter.com/ChrisShort/status/1129342806307278848) and the conversation was insightful. Check it all out and let me know what you think (Twitter, email, Telegram, etc.)!
+
+Thank you to everyone that helped pushed the newsletter to over 3,000 subscribers!
 
 ## DevOps'ish Last Week's Top Five
 
@@ -49,7 +51,7 @@ No. Contrary to what everyone I've talked to this week thinks, I'm not going to 
 
 [**2019 State of Multicloud**](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) — A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Today!](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) *SPONSORED*
 
-[cpu.fail](https://cpu.fail) — Microarchitectural Data Sampling (MDS) and group of vulns individually known as ZombieLoad, RIDL, and Fallout have been disclosed publicly. Every processor Intel made since 2011 is impacted by these vulnerabilities. In my opinion, Arm is the future now. I wouldn't be surprised if organizations accelerated plans investing in Arm or switching architectures to Arm. Arm is by no means flawless but, Intel is not going to easily overcome this. Why? [Google Cloud is advising GKE customers](https://support.google.com/faqs/answer/9330250) they, "must disable hyper-threading." Truly mitigating these vulnerabilities means you will have half the CPUs you thought you did. Fellow Red Hatter Jon Masters has [an extended MDS explanation video](https://youtu.be/Xn-wY6Ir1hw) and [MDS blog post](https://www.redhat.com/en/blog/understanding-mds-vulnerability-what-it-why-it-works-and-how-mitigate-it) explaining more.
+[cpu.fail](https://cpu.fail) — Microarchitectural Data Sampling (MDS) and a group of vulnerabilities individually known as ZombieLoad, RIDL, and Fallout have been disclosed publicly. [Every processor Intel made since 2011](https://www.tomsguide.com/us/zombieload-attack-intel-what-to-do,news-30082.html) is impacted by these vulnerabilities. In my opinion, Arm is the future now. I wouldn't be surprised if organizations accelerated plans investing in Arm or switching architectures to Arm. Arm is by no means flawless but, Intel is not going to easily overcome this. Why? [Google Cloud is advising GKE customers](https://support.google.com/faqs/answer/9330250) they, "must disable hyper-threading." Truly mitigating these vulnerabilities means you will have half the CPUs you thought you did. Fellow Red Hatter Jon Masters has [an extended MDS explanation video](https://youtu.be/Xn-wY6Ir1hw) and [MDS blog post](https://www.redhat.com/en/blog/understanding-mds-vulnerability-what-it-why-it-works-and-how-mitigate-it) explaining more.
 
 {{< youtube Oeb-O4yKK2c >}}
 
@@ -73,7 +75,7 @@ Remember the ransom attacks that hit Git repos (see [DevOps'ish 126](https://dev
 
 [**How companies adopt and apply cloud native infrastructure--from O'Reilly**](https://www.oreilly.com/pub/cpc/224549) — Survey results reveal the path organizations face as they integrate cloud native infrastructure and harness the full power of the cloud. *SPONSORED*
 
-[Kubernetes, The Open and Scalable Approach to ML Pipelines](https://towardsdatascience.com/kubernetes-the-open-and-scalable-approach-to-ml-pipelines-1e972a965f0d) — Before I left Bankrate, we were trying to get our data scientists to embrace containers and a CI/CD pipeline (we built a rudimentary one for their high CPU and I/O needs). This articles helps data nerds embrace a pipeline much like that of software engineering and DevOps teams.
+[Kubernetes, The Open and Scalable Approach to ML Pipelines](https://towardsdatascience.com/kubernetes-the-open-and-scalable-approach-to-ml-pipelines-1e972a965f0d) — Before I left Bankrate, we were trying to get our data scientists to embrace containers and a CI/CD pipeline (we built a rudimentary one for their high CPU and I/O needs). This article helps data nerds embrace a pipeline much like that of software engineering and DevOps teams.
 
 [Improve your Dockerfile, ~~best~~ practices](https://dev.to/azure/improve-your-dockerfile-best-practices-5ll)
 
@@ -81,11 +83,13 @@ Remember the ransom attacks that hit Git repos (see [DevOps'ish 126](https://dev
 
 [Kubernetes Operating Systems](https://kubedex.com/kubernetes-operating-systems/) — "Well take a look at some of the features of Container Linux (formerly CoreOS), RancherOS, Talos, k3os and LinuxKit and discuss if there is any benefit to using these versus installing Kubernetes on a standard Linux distribution."
 
-[Build a quick CI system using Red Hat Ansible Tower with GitHub Actions](https://www.ansible.com/blog/build-a-quick-ci-system-using-red-hat-ansible-tower-with-github-actions) — My co-worker, [Sean Cavanaugh](https://www.ansible.com/blog/author/sean-cavanaugh), got access to GitHub Actions a little early and found an immediate use for it.
+[Build a quick CI system using Red Hat Ansible Tower with GitHub Actions](https://www.ansible.com/blog/build-a-quick-ci-system-using-red-hat-ansible-tower-with-github-actions) — My co-worker, [Sean Cavanaugh](https://www.ansible.com/blog/author/sean-cavanaugh), got access to GitHub Actions a little early and found immediate use for it.
 
 [Comparison of Kubernetes Top Ingress Controllers](https://caylent.com/kubernetes-top-ingress-controllers/) — "Choosing the right ingress controller becomes important when you start considering traffic and load coming to your Kubernetes cluster."
 
 [It's Time To Pay Attention To Intel's Clear Linux OS Project](https://www.forbes.com/sites/jasonevangelho/2019/05/13/its-time-to-pay-attention-to-intels-clear-linux-os-project/#425c335e5c49) — I would but my CPU is half the processor it used to be. Too soon?
+
+[Cluster API to the Rescue: An Easier Way to Manage Your Kubernetes Clusters](https://containerjournal.com/2019/05/13/cluster-api-to-the-rescue-an-easier-way-to-manage-your-kubernetes-clusters/)
 
 [Introducing Terraform Cloud Remote State Management](https://www.hashicorp.com/blog/introducing-terraform-cloud-remote-state-management) — Finally, a viable solution to Terraform state files that doesn't involve me burning incense and making ritualistic sacrifices trying not to get an [S3 Bucket Negligence Award](https://www.lastweekinaws.com/?utm_source=devopsish&utm_medium=email&utm_campaign=128).
 
