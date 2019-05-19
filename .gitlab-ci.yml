@@ -9,18 +9,19 @@ variables:
 compile:
   stage: test
   image: registry.gitlab.com/pages/hugo:latest
+  retry: 2
   before_script:
     - rm -rf public || exit 0
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
-    - hugo
+    - hugo --buildDrafts --buildFuture --minify
 
 build-preview:
   stage: build
   environment:
     name: preview
-    url: preview.devopsish.com
+    url: https://preview.devopsish.com
   artifacts:
     paths:
       - public
@@ -39,7 +40,7 @@ build-production:
   stage: build
   environment:
     name: production
-    url: devopsish.com
+    url: https://devopsish.com
   artifacts:
     paths:
       - public
@@ -50,7 +51,7 @@ build-production:
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
-    - hugo
+    - hugo --minify
   only:
     - master
 
@@ -58,7 +59,7 @@ deploy-preview:
   stage: deploy
   environment:
     name: preview
-    url: preview.devopsish.com
+    url: https://preview.devopsish.com
   image: google/cloud-sdk:alpine
   before_script:
     - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
@@ -75,7 +76,7 @@ deploy-production:
   stage: deploy
   environment:
     name: production
-    url: devopsish.com
+    url: https://devopsish.com
   image: google/cloud-sdk:alpine
   before_script:
     - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
