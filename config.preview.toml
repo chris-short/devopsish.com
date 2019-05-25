@@ -16,10 +16,6 @@ title = "DevOps'ish PREVIEW"
   tag = "tags"
   category = "categories"
 
-[outputs]
-  home = ["HTML", "AMP", "RSS"]
-  page = ["HTML", "AMP"]
-
 [permalinks]
   post = ":slug/"
   page = ":slug/"
