@@ -15,7 +15,7 @@ The end of May looms large on the horizon and a busy June is ahead for a lot of 
 
 1. Remember to pace yourself; you don't have to live a full life every day.
 2. Remember to be kind; you have no idea if the person standing next to you in line at the airport is going on vacation or to a funeral. This is why my typical response when interacting with folks in a customer service capacity is, "Thank you very much!" So rare is appreciation for their work shown directly to them. A little kindness goes a long way and the good news is, everyone has within them the capacity to have infinite kindness.
-3. But, don't be a doormat, please. Also, if you're sweaty af don't hug me; it's June you filthy carbon based life forms.
+3. But, don't be a doormat, please. Also, if you're sweaty af don't hug me; it's June you filthy carbon-based life forms.
 
 I'll be in Durham, NC 28-30 May and Raleigh 3-7 June. If you want to get together in the coming weeks, let me know. Stay safe out there and don't forget to drink water.
 
@@ -63,13 +63,13 @@ I'll be in Durham, NC 28-30 May and Raleigh 3-7 June. If you want to get togethe
 
 [A Practical kubernetes Operator using Ansible — an example](https://itnext.io/a-practical-kubernetes-operator-using-ansible-an-example-d3a9d3674d5b) — My friend and fellow Red Hatter, Jamie Duncan walks us through a variety of scenarios for using Ansible with Kubernetes Operators. Pretty awesome article.
 
-[Providing chaos hooks to applications through Litmus Operator](https://medium.com/mayadata/litmus-chaos-operator-the-whys-hows-10a4519ad864) — "Litmus operator allows developers and DevOps architects introduce chaos into the applications and Kubernetes infrastructure in a declarative intent format, in other words — the Kubernetes way." Litmus is really cool, y'all. I also owe the folks at MayaData some hands on time with it (and a blog post). The donkey should come hold me hostage here in my office one day. It can help me too but, it has to stay in character.
+[Providing chaos hooks to applications through Litmus Operator](https://medium.com/mayadata/litmus-chaos-operator-the-whys-hows-10a4519ad864) — "Litmus operator allows developers and DevOps architects introduce chaos into the applications and Kubernetes infrastructure in a declarative intent format, in other words — the Kubernetes way." Litmus is really cool, y'all. I also owe the folks at MayaData some hands-on time with it (and a blog post). The donkey should come hold me hostage here in my office one day. It can help me too but, it has to stay in character.
 
 [Hardening Prometheus and OpenEBS using Litmus](https://medium.com/mayadata/hardening-prometheus-and-openebs-using-litmus-143db2af59fb) — Yea, Litmus, y'all.
 
 [Humio Unveils Scalability Benchmark Running 100 Terabytes A Day In Real-Time](https://finance.yahoo.com/news/humio-unveils-scalability-benchmark-running-070000942.html) — Humio's [Scalability Benchmark](https://info.humio.com/scalability-benchmark) boasts 100TB/Day of observability. Whatever that means. ¯\\\_(ツ)\_/¯
 
-[What sucks about GitLab?](https://www.reddit.com/r/devops/comments/br4vui/what_sucks_about_gitlab/) — I'm sure there's something to learned here. Maybe we should stop assuming positive questions get the answers we want? 🤔🤔🤔
+[What sucks about GitLab?](https://www.reddit.com/r/devops/comments/br4vui/what_sucks_about_gitlab/) — I'm sure there's something to learn here. Maybe we should stop assuming positive questions get the answers we want? 🤔🤔🤔
 
 [The need for a standard, service mesh API](https://medium.com/solo-io/the-need-for-a-standard-service-mesh-api-d89be65f8fb3) — Ushering in the answer to, "Okay, I need a service mesh. Now which one?" It's great that this need was addressed so quickly.
 
@@ -85,7 +85,7 @@ I'll be in Durham, NC 28-30 May and Raleigh 3-7 June. If you want to get togethe
 
 [Hardware bootstrapping with Ansible](https://opensource.com/article/19/5/hardware-bootstrapping-ansible) — DHCP, PXE, and TFTP oh my!
 
-[Kubernetes Log Management: The Basics](https://www.bluematador.com/blog/kubernetes-log-management-the-basics) — "By the end of this post, you should have a good high level understanding of the essential concepts for logging with Kubernetes, and should be ready to begin implementing it for your cluster and logging use case."
+[Kubernetes Log Management: The Basics](https://www.bluematador.com/blog/kubernetes-log-management-the-basics) — "By the end of this post, you should have a good high-level understanding of the essential concepts for logging with Kubernetes, and should be ready to begin implementing it for your cluster and logging use case."
 
 [What is a fork, really, and how GitHub changed its meaning](https://drewdevault.com/2019/05/24/What-is-a-fork.html)
 
