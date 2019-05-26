@@ -7,13 +7,19 @@ description = "129: Summer Survey, "
 draft = false
 slug = "129"
 tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "infrastructure", "git", "GitHub", "survey"]
-title = "129: Summer Survey, "
+title = "129: Summer Sanity Tips, Summer Survey, "
 
 +++
 
-INTRO
+The end of May looms large on the horizon and a busy June is ahead for a lot of us. This is about that time of year I wish it were the holiday season. It's hot, people's patience wears down faster, and there is always something to do. Here are some tips for the days ahead:
 
-> Please take the [**DevOps'ish Summer 2019 Survey**](https://devopsi.sh/survey). It is nine questions, will provide actionable feedback, and be greatly appreciated. The intent is to improve the overall experience and value this newsletter provides to its readers. Thank you!
+1. Remember to pace yourself; you don't have to live a full life every day.
+2. Remember to be kind; you have no idea if the person standing next to you in line at the airport is going on vacation or to a funeral. This is why my typical response when interacting with folks in a customer service capacity is, "Thank you very much!" So rare is appreciation for their work shown directly to them. A little kindness goes a long way and the good news is, everyone has within them the capacity to have infinite kindness.
+3. But, don't be a doormat, please. Also, if you're sweaty af don't hug me; it's June you filthy carbon based life forms.
+
+I'll be in Durham, NC 28-30 May and Raleigh 3-7 June. If you want to get together in the coming weeks, let me know. Stay safe out there and don't forget to drink water.
+
+> Please take the [**DevOps'ish Summer 2019 Survey**](https://devopsi.sh/survey). It is a handful of questions, will provide actionable feedback, and be greatly appreciated. The intent is to improve the overall experience and value this newsletter provides to its readers ([don't believe me?](https://devopsish.com/088/)). Thank you in advance, y'all!
 
 ## DevOps'ish Last Week's Top Five
 
