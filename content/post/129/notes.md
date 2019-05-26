@@ -1,8 +1,3 @@
-[Auth0 Closes $103M in Funding, Passes $1B Valuation](https://auth0.com/blog/auth0-closes-103m-in-funding-passes-1b-valuation/)
-[Humio Unveils Scalability Benchmark Running 100 Terabytes A Day In Real-Time](https://finance.yahoo.com/news/humio-unveils-scalability-benchmark-running-070000942.html)
-[Amazon Has An Incredible New Way To Fight Walmart. It's Both Brilliant and Very Sad | Inc.com](https://www.inc.com/chris-matyszczyk/amazon-new-way-to-fight-walmart-its-both-brilliant-very-sad.html)
-[What sucks about GitLab? : devops](https://www.reddit.com/r/devops/comments/br4vui/what_sucks_about_gitlab/)
-[The struggles of an open source maintainer - <antirez>](http://antirez.com/news/129)
 [RIP Hyper-Threading? ChromeOS axes key Intel CPU feature over data-leak flaws – Microsoft, Apple suggest snub • The Register](https://www.theregister.co.uk/2019/05/14/intel_hyper_threading_mitigations/)
 [Cluster API Lays the Groundwork for Declarative Kubernetes Lifecycle Management with v1alpha1 - Cloud Native Apps Blog](https://blogs.vmware.com/cloudnative/2019/05/14/cluster-api-kubernetes-lifecycle-management/)
 [The need for a standard, service mesh API – solo.io – Medium](https://medium.com/solo-io/the-need-for-a-standard-service-mesh-api-d89be65f8fb3)

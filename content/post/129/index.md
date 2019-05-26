@@ -33,7 +33,7 @@ I'll be in Durham, NC 28-30 May and Raleigh 3-7 June. If you want to get togethe
 
 [AnsibleFest 2019 Call for Proposals](https://ansiblefest2019.eventpoint.com/cfp/?utm_source=devopsish) — Are you adding value to your organization using Ansible? Perhaps you have automated your way out of a sticky situation before with Ansible? Have you scaled an organizations automation efforts with Ansible Tower? [Submit a proposal to AnsibleFest 2019!](https://ansiblefest2019.eventpoint.com/cfp/?utm_source=devopsish)
 
-PEOPLE
+[The struggles of an open source maintainer](http://antirez.com/news/129)
 
 [DevOps'ish Telegram](https://devopsi.sh/telegram) — Join the nearly 300 DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
 
@@ -41,13 +41,17 @@ PEOPLE
 
 [**2019 State of Multicloud**](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) — A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Today!](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) *SPONSORED*
 
-PROCESS
+[Auth0 Closes $103M in Funding, Passes $1B Valuation](https://auth0.com/blog/auth0-closes-103m-in-funding-passes-1b-valuation/) — Congrats to the folks at Auth0! 👏🎉🍾🥂
+
+[Amazon Has An Incredible New Way To Fight Walmart. It's Both Brilliant and Very Sad](https://www.inc.com/chris-matyszczyk/amazon-new-way-to-fight-walmart-its-both-brilliant-very-sad.html) — "Amazon is now moving into derelict malls... It's delicious in its strategic intentionality. It's the perfect way to ramp up Amazon's promise to make one-day delivery the norm."
 
 ## Tools
 
 [**How companies adopt and apply cloud native infrastructure--from O'Reilly**](https://www.oreilly.com/pub/cpc/224549) — Survey results reveal the path organizations face as they integrate cloud native infrastructure and harness the full power of the cloud. *SPONSORED*
 
-TOOLS
+[Humio Unveils Scalability Benchmark Running 100 Terabytes A Day In Real-Time](https://finance.yahoo.com/news/humio-unveils-scalability-benchmark-running-070000942.html) — Humio's [Scalability Benchmark](https://info.humio.com/scalability-benchmark) boasts 100TB/Day of observability. Whatever that means. ¯\\\_(ツ)\_/¯
+
+[What sucks about GitLab?](https://www.reddit.com/r/devops/comments/br4vui/what_sucks_about_gitlab/) — I'm sure there's something to learned here. Maybe we should stop assuming positive questions get the answers we want? 🤔🤔🤔
 
 ## DevOps'ish Tweet of the Week
 
