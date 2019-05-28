@@ -22,7 +22,7 @@ title = "DevOps'ish PREVIEW"
 
 [params]
   author = "Chris Short"
-  description = "DevOps, Cloud Native, Open Source, and the 'ish in between."
+  description = "DevOps, Cloud Native, Open Source, and the 'ish between."
   favicon = "/favicons/favicon.ico"
   disable_sri = true
 
