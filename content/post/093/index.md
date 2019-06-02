@@ -17,15 +17,15 @@ This week was REALLY hard. The past two weeks are the anniversary of the worst t
 
 Then I got very sick. I had to seek treatment in an ER after work one day for flu-like symptoms. September 7, 2001, the day after the ER visit, I learned one of my best friends had passed away overnight at the age of 20. I had recently seen him a couple of times the previous weeks between visits to UNC and him to Newport News, VA. On the way to the funeral, I completely broke down when passing the highway exit towards Chapel Hill, NC.
 
-September 10th, we decided to overnight at my parent’s house in Hickory, NC. The morning of 9⁄11, I had woken up early and watched the incidents break at WTC. By the time the Pentagon was hit, we were hauling ass back to Virginia. The emotions of the event led to a series of decisions that ultimately led to my injury that now causes me constant issues. The physical injury and damage to the psyche are permanent.
+September 10th, we decided to overnight at my parent's house in Hickory, NC. The morning of 9⁄11, I had woken up early and watched the incidents break at WTC. By the time the Pentagon was hit, we were hauling ass back to Virginia. The emotions of the event led to a series of decisions that ultimately led to my injury that now causes me constant issues. The physical injury and damage to the psyche are permanent.
 
 A visit with my psychiatrist this week led me to understand some things about dealing with the trauma of these events. We developed a plan to steel myself during this time of year.
 
-The Ansible team was pushing hard to get Ansible Tower 3.3 ready to release this past Wednesday. I was also prepping a talk for the Grand Rapids Red Hat User Group. Julie’s birthday is coming up and planning for that has been next to impossible to focus on. It’s like all my buffers were full and throwing stuff to /dev/null at random. It was a lot to run with all at once. As I told someone, “Hard week personally, great week professionally.”
+The Ansible team was pushing hard to get Ansible Tower 3.3 ready to release this past Wednesday. I was also prepping a talk for the Grand Rapids Red Hat User Group. Julie's birthday is coming up and planning for that has been next to impossible to focus on. It's like all my buffers were full and throwing stuff to /dev/null at random. It was a lot to run with all at once. As I told someone, “Hard week personally, great week professionally.”
 
-There are three things I am now permanently marking in my calendar as recurring events. On the business day before 9/11, I will have an appointment with my psychiatrist. From 2019 to whenever my working life ends, I will be taking paid time off on the day of 9⁄11. This year I worked late helping tie up things before Hurrican Florence inundated Red Hat HQ. Towards the end of the day, I did have a moment or two to reflect on the day. Early in the day, I was anxious and nervous. I was easily distracted by simple things. My routine after lunch walk with my dog helped. I realized that I needed to lock down a few things then triage a few other before getting out of the office that day. The anxiety didn’t fade. But, the distractions were gone.
+There are three things I am now permanently marking in my calendar as recurring events. On the business day before 9/11, I will have an appointment with my psychiatrist. From 2019 to whenever my working life ends, I will be taking paid time off on the day of 9⁄11. This year I worked late helping tie up things before Hurrican Florence inundated Red Hat HQ. Towards the end of the day, I did have a moment or two to reflect on the day. Early in the day, I was anxious and nervous. I was easily distracted by simple things. My routine after lunch walk with my dog helped. I realized that I needed to lock down a few things then triage a few other before getting out of the office that day. The anxiety didn't fade. But, the distractions were gone.
 
-I will also be blocking out the 5th through the 13th of September every year as “no public speaking” (and mindfully limited travel). I did okay in Grand Rapids but, it wasn’t my best me. Anxieties of work, the history of the day, prepping and presenting a talk were  too much for me to perform at a level high enough to do myself justice.
+I will also be blocking out the 5th through the 13th of September every year as “no public speaking” (and mindfully limited travel). I did okay in Grand Rapids but, it wasn't my best me. Anxieties of work, the history of the day, prepping and presenting a talk were  too much for me to perform at a level high enough to do myself justice.
 
 I was going to write about [Azure DevOps](https://azure.microsoft.com/en-us/blog/introducing-azure-devops/) this week. I have talked to several Microsoft folks about the product called DevOps. I have feelings and thoughts on the topic for sure. But, this felt more pertinent and has honestly been therapeutic to write. It might shock some people but, I'm human too. Thank you for reading. Stay safe out there.
 
@@ -53,13 +53,13 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 
 [Python joins movement to dump 'offensive' master, slave terms](https://www.theregister.co.uk/2018/09/11/python_purges_master_and_slave_in_political_pogrom/): Programming language bites its tongue to be more inclusive
 
-[A UW professor argued that women don’t want to code. What do women computer scientists have to say?](https://www.seattletimes.com/education-lab/yes-women-can-and-do-want-to-code-uw-professors-and-alumnae-say/): Six women computer scientists from the University of Washington respond to an essay about why women don’t pursue computer science as often as men.
+[A UW professor argued that women don't want to code. What do women computer scientists have to say?](https://www.seattletimes.com/education-lab/yes-women-can-and-do-want-to-code-uw-professors-and-alumnae-say/): Six women computer scientists from the University of Washington respond to an essay about why women don't pursue computer science as often as men.
 
-[‘Impostor syndrome’ affects almost 58% of tech professionals](https://jaxenter.com/impostor-syndrome-survey-149402.html): Eek!
+[‘Impostor syndrome' affects almost 58% of tech professionals](https://jaxenter.com/impostor-syndrome-survey-149402.html): Eek!
 
 [Melinda Gates' New Research Reveals Alarming Diversity Numbers](https://www.wired.com/story/melinda-gates-mckinsey-diversity-research-alarming/): "Over the past decade, the ratio of black, Latina, and Native American women receiving computing degrees has dropped by a third, from 6 percent to just four percent."
 
-[How Companies Can Ensure Maternity Leave Doesn’t Hurt Women’s Careers](https://hbr.org/2018/09/how-companies-can-ensure-maternity-leave-doesnt-hurt-womens-careers): "Imagine that a temporary absence from your workplace could lead to 10 years of sustained high performance being forgotten."
+[How Companies Can Ensure Maternity Leave Doesn't Hurt Women's Careers](https://hbr.org/2018/09/how-companies-can-ensure-maternity-leave-doesnt-hurt-womens-careers): "Imagine that a temporary absence from your workplace could lead to 10 years of sustained high performance being forgotten."
 
 [SRE Anti-Pattern: "I Could Fix It, If I Could Get To It"](https://www.rundeck.com/blog/sre-anti-pattern-i-could-fix-it-if-i-could-get-to-it): "The common enterprise problem of disjointed access. Often the people responding to an incident are blocked from taking the required recovery actions even though they have the first-hand knowledge and experience needed to know what to do."
 {{< adsense-inarticle >}}
@@ -82,7 +82,7 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 
 [What our summit in South Africa taught me about cybersecurity](https://about.gitlab.com/2018/09/11/what-south-africa-taught-me-about-cybersecurity/): Cybersecurity is a necessity, but it's often treated as an afterthought. What it has in common with modern photography could tell us how to make it less painful to achieve.
 
-[Key question in Toronto’s bid for Amazon HQ2: ‘Does Jeff Bezos want to piss off Trump?’](https://www.geekwire.com/2018/key-question-torontos-bid-amazon-hq2-jeff-bezos-want-piss-off-trump/): Please say yes. Please say yes. Please say yes.
+[Key question in Toronto's bid for Amazon HQ2: ‘Does Jeff Bezos want to piss off Trump?'](https://www.geekwire.com/2018/key-question-torontos-bid-amazon-hq2-jeff-bezos-want-piss-off-trump/): Please say yes. Please say yes. Please say yes.
 
 [6 DevOps culture mistakes holding you back](https://enterprisersproject.com/article/2018/9/6-devops-culture-mistakes-holding-you-back): You're not listening. You have a revolving door problem. You're drowning in heroism. Read up on six factors blocking your DevOps success – and how to fix them
 
@@ -107,7 +107,7 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 
 ## Tools
 
-[DNS over TLS - Thoughts and Implementation](https://sagi.io/2018/09/dns-over-tls---thoughts-and-implementation/): In this post we’ll survey DNS over TLS, implement a client and share some thoughts!
+[DNS over TLS - Thoughts and Implementation](https://sagi.io/2018/09/dns-over-tls---thoughts-and-implementation/): In this post we'll survey DNS over TLS, implement a client and share some thoughts!
 
 [Linux System Roles](https://linux-system-roles.github.io/): A collection of roles and modules executed by Ansible to assist Linux admins in the configuration of common GNU/Linux subsystems.
 
@@ -121,7 +121,7 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 
 [Fixing an old hack - why we are bumping the IPv6 MTU](https://blog.cloudflare.com/increasing-ipv6-mtu/)
 
-[Build and Deploy Functions to Cloudflare’s 152+ Data Centers with Serverless](https://blog.cloudflare.com/serverless-cloudflare-workers/)
+[Build and Deploy Functions to Cloudflare's 152+ Data Centers with Serverless](https://blog.cloudflare.com/serverless-cloudflare-workers/)
 
 [Jaeger Operator for Kubernetes](https://medium.com/jaegertracing/jaeger-operator-for-kubernetes-b3128f3c4943): "Kubernetes Operators are a set of components that can be installed in a given cluster to make it easier to manage a group of resources (deployments, services, ...) as if they were native Kubernetes resources."
 

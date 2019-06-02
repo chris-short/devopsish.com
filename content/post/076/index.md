@@ -58,7 +58,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 ## Process
 
-[Not So Pretty: What You Need to Know About E-Fail and the PGP Flaw](https://www.eff.org/deeplinks/2018/05/not-so-pretty-what-you-need-know-about-e-fail-and-pgp-flaw-0): "Don’t panic! But you should stop using PGP for encrypted email and switch to a different secure communications method for now."
+[Not So Pretty: What You Need to Know About E-Fail and the PGP Flaw](https://www.eff.org/deeplinks/2018/05/not-so-pretty-what-you-need-know-about-e-fail-and-pgp-flaw-0): "Don't panic! But you should stop using PGP for encrypted email and switch to a different secure communications method for now."
 
 [The DevOps Security Checklist](https://www.sqreen.io/checklists/devops-security-checklist.html): "This security checklist aims to give DevOps professionals a list of DevOps security best practices they can follow to implement DevSecOps."
 

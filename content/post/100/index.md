@@ -13,7 +13,7 @@ title = "100: At Least it Wasn't Oracle, IBM Acquiring Red Hat, AWS, Amazon HQ2 
 
 Last week I thought the 100th issue of this newsletter was going to be kinda flat. Not this week! Less than twelve hours after [DevOps'ish 099](/099/) went out, the technology world confirmed change is constant; [IBM to Buy Software Maker Red Hat for About $33 Billion](https://www.bloomberg.com/news/articles/2018-10-28/ibm-agrees-to-buy-software-maker-red-hat-in-34-billion-deal). I think my friend and fellow Red Hatter [Ben Cotton](https://funnelfiasco.com/) said it best, "It's clearly a huge bet for IBM. But, they seem to be committed to letting Red Hat keep doing what has made them successful for the last 25 years. Only time will tell." [If you're not in turmoil and you're at a tech company consider yourself lucky](https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/). I have a great job, I have projects and programs to run, y'all still want Ansible so we're still gonna work on it. I have long thought the thing I missed most about being in the Air Force was being a part of history every day. I get to do that for the second time in a lifetime. Hey, "[At least it wasn't Oracle.](https://cshort.co/not-oracle)"
 
-I'm introducing a special feature of DevOps'ish I'm calling [**Indexes**](/categories/indexes/). An index in a book allows the reader to get information either in the book itself or sometimes elsewhere. The intention of a DevOps’ish Index is to provide an updated one-stop shop for opinion, analysis, and/or coverage of a complex topic or historical event. I'm happy to introduce the [**DevOps'ish IBM Red Hat Acquisition Index**](/ibm-red-hat-acquisition-index/).
+I'm introducing a special feature of DevOps'ish I'm calling [**Indexes**](/categories/indexes/). An index in a book allows the reader to get information either in the book itself or sometimes elsewhere. The intention of a DevOps'ish Index is to provide an updated one-stop shop for opinion, analysis, and/or coverage of a complex topic or historical event. I'm happy to introduce the [**DevOps'ish IBM Red Hat Acquisition Index**](/ibm-red-hat-acquisition-index/).
 
 [**Free eBook : Actionable Continuous Delivery Metrics**](https://www.gocd.org/ebook-cd-analytics.html)  
 Want to deliver faster? Want to recover from failures more quickly? Want to improve your cycle time? This Actionable Continuous Delivery Metrics eBook will provide you with insight into your software delivery pipeline, and help you to improve your delivery and team processes. *SPONSORED*
@@ -22,7 +22,7 @@ Want to deliver faster? Want to recover from failures more quickly? Want to impr
 A weekly e-mail from the majestically named Dieter Van der Stock that condenses last week's security news into 10 or so items worth knowing about. It is designed to keep you up-to-date with minimal effort. *SPONSORED*
 
 [**"Now my husband dresses better than our toddler!" —Julie Short**](https://devopsi.sh/stitchfix)  
-StitchFix delivers stylist-picked clothes to you with free shipping & returns. It has boosted my confidence, improved my self image, and my significant other is elated. It’s a win-win! *REFERRAL*
+StitchFix delivers stylist-picked clothes to you with free shipping & returns. It has boosted my confidence, improved my self image, and my significant other is elated. It's a win-win! *REFERRAL*
 
 {{< sponsor-blurb >}}
 
@@ -34,7 +34,7 @@ StitchFix delivers stylist-picked clothes to you with free shipping & returns. I
 
 [My (somewhat) complete salary history as a software engineer](https://humanwhocodes.com/blog/2018/10/my-somewhat-complete-salary-history-software-engineer/): I don't think now would be the best time to share my salary publicly given the acquisition but, I routinely share it with underrepresented folks. If you're considering negotiating a raise or are aiming for a new role and want to talk, please let me know.
 
-[How the new CNCF co-chair is scaling up the Kubernetes community](https://siliconangle.com/2018/10/30/new-cncf-co-chair-scaling-kubernetes-community-womenintech/): "Prior to Kubernetes, Kuo hadn’t endeavored into the world of open source, but the concept of a customizable, community-developed technology quickly won her over."
+[How the new CNCF co-chair is scaling up the Kubernetes community](https://siliconangle.com/2018/10/30/new-cncf-co-chair-scaling-kubernetes-community-womenintech/): "Prior to Kubernetes, Kuo hadn't endeavored into the world of open source, but the concept of a customizable, community-developed technology quickly won her over."
 
 [2 dead after Amazon building partially collapses in Baltimore](https://www.cnn.com/2018/11/03/us/baltimore-amazon-building-collapse/index.html): "Two people have died in a partial building collapse at an Amazon Fulfillment Center in southeast Baltimore, officials said Saturday."
 
@@ -51,7 +51,7 @@ StitchFix delivers stylist-picked clothes to you with free shipping & returns. I
 
 [Amazon in advanced talks about putting HQ2 in Northern Virginia, those close to process say](https://www.washingtonpost.com/local/amazon-in-advanced-talks-about-putting-hq2-in-northern-virginia-those-close-to-process-say/2018/11/02/9be831d6-d7c0-11e8-aeb7-ddcad4a0a54e_story.html?noredirect=on&utm_term=.779c5da9fc29): Amazon is reportedly in the advanced stages of placing its second headquarters in the Northern Virginia suburb of Crystal City.
 
-[Amazon exec slams HQ2 leaker: ‘You’re not doing Crystal City, VA any favors’](https://www.geekwire.com/2018/amazon-exec-slams-hq2-leaker-youre-not-crystal-city-va-favors/): "Memo to the genius leaking info about Crystal City, VA as #HQ2 selection.  You’re not doing Crystal City, VA any favors.  And stop treating the NDA you signed like a used napkin."
+[Amazon exec slams HQ2 leaker: ‘You're not doing Crystal City, VA any favors'](https://www.geekwire.com/2018/amazon-exec-slams-hq2-leaker-youre-not-crystal-city-va-favors/): "Memo to the genius leaking info about Crystal City, VA as #HQ2 selection.  You're not doing Crystal City, VA any favors.  And stop treating the NDA you signed like a used napkin."
 
 [The Hidden Benefit of Giving Back to Open Source Software](https://hbswk.hbs.edu/item/the-hidden-benefit-of-giving-back-to-open-source-software): Firms that allow their software programmers to "give back" to the open source community on company time gain benefits—even though competitors might benefit too, says Frank Nagle.
 
@@ -59,7 +59,7 @@ StitchFix delivers stylist-picked clothes to you with free shipping & returns. I
 
 [How DevOps Has Changed](https://dzone.com/articles/how-devops-has-changed): Things changing in DevOps include the level of acceptance, predominance of the public cloud, and tools offered.
 
-[Cloud Native DevOps: Four Horsemen of the Operations Apocalypse](https://thenewstack.io/cloud-native-devops-four-horsemen-of-the-operations-apocalypse/): "It’s all about teams who have cradle-to-grave responsibility."
+[Cloud Native DevOps: Four Horsemen of the Operations Apocalypse](https://thenewstack.io/cloud-native-devops-four-horsemen-of-the-operations-apocalypse/): "It's all about teams who have cradle-to-grave responsibility."
 
 [October 21 post-incident analysis](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/): GitHub was down last week. Y'all even remember that after this past week?
 
@@ -90,7 +90,7 @@ StitchFix delivers stylist-picked clothes to you with free shipping & returns. I
 
 [kubectl tip of the day: wait like a boss](https://hackernoon.com/kubectl-tip-of-the-day-wait-like-a-boss-40a818c423ac): Meet the kubectl wait command and see it in action here.
 
-[Istio Routing Basics](https://medium.com/google-cloud/istio-routing-basics-14feab3c040e): When learning a new technology like Istio, it’s always a good idea to take a look at sample apps.
+[Istio Routing Basics](https://medium.com/google-cloud/istio-routing-basics-14feab3c040e): When learning a new technology like Istio, it's always a good idea to take a look at sample apps.
 
 [Using Kubernetes ConfigMap Resources for Dynamic Apps](https://medium.com/capital-one-tech/using-kubernetes-configmap-resources-for-dynamic-apps-9e23ef589121): "We decided to build a Golang application that would map part of its filesystem to a Kubernetes configmap resource."
 
@@ -113,7 +113,7 @@ Write your functions in popular languages and build components using containers.
 
 [Ingress Controller and Kubernetes Using Minikube — a Tiny Demonstration](https://medium.com/@schogini/ingress-controller-and-kubernetes-using-minikube-a-tiny-demonstration-63c2a73e2803)
 
-[Infrastructure as Code, Part Two: A Closer Look at Terraform](https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/): "Let’s focus on Hashicorp’s Terraform, a fantastic and versatile tool for orchestration written in Go and used by us at Crate.io for managing our infrastructure."
+[Infrastructure as Code, Part Two: A Closer Look at Terraform](https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/): "Let's focus on Hashicorp's Terraform, a fantastic and versatile tool for orchestration written in Go and used by us at Crate.io for managing our infrastructure."
 
 [Vespene](https://vespene.io/): Re-imagined continuous integration, deployment, and self-service IT automation.
 

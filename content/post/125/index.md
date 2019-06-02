@@ -62,9 +62,9 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [**Accelerate: State of DevOps 2019 Survey**](https://google.qualtrics.com/jfe/form/SV_0v2VZMeA2Eha365?sp=5):  Nicole Forsgren, PhD is conducting the State of DevOps 2019 Survey. Your input is incredibly important. On several occasions, I have referenced [the 2018 report](https://cloudplatformonline.com/2018-state-of-devops.html) since its release for real-world work that impacts real numbers. Nicole's group also wrote, [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2), which I cannot recommend enough either.
 
-[How You Can Help Localize Kubernetes Docs](https://kubernetes.io/blog/2019/04/26/how-you-can-help-localize-kubernetes-docs/) — If you’re interested in helping an existing Kubernetes localization please help us out!
+[How You Can Help Localize Kubernetes Docs](https://kubernetes.io/blog/2019/04/26/how-you-can-help-localize-kubernetes-docs/) — If you're interested in helping an existing Kubernetes localization please help us out!
 
-[7 advantages of open source for agile teams](https://enterprisersproject.com/article/2019/4/7-advantages-open-source-agile) — "Adopting DevOps and agile practices is how companies are managing the velocity of change. I imagine it’s possible to do agile or DevOps in a closed source world. The question then becomes, why put that hurdle there?"
+[7 advantages of open source for agile teams](https://enterprisersproject.com/article/2019/4/7-advantages-open-source-agile) — "Adopting DevOps and agile practices is how companies are managing the velocity of change. I imagine it's possible to do agile or DevOps in a closed source world. The question then becomes, why put that hurdle there?"
 
 [Open Source Software: The Complete Wired Guide](https://www.wired.com/story/wired-guide-open-source-software/) — Some knowledge about open source software that's easily consumable by the unknowing.
 
@@ -82,7 +82,7 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [Accenture sued over website redesign so bad it Hertz: Car hire biz demands $32m+ for 'defective' cyber-revamp](https://www.theregister.co.uk/2019/04/23/hertz_accenture_lawsuit/) — This is so bad y'all. [This Twitter thread](https://twitter.com/allafarce/status/1121174850226147328) is also gold.
 
-[DevOps’ish with Chris Short – Newsletterers – The Tim Show – S02E01](https://devopsi.sh/timshow) — Ever wonder how the DevOps'ish newsletter started, how I build it, or what it's like to write a newsletter? Check out fellow Red Hatter Tim Hildred's podcast on that very topic!
+[DevOps'ish with Chris Short – Newsletterers – The Tim Show – S02E01](https://devopsi.sh/timshow) — Ever wonder how the DevOps'ish newsletter started, how I build it, or what it's like to write a newsletter? Check out fellow Red Hatter Tim Hildred's podcast on that very topic!
 
 ## Tools
 

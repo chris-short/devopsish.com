@@ -38,7 +38,7 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 ## People
 
-[How Google Protected Andy Rubin, the ‘Father of Android’](https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html): The internet giant paid Mr. Rubin $90 million and praised him, while keeping silent about a misconduct claim.
+[How Google Protected Andy Rubin, the ‘Father of Android'](https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html): The internet giant paid Mr. Rubin $90 million and praised him, while keeping silent about a misconduct claim.
 
 [An Insider's View of How Alphabet Is Dealing With Harassment](https://www.bloomberg.com/news/videos/2018-10-25/an-insider-s-view-of-how-alphabet-is-dealing-with-harassment-video): Liz Fong Jones, an engineer at Alphabet Inc., discusses how the company has been handling sexual harassment claims. She speaks with Bloomberg's Emily Chang on "Bloomberg Technology." (Source: Bloomberg)
 
@@ -73,7 +73,7 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [Unexpected MySQL database meltdown fingered in GitHub's 24-hour website wobble](https://www.theregister.co.uk/2018/10/23/github_outage_ends/): GitHub had a ROUGH beginning of the week.
 
-[Ep. #6, Customer Reliability Engineering with Google’s Liz Fong-Jones](https://www.heavybit.com/library/podcasts/o11ycast/ep-6-customer-reliability-engineering-with-googles-liz-fong-jones/): In episode 6 of O11ycast, Charity and Rachel talk to Google developer advocate Liz Fong-Jones about ways to build systems to be more transparent and explainable.
+[Ep. #6, Customer Reliability Engineering with Google's Liz Fong-Jones](https://www.heavybit.com/library/podcasts/o11ycast/ep-6-customer-reliability-engineering-with-googles-liz-fong-jones/): In episode 6 of O11ycast, Charity and Rachel talk to Google developer advocate Liz Fong-Jones about ways to build systems to be more transparent and explainable.
 
 [Documentation as an Open Source Practice](https://blog.digitalocean.com/documentation-as-an-open-source-practice/): Develop Documentation Like Code
 
@@ -81,7 +81,7 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [Amazon's move off Oracle caused Prime Day outage in one of its biggest warehouses, internal report says](https://www.cnbc.com/2018/10/23/amazon-move-off-oracle-caused-prime-day-outage-in-warehouse.html): Amazon's move off Oracle's database software was the main reason for an outage in one of its biggest warehouses on Prime Day, according to internal documents obtained by CNBC.
 
-[Why IT Ticketing Systems Don’t Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
+[Why IT Ticketing Systems Don't Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
 {{< adsense-inarticle >}}
 
 ## Tools
@@ -94,7 +94,7 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [Why Is Securing Kubernetes so Difficult?](https://blog.giantswarm.io/why-is-securing-kubernetes-so-difficult/): The first of a series of articles Giant Swarm is rolling out on Kubernetes security
 
-[Atlassian’s overhaul of Jira is complete, with a more user-friendly interface for the cloud-native era](https://www.geekwire.com/2018/atlassians-overhaul-jira-complete-user-friendly-interface-cloud-native-era/): Anyone using it yet?
+[Atlassian's overhaul of Jira is complete, with a more user-friendly interface for the cloud-native era](https://www.geekwire.com/2018/atlassians-overhaul-jira-complete-user-friendly-interface-cloud-native-era/): Anyone using it yet?
 
 [gRPC-Web is going GA](https://www.cncf.io/blog/2018/10/24/grpc-web-is-going-ga/)
 

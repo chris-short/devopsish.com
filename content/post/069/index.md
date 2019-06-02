@@ -62,7 +62,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [Serverless is eating the stack and people are freaking out — as they should be](https://read.acloud.guru/serverless-is-eating-the-stack-and-people-are-freaking-out-and-they-should-be-431a9e0db482): "AWS Lambda has stamped a big DEPRECATED on containers." Meanwhile, I went looking for a place to run containers as a service this week (and I only found AWS Fargate).
 
-[Skip containers and do serverless computing instead](https://www.infoworld.com/article/3265457/containers/why-serverless-is-the-better-option-than-containers.html): Container technologies like Docker are very powerful, but require talent you can’t get. Serverless computing provides the same benefits—with talent you can actually get
+[Skip containers and do serverless computing instead](https://www.infoworld.com/article/3265457/containers/why-serverless-is-the-better-option-than-containers.html): Container technologies like Docker are very powerful, but require talent you can't get. Serverless computing provides the same benefits—with talent you can actually get
 
 [As predicted, more branch prediction processor attacks are discovered](https://arstechnica.com/gadgets/2018/03/its-not-just-spectre-researchers-reveal-more-branch-prediction-attacks/): New attack focuses on a different part of the branch prediction system.
 
@@ -99,7 +99,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [How to create an open source stack using EFK](https://opensource.com/article/18/3/efk-creating-open-source-stack): This tutorial shows you how to use Elasticsearch, Fluentd, and Kibana to build an open source stack that helps you manage complex data systems.
 
-[Bring your own Linux to Windows with new open source tool](https://arstechnica.com/gadgets/2018/03/microsofts-new-open-source-tool-lets-you-bring-your-own-linux-distro-to-windows/): If an off-the-shelf Linux distribution doesn’t float your boat, why not build your own?
+[Bring your own Linux to Windows with new open source tool](https://arstechnica.com/gadgets/2018/03/microsofts-new-open-source-tool-lets-you-bring-your-own-linux-distro-to-windows/): If an off-the-shelf Linux distribution doesn't float your boat, why not build your own?
 
 [Serverless in the cloud: AWS vs. Google Cloud vs. Microsoft Azure](https://www.infoworld.com/article/3265750/paas/serverless-in-the-cloud-aws-vs-google-cloud-vs-microsoft-azure.html): With AWS Lambda, Google Cloud Functions, and Microsoft Azure Functions, a little bit of business logic can go a very long way
 

@@ -36,13 +36,13 @@ TotalCloud is first-of-its-kind visually-rich interactive & immersive visual pla
 
 [Command Line Heroes: DevOps_Tear Down That Wall](https://www.redhat.com/en/command-line-heroes/devops-tear-down-that-wall)
 
-[IBM sues Microsoft’s new chief diversity officer over non-compete agreement](https://www.geekwire.com/2018/ibm-sues-microsofts-new-chief-diversity-officer-non-compete-agreement/): What the actual fuck is IBM doing? To say this won't be perceived well is an understatement.
+[IBM sues Microsoft's new chief diversity officer over non-compete agreement](https://www.geekwire.com/2018/ibm-sues-microsofts-new-chief-diversity-officer-non-compete-agreement/): What the actual fuck is IBM doing? To say this won't be perceived well is an understatement.
 
 [The Future of Ops](https://blog.realkinetic.com/the-future-of-ops-4e4842664445): "The future of Operations is actually, in many ways, much like the future of QA. Traditional QA roles are shifting away from test-focused to tools-focused."
 
 [The futile comfort of working long hours](https://codewithoutrules.com/2018/02/11/working-long-hours/): "Instead of valuing work, you can value outcomes: outcomes at your job, outcomes in your life, outcomes in the world."
 
-[Power Can Corrupt Leaders. Compassion Can Save Them](http://hbr.org/2018/02/power-can-corrupt-leaders-compassion-can-save-them): "Yes, he apologized, but he didn’t seem remorseful. Rather, he seemed a little taken aback by the whole thing, as if he really didn’t understand what all the fuss was about."
+[Power Can Corrupt Leaders. Compassion Can Save Them](http://hbr.org/2018/02/power-can-corrupt-leaders-compassion-can-save-them): "Yes, he apologized, but he didn't seem remorseful. Rather, he seemed a little taken aback by the whole thing, as if he really didn't understand what all the fuss was about."
 
 [SpaceX hits two milestones in plan for low-latency satellite broadband](https://arstechnica.com/information-technology/2018/02/spacexs-satellite-broadband-nears-fcc-approval-and-first-test-launch/): Since my days in the Air Force, I have always been interested in the satcom space (I did have to work with satellites often). If SpaceX has figured out a low-cost way to eliminate the half a second latency across satellite links I'd be very happy.
 
@@ -50,7 +50,7 @@ TotalCloud is first-of-its-kind visually-rich interactive & immersive visual pla
 
 [Inclusion is a Hack](https://cate.blog/2018/02/13/inclusion-is-a-hack/): "I wish more people understood that (in tech) inclusion – as we talk about it – is a hack."
 
-[Diversity Scholarship Series: KubeCon – Endless Opportunities and The Connections You’ll Make](http://www.cncf.io/blog/2018/02/15/diversity-scholarship-series-kubecon-endless-opportunities-connections-youll-make/): "As a fairly new member of the Kubernetes community, my interaction with the community has been overwhelmingly welcoming. Usually offering help even before needing to ask. As a word of encouragement and gratitude, please continue to help each other as you have certainly helped me."
+[Diversity Scholarship Series: KubeCon – Endless Opportunities and The Connections You'll Make](http://www.cncf.io/blog/2018/02/15/diversity-scholarship-series-kubecon-endless-opportunities-connections-youll-make/): "As a fairly new member of the Kubernetes community, my interaction with the community has been overwhelmingly welcoming. Usually offering help even before needing to ask. As a word of encouragement and gratitude, please continue to help each other as you have certainly helped me."
 
 [The Cloud Native Computing Foundation (CNCF) participates in Google's Summer of Code (GSoC)](https://github.com/cncf/soc): CNCF is a great place to spend a summer learning, coding, participating and contributing. We are an exciting open source foundation with a vibrant community of projects, and we look forward to your application and your project ideas!
 
@@ -71,7 +71,7 @@ TotalCloud is first-of-its-kind visually-rich interactive & immersive visual pla
 
 [Grappling with DevOps Security](https://www.cso.com.au/article/633432/grappling-devops-security/): If you're grappling with security at the speed of DevOps in your organization you should probably reach out to me for professional help.
 
-[Responding to new open source vulnerability disclosures](https://www.oreilly.com/ideas/responding-to-new-open-source-vulnerability-disclosures): "A new vulnerability disclosure is not a new vulnerability. The security flaw existed in your library’s code all along, introducing a weakness in your application. However, when a vulnerability is made public, its likelihood of being exploited skyrockets."
+[Responding to new open source vulnerability disclosures](https://www.oreilly.com/ideas/responding-to-new-open-source-vulnerability-disclosures): "A new vulnerability disclosure is not a new vulnerability. The security flaw existed in your library's code all along, introducing a weakness in your application. However, when a vulnerability is made public, its likelihood of being exploited skyrockets."
 
 [Zero Downtime Deployment with Kubernetes](http://rahmonov.me/posts/zero-downtime-deployment-with-kubernetes/): "It is 2018 and your users will not, I repeat, WILL NOT tolerate any downtime or outage with your application.
 
@@ -86,7 +86,7 @@ Want to write for opensource.com and can't come up with a good topic? Reach out 
 
 [dtrace for linux; Oracle does the right thing](https://gnu.wildebeest.org/blog/mjw/2018/02/14/dtrace-for-linux-oracle-does-the-right-thing/): YAY! dtrace is coming to Linux!
 
-[Kubernetes: Cron Jobs](https://chrisshort.net/kubernetes-cron-jobs/): "High-available cron jobs have been a beast I’ve tried to slay many times. This is now a solved problem and all I have to do is implement it."
+[Kubernetes: Cron Jobs](https://chrisshort.net/kubernetes-cron-jobs/): "High-available cron jobs have been a beast I've tried to slay many times. This is now a solved problem and all I have to do is implement it."
 
 [**Go 1.10 is released**](https://blog.golang.org/go1.10): "The most exciting part of this release for many people will probably be that the `go` tool now does automatic caching of build & test results."
 

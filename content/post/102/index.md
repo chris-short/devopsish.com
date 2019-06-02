@@ -28,7 +28,7 @@ Trying out new continuous delivery tools can take some time, so the team at GoCD
 We consider logs to be just another form of time series data, and we want to give users better tools for ingesting and viewing that data. Learn how to use open source tools such as Telegraf and InfluxDB to take a metrics-first approach to log analysis. *SPONSORED*
 
 [**Webinar with Shannon Lietz: DevSecOps: Finding the Adversaries in Our Midst**](https://info.signalsciences.com/devsecops-finding-the-adversaries-in-our-midst-webinar?utm_medium=newsletter&utm_source=devopsish)  
-Discover how you can get greater visibility into how and where you’re being attacked, and use that visibility to build, create, and deploy sites that protect what your business cares about. *SPONSORED*
+Discover how you can get greater visibility into how and where you're being attacked, and use that visibility to build, create, and deploy sites that protect what your business cares about. *SPONSORED*
 
 {{< sponsor-blurb >}}
 
@@ -52,7 +52,7 @@ Discover how you can get greater visibility into how and where you’re being at
 
 [A Roundup of Venture Capital Firms Focused On Investing In Veterans](https://news.crunchbase.com/news/veteran-focused-investment-firms/)
 
-[How to stand out, and get hired, at Grace Hopper Celebration](https://www.redhat.com/en/blog/how-stand-out-and-get-hired-grace-hopper-celebration) — "Here’s how to stand out when you’re trying to leave GHC with opportunities to chart your own path in technology."
+[How to stand out, and get hired, at Grace Hopper Celebration](https://www.redhat.com/en/blog/how-stand-out-and-get-hired-grace-hopper-celebration) — "Here's how to stand out when you're trying to leave GHC with opportunities to chart your own path in technology."
 
 [This Chemical Is So Hot It Destroys Nerve Endings—in a Good Way](https://www.wired.com/story/resiniferatoxin/) — Wired stories like this give me a lot of hope. If you know  anyone working with RTX, have them give me a call. I've got some periphery nerve damage they can test.
 {{< adsense-inarticle >}}
@@ -75,13 +75,13 @@ Discover how you can get greater visibility into how and where you’re being at
 
 [3 new DevOps lessons learned](https://enterprisersproject.com/article/2018/11/3-new-devops-lessons-learned) — Lawyers (yes, lawyers) can help you kill legacy systems - and more wisdom from the recent DevOps Enterprise Summit
 
-[How to Get Buy-In for Addressing Technical Debt](https://blog.gitprime.com/buy-in-addressing-technical-debt/) — "If anyone understands the immediate impacts of technical debt, it’s development teams. Engineers and engineering leaders experience firsthand the slowdowns, the death-by-a-thousand-paper-cuts, even in drastic cases the soul-sucking repercussions of unmanaged technical debt."
+[How to Get Buy-In for Addressing Technical Debt](https://blog.gitprime.com/buy-in-addressing-technical-debt/) — "If anyone understands the immediate impacts of technical debt, it's development teams. Engineers and engineering leaders experience firsthand the slowdowns, the death-by-a-thousand-paper-cuts, even in drastic cases the soul-sucking repercussions of unmanaged technical debt."
 
 [What is machine learning? We drew you another flowchart](https://www.technologyreview.com/s/612437/what-is-machine-learning-we-drew-you-another-flowchart/) — It pretty much runs the world.
 
 [Real World DevOps by Jeff Geerling](https://www.jeffgeerling.com/blog/2018/real-world-devops)
 
-[IBM, ServiceNow team up to expedite customers’ multicloud migrations](https://siliconangle.com/2018/11/16/ibm-servicenow-team-expedite-customers-multicloud-migrations/) — IBM Corp. is stepping up its pitch to be the preferred multicloud manager for enterprise businesses.
+[IBM, ServiceNow team up to expedite customers' multicloud migrations](https://siliconangle.com/2018/11/16/ibm-servicenow-team-expedite-customers-multicloud-migrations/) — IBM Corp. is stepping up its pitch to be the preferred multicloud manager for enterprise businesses.
 
 [FCC paves the way for improved GPS accuracy](https://www.theverge.com/2018/11/15/18097154/fcc-ajit-pai-gps-location-accuracy-galileo) — "The commission approved an order that will allow consumer devices to tap into a European satellite system." I wonder what kind of improvements we'll see to timing sources as a result of this.
 

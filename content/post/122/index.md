@@ -11,7 +11,7 @@ title = "122: Chefnanigans, Emotional Intelligence, Derek the DevOps Dinosaur, B
 
 +++
 
-Chef announced this week they were giving up on letting users have binaries for free. Instead, you now can have all the source code for free but, [not any of the binaries](https://blog.chef.io/2019/04/02/chef-software-announces-the-enterprise-automation-stack/). [Adam Jacob](https://medium.com/@adamhjk/goodbye-open-core-good-riddance-to-bad-rubbish-ae3355316494) cited one company as having already adopted this model; **Red Hat** (my employer, see [disclaimer](https://devopsish.com/terms/)). It's a rather dubious claim because this [Free Software Product](https://sfosc.org/business-models/free-software-product/) model, developed mostly by [Adam Jacob in the past sixth months](https://github.com/sfosc/sfosc/graphs/contributors), definitely does not predate Red Hat. I sure haven’t seen an announcement about how Red Hat is changing anything. Nor have I seen any policy about adopting this specific model (full disclosure, I was on PTO Friday). Regardless, I guess the thinking is if you can’t beat ‘em, join ‘em? ¯\\\_(ツ)\_/¯
+Chef announced this week they were giving up on letting users have binaries for free. Instead, you now can have all the source code for free but, [not any of the binaries](https://blog.chef.io/2019/04/02/chef-software-announces-the-enterprise-automation-stack/). [Adam Jacob](https://medium.com/@adamhjk/goodbye-open-core-good-riddance-to-bad-rubbish-ae3355316494) cited one company as having already adopted this model; **Red Hat** (my employer, see [disclaimer](https://devopsish.com/terms/)). It's a rather dubious claim because this [Free Software Product](https://sfosc.org/business-models/free-software-product/) model, developed mostly by [Adam Jacob in the past sixth months](https://github.com/sfosc/sfosc/graphs/contributors), definitely does not predate Red Hat. I sure haven't seen an announcement about how Red Hat is changing anything. Nor have I seen any policy about adopting this specific model (full disclosure, I was on PTO Friday). Regardless, I guess the thinking is if you can't beat ‘em, join ‘em? ¯\\\_(ツ)\_/¯
 
 But, what if the Red Hat model didn't work? [Red Hat is getting acquired by IBM](https://investors.redhat.com/news-and-events/press-releases/2018/10-28-2018-184027500) but, is that a win? That remains to be seen. The Red Hat model is likely a win for investors once the acquisition closes. But, is that a win for open source? Are we even playing the same game? 🤔🤔🤔
 
@@ -48,7 +48,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [Verify @ashleymcnamara](https://chrisshort.net/verify-ashleymcnamara/) — A lot of people were asking about *认证 @ashleymcnamara* so I had to write a thing. In a nutshell, it's Twitter being hypocritical as usual. IT'S NOT DIRECTLY DEVOPS RELATED. However, it is DevOps adjacent, as our network is engaging on Twitter. According to one Twitter engineer not at liberty to discuss the matter fearing retribution, the verified account program, "is still on hold." But, confirmed someone is in charge of the program despite being on hold for two years. When pressed on [a celebrity's baby being verified](https://slate.com/technology/2018/05/you-cant-get-verified-on-twitter-anymore-but-serena-williams-baby-can.html), the engineer reminded me, "[Twitter] reserves the right to continue to verify on a case by case basis." I don't feel like I need to make a case for Ashley, Twitter. Verify her and every other woman in tech like her that have applied (like [Emily Freeman](https://twitter.com/editingemily/)). It's called goodwill after being a shitty platform.
 
-[10 signs of emotionally intelligent teams](https://enterprisersproject.com/article/2019/4/emotional-intelligence-teams-signs) — "Does your team show strong or weak emotional intelligence? Here’s how to gauge and improve your team’s EQ"
+[10 signs of emotionally intelligent teams](https://enterprisersproject.com/article/2019/4/emotional-intelligence-teams-signs) — "Does your team show strong or weak emotional intelligence? Here's how to gauge and improve your team's EQ"
 
 [IBM Again Faces Allegations of Targeting Older Workers in Layoffs](https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/ibm-again-faces-allegations-of-targeting-older-workers)
 
@@ -56,7 +56,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [These 5 Skills Are Critical for Success and Career Advancement](https://www.entrepreneur.com/article/330080) — People skills play a huge role in your success.
 
-[‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
+[‘Developers' lives matter' – Chinese software engineers use Github to protest against the country's 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
 
 ## Process
 
@@ -70,9 +70,9 @@ How well does your organization respond to changing market conditions, customer 
 
 [Oncall of Duty](https://www.dorothyjung.com/oncall-game/)
 
-[Turns out Amazon buying Eero wasn’t the startup success story we thought](https://www.theverge.com/2019/4/5/18297619/amazon-eero-price-fire-sale-mesh-wi-fi-buyout) — Eero was in deep shit apparently.
+[Turns out Amazon buying Eero wasn't the startup success story we thought](https://www.theverge.com/2019/4/5/18297619/amazon-eero-price-fire-sale-mesh-wi-fi-buyout) — Eero was in deep shit apparently.
 
-[Google’s constant product shutdowns are damaging its brand](https://arstechnica.com/gadgets/2019/04/googles-constant-product-shutdowns-are-damaging-its-brand/) — Google would kill its own grandmother.
+[Google's constant product shutdowns are damaging its brand](https://arstechnica.com/gadgets/2019/04/googles-constant-product-shutdowns-are-damaging-its-brand/) — Google would kill its own grandmother.
 
 [How To Establish a High Severity Incident Management Program](https://www.gremlin.com/community/tutorials/how-to-establish-a-high-severity-incident-management-program/) — "In this guide, we will share how to establish and measure the success of your own high severity incident management program."
 
@@ -80,13 +80,13 @@ How well does your organization respond to changing market conditions, customer 
 
 ## Tools
 
-[Linux Observability with BPF](https://learning.oreilly.com/library/view/linux-observability-with/9781492050193/) — "Want to master the BPF virtual machine in the Linux Kernel? This practical guide shows you how to write applications that use BPF to observe and modify the kernel’s behavior on demand—without having prior knowledge of Linux Kernel development."
+[Linux Observability with BPF](https://learning.oreilly.com/library/view/linux-observability-with/9781492050193/) — "Want to master the BPF virtual machine in the Linux Kernel? This practical guide shows you how to write applications that use BPF to observe and modify the kernel's behavior on demand—without having prior knowledge of Linux Kernel development."
 
 [We deployed Envoy Proxy to make Monzo faster](https://monzo.com/blog/2019/04/03/deploying-envoy-proxy/) — "We eventually settled on Envoy because of its high performance capabilities, relative maturity, and wide adoption in large engineering teams and projects."
 
 [Envoy Proxy — high severity vulnerabilities that can lead to exposure of unauthorized services.](https://medium.com/solo-io/envoy-proxy-high-severity-vulnerabilities-that-can-lead-to-exposure-of-unauthorized-services-e5af25b022de) — Speaking of Envoy 👀🚨
 
-[The Road to an Envoy Service Mesh](https://medium.com/square-corner-blog/the-road-to-an-envoy-service-mesh-d1a51cbd31dd) — "In this post I’ll talk about how Square has handled this in the past and where we’re at today — actively migrating towards a full service mesh."
+[The Road to an Envoy Service Mesh](https://medium.com/square-corner-blog/the-road-to-an-envoy-service-mesh-d1a51cbd31dd) — "In this post I'll talk about how Square has handled this in the past and where we're at today — actively migrating towards a full service mesh."
 
 [Reducing sysadmin toil with Kubernetes controllers](https://opensource.com/article/19/3/reducing-sysadmin-toil-kubernetes-controllers) — Controllers can ease a sysadmin's workload by handling things like creating and managing DNS addresses and SSL certificates.
 
@@ -100,7 +100,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [Announcing FireHydrant, a tool to manage incidents](https://www.firehydrant.io/blog/announcing-firehydrant-a-tool-to-manage-incidents/) — "FireHydrant delivers a modern incident management process that will automate and apply industry best-practices allowing your team to put out fires faster, learn from your incidents, and focus on preventing them in the future."
 
-[terraform-provider-dominos](https://ndmckinley.github.io/terraform-provider-dominos/) — "[E]ven though it’s a joke it will still order you a pizza. You are going to get a pizza. You should be careful with this provider, if you don’t want a pizza." Storing my credit card info in Vault seems natural now.
+[terraform-provider-dominos](https://ndmckinley.github.io/terraform-provider-dominos/) — "[E]ven though it's a joke it will still order you a pizza. You are going to get a pizza. You should be careful with this provider, if you don't want a pizza." Storing my credit card info in Vault seems natural now.
 
 [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) — 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 

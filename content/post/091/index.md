@@ -20,7 +20,7 @@ Moving your organization to a DevOps culture isn't as simple as buying a tool. I
 Seamlessly navigate between logs, metrics, and request traces for a clear view of all your systems. Visualize and alert on metrics in real-time with anomaly and outlier detection. [Try Datadog's full-stack monitoring for free](https://www.datadoghq.com/ts/tshirt-landingpage/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterTshirt) *SPONSORED*
 
 [**Tammy Butow. Alice Goldfuss. Bridget Kromhout. And you?**](https://www.oreilly.com/pub/cpc/167269)  
-The O’Reilly Velocity Conference is returning to New York City, | September 30 - October 3—and the speaker lineup is bigger than ever. You'll learn from experts and practitioners like Tammy Butow (Principle SRE, Gremlin), Alice Goldfuss (Site Reliability Engineer, GitHub), Bridget Kromhout (Principal Cloud Developer Advocate, Microsoft), plus another 73 experts and thought leaders. And that's just the speakers. Velocity attendees are a pretty fascinating bunch, too. Don't miss this unique opportunity to discuss the latest in DevOps, Systems Engineering, and Infrastructure with those working on the front lines.
+The O'Reilly Velocity Conference is returning to New York City, | September 30 - October 3—and the speaker lineup is bigger than ever. You'll learn from experts and practitioners like Tammy Butow (Principle SRE, Gremlin), Alice Goldfuss (Site Reliability Engineer, GitHub), Bridget Kromhout (Principal Cloud Developer Advocate, Microsoft), plus another 73 experts and thought leaders. And that's just the speakers. Velocity attendees are a pretty fascinating bunch, too. Don't miss this unique opportunity to discuss the latest in DevOps, Systems Engineering, and Infrastructure with those working on the front lines.
 
 Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *SPONSORED*
 
@@ -57,7 +57,7 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 
 [Redis, The Commons Clause, and Adding Clauses To Open Source Licenses](https://perens.com/2018/08/31/redis-the-commons-clause-and-making-open-source-licenses-not-open-source/)
 
-[Why Adding More Products Isn’t Always the Best Way to Grow](https://hbr.org/2018/08/why-adding-more-products-isnt-always-the-best-way-to-grow): "The lesson: Growth is best achieved by making things simpler for your customer rather than for you."
+[Why Adding More Products Isn't Always the Best Way to Grow](https://hbr.org/2018/08/why-adding-more-products-isnt-always-the-best-way-to-grow): "The lesson: Growth is best achieved by making things simpler for your customer rather than for you."
 
 [The State of Agile Software in 2018](https://martinfowler.com/articles/agile-aus-2018.html) by Martin Fowler
 
@@ -82,13 +82,13 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 
 [Kubernetes 101: How to get started with container orchestration](https://jaxenter.com/kubernetes-beginners-148706.html): Kubernetes is one of the best things to happen to DevOps in the past few years. But, if you missed the first wave, the terminology and technology can be confusing sometimes. Here, Ashley Lipman goes over the basics of this container orchestration system and explains how new developers can get started with this fundamental technology.
 
-[The cloud native future is here: These are the most popular technologies](https://jaxenter.com/cloud-native-technologies-cncf-survey-148861.html): The results of the bi-annual CNCF survey are here. We’ll have a closer look at the most popular technologies, as well as the benefits of cloud native projects and the challenges in using and deploying containers. Let’s dig in!
+[The cloud native future is here: These are the most popular technologies](https://jaxenter.com/cloud-native-technologies-cncf-survey-148861.html): The results of the bi-annual CNCF survey are here. We'll have a closer look at the most popular technologies, as well as the benefits of cloud native projects and the challenges in using and deploying containers. Let's dig in!
 
 [6 places to host your git repository](https://opensource.com/article/18/8/github-alternatives): GitHub's recent acquisition has caused some users to explore alternatives to the popular code repository. Here are some to consider.
 
 [Go WebAssembly - Building a Calculator Tutorial](https://tutorialedge.net/golang/go-webassembly-tutorial/)
 
-[6 open source tools for making your own VPN](https://opensource.com/article/18/8/open-source-tools-vpn): Want to try your hand at building your own VPN but aren’t sure where to start?
+[6 open source tools for making your own VPN](https://opensource.com/article/18/8/open-source-tools-vpn): Want to try your hand at building your own VPN but aren't sure where to start?
 
 [Platform9's Managed Kubernetes Solution Adds 'Arbitrage' Capabilities to Dynamically Run Nodes in a Cluster on Amazon EC2 Spot Instances](https://www.prnewswire.com/news-releases/platform9s-managed-kubernetes-solution-adds-arbitrage-capabilities-to-dynamically-run-nodes-in-a-cluster-on-amazon-ec2-spot-instances-300703134.html): Solution automatically optimizes cost and infrastructure utilization by continuously evaluating cloud costs and dynamically allocating capacity at the lowest price available, while ensuring availability and performance SLAs are met
 

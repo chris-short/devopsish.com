@@ -32,7 +32,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 * [Code of Conduct: Let's revamp it.](https://github.com/torvalds/linux/commit/8a104f8b5867c682d994ffa7a74093c54469c11f) (GitHub)
 * [After Years of Abusive E-mails, the Creator of Linux Steps Aside](https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside) (The New Yorker)
 * [New Yorker claims credit for Torvalds' apology on behaviour](https://www.itwire.com/open-source/84590-new-yorker-claims-credit-for-torvalds-apology-on-behaviour.html) (ITWire)
-* [With Linux’s founder stepping back, will the community change its culture?](https://www.theverge.com/2018/9/21/17883442/linux-founder-linus-torvalds-apology-code-of-conduct-change-enforcement) (The Verge)
+* [With Linux's founder stepping back, will the community change its culture?](https://www.theverge.com/2018/9/21/17883442/linux-founder-linus-torvalds-apology-code-of-conduct-change-enforcement) (The Verge)
 * [Linux creator says he's taking time off, and apologizes for 'unprofessional and uncalled for' behavior](https://www.cnbc.com/2018/09/17/linux-creator-linus-torvalds-takes-time-off-apologizes-for-behavior.html) (CNBC)
 * [Linus, His Apology, And Why We Should Support Him](https://www.jonobacon.com/2018/09/16/linus-his-apology-and-why-we-should-support-him/) (Jono Bacon)
 * [Linux's Creator Is Sorry. But Will He Change?](https://www.wired.com/story/linuxs-creator-is-sorry-but-will-he-change/) (Wired)
@@ -50,7 +50,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [The 'Opsec Fail' That Helped Unmask a North Korean State Hacker](https://www.darkreading.com/threat-intelligence/the-opsec-fail-that-helped-unmask-a-north-korean-state-hacker-/d/d-id/1332870): How Park Jin Hyok - charged by the US government for alleged computer crimes for the Sony, Bank of Bangladesh, WannaCry cyberattacks - inadvertently blew his cover via email accounts.
 
-[For Hackers, Anonymity Was Once Critical. That’s Changing.](https://www.nytimes.com/2018/09/22/technology/defcon-hackers-privacy-anonymity.html): At Defcon, one of the world’s largest hacking conferences, new pressures are reshaping the community’s attitudes toward privacy and anonymity.
+[For Hackers, Anonymity Was Once Critical. That's Changing.](https://www.nytimes.com/2018/09/22/technology/defcon-hackers-privacy-anonymity.html): At Defcon, one of the world's largest hacking conferences, new pressures are reshaping the community's attitudes toward privacy and anonymity.
 
 [DevOps: Take people with you, but allow them to leave if they don't want to come along on the journey](https://www.computing.co.uk/ctg/news/3063090/devops-take-people-with-you-but-allow-them-to-leave-if-they-dont-want-to-come-along-on-the-journey): A panel of experts at Computing's recent DevOps North Live event discusses the cultural issues in implementing a DevOps culture
 
@@ -63,7 +63,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Increasing Security of Istio Deployments by Removing the Need for Privileged Containers](https://blog.openshift.com/increasing-security-of-istio-deployments-by-removing-the-need-for-privileged-containers/): "Pods that belong to the Istio mesh require elevated privileges in order to function properly. In this article we will present the istio-pod-network-controller, a solution to mitigate this issue."
 
-[How to Fix ‘Dark Debt’ in Your IT Organization’s Culture](https://devops.com/how-to-fix-dark-debt-in-your-it-organizations-culture/): This is a great article about culture and debt and its implication.
+[How to Fix ‘Dark Debt' in Your IT Organization's Culture](https://devops.com/how-to-fix-dark-debt-in-your-it-organizations-culture/): This is a great article about culture and debt and its implication.
 
 [Buildah](https://buildah.io/) now has a proper website.
 
@@ -79,7 +79,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Is cloud native starting to kill Hadoop? This CTO says yes](https://siliconangle.com/2018/09/20/cloud-native-starting-kill-hadoop-cto-says-yes-cubenyc/): "Yaron Haviv, founder and chief technology officer of Iguazio Systems Ltd, believes that Hadoop may be outmaneuvered in the future with other solutions."
 
-[CRI-O is now our default container runtime interface](https://kubic.opensuse.org/blog/2018-09-17-crio-default/): "We’re really excited to announce that as of today, we now officially supports the CRI-O Container Runtime Interface as our default way of interfacing with containers on your Kubic systems!"
+[CRI-O is now our default container runtime interface](https://kubic.opensuse.org/blog/2018-09-17-crio-default/): "We're really excited to announce that as of today, we now officially supports the CRI-O Container Runtime Interface as our default way of interfacing with containers on your Kubic systems!"
 {{< adsense-inarticle >}}
 
 ## Tools
@@ -102,7 +102,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Getting started with Tmux](https://linuxize.com/post/getting-started-with-tmux/): It's part concept and part key bindings.
 
-[Containers as I didn't know them](https://itnext.io/containers-as-i-didnt-know-them-67cd4eaf3739): "Today let’s talk about how containers could make your life better even if you’ve sworn to never deploy your precious cat-ranking app to anything but bare metal."
+[Containers as I didn't know them](https://itnext.io/containers-as-i-didnt-know-them-67cd4eaf3739): "Today let's talk about how containers could make your life better even if you've sworn to never deploy your precious cat-ranking app to anything but bare metal."
 
 [A neglected serverless data store: Cloud Directory](https://cloudonaut.io/a-neglected-serverless-data-store-cloud-directory/): "I am convinced that Cloud Directory is a neglected Serverless data store that deserves much more attention."
 
@@ -116,7 +116,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Mage - make/rake for Go](https://npf.io/2018/09/mage/): Mage is conceptually just like Make, except you write Go instead of Bash.
 
-[The world’s biggest curl installations](https://daniel.haxx.se/blog/2018/09/17/the-worlds-biggest-curl-installations/): "curl is quite literally used everywhere. It is used by a huge number of applications and devices."
+[The world's biggest curl installations](https://daniel.haxx.se/blog/2018/09/17/the-worlds-biggest-curl-installations/): "curl is quite literally used everywhere. It is used by a huge number of applications and devices."
 
 [Does your website support TLS 1.3?](https://tls.bejarano.io/): As of August 2018, TLS 1.3 is an IETF Internet Standard, are you ready?
 

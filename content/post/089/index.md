@@ -11,7 +11,7 @@ title = "089: Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More"
 
 +++
 
-This week’s newsletter is a day early. I’ll be moving my daughter into college Sunday and Monday. It’s a two-day process because southeastern Michigan isn’t as close to southern Ohio as you’d think. I’ll be in Dayton on Sunday and Cincinnati on Monday. Lemme know if you’re around.
+This week's newsletter is a day early. I'll be moving my daughter into college Sunday and Monday. It's a two-day process because southeastern Michigan isn't as close to southern Ohio as you'd think. I'll be in Dayton on Sunday and Cincinnati on Monday. Lemme know if you're around.
 
 [**Blog Series: Continuous Delivery of Microservices - Parts 1 - 5**](https://www.gocd.org/tags/cd-for-microservices.html)  
 This blog series from Sheroy Marker cover the principles of CD of microservices. Get a practical guide on designing CD workflows for microservices, testing strategies, trunk based development, feature toggles and environment plans. *SPONSORED*
@@ -36,7 +36,7 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 
 [Netflix CFO David Wells to step down](https://techcrunch.com/2018/08/13/netflix-cfo-david-wells-to-step-down/)
 
-[I started a corporation!](https://jvns.ca/blog/2018/08/14/i-started-a-company-/): "So I decided to start a corporation (just on the side, I still work at the same place ❤) to manage the logistics. I’m pretty excited about this so I wanted to explain why."
+[I started a corporation!](https://jvns.ca/blog/2018/08/14/i-started-a-company-/): "So I decided to start a corporation (just on the side, I still work at the same place ❤) to manage the logistics. I'm pretty excited about this so I wanted to explain why."
 
 [Engineers Say "No Thanks" to Silicon Valley Recruiters, Citing Ethical Concerns](https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/engineers-say-no-thanks-to-silicon-valley-recruiters-citing-ethical-concerns): "Some engineers are turning down tech recruiters by citing concerns about corporate values." One good thing the Baby Boomers showed us is that selling your soul for work doesn't actually get you much.
 
@@ -69,7 +69,7 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 
 [cliqz-oss/local-sheriff](https://github.com/cliqz-oss/local-sheriff): Think of Local sheriff as a recon tool in your browser (WebExtension). While you normally browse the internet, Local Sheriff works in the background to empower you in identifying what data points (PII) are being shared / leaked to which all third-parties.
 
-[Logging Best Practices for Kubernetes using Elasticsearch, Fluent Bit and Kibana](https://itnext.io/logging-best-practices-for-kubernetes-using-elasticsearch-fluent-bit-and-kibana-be9b7398dfee): "There are many options for logging when building Cloud Native applications. We’ve evaluated several options and found a set of tools that work well for us."
+[Logging Best Practices for Kubernetes using Elasticsearch, Fluent Bit and Kibana](https://itnext.io/logging-best-practices-for-kubernetes-using-elasticsearch-fluent-bit-and-kibana-be9b7398dfee): "There are many options for logging when building Cloud Native applications. We've evaluated several options and found a set of tools that work well for us."
 
 [CNCF Seeks to Advance IT Performance Monitoring with OpenMetrics Spec](https://thenewstack.io/cncf-seeks-to-advance-it-performance-monitoring-with-openmetrics-project/): "Prometheus will move to this OpenMetrics model, as will microservices-oriented monitoring software from InfluxData, Sysdig, Weave, and OpenCensus."
 {{< adsense-inarticle >}}
@@ -80,7 +80,7 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 
 [Multi-stage Serverless on Kubernetes with OpenFaaS and GKE](https://www.openfaas.com/blog/gke-multi-stage/): Learn how to set up OpenFaaS on Google Kubernetes Engine (GKE) with a cost-effective, auto-scaling, multi-stage deployment.
 
-[Health Checks and Graceful Degradation in Distributed Systems](https://medium.com/@copyconstruct/health-checks-in-distributed-systems-aa8a0e8c1672): "The 'health' of a process is a spectrum. What we’re really interested in is the quality-of-service — such as how long it takes for a process to return the result of a given unit of work and the accuracy of the result."
+[Health Checks and Graceful Degradation in Distributed Systems](https://medium.com/@copyconstruct/health-checks-in-distributed-systems-aa8a0e8c1672): "The 'health' of a process is a spectrum. What we're really interested in is the quality-of-service — such as how long it takes for a process to return the result of a given unit of work and the accuracy of the result."
 
 [Kubernetes Networking: How to Write Your Own CNI Plug-in with Bash](https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/): Learn how to create a container network interface plug-in, configure and test it, as well as enable external access and communication between containers.
 
@@ -104,7 +104,7 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 
 [vr00n/Amazon-Web-Shenanigans](https://github.com/vr00n/Amazon-Web-Shenanigans): A lambda function that checks your account for Public buckets and emails you whenever a new public s3 bucket is created
 
-[Minio as an S3 Gateway for Backblaze B2 Cloud Storage](https://www.backblaze.com/blog/how-to-use-minio-with-b2-cloud-storage/): "Minio is designed to be straightforward to deploy and use. If you’re using an S3-compatible integration, or just want to try out Backblaze B2 using your existing knowledge of S3 APIs and commands, then Minio can be a quick solution to getting up and running with Backblaze B2 and taking advantage of the lower cost of B2 cloud storage."
+[Minio as an S3 Gateway for Backblaze B2 Cloud Storage](https://www.backblaze.com/blog/how-to-use-minio-with-b2-cloud-storage/): "Minio is designed to be straightforward to deploy and use. If you're using an S3-compatible integration, or just want to try out Backblaze B2 using your existing knowledge of S3 APIs and commands, then Minio can be a quick solution to getting up and running with Backblaze B2 and taking advantage of the lower cost of B2 cloud storage."
 
 [cattlepi/cattlepi](https://github.com/cattlepi/cattlepi): effortlessly boot, configure, update and monitor your raspberry pi
 

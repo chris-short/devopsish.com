@@ -11,7 +11,7 @@ title = "121: Kubernetes 1.14, Cloudy with a Chance of Complexity, Accelerate St
 
 +++
 
-There is something to be said about simplicity. The amount of [yak shaving](https://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx) needed these days is enormous. I’ve been on and off trying to get a container up and running in a cloud native manner. I’ve tried all of the major cloud providers and a few more. But, to a cloud, they all have inadequacies of one sort or another. If one has weird load balancing, the other has an absurdly expensive database service (compared to the competition). If one has a clean Kubernetes implementation, the other is missing a few features. This stuff isn’t easy and if anyone thinks it is they’ve likely gotten ahold of a round peg they can force into a square hole more times than not. Keep your heads up out there.
+There is something to be said about simplicity. The amount of [yak shaving](https://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx) needed these days is enormous. I've been on and off trying to get a container up and running in a cloud native manner. I've tried all of the major cloud providers and a few more. But, to a cloud, they all have inadequacies of one sort or another. If one has weird load balancing, the other has an absurdly expensive database service (compared to the competition). If one has a clean Kubernetes implementation, the other is missing a few features. This stuff isn't easy and if anyone thinks it is they've likely gotten ahold of a round peg they can force into a square hole more times than not. Keep your heads up out there.
 
 > "Don't let yesterday use up too much of today." —Will Rogers
 
@@ -42,13 +42,13 @@ How well does your organization respond to changing market conditions, customer 
 
 ## People
 
-[‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github) — As stated in the group's [GitHub repo](https://github.com/996icu/996.ICU), "The name 996.ICU refers to 'Work by "996", sick in ICU', an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit)."
+[‘Developers' lives matter' – Chinese software engineers use Github to protest against the country's 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github) — As stated in the group's [GitHub repo](https://github.com/996icu/996.ICU), "The name 996.ICU refers to 'Work by "996", sick in ICU', an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit)."
 
 [Want an awesome job, working in a great team, with a tremendous leader?](https://social.icims.com/viewjob/pt1553611085158445da) — If you're in Europe and want to work on the Ansible team with other fellow Red Hatters. This is the job for you (maybe)!
 
 [The Cloud Pod — Episode 16: This week in the cloud blob](https://www.thecloudpod.net/podcast/episode-16-this-week-in-the-cloud-blob/) — AWS Summit Season 2019 is officially underway. Justin, Peter and special guest Chris Short [@chrisshort](https://twitter.com/ChrisShort). Plus the famous lightning round.
 
-[Report: U.S. workers hate ‘open’ office spaces](https://www.prdaily.com/report-u-s-workers-hate-open-office-spaces/) — File this under, "Shit You Already Knew"
+[Report: U.S. workers hate ‘open' office spaces](https://www.prdaily.com/report-u-s-workers-hate-open-office-spaces/) — File this under, "Shit You Already Knew"
 
 [5 Ways to Leave Your Work Stress at Work](https://hbr.org/2019/03/5-ways-to-leave-your-work-stress-at-work)
 

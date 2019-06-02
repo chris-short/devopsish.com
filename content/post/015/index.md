@@ -9,7 +9,7 @@ slug = "015"
 tags = ["devops", "cloud native", "open source", "intel", "github", "google", "containers"]
 title = "015: Week of 1489896000"
 image = "/015/womens-track-and-field.jpg"
-imagealt = "Why Doesn’t DevOps Consider Front End Performance More Often?"
+imagealt = "Why Doesn't DevOps Consider Front End Performance More Often?"
 aliases = [
     "devopsish-weekly-015-week-of-1489896000-fc5adb2ccf34"
 ]

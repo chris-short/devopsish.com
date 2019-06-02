@@ -12,7 +12,7 @@
 [Kubernetes security: 4 areas to focus on | The Enterprisers Project](https://enterprisersproject.com/article/2019/1/kubernetes-security-4-areas-focus)
 [Towards remote working - The Engineering Manager](http://theengineeringmanager.com/growth/towards-remote-working/)
 [2019 Trends: GitOps with Ambassador – Ambassador API Gateway](https://blog.getambassador.io/2019-trends-gitops-with-ambassador-cc823308a1d3)
-[AWS For Everyone: New clues emerge about Amazon’s secretive low-code/no-code project – GeekWire](https://www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/)
+[AWS For Everyone: New clues emerge about Amazon's secretive low-code/no-code project – GeekWire](https://www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/)
 [Go, Google Functions and Gitlab-ci a perfect combination - DEV Community 👩‍💻👨‍💻](https://dev.to/renatosuero/go-google-functions-and-gitlab-ci-a-perfect-combination-4lao)
 [Open source has a problem with monetization, not AWS - TechRepublic](https://www.techrepublic.com/article/open-source-has-a-problem-with-monetization-not-aws/)
 [Madagascar's fast internet fuels outsourcing boom — Quartz Africa](https://qz.com/africa/1519409/madagascars-fast-internet-fuels-outsourcing-boom/)

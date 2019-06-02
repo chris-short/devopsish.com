@@ -20,7 +20,7 @@
 [Jerry Hargrove | Periodic Table of Amazon Web Services](https://www.awsgeek.com/pages/AWS-Periodic-Table.html)
 [AP Exclusive: Mysterious operative haunted Kaspersky critics](https://apnews.com/a3144f4ef5ab4588af7aba789e9892ed)
 [Quick note: FOMO vs. legacy tech – Kaimar Karu – Medium](https://medium.com/@kaimarkaru/quick-note-fomo-vs-legacy-tech-18a993e6948e)
-[Tinder’s move to Kubernetes – Tinder Engineering – Medium](https://medium.com/@tinder.engineering/tinders-move-to-kubernetes-cda2a6372f44)
+[Tinder's move to Kubernetes – Tinder Engineering – Medium](https://medium.com/@tinder.engineering/tinders-move-to-kubernetes-cda2a6372f44)
 [How the Boeing 737 Max Disaster Looks to a Software Developer - IEEE Spectrum](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
 [4 years of coding in San Francisco, lessons learned - A geek with a hat](https://swizec.com/blog/4-years-of-coding-in-san-francisco-lessons-learned/swizec/9026)
 [The curious case of Spamhaus, a port scanning scandal, and an apparent U-turn • The Register](https://www.theregister.co.uk/2019/04/16/spamhaus_port_scans/)

@@ -9,7 +9,7 @@
 [Go 2018 Survey Results - The Go Blog](https://blog.golang.org/survey2018-results)
 [Briefing: China offers free-trade zone for foreign cloud providers in US trade talks · TechNode](https://technode.com/2019/03/29/briefing-china-offers-free-trade-zone-for-foreign-cloud-providers-in-us-trade-talks/)
 [Why We Created a Gender-Inclusive Stock Photo Library - Broadly](https://broadly.vice.com/en_us/article/qvyq8p/transgender-non-binary-stock-photos-gender-spectrum-collection)
-[‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule | South China Morning Post](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
+[‘Developers' lives matter' – Chinese software engineers use Github to protest against the country's 996 work schedule | South China Morning Post](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
 [New Shodan Tool Warns Organizations of Their ...](https://www.darkreading.com/cloud/new-shodan-tool-warns-organizations-of-their-internet-exposed-devices/d/d-id/1334268)
 [Providing Visibility and Security for AWS App Mesh | Sysdig](https://sysdig.com/blog/visibility-and-security-for-aws-app-mesh/)
 [Securing AWS App Mesh With Aqua](https://blog.aquasec.com/aws-service-mesh-security)

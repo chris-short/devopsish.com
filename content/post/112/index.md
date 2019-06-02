@@ -18,10 +18,10 @@ I'm struggling to write an intro this week (probably broke a rib). But, I did wr
 This is not to say I decline every meeting invite I get. It's to say that if an invite is not complete (an agenda, location, time, etc.) I'm highly likely to decline it. Also, if there doesn't appear to be value in my going versus something else I could be doing I will typically decline stating the reason politely. In general, I enjoy the meetings I get invited to because I love the work I'm doing. But, I did decline a meeting invite a little bit ago.
 
 [**Use Lead Time Metric to Improve Your CI/CD Process**](https://www.gocd.org/2019/01/14/cd-metrics-deployment-lead-time/)  
-Check out GoCD’s latest blog in CD Metrics series. It talks about what lead time mean in CD context and guide you how to identify bottlenecks and improve your CI/CD process. *SPONSORED*
+Check out GoCD's latest blog in CD Metrics series. It talks about what lead time mean in CD context and guide you how to identify bottlenecks and improve your CI/CD process. *SPONSORED*
 
 [**Triangle DevOps presents DevOps is Not War with Chris Short of Red Hat**](https://www.meetup.com/triangle-devops/events/257189603/)  
-Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won’t lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to prevent conflict during your DevOps journey. *SPONSORED*
+Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to prevent conflict during your DevOps journey. *SPONSORED*
 
 [**The real story on container, cloud, and data adoption**](https://www.oreilly.com/pub/cpc/175842)  
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*
@@ -70,7 +70,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 {{< adsense-inarticle >}}
 
-[Microsoft Acquires Citus Data: Creating the World’s Best Postgres Experience Together](https://www.citusdata.com/blog/2019/01/24/microsoft-acquires-citus-data/) — Congrats to the folks at Citus and Microsoft. Oh and to my co-worker and SIG mate (is that even a word?) Josh Berkus who sits on the board of Citus.
+[Microsoft Acquires Citus Data: Creating the World's Best Postgres Experience Together](https://www.citusdata.com/blog/2019/01/24/microsoft-acquires-citus-data/) — Congrats to the folks at Citus and Microsoft. Oh and to my co-worker and SIG mate (is that even a word?) Josh Berkus who sits on the board of Citus.
 
 [IBM HR made me lie to US govt, says axed VP in age-discrim legal row: I was ordered to cover up layoffs of older workers](https://www.theregister.co.uk/2019/01/18/ibm_government_lying_claims/) — Everyone I know with a parent at IBM in the early 2000s has a layoff story. It's sad how systemic this appeared to be to those in the know. Well... IBM's chickens have come home to roost on this one.
 
@@ -98,7 +98,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [A Kubernetes Development Workflow for MacOS](https://medium.com/@mo_keefe/a-kubernetes-development-workflow-for-macos-8c41669a4518) — iTerm2, kubectx, [GitOps](https://www.weave.works/technologies/gitops/), VS Code, and more. I'll be using this to fine tune my environment for sure.
 
-[How Kubernetes replace people: Pods – Dmitriy Chaban – Medium](https://medium.com/@dmi3coder/how-kubernetes-replace-people-pods-1535e44310cb) — "This small article’s mission is to introduce people with Kubernetes by comparison with old by-hand methods."
+[How Kubernetes replace people: Pods – Dmitriy Chaban – Medium](https://medium.com/@dmi3coder/how-kubernetes-replace-people-pods-1535e44310cb) — "This small article's mission is to introduce people with Kubernetes by comparison with old by-hand methods."
 
 [5 Container Alternatives to Docker](https://containerjournal.com/2019/01/22/5-container-alternatives-to-docker/) — Docker being a gross company is all the reason I need.
 

@@ -31,7 +31,7 @@ Keeping up with the avalanche of new features, blog posts, industry news, and al
 1. [Goodbye Docker and Thanks for all the Fish](https://technodrone.blogspot.com/2019/02/goodbye-docker-and-thanks-for-all-fish.html)
 2. [The saddest thing I've ever heard on an airplane](https://theoatmeal.com/comics/airplane_heard)
 3. [Ansible and Terraform: Better Together](https://www.hashicorp.com/resources/ansible-terraform-better-together)
-4. [You Don’t Need All That Complex/Expensive/Distracting Infrastructure](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb) (NOTE: You can't stop innovating)
+4. [You Don't Need All That Complex/Expensive/Distracting Infrastructure](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb) (NOTE: You can't stop innovating)
 5. [How to ace the Certified Kubernetes Administrator Exam in 7 days](https://medium.com/@writetomiglani/how-to-ace-the-certified-kubernetes-administrator-exam-in-7-days-e4603ac40746)
 
 ## People
@@ -40,13 +40,13 @@ Keeping up with the avalanche of new features, blog posts, industry news, and al
 
 [DevOps For Dummies (For Dummies (Computer/Tech)) by Emily Freeman](https://amzn.to/2TFOQFe) — My dear friend, Emily Freeman, is writing a book, y'all! Pre-order it today because it's going to be great and Emily has worked her ass off on it.
 
-[A simple reason why there aren't more women in tech - we're okay with misogyny](https://huyenchip.com/2019/03/11/silicon-valley-misogyny.html) — "While looking for books on the tech world, I came across [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://amzn.to/2UGaTbp). The book is advertised as “exposé of life inside the tech bubble.” A glimpse into his mind and the rave reviews of his male-dominated audience, I suddenly understood why there aren’t more women in tech."
+[A simple reason why there aren't more women in tech - we're okay with misogyny](https://huyenchip.com/2019/03/11/silicon-valley-misogyny.html) — "While looking for books on the tech world, I came across [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://amzn.to/2UGaTbp). The book is advertised as “exposé of life inside the tech bubble.” A glimpse into his mind and the rave reviews of his male-dominated audience, I suddenly understood why there aren't more women in tech."
 
 [Google moves dozens of employees out of its laptop and tablet division](https://www.businessinsider.com/google-moved-dozens-employees-out-of-laptop-and-tablet-division-2019-3) — The moment in which Google hardware products go the same way as Google Reader. I'm very happy with deciding to buy a new MacBook Air over a Pixelbook. Remember, [Fuschia](https://www.techradar.com/news/google-fuchsia) is coming and [Google killed Google Fiber because of 5G](https://chrisshort.net/the-demise-of-google-fiber-and-internet-under-dirt/) which is still a year or more away from widespread deployment. Google got what it wanted out of the hardware venture I'm betting and now they're out.
 
 [Mozilla introduces gender transitioning guidelines and policy](https://blog.mozilla.org/inclusion/2019/03/04/mozilla-introduces-gender-transitioning-guidelines-and-policy/) — I don't know if or when I'll leave Red Hat ever but the next company I go to will have a policy around helping Transgender employees. The motivation is purely selfish too. Companies with this capability are also going to be able to help Veterans with minimal effort. These companies have unlocked HR 2.0 (aka whatever Human Resources becomes) to enable their employees to not have to worry too much about who they are so that they can perform at a higher level.
 
-[Why Are We Still Promoting Incompetent Men?](https://hbr.org/ideacast/2019/03/why-are-we-still-promoting-incompetent-men) — "While we should be promoting people based on their competence and potential, it’s often the incompetent, overconfident candidates — most of them men — who get ahead... To improve leadership across the board, we need to focus on the metrics proven to enhance performance and set higher standards for everyone."
+[Why Are We Still Promoting Incompetent Men?](https://hbr.org/ideacast/2019/03/why-are-we-still-promoting-incompetent-men) — "While we should be promoting people based on their competence and potential, it's often the incompetent, overconfident candidates — most of them men — who get ahead... To improve leadership across the board, we need to focus on the metrics proven to enhance performance and set higher standards for everyone."
 
 [Physicists reverse time using quantum computer](https://phys.org/news/2019-03-physicists-reverse-quantum.html) — Huh... Did time travel become a little closer to reality?
 
@@ -62,7 +62,7 @@ Keeping up with the avalanche of new features, blog posts, industry news, and al
 
 [What the Fork, Amazon?](https://thenewstack.io/what-the-fork-amazon/) — I have really big problems with what Amazon is doing here. But, Elastic did make this bed so now they have to lay in it.
 
-[AWS intends for their new project to be an Elasticsearch fork](https://www.influxdata.com/blog/aws-intends-for-their-new-project-to-be-an-elasticsearch-fork/) — "In this post, I’ll argue that it is absolutely AWS’ intention to fork the Elastic community. I’ll also explore the implications for the Elasticsearch community and Elastic the company, and ponder what this could mean for other commercial open source vendors."
+[AWS intends for their new project to be an Elasticsearch fork](https://www.influxdata.com/blog/aws-intends-for-their-new-project-to-be-an-elasticsearch-fork/) — "In this post, I'll argue that it is absolutely AWS' intention to fork the Elastic community. I'll also explore the implications for the Elasticsearch community and Elastic the company, and ponder what this could mean for other commercial open source vendors."
 
 [New Red Team Project Aims to Help Secure Open Source Software](https://www.linuxfoundation.org/blog/2019/03/new-red-team-project-aims-to-help-secure-open-source-software/) — There were a lot of new Linux Foundation sub-foundations founded this week. This one flew under the radar but, it's the one that has me the most interested.
 
@@ -86,7 +86,7 @@ Keeping up with the avalanche of new features, blog posts, industry news, and al
 
 ## Tools
 
-[Kubernetes: AWS vs GCP vs Azure vs DigitalOcean](https://medium.com/@andreidascalu/kubernetes-aws-vs-gcp-vs-azure-vs-digitalocean-24d71067c795) — "Given the popularity of Kubernetes, I’d say it’s time to have a look at what’s what (through a beginner’s eyes) while keeping costs in mind as well."
+[Kubernetes: AWS vs GCP vs Azure vs DigitalOcean](https://medium.com/@andreidascalu/kubernetes-aws-vs-gcp-vs-azure-vs-digitalocean-24d71067c795) — "Given the popularity of Kubernetes, I'd say it's time to have a look at what's what (through a beginner's eyes) while keeping costs in mind as well."
 
 [Ansible Lint for GitHub Action](https://github.com/marketplace/actions/ansible-lint) — "This action allows you to run ansible-lint with no additional options" in GitHub Actions
 
@@ -102,9 +102,9 @@ Keeping up with the avalanche of new features, blog posts, industry news, and al
 
 [Why Serverless Architecture?](https://read.acloud.guru/why-serverless-architecture-2b2610fb23fd)
 
-[gRPC to AWS Lambda: Is it Possible?](https://blog.coinbase.com/grpc-to-aws-lambda-is-it-possible-4b29a9171d7f) — "I was curious about whether it was even possible to make a gRPC call through API gateway to a Lambda and have a response return all the way to the client. Turns out, it’s very close to possible for unary request / response gRPC calls."
+[gRPC to AWS Lambda: Is it Possible?](https://blog.coinbase.com/grpc-to-aws-lambda-is-it-possible-4b29a9171d7f) — "I was curious about whether it was even possible to make a gRPC call through API gateway to a Lambda and have a response return all the way to the client. Turns out, it's very close to possible for unary request / response gRPC calls."
 
-[gRPC Load Balancing inside Kubernetes](https://blog.nobugware.com/post/2019/kubernetes_mesh_network_load_balancing_grpc_services/) — "How to deal with disconnections/re-connections, maintenance? What about gRPC specifically? The answer is heavily connected to the network stack used by Kubernetes, but with the “Mesh Network” revolution, It’s not always clear how it works anymore and what the options are."
+[gRPC Load Balancing inside Kubernetes](https://blog.nobugware.com/post/2019/kubernetes_mesh_network_load_balancing_grpc_services/) — "How to deal with disconnections/re-connections, maintenance? What about gRPC specifically? The answer is heavily connected to the network stack used by Kubernetes, but with the “Mesh Network” revolution, It's not always clear how it works anymore and what the options are."
 
 [Kafka on Kubernetes, the easy way](https://banzaicloud.com/blog/kafka-on-k8s-simplified/) — If you want Kafka on Kubernetes, start here.
 

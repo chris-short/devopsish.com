@@ -39,13 +39,13 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [7 steps to DevOps hiring success](https://opensource.com/article/18/3/7-steps-devops-hiring-success): Learn how to hire the right DevOps talent in a trending market.
 
-[12 Things Everyone Should Understand About Tech](https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411): Tech is more important than ever, deeply affecting culture, politics and society. Given all the time we spend with our gadgets and apps, it’s essential to understand the principles that determine how tech affects our lives.
+[12 Things Everyone Should Understand About Tech](https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411): Tech is more important than ever, deeply affecting culture, politics and society. Given all the time we spend with our gadgets and apps, it's essential to understand the principles that determine how tech affects our lives.
 
 [This 16-Year-Old Started Her Own Hackathon for Girls in STEM](https://www.teenvogue.com/story/catherine-yeo-pixelhacks-hackathon-interview): Catherine Yeo's app landed her an Apple WWDC Scholarship.
 
 [Sysadmin held a rack of servers off the ground for 15 mins, crashed ISP when he put them down](https://www.theregister.co.uk/2018/03/19/who_me/): Help desk covered his tracks by telling ALL callers to reboot their PCs
 
-[CUTTING ‘OLD HEADS’ AT IBM](https://features.propublica.org/ibm/ibm-age-discrimination-american-workers/): As it scrambled to compete in the internet world, the once-dominant tech company cut tens of thousands of U.S. workers, hitting its most senior employees hardest and flouting rules against age bias.
+[CUTTING ‘OLD HEADS' AT IBM](https://features.propublica.org/ibm/ibm-age-discrimination-american-workers/): As it scrambled to compete in the internet world, the once-dominant tech company cut tens of thousands of U.S. workers, hitting its most senior employees hardest and flouting rules against age bias.
 {{< adsense-inarticle >}}
 
 ## Process
@@ -89,7 +89,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [Introducing gRPC Support with NGINX 1.13.10](https://www.nginx.com/blog/nginx-1-13-10-grpc/): NGINX can already proxy gRPC TCP connections. With this new capability, you can terminate, inspect, and route gRPC method calls.
 
-[Linux Foundation backs new ‘ACRN’ hypervisor for embedded and IoT](https://www.theregister.co.uk/2018/03/19/linux_foundation_acrn_hypervisor_project/): Intel tosses in code because data centre hypervisors are too bloated
+[Linux Foundation backs new ‘ACRN' hypervisor for embedded and IoT](https://www.theregister.co.uk/2018/03/19/linux_foundation_acrn_hypervisor_project/): Intel tosses in code because data centre hypervisors are too bloated
 
 [Integration of a Go service with systemd: socket activation](https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation)
 

@@ -7,5 +7,5 @@
 [Forgiveness](https://www.xaprb.com/blog/forgiveness/)
 [Linux chops are crucial in containerized world, says Red Hat executive - SiliconANGLE](https://siliconangle.com/2019/02/14/linux-chops-are-crucial-in-containerized-world-says-red-hat-think2019/)
 [The State of the Service Mesh, Part 1 - NGINX](https://www.nginx.com/blog/state-of-service-mesh-part-1/)
-[[Free O’Reilly Ebook] Cloud Native DevOps With Kubernetes: Full Book](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
+[[Free O'Reilly Ebook] Cloud Native DevOps With Kubernetes: Full Book](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
 [Using Vim to take time-stamped notes | CodeSections](https://www.codesections.com/blog/vim-timestamped/)

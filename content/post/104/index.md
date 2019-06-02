@@ -19,7 +19,7 @@ I'd like to introduce you to **Mark Mzyk** ([LinkedIn](https://www.linkedin.com/
 Trying out new continuous delivery tools can take some time, so the team at GoCD created a quick start option for new users to spin up a GoCD server in under 5 minutes. [Try now](https://www.gocd.org/test-drive-gocd/). *SPONSORED*
 
 [**Webinar with Shannon Lietz: DevSecOps: Finding the Adversaries in Our Midst**](https://info.signalsciences.com/devsecops-finding-the-adversaries-in-our-midst-webinar?utm_medium=newsletter&utm_source=devopsish)  
-Discover how you can get greater visibility into how and where you’re being attacked, and use that visibility to build, create, and deploy sites that protect what your business cares about. *SPONSORED*
+Discover how you can get greater visibility into how and where you're being attacked, and use that visibility to build, create, and deploy sites that protect what your business cares about. *SPONSORED*
 
 [**The real story on container, cloud, and data adoption**](https://www.oreilly.com/pub/cpc/175842)  
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*
@@ -30,7 +30,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [We are Google employees. Google must drop Dragonfly.](https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb) — "We are Google employees and we join Amnesty International in calling on Google to cancel project [Dragonfly](https://theintercept.com/2018/08/01/google-china-search-engine-censorship/)." Let's face it, folks, censorship is terrible. There are [millions of Chinese citizens moving in with Chinese Uighurs to spy on them](https://www.usatoday.com/story/news/2018/11/15/china-diplomats-congress-muslim-persecution-rubio-uighur/2010636002/). The US Revolution was literally fought over stuff like this. It goes against the very fabric of freedom to aid in the creation of a wholly censored internet. It is highly likely that Chinese teenagers likely have no idea that [something happened in 1989](/104/china-89.pdf) that led to the putting down of over 10,000 people. US companies should not be in the business of aiding oppressive regimes oppress their people. China might be a market everyone wants to be in but, at what cost, Google?
 
-[Google Employees: Our Executives Engaged in Abuse. Don’t Let Kink and Polyamory Be Their Scapegoats.](https://medium.com/s/story/google-employees-our-executives-engaged-in-abuse-dont-let-kink-and-polyamory-be-their-scapegoats-9099d473e80e) — A New York Times report exacerbated stigma while bringing wrongdoing to light. As if Dragonfly weren't enough, Liz Fong-Jones reminds us change is needed desperately at Google.
+[Google Employees: Our Executives Engaged in Abuse. Don't Let Kink and Polyamory Be Their Scapegoats.](https://medium.com/s/story/google-employees-our-executives-engaged-in-abuse-dont-let-kink-and-polyamory-be-their-scapegoats-9099d473e80e) — A New York Times report exacerbated stigma while bringing wrongdoing to light. As if Dragonfly weren't enough, Liz Fong-Jones reminds us change is needed desperately at Google.
 
 [SURPRISE: Alibaba's Jack Ma outed as member of China's Communist Party](https://www.businessinsider.com/alibaba-jack-ma-outed-as-a-member-of-china-communist-party-2018-11) — I'm not sure why this is a surprise. I don't think the richest person in China wouldn't be a party member. I'm more surprised this surprises people.
 
@@ -77,7 +77,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [Announcing the First AWS Security Conference: AWS re:Inforce 2019 | AWS Security Blog](https://aws.amazon.com/blogs/security/announcing-the-first-aws-security-conference-aws-reinforce-2019/) — "The inaugural AWS re:Inforce, a hands-on gathering of like-minded security professionals, will take place in Boston, MA on June 25th and 26th, 2019 at the Boston Convention and Exhibition Center. The cost for a full conference pass will be $1,099."
 
-[The Amazon Effect on Open Source - The New Stack](https://thenewstack.io/the-amazon-effect-on-open-source/) — "To me, 2018 will be remembered as open source’s breakthrough year. It is the year in which open source companies were able to prove their business value beyond a shadow of a doubt."
+[The Amazon Effect on Open Source - The New Stack](https://thenewstack.io/the-amazon-effect-on-open-source/) — "To me, 2018 will be remembered as open source's breakthrough year. It is the year in which open source companies were able to prove their business value beyond a shadow of a doubt."
 
 [All the Serverless announcements at re:Invent 2018](https://serverless.com/blog/reinvent-2018-serverless-announcements/) — BYOR (Bring Your Own Runtime), Lambda Layers, managed Kafka, and more!
 
@@ -92,7 +92,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [Five most important cloud announcements at AWS re:Invent 2018](https://www.techrepublic.com/article/five-most-important-cloud-announcements-at-aws-reinvent-2018/) — ARM CPUs (not cheap though), bigger network pipes, and P3dn (holy smokes) are my big three. Outposts is a big deal that shows cloud-only is a greenfield dream and not our beige reality. Plus, AWS Ground Station shows, as [Corey Quinn](https://lastweekinaws.com/) said, "AWS Ground Station is an entire service offering around *receiving satellite telemetry from orbit* that they launched. If they'll address that use case, "customers who don't want to move into the cloud" is certainly within their purview of addressable market."
 
-[What’s new in Kubernetes 1.13?](https://sysdig.com/blog/whats-new-in-kubernetes-1-13/) — Kubernetes 1.13 will be out on December 03 2018. `kubectl diff` going beta, dope. AWS ALB ingress controllers, dope. Better Azure support, dope. Drop support for etcd2?!? Holy smokes! That's awesome and [an enormous amount of work went into this](https://github.com/kubernetes/enhancements/issues/622).
+[What's new in Kubernetes 1.13?](https://sysdig.com/blog/whats-new-in-kubernetes-1-13/) — Kubernetes 1.13 will be out on December 03 2018. `kubectl diff` going beta, dope. AWS ALB ingress controllers, dope. Better Azure support, dope. Drop support for etcd2?!? Holy smokes! That's awesome and [an enormous amount of work went into this](https://github.com/kubernetes/enhancements/issues/622).
 
 [Kubernetes 101 part 2: Deploying apps to Kubernetes Cluster](https://medium.com/rackbrains/kubernetes-101-part-2-deploying-apps-to-kubernetes-cluster-fcad2615d59)
 

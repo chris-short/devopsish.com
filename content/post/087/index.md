@@ -67,7 +67,7 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 [How much does my Lambda function cost?](http://blog.epsagon.com/how-much-does-my-lambda-function-cost): A Python tool to figure out what all those functions are going to cost you.
 
-[Observerless: The hottest new thing in monitoring you’re already doing](https://weekly.monitoring.love/library/observerless/)
+[Observerless: The hottest new thing in monitoring you're already doing](https://weekly.monitoring.love/library/observerless/)
 
 [DevOps At Nike: There Is No Finish Line](https://itrevolution.com/devops-at-nike/)
 {{< adsense-inarticle >}}
@@ -102,7 +102,7 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 [VPN-less Authentication with Google IAP, K8s, and Ambassador](https://www.asimov.io/blog/2018/8/3/vpn-less-authentication-with-google-iap-k8s-and-ambassador)
 
-[Configuring Google’s Pixelbook to Contribute to Go](https://hackernoon.com/configuring-googles-pixelbook-to-contribute-to-go-2be955c21936): Daniela Petruzalek is a genius.
+[Configuring Google's Pixelbook to Contribute to Go](https://hackernoon.com/configuring-googles-pixelbook-to-contribute-to-go-2be955c21936): Daniela Petruzalek is a genius.
 
 [Quick Guide to Automating TLS Endpoints in Kubernetes](https://www.rookout.com/quick_guide_to_automating_tls_endpoints_in_kubernetes/)
 
