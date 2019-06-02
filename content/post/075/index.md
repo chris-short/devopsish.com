@@ -85,7 +85,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 [Defining SLOs for services with dependencies - CRE life lessons](https://cloudplatform.googleblog.com/2018/05/Defining-SLOs-for-services-with-dependencies-CRE-life-lessons.html): "Discussion on how to define and manage SLOs for services with dependencies, each of which may (or may not!) have their own SLOs."
 
-[Tesla's Factory in a Fishbowl](https://www.wsj.com/articles/teslas-factory-in-a-fishbowl-1525716237): All eyes are on the electric-car maker’s production process, which is akin to that of a software company
+[Tesla's Factory in a Fishbowl](https://www.wsj.com/articles/teslas-factory-in-a-fishbowl-1525716237): All eyes are on the electric-car maker's production process, which is akin to that of a software company
 {{< adsense-inarticle >}}
 
 ## Tools
@@ -96,7 +96,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 [You may not need websockets](https://sipsandbits.com/2018/05/10/you-may-not-need-websockets/): Hark! Whatever do you mean?
 
-[Announcing Microsoft's own Content Delivery Network](https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-own-cdn-network/): "enabling Azure customers to use and deliver content from Microsoft’s own global CDN network."
+[Announcing Microsoft's own Content Delivery Network](https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-own-cdn-network/): "enabling Azure customers to use and deliver content from Microsoft's own global CDN network."
 
 [Bitnami Launches Kubeapps 1.0 to Advance Kubernetes Application Services](http://www.prweb.com/releases/2018/05/prweb15452909.htm)
 

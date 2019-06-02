@@ -49,7 +49,7 @@ Steve Wong: [Twitter](https://twitter.com/cantbewong) [LinkedIn](http://www.link
 Travis Rhoden: [Twitter](https://twitter.com/codenrhoden) [LinkedIn](http://www.linkedin.com/in/trhoden)  
 Vladimir Vivien: [Twitter](https://twitter.com/VladimirVivien) [LinkedIn](https://www.linkedin.com/in/vvivien)
 
-[Was Twitter Ever Ready for the Future?](https://medium.com/@kylierobison/was-twitter-ever-ready-for-the-future-47a2d63d9c80): Now imagine a platform where any abuser, narcissist, or predator can access their desired victim at any time, any where. With that same power, they’re met with little obstacles to torment.
+[Was Twitter Ever Ready for the Future?](https://medium.com/@kylierobison/was-twitter-ever-ready-for-the-future-47a2d63d9c80): Now imagine a platform where any abuser, narcissist, or predator can access their desired victim at any time, any where. With that same power, they're met with little obstacles to torment.
 
 [Team Leader Venn Diagram](https://medium.com/making-meetup/em-el-pm-venn-diagram-764e79b42baf): A tool for gaining a shared understanding of responsibilities
 

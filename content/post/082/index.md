@@ -57,21 +57,21 @@ Where: From your desktop, laptop, or mobile device
 
 ## People
 
-[3 Military Behaviors That Don’t Work In The Civilian Workplace](https://taskandpurpose.com/3-military-behaviors-that-dont-work-in-the-civilian-workplace/): Number 3 took me a while to learn.
+[3 Military Behaviors That Don't Work In The Civilian Workplace](https://taskandpurpose.com/3-military-behaviors-that-dont-work-in-the-civilian-workplace/): Number 3 took me a while to learn.
 
 [Tintri terminates 200 staff, cash set to run dry in a couple of days](https://www.theregister.co.uk/2018/06/28/tintri_terminates_200_employees/): Array maker survived a whole year after IPO
 
-[Q&A: Julia Grace, Slack’s Head of Infrastructure Engineering](https://thenewstack.io/qa-julia-grace-slacks-head-of-infrastructure-engineering/): Slack was down this week...
+[Q&A: Julia Grace, Slack's Head of Infrastructure Engineering](https://thenewstack.io/qa-julia-grace-slacks-head-of-infrastructure-engineering/): Slack was down this week...
 
-[Leveling up: why developers need to be able to identify technologies with staying power (and how to do it)](https://medium.com/netlify/leveling-up-why-developers-need-to-be-able-to-identify-technologies-with-staying-power-and-how-to-9aa74878fc08): "...it’s important to build up a solid instinct for separating the technologies and products worth spending time on from the ones that will fade into obscurity after their 15 minutes of fame is over..."
+[Leveling up: why developers need to be able to identify technologies with staying power (and how to do it)](https://medium.com/netlify/leveling-up-why-developers-need-to-be-able-to-identify-technologies-with-staying-power-and-how-to-9aa74878fc08): "...it's important to build up a solid instinct for separating the technologies and products worth spending time on from the ones that will fade into obscurity after their 15 minutes of fame is over..."
 
 [Network Reliability Engineering: What's In a Name?](https://forums.juniper.net/t5/Enterprise-Cloud-and/Network-Reliability-Engineering-What-s-In-a-Name/ba-p/329764): "an NRE is someone that implements the core principles of DevOps, in a network engineering context"
 
-[Forget about Clean Code, let’s embrace Compassionate Code](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/): "I sometimes train teams in TDD, incremental design, refactoring and pair programming. I almost always have to spend a lot of time helping the team bridge their disagreements in a more constructive way. And often the ones who have read Clean Code are the most susceptible to this sort of conflicts."
+[Forget about Clean Code, let's embrace Compassionate Code](http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/): "I sometimes train teams in TDD, incremental design, refactoring and pair programming. I almost always have to spend a lot of time helping the team bridge their disagreements in a more constructive way. And often the ones who have read Clean Code are the most susceptible to this sort of conflicts."
 
-[Why tech’s favorite color is making us all miserable](https://www.fastcodesign.com/90177573/how-blue-became-techs-favorite-color-and-why-it-shouldnt-be): The cold blue light of modern touchscreens may be aesthetically pleasing, but it poses health problems. Designers and technologists should take cues from military history and embrace the orange.
+[Why tech's favorite color is making us all miserable](https://www.fastcodesign.com/90177573/how-blue-became-techs-favorite-color-and-why-it-shouldnt-be): The cold blue light of modern touchscreens may be aesthetically pleasing, but it poses health problems. Designers and technologists should take cues from military history and embrace the orange.
 
-[Open source jobs report: 3 hot skill areas now](https://enterprisersproject.com/article/2018/6/open-source-jobs-report-3-hot-skill-areas-now) "How hard is it to recruit cloud, containers, and DevOps gurus? Just 19 percent of open source pros say they haven’t fielded a recruiter call during the past six months"
+[Open source jobs report: 3 hot skill areas now](https://enterprisersproject.com/article/2018/6/open-source-jobs-report-3-hot-skill-areas-now) "How hard is it to recruit cloud, containers, and DevOps gurus? Just 19 percent of open source pros say they haven't fielded a recruiter call during the past six months"
 
 [13 must-read books to take your DevOps skills to the next level](https://opensource.com/article/18/6/13-books-devops-practitioners): This reading list includes some uncommon books to fine tune your DevOps practice.
 
@@ -82,11 +82,11 @@ Where: From your desktop, laptop, or mobile device
 
 [Kubernetes 1.11: In-Cluster Load Balancing and CoreDNS Plugin Graduate to General Availability](https://kubernetes.io/blog/2018/06/27/kubernetes-1.11-release-announcement/)
 
-[Microsoft Buys GitHub: Three Weeks Later](https://www.linuxjournal.com/content/microsoft-buys-github-three-weeks-later): "Open source is big business now. Really big. Trying to frame it as the 'little guy' just doesn’t work when you are the establishment."
+[Microsoft Buys GitHub: Three Weeks Later](https://www.linuxjournal.com/content/microsoft-buys-github-three-weeks-later): "Open source is big business now. Really big. Trying to frame it as the 'little guy' just doesn't work when you are the establishment."
 
 [Why you should not use Google Cloud](https://medium.com/@serverpunch/why-you-should-not-use-google-cloud-75ea2aec00de): There's a lot going on here. But, for the record, Google Cloud Platform is my cloud provider of choice. However, as I told Tariq Islam, "[I'm sure this is similar to every story. The truth lies somewhere between both sides.](https://twitter.com/ChrisShort/status/1013245607723569152)" But, [Tariq did point out some great fallacies](https://twitter.com/chumboslice/status/1013260046476677120) in the debate.
 
-[Good housekeeping for error budgets - part two - CRE life lessons](https://cloudplatform.googleblog.com/2018/06/cre-life-lessons-good-housekeeping-for-error-budgets.html): "An error budget is a crucial concept when you’re taking a principled approach to service reliability."
+[Good housekeeping for error budgets - part two - CRE life lessons](https://cloudplatform.googleblog.com/2018/06/cre-life-lessons-good-housekeeping-for-error-budgets.html): "An error budget is a crucial concept when you're taking a principled approach to service reliability."
 
 [Puppet raises $42M to fuel its software development technology for the cloud, hopes to be cash-flow positive in a year](https://www.geekwire.com/2018/puppet-raises-42-million-mostly-existing-investors-hopes-cash-flow-positive-year/)
 
@@ -109,7 +109,7 @@ Where: From your desktop, laptop, or mobile device
 
 [GitHub Developers are Giving Microsoft a Chance](https://www.wired.com/story/github-developers-are-giving-microsoft-a-chance/): While I think there's no reason to panic about the Microsoft acquisition of GitHub one mantra holds true: diversify your portfolio.
 
-[We’re moving from Azure to Google Cloud Platform](https://about.gitlab.com/2018/06/25/moving-to-gcp/): GitLab.com is migrating to Google Cloud Platform – here’s what this means for you now and in the future.
+[We're moving from Azure to Google Cloud Platform](https://about.gitlab.com/2018/06/25/moving-to-gcp/): GitLab.com is migrating to Google Cloud Platform – here's what this means for you now and in the future.
 
 [Introducing VMware Kubernetes Engine™ (VKE)](https://blogs.vmware.com/cloudnative/2018/06/26/introducing-vmware-kubernetes-engine-vke/): Now you can unnecessarily involve VMWare in even more things.
 
@@ -123,7 +123,7 @@ Where: From your desktop, laptop, or mobile device
 
 [3 ways to copy files in Go](https://opensource.com/article/18/6/copying-files-go): In the third article in this series about the Go programming language, learn the three most popular ways to copy a file.
 
-[It’s Time You Learned About Quantum Computing](https://www.wired.com/story/time-you-learned-about-quantum-computing/): When you figure it all out let me know.
+[It's Time You Learned About Quantum Computing](https://www.wired.com/story/time-you-learned-about-quantum-computing/): When you figure it all out let me know.
 
 [Running integration tests in Kubernetes](https://opensource.com/article/18/6/running-integration-tests-kubernetes): Verify how your application behaves with your full solution stack by using multiple containers to provide a whole test environment.
 

@@ -2,7 +2,7 @@
 [Rook v1.0 — A Major Milestone – Rook Blog](https://blog.rook.io/rook-v1-0-a-major-milestone-689ca4c75508)
 [GitHub Package Registry: Your packages, at home with their code](https://github.com/features/package-registry?utm_campaign=1557516528&utm_medium=social&utm_source=twitter&utm_content=1557516528)
 [TLS 1.3 is going to save us all, and why IoT is still insecure](https://blog.cloudflare.com/why-iot-is-insecure/)
-[Anaconda's Response to DataCamp’s CEO and Board of Directors - Anaconda](https://www.anaconda.com/anaconda-response-to-datacamps-ceo-and-board-of-directors/)
+[Anaconda's Response to DataCamp's CEO and Board of Directors - Anaconda](https://www.anaconda.com/anaconda-response-to-datacamps-ceo-and-board-of-directors/)
 [Validating Cue Kubernetes Configuration with Kubeval · garethr.dev](https://garethr.dev/2019/04/validating-cue-kubernetes-configuration-with-kubeval/)
 [Rule-Driven Automation on Kubernetes with Autopilot Monitoring | Altoros](https://www.altoros.com/blog/rule-driven-automation-on-kubernetes-with-autopilot-monitoring/)
 [Complete Penetration Testing & Hacking Tools List - Haxf4rall](https://haxf4rall.com/2019/05/03/hacking-tools-list/)

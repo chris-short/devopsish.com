@@ -11,7 +11,7 @@ title = "117: Docker Layoffs, Purl, Linus Knocks Arm, Killing k8s, Ansible, Oper
 
 +++
 
-[Docker confirmed they laid off folks](https://www.theregister.co.uk/2019/02/25/docker_cfo_layoffs_ceo_interview/). A source stated Docker closed their APAC office, laid off some developers, and punted some sales folks in Europe too. The source thought some managers on the development teams would be leaving soon as well. I have absolutely no real way of confirming that. But, all is well at Docker if you ask them. Things are so well in fact, that when a reporter reached out to Docker to ask about layoffs (based on a tweet from a random technologist), their PR team called the reporter to give them an “exclusive” interview with the Docker CEO to bury the layoffs. That’s totally normal behavior for a company that’s doing just peachy I guess. ¯\\\_(ツ)\_/¯ Regardless, if you're impacted and want help, let me know.
+[Docker confirmed they laid off folks](https://www.theregister.co.uk/2019/02/25/docker_cfo_layoffs_ceo_interview/). A source stated Docker closed their APAC office, laid off some developers, and punted some sales folks in Europe too. The source thought some managers on the development teams would be leaving soon as well. I have absolutely no real way of confirming that. But, all is well at Docker if you ask them. Things are so well in fact, that when a reporter reached out to Docker to ask about layoffs (based on a tweet from a random technologist), their PR team called the reporter to give them an “exclusive” interview with the Docker CEO to bury the layoffs. That's totally normal behavior for a company that's doing just peachy I guess. ¯\\\_(ツ)\_/¯ Regardless, if you're impacted and want help, let me know.
 
 In personal news, it appears [my eight-year long appeal with the Veteran's Administration](https://twitter.com/ChrisShort/status/1101550232490381312) has come to an end. As I mentioned in the [Twitter thread](https://twitter.com/ChrisShort/status/1101550232490381312), there's a lot to unpack here. It's been an overwhelming week and finding out life-changing news at the end of it is wild but on brand for 2019 so far.
 
@@ -43,7 +43,7 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 [Common Assumptions to Avoid When Starting with Kubernetes](https://blog.flux7.com/common-assumptions-to-avoid-when-starting-with-kubernetes) — Assumptions are the devil (they're why this e-mail has had delivery issues lately).
 
-[Silence Is Violence](https://www.xaprb.com/blog/silence-is-violence/) — "If I don’t object, I’m floating in the swift, powerful river of male supremacy. If I don’t object, I’m his ally."
+[Silence Is Violence](https://www.xaprb.com/blog/silence-is-violence/) — "If I don't object, I'm floating in the swift, powerful river of male supremacy. If I don't object, I'm his ally."
 
 ## Process
 
@@ -85,7 +85,7 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 [Git series 1/3: Understanding git for real by exploring the .git directory](https://dev.to/daolf/git-series-13-understanding-git-for-real-by-exploring-the-git-director--5bd0) — After I learned Git a sysadmin I was working with at the time told me they learned Git in a few hours by digging around the .git directory. YMMV.
 
-[Cloudflare’s RPKI Toolkit](https://blog.cloudflare.com/cloudflares-rpki-toolkit/) — How Cloudflare is preventing route hijacks.
+[Cloudflare's RPKI Toolkit](https://blog.cloudflare.com/cloudflares-rpki-toolkit/) — How Cloudflare is preventing route hijacks.
 
 [Introducing "Ask NGINX..."](https://www.nginx.com/blog/introducing-ask-nginx/) — A great idea.
 
@@ -99,9 +99,9 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 [New VMware Kubernetes product comes courtesy of Heptio acquisition](https://techcrunch.com/2019/02/26/latest-vmware-kubernetes-product-comes-courtesy-of-heptio-acquisition/) — There is something to be said for pure-play Kubernetes.
 
-[Google Kubernetes Engine; Explain Like I’m Five!](https://medium.com/devopslinks/google-kubernetes-engine-explain-like-im-five-1890e550c099) — "Creating your first managed Kubernetes cluster on Google Kubernetes Engine using Terraform"
+[Google Kubernetes Engine; Explain Like I'm Five!](https://medium.com/devopslinks/google-kubernetes-engine-explain-like-im-five-1890e550c099) — "Creating your first managed Kubernetes cluster on Google Kubernetes Engine using Terraform"
 
-[Kubernetes Quick Setup with Prometheus, Grafana & Jaeger](https://blog.nobugware.com/post/2019/kubernetes_quick_development_setup_minikube_prometheus_grafana/) — "Here is a quick setup (mostly notes) to create a dev environment using Minikube and the workflow I’m using with it."
+[Kubernetes Quick Setup with Prometheus, Grafana & Jaeger](https://blog.nobugware.com/post/2019/kubernetes_quick_development_setup_minikube_prometheus_grafana/) — "Here is a quick setup (mostly notes) to create a dev environment using Minikube and the workflow I'm using with it."
 
 [Let's deploy to Openshift / Habr](https://habr.com/en/post/441906/) — "I'd like to share my story about migration an application to Openshift."
 

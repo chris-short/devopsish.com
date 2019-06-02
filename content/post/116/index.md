@@ -20,7 +20,7 @@ This week I'm holding down the fort outside Detroit. I plan on attending the [Or
 > "Be weird, be transparent, be authentic, be yourself." —Ron Tite
 
 [**Use Lead Time Metric to Improve Your CI/CD Process**](https://www.gocd.org/2019/01/14/cd-metrics-deployment-lead-time/)  
-Check out GoCD’s latest blog in CD Metrics series. It talks about what lead time means in CD context and guides you on how to identify bottlenecks and improve your CI/CD process. *SPONSORED*
+Check out GoCD's latest blog in CD Metrics series. It talks about what lead time means in CD context and guides you on how to identify bottlenecks and improve your CI/CD process. *SPONSORED*
 
 [**Works on Arm**](https://www.worksonarm.com/blog)  
 Works on Arm (WOA) is how I keep up with most of my Arm news. The editor is a local friend that works at a very heavy consumer of Arm processors, [Packet](https://www.packet.com/) who is a sponsor of WOA. Check it out, give it a subscribe, and trust me, you won't be disappointed. *SPONSORED*
@@ -71,7 +71,7 @@ Works on Arm (WOA) is how I keep up with most of my Arm news. The editor is a lo
 
 [The CI/CD market consolidation](https://about.gitlab.com/2019/02/21/ci-cd-market-consolidation/) — "The DevOps industry is consolidating. GitLab is here to stay."
 
-[This Company Takes the Grunt Work Out of Using the Cloud](https://www.wired.com/story/this-company-takes-grunt-work-using-the-cloud/) — "Much of Terraform's success stems from HashiCorp's focus on developers’ experience. HashiCorp releases open source versions of its products that anyone can use without charge."
+[This Company Takes the Grunt Work Out of Using the Cloud](https://www.wired.com/story/this-company-takes-grunt-work-using-the-cloud/) — "Much of Terraform's success stems from HashiCorp's focus on developers' experience. HashiCorp releases open source versions of its products that anyone can use without charge."
 
 [Password managers may leave your online crown jewels 'exposed in RAM' to malware – but hey, they're still better than the alternative](https://www.theregister.co.uk/2019/02/20/password_managers_security_bugs/) — The headline kinda says it all. But, this is the best we have between security and convenience so let's either improve it or replace it.
 
@@ -91,13 +91,13 @@ Works on Arm (WOA) is how I keep up with most of my Arm news. The editor is a lo
 
 [Kubernetes Storage Performance Comparison](https://medium.com/vescloud/kubernetes-storage-performance-comparison-9e993cb27271) — "The greatest dilemma is to select right storage technology for your cluster. There is not a simple answer or single test, which would tell you what is the best technology on market. Actually it very much depends on the type of workload you want to run."
 
-[Rook (Ceph) Deployment on OpenShift 4](https://medium.com/@karansingh010/rook-ceph-deployment-on-openshift-4-2b34dfb6a442) — "Before installing anything we need infrastructure, for this, we are going to use AWS EC2 instances & EBS volumes for Ceph. One of the cool features of OpenShift 4 is you don’t need to worry about provisioning infrastructure resources. Let's see how."
+[Rook (Ceph) Deployment on OpenShift 4](https://medium.com/@karansingh010/rook-ceph-deployment-on-openshift-4-2b34dfb6a442) — "Before installing anything we need infrastructure, for this, we are going to use AWS EC2 instances & EBS volumes for Ceph. One of the cool features of OpenShift 4 is you don't need to worry about provisioning infrastructure resources. Let's see how."
 
 [An illustrated guide to Kubernetes Networking [Part 1]](https://morioh.com/p/ecb38c8342ba/an-illustrated-guide-to-kubernetes-networking) — There's easy to consume diagrams and some animation. Good to have handy.
 
 [Use Istio traffic mirroring for quicker debugging](https://itnext.io/use-istio-traffic-mirroring-for-quicker-debugging-a341d95d63f8) — When debugging network issues, give me pcaps or give me death. One buggered packet can tell you so much about where a problem might be. Istio's Mirror service will allow folks to set up a copy of an application and mirror real traffic to it. Even better, Istio makes sure the copied instance doesn't respond to requests. This is neat and could have saved me so much time in the past.
 
-[Gloo, by Solo.io, is the first alternative to Istio on Knative](https://medium.com/solo-io/gloo-by-solo-io-is-the-first-alternative-to-istio-on-knative-324753586f3a) — "Istio’s main role in Knative is to serve as an ingress technology. Gloo now joins Istio as an integrated and supported Ingress for Knative." People are hyped about this company and the people in it.
+[Gloo, by Solo.io, is the first alternative to Istio on Knative](https://medium.com/solo-io/gloo-by-solo-io-is-the-first-alternative-to-istio-on-knative-324753586f3a) — "Istio's main role in Knative is to serve as an ingress technology. Gloo now joins Istio as an integrated and supported Ingress for Knative." People are hyped about this company and the people in it.
 
 [OpenShift 4 Architecture Overview](https://podctl.com/openshift-4-architecture-overview/) — "Brian talks with Clayton Coleman and Derek Carr, Technical Leads of Red Hat OpenShift, about the upcoming architectural changes in version 4."
 

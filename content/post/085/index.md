@@ -85,7 +85,7 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 
 [The PEP 572 endgame](https://lwn.net/Articles/759558/): "While the Python project charts its course in the wake of [Guido van Rossum] resignation, it makes sense to catch up on where things stand with this contentious PEP that has now been accepted for Python 3.8."
 
-[Google Reveals the Secrets of DevOps](https://thenewstack.io/google-reveals-the-secrets-of-devops/): "Unlike other less well-curated development experiences, Google’s process is worth examining and shouldn’t leave anyone offended or covered in sausage leavings."
+[Google Reveals the Secrets of DevOps](https://thenewstack.io/google-reveals-the-secrets-of-devops/): "Unlike other less well-curated development experiences, Google's process is worth examining and shouldn't leave anyone offended or covered in sausage leavings."
 
 [Amazon suffers glitches at the start of Prime Day, its biggest shopping day of the year](https://www.cnbc.com/2018/07/16/amazon-suffers-glitches-in-opening-minutes-of-prime-day.html)
 
@@ -93,7 +93,7 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 
 [Red Hat Looks Beyond Docker for Container Technology](https://www.serverwatch.com/server-news/red-hat-looks-beyond-docker-for-container-technology.html): While [Docker Inc](http://petty.company) and its eponymous container engine helped to create the modern container approach, Red Hat has multiple efforts of its own it is now actively developing.
 
-[Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/): A fascinating look into how Backblaze has created and calculated its "data durability" numbers. And why that is really irrelevant (past a certain number of nines).
+[Backblaze Durability is 99.999999999% — And Why It Doesn't Matter](https://www.backblaze.com/blog/cloud-storage-durability/): A fascinating look into how Backblaze has created and calculated its "data durability" numbers. And why that is really irrelevant (past a certain number of nines).
 
 [Containers or virtual machines: ​Which is more secure? The answer will surprise you](https://www.zdnet.com/article/which-is-more-secure-containers-or-virtual-machines-the-answer-will-surprise-you/): IBM Research has created a new way to measure software security, Horizontal Attack Profile, and it's found a properly secured container can be almost as secure as a virtual machine.
 
@@ -113,7 +113,7 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 
 [Google Cloud Platform reins in its trigger-happy account-axing AI cops](https://www.theregister.co.uk/2018/07/18/google_cloud_platform_account_suspensions/): Chocolate Factory apologizes for overzealous bots as service wobbles offline
 
-[Government’s Kaspersky Ban Takes Effect](https://www.nextgov.com/cybersecurity/2018/07/governments-kaspersky-ban-takes-effect/149758/)
+[Government's Kaspersky Ban Takes Effect](https://www.nextgov.com/cybersecurity/2018/07/governments-kaspersky-ban-takes-effect/149758/)
 
 [Fastly raises another $40 million before an IPO](https://techcrunch.com/2018/07/16/fastly-raises-another-40-million-before-an-ipo/): Congrats to my Fastly peeps!
 {{< adsense-inarticle >}}

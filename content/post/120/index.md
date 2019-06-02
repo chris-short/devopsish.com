@@ -46,7 +46,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [DevOps hiring and training: 16 top-rated skills](https://enterprisersproject.com/article/2019/3/devops-hiring-and-training-16-top-rated-skills)
 
-[How to Help Your Team with Burnout When You’re Burned Out Yourself](https://hbr.org/2019/03/how-to-help-your-team-with-burnout-when-youre-burned-out-yourself) — I definitely nabbed a PDF of this for frequent reference.
+[How to Help Your Team with Burnout When You're Burned Out Yourself](https://hbr.org/2019/03/how-to-help-your-team-with-burnout-when-youre-burned-out-yourself) — I definitely nabbed a PDF of this for frequent reference.
 
 [Defining a Distinguished Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/) — A fantastic checklist of things I attempt to (and often fail at) doing every, single day.
 
@@ -78,9 +78,9 @@ How well does your organization respond to changing market conditions, customer 
 
 [A Year of Kubernetes: Navigating Treacherous Waters - Container Journal](https://containerjournal.com/2019/03/15/a-year-of-kubernetes-navigating-treacherous-waters/) — Igor Livshitz wrote a [two-part](https://containerjournal.com/2019/03/21/a-year-of-kubernetes-whats-beyond-the-horizon/) piece looking at his experiences the past year with Kubernetes and the cloud native ecosystem. Also, where the community sits and security's role going forward.
 
-[Running Kubernetes In The CI Pipeline For Integration and End-To-End Tests](https://www.loodse.com/blog/2019-03-12-running-kubernetes-in-the-ci-pipeline-/) — "We want to run Kubernetes using what we already have installed and configured in the CI pipeline and usually that’s Docker. In this blog post, you’re going to see how you can do this by using [kind](https://github.com/kubernetes-sigs/kind) and how is it going to change your experience."
+[Running Kubernetes In The CI Pipeline For Integration and End-To-End Tests](https://www.loodse.com/blog/2019-03-12-running-kubernetes-in-the-ci-pipeline-/) — "We want to run Kubernetes using what we already have installed and configured in the CI pipeline and usually that's Docker. In this blog post, you're going to see how you can do this by using [kind](https://github.com/kubernetes-sigs/kind) and how is it going to change your experience."
 
-[Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/) — This blew some folks minds on Twitter this week. "When something seems needlessly complex, dig in and figures out how it works. The software you’re using might be simpler (or more simplistic) than you think, and with a little work you might come up with a more elegant solution." Hot Damn!
+[Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/) — This blew some folks minds on Twitter this week. "When something seems needlessly complex, dig in and figures out how it works. The software you're using might be simpler (or more simplistic) than you think, and with a little work you might come up with a more elegant solution." Hot Damn!
 
 [Kubernetes devops productivity hacks](https://brunoluiz.net/2019/mar/kubernetes-devops-productivity-hacks/) — [kubectx](https://github.com/ahmetb/kubectx), terminal aliases, and a handful of other tools and tips for Kubernetes'ing with the best of them.
 

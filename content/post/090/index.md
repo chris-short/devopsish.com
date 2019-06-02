@@ -35,7 +35,7 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 [Verizon throttled fire department's "unlimited" data during Calif. wildfire](https://arstechnica.com/tech-policy/2018/08/verizon-throttled-fire-departments-unlimited-data-during-calif-wildfire/): Fire department had to pay twice as much to lift throttling during wildfire response.
 
-[Amazon's India chief takes stand against work email after 6pm](https://www.scmp.com/tech/article/2160426/amazons-india-chief-takes-stand-against-work-email-after-6pm): While the demands of technology on workers has become a topic of debate around the world, work-life balance is severely off kilter in Bangalore, India’s third-largest city, where a significant portion of the one million workers employed in the outsourcing business cater to global customers and often work late into the night
+[Amazon's India chief takes stand against work email after 6pm](https://www.scmp.com/tech/article/2160426/amazons-india-chief-takes-stand-against-work-email-after-6pm): While the demands of technology on workers has become a topic of debate around the world, work-life balance is severely off kilter in Bangalore, India's third-largest city, where a significant portion of the one million workers employed in the outsourcing business cater to global customers and often work late into the night
 
 [Case Study: Can You Fix a Toxic Culture Without Firing People?](https://hbr.org/2018/08/case-study-can-you-fix-a-toxic-culture-without-firing-people)
 
@@ -78,7 +78,7 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 [How to Correctly Handle DB Schemas During Kubernetes Rollouts](https://www.weave.works/blog/how-to-correctly-handle-db-schemas-during-kubernetes-rollouts): "So you have decided to migrate to Kubernetes, but you are unsure how to safely roll out your microservice's replicas, while also coordinating changes to the schema of the underlying database?"
 
-[Someone Is Waging a Secret War to Undermine the Pentagon’s Huge Cloud Contract](https://www.defenseone.com/technology/2018/08/someone-waging-secret-war-undermine-pentagons-huge-cloud-contract/150685/)
+[Someone Is Waging a Secret War to Undermine the Pentagon's Huge Cloud Contract](https://www.defenseone.com/technology/2018/08/someone-waging-secret-war-undermine-pentagons-huge-cloud-contract/150685/)
 
 [Pentagon Amends JEDI Contract, Moves Forward Despite Protest](https://www.nextgov.com/it-modernization/2018/08/pentagon-amends-jedi-contract-moves-forward-despite-protest/150808/)
 {{< adsense-inarticle >}}

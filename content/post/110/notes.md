@@ -8,7 +8,7 @@
 [Are Employees More Productive When They Get More Sleep? - The New Stack](https://thenewstack.io/are-employees-more-productive-when-they-get-more-sleep/)
 [Migrating the Internet Archive to Kubernetes [LWN.net]](https://lwn.net/Articles/775832/)
 [c14s for Short - chrisshort.net](https://chrisshort.net/c14s-for-short/)
-[Oracle BrandVoice: Grails Founder: What Java Developers Don’t Know About Memory Can Cost Them Money in the Cloud](https://www.forbes.com/sites/oracle/2019/01/07/grails-founder-what-java-developers-dont-know-about-memory-can-cost-them-money-in-the-cloud/#5608a42744e1)
+[Oracle BrandVoice: Grails Founder: What Java Developers Don't Know About Memory Can Cost Them Money in the Cloud](https://www.forbes.com/sites/oracle/2019/01/07/grails-founder-what-java-developers-dont-know-about-memory-can-cost-them-money-in-the-cloud/#5608a42744e1)
 [Pingdom discontinues their free plan : devops](https://www.reddit.com/r/devops/comments/adjhmd/pingdom_discontinues_their_free_plan/)
 [5 open source tools to upgrade your next Kubernetes project - JAXenter](https://jaxenter.com/5-kubernetes-open-source-tools-154333.html)
 [Julia Reda – Article 13 is almost finished – and it will change the internet as we know it](https://juliareda.eu/2019/01/article-13-almost-finished/)

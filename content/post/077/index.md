@@ -37,7 +37,7 @@ My concern as a somewhat outsider looking in, as well as others I've talked to i
 It is Memorial Day weekend here in the US. One thing we veterans get mildly irritated about is when citizens don't recognize the difference between Memorial Day and Veterans Day. Remember this: **we remember the fallen on Memorial Day. We thank veterans on Veterans Day**.
 
 [**Replicated: The modern way to ship and manage enterprise software**](https://www.replicated.com/)  
-Replicated gives SaaS and software vendors a cloud-native platform for easily and securely deploying their applications inside customers’ data centers or VPC environments. Replicated provides tooling for automatic updates, license management, support, audit logs, LDAP integration and more. [Sign up for a free trial](https://vendor.replicated.com/) and get started now. *SPONSORED*
+Replicated gives SaaS and software vendors a cloud-native platform for easily and securely deploying their applications inside customers' data centers or VPC environments. Replicated provides tooling for automatic updates, license management, support, audit logs, LDAP integration and more. [Sign up for a free trial](https://vendor.replicated.com/) and get started now. *SPONSORED*
 
 [**Test Strategy for Microservices**](https://www.gocd.org/2018/05/08/continuous-delivery-microservices-test-strategy/)  
 Testing microservices systems is significantly more nuanced and complex than testing a traditional monolithic application. Is traditional testing pyramids still relevant? How to verify overall system behavior? Check out our new post: Test Strategy for Microservices. *SPONSORED*
@@ -56,7 +56,7 @@ Join us to learn about the revolutions happening in communities around container
 Date: 2018-09-28  
 Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP AWS, who called 2018 "The year of #chaosengineering". Closing out the night will be Jessie Frazelle, one of the top #containers experts on the planet currently at Microsoft.
 
-> If you’d like me to speak at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
+> If you'd like me to speak at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
 ## People
 
@@ -97,7 +97,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [Kubernetes best practices: terminating with grace](https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-terminating-with-grace.html): "When it comes to distributed systems, handling failure is key."
 
-[Your Success with Enterprise Kubernetes Isn’t About Kubernetes](https://medium.com/google-cloud/your-success-with-enterprise-kubernetes-isnt-about-kubernetes-1c2b18dedc9): Running like Google is more than Kubernetes products or a nice UI.
+[Your Success with Enterprise Kubernetes Isn't About Kubernetes](https://medium.com/google-cloud/your-success-with-enterprise-kubernetes-isnt-about-kubernetes-1c2b18dedc9): Running like Google is more than Kubernetes products or a nice UI.
 {{< adsense-inarticle >}}
 
 ## Tools
@@ -124,7 +124,7 @@ A healthy debate happening on my LinkedIn page (of all places) about why contain
 
 [Playing battleships over BGP](https://blog.benjojo.co.uk/post/bgp-battleships): "Two communities were produced that would allow me run a game of battleships over BGP"
 
-[Open Sourcing Coinbase’s Secure Deployment Pipeline](https://engineering.coinbase.com/open-sourcing-coinbases-secure-deployment-pipeline-ae6c78e25517): Odin takes a description of a project release and then safely and securely launches it into AWS using auto-scaling groups.
+[Open Sourcing Coinbase's Secure Deployment Pipeline](https://engineering.coinbase.com/open-sourcing-coinbases-secure-deployment-pipeline-ae6c78e25517): Odin takes a description of a project release and then safely and securely launches it into AWS using auto-scaling groups.
 
 [facebookincubator/katran](https://github.com/facebookincubator/katran): A high performance layer 4 load balancer
 

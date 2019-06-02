@@ -22,10 +22,10 @@ I'm hopeful this week will be different. If you see any issues, please let me kn
 > "Care about what other people think and you will always be their prisoner." —Lao Tzu
 
 [**Use Lead Time Metric to Improve Your CI/CD Process**](https://www.gocd.org/2019/01/14/cd-metrics-deployment-lead-time/)  
-Check out GoCD’s latest blog in CD Metrics series. It talks about what lead time means in CD context and guides you on how to identify bottlenecks and improve your CI/CD process. *SPONSORED*
+Check out GoCD's latest blog in CD Metrics series. It talks about what lead time means in CD context and guides you on how to identify bottlenecks and improve your CI/CD process. *SPONSORED*
 
 [**Triangle DevOps presents DevOps is Not War with Chris Short of Red Hat**](https://www.meetup.com/triangle-devops/events/257189603/)  
-Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won’t lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid friction during your DevOps journey. *SPONSORED*
+Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid friction during your DevOps journey. *SPONSORED*
 
 {{< sponsor-blurb >}}
 
@@ -104,17 +104,17 @@ Over the past 500 years, there have been 16 cases of a rising power threatening 
 
 [What's the right amount of swap space for a modern Linux system?](https://opensource.com/article/19/2/swap-space-poll) — Complete the survey and voice your opinion on how much swap space to allocate.
 
-[Building Small Containers (Kubernetes Best Practices)](https://medium.com/@priyank_33569/building-small-containers-kubernetes-best-practices-9d275e414058) — "The first step in deploying to Kubernetes is putting your app inside a container. let’s explore how you can create a small and secure container images"
+[Building Small Containers (Kubernetes Best Practices)](https://medium.com/@priyank_33569/building-small-containers-kubernetes-best-practices-9d275e414058) — "The first step in deploying to Kubernetes is putting your app inside a container. let's explore how you can create a small and secure container images"
 
 [The 10 Kubernetes Commandments](https://www.infoq.com/presentations/10-kubernetes) — "Bryan Liles and Carlos Amedee explore topics from booting Kubernetes clusters to running complex workloads as a list of 10 items."
 
-[How to explain Kubernetes Operators in plain English](https://enterprisersproject.com/article/2019/2/kubernetes-operators-plain-english) — What are Kubernetes Operators, and why are they so valuable to organizations working with containers? Here’s a primer for IT leaders – and anyone needing to demystify the concept.
+[How to explain Kubernetes Operators in plain English](https://enterprisersproject.com/article/2019/2/kubernetes-operators-plain-english) — What are Kubernetes Operators, and why are they so valuable to organizations working with containers? Here's a primer for IT leaders – and anyone needing to demystify the concept.
 
 [Setting up a Kubernetes cluster with Kubespray](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73) — [Kubespray](https://github.com/kubernetes-sigs/kubespray) has been mentioned in DevOps'ish before ([088](https://devopsish.com/088/), [094](https://devopsish.com/094/)). It's a composable way to install Kubernetes on damn near anything x86 based using Ansible. It's good stuff.
 
 [Inspector Murphy, The Kubernetes quality enforcer](https://medium.com/@MysticSdet/inspector-murphy-the-kubernetes-quality-enforcer-d930fc7bbaa2)
 
-[Single Sign-On for Kubernetes: An Introduction](https://www.tigera.io/blog/single-sign-on-for-kubernetes-an-introduction/) — "One of the great things about Kubernetes is that it completely separates authentication and authorization. Authentication (Authn) meaning the act of identifying who the user is and authorization (Authz) meaning the act of working out if they’re allowed to perform some action."
+[Single Sign-On for Kubernetes: An Introduction](https://www.tigera.io/blog/single-sign-on-for-kubernetes-an-introduction/) — "One of the great things about Kubernetes is that it completely separates authentication and authorization. Authentication (Authn) meaning the act of identifying who the user is and authorization (Authz) meaning the act of working out if they're allowed to perform some action."
 
 [Kubernetes as an API standard](https://www.cloudatomiclab.com/rustyk8s/) — Justin Cormack is on to something here.
 

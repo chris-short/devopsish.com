@@ -33,7 +33,7 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*
 
 [**Real World DevOps**](https://www.realworlddevops.com/)  
-The Real World DevOps Podcast talks about the messy, behind-the-scenes realities of running systems. We’ll be talking with practitioners from across the industry, both from traditional enterprises to modern cloud-native startups. *SPONSORED*
+The Real World DevOps Podcast talks about the messy, behind-the-scenes realities of running systems. We'll be talking with practitioners from across the industry, both from traditional enterprises to modern cloud-native startups. *SPONSORED*
 
 {{< sponsor-blurb >}}
 
@@ -72,7 +72,7 @@ A pair of Kubernetes security issues this week. #shoutout to the Kubernetes Prod
 
 [Three Acquisitions In 2018 To Impact 2019's Tech Landscape](https://www.forbes.com/sites/cognitiveworld/2018/12/30/three-acquisitions-in-2018-to-impact-2019s-tech-landscape/#49ab698d353e) — Cloud, AI, and IoT are all getting touched.
 
-[Monorepos: Please don’t!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b) — Don't hurt 'em, Matt.
+[Monorepos: Please don't!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b) — Don't hurt 'em, Matt.
 
 [Monorepo: please do!](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70) — You tell 'em, Jacob.
 

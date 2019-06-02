@@ -20,7 +20,7 @@ I spent most of the week in Raleigh, North Carolina in and around Red Hat Tower.
 We grilled Jim with very tough questions. They were all answered with grace and candor. It's rare that employees can see that in their CEO. It's beyond refreshing to see this and I still look forward to being a part of this ride at Red Hat.
 
 [**Triangle DevOps presents DevOps is Not War with Chris Short of Red Hat**](https://www.meetup.com/triangle-devops/events/257189603/)  
-Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won’t lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to prevent conflict during your DevOps journey. *SPONSORED*
+Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to prevent conflict during your DevOps journey. *SPONSORED*
 
 [**The real story on container, cloud, and data adoption**](https://www.oreilly.com/pub/cpc/175842)  
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*

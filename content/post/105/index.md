@@ -28,7 +28,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 ## People
 
-[U.S. Yield Curve Just Inverted. That’s Huge.](https://www.bloomberg.com/opinion/articles/2018-12-03/u-s-yield-curve-just-inverted-that-s-huge) — This is a big deal. 2019 will bring an economic recession (not 2008 level but, within striking distance). Make sure you're at a place in life that can weather it.
+[U.S. Yield Curve Just Inverted. That's Huge.](https://www.bloomberg.com/opinion/articles/2018-12-03/u-s-yield-curve-just-inverted-that-s-huge) — This is a big deal. 2019 will bring an economic recession (not 2008 level but, within striking distance). Make sure you're at a place in life that can weather it.
 
 [Linux.org domain hacked, plastered with trolling, filth and anti-transgender vandalism](https://www.theregister.co.uk/2018/12/07/linuxorg_hacked/) — Compromised through the registrar. If you hacked linux.org or have anti-LGBTQIA+ please take a long walk off a short pier.
 
@@ -38,7 +38,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [Arrest of Top Huawei Executive Could Roil Trade Talks with China](https://foreignpolicy.com/2018/12/07/arrest-of-top-huawei-executive-could-roil-trade-talks-with-china/) — Shit got real between the West and China this week.
 
-[Police: 22-Year-Old Found Dead Inside Google’s NYC Office](https://newyork.cbslocal.com/2018/12/08/22-year-old-found-dead-google/) — This is very odd for a 22-year-old. I did a little digging into the person's social media and literally found nothing outside of the norm. Seemed like an okay character.
+[Police: 22-Year-Old Found Dead Inside Google's NYC Office](https://newyork.cbslocal.com/2018/12/08/22-year-old-found-dead-google/) — This is very odd for a 22-year-old. I did a little digging into the person's social media and literally found nothing outside of the norm. Seemed like an okay character.
 
 [Neil DeGrasse Tyson Accused Of Sexual Misconduct By Four Women](https://www.buzzfeednews.com/article/azeenghorayshi/neil-degrasse-tyson-sexual-allegations-four-women) — Neil DeGrasse Tyson, Dirtbag Supreme.
 
@@ -60,7 +60,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [Support Driven Engineering (SDE)](http://willgallego.com/2018/12/09/support-driven-engineering-sde/) — While it might be ripe for abuse, being helpful and supportive is a good default position.
 
-[Already learned DevOps? Great, now it’s time for GitOps What’s GitOps and how does it work?](https://thenextweb.com/contributors/2018/12/08/all-you-need-to-know-about-gitops/) — GitOps is what I want in everything DevOps and SRE.
+[Already learned DevOps? Great, now it's time for GitOps What's GitOps and how does it work?](https://thenextweb.com/contributors/2018/12/08/all-you-need-to-know-about-gitops/) — GitOps is what I want in everything DevOps and SRE.
 
 [Dr. Richard Cook and John Allspaw's Seeking SRE Chapter](http://www.adaptivecapacitylabs.com/blog/2018/12/06/chapter-in-seeking-sre-sre-cognitive-work/) — When Dr. Cook speaks you should listen. I still need to dive into this book.
 

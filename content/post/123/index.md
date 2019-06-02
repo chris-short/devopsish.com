@@ -34,7 +34,7 @@ How well does your organization respond to changing market conditions, customer 
 1. [9 open source tools for building a fault-tolerant system](https://opensource.com/article/19/3/tools-fault-tolerant-system)
 1. [10 signs of emotionally intelligent teams](https://enterprisersproject.com/article/2019/4/emotional-intelligence-teams-signs)
 1. [Announcing FireHydrant, a tool to manage incidents](https://www.firehydrant.io/blog/announcing-firehydrant-a-tool-to-manage-incidents/)
-1. [Turns out Amazon buying Eero wasn’t the startup success story we thought](https://www.theverge.com/2019/4/5/18297619/amazon-eero-price-fire-sale-mesh-wi-fi-buyout)
+1. [Turns out Amazon buying Eero wasn't the startup success story we thought](https://www.theverge.com/2019/4/5/18297619/amazon-eero-price-fire-sale-mesh-wi-fi-buyout)
 
 ## People
 
@@ -42,7 +42,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [The struggle (to innovate) is real. D&I is the answer.](https://www.linkedin.com/pulse/struggle-innovate-real-di-answer-delisa-alexander/) — "Diverse teams are more resilient and higher performing, and diverse organizations are more capable of retaining world-class talent."
 
-[Abby Wambach’s Leadership Lessons: Be the Wolfs](https://www.nytimes.com/2019/04/09/sports/soccer/abby-wambach-soccer-wolfpack.html) — “When one person stands up and demands the ball, the job, the promotion, the paycheck, the microphone, that one gives others permission to do the same." #GoGators
+[Abby Wambach's Leadership Lessons: Be the Wolfs](https://www.nytimes.com/2019/04/09/sports/soccer/abby-wambach-soccer-wolfpack.html) — “When one person stands up and demands the ball, the job, the promotion, the paycheck, the microphone, that one gives others permission to do the same." #GoGators
 
 [Analysts get hot under collar as ex-Oracle cloud guru ditches corporate wardrobe for Google](https://www.theregister.co.uk/2019/04/09/kurian_oracle_google_indicates_enterprise_change/) — Thomas Kurian talked about, "taking a 'sympathetic' approach to legacy tech."
 
@@ -56,7 +56,7 @@ How well does your organization respond to changing market conditions, customer 
 
 ## Process
 
-[Security Configuration Benchmarks for Kubernetes](https://blog.aquasec.com/kubernetes-security-cis-benchmarks) — "With dozens or hundreds of different configuration parameters across the system, it’s challenging for Kubernetes administrators to know whether they have set them all up correctly with good security practices in mind. Fortunately, there is guidance available in the form of the Center for Internet Security’s benchmark recommendations."
+[Security Configuration Benchmarks for Kubernetes](https://blog.aquasec.com/kubernetes-security-cis-benchmarks) — "With dozens or hundreds of different configuration parameters across the system, it's challenging for Kubernetes administrators to know whether they have set them all up correctly with good security practices in mind. Fortunately, there is guidance available in the form of the Center for Internet Security's benchmark recommendations."
 
 [How to plan in a world full of unknowns](https://www.linkedin.com/pulse/how-plan-world-full-unknowns-jim-whitehurst/) — "What I am saying, however, is that organizations hoping to avoid being disrupted must change how they think about the future."
 
@@ -90,7 +90,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [Using EBS and EFS as Persistent Volume in Kubernetes](https://containerjournal.com/2019/04/08/using-ebs-and-efs-as-persistent-volume-in-kubernetes/) — "In this blog we will see how to use EBS or EFS as a persistent volume for our Kubernetes cluster in AWS."
 
-[Yet another reason your docker containers may be slow on EC2: clock_gettime, gettimeofday and…](https://medium.com/appian-engineering/yet-another-reason-your-docker-containers-may-be-slow-on-ec2-clock-gettime-gettimeofday-and-9d92f6892048) — "TL;DR: on AWS EC2 M4 instances, calls to System.nanoTime() and System.currentTimeMillis() make system calls, and these system calls are subject to even more overhead when running in Docker due to Docker’s default seccomp profile filters. The new M5 instances no longer make system calls for these time methods, so you can upgrade to newer instances if available in your region and availability zone(s). If you are stuck on 4-series instances, you could switch the clocksource to tsc as Amazon recommends in this tuning FAQ."
+[Yet another reason your docker containers may be slow on EC2: clock_gettime, gettimeofday and…](https://medium.com/appian-engineering/yet-another-reason-your-docker-containers-may-be-slow-on-ec2-clock-gettime-gettimeofday-and-9d92f6892048) — "TL;DR: on AWS EC2 M4 instances, calls to System.nanoTime() and System.currentTimeMillis() make system calls, and these system calls are subject to even more overhead when running in Docker due to Docker's default seccomp profile filters. The new M5 instances no longer make system calls for these time methods, so you can upgrade to newer instances if available in your region and availability zone(s). If you are stuck on 4-series instances, you could switch the clocksource to tsc as Amazon recommends in this tuning FAQ."
 
 [An eBPF overview, part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/) — "Interested in learning more about low-level specifics of the eBPF stack? Read on as we take a deep dive, from its VM mechanisms and tools, to running traces on remote, resource-constrained embedded devices."
 
@@ -106,7 +106,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [Highly Available Control Plane with kubeadm 1.14+](https://octetz.com/posts/ha-control-plane-k8s-kubeadm) — "Kubernetes 1.14 introduced an ALPHA feature for dynamically adding master nodes to a cluster. This prevents the need to copy certificates and keys among nodes relieving orchestration and complexity in the bootstrapping process."
 
-[Programming Kubernetes](https://learning.oreilly.com/library/view/programming-kubernetes/9781492047094/) — "While Kubernetes has established itself as the industry standard for managing containers and their life cycles, there’s a definite need for good practices on how to write native applications. This practical guide shows application and infrastructure developers, DevOps practitioners, and site reliability engineers how to develop cloud native apps that run on Kubernetes."
+[Programming Kubernetes](https://learning.oreilly.com/library/view/programming-kubernetes/9781492047094/) — "While Kubernetes has established itself as the industry standard for managing containers and their life cycles, there's a definite need for good practices on how to write native applications. This practical guide shows application and infrastructure developers, DevOps practitioners, and site reliability engineers how to develop cloud native apps that run on Kubernetes."
 
 [Hannah Montana Linux](http://hannahmontana.sourceforge.net/) — One of the best gags ever played on me was when I started on the Technology team at McClatchy Interactive. We had a bunch of meetings and the engineer in charge of laptops, office servers, etc. Said my desk was all set and he slapped a fresh copy of the distro the team used the most on it. "Wow! Thanks, buddy." I boot it up and it auto logins to Hannah Montana Linux. "What the fuck is this shit?!?" Laughter erupts from every cube within earshot as the damn theme song plays.
 

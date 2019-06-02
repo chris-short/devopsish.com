@@ -77,7 +77,7 @@ March 9, 2018
 
 [Learning Kubernetes with Amy Chen](https://thewomenintechshow.com/2018/02/26/learning-kubernetes-with-amy-chen/)
 
-[How-To: Deploy web applications on Kubernetes with Heptio Contour and Let’s Encrypt](https://blog.heptio.com/how-to-deploy-web-applications-on-kubernetes-with-heptio-contour-and-lets-encrypt-d58efbad9f56): This post is a technical how-to that walks you through deploying a web application securely on a Kubernetes Cluster using HTTPS.
+[How-To: Deploy web applications on Kubernetes with Heptio Contour and Let's Encrypt](https://blog.heptio.com/how-to-deploy-web-applications-on-kubernetes-with-heptio-contour-and-lets-encrypt-d58efbad9f56): This post is a technical how-to that walks you through deploying a web application securely on a Kubernetes Cluster using HTTPS.
 
 [How to make your first upstream Kubernetes contribution](https://opensource.com/article/18/2/step-step-guide-becoming-kubernetes-contributor): Find an issue, submit a pull request, and make your first upstream contribution to Kubernetes with this simple advice.
 

@@ -30,13 +30,13 @@ Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don'
 
 [Daniel Stenberg is leaving Mozilla after five years](https://daniel.haxx.se/blog/2018/11/18/im-leaving-mozilla/) — And where Daniel lands is still up in the air.
 
-[I hate manager READMEs](https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0) — Camille Fournier "got feisty on twitter today and wrote up some tweets on manager READMEs, a recent hot trend in management. Let’s break them down..."
+[I hate manager READMEs](https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0) — Camille Fournier "got feisty on twitter today and wrote up some tweets on manager READMEs, a recent hot trend in management. Let's break them down..."
 
-[People: Google doesn’t get ‘enterprise’ and should have people who’re more enterprise focused. GOOG: Look, we just hired an enterprise focused person. People: OMG! Why did just hire an enterprise person?](https://www.softwaredefinedtalk.com/156)
+[People: Google doesn't get ‘enterprise' and should have people who're more enterprise focused. GOOG: Look, we just hired an enterprise focused person. People: OMG! Why did just hire an enterprise person?](https://www.softwaredefinedtalk.com/156)
 
 [Head of R&D Jia Li Leaves Google Cloud AI](https://syncedreview.com/2018/11/15/head-of-rd-jia-li-leaves-google-cloud-ai/) — "Head of R&D of Google Cloud AI Jia Li has left her position with the company... Chinese media is reporting that Li will start her own AI company with the aim of bringing machine learning solutions to the healthcare industry." That's two big losses for Google lately.
 
-[Want to work at Amazon? Former ‘Bar Raiser’ launches startup to prepare candidates for tech giant’s grueling interview process](https://www.geekwire.com/2018/want-work-amazon-former-bar-raiser-launches-startup-prepare-candidates-tech-giants-grueling-interview-process/) — If you're into that kind of thing (working for Amazon)
+[Want to work at Amazon? Former ‘Bar Raiser' launches startup to prepare candidates for tech giant's grueling interview process](https://www.geekwire.com/2018/want-work-amazon-former-bar-raiser-launches-startup-prepare-candidates-tech-giants-grueling-interview-process/) — If you're into that kind of thing (working for Amazon)
 
 [My hiring experience as a submarine sonar operator in the Norwegian Navy](https://www.brautaset.org/articles/2018/submarine-sonar-hiring.html) — There are some "requirements" that are anything but required.
 {{< adsense-inarticle >}}

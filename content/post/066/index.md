@@ -72,7 +72,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [Vodafone Finds Containers Drastically More Efficient Than VMs](https://www.sdxcentral.com/articles/news/vodafone-finds-containers-drastically-more-efficient-than-vms/2018/03/)
 
-[The Kubernetes Lesson](http://redmonk.com/sogrady/2018/03/02/the-kubernetes-lesson/): "When we’re asked, then, how Kubernetes got to where it is today and what the lesson is for those that would emulate its success, our answer is the same as it’s always been: developers are kingmakers. Ignore them at your peril."
+[The Kubernetes Lesson](http://redmonk.com/sogrady/2018/03/02/the-kubernetes-lesson/): "When we're asked, then, how Kubernetes got to where it is today and what the lesson is for those that would emulate its success, our answer is the same as it's always been: developers are kingmakers. Ignore them at your peril."
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1328_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/g/11b7lxp79d","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=%2Fg%2F11b7lxp79d","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 

@@ -28,7 +28,7 @@ Friedman goes on to explain that the roles of education and government today sho
 This sounds familiar... It's no surprise that we in tech have been trying to do exactly this for years in tech with things like DevOps and SRE (and many things before that). I think the fact we've created "things" (DevOps, SRE, Agile, Lean, etc.) to help us adapt to change faster shows a clear sign the technology is outpacing human capacity to adapt to it. So what do we do about it? Looks like that's the big question here.
 
 [**O'Reilly Software Architecture Conference NY 25% off**](http://www.oreilly.com/pub/cpc/187994)  
-Save 25% on your Gold, Silver, or Bronze pass to the O’Reilly Software Architecture Conference in New York next month. Register using the code **PCDEVOPSISH**. Explore complex software architecture topics, learn best practices from industry experts, and exchange ideas and insights with your peers. [Register Now](http://www.oreilly.com/pub/cpc/187994) *SPONSORED*
+Save 25% on your Gold, Silver, or Bronze pass to the O'Reilly Software Architecture Conference in New York next month. Register using the code **PCDEVOPSISH**. Explore complex software architecture topics, learn best practices from industry experts, and exchange ideas and insights with your peers. [Register Now](http://www.oreilly.com/pub/cpc/187994) *SPONSORED*
 
 [**Continuous delivery on modern infrastructure - Run GoCD on Kubernetes**](https://www.gocd.org/kubernetes)  
 Model Docker-based build workflows more effectively with our GoCD Kubernetes integration. Run GoCD natively on Kubernetes, define your build workflow and let GoCD provision and scale build infrastructure on the fly. *SPONSORED*
@@ -47,7 +47,7 @@ I'm going to add this new top five from the previous newsletter. Hit reply and t
 
 ## People
 
-[2018 and what’s to come in 2019](https://kimmcmahon.me/2018-and-whats-to-come-in-2019/) — My dear friend, **Kim McMahon**, wrote a great recap of her 2018, which started with the {code} team shuttering and being unemployed to becoming Senior Director of Digital Strategy at Cloud Foundry Foundation (CFF). A great read because it crosses over so many facets of the tech industry.
+[2018 and what's to come in 2019](https://kimmcmahon.me/2018-and-whats-to-come-in-2019/) — My dear friend, **Kim McMahon**, wrote a great recap of her 2018, which started with the {code} team shuttering and being unemployed to becoming Senior Director of Digital Strategy at Cloud Foundry Foundation (CFF). A great read because it crosses over so many facets of the tech industry.
 
 [Kolton Andrus, Gremlin Inc on On-Call Nightmares Podcast](https://www.podomatic.com/podcasts/oncallnightmares/episodes/2019-01-10T07_28_49-08_00) — Kolton is the CEO of chaos engineering firm Gremlin, Inc.
 

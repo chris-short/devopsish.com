@@ -44,9 +44,9 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 [What Happened When The DEA Demanded Passwords From LastPass](https://www.forbes.com/sites/thomasbrewster/2019/04/10/what-happened-when-the-dea-demanded-passwords-from-lastpass/#190345307ebe) — LastPass couldn't give the DEA the passwords because of their encryption implementation. But, there is always metadata and metadata can sometimes paint an even better picture than the data itself. An interesting tale of how you can do everything right and still screw your customers (or yourself, depending on the point of view).
 
-[How much does a DevOps engineer make?](https://enterprisersproject.com/article/2019/4/devops-engineer-salary) — Putting debates around the term DevOps engineer aside, let’s explore data points on salaries for this hot job title
+[How much does a DevOps engineer make?](https://enterprisersproject.com/article/2019/4/devops-engineer-salary) — Putting debates around the term DevOps engineer aside, let's explore data points on salaries for this hot job title
 
-[Alibaba founder Jack Ma says companies forcing staff to work overtime are ‘foolish’](https://www.scmp.com/news/china/society/article/3006127/alibaba-founder-jack-ma-says-companies-forcing-staff-work) — "He also calls enforced 996 schedule – working 9am to 9pm, six days a week – ‘inhumane’ and ‘unsustainable’"
+[Alibaba founder Jack Ma says companies forcing staff to work overtime are ‘foolish'](https://www.scmp.com/news/china/society/article/3006127/alibaba-founder-jack-ma-says-companies-forcing-staff-work) — "He also calls enforced 996 schedule – working 9am to 9pm, six days a week – ‘inhumane' and ‘unsustainable'"
 
 ## Process
 
@@ -66,7 +66,7 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 ## Tools
 
-[Introducing Fenrir: How Coinbase is Scaling Serverless Applications](https://blog.coinbase.com/introducing-fenrir-how-coinbase-is-scaling-serverless-applications-9ba6e3a74761) — "Fenrir is our AWS SAM deployer; at its core is a reimplementation of the `sam deploy` command as an AWS Step Function, so it’s a serverless serverless (serverless²) deployer." 🤯🤯🤯
+[Introducing Fenrir: How Coinbase is Scaling Serverless Applications](https://blog.coinbase.com/introducing-fenrir-how-coinbase-is-scaling-serverless-applications-9ba6e3a74761) — "Fenrir is our AWS SAM deployer; at its core is a reimplementation of the `sam deploy` command as an AWS Step Function, so it's a serverless serverless (serverless²) deployer." 🤯🤯🤯
 
 [Linkerd 2.3 introduces Zero-Trust Networking for Kubernetes](https://hub.packtpub.com/linkerd-2-3-introduces-zero-trust-networking-for-kubernetes/) — "In this release, the mTLS is out of experimental to a fully supported feature. Along with several important security primitives, the important update in Linkerd 2.3 is that it turns authenticated, confidential communication between meshed services on by default."
 
@@ -86,7 +86,7 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 [Go is on a trajectory to become the next enterprise programming language](https://hackernoon.com/go-is-on-a-trajectory-to-become-the-next-enterprise-programming-language-3b75d70544e) — This article makes a lot of good cases for Go. It makes a case Go being a de facto Java replacement in enterprise applications.
 
-[Everything You Want To Know About Anthos - Google's Hybrid And Multi-Cloud Platform](https://www.forbes.com/sites/janakirammsv/2019/04/14/everything-you-want-to-know-about-anthos-googles-hybrid-and-multi-cloud-platform/#30ed8c965b66) — Speaking of abstractions, there's now a thing call Google Anthos. One shocking thing I learned, "It’s important to note that GKE On-prem runs as a virtual appliance on top of VMware vSphere 6.5." That's interesting for sure.
+[Everything You Want To Know About Anthos - Google's Hybrid And Multi-Cloud Platform](https://www.forbes.com/sites/janakirammsv/2019/04/14/everything-you-want-to-know-about-anthos-googles-hybrid-and-multi-cloud-platform/#30ed8c965b66) — Speaking of abstractions, there's now a thing call Google Anthos. One shocking thing I learned, "It's important to note that GKE On-prem runs as a virtual appliance on top of VMware vSphere 6.5." That's interesting for sure.
 
 [The Fargate Illusion](https://leebriggs.co.uk/blog/2019/04/13/the-fargate-illusion.html) — AWS Fargate is a great idea but, maybe not such a great implementation. GCP has the one container per instance feature that makes it a little bit easier to "run my damn container."
 

@@ -17,7 +17,7 @@
 [Different Approaches to Linux Monitoring • Capsule8](https://capsule8.com/blog/different-approaches-to-linux-monitoring/)
 [How IBM Watson Overpromised and Underdelivered on AI Health Care - IEEE Spectrum](https://spectrum.ieee.org/biomedical/diagnostics/how-ibm-watson-overpromised-and-underdelivered-on-ai-health-care)
 [Why your Docker multi-stage build is surprisingly slow](https://pythonspeed.com/articles/faster-multi-stage-builds/)
-[How to Talk with a Coworker Who’s Having a Tough Time](https://hbr.org/2019/04/how-to-talk-with-a-coworker-whos-having-a-tough-time)
+[How to Talk with a Coworker Who's Having a Tough Time](https://hbr.org/2019/04/how-to-talk-with-a-coworker-whos-having-a-tough-time)
 [Container Journal: "TOC Votes to Move OPA into CNCF Incubator" - Cloud Native Computing Foundation](https://www.cncf.io/news/2019/04/02/container-journal-toc-votes-to-move-opa-into-cncf-incubator/)
 [chef/chef-oss-practices](https://github.com/chef/chef-oss-practices)
 [project-everest/hacl-star: HACL*, a formally verified cryptographic library written in F*](https://github.com/project-everest/hacl-star)

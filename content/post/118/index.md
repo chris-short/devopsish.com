@@ -39,7 +39,7 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 [New adventures at Slack!](https://www.linkedin.com/pulse/new-adventures-slack-nora-jones/) — Best of luck, Nora!
 
-[Portland startup Stackery sticks by CEO despite ex-spouse’s allegation of verbal abuse, threats](https://www.oregonlive.com/silicon-forest/2019/03/portland-startup-stackery-sticks-by-ceo-despite-ex-spouses-verbal-abuse-allegation.html) — I know nothing of this situation but, I'm really glad I'm not married to someone in the industry. I feel like that'd be really hard.
+[Portland startup Stackery sticks by CEO despite ex-spouse's allegation of verbal abuse, threats](https://www.oregonlive.com/silicon-forest/2019/03/portland-startup-stackery-sticks-by-ceo-despite-ex-spouses-verbal-abuse-allegation.html) — I know nothing of this situation but, I'm really glad I'm not married to someone in the industry. I feel like that'd be really hard.
 
 [Camille Fournier on Scaling, Structure, and Growing as an Engineering Manager](https://blog.gitprime.com/camille-fournier-on-scaling-structure-and-growing-as-an-engineering-manager/)
 
@@ -51,7 +51,7 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 [Goodbye Docker and Thanks for all the Fish](https://technodrone.blogspot.com/2019/02/goodbye-docker-and-thanks-for-all-fish.html) — Someone else that thinks [**Docker is Dead**](https://chrisshort.net/docker-inc-is-dead/). I wonder if Docker is going to bad mouth the author like they've bad mouthed me.
 
-[You Don’t Need All That Complex/Expensive/Distracting Infrastructure](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb) — "So, finally getting that next Unicorn idea down into code? You don’t need all of that infrastructure you have planned out."
+[You Don't Need All That Complex/Expensive/Distracting Infrastructure](https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb) — "So, finally getting that next Unicorn idea down into code? You don't need all of that infrastructure you have planned out."
 
 [IBM hunkers down for no-deal Brexit, warns of disruption to supply chain, data transfers](https://www.theregister.co.uk/2019/03/01/ibm_brexit_plan/) — Brexit is about to get very real for a lot of folks. The fifth largest economy is about to make a move that will have ramifications for a very long time.
 
@@ -65,7 +65,7 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 [How to ace the Certified Kubernetes Administrator Exam in 7 days](https://medium.com/@writetomiglani/how-to-ace-the-certified-kubernetes-administrator-exam-in-7-days-e4603ac40746)
 
-[Why I, A Serverless Developer, Don’t Care About Your Containers](https://medium.com/adobetech/why-i-a-serverless-developer-dont-care-about-your-containers-40c08d36aee4) — Groan... Why I don't care about what you care about and other life lessons (but y'all clicked it a lot).
+[Why I, A Serverless Developer, Don't Care About Your Containers](https://medium.com/adobetech/why-i-a-serverless-developer-dont-care-about-your-containers-40c08d36aee4) — Groan... Why I don't care about what you care about and other life lessons (but y'all clicked it a lot).
 
 [Hardening Git for GitOps](https://www.weave.works/blog/whitepaper-hardening-git-for-gitops)
 
@@ -77,13 +77,13 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 [How to measure every API call in your Go app (in fewer than 30 lines of code)](https://blog.sensu.io/how-to-measure-every-api-call-in-your-go-app) — You can only improve what you measure.
 
-[Murder On The Kubernetes Express: The Life And Death Of A Docker Container](https://itnext.io/murder-on-the-kubernetes-express-the-life-and-death-of-a-docker-container-d7aec13f8188) — "It’s a brutal existence but one that is extremely beneficial to you and me as developers."
+[Murder On The Kubernetes Express: The Life And Death Of A Docker Container](https://itnext.io/murder-on-the-kubernetes-express-the-life-and-death-of-a-docker-container-d7aec13f8188) — "It's a brutal existence but one that is extremely beneficial to you and me as developers."
 
 [Do RHEL Containers Inherit Security Compliance from the Host?](https://medium.com/shawndwells/do-rhel-containers-inherit-security-compliance-from-the-host-b3f11161d34b) — "*tl;dr:* There are 363 configuration settings applicable to RHEL 7-based container hosts. 93 controls are not inherited and applicable to RHEL as a container image. 85 of the 93 controls are resolvable through automation. The remainder requires manual review." Holy shit.
 
 [The Wireshark Foundation released Wireshark 3.0.0](https://securityaffairs.co/wordpress/81893/breaking-news/wireshark-3-0-0.html) — A long time in the making.
 
-[Julia’s cheat sheet for curl](https://daniel.haxx.se/blog/2019/03/05/julias-cheat-sheet-for-curl/) — I appreciate when developers appreciate the works of their users.
+[Julia's cheat sheet for curl](https://daniel.haxx.se/blog/2019/03/05/julias-cheat-sheet-for-curl/) — I appreciate when developers appreciate the works of their users.
 
 [Linux 5.0](https://lore.kernel.org/lkml/CAHk-=wjuG6HiGbD7DCGfvDvhr_1WZUR-eYF2qWGbYyn9k6unvg@mail.gmail.com/T/#u) — AMD FreeSync support, Btrfs file-system restores support for swap files, and, Retpoline overhead reduction work are some of the things in the new kernel.
 
@@ -93,7 +93,7 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 [Building a Control Plane for Envoy](https://medium.com/solo-io/building-a-control-plane-for-envoy-7524ceb09876) — "In this series of blogs, we will share our experience of building Gloo, a multi-purpose control plane for the Envoy proxy. The first blog in the series will focus on Envoy design, and the technical architecture decisions we needed to make while building the first layer of the control plane."
 
-[Getting started with Git and GitHub: the complete beginner’s guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6) — Git and GitHub basics for the curious and completely confused (plus the easiest way to contribute to your first open source project ever!)
+[Getting started with Git and GitHub: the complete beginner's guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6) — Git and GitHub basics for the curious and completely confused (plus the easiest way to contribute to your first open source project ever!)
 
 [How rootless Buildah works: Building containers in unprivileged environments](https://opensource.com/article/19/3/tips-tricks-rootless-buildah)
 

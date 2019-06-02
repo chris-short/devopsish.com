@@ -11,5 +11,5 @@
 [8 quotes to inspire IT leaders in the new year | The Enterprisers Project](https://enterprisersproject.com/article/2018/12/quotes-inspire-it-leaders-new-year)
 [QUIC for Unikernels · Cloud Atomic Laboratory](https://www.cloudatomiclab.com/quic-unikernels/)
 [Understanding How Envoy Sidecar Intercept and Route Traffic in Istio Service Mesh - 宋净超的博客|Cloud Native|云原生布道师](https://jimmysong.io/posts/understanding-how-envoy-sidecar-intercept-and-route-traffic-in-istio-service-mesh/)
-[Anatomy of a shell | Drew DeVault’s Blog](https://drewdevault.com/2018/12/28/Anatomy-of-a-shell.html)
+[Anatomy of a shell | Drew DeVault's Blog](https://drewdevault.com/2018/12/28/Anatomy-of-a-shell.html)
 [White House said to mull new year executive order to bar Huawei, ZTE purchases | South China Morning Post](https://www.scmp.com/tech/big-tech/article/2179641/white-house-said-mull-new-year-executive-order-bar-huawei-zte)

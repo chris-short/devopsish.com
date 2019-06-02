@@ -60,7 +60,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [How Netflix does failovers in 7 minutes flat](https://opensource.com/article/18/4/how-netflix-does-failovers-7-minutes-flat): Netflix decreased the time it takes to respond to an outage from 45 minutes to seven with no additional cost.
 
-[Fired FBI director James Comey reveals how Apple and Google's encryption efforts "drove me crazy"](https://www.fastcompany.com/40559334/fired-fbi-director-james-comey-reveals-how-apple-and-googles-encryption-efforts-drove-me-crazy): Comey stated, “the leaders of the tech companies don’t see the darkness the FBI sees,” such as terrorism and organized crime. While that may be true, your need for security does not subjugate society's right to privacy.
+[Fired FBI director James Comey reveals how Apple and Google's encryption efforts "drove me crazy"](https://www.fastcompany.com/40559334/fired-fbi-director-james-comey-reveals-how-apple-and-googles-encryption-efforts-drove-me-crazy): Comey stated, “the leaders of the tech companies don't see the darkness the FBI sees,” such as terrorism and organized crime. While that may be true, your need for security does not subjugate society's right to privacy.
 
 [DevOpsDays Atlanta 2018: DevOps is Not War](https://chrisshort.net/devopsdays-atlanta-2018-devops-is-not-war/): Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to prevent conflict during your DevOps journey.
 
@@ -99,7 +99,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/): "This is a post by long-time Linux kernel networking developer and creator of the Cilium project, Thomas Graf"
 
-[5 things I wish I'd known about Kubernetes before I started](https://about.gitlab.com/2018/04/16/five-things-i-wish-i-knew-about-kubernetes/): Looking to dive into Kubernetes? Here’s some advice on how to get started from a GitLab engineer.
+[5 things I wish I'd known about Kubernetes before I started](https://about.gitlab.com/2018/04/16/five-things-i-wish-i-knew-about-kubernetes/): Looking to dive into Kubernetes? Here's some advice on how to get started from a GitLab engineer.
 
 [Running Jenkins builds in containers](https://opensource.com/article/18/4/running-jenkins-builds-containers): A container application platform's ability to dynamically bring up isolated containers with resource limits changes how you can run CI/CD tasks.
 

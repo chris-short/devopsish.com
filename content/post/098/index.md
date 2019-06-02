@@ -14,9 +14,9 @@ imagecap = "I really don't care what your stance is. I want you to vote. Art by 
 
 +++
 
-Every time, without fail, I mention anything resembling a political leaning in this newsletter I get negative feedback. This week, I am sure I will again. But, this message is personal so I’ve made it simple. **VOTE**.
+Every time, without fail, I mention anything resembling a political leaning in this newsletter I get negative feedback. This week, I am sure I will again. But, this message is personal so I've made it simple. **VOTE**.
 
-I don’t care what your stances on the issues are, whether you care if a pot-smoking gay couple can be photographers at your cousin’s wedding, nor what you think of these weird things that are happening on the planet. I only want you to **VOTE**.
+I don't care what your stances on the issues are, whether you care if a pot-smoking gay couple can be photographers at your cousin's wedding, nor what you think of these weird things that are happening on the planet. I only want you to **VOTE**.
 
 I gave up a huge part of my existence helping others enable voting in foreign countries because US citizens voted to put my team there. Afghanistan voted today in parliamentary elections. [People died in Afghanistan to vote today](https://www.bbc.com/news/world-asia-45919057). Brazil, Fiji, Ireland, Israel, Taiwan, and the United States have elections coming up this year. All I want is when it is your time, **VOTE**.
 
@@ -35,7 +35,7 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [Kubernetes: Call for Outreachy mentors](https://www.outreachy.org/communities/cfp/kubernetes/): HALP
 
-[‘I Fundamentally Believe That My Time at Reddit Made the World a Worse Place’](http://nymag.com/intelligencer/2018/04/dan-mccomas-reddit-product-svp-and-imzy-founder-interview.html): A conversation with former Reddit product head Dan McComas on the problems of growth as a metric and what Twitter is doing wrong.
+[‘I Fundamentally Believe That My Time at Reddit Made the World a Worse Place'](http://nymag.com/intelligencer/2018/04/dan-mccomas-reddit-product-svp-and-imzy-founder-interview.html): A conversation with former Reddit product head Dan McComas on the problems of growth as a metric and what Twitter is doing wrong.
 
 [M.I.T. Plans College for Artificial Intelligence, Backed by $1 Billion](https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html)
 
@@ -56,11 +56,11 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [Alert fatigue, part 4: alert consolidation](https://blog.sensu.io/alert-fatigue-part-4-alert-consolidation): I'm not sure how I feel about Sensu the company at the moment. But, alert fatigue is VERY real.
 
-[Leading urbanist Richard Florida is convinced Amazon HQ2 won’t go to a suburb](https://www.geekwire.com/2018/leading-urbanist-richard-florida-convinced-amazon-hq2-wont-go-suburb/): I wanted HQ2 to come to Detroit. I now want it to go to Toronto because that would be amazing for both Amazon and Toronto. Most folks are betting on Washington DC.
+[Leading urbanist Richard Florida is convinced Amazon HQ2 won't go to a suburb](https://www.geekwire.com/2018/leading-urbanist-richard-florida-convinced-amazon-hq2-wont-go-suburb/): I wanted HQ2 to come to Detroit. I now want it to go to Toronto because that would be amazing for both Amazon and Toronto. Most folks are betting on Washington DC.
 
-[Amazon’s HQ2 announcement is imminent. Here’s a look at the final contenders.](https://www.recode.net/2018/10/15/17914666/amazon-hq2-contenders): Sort them by tech talent, rent and commute times.
+[Amazon's HQ2 announcement is imminent. Here's a look at the final contenders.](https://www.recode.net/2018/10/15/17914666/amazon-hq2-contenders): Sort them by tech talent, rent and commute times.
 
-[Pull, don’t push: architectures for monitoring and configuration in a microservices era](https://blog.sensu.io/pull-dont-push-architectures-for-monitoring-and-configuration-in-a-microservices-era): I have some opinions on this. But, it's good to check yourself often. Also, it was great seeing Julian at AnsibleFest.
+[Pull, don't push: architectures for monitoring and configuration in a microservices era](https://blog.sensu.io/pull-dont-push-architectures-for-monitoring-and-configuration-in-a-microservices-era): I have some opinions on this. But, it's good to check yourself often. Also, it was great seeing Julian at AnsibleFest.
 
 [Cloud Native Is an Existential Threat](https://container-solutions.com/cloud-native-is-an-existential-threat/): "The existential threat from Cloud Native is that other people are already doing it."
 
@@ -76,7 +76,7 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [Docker has raised $92 million in new funding](https://techcrunch.com/2018/10/15/docker-has-raised-92-million-in-new-funding/): Thoughts coming.
 
-[Dr. Nicole Forsgren on DevOps: ‘You Are What You Measure’](https://thenewstack.io/dr-nicole-forsgren-on-devops-you-are-what-you-measure/)
+[Dr. Nicole Forsgren on DevOps: ‘You Are What You Measure'](https://thenewstack.io/dr-nicole-forsgren-on-devops-you-are-what-you-measure/)
 
 [AWS Lambda announces service level agreement](https://aws.amazon.com/about-aws/whats-new/2018/10/aws-lambda-introduces-service-level-agreement/)
 {{< adsense-inarticle >}}

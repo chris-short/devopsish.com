@@ -1,7 +1,7 @@
 [Grafana Logging using Loki - Giant Swarm](https://blog.giantswarm.io/grafana-logging-using-loki/)
 [Oracle Swings the Layoff Axe and Clear-cuts Teams of Engineers - IEEE Spectrum](https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/oracle-swings-the-layoff-axe-and-clearcuts-teams-of-engineers)
 [56 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
-[‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule | South China Morning Post](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
+[‘Developers' lives matter' – Chinese software engineers use Github to protest against the country's 996 work schedule | South China Morning Post](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
 [Defining "sustainable" for an open-source project [LWN.net]](https://lwn.net/Articles/783169/)
 [Boeing 737 Max: Map of Where Planes Went After Flights Grounded](https://www.bloomberg.com/graphics/2019-boeing-737-max-map-where-planes-went-after-grounded/)
 [How to transition into a Developer Relations career | Opensource.com](https://opensource.com/article/19/3/developer-relations-career)

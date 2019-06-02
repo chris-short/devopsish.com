@@ -9,7 +9,7 @@
 [An overview of MicroK8s and why using it in the cloud was a terrible idea](https://medium.com/@lmakarov/an-overview-of-microk8s-and-why-using-it-in-the-cloud-was-a-terrible-idea-9ba8506dc467)
 [Kelsey Hightower on keeping up with cloud-native and helping companies make smart choices](https://architecht.io/kelsey-hightower-on-keeping-up-with-cloud-native-and-helping-companies-make-smart-choices-19bd414f7021)
 [Running Rocket.Chat and MongoDB on Kubernetes with StatefulSets](https://medium.com/@jmarhee/running-rocket-chat-and-mongodb-on-kubernetes-with-statefulsets-f3ddef5bd511)
-[They scaled YouTube — now they’ll shard everyone with PlanetScale | TechCrunch](https://techcrunch.com/2018/12/13/planetscale/)
+[They scaled YouTube — now they'll shard everyone with PlanetScale | TechCrunch](https://techcrunch.com/2018/12/13/planetscale/)
 [KubeCon + CloudNativeCon NA 2018 - chrisshort.net](https://chrisshort.net/kubecon-cloudnativecon-na-2018/)
 [Source of Record vs Source of Truth - Taos](http://www.taos.com/source-of-record-vs-source-of-truth/)
 [Why do we all use NTP? | Lobsters](https://lobste.rs/s/jeeq9d/why_do_we_all_use_ntp)
