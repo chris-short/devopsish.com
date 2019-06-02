@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-06-02T07:00:00Z
-description = "So Much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More"
+description = "So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More"
 draft = false
 slug = "130"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "Ansible", "cloud native", "weekly newsletter", "Huawei", "China"]
-title = "130: So Much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More"
+title = "130: So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More"
 
 +++
 
