@@ -64,7 +64,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 ## Process
 
-[Beyond the Pheonix Project](https://itrevolution.com/book/beyond-phoenix-project-audiobook/): Gene Kim and John Willis got together to make a "nine-part series that includes an oral history of the DevOps movement, as well as discussion around pivotal figures and philosophies that DevOps draws upon, from Goldratt to Deming; from Lean to Safety Culture to Learning Organizations."
+[Beyond the Phoenix Project](https://itrevolution.com/book/beyond-phoenix-project-audiobook/): Gene Kim and John Willis got together to make a "nine-part series that includes an oral history of the DevOps movement, as well as discussion around pivotal figures and philosophies that DevOps draws upon, from Goldratt to Deming; from Lean to Safety Culture to Learning Organizations."
 
 [Top 4 frustrating problems with "doing DevOps"](https://opensource.com/article/18/3/4-hardest-things-devops-transformation): Learn the biggest barriers to DevOps and what you can do to overcome them.
 
