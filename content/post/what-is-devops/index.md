@@ -34,6 +34,8 @@ Most DevOps practices embrace [Agile](https://agilemanifesto.org/) as a method f
 
 These delivery intervals get shorter in length and more frequent as the organization embraces DevOps practices. Several deployments an hour is entirely realistic for more mature DevOps organizations. At some point along an organization's DevOps journey, a pipeline is built. This pipeline enables automation of changes and modifications to the system through controlled inputs. Whether this is completely automated from development to production in a continuous deployment model or something short of that is ultimarely a business decision.
 
+{{< mc >}}
+
 For years, we've been taught that [speed kills](https://youtu.be/va1o_btLDt8). While that may be true in a few facets of life, it is not the case in software delivery. DevOps Research & Assessment (DORA) has collected survey data for over five years from organizations and professionals delivering and maintaining software across the globe. In 2018, [Accelerate: State of DevOps Report](https://cloudplatformonline.com/2018-state-of-devops.html) (ASDOR) described the highest performers as, "excelling at all aspects of throughput and stability." The Elite Performers are delivering software faster with shorter lead times for changes than the rest of the industry.
 
 As counterintuitive as this might sound to some, when it comes to software, smaller, more frequent releases will improve stability a lot more than a 900 line spreadsheet and detailed planning ever will. If a pipeline allows for safe, rapid, iterative improvements to a system, it becomes increasingly easier to deploy to fix issues that arise as they happen. This often leads to growth in capabilities as more work becomes automated and mind power is allowed to focus on more complex issues.
@@ -77,11 +79,13 @@ In [The Dark Side of DevOps](https://chrisshort.net/the-dark-side-of-devops/) th
 
 ## Where To Learn More About DevOps
 
-* [DevOps README.md](https://chrisshort.net/devops-readme.md/)
+* [DevOps'ish — A weekly newsletter covering open source, DevOps, and cloud native technologies and practices](https://devopsish.com/subscribe/)
+* [**DevOps README.md**](https://chrisshort.net/devops-readme.md/)
 * [*DevOps For Dummies*](https://amzn.to/2TFOQFe)
+* [*The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*](https://amzn.to/2WxnsdZ)
 * [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2)
 
-### Special Thanks
+### Credits
 
 A very special thanks to [Nathen Harvey](https://twitter.com/nathenharvey), [Kim McMahon](https://kimmcmahon.me), and [Emily Freeman](https://emilyfreeman.io/).
 
