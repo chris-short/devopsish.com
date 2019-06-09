@@ -6,7 +6,7 @@ date = 2018-09-03T00:00:00Z
 description ="Microsoft Goes Bold, ASDOR, Project Paper Cuts, Shady Telcos, Kubernetes, Ansible, and More"
 draft = false
 slug = "091"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "change", "cluster", "accelerate", "state of devops report"]
+tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "change", "cluster", "accelerate", "state of devops report", "licenses"]
 title = "091: Microsoft Goes Bold, ASDOR, Project Paper Cuts, Shady Telcos, Kubernetes, Ansible, and More"
 
 +++

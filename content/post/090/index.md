@@ -6,7 +6,7 @@ date = 2018-08-26T07:00:00Z
 description ="DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!"
 draft = false
 slug = "090"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "red hat", "windows", "linux", "rss", "pipelines", "cicd", "NotPetya"]
+tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "red hat", "windows", "linux", "rss", "pipelines", "cicd", "NotPetya", "licenses"]
 title = "090: DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!"
 
 +++
