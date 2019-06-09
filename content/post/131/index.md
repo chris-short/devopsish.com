@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-06-09T07:00:00Z
-description = ""
+description = "DevOps Tools, Kubernetes ≠ Rocket Science, IBM Layoffs, Open Source Licenses Aren’t Broken, Small Kubernetes Clusters, and More"
 draft = false
 slug = "131"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter"]
-title = "131"
+title = "131: DevOps Tools, Kubernetes ≠ Rocket Science, IBM Layoffs, Open Source Licenses Aren’t Broken, Small Kubernetes Clusters, and More"
 image = "/131/kubernetes-what-if-i-told-you.jpg"
 imagealt = "What if I told you... You don't have to be a Kubernetes expert to use it."
 
