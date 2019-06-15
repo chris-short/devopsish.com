@@ -13,7 +13,7 @@ title = "132:"
 
 Dear reader, lend me your eyeballs. Let's discuss the [DevOps'ish Summer 2019 Survey](https://devopsi.sh/survey) for a brief moment. It's *vital* feedback that I will use to pivot, fork, or modify the newsletter, if needed. Therefore it's important that you [**take the survey today**](https://devopsi.sh/survey)!
 
-I'm in San Francisco this week for [JFrog swampUP](https://swampup2019.sched.com/event/Nd9K/the-dark-side-of-devops) if you're around the Red Hat office on Monday or Embarcadero Center Tuesday and Wednesday or going to the [SF SRE Meetup](https://www.meetup.com/San-Francisco-Reliability-Engineering/events/260864518/) Wednesday night and want to chat, let me know!
+I'm in San Francisco this week for [JFrog swampUP](https://swampup2019.sched.com/event/Nd9K/the-dark-side-of-devops). If you're around the Red Hat office on Monday, Embarcadero Center Tuesday and Wednesday, or going to the [SF SRE Meetup](https://www.meetup.com/San-Francisco-Reliability-Engineering/events/260864518/) Wednesday night and want to chat, let me know!
 
 [**2019 State of Multicloud**](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE)  
 A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Today!](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) *SPONSORED*
