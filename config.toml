@@ -42,7 +42,7 @@ title = "DevOps'ish"
   [privacy.googleAnalytics]
     anonymizeIP = true
     disable = false
-    respectDoNotTrack = false
+    respectDoNotTrack = true
     useSessionStorage = true
   [privacy.instagram]
     disable = false
