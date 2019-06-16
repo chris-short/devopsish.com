@@ -98,6 +98,6 @@ deploy-oss:
   before_script:
     - echo -n ${OSS_TOKEN} | base64 -d > ${OSS_TOKEN_FILE}
   script:
-    - ossutil cp --jobs 8 --parallel 10000 -u -r public oss://${CI_PROJECT_NAME}/
+    - ossutil --config-file ${OSS_TOKEN_FILE} cp --jobs 8 --parallel 10000 -u -r public oss://${CI_PROJECT_NAME}/
   only:
     - master
