@@ -25,7 +25,7 @@ build-preview:
   artifacts:
     paths:
       - public
-    expire_in: 10d
+    expire_in: 30m
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - rm -rf public || exit 0
@@ -44,7 +44,7 @@ build-production:
   artifacts:
     paths:
       - public
-    expire_in: 10d
+    expire_in: 30m
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - rm -rf public || exit 0
@@ -72,7 +72,7 @@ deploy-preview:
   except:
     - master
 
-deploy-production:
+deploy-gcs:
   stage: deploy
   environment:
     name: production
@@ -86,5 +86,18 @@ deploy-production:
     - gsutil -m rsync -a public-read -d -r public gs://${CI_PROJECT_NAME}/
   after_script:
     - bin/cf_purge.sh
+  only:
+    - master
+
+deploy-oss:
+  stage: deploy
+  environment:
+    name: production
+    url: https://devopsish.com
+  image: quay.io/chrisshort/ossutil:latest
+  before_script:
+    - echo -n ${OSS_TOKEN} | base64 -d > ${OSS_TOKEN_FILE}
+  script:
+    - ossutil cp --jobs 8 --parallel -u -r public oss://${CI_PROJECT_NAME}/
   only:
     - master
