@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-06-16T07:00:00Z
-description = ""
+description = "Kubernetes for the impatient, VMware shopping spree continues, Burnout, SRE for you and me, Google grows in Michigan, NATS 2.0, and more"
 draft = false
 slug = "132"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter"]
-title = "132:"
+title = "132: Kubernetes for the impatient, VMware shopping spree continues, Burnout, SRE for you and me, Google grows in Michigan, NATS 2.0, and more"
 
 +++
 
-Dear reader, lend me your eyeballs. Let's discuss the [DevOps'ish Summer 2019 Survey](https://devopsi.sh/survey) for a brief moment. It's *vital* feedback that I will use to pivot, fork, or modify the newsletter, if needed. Therefore it's important that you [**take the survey today**](https://devopsi.sh/survey)!
+Dear reader, lend me your eyeballs. Let's discuss the [DevOps'ish Summer 2019 Survey](https://devopsi.sh/survey) for a brief moment. It's *vital* feedback that I will use to pivot, fork, or modify the newsletter if needed. Therefore it's important that you [**take the survey today**](https://devopsi.sh/survey)!
 
 I'm in San Francisco this week for [JFrog swampUP](https://swampup2019.sched.com/event/Nd9K/the-dark-side-of-devops). If you're around the Red Hat office on Monday, Embarcadero Center Tuesday and Wednesday, or going to the [SF SRE Meetup](https://www.meetup.com/San-Francisco-Reliability-Engineering/events/260864518/) Wednesday night and want to chat, let me know!
 
@@ -55,7 +55,7 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 [Learning Chaos Engineering [Book]](https://www.oreilly.com/library/view/learning-chaos-engineering/9781492050995/) — "You'll learn ways to approach and adopt the discipline, how to prepare for and conduct successful chaos experiments manually, and how to work towards Continuous Chaos through automation."
 
-[Comcast broke law 445,000 times in scheme to inflate bills, judge finds](https://arstechnica.com/tech-policy/2019/06/comcast-broke-law-445000-times-in-scheme-to-inflate-bills-judge-finds/) — It was probably cheaper or most cost effective to break the law.
+[Comcast broke law 445,000 times in scheme to inflate bills, judge finds](https://arstechnica.com/tech-policy/2019/06/comcast-broke-law-445000-times-in-scheme-to-inflate-bills-judge-finds/) — It was probably cheaper or most cost-effective to break the law.
 
 [Google Announces Expansion to Ann Arbor and Detroit Offices](https://cronicle.press/2019/06/11/google-announces-expansion-to-ann-arbor-and-detroit-offices/) — "[T]he company is planning expansions to both Detroit and Ann Arbor offices, adding hundreds of jobs and an entire new floor to the Detroit offices."
 
@@ -65,7 +65,7 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 [Automate Kubernetes with GitOps](https://www.weave.works/blog/automate-kubernetes-with-gitops)
 
-[The Coffee is Getting Cold, It’s Time to GO – Getting Started Building Microservices](https://keithtenzer.com/2019/06/13/the-coffee-is-getting-cold-its-time-to-go-getting-started-building-microservice/) — Maybe now is the time make the move from Java to Go?
+[The Coffee is Getting Cold, It’s Time to GO – Getting Started Building Microservices](https://keithtenzer.com/2019/06/13/the-coffee-is-getting-cold-its-time-to-go-getting-started-building-microservice/) — Maybe now is the time to make the move from Java to Go?
 
 [10 YAML tips for people who hate YAML](https://www.redhat.com/sysadmin/yaml-tips) — Do you hate YAML? These tips might ease your pain.
 
