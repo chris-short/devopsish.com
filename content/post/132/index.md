@@ -39,9 +39,15 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 [What is DevOps](https://devopsish.com/what-is-devops/) — "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
 
+[Maker Faire halts operations and lays off all staff](https://techcrunch.com/2019/06/07/make-magazine-maker-media-layoffs/) — A sad story of how MAKE: can't make it anymore (I'm sorry, I had to).
+
 ## Tools
 
-TOOLS
+[10 YAML tips for people who hate YAML](https://www.redhat.com/sysadmin/yaml-tips) — Do you hate YAML? These tips might ease your pain.
+
+[Podman and CRI-O in RHEL 8 and OpenShift 4](http://crunchtools.com/podman-and-cri-o-in-rhel-8-and-openshift-4/) — "This is a quick article to pull together the entire picture of Podman and CRI-O with the releases of RHEL 8 and OpenShift Container Platform 4."
+
+[dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) — A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
 
 ## DevOps'ish Tweet of the Week
 
