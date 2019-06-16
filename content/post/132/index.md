@@ -35,17 +35,27 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 [Digital WTF by Coté](https://leanpub.com/digitalwtf) — My buddy Micheal Coté published a book. The foreword was written by my old boss and buddy, John Willis. I wouldn't be a good friend if I didn't mention it. "When you're finished being inspired, this book is waiting for you, like a forgotten twenty dollar bill in that lambskin trucker jacket you haven't worn in 16 years."
 
+[GitHub shocks top developer: Access to 5 years' work inexplicably blocked](https://www.zdnet.com/article/github-shocks-top-developer-access-to-5-years-work-inexplicably-blocked/) — Three incidents in the past week illustrate the sometimes unavoidable risks involved in relying on cloud providers.
+
 ## Process
 
 [What is DevOps](https://devopsish.com/what-is-devops/) — "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
 
 [Maker Faire halts operations and lays off all staff](https://techcrunch.com/2019/06/07/make-magazine-maker-media-layoffs/) — A sad story of how MAKE: can't make it anymore (I'm sorry, I had to).
 
+[Comcast broke law 445,000 times in scheme to inflate bills, judge finds](https://arstechnica.com/tech-policy/2019/06/comcast-broke-law-445000-times-in-scheme-to-inflate-bills-judge-finds/) — It was probably cheaper or most cost effective to break the law.
+
 ## Tools
+
+[Automate Kubernetes with GitOps](https://www.weave.works/blog/automate-kubernetes-with-gitops)
+
+[The Coffee is Getting Cold, It’s Time to GO – Getting Started Building Microservices](https://keithtenzer.com/2019/06/13/the-coffee-is-getting-cold-its-time-to-go-getting-started-building-microservice/) — Maybe now is the time make the move from Java to Go?
 
 [10 YAML tips for people who hate YAML](https://www.redhat.com/sysadmin/yaml-tips) — Do you hate YAML? These tips might ease your pain.
 
 [Podman and CRI-O in RHEL 8 and OpenShift 4](http://crunchtools.com/podman-and-cri-o-in-rhel-8-and-openshift-4/) — "This is a quick article to pull together the entire picture of Podman and CRI-O with the releases of RHEL 8 and OpenShift Container Platform 4."
+
+[Micro Frontends](https://martinfowler.com/articles/micro-frontends.html) — "Good frontend development is hard. Scaling frontend development so that many teams can work simultaneously on a large and complex product is even harder."
 
 [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) — A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
 
