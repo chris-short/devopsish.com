@@ -37,15 +37,31 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 [GitHub shocks top developer: Access to 5 years' work inexplicably blocked](https://www.zdnet.com/article/github-shocks-top-developer-access-to-5-years-work-inexplicably-blocked/) — Three incidents in the past week illustrate the sometimes unavoidable risks involved in relying on cloud providers.
 
+[3 Themes from the Velocity Conference 2019](https://medium.com/memory-leak/3-themes-from-the-velocity-conference-2019-e5165d4afb97) — "We analyzed the ~70 session talks across 10 categories and found observability, security, and resiliency were the main technology topics."
+
+[On burnout, and getting past it](https://www.redhat.com/sysadmin/burnout-and-getting-past-it) — "It's easy to burn out in a high-stress industry like IT. Here's what to watch for, how to get out of it, and most importantly, how to avoid it."
+
+[How to get started with site reliability engineering (SRE)](https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre) — "Google SRE Stephen Thorne shares best practices for starting an SRE team at your company."
+
+[The New York Times has a course to teach its reporters data skills, and now they’ve open-sourced it](https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/)
+
 ## Process
 
 [What is DevOps](https://devopsish.com/what-is-devops/) — "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
 
+[VMware Inks Deal to Buy Avi Networks](https://www.sdxcentral.com/articles/news/vmware-inks-deal-to-buys-avi-networks/2019/06/) — "VMware plans to integrate this technology with its NSX networking and security portfolio, and says when the acquisition closes it will offer both built-in load balancing capabilities as part of VMware NSX Data Center and a standalone application delivery controller (ADC). It expects the transaction to close by early August."
+
 [Maker Faire halts operations and lays off all staff](https://techcrunch.com/2019/06/07/make-magazine-maker-media-layoffs/) — A sad story of how MAKE: can't make it anymore (I'm sorry, I had to).
+
+[Learning Chaos Engineering [Book]](https://www.oreilly.com/library/view/learning-chaos-engineering/9781492050995/) — "You'll learn ways to approach and adopt the discipline, how to prepare for and conduct successful chaos experiments manually, and how to work towards Continuous Chaos through automation."
 
 [Comcast broke law 445,000 times in scheme to inflate bills, judge finds](https://arstechnica.com/tech-policy/2019/06/comcast-broke-law-445000-times-in-scheme-to-inflate-bills-judge-finds/) — It was probably cheaper or most cost effective to break the law.
 
+[Google Announces Expansion to Ann Arbor and Detroit Offices](https://cronicle.press/2019/06/11/google-announces-expansion-to-ann-arbor-and-detroit-offices/) — "[T]he company is planning expansions to both Detroit and Ann Arbor offices, adding hundreds of jobs and an entire new floor to the Detroit offices."
+
 ## Tools
+
+[Kubernetes for the impatient](https://www.oreilly.com/ideas/kubernetes-for-the-impatient) — "Bridget Kromhout looks over the cloud native landscape and talks about what’s new, what’s next, and what you need to get started with Kubernetes right now."
 
 [Automate Kubernetes with GitOps](https://www.weave.works/blog/automate-kubernetes-with-gitops)
 
@@ -57,7 +73,25 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html) — "Good frontend development is hard. Scaling frontend development so that many teams can work simultaneously on a large and complex product is even harder."
 
+[70 Best Kubernetes Tutorials](https://www.aquasec.com/wiki/display/containers/70+Best+Kubernetes+Tutorials) — Valuable Kubernetes tutorials from multiple sources
+
+[NATS 2.0 Release Brings Advanced Security, Decentralized Management, Multi-Tenancy, and Global Scale to the NATS.io Messaging System](https://www.businesswire.com/news/home/20190610005140/en/NATS-2.0-Release-Brings-Advanced-Security-Decentralized) — "NATS 2.0 can replace multiple technologies like RPC systems, service meshes, event streaming, load balancers, policy and proxy sidecars as well as external security and authentication systems."
+
+[Golang Boilerplate With Fully Managed Versions to Kick Start GoLang Development](https://ednsquare.com/story/golang-boilerplate-with-fully-managed-versions-to-kick-start-golang-development------M6fVBF) — "It is a kind of Get Started Kit where one can find all required components in a single package and need not to set up each time they start with any crucial work."
+
+[Why containers and Kubernetes have the potential to run almost anything](https://opensource.com/article/19/6/kubernetes-potential-run-anything) — "Go beyond deployment of simple applications and tackle day two operations with Kubernetes Operators."
+
+[Adding SSL/TLS support to applications in Kubernetes-native way](https://medium.com/@cloudark/adding-ssl-tls-support-to-applications-in-kubernetes-native-way-dd31f016ac5e) — "In this post we discuss our experience of adding SSL/TLS support for a web application running on Kubernetes."
+
+[IBM Open Sources Razee, a Pull-Based Kubernetes Continuous Delivery Tool](https://thenewstack.io/ibm-open-sources-razee-a-pull-based-kubernetes-continuous-delivery-tool/) — "The team found itself in a conundrum that would only be solved by building its own continuous delivery (CD) software."
+
+[WSL 2 is now available in Windows Insiders](https://devblogs.microsoft.com/commandline/wsl-2-is-now-available-in-windows-insiders/) — "We’re excited to announce starting today you can try the Windows Subsystem for Linux 2 by installing Windows build 18917 in the Insider Fast ring!"
+
 [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) — A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
+
+[purpleidea/mgmt](https://github.com/purpleidea/mgmt) — Next generation distributed, event-driven, parallel config management!
+
+[ottomatica/slim](https://github.com/ottomatica/slim) — Build and run tiny vms from Dockerfiles. Small and sleek.
 
 ## DevOps'ish Tweet of the Week
 
