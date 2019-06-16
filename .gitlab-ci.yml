@@ -96,4 +96,4 @@ deploy-oss:
     url: https://devopsish.com
   image: quay.io/chrisshort/ossutil:latest
   script:
-    - ossutil -e ${OSS_ENDPOINT} -i ${OSS_KEY} -k ${OSS_SECRET} cp -j 4 --parallel 32 -u -r public oss://${OSS_BUCKET}/
+    - ossutil -e ${OSS_ENDPOINT} -i ${OSS_KEY} -k ${OSS_SECRET} cp -j 8 -u -r public oss://${OSS_BUCKET}/
