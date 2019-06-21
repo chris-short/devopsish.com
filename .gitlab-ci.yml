@@ -70,7 +70,7 @@ build-oss:
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
-    - hugo --buildDrafts --buildFuture --config config.oss.toml
+    - hugo --minify --config config.oss.toml
   only:
     - master
 
