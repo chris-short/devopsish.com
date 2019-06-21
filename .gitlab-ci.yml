@@ -36,10 +36,10 @@ build-preview:
   except:
     - master
 
-build-production:
+build-gcs:
   stage: build
   environment:
-    name: production
+    name: gcs
     url: https://devopsish.com
   artifacts:
     paths:
@@ -52,6 +52,25 @@ build-production:
     - git submodule update --init --recursive
   script:
     - hugo --minify
+  only:
+    - master
+
+build-oss:
+  stage: build
+  environment:
+    name: oss
+    url: https://build.devopsish.com
+  artifacts:
+    paths:
+      - public
+    expire_in: 30m
+  image: registry.gitlab.com/pages/hugo:latest
+  before_script:
+    - rm -rf public || exit 0
+    - git submodule sync --recursive
+    - git submodule update --init --recursive
+  script:
+    - hugo --buildDrafts --buildFuture --config config.oss.toml
   only:
     - master
 
@@ -75,7 +94,7 @@ deploy-preview:
 deploy-gcs:
   stage: deploy
   environment:
-    name: production
+    name: gcs
     url: https://devopsish.com
   image: google/cloud-sdk:alpine
   before_script:
@@ -92,8 +111,10 @@ deploy-gcs:
 deploy-oss:
   stage: deploy
   environment:
-    name: production
-    url: https://devopsish.com
+    name: oss
+    url: https://blocked.devopsish.com
   image: quay.io/chrisshort/ossutil:latest
   script:
     - ossutil -e ${OSS_ENDPOINT} -i ${OSS_KEY} -k ${OSS_SECRET} cp -j 8 -u -r public oss://${OSS_BUCKET}/
+  only:
+    - master
