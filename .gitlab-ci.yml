@@ -36,10 +36,10 @@ build-preview:
   except:
     - master
 
-build-gcs:
+build-prod:
   stage: build
   environment:
-    name: gcs
+    name: prod
     url: https://devopsish.com
   artifacts:
     paths:
@@ -55,6 +55,25 @@ build-gcs:
   only:
     - master
 
+build-blocked:
+  stage: build
+  environment:
+    name: blocked
+    url: https://blocked.devopsish.com
+  artifacts:
+    paths:
+      - public
+    expire_in: 30m
+  image: registry.gitlab.com/pages/hugo:latest
+  before_script:
+    - rm -rf public || exit 0
+    - git submodule sync --recursive
+    - git submodule update --init --recursive
+  script:
+    - hugo --minify --config config.blocked.toml
+  only:
+    - master
+
 deploy-preview:
   stage: deploy
   environment:
@@ -67,15 +86,13 @@ deploy-preview:
     - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
   script:
     - gsutil -m rsync -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
-  after_script:
-    - bin/cf_purge.sh
   except:
     - master
 
-deploy-gcs:
+deploy-prod:
   stage: deploy
   environment:
-    name: gcs
+    name: prod
     url: https://devopsish.com
   image: google/cloud-sdk:alpine
   before_script:
@@ -86,5 +103,20 @@ deploy-gcs:
     - gsutil -m rsync -a public-read -d -r public gs://${CI_PROJECT_NAME}/
   after_script:
     - bin/cf_purge.sh
+  only:
+    - master
+
+deploy-blocked:
+  stage: deploy
+  environment:
+    name: blocked
+    url: https://blocked.devopsish.com
+  image: google/cloud-sdk:alpine
+  before_script:
+    - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
+    - gcloud config set project ${GCS_PROJECT}
+    - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
+  script:
+    - gsutil -m rsync -a public-read -d -r public gs://blocked.devopsish.com/
   only:
     - master

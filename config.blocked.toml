@@ -1,12 +1,12 @@
 baseURL = "https://blocked.devopsish.com/"
-copyright = "[Some rights reserved](/cc-by-sa-4.0/) | [Terms](/terms/) | [Privacy](/privacy/) | [What is DevOps](/what-is-devops/)"
+copyright = "[Some rights reserved](https://blocked.devopsish.com/cc-by-sa-4.0/) | [Terms](https://blocked.devopsish.com/terms/) | [Privacy](https://blocked.devopsish.com/privacy/) | [What is DevOps](https://blocked.devopsish.com/what-is-devops/)"
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-4498776-13"
 languageCode = "en-us"
 metaDataFormat = "toml"
 newContentEditor = "code"
-paginate = 6
+paginate = 3
 relativeURLs = true
 rssLimit = 5
 theme = "hugo-theme-bootstrap4-blog"
