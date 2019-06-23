@@ -55,6 +55,8 @@ deploy-preview:
     - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
   script:
     - gsutil -m rsync -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
+  after_script:
+    - bin/cf_purge.sh
   except:
     - master
 
