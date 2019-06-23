@@ -3,18 +3,18 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-06-23T07:00:00Z
-description = ""
+description = "TCP SACK PANIC, Kubernetes 1.15, Red Hat & IBM, Job Identity, UBI, Cognitive Load and More"
 draft = false
 slug = "133"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter"]
-title = "133:"
+title = "133: TCP SACK PANIC, Kubernetes 1.15, Red Hat & IBM, Job Identity, UBI, Cognitive Load and More"
 
 +++
 
 [**2019 State of Multicloud**](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE)  
 A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Today!](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) *SPONSORED*
 
-[[Webinar] Every commit should have an issue ticket number](https://try.datree.io/trace-commits-to-tickets)  
+[**[Webinar] Every commit should have an issue ticket number**](https://try.datree.io/trace-commits-to-tickets)  
 Referencing an issue ticket in each commit is a development best practice. It improves code reviews, creates audit trails, and keeps you compliant. Learn how to implement this scalably with CircleCI + Datree.io. *SPONSORED*
 
 ## DevOps'ish Last Week's Top Five
@@ -41,7 +41,7 @@ Referencing an issue ticket in each commit is a development best practice. It im
 
 ## Process
 
-[TCP SACK PANIC](https://access.redhat.com/security/vulnerabilities/tcpsack) — Originally discovered by [Netflix](https://github.com/Netflix/security-bulletins/blob/master/advisories/third-party/2019-001.md), these TCP selective acknowledgment vulnerabilities impact Linux and FreeBSD kernels. "Multiple TCP-based remote denial of service vulnerabilities" (four CVEs in total) basically creating a new pings of death. Woohoo! Y'all exhausted from these mega vulns yet? [LWN](https://lwn.net/SubscriberLink/791409/d00105536e597c1c/) has a great overvieew.
+[TCP SACK PANIC](https://access.redhat.com/security/vulnerabilities/tcpsack) — Originally discovered by [Netflix](https://github.com/Netflix/security-bulletins/blob/master/advisories/third-party/2019-001.md), these TCP selective acknowledgment vulnerabilities impact Linux and FreeBSD kernels. "Multiple TCP-based remote denial of service vulnerabilities" (four CVEs in total) basically creating a new ping of death. Woohoo! Y'all exhausted from these mega vulns yet? [LWN](https://lwn.net/SubscriberLink/791409/d00105536e597c1c/) has a great overvieew.
 
 [DevOps'ish Summer 2019 Survey](https://devopsi.sh/survey) is coming to a close. It's *vital* feedback that I will use to pivot, fork, or modify the newsletter, if needed. Therefore it's important that everyone [**takes the survey today**](https://devopsi.sh/survey)!
 
@@ -53,8 +53,7 @@ Referencing an issue ticket in each commit is a development best practice. It im
 
 [Understanding Public Key Infrastructure and X.509 Certificates](https://www.linuxjournal.com/content/understanding-public-key-infrastructure-and-x509-certificates) — PKI basics are vital for almost everyone reading this. This will get you some CLI time with openssl.
 
-[IBM to win unconditional EU okay for $34 billion Red Hat deal](https://www.reuters.com/article/us-red-hat-m-a-ibm-eu/ibm-to-win-unconditional-eu-okay-for-34-billion-red-hat-deal-sources-idUSKCN1TK28K) — Coupled with reports that [this is the last quarter Red Hat will be reporting earnings](https://www.theregister.co.uk/2019/06/21/red_hat_last_results_before_ibm_acquisition/), it would appear the end of an independent Red Hat is here. I'm optimistic for what the future brings! Note: both of these articles have been added to the [DevOps'ish IBM Red Hat Acquisition Index
-](https://devopsish.com/ibm-red-hat-acquisition-index/).
+[IBM to win unconditional EU okay for $34 billion Red Hat deal](https://www.reuters.com/article/us-red-hat-m-a-ibm-eu/ibm-to-win-unconditional-eu-okay-for-34-billion-red-hat-deal-sources-idUSKCN1TK28K) — Coupled with reports that [this is the last quarter Red Hat will be reporting earnings](https://www.theregister.co.uk/2019/06/21/red_hat_last_results_before_ibm_acquisition/), it would appear the end of an independent Red Hat is here. I'm optimistic about what the future brings! Note: both of these articles have been added to the [DevOps'ish IBM Red Hat Acquisition Index](https://devopsish.com/ibm-red-hat-acquisition-index/).
 
 [VMware Eyeing Containers](https://seekingalpha.com/article/4270923-vmware-eyeing-containers) — A Wall Street take on the goings on of VMware which is starting to look like a great destination if the future of Kubernetes is something you want to work on.
 
