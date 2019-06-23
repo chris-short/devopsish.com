@@ -1,4 +1,4 @@
-baseURL = "https://blocked.devopsish.com/"
+baseURL = "http://blocked.devopsish.com/"
 copyright = "[Some rights reserved](https://blocked.devopsish.com/cc-by-sa-4.0/) | [Terms](https://blocked.devopsish.com/terms/) | [Privacy](https://blocked.devopsish.com/privacy/) | [What is DevOps](https://blocked.devopsish.com/what-is-devops/)"
 enableEmoji = true
 enableRobotsTXT = true

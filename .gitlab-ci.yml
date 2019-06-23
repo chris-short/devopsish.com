@@ -59,7 +59,7 @@ build-blocked:
   stage: build
   environment:
     name: blocked
-    url: https://blocked.devopsish.com
+    url: http://blocked.devopsish.com
   artifacts:
     paths:
       - public
@@ -110,7 +110,7 @@ deploy-blocked:
   stage: deploy
   environment:
     name: blocked
-    url: https://blocked.devopsish.com
+    url: http://blocked.devopsish.com
   image: google/cloud-sdk:alpine
   before_script:
     - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
