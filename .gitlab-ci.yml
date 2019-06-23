@@ -15,7 +15,7 @@ compile:
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
-    - hugo --buildDrafts --buildFuture --minify
+    - hugo --buildDrafts --buildFuture --minify --config config.toml
 
 build-preview:
   stage: build
@@ -51,7 +51,7 @@ build-gcs:
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
-    - hugo --minify
+    - hugo --minify --config config.toml
   only:
     - master
 
@@ -59,7 +59,7 @@ build-oss:
   stage: build
   environment:
     name: oss
-    url: https://build.devopsish.com
+    url: http://blocked.devopsish.com
   artifacts:
     paths:
       - public
