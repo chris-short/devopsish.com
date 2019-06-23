@@ -10,7 +10,7 @@ paginate = 3
 relativeURLs = true
 rssLimit = 5
 theme = "hugo-theme-bootstrap4-blog"
-title = "DevOps'ish"
+title = "DevOps'ish 😉"
 
 [taxonomies]
   tag = "tags"
