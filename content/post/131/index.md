@@ -3,7 +3,7 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-06-09T07:00:00Z
-description = "DevOps Tools, Kubernetes ≠ Rocket Science, IBM Layoffs, Open Source Licenses Aren’t Broken, Small Kubernetes Clusters, and More"
+description = "DevOps Tools, Kubernetes ≠ Rocket Science, IBM Layoffs, Open Source Licenses Aren't Broken, Small Kubernetes Clusters, and More"
 draft = false
 slug = "131"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "IBM layoffs", "licenses"]

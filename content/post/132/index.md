@@ -43,7 +43,7 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 [How to get started with site reliability engineering (SRE)](https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre) — "Google SRE Stephen Thorne shares best practices for starting an SRE team at your company."
 
-[The New York Times has a course to teach its reporters data skills, and now they’ve open-sourced it](https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/)
+[The New York Times has a course to teach its reporters data skills, and now they've open-sourced it](https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/)
 
 ## Process
 
@@ -61,11 +61,11 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 ## Tools
 
-[Kubernetes for the impatient](https://www.oreilly.com/ideas/kubernetes-for-the-impatient) — "Bridget Kromhout looks over the cloud native landscape and talks about what’s new, what’s next, and what you need to get started with Kubernetes right now."
+[Kubernetes for the impatient](https://www.oreilly.com/ideas/kubernetes-for-the-impatient) — "Bridget Kromhout looks over the cloud native landscape and talks about what's new, what's next, and what you need to get started with Kubernetes right now."
 
 [Automate Kubernetes with GitOps](https://www.weave.works/blog/automate-kubernetes-with-gitops)
 
-[The Coffee is Getting Cold, It’s Time to GO – Getting Started Building Microservices](https://keithtenzer.com/2019/06/13/the-coffee-is-getting-cold-its-time-to-go-getting-started-building-microservice/) — Maybe now is the time to make the move from Java to Go?
+[The Coffee is Getting Cold, It's Time to GO – Getting Started Building Microservices](https://keithtenzer.com/2019/06/13/the-coffee-is-getting-cold-its-time-to-go-getting-started-building-microservice/) — Maybe now is the time to make the move from Java to Go?
 
 [10 YAML tips for people who hate YAML](https://www.redhat.com/sysadmin/yaml-tips) — Do you hate YAML? These tips might ease your pain.
 
@@ -85,7 +85,7 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 [IBM Open Sources Razee, a Pull-Based Kubernetes Continuous Delivery Tool](https://thenewstack.io/ibm-open-sources-razee-a-pull-based-kubernetes-continuous-delivery-tool/) — "The team found itself in a conundrum that would only be solved by building its own continuous delivery (CD) software."
 
-[WSL 2 is now available in Windows Insiders](https://devblogs.microsoft.com/commandline/wsl-2-is-now-available-in-windows-insiders/) — "We’re excited to announce starting today you can try the Windows Subsystem for Linux 2 by installing Windows build 18917 in the Insider Fast ring!"
+[WSL 2 is now available in Windows Insiders](https://devblogs.microsoft.com/commandline/wsl-2-is-now-available-in-windows-insiders/) — "We're excited to announce starting today you can try the Windows Subsystem for Linux 2 by installing Windows build 18917 in the Insider Fast ring!"
 
 [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) — A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
 
