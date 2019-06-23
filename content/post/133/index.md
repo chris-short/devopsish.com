@@ -11,8 +11,6 @@ title = "133:"
 
 +++
 
-INTRO
-
 [**2019 State of Multicloud**](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE)  
 A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Today!](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) *SPONSORED*
 
@@ -21,19 +19,25 @@ Referencing an issue ticket in each commit is a development best practice. It im
 
 ## DevOps'ish Last Week's Top Five
 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [Kubernetes for the impatient](https://www.oreilly.com/ideas/kubernetes-for-the-impatient)
+1. [10 YAML tips for people who hate YAML](https://www.redhat.com/sysadmin/yaml-tips)
+1. [How to get started with site reliability engineering (SRE)](https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre)
+1. [GitHub shocks top developer: Access to 5 years' work inexplicably blocked](https://www.zdnet.com/article/github-shocks-top-developer-access-to-5-years-work-inexplicably-blocked/)
+1. [Automate Kubernetes with GitOps](https://www.weave.works/blog/automate-kubernetes-with-gitops)
 
 ## People
 
-[The worst morale boosting gesture I’ve experienced](https://shkspr.mobi/blog/2019/06/the-worst-morale-boosting-gesture-ive-experienced/) — This might be the single dumbest morale booster I've ever heard (and I've seen some really bad ones).
+[The worst morale boosting gesture I've experienced](https://shkspr.mobi/blog/2019/06/the-worst-morale-boosting-gesture-ive-experienced/) — This might be the single dumbest morale booster I've ever heard (and I've seen some really bad ones).
 
 [When Your Job Is Your Identity, Professional Failure Hurts More](https://hbr.org/2019/06/how-we-confuse-our-roles-with-our-self) — "...when you take professional kicks personally you compromise your own ability to recover and see the bigger picture..." Perhaps you are the one doing the kicking and your organization is reacting accordingly.
 
-[DevOps’ish Telegram](https://t.me/devopsish) — Join the 300+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
+[Top 5 job markets for sysadmins, 7 different ways](https://www.redhat.com/sysadmin/top-job-markets-sysadmins-2019) — "Looking for work or charting out where you need to be for your career? Here's a breakdown of where sysadmins are working and getting hired as their role evolves."
+
+[Command Line Heroes](https://www.redhat.com/en/command-line-heroes) — I am in Season 3 of Command Line Heroes! Add it to your favorite podcast player and wait patiently for it to drop on June 25th!
+
+[How my distributed team communicates so no context is left behind](https://circleci.com/blog/how-my-distributed-team-communicates-so-no-context-is-left-behind/) — If you are on a remote friendly team or manage remote employees this is a REALLY important read.
+
+[DevOps'ish Telegram](https://t.me/devopsish) — Join the 300+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist. [DevOps'ish Code of Conduct](https://github.com/chris-short/policies/blob/master/code-of-conduct.md) applies.
 
 ## Process
 
@@ -49,12 +53,14 @@ Referencing an issue ticket in each commit is a development best practice. It im
 
 [Understanding Public Key Infrastructure and X.509 Certificates](https://www.linuxjournal.com/content/understanding-public-key-infrastructure-and-x509-certificates) — PKI basics are vital for almost everyone reading this. This will get you some CLI time with openssl.
 
-[IBM to win unconditional EU okay for $34 billion Red Hat deal](https://www.reuters.com/article/us-red-hat-m-a-ibm-eu/ibm-to-win-unconditional-eu-okay-for-34-billion-red-hat-deal-sources-idUSKCN1TK28K) — Coupled with reports that [this is the last quarter Red Hat will be reporting earnings](https://www.theregister.co.uk/2019/06/21/red_hat_last_results_before_ibm_acquisition/), it would appear the end of an independent Red Hat is here. I'm optimistic for what the future brings! Note: both of these articles have been added to the [DevOps’ish IBM Red Hat Acquisition Index
+[IBM to win unconditional EU okay for $34 billion Red Hat deal](https://www.reuters.com/article/us-red-hat-m-a-ibm-eu/ibm-to-win-unconditional-eu-okay-for-34-billion-red-hat-deal-sources-idUSKCN1TK28K) — Coupled with reports that [this is the last quarter Red Hat will be reporting earnings](https://www.theregister.co.uk/2019/06/21/red_hat_last_results_before_ibm_acquisition/), it would appear the end of an independent Red Hat is here. I'm optimistic for what the future brings! Note: both of these articles have been added to the [DevOps'ish IBM Red Hat Acquisition Index
 ](https://devopsish.com/ibm-red-hat-acquisition-index/).
 
 [VMware Eyeing Containers](https://seekingalpha.com/article/4270923-vmware-eyeing-containers) — A Wall Street take on the goings on of VMware which is starting to look like a great destination if the future of Kubernetes is something you want to work on.
 
 [Cisco and IBM Cloud Announce Hybrid Cloud Partnership](https://blogs.cisco.com/datacenter/cisco-and-ibm-cloud-announce-hybrid-cloud-partnership) — Enterprise vendors; holding hands and skipping through the hybrid clouds together.
+
+[Nines are not enough: meaningful metrics for clouds](https://blog.acolyer.org/2019/06/19/nines-are-not-enough/) — "When it comes to SLOs, the interests of the customer and the cloud provider are at odds, and so we end up with SLAs (Service Level Agreements) that tie SLOs to contractual agreements."
 
 [What is DevOps](https://devopsish.com/what-is-devops/) — "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
 
@@ -68,6 +74,8 @@ Referencing an issue ticket in each commit is a development best practice. It im
 
 [All You Need to Know About Red Hat Universal Base Image](http://crunchtools.com/all-you-need-to-know-about-red-hat-universal-base-image/) — If my social media is any indication, there appears to be significant interest in Universal Base Image (UBI). I'm biased (Red Hat employee; see [disclaimer](https://devopsish.com/disclaimer/)) but, I think it's pretty slick. I made a very lean and secure [container for Alibaba Cloud's ossutil](https://quay.io/repository/chrisshort/ossutil) to use in CI in no time. The trick is using [microdnf](https://access.redhat.com/solutions/3144031) (free login required).
 
+[Introducing Volume Cloning Alpha for Kubernetes](https://kubernetes.io/blog/2019/06/21/introducing-volume-cloning-alpha-for-kubernetes/) — "This feature allows you to create new volumes using the contents of existing volumes in the user's namespace using the Kubernetes API."
+
 [Follow logs from multiple K8s Pods in a Deployment, ReplicaSet, etc.](https://www.jeffgeerling.com/blog/2019/follow-logs-multiple-k8s-pods-deployment-replicaset-etc)
 
 [Automating Highly Available Kubernetes and external ETCD cluster setup with terraform and kubeadm on AWS](https://ifritltd.com/2019/06/16/automating-highly-available-kubernetes-cluster-and-external-etcd-setup-with-terraform-and-kubeadm-on-aws/) — "[A] set of terraform and bash scripts which should be sufficient enough for you to literally just run terraform plan/apply to get your HA etcd and k8s cluster up and running without any hassle..." Bold statement.
@@ -77,6 +85,10 @@ Referencing an issue ticket in each commit is a development best practice. It im
 [New C5 instance sizes and bare metal instances](https://aws.amazon.com/blogs/aws/now-available-new-c5-instance-sizes-and-bare-metal-instances/) — More compute for the compute gods.
 
 [Introducing time.cloudflare.com](https://blog.cloudflare.com/secure-time/) — I'm a huge NTP nerd. The fact Cloudflare is offering this service is good. Quality time sources on the internet are drying up. The fact they took the extra step to provide a secure NTP service is good too. But, I would still use the [NTP Pool Project](https://www.ntppool.org/).
+
+[You can now download the new Open Source Windows Terminal](https://www.hanselman.com/blog/YouCanNowDownloadTheNewOpenSourceWindowsTerminal.aspx)
+
+[Getting wildcard SSL certificate in Kubernetes with cert-manager](https://medium.com/@Amet13/wildcard-k8s-4998173b16c8) — "[H]ow to get an SSL certificate with HTTP01 validation and a wildcard certificate with DNS01 validation on AWS"
 
 [bashfulrobot/bashfulrobot-ansible](https://github.com/bashfulrobot/bashfulrobot-ansible) — Ansible Repo that utilizes an ansible-pull command to configure my workstations
 
