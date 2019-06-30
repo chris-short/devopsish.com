@@ -30,7 +30,7 @@ PEOPLE
 
 ## Process
 
-PROCESS
+[New Kubernetes command-line flaw discovered](https://techerati.com/news-hub/new-kubernetes-flaw-discovered-command-line/) — "Latest kubectl vulnerability linked to incomplete patch of previous flaw discovered in March." Oops... This was [discovered by Charles Holmes](https://seclists.org/oss-sec/2019/q2/194) as part of a CNCF-sponsored security audit.
 
 [DevOps'ish Summer 2019 Survey](https://devopsi.sh/survey) is coming to a close. It's *vital* feedback that I will use to pivot, fork, or modify the newsletter, if needed. Therefore it's important that everyone [**takes the survey today**](https://devopsi.sh/survey)!
 

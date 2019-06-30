@@ -1,4 +1,3 @@
-[New Kubernetes command-line flaw discovered - Techerati](https://techerati.com/news-hub/new-kubernetes-flaw-discovered-command-line/)
 [Bill Gates on making “one of the greatest mistakes of all time” – TechCrunch](https://techcrunch.com/2019/06/22/bill-gates-on-making-one-of-the-greatest-mistakes-of-all-time/)
 [How I use Slack—alone—to get more done](https://char.gd/blog/2019/how-i-use-slack-alone-to-get-more-done)
 [Introducing Waxosuit - Kevin Hoffman - Medium](https://medium.com/@KevinHoffman/introducing-waxosuit-6ad754b48ed9)
