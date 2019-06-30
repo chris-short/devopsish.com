@@ -17,6 +17,7 @@ build-preview:
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - rm -rf public || exit 0
+    - apk add git
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
@@ -36,6 +37,7 @@ build-prod:
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - rm -rf public || exit 0
+    - apk add git
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
