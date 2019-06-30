@@ -21,6 +21,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the IBM acquistion of 
 * [Red Hat + IBM: Creating the leading hybrid cloud provider](https://www.redhat.com/en/blog/red-hat-ibm-creating-leading-hybrid-cloud-provider?intcmp=701f2000000RWK7AAO) Red Hat CEO, Jim Whitehurst
 * [A monumental day for open source and Red Hat](https://www.redhat.com/en/blog/monumental-day-open-source-and-red-hat?intcmp=701f2000000RWKCAA4) Red Hat EVP and President, Products and Technologies, Paul Cormier
 * [Why IBM's acquisition of Red Hat is a game-changer for the cloud industry](https://newsroom.ibm.com/Why-IBMs-acquisition-of-Red-Hat-is-a-game-changer-for-the-cloud-industry) IBM
+* [European Commission - PRESS RELEASES - Press release - Mergers: Commission approves acquisition of Red Hat by IBM](http://europa.eu/rapid/press-release_IP-19-3433_en.htm) EU
 
 ## Press
 

@@ -26,7 +26,6 @@
 [Trump officials weigh encryption crackdown - POLITICO](https://www.politico.com/story/2019/06/27/trump-officials-weigh-encryption-crackdown-1385306)
 [CI/CD with Ansible Tower and GitHub | Keith Tenzer](https://keithtenzer.com/2019/06/24/ci-cd-with-ansible-tower-and-github/)
 [Automated High Availability in kubeadm v1.15: Batteries Included But Swappable - Kubernetes](https://kubernetes.io/blog/2019/06/24/automated-high-availability-in-kubeadm-v1.15-batteries-included-but-swappable/)
-[European Commission - PRESS RELEASES - Press release - Mergers: Commission approves acquisition of Red Hat by IBM](http://europa.eu/rapid/press-release_IP-19-3433_en.htm)
 [Vue's Darkest Day - DEV Community 👩‍💻👨‍💻](https://dev.to/danielelkington/vue-s-darkest-day-3fgh)
 [Without a GUI--How to Live Entirely in a Terminal | Linux Journal](https://www.linuxjournal.com/content/without-gui-how-live-entirely-terminal)
 [New – VPC Traffic Mirroring – Capture & Inspect Network Traffic | AWS News Blog](https://aws.amazon.com/blogs/aws/new-vpc-traffic-mirroring/)
