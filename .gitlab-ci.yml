@@ -56,7 +56,9 @@ deploy-preview:
     - gcloud config set project ${GCS_PROJECT}
     - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
   script:
-    - gsutil -h "Cache-Control: public max-age=2678400" -m rsync -a public-read -r public -d gs://preview.${CI_PROJECT_NAME}/
+    - gsutil -h "Cache-Control:public, max-age=2678400" \
+       -a public-read -m rsync -r public -d \
+       gs://preview.${CI_PROJECT_NAME}/
   except:
     - master
 
