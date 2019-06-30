@@ -57,7 +57,7 @@ deploy-preview:
     - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
   script:
     - gsutil -o "GSUtil:parallel_thread_count=64" -m rsync -a public-read -J -d -r public gs://preview.${CI_PROJECT_NAME}/
-    - gsutil -o "GSUtil:parallel_thread_count=64" -m setmeta -r -h "Content-Encoding:gzip, br, deflate, compress" -h "Cache-Control:public, max-age=2678400" gs://preview.${CI_PROJECT_NAME}/
+    - gsutil -o "GSUtil:parallel_thread_count=64" -m setmeta -r -h "Content-Encoding:gzip" -h "Cache-Control:public, max-age=2678400" gs://preview.${CI_PROJECT_NAME}/
   except:
     - master
 
