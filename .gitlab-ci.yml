@@ -56,7 +56,7 @@ deploy-preview:
     - gcloud config set project ${GCS_PROJECT}
     - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
   script:
-    - gsutil -o "GSUtil:parallel_thread_count=128" -m rsync -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
+    - gsutil -o "GSUtil:parallel_thread_count=64" -m rsync -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
   after_script:
     - gcloud compute url-maps invalidate-cdn-cache devopsish-lb --path "/*" --host preview.${CI_PROJECT_NAME} --async
   except:
