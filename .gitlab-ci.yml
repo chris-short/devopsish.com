@@ -58,8 +58,6 @@ deploy-preview:
   script:
     - gsutil -o "GSUtil:parallel_thread_count=16" -h "Content-Encoding:gzip" -m rsync -j html,css,js,txt,svg,xml,json,yml,yaml,toml -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
   after_script:
-    - gsutil setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/static/**/*"
-    - gsutil setmeta -h "Content-Type:text/html" -h "Cache-Control:public, max-age=86400" "gs://preview.devopsish.com/***/*.html"
     - gsutil setmeta -h "Content-Type:text/css" -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/***/*.css"
     - gsutil setmeta -h "Content-Type:application/javascript" -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/***/*.js"
     - gsutil setmeta -h "Content-Type:image/png" -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/***/*.png"
