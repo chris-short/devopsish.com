@@ -52,11 +52,12 @@ deploy-preview:
     url: https://preview.${CI_PROJECT_NAME}
   image: google/cloud-sdk:alpine
   before_script:
+    - find ./ -type f \( -iname \*.html -o -iname \*.css -o -iname \*.js -o -iname \*.txt -o -iname \*.svg -o -iname \*.xml -o -iname \*.json -o -iname \*.yml -o -iname \*.yaml -o -iname \*.toml -o -iname \*.png -o -iname \*.jpg\) | xargs gzip -9 *
     - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
     - gcloud config set project ${GCS_PROJECT}
     - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
   script:
-    - gsutil -m rsync -j html,css,js,txt,svg,xml,json,yml,yaml,toml -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
+    - gsutil -m rsync -j html,css,js,txt,svg,xml,json,yml,yaml,toml,png,jpg -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
   after_script:
     - gsutil -m setmeta -h "Cache-Control:public, max-age=14400" "gs://preview.devopsish.com/**/*.html"
     - gsutil -m setmeta -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.css"
