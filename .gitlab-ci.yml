@@ -58,13 +58,11 @@ deploy-preview:
   script:
     - gsutil -m rsync -j html,css,js,txt,svg,xml,json,yml,yaml,toml -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
   after_script:
-    - gsutil -m setmeta -h "Content-Type:text/html" -h "Cache-Control:public, max-age=14400" "gs://preview.devopsish.com/**/*.html"
-    - gsutil -m setmeta -h "Content-Type:text/css" -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.css"
-    - gsutil -m setmeta -h "Content-Type:application/javascript" -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.js"
-    - gsutil -m setmeta -h "Content-Type:image/png" -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.png"
-    - gsutil -m setmeta -h "Content-Type:image/jpeg" -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.jpg"
-    - gsutil -m setmeta -h "Content-Type:image/jpeg" -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.jpeg"
-    - gsutil -m setmeta -h "Content-Type:image/jpeg" -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.jpeg"
+    - gsutil -m setmeta -h "Cache-Control:public, max-age=14400" "gs://preview.devopsish.com/**/*.html"
+    - gsutil -m setmeta -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.css"
+    - gsutil -m setmeta -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.js"
+    - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.png"
+    - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.jpg"
     - gsutil -m setmeta -h "Cache-Control:public, max-age=31536000" "gs://preview.devopsish.com/**/*.pdf"
     - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/static/**/*"
     - gcloud compute url-maps invalidate-cdn-cache devopsish-lb --path "/*" --host preview.${CI_PROJECT_NAME} --async
