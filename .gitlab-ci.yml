@@ -16,6 +16,8 @@ build-preview:
     expire_in: 30m
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
+    - apk update
+    - apk add git
     - rm -rf public || exit 0
     - git submodule sync --recursive
     - git submodule update --init --recursive
@@ -35,8 +37,9 @@ build-prod:
     expire_in: 30m
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
-    - rm -rf public || exit 0
+    - apk update
     - apk add git
+    - rm -rf public || exit 0
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
