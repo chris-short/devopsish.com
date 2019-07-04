@@ -16,8 +16,9 @@ build-preview:
     expire_in: 30m
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
+    - apk --no-cache update
+    - apk --no-cache add git
     - rm -rf public || exit 0
-    - apk add git
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
@@ -36,8 +37,9 @@ build-prod:
     expire_in: 30m
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
+    - apk --no-cache update
+    - apk --no-cache add git
     - rm -rf public || exit 0
-    - apk add git
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
@@ -52,11 +54,14 @@ deploy-preview:
     url: https://preview.${CI_PROJECT_NAME}
   image: google/cloud-sdk:alpine
   before_script:
+    - apk --no-cache update
     - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
     - gcloud config set project ${GCS_PROJECT}
     - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
   script:
     - gsutil -m rsync -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
+  after_script:
+    - gcloud compute url-maps invalidate-cdn-cache devopsish-lb --path "/*" --host preview.${CI_PROJECT_NAME} --async
   except:
     - master
 
@@ -67,6 +72,7 @@ deploy-prod:
     url: https://${CI_PROJECT_NAME}
   image: google/cloud-sdk:alpine
   before_script:
+    - apk --no-cache update
     - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
     - gcloud config set project ${GCS_PROJECT}
     - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
