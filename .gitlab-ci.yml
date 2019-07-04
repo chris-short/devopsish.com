@@ -14,10 +14,9 @@ build-preview:
     paths:
       - public
     expire_in: 30m
-  image: registry.gitlab.com/pages/hugo:latest
+  image: quay.io/chrisshort/hugo:latest
   before_script:
     - rm -rf public || exit 0
-    - apk add git
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
@@ -59,13 +58,13 @@ deploy-preview:
   script:
     - gsutil -m rsync -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
   after_script:
-    - gsutil -m setmeta -h "Cache-Control:public, max-age=14400" "gs://preview.devopsish.com/**/*.html.gz"
-    - gsutil -m setmeta -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.css.gz"
-    - gsutil -m setmeta -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.js.gz"
-    - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.png.gz"
-    - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.jpg.gz"
-    - gsutil -m setmeta -h "Cache-Control:public, max-age=31536000" "gs://preview.devopsish.com/**/*.pdf.gz"
-    - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/static/**/*"
+#    - gsutil -m setmeta -h "Cache-Control:public, max-age=14400" "gs://preview.devopsish.com/**/*.html.gz"
+#    - gsutil -m setmeta -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.css.gz"
+#    - gsutil -m setmeta -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.js.gz"
+#    - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.png.gz"
+#   - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.jpg.gz"
+#   - gsutil -m setmeta -h "Cache-Control:public, max-age=31536000" "gs://preview.devopsish.com/**/*.pdf.gz"
+#   - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/static/**/*"
     - gcloud compute url-maps invalidate-cdn-cache devopsish-lb --path "/*" --host preview.${CI_PROJECT_NAME} --async
   except:
     - master
