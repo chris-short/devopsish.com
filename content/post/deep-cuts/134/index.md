@@ -6,7 +6,7 @@ date = 2019-07-04T07:00:00Z
 description = "This week I go over notes from DevOps'ish 134: Kubernetes Security, multicloud marvels, BGP bungle, Bill's biggest blunder, Big Blue blows through EU, Big Red roiling JEDI requisition, and more"
 draft = false
 slug = "deep-cuts-134"
-tags = ["devopsish", "podcast"]
+tags = ["devopsish", "podcast", "kubernetes", "devops", "open source", "cloud native", "cloud"]
 title = "Deep Cuts 134: The titles are too damn long"
 
 +++
@@ -19,11 +19,11 @@ Hello! I'm Chris Short, editor of DevOps'ish. Every week I read hundreds of arti
 
 This week I go over notes from [DevOps'ish 134: Kubernetes Security, multicloud marvels, BGP bungle, Bill's biggest blunder, Big Blue blows through EU, Big Red roiling JEDI requisition, and more](/134/)
 
-## Deep Cuts 134: The titles are too damn long
+### Deep Cuts 134: The titles are too damn long
 
 <iframe src="https://anchor.fm/devopsish/embed/episodes/134-The-titles-are-too-damn-long-e4hdvl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-### Link Dump
+### A Side
 
 [Kubernetes and containers are growing up fast, survey shows | ZDNet](https://www.zdnet.com/article/kubernetes-and-containers-are-growing-up-fast-survey-shows/)  
 [GrubHub is buying up thousands of restaurant web addresses. That means Mom and Pop can't own their slice of the internet | New Food Economy](https://newfoodeconomy.org/grubhub-domain-purchases-thousands-shadow-sites/)  
@@ -52,6 +52,9 @@ This week I go over notes from [DevOps'ish 134: Kubernetes Security, multicloud 
 [NASA hacked because of unauthorized Raspberry Pi connected to its network | ZDNet](https://www.zdnet.com/article/nasa-hacked-because-of-unauthorized-raspberry-pi-connected-to-its-network/)  
 [Trump officials weigh encryption crackdown - POLITICO](https://www.politico.com/story/2019/06/27/trump-officials-weigh-encryption-crackdown-1385306)  
 [CI/CD with Ansible Tower and GitHub | Keith Tenzer](https://keithtenzer.com/2019/06/24/ci-cd-with-ansible-tower-and-github/)  
+
+### B Side
+
 [Automated High Availability in kubeadm v1.15: Batteries Included But Swappable - Kubernetes](https://kubernetes.io/blog/2019/06/24/automated-high-availability-in-kubeadm-v1.15-batteries-included-but-swappable/)  
 [Vue's Darkest Day - DEV Community 👩‍💻👨‍💻](https://dev.to/danielelkington/vue-s-darkest-day-3fgh)  
 [Without a GUI--How to Live Entirely in a Terminal | Linux Journal](https://www.linuxjournal.com/content/without-gui-how-live-entirely-terminal)  
