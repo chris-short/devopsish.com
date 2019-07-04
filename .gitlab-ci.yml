@@ -14,7 +14,7 @@ build-preview:
     paths:
       - public
     expire_in: 30m
-  image: quay.io/chrisshort/hugo:latest
+  image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - rm -rf public || exit 0
     - git submodule sync --recursive
@@ -51,20 +51,12 @@ deploy-preview:
     url: https://preview.${CI_PROJECT_NAME}
   image: google/cloud-sdk:alpine
   before_script:
-    - find ./ -type f \( -iname '*.html' -o -iname '*.css' -o -iname '*.js' -o -iname '*.txt' -o -iname '*.svg' -o -iname '*.xml' -o -iname '*.json' -o -iname '*.yml' -o -iname '*.yaml' -o -iname '*.toml' -o -iname '*.png' -o -iname '*.jpg' -o -iname '*.gif' \) -exec gzip -9 '{}' \;
     - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
     - gcloud config set project ${GCS_PROJECT}
     - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
   script:
     - gsutil -m rsync -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
   after_script:
-#    - gsutil -m setmeta -h "Cache-Control:public, max-age=14400" "gs://preview.devopsish.com/**/*.html.gz"
-#    - gsutil -m setmeta -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.css.gz"
-#    - gsutil -m setmeta -h "Cache-Control:public, max-age=604800" "gs://preview.devopsish.com/**/*.js.gz"
-#    - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.png.gz"
-#   - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/**/*.jpg.gz"
-#   - gsutil -m setmeta -h "Cache-Control:public, max-age=31536000" "gs://preview.devopsish.com/**/*.pdf.gz"
-#   - gsutil -m setmeta -h "Cache-Control:public, max-age=2721600" "gs://preview.devopsish.com/static/**/*"
     - gcloud compute url-maps invalidate-cdn-cache devopsish-lb --path "/*" --host preview.${CI_PROJECT_NAME} --async
   except:
     - master
