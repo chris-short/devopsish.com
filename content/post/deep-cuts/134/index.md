@@ -13,7 +13,7 @@ title = "Deep Cuts 134: The titles are too damn long"
 
 ## Intro
 
-Hello! I'm Chris Short, editor of DevOps'ish. Every week I read hundreds of articles, blogs, papers, and stories that end up generating the a [newsletter](/). But, after two years of writing a newsletter about DevOps, Cloud Native, and Open Source technologies, there ends up being a lot of stories left on the cutting room floor every week.
+Hello! I'm Chris Short, editor of DevOps'ish. Every week I read hundreds of articles, blogs, papers, and stories that end up generating a [newsletter](/). But, after two years of writing a newsletter about DevOps, Cloud Native, and Open Source technologies, there ends up being a lot of stories left on the cutting room floor every week.
 
 [**DevOps'ish Deep Cuts**](/deep-cuts/) is a podcast that looks at the news behind the news. Things that were significant but didn't make the newsletter for one reason or another. Prepare to embrace People, Process, and Tools in your ear holes.
 
