@@ -50,6 +50,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the IBM acquistion of 
 * [Where IBM and Red Hat go from here](https://www.zdnet.com/article/where-ibm-and-red-hat-go-from-here/) ZDNet
 * [IBM to win unconditional EU okay for $34 billion Red Hat deal](https://www.reuters.com/article/us-red-hat-m-a-ibm-eu/ibm-to-win-unconditional-eu-okay-for-34-billion-red-hat-deal-sources-idUSKCN1TK28K) Reuters
 * [Red Hat signs off last set of numbers before it is likely gobbled by IBM](https://www.theregister.co.uk/2019/06/21/red_hat_last_results_before_ibm_acquisition/) The Register
+* [Brazil revocation of IBM-Red Hat deal approval likely to delay closing, attorney says](https://www.wraltechwire.com/2019/06/28/brazil-revocation-of-ibm-red-hat-deal-approval-likely-to-delay-closing-attorney-says/) WRAL TechWire
 
 ## Industry
 
