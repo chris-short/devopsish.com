@@ -20,9 +20,9 @@ build-preview:
     - apk --no-cache add git
     - rm -rf public || exit 0
     - git submodule sync --recursive
-    - git submodule update --init --recursive --config config.preview.toml
+    - git submodule update --init --recursive
   script:
-    - hugo -DF
+    - hugo -DF --config config.preview.toml
   except:
     - master
 
