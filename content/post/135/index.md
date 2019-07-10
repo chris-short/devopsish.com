@@ -11,9 +11,9 @@ title = "135: DevOps'ish Deep Cuts podcast, burnout, on-call, Cloudflare fusterc
 
 +++
 
-I was on PTO this week. I was working on a number of side projects and issues I’ve been trying to resolve for quite some time. This includes soft launching a podcast! [**Deep Cuts**](https://devopsish.com/deep-cuts-134/) is a podcast that looks at the news behind the news. Things that were significant but didn’t make the newsletter for one reason or another. Prepare to embrace People, Process, and Tools in your ear holes.
+I was on PTO this week. I was working on a number of side projects and issues I've been trying to resolve for quite some time. This includes soft launching a podcast! [**Deep Cuts**](https://devopsish.com/deep-cuts-134/) is a podcast that looks at the news behind the news. Things that were significant but didn't make the newsletter for one reason or another. Prepare to embrace People, Process, and Tools in your ear holes.
 
-I say soft launch because it’s important for me to take things iteratively. [Anchor](https://anchor.fm/devopsish) is the platform for the moment. They're working the difficult task of getting the podcast listed in all the major directories. Iterative improvements will be the name of the game. Feedback on anything I do is always appreciated.
+I say soft launch because it's important for me to take things iteratively. [Anchor](https://anchor.fm/devopsish) is the platform for the moment. They're working the difficult task of getting the podcast listed in all the major directories. Iterative improvements will be the name of the game. Feedback on anything I do is always appreciated.
 
 [**How companies adopt and apply cloud native infrastructure--from O'Reilly**](https://www.oreilly.com/pub/cpc/224549)  
 Survey results reveal the path organizations face as they integrate cloud native infrastructure and harness the full power of the cloud. *SPONSORED*
@@ -30,7 +30,7 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 [DevOps for doubters: How to deal with 9 kinds of people who push back](https://enterprisersproject.com/article/2019/7/devops-for-doubters-9-tips) — This article is stuffed with quotes about dealing with all sorts of personalities practitioners have experienced. I was one of many quoted in the article.
 
-[Why I quit a $500K job at Amazon to work for myself](https://danielvassallo.com/only-intrinsic-motivation-lasts/) — "Last week I left my cushy job at Amazon after 8 years. Despite getting rewarded repeatedly with promotions, compensation, recognition, and praise, I wasn’t motivated enough to do another year."
+[Why I quit a $500K job at Amazon to work for myself](https://danielvassallo.com/only-intrinsic-motivation-lasts/) — "Last week I left my cushy job at Amazon after 8 years. Despite getting rewarded repeatedly with promotions, compensation, recognition, and praise, I wasn't motivated enough to do another year."
 
 [When Passion Leads to Burnout](https://hbr.org/2019/07/when-passion-leads-to-burnout) — "When we equate work we love with 'not really working,' it propagates a belief that if we love it so much, we should do more of it — all of the time, actually."
 
@@ -38,7 +38,7 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 [The 2019 Web Developer Roadmap - A Visual Guide to Becoming a Front End, Back End, or DevOps Developer](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
 
-[An Inconvenient Truth of the Cloud Native World](https://www.tfir.io/2019/07/05/cloud-native-trends-security-risk-dirk-hohndel-cncf-kubecon/) — "No matter how you slice it, “a better understanding of the code that you’re running is always an advantage," says Dirk Hohndel, Vice President and Chief Open Source Officer at VMware.
+[An Inconvenient Truth of the Cloud Native World](https://www.tfir.io/2019/07/05/cloud-native-trends-security-risk-dirk-hohndel-cncf-kubecon/) — "No matter how you slice it, “a better understanding of the code that you're running is always an advantage," says Dirk Hohndel, Vice President and Chief Open Source Officer at VMware.
 
 [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) — This is really great advice from Julia Evans.
 
@@ -46,17 +46,17 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 ## Process
 
-[If you have to ask... OpenEBS 1.0](https://medium.com/mayadata/if-you-have-to-ask-openebs-1-0-dd4a1663c8a9) — Evan Powell shares, "an entrepreneur’s perspective on what achieving OpenEBS 1.0 means." This is a big deal for any project. MayaData has done some really great work. Evan and the MayaData team have a lot to be proud of.
+[If you have to ask... OpenEBS 1.0](https://medium.com/mayadata/if-you-have-to-ask-openebs-1-0-dd4a1663c8a9) — Evan Powell shares, "an entrepreneur's perspective on what achieving OpenEBS 1.0 means." This is a big deal for any project. MayaData has done some really great work. Evan and the MayaData team have a lot to be proud of.
 
 [Microsoft is teasing Windows 1.0 — yes, from 1985 — for a mystery Stranger Things tie-in](https://www.theverge.com/tldr/2019/7/5/20683448/microsoft-windows-1-0-stranger-things-season-3-upside-down-july-8) — This should be interesting for us "old-timers". To be clear, I don't think I got into Windows until the 3.x days, so I'm not that old (haters).
 
 [Making On-Call Not Suck](https://dev.to/molly_struve/making-on-call-not-suck-490) — Molly Struve shares what a long time between on-call rotations do to your team's incident response skills. The team essentially made microservices of their on-call to improve the process and ownership. A very interesting read.
 
-[Distributed Tracing — we’ve been doing it wrong by Cindy Sridharan](https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df) — "[E]ven if hypothetically all of these problems were to be solved, there’s a good likelihood that nothing much has significantly changed as far as the end user experience is concerned."
+[Distributed Tracing — we've been doing it wrong by Cindy Sridharan](https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df) — "[E]ven if hypothetically all of these problems were to be solved, there's a good likelihood that nothing much has significantly changed as far as the end user experience is concerned."
 
 [This major internet routing blunder took A WEEK to fix. Why so long? It was IPv6 – and no one really noticed](https://www.theregister.co.uk/2019/07/02/ipv6_routing_error/) — "BGP and DNS are the bubble gum and duct tape of the internet." An IPv6 discussion around this article on Twitter led to me blocking people. Good lawd, y'all.
 
-[Cloudflare Worldwide Outage Caused by Bad Software Deployment](https://www.bleepingcomputer.com/news/technology/cloudflare-worldwide-outage-caused-by-bad-software-deployment/) — "The teams at @verizon and @noction should be incredibly embarrassed at their failings this morning which impacted @Cloudflare and other large chunks of the Internet. It’s absurd BGP is so fragile. It’s more absurd Verizon would blindly accept routes without basic filters." —Matthew Prince, CEO, Cloudflare from [a tweet on June 24th](https://twitter.com/eastdakota/status/1143182575680143361). On July 2nd, "Cloudflare experienced a worldwide outage today for about 30 minutes, with network performance issues that brought down a multitude of websites and web services all around the world, and triggered "502 Bad Gateway" errors." All due to some bad regex causing a massive CPU spike. [Life comes at you fast](https://blog.cloudflare.com/cloudflare-outage/).
+[Cloudflare Worldwide Outage Caused by Bad Software Deployment](https://www.bleepingcomputer.com/news/technology/cloudflare-worldwide-outage-caused-by-bad-software-deployment/) — "The teams at @verizon and @noction should be incredibly embarrassed at their failings this morning which impacted @Cloudflare and other large chunks of the Internet. It's absurd BGP is so fragile. It's more absurd Verizon would blindly accept routes without basic filters." —Matthew Prince, CEO, Cloudflare from [a tweet on June 24th](https://twitter.com/eastdakota/status/1143182575680143361). On July 2nd, "Cloudflare experienced a worldwide outage today for about 30 minutes, with network performance issues that brought down a multitude of websites and web services all around the world, and triggered "502 Bad Gateway" errors." All due to some bad regex causing a massive CPU spike. [Life comes at you fast](https://blog.cloudflare.com/cloudflare-outage/).
 
 [Brazil revocation of IBM-Red Hat deal approval likely to delay closing, attorney says](https://www.wraltechwire.com/2019/06/28/brazil-revocation-of-ibm-red-hat-deal-approval-likely-to-delay-closing-attorney-says/) — Be careful what you wish for. When [I asked Brazil to stall the Red Hat acquisition](https://twitter.com/ChrisShort/status/1145793603182239744) for me so my PTO didn't get interrupted this week, I was 100% not serious. But, thanks? [¯\\\_(ツ)\_/¯](https://chrisshort.net/shrug/)
 

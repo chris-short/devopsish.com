@@ -14,11 +14,9 @@
 
 [Fortune 100 passwords, email archives, and corporate secrets left exposed on unsecured Amazon S3 server – HOTforSecurity](https://hotforsecurity.bitdefender.com/blog/fortune-100-passwords-email-archives-and-corporate-secrets-left-exposed-on-unsecured-amazon-s3-server-21366.html)
 
-[[Update] Research into Continuous Development Practices and Use of CI/CD pipeline : devops](https://www.reddit.com/r/devops/comments/c8gey2/update_research_into_continuous_development/)
-
 [Automating chaos experiments in production – the morning paper](https://blog.acolyer.org/2019/07/05/automating-chaos-experiments-in-production/)
 
-[If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
+[If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
 
 [Why we're ending support for MySQL in 12.1 | GitLab](https://about.gitlab.com/2019/06/27/removing-mysql-support/)
 
@@ -34,8 +32,6 @@
 
 [27-JAN-2011: The day "/proc" died](https://rkeene.org/projects/info/wiki/173)
 
-[New Cloud-Native CI/CD Projects OpenShift and Tekton](https://blog.sonatype.com/new-cloud-native-ci/cd-projects-openshift-and-tekton)
-
 [How to never have a public S3 bucket - Cloud Security - Medium](https://medium.com/cloud-security/how-to-never-have-a-public-s3-bucket-639761508700)
 
 [The ideal DevOps team structure - SD Times](https://sdtimes.com/devops/the-ideal-devops-team-structure/)
@@ -47,6 +43,7 @@
 [One of the year's biggest technology M&A deals was tipped in hiring data | Thinknum Media](https://media.thinknum.com/articles/one-of-the-years-biggest-technology-ma-deals-was-tipped-in-hiring-data/)
 
 [Sysadmins: What's your favorite snack when you're on-call? | Opensource.com](https://opensource.com/article/19/7/sysadmins-snack-on-call)
+
 
 [Are databases still scaling up instead of out? : devops](https://www.reddit.com/r/devops/comments/c7gjwe/are_databases_still_scaling_up_instead_of_out/)
 
@@ -70,7 +67,7 @@
 
 [Delivering DevOps Newsletter](https://mailchi.mp/editingemily/delivering-devops)
 
-[Don’t ask forgiveness, radiate intent - Elizabeth Ayer - Medium](https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3)
+[Don't ask forgiveness, radiate intent - Elizabeth Ayer - Medium](https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3)
 
 [VIM & Visual Studio Code Tips & Tricks (With Video / GIF) - DEV Community 👩‍💻👨‍💻](https://dev.to/muhajirdev/vim-visual-studio-code-tips-tricks-with-video-gif-8on)
 

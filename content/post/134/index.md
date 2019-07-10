@@ -11,11 +11,11 @@ title = "134: Kubernetes Security, multicloud marvels, BGP bungle, Bill's bigges
 
 +++
 
-I spent a lot of time this week struggling with an odd problem. How do you make a multicloud platform without having to do a ton of work? I was trying to figure out why it’s so damn hard to get a multicloud platform going. People want this for various reasons but, struggle with it. Why? What was I trying to do? Host the DevOps’ish web site where it was less likely to be blocked based on a visitor’s geography.
+I spent a lot of time this week struggling with an odd problem. How do you make a multicloud platform without having to do a ton of work? I was trying to figure out why it's so damn hard to get a multicloud platform going. People want this for various reasons but, struggle with it. Why? What was I trying to do? Host the DevOps'ish web site where it was less likely to be blocked based on a visitor's geography.
 
-The idea was if someone were in Hong Kong they’d hit a bucket in Alibaba Cloud. The US and Europe would likely draw from Google Cloud Storage. Everywhere else was going to fall to the algorithms. Turns out Route53 doesn’t let you route traffic based on geography to anything outside of AWS. Same for Google’s Cloud DNS. Digital Ocean spaces aren’t quite ready for prime time yet either.
+The idea was if someone were in Hong Kong they'd hit a bucket in Alibaba Cloud. The US and Europe would likely draw from Google Cloud Storage. Everywhere else was going to fall to the algorithms. Turns out Route53 doesn't let you route traffic based on geography to anything outside of AWS. Same for Google's Cloud DNS. Digital Ocean spaces aren't quite ready for prime time yet either.
 
-Folks have to pick a cloud or build a platform across them. This is why Kubernetes is such a big deal. This is why Google’s dominance in the Kubernetes space matters so much. No one is going to be able to work a cloud providers primitives into the ANYCAST hybrid multicloud of their dreams. But if something is built on top of the primitives magic might be possible. For now, though, I’m using Google Cloud CDN. At least it’s not blocked in most places. Turns out there are some handy sites for testing a domain’s accessibility in other nations:
+Folks have to pick a cloud or build a platform across them. This is why Kubernetes is such a big deal. This is why Google's dominance in the Kubernetes space matters so much. No one is going to be able to work a cloud providers primitives into the ANYCAST hybrid multicloud of their dreams. But if something is built on top of the primitives magic might be possible. For now, though, I'm using Google Cloud CDN. At least it's not blocked in most places. Turns out there are some handy sites for testing a domain's accessibility in other nations:
 
 * [Is It Blocked In Russia?](https://isitblockedinrussia.com/?host=devopsish.com)
 * [CA App Synthetic Monitor](https://asm.ca.com/en/ping.php)
@@ -65,11 +65,11 @@ A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Tod
 
 [Kubernetes Security Myths Debunked](https://www.tremolosecurity.com/kubernetes-security-myths-debunked/) — Some really good tips for making containers and Kubernetes security.
 
-[How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started) — It’s not a Deloitte or Accenture ratio of lines of code to the number of people. SRE is a process that when considered will help figure out what it’s going to take to get to the desired outcome. Now, with that being said, calculus is hard.
+[How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started) — It's not a Deloitte or Accenture ratio of lines of code to the number of people. SRE is a process that when considered will help figure out what it's going to take to get to the desired outcome. Now, with that being said, calculus is hard.
 
 [CVE-less vulnerabilities](https://lwn.net/Articles/791855/) — "The sheer number of bugs being reported is overwhelming many (most?) free-software projects, which simply do not have enough eyeballs to fix, or even triage, many of the reports they receive. A discussion about that is currently playing out on the oss-security mailing list."
 
-[Pillaging The Jenkins Treasure Chest](https://dolosgroup.io/blog/2019/6/20/pillaging-the-jenkins-treasure-chest) — "Jenkins tends to be a treasure trove of information in certain organizations, and it’s all too easy for a developer or operations team to leave something behind 'just to get things done'."
+[Pillaging The Jenkins Treasure Chest](https://dolosgroup.io/blog/2019/6/20/pillaging-the-jenkins-treasure-chest) — "Jenkins tends to be a treasure trove of information in certain organizations, and it's all too easy for a developer or operations team to leave something behind 'just to get things done'."
 
 [What is DevOps](https://devopsish.com/what-is-devops/) — "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
 
@@ -77,7 +77,7 @@ A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Tod
 
 ## Tools
 
-[Introducing Waxosuit](https://medium.com/@KevinHoffman/introducing-waxosuit-6ad754b48ed9) — "I didn’t want my development teams to have to re-write, copy/paste, or cargo cult stale implementations of NFRs for things like logging, tracing, contextual tracing (e.g. OpenTracing/Jaeger), Application Performance Monitoring (APM), health checking (e.g. live/readiness probes), message broker client wrappers, key-value store client wrappers, HTTP server endpoint wrappers, and so on."
+[Introducing Waxosuit](https://medium.com/@KevinHoffman/introducing-waxosuit-6ad754b48ed9) — "I didn't want my development teams to have to re-write, copy/paste, or cargo cult stale implementations of NFRs for things like logging, tracing, contextual tracing (e.g. OpenTracing/Jaeger), Application Performance Monitoring (APM), health checking (e.g. live/readiness probes), message broker client wrappers, key-value store client wrappers, HTTP server endpoint wrappers, and so on."
 
 [A deep dive into Linux namespaces](http://ifeanyi.co/posts/linux-namespaces-part-1/) — "In this series of posts we will look closely at one of the main ingredients in a container - Namespaces"
 
