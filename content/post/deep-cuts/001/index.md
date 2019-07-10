@@ -17,7 +17,7 @@ Hello! I'm Chris Short, editor of DevOps'ish. Every week I read hundreds of arti
 
 This week I go over notes from [135: DevOps'ish Deep Cuts podcast, burnout, on-call, Cloudflare fustercluck, multicloud mess, and more](https://devopsish.com/135/)
 
-### Deep Cuts 001: What in the big blue machine just happened
+### Deep Cuts 001: A bluer hue of red
 
 <iframe src="https://anchor.fm/devopsish/embed/episodes/001-A-bluer-hue-of-red-e4itn8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
