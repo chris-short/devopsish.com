@@ -19,8 +19,6 @@ build-preview:
     - apk --no-cache update
     - apk --no-cache add git
     - rm -rf public || exit 0
-    - git submodule sync --recursive
-    - git submodule update --init --recursive
   script:
     - hugo -DF --config config.preview.toml
   except:
@@ -40,8 +38,6 @@ build-production:
     - apk --no-cache update
     - apk --no-cache add git
     - rm -rf public || exit 0
-    - git submodule sync --recursive
-    - git submodule update --init --recursive
   script:
     - hugo --minify --config config.toml
   only:
