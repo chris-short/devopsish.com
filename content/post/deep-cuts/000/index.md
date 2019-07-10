@@ -13,9 +13,7 @@ aliases = [
 ]
 +++
 
-## Intro
-
-Hello! I'm Chris Short, editor of DevOps'ish. Every week I read hundreds of articles, blogs, papers, and stories that end up generating a [newsletter](/). But, after two years of writing a newsletter about DevOps, Cloud Native, and Open Source technologies, there ends up being a lot of stories left on the cutting room floor every week.
+Hello! I'm Chris Short, editor of DevOps'ish. Every week I read hundreds of articles, blogs, papers, and stories that end up generating a [newsletter](https://devopsish.com/). But, after two years of writing a newsletter about DevOps, Cloud Native, and Open Source technologies, there ends up being a lot of stories left on the cutting room floor every week.
 
 [**DevOps'ish Deep Cuts**](/categories/podcast/) is a podcast that looks at the news behind the news. Things that were significant but didn't make the newsletter for one reason or another. Prepare to embrace People, Process, and Tools in your ear holes.
 
@@ -23,7 +21,7 @@ This week I go over notes from [DevOps'ish 134: Kubernetes Security, multicloud 
 
 ### Deep Cuts 134: The titles are too damn long
 
-<p><iframe src="https://anchor.fm/devopsish/embed/episodes/134-The-titles-are-too-damn-long-e4hdvl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></p>
+<iframe src="https://anchor.fm/devopsish/embed/episodes/134-The-titles-are-too-damn-long-e4hdvl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [Podcast RSS](https://anchor.fm/s/c71a050/podcast/rss)
 
