@@ -55,7 +55,7 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 
 {{< tweet 1072945965340872704 >}}
 
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -85,7 +85,7 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 
 [Red Hat Sets Jan. 16, 2019, Special Meeting for Vote on Merger Agreement with IBM](https://www.redhat.com/en/about/press-releases/red-hat-sets-jan-16-2019-special-meeting-vote-merger-agreement-ibm) — The expectation is this will be a quiet event.
 
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

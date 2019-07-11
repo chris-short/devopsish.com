@@ -58,7 +58,7 @@ Vladimir Vivien: [Twitter](https://twitter.com/VladimirVivien) [LinkedIn](https:
 ["Anywhere that good judgment is not needed, the work should be automated away"](https://devops.jaxlondon.com/blog/devops-conference/awhere-good-judgment-is-not-needed-work-shoul-be-automated/): JAXenter interviews Charity Majors
 
 [FCC chair gets 'courage under fire' award for overseeing net neutrality repeal](https://www.cnn.com/2018/02/23/politics/ajit-pai-nra-cpac-award/index.html): The FCC Chairman was given an award by the NRA this week...
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -81,7 +81,7 @@ Vladimir Vivien: [Twitter](https://twitter.com/VladimirVivien) [LinkedIn](https:
 [Securing your Linux web server](https://hackernoon.com/securing-your-linux-web-server-2be683c223eb): Going back to basics every once in a while is a good thing.
 
 [Cloud Native Computing Foundation Announces Keynotes and Full Agenda for KubeCon + CloudNativeCon Europe in Copenhagen](http://www.cncf.io/announcement/2018/02/20/cloud-native-computing-foundation-announces-keynotes-full-agenda-kubecon-cloudnativecon-europe-copenhagen)
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

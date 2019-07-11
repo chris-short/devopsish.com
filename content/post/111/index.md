@@ -44,7 +44,7 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 [Five Things To Look For On A DevOps Resume](https://www.forbes.com/sites/forbestechcouncil/2019/01/15/five-things-to-look-for-on-a-devops-resume/#187255ec2cb1) — The skillsets needed to execute DevOps are relatively rudimentary on their own. Finding folks with the combination of minimum viable skills required is harder than it seems though.
 
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 [The 50 Best Workplaces in Technology 2019](http://fortune.com/2019/01/17/50-best-workplaces-in-technology/) — Congrats to Red Hat, my employer, on making #5 on this list. I have a similar list of places I'd be willing to work tailored to myself and my needs (in alphabetical order):
 
@@ -71,7 +71,7 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 [How I Hacked Play-with-Docker and Remotely Ran Code on the Host](https://www.cyberark.com/threat-research-blog/how-i-hacked-play-with-docker-and-remotely-ran-code-on-the-host/) — This is fascinating. Walk through the process of breaking things in containerland because wow.
 
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 [On Infrastructure at Scale: A Cascading Failure of Distributed Systems](https://medium.com/@daniel.p.woods/on-infrastructure-at-scale-a-cascading-failure-of-distributed-systems-7cff2a3cd2df) — A deep dive into how an outage confirmed that smaller, more numerous Kubernetes clusters were better, the Docker daemon is a single point of failure, and the importance of sidecars.
 
@@ -101,7 +101,7 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 [The Life of a GitHub Action](https://blog.jessfraz.com/post/the-life-of-a-github-action/) — GitHub Actions are a thing that I want to be good. GitLab CI is so far ahead here. It's going to be interesting to see if GitHub tries to achieve feature parity or differentiates (or a little of both).
 
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 [Turn a Raspberry Pi 3B+ into a PriTunl VPN](https://opensource.com/article/19/1/pritunl-vpn-raspberry-pi) — Having used PriTunl for production work in the past, I might set this up just on the chance SSH tunnels don't cut it for me someday.
 

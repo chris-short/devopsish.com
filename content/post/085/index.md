@@ -79,7 +79,7 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 [Is BDFL a death sentence?](https://opensource.com/article/18/7/bdfl): What happens when a Benevolent Dictator For Life moves on from an open source project?
 
 [5 open source principles that help DevOps teams excel](https://enterprisersproject.com/article/2018/7/5-open-source-principles-help-devops-teams-excel): From a belief in meritocracy to a focus on continuous improvement, open source culture principles can supercharge DevOps teams. CIOs can help maximize the benefits
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -116,7 +116,7 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 [Government's Kaspersky Ban Takes Effect](https://www.nextgov.com/cybersecurity/2018/07/governments-kaspersky-ban-takes-effect/149758/)
 
 [Fastly raises another $40 million before an IPO](https://techcrunch.com/2018/07/16/fastly-raises-another-40-million-before-an-ipo/): Congrats to my Fastly peeps!
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

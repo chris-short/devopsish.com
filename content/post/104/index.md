@@ -51,7 +51,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 [9 top tech recruiting mistakes to avoid](https://opensource.com/article/18/11/top-tech-recruiting-mistakes-avoid) — We round up common mistakes tech recruiters make and a few best practices to adopt instead.
 
 [Twitter: Friend or Foe? (Episode 30)](http://communitypulse.io/30-twitter/) — "Twitter, Facebook, Instagram, LinkedIn…these are all major parts of what we use every day to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?"
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -82,7 +82,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 [All the Serverless announcements at re:Invent 2018](https://serverless.com/blog/reinvent-2018-serverless-announcements/) — BYOR (Bring Your Own Runtime), Lambda Layers, managed Kafka, and more!
 
 [The don'ts of software engineering](https://www.imaginarycloud.com/blog/the-donts-of-software-engineering/) — Some pretty obvious ones but if you have some new folks on your team it's a good read.
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

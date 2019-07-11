@@ -46,7 +46,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 [Sysadmin held a rack of servers off the ground for 15 mins, crashed ISP when he put them down](https://www.theregister.co.uk/2018/03/19/who_me/): Help desk covered his tracks by telling ALL callers to reboot their PCs
 
 [CUTTING ‘OLD HEADS' AT IBM](https://features.propublica.org/ibm/ibm-age-discrimination-american-workers/): As it scrambled to compete in the internet world, the once-dominant tech company cut tens of thousands of U.S. workers, hitting its most senior employees hardest and flouting rules against age bias.
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -73,7 +73,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 [8 tips for better agile retrospective meetings](https://opensource.com/article/18/3/tips-better-agile-retrospective-meetings): Here's how to get more positive results from your retro meetings, and build a stronger team while you're at it.
 
 [Salesforce agrees to buy MuleSoft in $6.5 billion deal](https://www.cnbc.com/2018/03/20/salesforce-agrees-to-buy-mulesoft-in-6-point-5-billion-deal.html): WTF does Salesforce even do? Where are they getting all this money? How did they build the tallest building in SF? What is going on???
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

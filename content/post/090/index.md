@@ -40,7 +40,7 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 [Case Study: Can You Fix a Toxic Culture Without Firing People?](https://hbr.org/2018/08/case-study-can-you-fix-a-toxic-culture-without-firing-people)
 
 [A Brief History of DevOps, Part I: Waterfall](https://circleci.com/blog/a-brief-history-of-devops-part-i-waterfall/): "When software development was still young, engineers modeled their work on the hardware world."
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -81,7 +81,7 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 [Someone Is Waging a Secret War to Undermine the Pentagon's Huge Cloud Contract](https://www.defenseone.com/technology/2018/08/someone-waging-secret-war-undermine-pentagons-huge-cloud-contract/150685/)
 
 [Pentagon Amends JEDI Contract, Moves Forward Despite Protest](https://www.nextgov.com/it-modernization/2018/08/pentagon-amends-jedi-contract-moves-forward-despite-protest/150808/)
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

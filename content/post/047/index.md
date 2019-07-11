@@ -47,7 +47,7 @@ Corey Quinn's [**Last Week in AWS**](https://lastweekinaws.com/): You Had Me at 
 [A community-powered approach to diversity and inclusion](https://opensource.com/open-organization/17/10/open-approach-diversity-inclusion): "We took an open approach to publishing our company's diversity statistics. Here's what we learned."
 
 [Tech evangelist Robert Scoble has resigned from his VR startup after several women accused him of sexual assault](http://www.businessinsider.com/robert-scoble-resigned-from-his-vr-startup-after-sex-harassment-allegations-2017-10)
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -64,7 +64,7 @@ Corey Quinn's [**Last Week in AWS**](https://lastweekinaws.com/): You Had Me at 
 [HashiCorp raises $40M for its cloud infrastructure automation services](https://techcrunch.com/2017/10/24/hashicorp-raises-40m-for-its-cloud-infrastructure-automation-services/)
 
 [7 More Habits for Scalable Jenkins Administrators](https://github.com/kwhetstone/ATO2017) by Kristin Whetstone
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

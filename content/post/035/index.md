@@ -37,7 +37,7 @@ We are about a month away from [**DevOpsDay Raleigh**](https://www.devopsdays.or
 [What does the manager of an open team do, anyway?](https://opensource.com/open-organization/17/8/what-open-leader-do) "What would you say you do here?" Sam Knuth's answer involves three principles for open leadership.
 
 [Everyone is not Ops](https://medium.com/@cindysridharan/the-death-of-ops-is-greatly-exaggerated-ff3bd4a67f24): The pragmatic middle-ground
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -50,7 +50,7 @@ We are about a month away from [**DevOpsDay Raleigh**](https://www.devopsdays.or
 [New Bill Seeks Basic IoT Security Standards](http://krebsonsecurity.com/2017/08/new-bill-seeks-basic-iot-security-standards/): Lawmakers in the U.S. Senate today introduced a bill that would set baseline security standards for the government's purchase and use of a broad range of Internet-connected devices, including computers, routers and security cameras.
 
 [Symantec offloads its certs and web security biz to DigiCert](https://www.theregister.co.uk/2017/08/03/symantec_q1_2018/): Symantec sold its Website Security and related PKI solutions to DigiCert, effectively making its spat with Mozilla and Google someone else's problem.
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

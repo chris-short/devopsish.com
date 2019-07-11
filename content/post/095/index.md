@@ -41,7 +41,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Lyft unveils second annual diversity report](https://techcrunch.com/2018/09/28/lyft-unveils-second-annual-diversity-report/): Not bad given the rapid growth. But, still, work to be done.
 
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -71,7 +71,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Former Google CEO predicts the internet will split in two  — and one part will be led by China](https://www.cnbc.com/2018/09/20/eric-schmidt-ex-google-ceo-predicts-internet-split-china.html): To be honest, I think this has already happened. While the Internet is still whole it's nearly impossible for a Chinese citizen to legally see anything outside of what China allows. Foreign businesses also can't wholly own their presence in China and must use a partner (who is likely in bed with government). This isn't a matter of if when the split occurs but whether or not that split will speed up or not.
 
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

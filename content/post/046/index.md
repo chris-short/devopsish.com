@@ -66,7 +66,7 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 [Detroit bid for Amazon HQ2 is on the way; Website launched to showcase city](http://www.wxyz.com/news/detroit-bid-for-amazon-hq2-is-on-the-way-website-launched-to-showcase-city)
 
 {{< youtube DO4J_PC1b5M >}}
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -83,7 +83,7 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 [Why we switched from Python to Go](https://getstream.io/blog/switched-python-go/)
 
 [API design: Choosing between names and identifiers in URLs](https://cloudplatform.googleblog.com/2017/10/API-design-choosing-between-names-and-identifiers-in-URLs.html)
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

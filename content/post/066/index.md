@@ -60,7 +60,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 [20 questions DevOps job candidates should be prepared to answer](https://opensource.com/article/18/3/questions-devops-employees-should-answer): Want to build a positive, productive work environment? Focus on finding a mutual fit during the hiring process.
 
 [Linux beats legal threat from one of its own developers](http://www.zdnet.com/article/linux-beats-internal-legal-threat/): "Linux has beaten many legal challenges over the years, but until now, it hasn't had to win a battle over one of its own."
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -83,7 +83,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 [Why should Kubernetes be scared of AWS?](https://medium.com/@krishnan/why-should-kubernetes-be-scared-of-aws-823876d5148b) "tl:dr: Kubernetes could become Xen"
 
 [FCC Accuses Stealthy Startup of Launching Rogue Satellites](https://spectrum.ieee.org/tech-talk/aerospace/satellites/fcc-accuses-stealthy-startup-of-launching-rogue-satellites): Silicon Valley is completely out of control.
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

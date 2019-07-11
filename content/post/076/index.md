@@ -54,7 +54,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 [DevOps Culture through the Prism of Maslow's Hierarchy of Needs](https://devops.com/devops-culture-through-the-prism-of-maslows-hierarchy-of-needs/)
 
 [27 things I learned about hiring in tech from looking for a new engineering management role](http://wunder.schoenaberselten.com/2018/05/12/27-things-i-learned-about-hiring-in-tech-from-looking-for-a-new-engineering-management-role/)
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -75,7 +75,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 [Kubernetes Chaos Engineering: Lessons Learned](https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned)
 
 [North Carolina, Apple negotiating deal on Triangle campus](https://www.wral.com/north-carolina-apple-negotiating-deal-on-triangle-campus-second-site-in-cary/17558985/): "Apple is close to announcing a deal that would bring as many as 10,000 jobs to North Carolina, including a major investment in the Research Triangle Park, according to multiple sources with knowledge of the deal."
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

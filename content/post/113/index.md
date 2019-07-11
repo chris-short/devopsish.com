@@ -39,7 +39,7 @@ Over the past 500 years, there have been 16 cases of a rising power threatening 
 
 [What we've learned about hiring engineering managers](https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/) — A thorough but not terrible hiring process. Tell me what you think.
 
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) — Silvia Botros' being on being a Principal Engineer. I would go so far to say Silvia's Principal definition applies to all fields.
 
@@ -57,7 +57,7 @@ Apple **finally** took action against [Facebook](https://www.businessinsider.com
 
 [What is GitOps and why you should know about it](https://venturebeat.com/2019/02/02/what-is-gitops-and-why-you-should-know-about-it/) — GitOps is good stuff.
 
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 [Microsoft Azure data deleted because of DNS outage](https://nakedsecurity.sophos.com/2019/02/01/dns-outage-turns-tables-on-azure-database-users/) — Not a typo.
 
@@ -87,7 +87,7 @@ Apple **finally** took action against [Facebook](https://www.businessinsider.com
 
 [DNS Servers You Should Have Memorized](https://danielmiessler.com/blog/dns-servers-you-should-have-memorized/) — I cannot emphasize how important it is to know a few good DNS servers.
 
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/) — Quick introduction to git internals for people who are not scared by words like Directed Acyclic Graph.
 

@@ -55,7 +55,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 [DevOps: Take people with you, but allow them to leave if they don't want to come along on the journey](https://www.computing.co.uk/ctg/news/3063090/devops-take-people-with-you-but-allow-them-to-leave-if-they-dont-want-to-come-along-on-the-journey): A panel of experts at Computing's recent DevOps North Live event discusses the cultural issues in implementing a DevOps culture
 
 [OK, Google](https://medium.com/@nathenharvey/ok-google-95fa8617293f): Nathen goes to Google
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -80,7 +80,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 [Is cloud native starting to kill Hadoop? This CTO says yes](https://siliconangle.com/2018/09/20/cloud-native-starting-kill-hadoop-cto-says-yes-cubenyc/): "Yaron Haviv, founder and chief technology officer of Iguazio Systems Ltd, believes that Hadoop may be outmaneuvered in the future with other solutions."
 
 [CRI-O is now our default container runtime interface](https://kubic.opensuse.org/blog/2018-09-17-crio-default/): "We're really excited to announce that as of today, we now officially supports the CRI-O Container Runtime Interface as our default way of interfacing with containers on your Kubic systems!"
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

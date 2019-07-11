@@ -40,7 +40,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 ['The most important Apple executive you've never heard of' is now also Apple's second-best paid](http://www.businessinsider.com/apple-johny-srouji-second-best-paid-executive-2017-12): The fact Apple is becoming a very viable chip maker (look at the iPhone's latest chips) should scare the hell out of Intel.
 
 [How I learned to program](https://danluu.com/learning-to-program/)
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -49,7 +49,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [New York State Eyes Its Own Net Neutrality Law](http://www.techdirt.com/articles/20171226/10390638883/new-york-state-eyes-own-net-neutrality-law.shtml)
 
 [How "expensive" is crypto anyway?](https://medium.com/cloudflare-blog/how-expensive-is-crypto-anyway-920d08fe71ee)
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

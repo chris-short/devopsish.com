@@ -30,7 +30,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [What To Do If You Get Stuck In A Technical Interview](https://www.anthonydmays.com/2018/01/13/what-to-do-if-you-get-stuck-in-a-technical-interview/): Don't panic; you can do this.
 
 [Cookie Monster, Life Coach](https://m.youtube.com/watch?v=HDxgn-LS520)
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -49,7 +49,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [How To Establish a High Severity Incident Management Program](https://twitter.com/i/moments/954551382891118592): High severity incident management is the practice of recording, triaging, tracking, and assigning business value to problems that impact critical systems.
 
 [An example escalation policy — CRE life lessons](https://cloudplatform.googleblog.com/2018/01/an-example-escalation-policy-CRE-life-lessons.html)
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 

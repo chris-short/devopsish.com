@@ -37,7 +37,7 @@ GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are 
 [Google signs lease for new Detroit location next to Little Caesars Arena](http://www.wxyz.com/news/google-signs-lease-for-new-detroit-location-next-to-little-caesars-arena)
 
 [These cities have the best chance of winning the war for Amazon's new headquarters](https://www.cnbc.com/2017/11/20/these-cities-may-win-war-for-amazons-new-headquarters.html)
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Process
 
@@ -56,7 +56,7 @@ GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are 
 [Rename "Major" to Breaking and "Minor" to Feature #411](https://github.com/semver/semver/issues/411#issuecomment-346446936): If you are into Semantic Versioning you should pay attention to this.
 
 [Fewer unit tests more logs](https://hackernoon.com/less-unit-tests-more-logs-8acbfedc24a0): A controversial idea from Mike Sedzielewski.
-{{< adsense-inarticle >}}
+{{< carbon_ads >}}
 
 ## Tools
 
