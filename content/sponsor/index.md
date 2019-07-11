@@ -12,21 +12,21 @@ aliases = [
 
 +++
 
-DevOps'ish readers are a diverse group of people who care deeply about a wide range of technologies and the business practices pertinent to them. The audience includes people from Amazon, Apple, Google, Intel, Microsoft, Red Hat, Chef, and many other organizations.
+DevOps'ish readers are a diverse group of people who care deeply about a wide range of technologies and the business practices pertinent to them. The audience includes people from Amazon, Apple, Google, IBM, Intel, Microsoft, Red Hat, and many other organizations.
 
 Demographic data outside of what's shared on this page for DevOps'ish subscribers is not available.
 
 ## Sponsorship Rates
 
-Effective 2019-05-04
+Effective 2019-07-10
 
-For a one (1) week sponsorship, the fixed fee is **$300 USD**.
+A one (1) week sponsorship has a fixed fee of **$300 USD**. There is a four week minimum for all sponsorships.
 
 Fees are negotiable for nonprofits, community led projects without revenue, events with no revenue, or part of an ad sharing deal between other publications.
 
-Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
-
 {{< stats >}}
+
+Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 
 ## Ad Format
 
