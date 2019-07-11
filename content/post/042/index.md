@@ -47,7 +47,7 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 [Technical Interview Performance by Editor/OS/Language](https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language): There is a correlation between what editor an engineer uses, their language and OS, and their ability to pass programming interviews.
 
 [Go: Ten years and climbing](https://commandcenter.blogspot.com/2017/09/go-ten-years-and-climbing.html)
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -60,7 +60,7 @@ As mentioned in [DevOps'ish 037](/037/), MongoDB, a database software company ba
 [Proposal: Just Use Github #21956](https://github.com/golang/go/issues/21956)
 
 [Red Hat Announces Broad Expansion to Open Source Patent Promise](https://www.redhat.com/en/about/patent-promise)
-{{< carbon_ads >}}
+
 
 ## Tools
 

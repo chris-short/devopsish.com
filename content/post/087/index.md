@@ -43,7 +43,7 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 [Can a culture of change improve innovation?](https://www.washingtonpost.com/sf/brand-connect/red-hat/can-a-culture-of-change-improve-innovation/) By Jim Whitehurst, president and chief executive officer, Red Hat
 
 [How to be a stronger DevOps leader: 9 tips](https://enterprisersproject.com/article/2018/7/how-be-stronger-devops-leader-9-tips): Want to lead your DevOps team to new heights? IT leaders and DevOps experts share steps to take in the realms of talent, measurement, vision, and IT culture
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -70,7 +70,7 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 [Observerless: The hottest new thing in monitoring you're already doing](https://weekly.monitoring.love/library/observerless/)
 
 [DevOps At Nike: There Is No Finish Line](https://itrevolution.com/devops-at-nike/)
-{{< carbon_ads >}}
+
 
 ## Tools
 

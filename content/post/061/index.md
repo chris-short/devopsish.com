@@ -30,7 +30,7 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 [How I coined the term 'open source'](https://opensource.com/article/18/2/coining-term-open-source-software): Christine Peterson finally publishes her account of that fateful day, 20 years ago.
 
 [Devops Turbo Encabulator](https://youtu.be/iCPOWHgUKyo) from John Willis
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -60,7 +60,7 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 [RFC-8314: Use of Transport Layer Security (TLS) for Email Submission and Access](https://tools.ietf.org/html/rfc8314)
 
 [CNCF to Host the Rook Project to Further Cloud-Native Storage Capabilities](https://www.cncf.io/blog/2018/01/29/cncf-host-rook-project-cloud-native-storage-capabilities/)
-{{< carbon_ads >}}
+
 
 ## Tools
 

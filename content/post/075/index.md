@@ -59,7 +59,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 [Who Pays the Most and Least in Silicon Valley](https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley): Facebook, Google, and Twitter are the top three. Amazon is dead last.
 
 [The Subtle Sexism Of Your Open Plan Office](https://www.fastcodesign.com/90170941/the-subtle-sexism-of-your-open-plan-office): A remarkable new study documents the experiences of women in an open office designed by men.
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -86,7 +86,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 [Defining SLOs for services with dependencies - CRE life lessons](https://cloudplatform.googleblog.com/2018/05/Defining-SLOs-for-services-with-dependencies-CRE-life-lessons.html): "Discussion on how to define and manage SLOs for services with dependencies, each of which may (or may not!) have their own SLOs."
 
 [Tesla's Factory in a Fishbowl](https://www.wsj.com/articles/teslas-factory-in-a-fishbowl-1525716237): All eyes are on the electric-car maker's production process, which is akin to that of a software company
-{{< carbon_ads >}}
+
 
 ## Tools
 

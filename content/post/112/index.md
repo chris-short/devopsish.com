@@ -46,7 +46,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [The Ultimate Guide to Passing the CKA Exam](https://medium.com/@ContinoHQ/the-ultimate-guide-to-passing-the-cka-exam-1ee8c0fd44cd)
 
-{{< carbon_ads >}}
+
 
 [This Is What Happens to Your Body When You Hate Your Job](https://www.huffpost.com/entry/hate-your-job-body-symptoms_n_5c40a314e4b0a8dbe16e8373) — When you hate your job all sorts of unsavory things occur. Change your environment, if everyday is hard maybe you're not the problem.
 
@@ -68,7 +68,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [What's New in Crunchy PostgreSQL Operator 3.5](https://info.crunchydata.com/blog/crunchy-postgresql-operator-3.5-new-features) — Crunchy does PostgreSQL on Kubernetes better than most. Check their Kubernetes Operator out if you working on PostgreSQL on Kubernetes.
 
-{{< carbon_ads >}}
+
 
 [Microsoft Acquires Citus Data: Creating the World's Best Postgres Experience Together](https://www.citusdata.com/blog/2019/01/24/microsoft-acquires-citus-data/) — Congrats to the folks at Citus and Microsoft. Oh and to my co-worker and SIG mate (is that even a word?) Josh Berkus who sits on the board of Citus.
 
@@ -102,7 +102,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [5 Container Alternatives to Docker](https://containerjournal.com/2019/01/22/5-container-alternatives-to-docker/) — Docker being a gross company is all the reason I need.
 
-{{< carbon_ads >}}
+
 
 [Local Kubernetes for Linux — MiniKube vs MicroK8s](https://medium.com/containers-101/local-kubernetes-for-linux-minikube-vs-microk8s-1b2acad068d3) — minikube is still the standard but microk8s is an interesting tool.
 

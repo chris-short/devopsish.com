@@ -55,7 +55,7 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 
 [Live-Tweeting at Conferences](https://www.linkedin.com/pulse/live-tweeting-conferences-kim-mcmahon/) by [Kim McMahon](https://kimmcmahon.me/): I'm trying to get better at this. But, I think I'll leave the event tweeting to the pros.
 
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -74,7 +74,7 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 [Squarespace: Gaining Productivity and Resilience with Kubernetes](https://kubernetes.io/case-studies/squarespace/): "Since Squarespace moved to Kubernetes, in conjunction with modernizing its networking stack, deployment time has been reduced by almost 85%." WOW!
 
 [Can DevOps Really Shift Everything 'To The Left'?](https://www.forbes.com/sites/jasonbloomberg/2018/06/08/can-devops-really-shift-everything-to-the-left/#68b870cbc83a)
-{{< carbon_ads >}}
+
 
 ## Tools
 

@@ -41,7 +41,7 @@ With the rise of docker and serverless patterns there is a whole new suite of to
 [Golang Cafe](https://golang.cafe/): The Go Job Board With No Recruiters And Clear Salary Ranges
 
 [Setting Up Your Tech on the Assumption You'll Be Hacked](https://www.nytimes.com/2018/10/03/technology/personaltech/hacking-protection-passwords.html): Sheera Frenkel, who writes about cybersecurity for The Times, explains how she safeguards her devices, and why passwords remain a weak link for more people.
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -74,7 +74,7 @@ With the rise of docker and serverless patterns there is a whole new suite of to
 [Why Agile Goes Awry — and How to Fix It](https://hbr.org/2018/10/why-agile-goes-awry-and-how-to-fix-it)
 
 [Here come Wi-Fi 4, 5 and 6 in plan to simplify 802.11 networking names](https://www.cnet.com/news/wi-fi-alliance-simplifying-802-11-wireless-network-tech-names/): The Wi-Fi Alliance wants to make wireless networks easier to understand and recognize.
-{{< carbon_ads >}}
+
 
 ## Tools
 

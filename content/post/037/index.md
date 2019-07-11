@@ -37,7 +37,7 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 ![I think I'm going to start lobbying hard for less midday meetings](/037/developer-meetings.png)  
 *I think I'm going to start lobbying hard for less midday meetings*
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -46,7 +46,7 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 [debian-policy: Packages should be reproducible](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=844431): The recent arrival of the final pieces of the toolchain into unstable encourages Chris Lamb to propose that packages in Debian should be reproducible.
 
 [An Intro to Compilers](https://nicoleorchard.com/blog/compilers): A compiler is just a program that translates other programs.
-{{< carbon_ads >}}
+
 
 ## Tools
 

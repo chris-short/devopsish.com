@@ -39,7 +39,7 @@ StitchFix delivers stylist-picked clothes to you with free shipping & returns. I
 [2 dead after Amazon building partially collapses in Baltimore](https://www.cnn.com/2018/11/03/us/baltimore-amazon-building-collapse/index.html): "Two people have died in a partial building collapse at an Amazon Fulfillment Center in southeast Baltimore, officials said Saturday."
 
 [Kubernetes Regional Discussions](https://discuss.kubernetes.io/c/regional-discussions): The Regional Discussions Category is intended for those users that belong to a specific region or share a common language to openly interact and connect with each other in their native language.
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -70,7 +70,7 @@ StitchFix delivers stylist-picked clothes to you with free shipping & returns. I
 [A Large Scale Study of Data Center Network Reliability](https://people.inf.ethz.ch/omutlu/pub/data-center-network-errors-at-facebook_imc18.pdf) PDF
 
 [Yet Another Look at Cloud-Native Apps Architecture](http://blog.grapeup.com/read/yet-another-look-at-cloud-native-apps-architecture-33): "Next time when you design your, hopefully, cloud-native app, bear these guidelines in mind."
-{{< carbon_ads >}}
+
 
 ## Tools
 

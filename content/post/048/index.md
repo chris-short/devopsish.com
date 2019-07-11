@@ -53,7 +53,7 @@ Where users, partners, customers, contributors and upstream project leads come t
 Ashley McNamara led Microsoft Azure OpenDev and [the entire event is available for your viewing pleasure](https://azure.microsoft.com/en-us/opendev/).
 
 [DevOps In Politics](https://www.devopsdays.org/events/2017-seattle/program/nell-shamrell-harrington/): Working technology for a political campaign involves the shortest timelines, tightest deadlines, and highest stakes you will likely ever encounter in a technology career.
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -72,7 +72,7 @@ Ashley McNamara led Microsoft Azure OpenDev and [the entire event is available f
 [Writing a 9P server from scratch](https://blog.aqwari.net/9p/)
 
 [Google Developer Documentation Style Guide](https://developers.google.com/style/)
-{{< carbon_ads >}}
+
 
 ## Tools
 

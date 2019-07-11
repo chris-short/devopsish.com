@@ -35,7 +35,7 @@ Linus Torvalds said, "[I no longer feel like I can trust 'init' to do the sane t
 [Why Speak At A Conference?](https://itrevolution.com/why-speak-at-a-conference/) Because you have an interesting story to tell.
 
 [URLs are UI](https://www.hanselman.com/blog/URLsAreUI.aspx): Tim Berners-Lee said "[Cool URIs don't change](https://www.w3.org/Provider/Style/URI)" in 1998.
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -56,7 +56,7 @@ Linus Torvalds said, "[I no longer feel like I can trust 'init' to do the sane t
 [How to Make a Strategic, Value-Driven Business Case for Your DevOps Initiative](https://www.contino.io/insights/how-to-make-a-strategic-value-driven-business-case-for-your-devops-initiative)
 
 [gandi.net Detailed incident report](https://news.gandi.net/en/2017/07/detailed-incident-report/): On Friday July 7, an unauthorized connection to one of our technical partners resulted in the modification of the name servers [NS] of 751 domain names which then pointed traffic to the impacted domains to a malicious site.
-{{< carbon_ads >}}
+
 
 ## Tools
 

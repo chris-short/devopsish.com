@@ -25,7 +25,7 @@ This week I go over notes from [DevOps'ish 134: Kubernetes Security, multicloud 
 
 [Podcast RSS](https://anchor.fm/s/c71a050/podcast/rss)
 
-{{< carbon_ads >}}
+
 
 ### A Side
 

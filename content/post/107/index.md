@@ -32,7 +32,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [How to become an AWS expert](https://aws.amazon.com/blogs/aws/how-to-become-an-aws-expert/) — Because being an AWS expert will serve you far better than being an Oracle expert.
 
-{{< carbon_ads >}}
+
 
 [Gladys West, the 'hidden figure' of GPS, inducted into Air Force hall of fame](https://thehill.com/blogs/blog-briefing-room/news/422353-dr-gladys-west-the-hidden-figure-of-gps-inducted-into-air-force)
 
@@ -60,7 +60,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [How Rancher Discovered the Kubernetes Vulnerability](https://thenewstack.io/how-rancher-discovered-the-kubernetes-vulnerability/) — "We identified it. It was kind of kept quiet until the fixed that were pushed out, and then everyone had the ability to patch really quickly last week."
 
-{{< carbon_ads >}}
+
 
 [Applying Best Practice Security Controls to a Kubernetes Cluster](https://blog.giantswarm.io/applying-best-practice-security-controls-to-a-kubernetes-cluster/) — "In this article, we're going to address the application of best-practice security controls, using some of the cluster's inherent security mechanisms." Puja is always keeping it real.
 
@@ -100,7 +100,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [Four Tools That Support Your DevSecOps Process](https://www.tigera.io/blog/four-tools-that-support-your-devsecops-process/) — Some solid suggestions from Daniel Oh.
 
-{{< carbon_ads >}}
+
 
 [Project Mu](https://microsoft.github.io/mu/) — "Mu is built around the idea that shipping and maintaining a **UEFI** product is an ongoing collaboration between numerous partners."
 

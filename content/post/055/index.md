@@ -40,7 +40,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [Dozens of Companies Are Using Facebook to Exclude Older Workers From Job Ads](https://www.propublica.org/article/facebook-ads-age-discrimination-targeting)
 
 [In the sales pitch to Amazon, a reimagined downtown Detroit](http://www.crainsdetroit.com/article/20171220/news/648171/in-the-sales-pitch-to-amazon-a-reimagined-downtown-detroit)
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -53,7 +53,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [Remove my password from lists so hackers won't be able to hack me](https://github.com/danielmiessler/SecLists/pull/155): This is a joke, right? Please be a joke.
 
 [Build bridges, not walls](http://bitfieldconsulting.com/bridges-not-walls)
-{{< carbon_ads >}}
+
 
 ## Tools
 

@@ -42,7 +42,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [Uber has settled with a woman whose medical files an executive accessed after she was raped](https://www.recode.net/2017/12/8/16754796/uber-lawsuit-india-rape-victim-medical-files)
 
 [Microsoft's Global Diversity and Inclusion Training](https://www.microsoft.com/en-us/diversity/training)
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -59,7 +59,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [The road to a more usable Kubernetes](http://slides.eightypercent.net/kubecon-2017/index.html#p1) by Joe Beda (slides with notes)
 
 [What DevOps teams really need from a CIO](https://enterprisersproject.com/article/2017/12/what-devops-teams-really-need-cio)
-{{< carbon_ads >}}
+
 
 ## Tools
 

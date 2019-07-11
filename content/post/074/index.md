@@ -48,7 +48,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 [What makes a great SRE?](https://opensource.com/article/18/5/what-makes-great-sre) Site reliability engineers play a pivotal role in most organizations. Here are some of the top skills and qualifications to look for.
 
 [‘Forget the Facebook leak': China is mining data directly from workers' brains on an industrial scale](http://www.scmp.com/news/china/society/article/2143899/forget-facebook-leak-china-mining-data-directly-workers-brains): Government-backed surveillance projects are deploying brain-reading technology to detect changes in emotional states in employees on the production line, the military and at the helm of high-speed trains
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -63,7 +63,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 [Netlify's Approach to the CDN, Microservices, and Breaking Down Your Monolith](https://thenewstack.io/netlifys-approach-to-the-cdn-microservices-and-breaking-down-your-monolith/)
 
 [Lessons from Building Static Analysis Tools at Google](https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext): "Here, we describe how we have applied the lessons from Google's previous experience with FindBugs Java analysis, as well as from the academic literature, to build a successful static analysis infrastructure used daily by most software engineers at Google."
-{{< carbon_ads >}}
+
 
 ## Tools
 

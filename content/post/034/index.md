@@ -37,7 +37,7 @@ A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for
 [Google Spent 2 Years Studying 180 Teams. The Most Successful Ones Shared These 5 Traits](https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html)
 
 {{< tweet 891072671122731009 >}}
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -58,7 +58,7 @@ A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for
 [Status update from the Reproducible Builds project](https://lists.debian.org/debian-devel-announce/2017/07/msg00004.html)
 
 {{< tweet 890155828841398273 >}}
-{{< carbon_ads >}}
+
 
 ## Tools
 

@@ -48,7 +48,7 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 [Survey of YC female founders on sexual coercion and assault by angel and VC investors](https://blog.ycombinator.com/survey-of-yc-female-founders-on-sexual-harassment-and-coercion-by-angel-and-vc-investors/)
 
 [Microsoft co-founder Paul Allen dead at 65 from non-Hodgkin's lymphoma](https://www.usatoday.com/story/tech/2018/10/15/microsoft-co-founder-paul-allen-dead-65/1653564002/)
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -79,7 +79,7 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 [Dr. Nicole Forsgren on DevOps: ‘You Are What You Measure'](https://thenewstack.io/dr-nicole-forsgren-on-devops-you-are-what-you-measure/)
 
 [AWS Lambda announces service level agreement](https://aws.amazon.com/about-aws/whats-new/2018/10/aws-lambda-introduces-service-level-agreement/)
-{{< carbon_ads >}}
+
 
 ## Tools
 

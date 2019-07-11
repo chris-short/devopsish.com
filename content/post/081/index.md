@@ -72,7 +72,7 @@ Continuous learning is a tenet of DevOps. It's important to keep up with trends 
 [The Next Wave: DigitalOcean's New CEO](https://blog.digitalocean.com/the-next-wave-digitaloceans-new-ceo/): Mark Templeton comes to DigitalOcean from Citrix. This should be interesting.
 
 [Come find me in the hallway](https://medium.com/spkr/come-find-me-in-the-hallway-541e935cf3f8): As a speaker, you shouldn't be taking questions on stage after your talk.
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -99,7 +99,7 @@ Continuous learning is a tenet of DevOps. It's important to keep up with trends 
 [Facebook and Google must do more to support Wikipedia](https://www.wired.co.uk/article/wikipedia-google-youtube-facebook-support): If big tech companies are going to use Wikipedia as a resource, they should better support its important work, says the executive director of the Wikimedia Foundation
 
 [Nginx lands $43 million Series C to fuel expansion](https://techcrunch.com/2018/06/20/nginx-lands-43-million-series-c-to-fuel-expansion/): Congrats to Nginx!
-{{< carbon_ads >}}
+
 
 ## Tools
 

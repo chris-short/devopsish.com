@@ -36,7 +36,7 @@ This post chronicles a mobile app development team's journey to continuous deliv
 [CloudNOW Announces This Year's Top 10 Women in Cloud Innovation Award Winners](https://cloud-now.org/cloudnow-announces-2017-top-10-women-in-cloud-innovation-award-winners/)
 
 [Giving Open-Source Projects Life After a Developer's Death](https://www.wired.com/story/giving-open-source-projects-life-after-a-developers-death/)
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -53,7 +53,7 @@ This post chronicles a mobile app development team's journey to continuous deliv
 [Systems thinking principles, DevOps and the support pager](http://devopsagenda.techtarget.com/opinion/Systems-thinking-principles-DevOps-and-the-support-pager): Everything we do has consequences, good or bad. That's why no team works in isolation. We're interdependent. It's time to embrace and own our shared responsibilities.
 
 [DevOps Success Beyond Agile: Cloud Expo Power Panel](https://www.forbes.com/sites/jasonbloomberg/2017/11/04/devops-success-beyond-agile-cloud-expo-power-panel/#a502547402a8)
-{{< carbon_ads >}}
+
 
 ## Tools
 

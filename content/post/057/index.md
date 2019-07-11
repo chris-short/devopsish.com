@@ -50,7 +50,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 ["Oh My God, This Is So F — -ed Up": Inside Silicon Valley's Secretive, Orgiastic Dark Side](https://www.vanityfair.com/news/2018/01/brotopia-silicon-valley-secretive-orgiastic-inner-sanctum)
 
 [2017 SRE & DevOps Influencers](https://robhirschfeld.com/2018/01/01/2017-sre-devops-influencers/)
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -67,7 +67,7 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [The future of DevOps is mastery of multi-cloud environments](https://opensource.com/article/18/1/future-devops)
 
 [It's 2018 and your Docker containers need to be secure](https://blog.cloudpassage.com/2018/01/02/2018-docker-containers-need-secure/)
-{{< carbon_ads >}}
+
 
 ## Tools
 

@@ -37,7 +37,7 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 [Microsoft will require suppliers to offer paid parental leave](https://www.axios.com/microsoft-require-suppliers-offer-paid-parental-leave-dc573198-123c-4c51-ab78-432863003165.html): Be the change you want to see in the world. Unless you can *force* the change. Then force the change.
 
 [Advice for a new executive](https://larahogan.me/blog/advice-for-new-executive/) by Lara Hogan
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -64,7 +64,7 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 [That Time Telco Lobbyists Sent Me All Their Talking Points About Trying To Shift The Blame To Internet Companies](https://www.techdirt.com/articles/20180829/18030740541/that-time-telco-lobbyists-sent-me-all-their-talking-points-about-trying-to-shift-blame-to-internet-companies.shtml)
 
 [Open Source Program Management 2018 Survey Results](https://todogroup.org/blog/survey-2018/)
-{{< carbon_ads >}}
+
 
 ## Tools
 

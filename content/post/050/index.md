@@ -44,7 +44,7 @@ This post chronicles a mobile app development team's journey to continuous deliv
 [Solomon Hykes Changes Roles at Docker](https://thenewstack.io/solomon-hykes-changes-roles-docker/): You heard it here first; Docker has to clean up its image before seeking people to buy it. To quote Obi Wan Kenobi, "you will never find a more wretched hive of scum and villainy."
 
 [A Hacker Hero Has Been Banned From Cyber Conferences After Decades Of Inappropriate Behavior](https://www.buzzfeed.com/kevincollier/hacker-hero-is-said-to-have-used-cyber-conferences-to?utm_term=.fu63dVV97#.rb0OP6691): The claims against John Draper, better known as Cap'n Crunch, a pioneer hacker and an early associate of Apple cofounders Steve Wozniak and Steve Jobs, are yet another example of how celebrity can be abused.
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -69,7 +69,7 @@ This post chronicles a mobile app development team's journey to continuous deliv
 [Risks of a 'serverless' future: dissolving valuable infrastructure](https://siliconangle.com/blog/2017/11/08/risks-serverless-future-dissolving-valuable-infrastructure-serverlessconf/) with DevOps OG, John Willis
 
 [HOWTO: Submit a kernel patch to Linus Torvalds](https://lkml.org/lkml/2017/11/14/184)
-{{< carbon_ads >}}
+
 
 ## Tools
 

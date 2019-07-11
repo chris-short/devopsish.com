@@ -50,7 +50,7 @@ March 9, 2018
 [Tackling the most important issue in a DevOps transformation](https://opensource.com/article/18/2/most-important-issue-devops-transformation): When you're moving to DevOps, is your biggest concern technology, process, or culture? (Clue: it's not the first two.)
 
 [Join Gremlin's New Community](https://www.gremlin.com/join-our-new-community-tutorials-talks-slack-meetups/): Tutorials, Talks, Slack & Meetups
-{{< carbon_ads >}}
+
 
 ## Process
 
@@ -69,7 +69,7 @@ March 9, 2018
 [How to build a business case for DevOps transformation](https://opensource.com/article/18/2/how-build-business-case-devops-transformation): Support the need for a DevOps transformation by focusing on the business benefits, not the technology.
 
 [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
-{{< carbon_ads >}}
+
 
 ## Tools
 
