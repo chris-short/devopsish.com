@@ -37,7 +37,6 @@ This post chronicles a mobile app development team's journey to continuous deliv
 
 [Giving Open-Source Projects Life After a Developer's Death](https://www.wired.com/story/giving-open-source-projects-life-after-a-developers-death/)
 
-
 ## Process
 
 [Kubernetes by the numbers: 10 compelling stats](https://enterprisersproject.com/article/2017/11/kubernetes-numbers-10-compelling-stats): Trying to demonstrate the reach and value of Kubernetes? Make your case using these data points
@@ -53,7 +52,6 @@ This post chronicles a mobile app development team's journey to continuous deliv
 [Systems thinking principles, DevOps and the support pager](http://devopsagenda.techtarget.com/opinion/Systems-thinking-principles-DevOps-and-the-support-pager): Everything we do has consequences, good or bad. That's why no team works in isolation. We're interdependent. It's time to embrace and own our shared responsibilities.
 
 [DevOps Success Beyond Agile: Cloud Expo Power Panel](https://www.forbes.com/sites/jasonbloomberg/2017/11/04/devops-success-beyond-agile-cloud-expo-power-panel/#a502547402a8)
-
 
 ## Tools
 

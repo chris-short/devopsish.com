@@ -59,7 +59,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [What is Microsoft Doing?](http://redmonk.com/sogrady/2017/09/28/microsoft-hiring/) Attracting more attention than [cloud] transition, in many quarters, is the hiring spree that Microsoft has been on in the developer advocate and evangelism space.
 
-
 ## Process
 
 [DevOps README.md](https://chrisshort.net/devops-readme.md/): A curated list of things to read to level up your DevOps skills and knowledge
@@ -77,7 +76,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 [Broadening HSTS to secure more of the Web](https://security.googleblog.com/2017/09/broadening-hsts-to-secure-more-of-web.html): In 2015 we created the first secure TLD when we added .google to the HSTS preload list, and we are now rolling out HSTS for a larger number of our TLDs, starting with .foo and .dev.
 
 [Microsoft Makes it Official: Becomes Sponsor of Open Source Initiative](https://opensource.org/node/901)
-
 
 ## Tools
 

@@ -38,7 +38,6 @@ A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for
 
 {{< tweet 891072671122731009 >}}
 
-
 ## Process
 
 [Dockerize a .NET Core application](https://docs.docker.com/engine/examples/dotnetcore/): Develop and run your ASP.NET Core apps cross-platform on Windows, MacOS and Linux. ASP.NET Core apps can run on .NET Core or on the full .NET Framework.
@@ -58,7 +57,6 @@ A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for
 [Status update from the Reproducible Builds project](https://lists.debian.org/debian-devel-announce/2017/07/msg00004.html)
 
 {{< tweet 890155828841398273 >}}
-
 
 ## Tools
 

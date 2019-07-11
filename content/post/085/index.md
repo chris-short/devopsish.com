@@ -80,7 +80,6 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 
 [5 open source principles that help DevOps teams excel](https://enterprisersproject.com/article/2018/7/5-open-source-principles-help-devops-teams-excel): From a belief in meritocracy to a focus on continuous improvement, open source culture principles can supercharge DevOps teams. CIOs can help maximize the benefits
 
-
 ## Process
 
 [The PEP 572 endgame](https://lwn.net/Articles/759558/): "While the Python project charts its course in the wake of [Guido van Rossum] resignation, it makes sense to catch up on where things stand with this contentious PEP that has now been accepted for Python 3.8."
@@ -116,7 +115,6 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 [Government's Kaspersky Ban Takes Effect](https://www.nextgov.com/cybersecurity/2018/07/governments-kaspersky-ban-takes-effect/149758/)
 
 [Fastly raises another $40 million before an IPO](https://techcrunch.com/2018/07/16/fastly-raises-another-40-million-before-an-ipo/): Congrats to my Fastly peeps!
-
 
 ## Tools
 

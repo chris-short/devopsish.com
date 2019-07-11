@@ -73,7 +73,6 @@ Continuous learning is a tenet of DevOps. It's important to keep up with trends 
 
 [Come find me in the hallway](https://medium.com/spkr/come-find-me-in-the-hallway-541e935cf3f8): As a speaker, you shouldn't be taking questions on stage after your talk.
 
-
 ## Process
 
 [Open Hardware: Good for Your Brand, Good for Your Bottom Line](https://www.linuxjournal.com/content/open-hardware-good-your-brand-good-your-bottom-line): With the rise of IoT, we're inside a short window where "open" is a strong differentiator for hardware products. Is your company ready to take advantage of it?
@@ -99,7 +98,6 @@ Continuous learning is a tenet of DevOps. It's important to keep up with trends 
 [Facebook and Google must do more to support Wikipedia](https://www.wired.co.uk/article/wikipedia-google-youtube-facebook-support): If big tech companies are going to use Wikipedia as a resource, they should better support its important work, says the executive director of the Wikimedia Foundation
 
 [Nginx lands $43 million Series C to fuel expansion](https://techcrunch.com/2018/06/20/nginx-lands-43-million-series-c-to-fuel-expansion/): Congrats to Nginx!
-
 
 ## Tools
 

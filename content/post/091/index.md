@@ -38,7 +38,6 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 
 [Advice for a new executive](https://larahogan.me/blog/advice-for-new-executive/) by Lara Hogan
 
-
 ## Process
 
 [**Announcing Accelerate: State of DevOps 2018: Strategies for a New Economy**](https://devops-research.com/2018/08/announcing-accelerate-state-of-devops-2018/)
@@ -64,7 +63,6 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 [That Time Telco Lobbyists Sent Me All Their Talking Points About Trying To Shift The Blame To Internet Companies](https://www.techdirt.com/articles/20180829/18030740541/that-time-telco-lobbyists-sent-me-all-their-talking-points-about-trying-to-shift-blame-to-internet-companies.shtml)
 
 [Open Source Program Management 2018 Survey Results](https://todogroup.org/blog/survey-2018/)
-
 
 ## Tools
 

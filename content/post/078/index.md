@@ -45,7 +45,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [Kelsey Hightower on Imposter Syndrome](http://communitypulse.io/24-imposter-syndrome/)
 
-
 ## Process
 
 [Microsoft has been talking about buying GitHub, a startup at the center of the software world last valued at $2 billion](http://www.businessinsider.com/2-billion-startup-github-could-be-for-sale-microsoft-2018-5): What could possibly go wrong? *cough* VSTS! *cough* But, it's interesting that [GNOME](https://about.gitlab.com/2018/05/31/welcome-gnome-to-gitlab/) and [GIMP](https://www.gimp.org/news/2018/05/31/gimp-has-moved-to-gitlab/) have finished migrating to GitLab this week.
@@ -67,7 +66,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [Ops Moving At Git Pace](https://medium.com/@jaydestro/ops-moving-at-git-pace-b731d4bc3441): GitOps, y'all
 
 [Google Plans Not to Renew Its Contract for Project Maven, a Controversial Pentagon Drone AI Imaging Program](https://gizmodo.com/google-plans-not-to-renew-its-contract-for-project-mave-1826488620): Maven, the controversial program that Googlers are up in arms about, won't be getting a contract extension with Google next year. But, as [JBD and I discussed on Twitter](https://twitter.com/ChrisShort/status/996524634093817856), "The government will find someone to do this in place of Google. Imagine how crappily a defense contractor would handle this challenge. I trust Google with this task over the competition any day." Sadly, "This is a no win scenario."
-
 
 ## Tools
 

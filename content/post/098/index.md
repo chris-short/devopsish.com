@@ -49,7 +49,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [Microsoft co-founder Paul Allen dead at 65 from non-Hodgkin's lymphoma](https://www.usatoday.com/story/tech/2018/10/15/microsoft-co-founder-paul-allen-dead-65/1653564002/)
 
-
 ## Process
 
 [Forge Your Future with Open Source](https://pragprog.com/book/vbopens/forge-your-future-with-open-source): Build Your Skills. Build Your Network. Build the Future of Technology.
@@ -79,7 +78,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 [Dr. Nicole Forsgren on DevOps: ‘You Are What You Measure'](https://thenewstack.io/dr-nicole-forsgren-on-devops-you-are-what-you-measure/)
 
 [AWS Lambda announces service level agreement](https://aws.amazon.com/about-aws/whats-new/2018/10/aws-lambda-introduces-service-level-agreement/)
-
 
 ## Tools
 

@@ -45,7 +45,6 @@ This post chronicles a mobile app development team's journey to continuous deliv
 
 [A Hacker Hero Has Been Banned From Cyber Conferences After Decades Of Inappropriate Behavior](https://www.buzzfeed.com/kevincollier/hacker-hero-is-said-to-have-used-cyber-conferences-to?utm_term=.fu63dVV97#.rb0OP6691): The claims against John Draper, better known as Cap'n Crunch, a pioneer hacker and an early associate of Apple cofounders Steve Wozniak and Steve Jobs, are yet another example of how celebrity can be abused.
 
-
 ## Process
 
 [Fly the airplane: Three practices for effective incident response](https://www.itproportal.com/features/fly-the-airplane-three-practices-for-effective-incident-response/)
@@ -69,7 +68,6 @@ This post chronicles a mobile app development team's journey to continuous deliv
 [Risks of a 'serverless' future: dissolving valuable infrastructure](https://siliconangle.com/blog/2017/11/08/risks-serverless-future-dissolving-valuable-infrastructure-serverlessconf/) with DevOps OG, John Willis
 
 [HOWTO: Submit a kernel patch to Linus Torvalds](https://lkml.org/lkml/2017/11/14/184)
-
 
 ## Tools
 

@@ -31,7 +31,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 [Cookie Monster, Life Coach](https://m.youtube.com/watch?v=HDxgn-LS520)
 
-
 ## Process
 
 [Hawaii missile mess: That was no 'wrong button.' Take a look.](https://www.washingtonpost.com/news/morning-mix/wp/2018/01/16/that-was-no-wrong-button-in-hawaii-take-a-look/) This is why DevOps exists. Software should never result in a user of that software getting fired if they're using it as designed.
@@ -49,7 +48,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [How To Establish a High Severity Incident Management Program](https://twitter.com/i/moments/954551382891118592): High severity incident management is the practice of recording, triaging, tracking, and assigning business value to problems that impact critical systems.
 
 [An example escalation policy — CRE life lessons](https://cloudplatform.googleblog.com/2018/01/an-example-escalation-policy-CRE-life-lessons.html)
-
 
 ## Tools
 

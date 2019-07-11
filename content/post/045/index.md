@@ -60,7 +60,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [GitLab raises $20M Series C round led by GV](https://techcrunch.com/2017/10/09/gitlab-raises-20m-series-c-round-led-by-gv/)
 
-
 ## Process
 
 [STELLA](https://drive.google.com/file/d/0B7kFkt5WxLeDTml5cTFsWXFCb1U/view): Report from the SNAFUcatchers Workshop on Coping With Complexity
@@ -76,7 +75,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 [Operating a Kubernetes network](https://jvns.ca/blog/2017/10/10/operating-a-kubernetes-network/) by Julia Evans
 
 [Disqus Demonstrates How to Do Breach Disclosure Right](https://www.troyhunt.com/disqus-demonstrates-how-to-do-data-breach-disclosure-right/): It's " important that we acknowledge exemplary handling of data breaches when they occur because that's behaviour that should be encouraged."
-
 
 ## Tools
 

@@ -55,8 +55,6 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 
 [Live-Tweeting at Conferences](https://www.linkedin.com/pulse/live-tweeting-conferences-kim-mcmahon/) by [Kim McMahon](https://kimmcmahon.me/): I'm trying to get better at this. But, I think I'll leave the event tweeting to the pros.
 
-
-
 ## Process
 
 [GitHub Is Microsoft's $7.5 Billion Undo Button](https://www.bloomberg.com/news/articles/2018-06-06/github-is-microsoft-s-7-5-billion-undo-button): "Steve Ballmer spent years hating on open source software. Satya Nadella recognized that the service has become indispensable to programmers."
@@ -74,7 +72,6 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 [Squarespace: Gaining Productivity and Resilience with Kubernetes](https://kubernetes.io/case-studies/squarespace/): "Since Squarespace moved to Kubernetes, in conjunction with modernizing its networking stack, deployment time has been reduced by almost 85%." WOW!
 
 [Can DevOps Really Shift Everything 'To The Left'?](https://www.forbes.com/sites/jasonbloomberg/2018/06/08/can-devops-really-shift-everything-to-the-left/#68b870cbc83a)
-
 
 ## Tools
 

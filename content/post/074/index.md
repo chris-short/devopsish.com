@@ -49,7 +49,6 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 [‘Forget the Facebook leak': China is mining data directly from workers' brains on an industrial scale](http://www.scmp.com/news/china/society/article/2143899/forget-facebook-leak-china-mining-data-directly-workers-brains): Government-backed surveillance projects are deploying brain-reading technology to detect changes in emotional states in employees on the production line, the military and at the helm of high-speed trains
 
-
 ## Process
 
 [Three-day no-meeting schedule for engineers](https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567): We did something a lot like this at McClathy Interactive. We had all our cross departmental meetings on Monday and Friday. Every day, your organizational unit had a standup/scrum spanning all projects (no longer than 15 minutes, first thing in the morning). Every time I walk into a new workcenter I espouse the benefits of this model. A huge thanks to Ted Boggs and Steve Coile for letting me work in this model. It was glorious!
@@ -63,7 +62,6 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 [Netlify's Approach to the CDN, Microservices, and Breaking Down Your Monolith](https://thenewstack.io/netlifys-approach-to-the-cdn-microservices-and-breaking-down-your-monolith/)
 
 [Lessons from Building Static Analysis Tools at Google](https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext): "Here, we describe how we have applied the lessons from Google's previous experience with FindBugs Java analysis, as well as from the academic literature, to build a successful static analysis infrastructure used daily by most software engineers at Google."
-
 
 ## Tools
 

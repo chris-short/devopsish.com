@@ -83,7 +83,6 @@ Where: From your desktop, laptop, or mobile device
 
 [Amazon poached 30 executives from Microsoft in the past 3 years — 6 times as many executives as the next lead poacher, Google](http://www.businessinsider.com/amazon-poached-30-former-microsoft-executives-2015-to-2017-vs-google-report-2018-6): The thing about this perceived issue is that Microsoft isn't the one that should be worried, Amazon is. Do you really want execs that Microsoft was willing to let go in this day and age?
 
-
 ## Process
 
 [You don't need that Bastion host](https://medium.com/@henriksylvesterpedersen/you-dont-need-that-bastion-host-cd1b1717a9e7): Controversial thinking to some. But, unless you don't have a VPN and have no baseline hardening automation, you probably don't need a bastion host.
@@ -121,7 +120,6 @@ Where: From your desktop, laptop, or mobile device
 [The advantages of an email-driven git workflow](https://drewdevault.com/2018/07/02/Email-driven-git.html): "Email is standardized, federated, well-understood, and venerable. A very large body of email-related software exists and is equally reliable and well-understood."
 
 [Top 9 Kubernetes Settings You Should Check to Optimize Security](https://containerjournal.com/2018/07/03/top-9-kubernetes-settings-you-should-check-to-optimize-security/): "Taking advantage of orchestrator security features is one of the highest-impact steps you can take to improve your security posture."
-
 
 ## Tools
 

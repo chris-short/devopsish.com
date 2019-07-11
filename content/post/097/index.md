@@ -40,7 +40,6 @@ A new sponsor was supposed to have their ad copy here this week. But, they never
 
 [GitLab + STEM Gems: Giving girls role models in tech](https://about.gitlab.com/2018/10/08/stem-gems-give-girls-role-models/): Meet the GitLabbers working to inspire the next generation to pursue careers in STEM.
 
-
 ## Process
 
 [The Non-Code Contributor's Guide to Kubernetes opens the field to users of all developing levels](https://jaxenter.com/kubernetes-non-code-contributors-guide-150422.html): "Want to help contribute to Kubernetes but you're not a coder? No problem! Thanks to the Non-Code Contributor's Guide, the Kubernetes community explicitly spells out how fans can help out even if they're still learning all that developing stuff."
@@ -68,7 +67,6 @@ A new sponsor was supposed to have their ad copy here this week. But, they never
 [Netlify just got $30 million to change the way developers build websites](https://techcrunch.com/2018/10/09/netlify-just-got-30-million-to-change-the-way-developers-build-websites/): Congrats to the folks at Netlify!
 
 [BBC News disrupted by software glitch](https://www.bbc.com/news/technology-45812540): An upgrade gone wrong.
-
 
 ## Tools
 

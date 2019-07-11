@@ -69,7 +69,6 @@ Where: From your desktop, laptop, or mobile device
 
 [What a Long Strange Trip It's Been](https://medium.com/@jasonhand/what-a-long-strange-trip-its-been-3f2e035c0a89): TL;DR — [Jason Hand] is leaving VictorOps/Splunk to join Microsoft.
 
-
 ## Process
 
 [Cisco stock drops on a report Amazon Web Services is considering selling its own network devices](https://www.cnbc.com/2018/07/13/aws-network-devices-report-cisco-juniper-fall.html): Could you imagine? AWS will undercut the competition so hard. Then they'll start copying their customers' business successes in a heartbeat.
@@ -103,7 +102,6 @@ Where: From your desktop, laptop, or mobile device
 [Predict your future costs with Google Cloud Billing cost forecast](https://cloudplatform.googleblog.com/2018/07/predict-your-future-costs-with-google-cloud-billing-cost-forecast.html)
 
 [How to learn Kubernetes quickly](https://www.reddit.com/r/devops/comments/8xrthv/how_to_learn_kubernetes_quickly/): "I just got given the option to work on a kubernetes project that is in the pipeline and am wondering how I should go about learning it quickly to get up to speed on what I need to do a fairly (seemingly) simple deployment?"
-
 
 ## Tools
 

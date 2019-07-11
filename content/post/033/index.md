@@ -35,8 +35,6 @@ Sunday, I flew back to NC to help close and move out of our house. It has turned
 
 [A message from The Iron Yard](http://blog.theironyard.com/2017/07/20/message-iron-yard/): In considering the current environment, the board of The Iron Yard has made the difficult decision to cease operations at all campuses after teaching out remaining summer cohorts.
 
-
-
 ## Process
 
 [Running 4558 Tests in 1m 55sec (or Saving 50 Hours/week)](https://engineering.classdojo.com/blog/2017/05/21/Running-4558-tests-in-1m-55sec/)
@@ -64,8 +62,6 @@ Sunday, I flew back to NC to help close and move out of our house. It has turned
 [How to be proactive about performance](https://pocketgophers.com/proactive-performance/): Instrument your code, monitor its performance, and improve it where it matters most
 
 [How I Reduced my DB Server Load by 80%](https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/)
-
-
 
 ## Tools
 

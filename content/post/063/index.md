@@ -56,7 +56,6 @@ TotalCloud is first-of-its-kind visually-rich interactive & immersive visual pla
 
 [Fired Google Engineer Loses Diversity Memo Challenge](http://www.bloomberg.com/news/articles/2018-02-16/google-firing-of-damore-was-legal-u-s-labor-panel-lawyer-said): 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 
-
 ## Process
 
 [The CNCF takes steps toward serverless computing](https://www.cncf.io/blog/2018/02/14/cncf-takes-first-step-towards-serverless-computing/): The Cloud Native Computing Foundation has launched a serverless working group. To me, this is a natural evolution for serverless and the CNCF. However, in my opinion, DIY serverless/functions is a solved problem: use [**OpenFaaS**](https://www.openfaas.com/).
@@ -80,7 +79,6 @@ TotalCloud is first-of-its-kind visually-rich interactive & immersive visual pla
 [Everything I know about open source I learned from SpaceX](https://opensource.com/article/18/2/everything-i-know-about-open-source-i-learned-spacex)
 
 Want to write for opensource.com and can't come up with a good topic? Reach out to me or take a gander at the [opensource.com editorial calendar](http://opensource.com/resources/editorial-calendar) for inspiration.
-
 
 ## Tools
 

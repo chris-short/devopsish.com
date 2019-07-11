@@ -48,7 +48,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [The Women Who Go Wildfire](https://code.likeagirl.io/the-women-who-go-widlfire-faf53d989d14) by Sarah Adams: Why has Women Who Go grown so fast? Because of the parasitic growth of mutual, undying love and respect.
 
-
 ## Process
 
 [Are you stuck in the new DevOps matrix from hell?](http://sdtimes.com/stuck-new-devops-matrix-hell/) A DevOps assembly line platform can help avoid config sprawl and the DevOps matrix from hell by configuring the workflow above fairly easily, while also giving you repeatability and audit trails.
@@ -68,7 +67,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 [Vulnerability Note VU#973527](http://www.kb.cert.org/vuls/id/973527): Dnsmasq contains multiple vulnerabilities.
 
 [Abandoning Iranian Nuclear Deal Could Lead to New Wave of Cyberattacks](http://foreignpolicy.com/2017/10/02/abandoning-iranian-nuclear-deal-could-lead-to-new-wave-of-cyberattacks/): If Trump walks away from the pact, Tehran could see "retribution against Western targets."
-
 
 ## Tools
 

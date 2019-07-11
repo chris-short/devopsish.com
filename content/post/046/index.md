@@ -67,7 +67,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 {{< youtube DO4J_PC1b5M >}}
 
-
 ## Process
 
 [Departures or How Condé Nast Stopped Worrying and Learned to Love Containers](https://technology.condenast.com/story/departures-building-a-docker-container-based-deployment-platform-at-conde-nast)
@@ -83,7 +82,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 [Why we switched from Python to Go](https://getstream.io/blog/switched-python-go/)
 
 [API design: Choosing between names and identifiers in URLs](https://cloudplatform.googleblog.com/2017/10/API-design-choosing-between-names-and-identifiers-in-URLs.html)
-
 
 ## Tools
 

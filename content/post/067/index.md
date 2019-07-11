@@ -45,7 +45,6 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [Building Bridges to GopherCon 2018](https://medium.com/@ashleymcnamara/gophercon-2018-b9a97387b954): Raise money to send folks to GopherCon through buying absolutely amazing Go shirts (art by Ashley McNamara).
 
-
 ## Process
 
 [Say yes to Markdown, no to MS Word](https://medium.com/@drodil/say-yes-to-markdown-no-to-ms-word-be4692e7a8cd): Please, for the love of all things holy, don't be like Oracle and show up for an engagement with a Word doc to copy and paste commands from into a terminal.
@@ -57,7 +56,6 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 [Analysis of a Kubernetes hack — Backdooring through kubelet](https://medium.com/handy-tech/analysis-of-a-kubernetes-hack-backdooring-through-kubelet-823be5c3d67c): It appears someone found a way to drop some crypto mining software on a running container and execute the process.
 
 [Enforcing the 'Two-Person Rule' with AWS CodePipeline](https://www.trek10.com/blog/enforcing-two-person-rule-aws-codepipeline/)
-
 
 ## Tools
 

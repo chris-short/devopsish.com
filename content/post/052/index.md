@@ -58,7 +58,6 @@ GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are 
 
 [David Karp is leaving Tumblr by the end of the year](https://techcrunch.com/2017/11/27/david-karp-is-leaving-tumblr-by-the-end-of-the-year/?ncid=rss)
 
-
 ## Process
 
 [May the next Etsy learn its lessons](https://m.signalvnoise.com/may-the-next-etsy-learn-its-lessons-af9928218114) by DHH
@@ -82,7 +81,6 @@ DORA released [*Cloud Infrastructure in the Federal Government: Modern Practices
 [DevSecOps in Government: You Deploy It, You Own It](https://www.linkedin.com/pulse/devsecops-government-you-deploy-own-derek-e-weeks/)
 
 [Dear CIOs: Stop beating yourselves up for being behind on transformation](https://enterprisersproject.com/article/2017/11/dear-cios-stop-beating-yourselves-being-behind-transformation): Let's break down three misconceptions about digital transformation for CIOs racing to make progress
-
 
 ## Tools
 

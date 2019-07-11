@@ -55,7 +55,6 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 [27 things I learned about hiring in tech from looking for a new engineering management role](http://wunder.schoenaberselten.com/2018/05/12/27-things-i-learned-about-hiring-in-tech-from-looking-for-a-new-engineering-management-role/)
 
-
 ## Process
 
 [Not So Pretty: What You Need to Know About E-Fail and the PGP Flaw](https://www.eff.org/deeplinks/2018/05/not-so-pretty-what-you-need-know-about-e-fail-and-pgp-flaw-0): "Don't panic! But you should stop using PGP for encrypted email and switch to a different secure communications method for now."
@@ -75,7 +74,6 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 [Kubernetes Chaos Engineering: Lessons Learned](https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned)
 
 [North Carolina, Apple negotiating deal on Triangle campus](https://www.wral.com/north-carolina-apple-negotiating-deal-on-triangle-campus-second-site-in-cary/17558985/): "Apple is close to announcing a deal that would bring as many as 10,000 jobs to North Carolina, including a major investment in the Research Triangle Park, according to multiple sources with knowledge of the deal."
-
 
 ## Tools
 

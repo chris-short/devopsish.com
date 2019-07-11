@@ -39,8 +39,6 @@ Over the past 500 years, there have been 16 cases of a rising power threatening 
 
 [What we've learned about hiring engineering managers](https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/) — A thorough but not terrible hiring process. Tell me what you think.
 
-
-
 [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) — Silvia Botros' being on being a Principal Engineer. I would go so far to say Silvia's Principal definition applies to all fields.
 
 [An Open Source Artificial Pancreas](https://lwn.net/SubscriberLink/777587/1427d9a6bda5d719/) — "Getting diagnosed with a chronic disease is 'like getting struck by lightning', [Dana Lewis] said; there is no time to prepare and you know that everything will be different from that point forward." Can confirm.
@@ -56,8 +54,6 @@ Apple **finally** took action against [Facebook](https://www.businessinsider.com
 [The key differences in DevOps for small vs. large organizations](https://opensource.com/article/19/1/devops-small-medium-large-organizations) — When embracing a DevOps mindset, does an organization's size matter?
 
 [What is GitOps and why you should know about it](https://venturebeat.com/2019/02/02/what-is-gitops-and-why-you-should-know-about-it/) — GitOps is good stuff.
-
-
 
 [Microsoft Azure data deleted because of DNS outage](https://nakedsecurity.sophos.com/2019/02/01/dns-outage-turns-tables-on-azure-database-users/) — Not a typo.
 
@@ -86,8 +82,6 @@ Apple **finally** took action against [Facebook](https://www.businessinsider.com
 [Podman can now ease the transition to Kubernetes and CRI-O](https://developers.redhat.com/blog/2019/01/29/podman-kubernetes-yaml/) — Out with Docker, in with Podman
 
 [DNS Servers You Should Have Memorized](https://danielmiessler.com/blog/dns-servers-you-should-have-memorized/) — I cannot emphasize how important it is to know a few good DNS servers.
-
-
 
 [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/) — Quick introduction to git internals for people who are not scared by words like Directed Acyclic Graph.
 

@@ -38,7 +38,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 [5 leadership lessons for 2018](https://enterprisersproject.com/article/2018/1/5-leadership-lessons-2018)
 
-
 ## Process
 
 [The Business Value of Kubernetes](http://blog.reactiveops.com/the-business-value-of-kubernetes): "Kubernetes makes things easier and more efficient for your developers to use and maintain– which gives your developers more time to focus on their product."
@@ -60,7 +59,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [AWS Open Source Blog: Cloud Native Computing](https://aws.amazon.com/blogs/opensource/cloud-native-computing/)
 
 [Recovering the productivity stolen by depression with kanban and emoji](http://jpetazzo.github.io/2017/12/24/productivity-depression-kanban-emoji/)
-
 
 ## Tools
 

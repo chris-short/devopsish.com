@@ -55,8 +55,6 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 
 {{< tweet 1072945965340872704 >}}
 
-
-
 ## Process
 
 [aws/containers-roadmap](https://github.com/aws/containers-roadmap) — This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). This is a must read.
@@ -84,8 +82,6 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 [Mark your calendar: Google Cloud Next 2019](https://cloud.google.com/blog/products/gcp/mark-your-calendar-google-cloud-next-2019)
 
 [Red Hat Sets Jan. 16, 2019, Special Meeting for Vote on Merger Agreement with IBM](https://www.redhat.com/en/about/press-releases/red-hat-sets-jan-16-2019-special-meeting-vote-merger-agreement-ibm) — The expectation is this will be a quiet event.
-
-
 
 ## Tools
 

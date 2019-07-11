@@ -60,7 +60,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [How to kill needless meetings](https://enterprisersproject.com/article/2018/4/how-kill-needless-meetings-7-tips): Stuck in recurring meeting madness? Leaders share their tips for how to have fewer, better meetings
 
-
 ## Process
 
 [Hijack of Amazon's internet domain service used to reroute web traffic for two hours unnoticed](https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f): Proving the internet is put together with bubble gum (BGP) and duct tape (DNS).
@@ -80,7 +79,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [Kubernetes best practices: Organizing with Namespaces](https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-Organizing-with-Namespaces.html)
 
 [Trust, but verify: The importance of test automation](https://about.gitlab.com/2018/04/23/test-automation-devops/): Guest author Steve Ropa explains what a Cold War era motto has to do with test automation (seriously) and bringing development and operations closer together.
-
 
 ## Tools
 

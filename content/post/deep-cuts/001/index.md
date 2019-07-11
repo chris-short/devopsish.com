@@ -23,8 +23,6 @@ This week I go over notes from [135: DevOps'ish Deep Cuts podcast, burnout, on-c
 
 [Podcast RSS](https://anchor.fm/s/c71a050/podcast/rss)
 
-
-
 ### A Side
 
 The headlines discussed in the podcast.

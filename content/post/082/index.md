@@ -77,7 +77,6 @@ Where: From your desktop, laptop, or mobile device
 
 [10 IT salary negotiation do's and don'ts](https://enterprisersproject.com/article/2018/6/10-it-salary-negotiation-dos-and-donts): Get the salary you deserve for that new job. Follow this advice on how to prepare – and how to avoid mistakes
 
-
 ## Process
 
 [Kubernetes 1.11: In-Cluster Load Balancing and CoreDNS Plugin Graduate to General Availability](https://kubernetes.io/blog/2018/06/27/kubernetes-1.11-release-announcement/)
@@ -103,7 +102,6 @@ Where: From your desktop, laptop, or mobile device
 [Gentoo Github Organization hacked](https://archives.gentoo.org/gentoo-announce/message/dc23d48d2258e1ed91599a8091167002)
 
 [Stop Scheduling Conference Calls and Finally Commit to Videoconferencing](https://hbr.org/2018/06/stop-scheduling-conference-calls-and-finally-commit-to-videoconferencing): There is an enormous benefit to seeing who you're talking to.
-
 
 ## Tools
 

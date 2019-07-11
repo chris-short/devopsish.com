@@ -38,7 +38,6 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 ![I think I'm going to start lobbying hard for less midday meetings](/037/developer-meetings.png)  
 *I think I'm going to start lobbying hard for less midday meetings*
 
-
 ## Process
 
 [Continuous Deployment Strategies](https://www.gocd.org/2017/08/15/canary-releases.html): Implementation Techniques for Canary Releases
@@ -46,7 +45,6 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 [debian-policy: Packages should be reproducible](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=844431): The recent arrival of the final pieces of the toolchain into unstable encourages Chris Lamb to propose that packages in Debian should be reproducible.
 
 [An Intro to Compilers](https://nicoleorchard.com/blog/compilers): A compiler is just a program that translates other programs.
-
 
 ## Tools
 

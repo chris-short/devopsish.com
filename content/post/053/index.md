@@ -43,7 +43,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 [Microsoft's Global Diversity and Inclusion Training](https://www.microsoft.com/en-us/diversity/training)
 
-
 ## Process
 
 [OpenEBS Sponsor CloudByte now MayaData and Launches MayaOnline at KubeCon](https://www.prnewswire.com/news-releases/openebs-sponsor-cloudbyte-now-mayadata-and-launches-mayaonline-at-kubecon-662301483.html): I'm very interested in OpenEBS after talking to the what had to be close to the entire team. The name change is pretty cool after letting it sit for a few days. It aligns company, product, and project nicely. Also, the mascot is pretty awesome.
@@ -59,7 +58,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [The road to a more usable Kubernetes](http://slides.eightypercent.net/kubecon-2017/index.html#p1) by Joe Beda (slides with notes)
 
 [What DevOps teams really need from a CIO](https://enterprisersproject.com/article/2017/12/what-devops-teams-really-need-cio)
-
 
 ## Tools
 

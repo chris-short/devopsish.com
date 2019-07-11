@@ -43,7 +43,6 @@ Nyah Check, a Software Developer from Cameroon and friend of mine has been accep
 
 [Dear Kubernetes Community](https://medium.com/@rothgar/dear-kubernetes-community-e51cbaabd419) by Justin Garrison
 
-
 ## Process
 
 [The FCC just voted to remove net neutrality protections: Here's how the decision affects consumers](https://apple.news/Ar_baFELRTdKTpKjCeU4PIw)
@@ -63,7 +62,6 @@ Nyah Check, a Software Developer from Cameroon and friend of mine has been accep
 [So you're 'agile', huh? I do not think it means what you think it means](http://www.theregister.co.uk/2017/12/11/you_say_you_are_doing_devops/)
 
 [Introducing Gremlin: Orchestrating Chaos](https://blog.gremlin.com/introducing-gremlin-orchestrating-chaos-b137b74f2371)
-
 
 ## Tools
 

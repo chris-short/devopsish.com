@@ -40,7 +40,6 @@ Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don'
 
 [My hiring experience as a submarine sonar operator in the Norwegian Navy](https://www.brautaset.org/articles/2018/submarine-sonar-hiring.html) — There are some "requirements" that are anything but required.
 
-
 ## Process
 
 [DevOps is for everyone](https://opensource.com/article/18/11/how-non-engineer-got-devops) — A non-engineer explains why you don't need to be a developer or an operations person to fall for DevOps.
@@ -62,7 +61,6 @@ Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don'
 [On the Future of Cloud Computing](https://thenewstack.io/on-the-future-of-cloud-computing/) — Simon Wardley thinks the world will become serverless.
 
 [Operations: The Last Mile Problem for Digital Transformation and DevOps](https://www.rundeck.com/blog/operations-the-last-mile-problem-for-digital-transformation-and-devops) by Damon Edwards
-
 
 ## Tools
 

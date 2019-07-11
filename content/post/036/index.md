@@ -45,7 +45,6 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 [Figuring out how to contribute to open source](https://jvns.ca/blog/2017/08/06/contributing-to-open-source/) by Julia Evans: This post isn't about "how to find small issues in open source projects to get started with open source" — instead it's about "I have a specific change I want to make to a specific project, what will help me get that done".
 
-
 ## Process
 
 [Memory Security in Go](https://cryptolosophy.io/memory-security-go/): "This post is intended as a starting point for anyone needing to manage sensitive information in Go, and as far as I can tell, this is the only post of its kind."
@@ -63,7 +62,6 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 [Jenkins Security Advisory 2017–08–07](https://jenkins.io/security/advisory/2017-08-07/): Hide yo kids, patch yo Jenkins!
 
 [Learning at work by Julia Evans](https://jvns.ca/blog/2017/08/06/learning-at-work/): "Here are some things me & people on twitter came up with. Everything in here is stuff I can do during my workday."
-
 
 ## Tools
 

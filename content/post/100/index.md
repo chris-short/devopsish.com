@@ -40,7 +40,6 @@ StitchFix delivers stylist-picked clothes to you with free shipping & returns. I
 
 [Kubernetes Regional Discussions](https://discuss.kubernetes.io/c/regional-discussions): The Regional Discussions Category is intended for those users that belong to a specific region or share a common language to openly interact and connect with each other in their native language.
 
-
 ## Process
 
 [**DevOps'ish IBM Red Hat Acquisition Index**](/ibm-red-hat-acquisition-index/): The intention of a DevOps'ish Index is to provide a routinely updated one-stop shop for opinion, analysis, and/or coverage of a complex topic or historical event.
@@ -70,7 +69,6 @@ StitchFix delivers stylist-picked clothes to you with free shipping & returns. I
 [A Large Scale Study of Data Center Network Reliability](https://people.inf.ethz.ch/omutlu/pub/data-center-network-errors-at-facebook_imc18.pdf) PDF
 
 [Yet Another Look at Cloud-Native Apps Architecture](http://blog.grapeup.com/read/yet-another-look-at-cloud-native-apps-architecture-33): "Next time when you design your, hopefully, cloud-native app, bear these guidelines in mind."
-
 
 ## Tools
 

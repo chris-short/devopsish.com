@@ -54,7 +54,6 @@ Ashley McNamara led Microsoft Azure OpenDev and [the entire event is available f
 
 [DevOps In Politics](https://www.devopsdays.org/events/2017-seattle/program/nell-shamrell-harrington/): Working technology for a political campaign involves the shortest timelines, tightest deadlines, and highest stakes you will likely ever encounter in a technology career.
 
-
 ## Process
 
 [Stop supporting old releases](https://medium.com/@mikeal/stop-supporting-old-releases-70cfa0e04b0c): A call to action for maintainers to support themselves and move forward.
@@ -72,7 +71,6 @@ Ashley McNamara led Microsoft Azure OpenDev and [the entire event is available f
 [Writing a 9P server from scratch](https://blog.aqwari.net/9p/)
 
 [Google Developer Documentation Style Guide](https://developers.google.com/style/)
-
 
 ## Tools
 

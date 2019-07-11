@@ -70,7 +70,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 ['Elitist den of hate': Silicon Valley pastor decries hypocrisy of area's rich liberals](https://www.theguardian.com/technology/2018/may/22/silicon-valley-pastor-gregory-stevens-wealth-liberals): Gregory Stevens resigns after tweets about Palo Alto, slamming tech industry greed and empty social justice promises
 
-
 ## Process
 
 [Observability+](https://medium.com/observability): A fantastic site about all things observability from the brilliant JBD.
@@ -98,7 +97,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [Kubernetes best practices: terminating with grace](https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-terminating-with-grace.html): "When it comes to distributed systems, handling failure is key."
 
 [Your Success with Enterprise Kubernetes Isn't About Kubernetes](https://medium.com/google-cloud/your-success-with-enterprise-kubernetes-isnt-about-kubernetes-1c2b18dedc9): Running like Google is more than Kubernetes products or a nice UI.
-
 
 ## Tools
 

@@ -38,7 +38,6 @@ We are about a month away from [**DevOpsDay Raleigh**](https://www.devopsdays.or
 
 [Everyone is not Ops](https://medium.com/@cindysridharan/the-death-of-ops-is-greatly-exaggerated-ff3bd4a67f24): The pragmatic middle-ground
 
-
 ## Process
 
 [A Rant on Usable Security by Jessie Frazelle](https://blog.jessfraz.com/post/a-rant-on-usable-security/): Security is hard but, it can be so much better.
@@ -50,7 +49,6 @@ We are about a month away from [**DevOpsDay Raleigh**](https://www.devopsdays.or
 [New Bill Seeks Basic IoT Security Standards](http://krebsonsecurity.com/2017/08/new-bill-seeks-basic-iot-security-standards/): Lawmakers in the U.S. Senate today introduced a bill that would set baseline security standards for the government's purchase and use of a broad range of Internet-connected devices, including computers, routers and security cameras.
 
 [Symantec offloads its certs and web security biz to DigiCert](https://www.theregister.co.uk/2017/08/03/symantec_q1_2018/): Symantec sold its Website Security and related PKI solutions to DigiCert, effectively making its spat with Mozilla and Google someone else's problem.
-
 
 ## Tools
 

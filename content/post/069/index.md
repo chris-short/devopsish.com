@@ -53,7 +53,6 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [Through the looking glass: Security and the SRE](https://opensource.com/article/18/3/through-looking-glass-security-sre): It's time to take a more proactive approach to system security. Here's how chaos engineering can play a key role.
 
-
 ## Process
 
 [GitLab's Journey to Cloud Native: Breaking the monolith and scaling for tomorrow](https://docs.google.com/presentation/d/1fsgvSuGpn-MnMqKaTOoiRvUvdJFHd3VpoAAfBoMtFYg/mobilepresent?slide=id.g2823c3f9ca_0_9) (SLIDESHOW)
@@ -73,7 +72,6 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 [All AWS Services GDPR ready](https://aws.amazon.com/blogs/security/all-aws-services-gdpr-ready/): AWS services comply with the General Data Protection Regulation (GDPR)
 
 [GoDaddy signs multiyear deal with Amazon Web Services for 'vast majority' of its computing infrastructure](https://www.geekwire.com/2018/godaddy-signs-multiyear-deal-amazon-web-services-vast-majority-computing-infrastructure/): GoDaddy's new tagline should be: "GoDaddy: AWS run poorly so you don't have to!"
-
 
 ## Tools
 

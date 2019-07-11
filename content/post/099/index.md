@@ -58,7 +58,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [What is a site reliability engineer and why you should consider this career path](https://opensource.com/article/18/10/what-site-reliability-engineer): If you want a challenging, in-demand role that goes beyond DevOps, consider becoming an SRE.
 
-
 ## Process
 
 [SQLite Code of Conduct Sparks Outrage in Dev Community](https://dzone.com/articles/sqlite-code-of-conduct-sparks-outrage-in-the-dev-c): Members of the dev community are shocked by the latest SQLite Code of Conduct found on their website.
@@ -82,7 +81,6 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 [Amazon's move off Oracle caused Prime Day outage in one of its biggest warehouses, internal report says](https://www.cnbc.com/2018/10/23/amazon-move-off-oracle-caused-prime-day-outage-in-warehouse.html): Amazon's move off Oracle's database software was the main reason for an outage in one of its biggest warehouses on Prime Day, according to internal documents obtained by CNBC.
 
 [Why IT Ticketing Systems Don't Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
-
 
 ## Tools
 

@@ -69,7 +69,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [github-drama](https://nikolas.github.io/github-drama/): A curated collection of "dramatic" github interactions.
 
-
 ## Process
 
 [Is the term DevSecOps necessary?](https://opensource.com/article/18/4/devsecops) As more companies adopt cloud technologies and containerization, security must be tightly integrated throughout the entire infrastructure.
@@ -87,7 +86,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 [Open Source, What a Concept!](http://www.projectatomic.io/blog/2018/04/open-source-what-a-concept/): This article discusses how buildah devs diagnosed and fixed a bug the open source way.
 
 [Set Up Docker For Mac with Native NFS](https://medium.com/@sean.handley/how-to-set-up-docker-for-mac-with-native-nfs-145151458adc): If you need it, NFS is there.
-
 
 ## Tools
 

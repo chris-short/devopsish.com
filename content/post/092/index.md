@@ -53,7 +53,6 @@ Learn how to develop and push your apps to Kubernetes in our Office Hours every 
 
 [4 dying IT jobs](https://enterprisersproject.com/article/2018/9/4-dying-it-jobs): R.I.P. project managers and sysadmins? IT recruiters say these roles are vanishing due to factors including AI and DevOps
 
-
 ## Process
 
 [How We Massively Reduced Our AWS Lambda Bill With Go](https://runbook.cloud/blog/posts/how-we-massively-reduced-our-aws-lambda-bill-with-go/): "Serverless functions should almost always be a single thread, single task"
@@ -77,7 +76,6 @@ Learn how to develop and push your apps to Kubernetes in our Office Hours every 
 [Updated: Microsoft Azure's southern U.S. data center goes down for hours, impacting Office365 and Active Directory customers](https://www.geekwire.com/2018/microsoft-azures-southern-u-s-data-center-goes-hours-impacting-office365-active-directory-customers/)
 
 [The Hidden Benefit of Giving Back to Open Source Software](https://hbswk.hbs.edu/item/the-hidden-benefit-of-giving-back-to-open-source-software): Firms that allow their software programmers to "give back" to the open source community on company time gain benefits—even though competitors might benefit too, says Frank Nagle.
-
 
 ## Tools
 

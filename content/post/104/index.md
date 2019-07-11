@@ -52,7 +52,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [Twitter: Friend or Foe? (Episode 30)](http://communitypulse.io/30-twitter/) — "Twitter, Facebook, Instagram, LinkedIn…these are all major parts of what we use every day to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?"
 
-
 ## Process
 
 [Dell Systems Hacked to Steal Customer Information](https://www.bleepingcomputer.com/news/security/dell-systems-hacked-to-steal-customer-information/) — To which Marriott said, "Hang on. Hold my beer."
@@ -83,7 +82,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [The don'ts of software engineering](https://www.imaginarycloud.com/blog/the-donts-of-software-engineering/) — Some pretty obvious ones but if you have some new folks on your team it's a good read.
 
-
 ## Tools
 
 [What, No Python in RHEL 8 Beta?](https://developers.redhat.com/blog/2018/11/27/what-no-python-in-rhel-8-beta/) — "Ideally, people will get used to explicitly typing python3 or python2. However for those that want an unversioned command,  let them chose from the beginning which version of Python they actually want. So, yum install python results in a 404." `yum install @python36` or `yum install @python27` are your friends in RHEL 8. There is also a [system-level Python installed](https://www.ansible.com/blog/integrating-ansible-and-red-hat-enterprise-linux-8-beta) (for things like system tools and Ansible).
@@ -103,7 +101,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 [Kubernetes essential guide: 10 must-reads](https://enterprisersproject.com/kubernetes-guide) — Kubernetes, containers, and automation have become crucial to IT goals – and practically beg for continuous learning. Consider this a mini-class
 
 [CI/CD with Rancher Pipelines and Self-hosted GitLab](https://blog.kubernauts.io/ci-cd-with-rancher-pipelines-and-self-hosted-gitlab-b17248294fda)
-
 
 [Cluster DNS: CoreDNS vs Kube-DNS](https://coredns.io/2018/11/27/cluster-dns-coredns-vs-kube-dns/) — CoreDNS > Kube-DNS. Believe it, we've been using a CoreDNS based DNS solution for a while here in the Short household. You probably should too (and yes, it's a full-fledged DNS server).
 

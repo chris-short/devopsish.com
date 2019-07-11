@@ -53,7 +53,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 [Lightning Talk on How To Jump Start a Career in Open Source (video)](http://www.schabell.org/2018/12/all-things-open-2018-lightning-talk-video.html)
 {{< youtube LQ2BYca8u48 >}}
 
-
 ## Process
 
 [The Results are in ... The State of K8s 2018](https://blog.heptio.com/the-results-are-in-the-state-of-k8s-2018-d25e54819416) — Heptio dives into the state of Kubernetes
@@ -76,7 +75,6 @@ Vulnerabilities, Attacks, and Countermeasures (PDF)](https://arxiv.org/pdf/1811.
 [A Collection of Well-Known Software Failures](http://www.cse.psu.edu/~gxt29/bug/softwarebug.html)
 
 [Dell Systems Hacked to Steal Customer Information](https://www.bleepingcomputer.com/news/security/dell-systems-hacked-to-steal-customer-information/)
-
 
 ## Tools
 

@@ -59,7 +59,6 @@ Vladimir Vivien: [Twitter](https://twitter.com/VladimirVivien) [LinkedIn](https:
 
 [FCC chair gets 'courage under fire' award for overseeing net neutrality repeal](https://www.cnn.com/2018/02/23/politics/ajit-pai-nra-cpac-award/index.html): The FCC Chairman was given an award by the NRA this week...
 
-
 ## Process
 
 [Lessons from the Cryptojacking Attack at Tesla](https://blog.redlock.io/cryptojacking-tesla): Hackers infiltrated Tesla Kubernetes consoles that were not password protected, took AWS credentials, began crypto-mining; issue now fixed
@@ -81,7 +80,6 @@ Vladimir Vivien: [Twitter](https://twitter.com/VladimirVivien) [LinkedIn](https:
 [Securing your Linux web server](https://hackernoon.com/securing-your-linux-web-server-2be683c223eb): Going back to basics every once in a while is a good thing.
 
 [Cloud Native Computing Foundation Announces Keynotes and Full Agenda for KubeCon + CloudNativeCon Europe in Copenhagen](http://www.cncf.io/announcement/2018/02/20/cloud-native-computing-foundation-announces-keynotes-full-agenda-kubecon-cloudnativecon-europe-copenhagen)
-
 
 ## Tools
 

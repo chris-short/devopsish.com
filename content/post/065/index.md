@@ -51,7 +51,6 @@ March 9, 2018
 
 [Join Gremlin's New Community](https://www.gremlin.com/join-our-new-community-tutorials-talks-slack-meetups/): Tutorials, Talks, Slack & Meetups
 
-
 ## Process
 
 [On Securing the Kubernetes Dashboard](https://blog.heptio.com/on-securing-the-kubernetes-dashboard-16b09b1b7aca) by Joe Beda of Heptio
@@ -69,7 +68,6 @@ March 9, 2018
 [How to build a business case for DevOps transformation](https://opensource.com/article/18/2/how-build-business-case-devops-transformation): Support the need for a DevOps transformation by focusing on the business benefits, not the technology.
 
 [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
-
 
 ## Tools
 

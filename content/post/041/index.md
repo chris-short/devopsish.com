@@ -48,7 +48,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [DevOpsDays Raleigh 2017 Book Club](/devopsdays-raleigh-2017-book-club/): As part of the Open Spaces at DevOpsDays Raleigh, the group decided to do a "Book Club" to share interesting books, podcasts, etc.
 
-
 ## Process
 
 [DevOps Insights: 9 Lessons from our Customers](https://blog.openshift.com/devops-insight-9-lessons-from-our-customers/): Lessons directly from companies that have implemented the technologies, process and culture, and demonstrated significant impact to their businesses.
@@ -60,7 +59,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 [Deploying ASP.NET Core apps on Kubernetes/Container Engine](https://meteatamel.wordpress.com/2017/09/11/deploying-asp-net-core-apps-on-kubernetescontainer-engine/)
 
 [Chrome's Plan to Distrust Symantec Certificates](https://security.googleblog.com/2017/09/chromes-plan-to-distrust-symantec.html#)
-
 
 ## Tools
 

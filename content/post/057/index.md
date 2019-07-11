@@ -51,7 +51,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 [2017 SRE & DevOps Influencers](https://robhirschfeld.com/2018/01/01/2017-sre-devops-influencers/)
 
-
 ## Process
 
 [Docker, Inc isn't Dead](https://blog.iron.io/docker-inc-isnt-dead/): Dylan Stamat of iron.io responded to my [**Docker Inc is Dead**](https://chrisshort.net/docker-inc-is-dead/) story. I'm not quite sure Dylan's response is outright disproving anything I wrote (it might actually reinforce it) but, it's interesting to see opposing opinions.
@@ -67,7 +66,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [The future of DevOps is mastery of multi-cloud environments](https://opensource.com/article/18/1/future-devops)
 
 [It's 2018 and your Docker containers need to be secure](https://blog.cloudpassage.com/2018/01/02/2018-docker-containers-need-secure/)
-
 
 ## Tools
 

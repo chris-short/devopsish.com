@@ -45,7 +45,6 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 
 [Just How Bad Is Business Travel for Your Health? Here's the Data.](https://hbr.org/2018/05/just-how-bad-is-business-travel-for-your-health-heres-the-data): Yep. Business travel is terrible for you.
 
-
 ## Process
 
 [Netflix suffers first massive global outage](https://news.alphastreet.com/netflix-suffers-first-massive-global-outage/): The good news is that this isn't a critical service. The bad news is Netflix has a ton of engineers, code, and processes in place to prevent this sort of thing from happening. This. Shit. Is. Hard.
@@ -69,7 +68,6 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 [How to Prevent Your Users from Using Breached Passwords](https://developer.okta.com/blog/2018/06/11/how-to-prevent-your-users-from-using-breached-passwords): "The new NIST recommendations mean that every time a user gives you a password, it's your responsibility as a developer to check their password against a list of breached passwords and prevent the user from using a previously breached password."
 
 [How Spotify is migrating from an in-house Docker orchestration platform to Kubernetes](https://www.ciodive.com/news/how-spotify-is-migrating-from-an-in-house-docker-orchestration-platform-to/525465/): The company started small, experimenting with a few services on Kubernetes clusters then moving up to more complex workloads and self-service migration.
-
 
 ## Tools
 

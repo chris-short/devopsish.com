@@ -44,7 +44,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 [How to be a stronger DevOps leader: 9 tips](https://enterprisersproject.com/article/2018/7/how-be-stronger-devops-leader-9-tips): Want to lead your DevOps team to new heights? IT leaders and DevOps experts share steps to take in the realms of talent, measurement, vision, and IT culture
 
-
 ## Process
 
 [Cisco plans to acquire cybersecurity firm Duo Security for $2.35 billion](https://www.cnbc.com/2018/08/02/cisco-buys-security-start-up.html): Seth Vargo [sums up this news perfectly](https://twitter.com/sethvargo/status/1025082176788987905), "While I'm excited for the humans involved in the Duo acquisition, I'm deeply concerned about what this means for the security space. A lot of companies have built their security postures around Duo, and Cisco has allowed foreign governments to install backdoors." I immediately crossed Duo off the list of places I'd be willing to work when I saw the announcement (which sucks because they're local).
@@ -70,7 +69,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 [Observerless: The hottest new thing in monitoring you're already doing](https://weekly.monitoring.love/library/observerless/)
 
 [DevOps At Nike: There Is No Finish Line](https://itrevolution.com/devops-at-nike/)
-
 
 ## Tools
 

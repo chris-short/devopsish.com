@@ -48,7 +48,6 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [Go: Ten years and climbing](https://commandcenter.blogspot.com/2017/09/go-ten-years-and-climbing.html)
 
-
 ## Process
 
 As mentioned in [DevOps'ish 037](/037/), MongoDB, a database software company based in New York, [has filed to go public with the Securities and Exchange Commission](https://techcrunch.com/2017/09/21/database-provider-mongodb-has-filed-to-go-public/)
@@ -60,7 +59,6 @@ As mentioned in [DevOps'ish 037](/037/), MongoDB, a database software company ba
 [Proposal: Just Use Github #21956](https://github.com/golang/go/issues/21956)
 
 [Red Hat Announces Broad Expansion to Open Source Patent Promise](https://www.redhat.com/en/about/patent-promise)
-
 
 ## Tools
 

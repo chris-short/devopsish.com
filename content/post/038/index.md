@@ -46,7 +46,6 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 
 [Melinda Gates: I spent my career in technology. I wasn't prepared for its effect on my kids.](https://www.washingtonpost.com/news/parenting/wp/2017/08/24/melinda-gates-i-spent-my-career-in-technology-i-wasnt-prepared-for-its-effect-on-my-kids/?utm_term=.9dd6ec14df13)
 
-
 ## Process
 
 [Building a CI system for Go, with Jenkins](https://medium.com/@zarkopafilis/building-a-ci-system-for-go-with-jenkins-4ab04d4bacd0): Post on what was performed in order to setup a Jenkins CI pipeline for a new Go project.
@@ -54,7 +53,6 @@ To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/
 [Red Hat and Microsoft Simplify Containers to Help Enterprises Accelerate to the Hybrid Cloud](https://www.redhat.com/en/about/press-releases/red-hat-and-microsoft-simplify-containers-help-enterprises-accelerate-hybrid-cloud): What a time to be alive!
 
 [The Zen of PGP](https://medium.com/@thegrugq/the-zen-of-pgp-6f55d44657dd): A Pragmatic Approach
-
 
 ## Tools
 

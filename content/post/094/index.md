@@ -56,7 +56,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [OK, Google](https://medium.com/@nathenharvey/ok-google-95fa8617293f): Nathen goes to Google
 
-
 ## Process
 
 [My Notes for Certified Kubernetes Application Developer — Part 1, Core Concepts](https://medium.com/@elliot_f/my-notes-for-certified-kubernetes-application-developer-part-1-core-concepts-d1bab7bc2446): "This won't be a comprehensive view of Kubernetes, but it should give anyone reading it a solid-enough grounding to base their own studies off of."
@@ -80,7 +79,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 [Is cloud native starting to kill Hadoop? This CTO says yes](https://siliconangle.com/2018/09/20/cloud-native-starting-kill-hadoop-cto-says-yes-cubenyc/): "Yaron Haviv, founder and chief technology officer of Iguazio Systems Ltd, believes that Hadoop may be outmaneuvered in the future with other solutions."
 
 [CRI-O is now our default container runtime interface](https://kubic.opensuse.org/blog/2018-09-17-crio-default/): "We're really excited to announce that as of today, we now officially supports the CRI-O Container Runtime Interface as our default way of interfacing with containers on your Kubic systems!"
-
 
 ## Tools
 

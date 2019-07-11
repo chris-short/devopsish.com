@@ -44,7 +44,6 @@ Operations teams have seen major benefits from DevOps. Now those benefits are ex
 
 [Ex-Microsoft employee sues company and former manager for gender discrimination](https://www.geekwire.com/2018/ex-microsoft-employee-sues-company-former-manager-gender-discrimination/) — It's like I said last week, "If you're not in turmoil and you're at a tech company consider yourself lucky."
 
-
 ## Process
 
 [Amazon is reportedly planning on crowning 2 HQ2 winners, with 2 new headquarters in separate locations](https://www.businessinsider.com/amazon-hq2-two-cities-separate-report-2018-11) — Normally, I'd congratulate the two winning cities but, I feel like this is a shitstorm in the making.
@@ -66,7 +65,6 @@ Operations teams have seen major benefits from DevOps. Now those benefits are ex
 [We don' need no stinkin' bounties: VirtualBox guest-to-host escape zero-day lands at GitHub](https://www.theregister.co.uk/2018/11/07/virtualbox_0day_github/) — Bug hunter rages at wearisome disclosure process
 
 [TriggerMesh, with Sebastien Goasguen](https://kubernetespodcast.com/episode/028-triggermesh/) — "[TriggerMesh](https://triggermesh.com/) is a new serverless management platform built on top of Knative. Co-founder Sebastien Goasguen joins Adam and Craig to discuss serverless, and potential trips to space."
-
 
 ## Tools
 

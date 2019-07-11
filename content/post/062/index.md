@@ -53,7 +53,6 @@ My friend, [Tammy Butow](http://tammybutow.com/), also of Gremlin, will be speak
 
 [Russian nuclear scientists arrested for 'Bitcoin mining plot'](http://www.bbc.com/news/world-europe-43003740): Who needs nukes when you can have Bitcoin?
 
-
 ## Process
 
 [When building a DevOps culture, go slowly and don't force it](http://devopsagenda.techtarget.com/opinion/When-building-a-DevOps-culture-go-slowly-and-dont-force-it)
@@ -71,7 +70,6 @@ My friend, [Tammy Butow](http://tammybutow.com/), also of Gremlin, will be speak
 [When to use Serverless? When to use Kubernetes?](http://heidloff.net/article/when-to-use-serverless-kubernetes)
 
 [Open Source and Standards Team: How Red Hat Measures Open Source Success](https://www.linuxfoundation.org/blog/open-source-standards-team-red-hat-measures-open-source-success/)
-
 
 ## Tools
 

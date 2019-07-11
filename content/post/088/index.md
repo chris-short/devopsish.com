@@ -43,7 +43,6 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 [The Obscene Coupling Known as Spaghetti Code](https://queue.acm.org/detail.cfm?ref=rss&id=3265943): Teach your junior programmers how to read code
 
-
 ## Process
 
 [How to Win at Cloud Native Migrations](https://blog.tidalmigrations.com/how-to-win-at-cloud-native-migrations-ab68abff4671): Start small, hit low hanging fruit first, and then expand.
@@ -76,7 +75,6 @@ The expanding role that business leaders expect from IT comes with many challeng
 [Satellite Turla: APT Command and Control in the Sky](https://securelist.com/satellite-turla-apt-command-and-control-in-the-sky/72081/): How the Turla operators hijack satellite Internet links
 
 [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics): "Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good. The ACM Code of Ethics and Professional Conduct ("the Code") expresses the conscience of the profession."
-
 
 ## Tools
 

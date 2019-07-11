@@ -31,7 +31,6 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 
 [Devops Turbo Encabulator](https://youtu.be/iCPOWHgUKyo) from John Willis
 
-
 ## Process
 
 [CoreOS](https://coreos.com/blog/coreos-agrees-to-join-red-hat/) is being acquired by [Red Hat](https://www.redhat.com/en/about/press-releases/red-hat-acquire-coreos-expanding-its-kubernetes-and-containers-leadership) for $250 million! However, people in the community are holding judgment on if this is a good thing. [Container Linux will stick around](https://groups.google.com/forum/#!topic/coreos-user/GR4YlF2c1dM). But, the Openshift team fired off [an ill-advised tweet that was later removed](http://web.archive.org/web/20180131115004/https://twitter.com/openshift/status/958454802605846528). The tweet stated, "With the acquisition of CoreOS, Red Hat engineers now Lead or Co-Lead 15 Kubernetes SIGs." As [Joseph Jacks pointed out](https://twitter.com/i/web/status/958494559347986433), "This should be a call for broader community participation to avoid single-vendor concentration." I couldn't agree more. I now believe Google and Red Hat have WAY too much power in the Kubernetes ecosystem. But, It's better than just Google OR Red Hat having too much power.
@@ -60,7 +59,6 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 [RFC-8314: Use of Transport Layer Security (TLS) for Email Submission and Access](https://tools.ietf.org/html/rfc8314)
 
 [CNCF to Host the Rook Project to Further Cloud-Native Storage Capabilities](https://www.cncf.io/blog/2018/01/29/cncf-host-rook-project-cloud-native-storage-capabilities/)
-
 
 ## Tools
 

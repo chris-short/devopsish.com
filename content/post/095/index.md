@@ -41,8 +41,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 [Lyft unveils second annual diversity report](https://techcrunch.com/2018/09/28/lyft-unveils-second-annual-diversity-report/): Not bad given the rapid growth. But, still, work to be done.
 
-
-
 ## Process
 
 [5 red flags in the Instagram founders' goodbye letter to Facebook that make it obvious there's bad blood](https://www.businessinsider.com/instagram-founder-kevin-systrom-goodbye-letter-clues-facebook-breakup-2018-9): How you resign matters. Also, if you want an example of throwing a hand grenade in an envelope and sending it to Zuck, this is it.
@@ -70,8 +68,6 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 [A Silicon Valley Start-Up That Loves the Pentagon](https://foreignpolicy.com/2018/09/26/a-silicon-valley-startup-that-loves-the-pentagon-hivemapper-dod-google/): Google may balk at military contracts, but Hivemapper founder Ariel Seidman believes working with the U.S. Defense Department can help save lives.
 
 [Former Google CEO predicts the internet will split in two  — and one part will be led by China](https://www.cnbc.com/2018/09/20/eric-schmidt-ex-google-ceo-predicts-internet-split-china.html): To be honest, I think this has already happened. While the Internet is still whole it's nearly impossible for a Chinese citizen to legally see anything outside of what China allows. Foreign businesses also can't wholly own their presence in China and must use a partner (who is likely in bed with government). This isn't a matter of if when the split occurs but whether or not that split will speed up or not.
-
-
 
 ## Tools
 

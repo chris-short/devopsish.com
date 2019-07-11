@@ -41,7 +41,6 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 [A Brief History of DevOps, Part I: Waterfall](https://circleci.com/blog/a-brief-history-of-devops-part-i-waterfall/): "When software development was still young, engineers modeled their work on the hardware world."
 
-
 ## Process
 
 [Redis modules and the Commons Clause](https://lwn.net/SubscriberLink/763179/d7a76bd0885f162f/): Redis threw a flashbang in the room, closed the door, and walked away. A fumbled announcement of a "Commons Clause" license being added to Redis Labs products, a clarification/walk back, and a whirlwind of [navel](https://anonymoushash.vmbrasseur.com/2018/08/21/redis-labs-and-the-questionable-business-decision/) [gazing](https://medium.com/@michaeldehaan/why-open-source-needs-new-licenses-d2d9d819a10) from the open source software world. In my professional opinion, this is a clusterfuck.
@@ -81,7 +80,6 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 [Someone Is Waging a Secret War to Undermine the Pentagon's Huge Cloud Contract](https://www.defenseone.com/technology/2018/08/someone-waging-secret-war-undermine-pentagons-huge-cloud-contract/150685/)
 
 [Pentagon Amends JEDI Contract, Moves Forward Despite Protest](https://www.nextgov.com/it-modernization/2018/08/pentagon-amends-jedi-contract-moves-forward-despite-protest/150808/)
-
 
 ## Tools
 

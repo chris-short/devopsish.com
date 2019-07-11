@@ -63,7 +63,6 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 
 [SRE Anti-Pattern: "I Could Fix It, If I Could Get To It"](https://www.rundeck.com/blog/sre-anti-pattern-i-could-fix-it-if-i-could-get-to-it): "The common enterprise problem of disjointed access. Often the people responding to an incident are blocked from taking the required recovery actions even though they have the first-hand knowledge and experience needed to know what to do."
 
-
 ## Process
 
 [Plex Shuts Down Its Cloud Service](https://variety.com/2018/digital/news/plex-cloud-shutting-down-1202936840/): Compute heavy SaaS offerings isn't a good idea for a consumer level product it seems.
@@ -103,7 +102,6 @@ Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](h
 [Tragedy of the Commons Clause](https://redmonk.com/sogrady/2018/09/10/tragedy-of-the-commons-clause/): Oh this horse isn't dead yet?
 
 [Building + testing open source monitoring tools](https://blog.sensu.io/building-testing-open-source-monitoring-tools): A lot of testing talk. Very useful if you've ever wondered what a standard testing business unit should be doing.
-
 
 ## Tools
 

@@ -51,8 +51,6 @@ I'm going to add this new top five from the previous newsletter. Hit reply and t
 
 [Kolton Andrus, Gremlin Inc on On-Call Nightmares Podcast](https://www.podomatic.com/podcasts/oncallnightmares/episodes/2019-01-10T07_28_49-08_00) — Kolton is the CEO of chaos engineering firm Gremlin, Inc.
 
-
-
 [Jenn's Guide to Thriving in Tech](https://dev.to/geekgalgroks/jenns-guide-to-thriving-in-tech-4k91) — A well-rounded list of things to do to be successful in tech. One thing I need to work on is time boxing research.
 
 [Mainframe brains-slurper sues IBM for 'age discrim', calls Ginny and biz 'morally bankrupt'](https://www.theregister.co.uk/2019/01/07/ibm_age_discrimination_lawsuit/) — This is disturbing to me because I think we all knew it was happening. But, no one could really do anything about it at the time.
@@ -66,8 +64,6 @@ I'm going to add this new top five from the previous newsletter. Hit reply and t
 [Production Guideline](https://medium.com/@rakyll/production-guideline-9d5d10c8f1e) — JBD gives us an absolutely fantastic list of things to go through before making it to production.
 
 [IBM Began Buying Red Hat 20 Years Ago](https://www.linuxjournal.com/content/ibm-began-buying-red-hat-20-years-ago)
-
-
 
 [Cloud Native Apps Need to be Managed in a Completely New Way](https://thenewstack.io/cloud-native-apps-need-to-be-managed-in-a-completely-new-way/) — Always be shifting left.
 
@@ -93,8 +89,6 @@ I'm going to add this new top five from the previous newsletter. Hit reply and t
 
 [Scaling Jupyter notebooks with Kubernetes and Tensorflow](https://learnk8s.io/blog/scaling-machine-learning-with-kubeflow-tensorflow)
 
-
-
 [How to set up a Let's Encrypt SSL Cert for Azure Web App with Linux in 5 steps](https://jessicadeen.com/how-to-manually-setup-a-lets-encrypt-ssl-cert-for-azure-web-app-with-linux/) — "Have you ever wondered how you take a free Let's Encrypt Certificate and use it with an Azure Web App (Linux)? This post is for you!"
 
 [Google Adds DNS-over-TLS Support to Its Public DNS Service](https://www.bleepingcomputer.com/news/google/google-adds-dns-over-tls-support-to-its-public-dns-service/) — This will come in handy.
@@ -109,8 +103,6 @@ I'm going to add this new top five from the previous newsletter. Hit reply and t
 
 [Git Explorer](https://gitexplorer.com/) — Find the right commands you need without digging through the web.
 
-
-
 [A YubiKey for iOS Will Soon Free Your iPhone From Passwords](https://www.wired.com/story/yubikey-lightning-ios-authentication-passwords/) — iOS will need some work to make this happen. But, I literally can't wait to be done with passwords.
 
 [Update Elastic Stack with Ansible Playbooks](https://www.toptal.com/ansible/update-elastic-stack-ansible-playbooks)
@@ -122,8 +114,6 @@ I'm going to add this new top five from the previous newsletter. Hit reply and t
 [Introduction to eBPF in Red Hat Enterprise Linux 7](https://www.redhat.com/en/blog/introduction-ebpf-red-hat-enterprise-linux-7) — eBPF, y'all.
 
 [What's New in Ansible Tower 3.4](https://www.ansible.com/blog/whats-new-in-ansible-tower-3.4) — "We're most excited about workflows enhancements, job slices, and some other nifty features." Here's [an interview with one of my all time fav PMs, Bill Nottingham](https://devops.com/red-hat-adds-support-for-nested-workflows-to-ansible-automation-framework/), about this release.
-
-
 
 [Courier: Dropbox migration to gRPC](https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/)
 

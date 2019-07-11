@@ -56,7 +56,6 @@ Discover how you can get greater visibility into how and where you're being atta
 
 [This Chemical Is So Hot It Destroys Nerve Endings—in a Good Way](https://www.wired.com/story/resiniferatoxin/) — Wired stories like this give me a lot of hope. If you know  anyone working with RTX, have them give me a call. I've got some periphery nerve damage they can test.
 
-
 ## Process
 
 [Google Kubernetes Engine's third consecutive day of service disruption](https://news.ycombinator.com/item?id=18428497) — Running complex systems at enormous scale is hard work. If something goes wrong it has high chance of escalating into a very big problem very quickly. Thankfully, I was not impacted by this in a significant way because I do not put all my eggs in any one provider's basket.
@@ -96,7 +95,6 @@ Discover how you can get greater visibility into how and where you're being atta
 [Corporate America's blockchain and bitcoin fever is over](https://www.axios.com/corporate-america-blockchain-bitcoin-fervor-over-fb13bc5c-81fd-4c12-8a7b-07ad107817ca.html) — S&P 500 executives are dropping blockchain buzzwords less on earnings calls and during presentations to analysts and investors. Analysts are also asking about it less.
 
 [Salesforce makes undisclosed “strategic investment” in Docker, companies will cross-sell MuleSoft and Docker Enterprise](https://www.geekwire.com/2018/salesforce-makes-undisclosed-strategic-investment-docker-companies-will-cross-sell-mulesoft-docker-enterprise/) 👀
-
 
 ## Tools
 

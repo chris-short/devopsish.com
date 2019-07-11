@@ -60,7 +60,6 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 [The Subtle Sexism Of Your Open Plan Office](https://www.fastcodesign.com/90170941/the-subtle-sexism-of-your-open-plan-office): A remarkable new study documents the experiences of women in an open office designed by men.
 
-
 ## Process
 
 [SRE vs. DevOps: competing standards or close friends?](https://cloudplatform.googleblog.com/2018/05/SRE-vs-DevOps-competing-standards-or-close-friends.html): There is a lot more in common with DevOps and SRE than most people think. In my opinion, SRE is the codification of acceptable risk, performance, and contribution of work towards metrics. Both require organizational buy-in. One statement I think applies across the board is, "Encourage moving quickly by reducing costs of failure." You can't accelerate software deployments without this thinking. I have been saying this for a very long time. SRE and DevOps are both ultimately trying to do the same thing; make software development and delivery be enjoyable.
@@ -86,7 +85,6 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 [Defining SLOs for services with dependencies - CRE life lessons](https://cloudplatform.googleblog.com/2018/05/Defining-SLOs-for-services-with-dependencies-CRE-life-lessons.html): "Discussion on how to define and manage SLOs for services with dependencies, each of which may (or may not!) have their own SLOs."
 
 [Tesla's Factory in a Fishbowl](https://www.wsj.com/articles/teslas-factory-in-a-fishbowl-1525716237): All eyes are on the electric-car maker's production process, which is akin to that of a software company
-
 
 ## Tools
 

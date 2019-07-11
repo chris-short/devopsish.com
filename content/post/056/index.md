@@ -41,7 +41,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 [How I learned to program](https://danluu.com/learning-to-program/)
 
-
 ## Process
 
 [Nation-State Hacking: 2017 in Review](https://www.eff.org/deeplinks/2017/12/2017-year-nation-state-hacking)
@@ -49,7 +48,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [New York State Eyes Its Own Net Neutrality Law](http://www.techdirt.com/articles/20171226/10390638883/new-york-state-eyes-own-net-neutrality-law.shtml)
 
 [How "expensive" is crypto anyway?](https://medium.com/cloudflare-blog/how-expensive-is-crypto-anyway-920d08fe71ee)
-
 
 ## Tools
 
