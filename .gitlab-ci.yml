@@ -46,7 +46,7 @@ build-production:
 deploy-preview:
   stage: deploy
   environment:
-    name: production
+    name: preview
     url: https://preview.${CI_PROJECT_NAME}
   image: quay.io/chrisshort/firebase:latest
   before_script:
