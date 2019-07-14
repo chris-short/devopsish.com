@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-07-14T07:00:00Z
-description = ""
+description = "It is done, unicorn languages, Weave Ignite, you can't handle the CORS, and more"
 draft = false
 slug = "136"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "DevOps news", "Kubernetes news"]
-title = "136:"
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "DevOps news", "Kubernetes news", "Red Hat", "code", "Microsoft Teams", "infrastructure"]
+title = "136: It is done, unicorn languages, Weave Ignite, you can't handle the CORS, and more"
 
 +++
 
@@ -52,11 +52,11 @@ Kubernetes and containers are changing how applications are built, deployed, and
 
 [Elastic CEO says Amazon Web Services isn't slowing down its business](https://www.businessinsider.com/elastic-shay-banon-amazon-web-services-elasticsearch-2019-7) — I'm a little worried about Elastic but, it doesn't seem the folks there are. To be honest, I'm worried about any company that has to monkey around with open source licensing to protect their business model, Elastic or otherwise.
 
-[Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/) — I've moved almost all of my web sites off Cloudflare's CDN (hello new regions of the world!) but, their DNS lookup times are top notch. This was a mess due to a configuration change. Guess what? Everyone tests in Prod.
+[Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/) — I've moved almost all of my web sites off Cloudflare's CDN (hello new regions of the world!) but, their DNS lookup times are top-notch. This was a mess due to a configuration change. Guess what? Everyone tests in Prod.
 
 [Blue Matador Closes $3.1 Million in Seed Funding to Transform Cloud Infrastructure Monitoring](https://finance.yahoo.com/news/blue-matador-closes-3-1-150000613.html) — Congrats to my friends over at Blue Matador!
 
-[A Very Cold Take on IBM, Red Hat and Their Hybrid Cloud Hyperbole](http://www.platformonomics.com/2019/07/a-very-cold-take-on-ibm-red-hat-and-their-hybrid-cloud-hyperbole/) — Maybe a somewhat hyperbolic take on hybrid cloud hyberbole.
+[A Very Cold Take on IBM, Red Hat and Their Hybrid Cloud Hyperbole](http://www.platformonomics.com/2019/07/a-very-cold-take-on-ibm-red-hat-and-their-hybrid-cloud-hyperbole/) — Maybe a somewhat hyperbolic take on hybrid cloud hyperbole.
 
 [DevOps'ish Deep Cuts 001: A bluer hue of red](https://devopsish.com/deep-cuts-001/)
 
@@ -105,7 +105,3 @@ Kubernetes and containers are changing how applications are built, deployed, and
 [chris-short/DevOps-README.md](https://github.com/chris-short/DevOps-README.md) — What to Read to Learn More About DevOps
 
 [poseidon/typhoon](https://github.com/poseidon/typhoon) — Minimal and free Kubernetes distribution
-
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1145787863235223552 >}}
