@@ -65,7 +65,7 @@ deploy-production:
     url: https://${CI_PROJECT_NAME}
   image: quay.io/chrisshort/firebase:latest
   before_script:
-    - curl -L -o firebase.json https://raw.githubusercontent.com/chris-short/firebase-configs/master/firebase.production.json
+    - curl -L -o firebase.json https://raw.githubusercontent.com/chris-short/firebase-configs/master/devopsish.com/firebase.json
     - curl -L -o .firebaserc https://raw.githubusercontent.com/chris-short/firebase-configs/master/firebaserc.json
     - sed -i "s/REPLACEME/${FIREBASE_PROJECT}/g" .firebaserc
   script:
