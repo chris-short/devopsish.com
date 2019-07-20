@@ -18,11 +18,11 @@ The founder and CEO of Blue Matador, the alert automation service, will be hosti
 
 ## DevOps'ish Last Week's Top Five
 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [Here are the most popular programming languages used by the world’s largest unicorn startups](https://www.geekwire.com/2019/popular-programming-languages-used-worlds-largest-unicorn-startups/)
+1. [Seriously, stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/)
+1. [The case for making the transition from sysadmin to DevOps engineer](https://opensource.com/article/19/7/devops-vs-sysadmin)
+1. [Kubernetes productivity tips and tricks](https://www.padok.fr/en/blog/kubernetes-productivity-tips)
+1. [DevOps for introverted people](https://opensource.com/article/19/7/devops-introverted-people)
 
 ## People
 
