@@ -28,13 +28,13 @@ The founder and CEO of Blue Matador, the alert automation service, will be hosti
 
 ## People
 
-[A worrying change in Open Source perception](https://dev.to/codepo8/a-worrying-change-in-open-source-perception-30m7) — "Open Source should bring a positive experience." If we has community members create a bar for participation that is too high, we all suffer.
+[A worrying change in Open Source perception](https://dev.to/codepo8/a-worrying-change-in-open-source-perception-30m7) — "Open Source should bring a positive experience." If we as community members create a bar for participation that is too high, we all suffer.
 
 [DiversityTickets: AnsibleFest 2019 Atlanta](https://diversitytickets.org/en/events/488) — The Ansible team is using DiversityTickets again this year to make sure folks have an opportunity to attend AnsibleFest Atlanta. "This diversity program is aimed to help underrepresented groups in tech to attend and lowering the barriers for them. This includes but isn't limited to: women, people of color, LGBTQIA+ people, and disabled people."
 
 [CloudSkills.fm 030: Cloud Native Ops with Ansible and Kubernetes](https://cloudskills.fm/030) — I sat down with Mike Pfeiffer to talk about, "Ansible, Kubernetes, and the importance of building up your Linux skills as the industry transitions into a cloud native world." This was a lot of fun.
 
-[The cloud skills shortage and the unemployed army of the certified](https://itnext.io/the-cloud-skills-shortage-and-the-unemployed-army-of-the-certified-bd405784cef1) — "Roles that have been separate for years — database admin, server admin, quality engineer, software developer — are being smashed together because the headcount is vanishing. These roles are asking you to do the work of several people but using your attraction to intellectual challenges to make it sound more appealing." Entry level certifications are going to get you architect-level jobs or any job for that matter. Experience matters a lot these days.
+[The cloud skills shortage and the unemployed army of the certified](https://itnext.io/the-cloud-skills-shortage-and-the-unemployed-army-of-the-certified-bd405784cef1) — "Roles that have been separate for years — database admin, server admin, quality engineer, software developer — are being smashed together because the headcount is vanishing. These roles are asking you to do the work of several people but using your attraction to intellectual challenges to make it sound more appealing." Entry-level certifications are going to get you architect-level jobs or any job for that matter. Experience matters a lot these days.
 
 [Have you ever wondered what the hiring process was 20 years ago compared to today? Probably not, but I'll tell you anyway](https://www.reddit.com/r/cscareerquestions/comments/brjexy/have_you_ever_wondered_what_the_hiring_process/) — Here's some interesting perspective.
 
@@ -44,15 +44,15 @@ The founder and CEO of Blue Matador, the alert automation service, will be hosti
 
 ## Process
 
-[Preventing Attacks Using HTTP Headers](https://www.twilio.com/blog/preventing-attacks-using-http-headers) — I recently replatformed all my web sites so I could make better use of HTTP headers and more granular caching. HTTP security headers are becoming really important. If you are not familiar with them, read this article and [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/).
+[Preventing Attacks Using HTTP Headers](https://www.twilio.com/blog/preventing-attacks-using-http-headers) — I recently  re-platformed all my web sites so I could make better use of HTTP headers and more granular caching. HTTP security headers are becoming really important. If you are not familiar with them, read this article and [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/).
 
 [Facebook's $5 billion FTC fine is an embarrassing joke](https://www.theverge.com/2019/7/12/20692524/facebook-five-billion-ftc-fine-embarrassing-joke) — The fine is less than 1% of Facebook's market cap. Endangering democracy is a lucrative business. The fine should have started with a T, as in trillion.
 
 [MTTR is dead, long live CIRT](https://opensource.com/article/19/7/measure-operational-performance) — "By focusing on business-impacting incidents, CIRT is a more accurate way to gauge ops performance." PagerDuty descends on opensource.com to bend the arc of performance measurement. Critical incident response time (CIRT); I like it! "CIRT and the percentage of incidents acknowledged and resolved form a valuable set of metrics that give you a much better idea of how your operations are performing."
 
-[Judge shoots down Oracle protest over $10B JEDI cloud contract, leaving Amazon and Microsoft as finalists](https://www.geekwire.com/2019/judge-shoots-oracle-protest-10b-jedi-cloud-contract-leaving-amazon-microsoft-finalists/) — But, President Trump hates Jeff Bezos with a burning passion. [Trump Expressed Concern About Pentagon Cloud-Computing Contract](https://www.bloomberg.com/news/articles/2019-07-17/trump-expressed-concerns-about-pentagon-cloud-computing-contract). If you think you can afford to not be involved in politics, you are an incredibly priveleged person.
+[Judge shoots down Oracle protest over $10B JEDI cloud contract, leaving Amazon and Microsoft as finalists](https://www.geekwire.com/2019/judge-shoots-oracle-protest-10b-jedi-cloud-contract-leaving-amazon-microsoft-finalists/) — But, President Trump hates Jeff Bezos with a burning passion. [Trump Expressed Concern About Pentagon Cloud-Computing Contract](https://www.bloomberg.com/news/articles/2019-07-17/trump-expressed-concerns-about-pentagon-cloud-computing-contract). If you think you can afford to not be involved in politics, you are an incredibly privileged person.
 
-[The Kubernetes Hierarchy of Needs](https://thenewstack.io/the-kubernetes-hierarchy-of-needs/) — Build infrastructure, deploy applications, and operate. This falls inline with my Kubernetes maintainer/operator paradigm.
+[The Kubernetes Hierarchy of Needs](https://thenewstack.io/the-kubernetes-hierarchy-of-needs/) — Build infrastructure, deploy applications, and operate. This falls in line with my Kubernetes maintainer/operator paradigm.
 
 [Kubernetes catches up with operational reality](https://www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Kubernetes-catches-up-with-operational-reality) — Day 2 operations on Kubernetes might be the new buzz phrase for 2020.
 
@@ -66,7 +66,7 @@ The founder and CEO of Blue Matador, the alert automation service, will be hosti
 
 [What are the downsides of using OpenShift instead of plain vanilla Kubernetes?](https://www.reddit.com/r/kubernetes/comments/cdztqg/what_are_the_downsides_of_using_openshift_instead/) — A discussion on /r/kubernetes about the downsides of using OpenShift. Which sound a lot like the downsides of using [k/k](https://github.com/kubernetes/kubernetes). That's encouraging I guess. Kubernetes at scale is no trivial task.
 
-[Monitoring Linux Logs with Kibana and Rsyslog](http://devconnected.com/monitoring-linux-logs-with-kibana-and-rsyslog/) — "This tutorial details how to build a monitoring pipeline to analyze Linux logs with ELK 7.2 and Rsyslog." A super thorough explanation of how get you logs in ELK.
+[Monitoring Linux Logs with Kibana and Rsyslog](http://devconnected.com/monitoring-linux-logs-with-kibana-and-rsyslog/) — "This tutorial details how to build a monitoring pipeline to analyze Linux logs with ELK 7.2 and Rsyslog." A super thorough explanation of how to get your logs in ELK.
 
 [Continuous Integration for a Monolithic Ansible Repository](https://medium.com/@arslan70/continuous-integration-for-a-monolithic-ansible-repository-ce4ea09f1588) — "I want to focus this post on Why instead of How. There is a ton of information on implementation details. Some links in the references can help you get started as well. I hope after the end of this post you will be able to evaluate if your ansible repo requires a CI pipeline or not." This is dope.
 
@@ -82,7 +82,7 @@ The founder and CEO of Blue Matador, the alert automation service, will be hosti
 
 [What is a TTY on Linux? (and How to Use the tty Command)](https://www.howtogeek.com/428174/what-is-a-tty-on-linux-and-how-to-use-the-tty-command/) — "What does the tty command do? It prints the name of the terminal you're using. TTY stands for 'teletypewriter.' What's the story behind the name of the command? That takes a bit more explaining." TTY is old af. How do I know? I've used a physical TTY before.
 
-[How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)](https://chrisshort.net/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2/) — I presented two fifteen minute talks on Ansible-based Kubernetes Operators at Red Hat Summit. I wanted to share the slides because conceptually, we've got k8s operators narrowed down pretty closely to Ansible contexts with a smidgen or k8s yaml. It lowers the barrier to entry.
+[How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)](https://chrisshort.net/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2/) — I presented two fifteen-minute talks on Ansible-based Kubernetes Operators at Red Hat Summit. I wanted to share the slides because conceptually, we've got k8s operators narrowed down pretty closely to Ansible contexts with a smidgen or k8s YAML. It lowers the barrier to entry.
 
 [33 Kubernetes security tools](https://sysdig.com/blog/33-kubernetes-security-tools/) — "Kubernetes security tools ... there are so freaking many of them; with different purposes, scopes and licenses."
 
