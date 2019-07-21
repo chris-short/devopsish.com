@@ -14,7 +14,7 @@ title = "137"
 INTRO
 
 [**Join DevOps Expert, Matthew Barlocker, For A CloudWatch Guided Tour**](https://www.bluematador.com/cloudwatch-guided-tour?utm_campaign=CloudWatch%20Guided%20Tour%20Webinar&utm_source=devopsish&utm_medium=newsletter)  
-The founder and CEO of Blue Matador, the alert automation service, will be hosting a CloudWatch Guided Tour Webinar. You'll learn about CloudWatch concepts, alarms, metrics, best practices, and more. Join either July 25th or July 31st. *SPONSORED*
+The founder and CEO of Blue Matador, the alert automation service, will be hosting a CloudWatch Guided Tour Webinar. You'll learn about CloudWatch concepts, alarms, metrics, best practices, and more. [Join either July 25th or July 31st](https://www.bluematador.com/cloudwatch-guided-tour?utm_campaign=CloudWatch%20Guided%20Tour%20Webinar&utm_source=devopsish&utm_medium=newsletter)! *SPONSORED*
 
 ## DevOps'ish Last Week's Top Five
 
@@ -26,21 +26,65 @@ The founder and CEO of Blue Matador, the alert automation service, will be hosti
 
 ## People
 
+[A worrying change in Open Source perception](https://dev.to/codepo8/a-worrying-change-in-open-source-perception-30m7) — "Open Source should bring a positive experience." If we has community members create a bar for participation that is too high, we all suffer.
+
 [DiversityTickets: AnsibleFest 2019 Atlanta](https://diversitytickets.org/en/events/488) — The Ansible team is using DiversityTickets again this year to make sure folks have an opportunity to attend AnsibleFest Atlanta. "This diversity program is aimed to help underrepresented groups in tech to attend and lowering the barriers for them. This includes but isn’t limited to: women, people of color, LGBTQIA+ people, and disabled people."
 
 [CloudSkills.fm 030: Cloud Native Ops with Ansible and Kubernetes](https://cloudskills.fm/030) — I sat down with Mike Pfeiffer to talk about, "Ansible, Kubernetes, and the importance of building up your Linux skills as the industry transitions into a cloud native world." This was a lot of fun.
 
-[House Hearing on Facebook Libra: Why was the Rust language chosen?](https://www.c-span.org/video/?c4808083/rust-language-chosen) — Huh.
+[The cloud skills shortage and the unemployed army of the certified](https://itnext.io/the-cloud-skills-shortage-and-the-unemployed-army-of-the-certified-bd405784cef1) — "Roles that have been separate for years — database admin, server admin, quality engineer, software developer — are being smashed together because the headcount is vanishing. These roles are asking you to do the work of several people but using your attraction to intellectual challenges to make it sound more appealing." Entry level certifications are going to get you architect-level jobs or any job for that matter. Experience matters a lot these days.
+
+[Have you ever wondered what the hiring process was 20 years ago compared to today? Probably not, but I'll tell you anyway](https://www.reddit.com/r/cscareerquestions/comments/brjexy/have_you_ever_wondered_what_the_hiring_process/) — Here's some interesting perspective.
 
 [DevOps'ish Telegram](https://t.me/devopsish) — Join the 300+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
 
 ## Process
 
-PROCESS
+[Facebook’s $5 billion FTC fine is an embarrassing joke](https://www.theverge.com/2019/7/12/20692524/facebook-five-billion-ftc-fine-embarrassing-joke) — The fine is less than 1% of Facebook's market cap. Endangering democracy is a lucrative business. The fine should have started with a T, as in trillion.
+
+[MTTR is dead, long live CIRT](https://opensource.com/article/19/7/measure-operational-performance) — "By focusing on business-impacting incidents, CIRT is a more accurate way to gauge ops performance." PagerDuty descends on opensource.com to bend the arc of performance measurement. Critical incident response time (CIRT); I like it! "CIRT and the percentage of incidents acknowledged and resolved form a valuable set of metrics that give you a much better idea of how your operations are performing."
+
+[The Kubernetes Hierarchy of Needs](https://thenewstack.io/the-kubernetes-hierarchy-of-needs/) — Build infrastructure, deploy applications, and operate. This falls inline with my Kubernetes maintainer/operator paradigm.
+
+[Kubernetes catches up with operational reality](https://www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Kubernetes-catches-up-with-operational-reality) — Day 2 operations on Kubernetes might be the new buzz phrase for 2020.
+
+[Post Mortem: Kubernetes Node OOM](https://www.bluematador.com/blog/post-mortem-kubernetes-node-oom) — Blue Matador (this week's sponsor) shows us all the importance of resource limits. Especially for the [below the line](https://itrevolution.com/center-of-the-cyclone-dr-richard-cook/) workloads you might not ever have time to fully debug.
+
+[Incident Review: You Can't Deploy Binaries That Don't Exist](https://www.honeycomb.io/blog/incident-review-you-cant-deploy-binaries-that-dont-exist/)
+
+[House Hearing on Facebook Libra: Why was the Rust language chosen?](https://www.c-span.org/video/?c4808083/rust-language-chosen) — Huh.
 
 ## Tools
 
-TOOLS
+[What are the downsides of using Openshift instead of plain vanilla kubernetes?](https://www.reddit.com/r/kubernetes/comments/cdztqg/what_are_the_downsides_of_using_openshift_instead/) — A discussion on /r/kubernetes about the downsides of using OpenShift. Which sound a lot like the downsides of using [k/k](https://github.com/kubernetes/kubernetes). That's encouraging I guess. Kubernetes at scale is no trivial task.
+
+[Monitoring Linux Logs with Kibana and Rsyslog](http://devconnected.com/monitoring-linux-logs-with-kibana-and-rsyslog/) — "This tutorial details how to build a monitoring pipeline to analyze Linux logs with ELK 7.2 and Rsyslog." A super thorough explanation of how get you logs in ELK.
+
+[Continuous Integration for a Monolithic Ansible Repository](https://medium.com/@arslan70/continuous-integration-for-a-monolithic-ansible-repository-ce4ea09f1588) — "I want to focus this post on Why instead of How. There is a ton of information on implementation details. Some links in the references can help you get started as well. I hope after the end of this post you will be able to evaluate if your ansible repo requires a CI pipeline or not." This is dope.
+
+[Kubernetes Deployments: The Ultimate Guide by Jérôme Petazzoni](https://semaphoreci.com/blog/kubernetes-deployment) — "Ready to deploy that app you’ve just 'dockerized'? Here’s all you need to know about Kubernetes deployments to deliver your containers to production."
+
+[Announcing Linkerd 2.4: Traffic Splitting and SMI](https://linkerd.io/2019/07/11/announcing-linkerd-2.4/) — "Linkerd’s new traffic splitting feature allows users to dynamically control the percentage of traffic destined for a service... Support for the Service Mesh Interface makes it easier for ecosystem tools to work with Linkerd."
+
+[Automate Progressive Deployments to Kubernetes with Flagger and Linkerd](https://www.weave.works/blog/automate-progressive-deployments-to-kubernetes-with-flagger-and-linkerd) — "Linkerd implements the Service Mesh Interface (SMI) Traffic Split API. This allows Flagger to control the traffic between two versions of the same application." **Weaveworks is absolutely killing it right now.**
+
+[Red Hat builds OpenShift Pipelines on Google-spawned Tekton](https://devclass.com/2019/07/12/red-hat-builds-openshift-pipelines-on-tekton/) — I'm not quite sure how I feel about this. I'm sure it's solid tech but, it seems like it's missing a really interesting piece of software that Red Hat already owns.
+
+[What is a TTY on Linux? (and How to Use the tty Command)](https://www.howtogeek.com/428174/what-is-a-tty-on-linux-and-how-to-use-the-tty-command/) — "What does the tty command do? It prints the name of the terminal you’re using. TTY stands for 'teletypewriter.' What’s the story behind the name of the command? That takes a bit more explaining." TTY is old af. How do I know? I've used a physical TTY before.
+
+[33 Kubernetes security tools](https://sysdig.com/blog/33-kubernetes-security-tools/) — "Kubernetes security tools … there are so freaking many of them; with different purposes, scopes and licenses."
+
+[intel/hyperscan](https://github.com/intel/hyperscan) — High-performance regular expression matching library
+
+[digitalocean/DOKS](https://github.com/digitalocean/DOKS) — Managed Kubernetes designed for simple and cost effective container orchestration.
+
+[open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) — Gatekeeper - Policy Controller for Kubernetes
+
+[stakater/Reloader](https://github.com/stakater/Reloader) — A Kubernetes controller to watch changes in ConfigMap and Secrets and then restart pods for Deployment, StatefulSet, DaemonSet and DeploymentConfig
+
+[google/docsy-example](https://github.com/google/docsy-example) — An example documentation site using the Docsy Hugo theme. I really like the Docsy project.
+
+[xo/xo](https://github.com/xo/xo) — Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 
 ## DevOps'ish Tweet of the Week
 
