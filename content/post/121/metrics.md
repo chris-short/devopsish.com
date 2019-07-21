@@ -12,7 +12,7 @@
 [Ramblings from Jessie: Thoughts on Conway's Law and the software stack](https://blog.jessfraz.com/post/thoughts-on-conways-law-and-the-software-stack/)
 [Multi-Segment Distributed Storage for Kubernetes – ITNEXT](https://itnext.io/multi-segment-distributed-storage-for-kubernetes-aa9163dad735)
 [Avoiding Burnout in Open Source | BenTheElder](https://elder.dev/posts/avoiding-burnout/)
-[Scaling Up Smart: 4 key tips on successfully using cloud-native technology to scale your…](https://medium.com/streamroot-developers-blog/scaling-up-smart-4-key-tips-on-successfully-using-cloud-native-technology-to-scale-your-e4b521003f94)
+[Scaling Up Smart: 4 key tips on successfully using cloud-native technology to scale your...](https://medium.com/streamroot-developers-blog/scaling-up-smart-4-key-tips-on-successfully-using-cloud-native-technology-to-scale-your-e4b521003f94)
 [Handling thousands of image upload per second with Amazon S3](https://medium.com/udroppy/handling-thousands-of-image-upload-per-second-with-amazon-s3-7a1009e8ffc4)
 [Endlessh: an SSH Tarpit « null program](https://nullprogram.com/blog/2019/03/22/)
 [The Road to Cloud Native: The Best Practices to Design and Build Cloud Native Apps](https://medium.com/devopslinks/approaching-cloud-native-2903a253b8f9)
