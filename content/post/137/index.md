@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-07-21T07:00:00Z
-description = ""
+description = "Contains 3% Kubernetes, Open Source perception, long live CIRT, Linkerd 2.4, TTY, and more"
 draft = false
 slug = "137"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "DevOps news", "Kubernetes news"]
-title = "137"
+title = "137: Contains 3% Kubernetes, Open Source perception, long live CIRT, Linkerd 2.4, TTY, and more"
 
 +++
 
@@ -64,7 +64,7 @@ The founder and CEO of Blue Matador, the alert automation service, will be hosti
 
 ## Tools
 
-[What are the downsides of using Openshift instead of plain vanilla kubernetes?](https://www.reddit.com/r/kubernetes/comments/cdztqg/what_are_the_downsides_of_using_openshift_instead/) — A discussion on /r/kubernetes about the downsides of using OpenShift. Which sound a lot like the downsides of using [k/k](https://github.com/kubernetes/kubernetes). That's encouraging I guess. Kubernetes at scale is no trivial task.
+[What are the downsides of using OpenShift instead of plain vanilla Kubernetes?](https://www.reddit.com/r/kubernetes/comments/cdztqg/what_are_the_downsides_of_using_openshift_instead/) — A discussion on /r/kubernetes about the downsides of using OpenShift. Which sound a lot like the downsides of using [k/k](https://github.com/kubernetes/kubernetes). That's encouraging I guess. Kubernetes at scale is no trivial task.
 
 [Monitoring Linux Logs with Kibana and Rsyslog](http://devconnected.com/monitoring-linux-logs-with-kibana-and-rsyslog/) — "This tutorial details how to build a monitoring pipeline to analyze Linux logs with ELK 7.2 and Rsyslog." A super thorough explanation of how get you logs in ELK.
 
