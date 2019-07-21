@@ -8,7 +8,7 @@
 [Moving on, aka 'New job, 2019 edition' | Jeff Geerling](https://www.jeffgeerling.com/blog/2019/moving-on-aka-new-job-2019-edition)  
 [Boeing's 737 Max Software Outsourced to $9-an-Hour Engineers - Bloomberg](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers)  
 [The First Thing Great Decision Makers Do](https://hbr.org/2019/06/the-first-thing-great-decision-makers-do)  
-[The problem is that almost every developer who comes to serverless is very aware of how to build…](https://medium.com/@PaulDJohnston/the-problem-is-that-almost-every-developer-who-comes-to-serverless-is-very-aware-of-how-to-build-836e3c4b0b81)  
+[The problem is that almost every developer who comes to serverless is very aware of how to build...](https://medium.com/@PaulDJohnston/the-problem-is-that-almost-every-developer-who-comes-to-serverless-is-very-aware-of-how-to-build-836e3c4b0b81)  
 [KlusterKit – Enable Kubernetes based Architectures in Air Gapped Deployments | Tigera](https://www.tigera.io/blog/klusterkit-enable-kubernetes-based-architectures-in-air-gapped-deployments/)  
 [On Open Source Dependencies, GitHub, Gender, Philosophy of Science and the nature of Self – James Governor's Monkchips](https://redmonk.com/jgovernor/2019/06/24/on-open-source-dependencies-github-gender-philosophy-of-science-and-the-nature-of-self/)  
 [Kubernetes ingress-nginx troubleshooting made easy with kubectl plugins](https://itnext.io/kubernetes-ingress-nginx-troubleshooting-made-easy-with-kubectl-plugins-dbc8fdff35fd)  

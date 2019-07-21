@@ -28,7 +28,7 @@ Kubernetes and containers are changing how applications are built, deployed, and
 
 [DevOps for introverted people](https://opensource.com/article/19/7/devops-introverted-people) — "We asked the Opensource.com DevOps team to talk about their experience as DevOps introverts and to give DevOps extroverts some advice. Here are their answers." Dan Barker, Catherine Louis, Abhishek Tamrakar, Elizabeth Joseph, and I were all quoted in this piece. It turned out *really* good.
 
-[Here are the most popular programming languages used by the world’s largest unicorn startups](https://www.geekwire.com/2019/popular-programming-languages-used-worlds-largest-unicorn-startups/) — If you're looking to pick up a new language, maybe start with this list.
+[Here are the most popular programming languages used by the world's largest unicorn startups](https://www.geekwire.com/2019/popular-programming-languages-used-worlds-largest-unicorn-startups/) — If you're looking to pick up a new language, maybe start with this list.
 
 [The case for making the transition from sysadmin to DevOps engineer](https://opensource.com/article/19/7/devops-vs-sysadmin) — "There's a learning curve, but there's no time like the present to get started."
 
@@ -42,7 +42,7 @@ Kubernetes and containers are changing how applications are built, deployed, and
 
 ## Process
 
-[No Slacking: Microsoft Teams Announces 13M DAUs, Mattermost Raises At Rapid Clip](https://news.crunchbase.com/news/no-slacking-microsoft-teams-announces-13m-daus-mattermost-raises-at-rapid-clip/) — Microsoft Teams is so great that numerous teams at Microsoft flat out don't use it. The edict from on high mentioned a few weeks ago to force folks out Microsoft products? Apparently, it had no teeth. Sadly there will be no getting away from Teams if you're an Office 365 company it appears (hard to beat free). Mattermost CEO, Ian Tien, [tweeted in relation to this story](https://twitter.com/iantien/status/1150031555256913920), "Messaging Collaboration is a $30B market—as big as email and web conferencing—with 3 key segments: First mover (Slack), incumbent (Microsoft Teams), and open source (Mattermost). Open source offers trust, flexibility and innovation like no other. Let’s see what happens next :)"
+[No Slacking: Microsoft Teams Announces 13M DAUs, Mattermost Raises At Rapid Clip](https://news.crunchbase.com/news/no-slacking-microsoft-teams-announces-13m-daus-mattermost-raises-at-rapid-clip/) — Microsoft Teams is so great that numerous teams at Microsoft flat out don't use it. The edict from on high mentioned a few weeks ago to force folks out Microsoft products? Apparently, it had no teeth. Sadly there will be no getting away from Teams if you're an Office 365 company it appears (hard to beat free). Mattermost CEO, Ian Tien, [tweeted in relation to this story](https://twitter.com/iantien/status/1150031555256913920), "Messaging Collaboration is a $30B market—as big as email and web conferencing—with 3 key segments: First mover (Slack), incumbent (Microsoft Teams), and open source (Mattermost). Open source offers trust, flexibility and innovation like no other. Let's see what happens next :)"
 
 [Canonical Ltd source code repositories have been compromised](https://news.ycombinator.com/item?id=20369902) — "We can confirm that on 2019-07-06 there was a Canonical owned account on GitHub whose credentials were compromised and used to create repositories and issues among other activities. Canonical has removed the compromised account from the Canonical organisation in GitHub and is still investigating the extent of the breach, but there is no indication at this point that any source code or PII was affected."
 
@@ -66,7 +66,7 @@ Kubernetes and containers are changing how applications are built, deployed, and
 
 [Developers don't understand CORS](https://fosterelli.co/developers-dont-understand-cors) — CORS is something I'm *guaranteed* to RTFM before even thinking about touching anything remotely close to cross origin related. The security implications are too high.
 
-[Kubernetes productivity tips and tricks](https://www.padok.fr/en/blog/kubernetes-productivity-tips) — "Here’s are Kubernetes tips and tricks to code and deploy faster."
+[Kubernetes productivity tips and tricks](https://www.padok.fr/en/blog/kubernetes-productivity-tips) — "Here's are Kubernetes tips and tricks to code and deploy faster."
 
 [9 Steps to Awesome with Kubernetes](https://learning.oreilly.com/live-training/courses/9-steps-to-awesome-with-kubernetes/0636920283713/) — Live Training from fellow Red Hatter, Burr Sutter. "For Developers, learn nine simple and practical steps that will take you from Kubernetes novice to cloud native application architect."
 

@@ -1,6 +1,6 @@
 [Through the Wormhole: Network Security for Kubernetes with Wireguard](https://gravitational.com/blog/wormhole_security/)
-[Akarsh Satija on Twitter: "A user powered profile details block with markdown support "Readme for profile"… "](https://twitter.com/akarshsatija/status/1133782066359758848)
-[🔎Julia Evans🔍 on Twitter: "the oom (out of memory) killer… "](https://twitter.com/b0rk/status/1133216877839360001)
+[Akarsh Satija on Twitter: "A user powered profile details block with markdown support "Readme for profile"... "](https://twitter.com/akarshsatija/status/1133782066359758848)
+[🔎Julia Evans🔍 on Twitter: "the oom (out of memory) killer... "](https://twitter.com/b0rk/status/1133216877839360001)
 [Docker Bug Allows Root Access to Host File System | Decipher](https://duo.com/decipher/docker-bug-allows-root-access-to-host-file-system)
 [What are the essential Kubernetes related projects to know? : kubernetes](https://www.reddit.com/r/kubernetes/comments/bsoixc/what_are_the_essential_kubernetes_related/)
 [Kubernetes Training - hands-on training to get started with Kubernetes](https://www.ardanlabs.com/ultimate-kubernetes/)

@@ -50,7 +50,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [9 top tech recruiting mistakes to avoid](https://opensource.com/article/18/11/top-tech-recruiting-mistakes-avoid) — We round up common mistakes tech recruiters make and a few best practices to adopt instead.
 
-[Twitter: Friend or Foe? (Episode 30)](http://communitypulse.io/30-twitter/) — "Twitter, Facebook, Instagram, LinkedIn…these are all major parts of what we use every day to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?"
+[Twitter: Friend or Foe? (Episode 30)](http://communitypulse.io/30-twitter/) — "Twitter, Facebook, Instagram, LinkedIn...these are all major parts of what we use every day to stay in touch with the communities we are involved in, personally and professionally. What happens though when those lines blur? When something you say from your personal life gets picked up by people involved in your professional life? Is it all worthwhile?"
 
 ## Process
 
