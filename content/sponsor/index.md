@@ -12,7 +12,7 @@ aliases = [
 
 +++
 
-DevOps'ish readers are a diverse group of people who care deeply about a wide range of technologies and the business practices pertinent to them. The audience includes people from Amazon, Apple, Google, IBM, Intel, Microsoft, Red Hat, and many other organizations.
+DevOps'ish readers are a diverse group of people who care deeply about a wide range of technologies and the business practices pertinent to them. The audience includes people from Amazon, Apple, Google, IBM, Intel, Microsoft, Red Hat, and many of the Fortune 100.
 
 Demographic data outside of what's shared on this page for DevOps'ish subscribers is not available.
 
