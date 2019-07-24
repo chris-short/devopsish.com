@@ -34,7 +34,7 @@ Your ad will be featured *natively* in e-mails to all subcribers and on [devopsi
 
 Ads include a bolded headline, additional copy, links as specified, and are followed by the italicized word, *SPONSORED*. This native format prevents ad blockers from blocking ads. It also eliminates a lot of headaches with regards to formatting. Total ad length excluding headline, call to action, and *SPONSORED* tag should not exceed 280 characters.
 
-Every week the newsletter begins with an introduction. Ads appear after this message. If another location in the newsletter fits better for your ad please let me know.
+Ads appear in the section they make the most sense at the time of writing. If a specific location in the newsletter fits your ad, please let me know.
 
 ### Example Ad
 
