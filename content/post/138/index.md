@@ -19,7 +19,7 @@ Blue Matador is alert automation for AWS and Kubernetes environments. Our proact
 [**X-Team Is Hiring a Team of DevOps Engineers (Remote)**](https://x-team.com/remote-devops-engineer-jobs/?utm_source=devopsish&utm_medium=email-ad)  
 We are looking for passionate DevOps engineers to work with the world's leading brands, from anywhere. We love to work with Kubernetes, Docker, Serverless, and AWS tools. Travel the world while being part of the most energizing community of developers. [Join X-Team](https://x-team.com/remote-devops-engineer-jobs/?utm_source=devopsish&utm_medium=email-ad) *SPONSORED*
 
-[**The Business Value of Developer Relations**](http://www.persea-consulting.com/book?utm_source=devopsish&utm_medium=newsletter&utm_campaign=138)  
+[**The Business Value of Developer Relations**](https://www.persea-consulting.com/book?utm_source=devopsish&utm_medium=newsletter&utm_campaign=138)  
 Discover the true value of Developer Relations as you learn to build and maintain positive relationships with your developer community. Use the principles laid out in this book to walk through your company goals and discover how you can formulate a plan tailored to your specific needs. *SPONSORED*
 
 ## DevOps'ish Last Week's Top Five
