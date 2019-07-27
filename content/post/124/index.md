@@ -70,7 +70,7 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 [Linkerd 2.3 introduces Zero-Trust Networking for Kubernetes](https://hub.packtpub.com/linkerd-2-3-introduces-zero-trust-networking-for-kubernetes/) — "In this release, the mTLS is out of experimental to a fully supported feature. Along with several important security primitives, the important update in Linkerd 2.3 is that it turns authenticated, confidential communication between meshed services on by default."
 
-[The Future of Serverless is... Functionless?](https://www.stackery.io/blog/future-of-serverless/) — "With [AWS] [AppSync](https://aws.amazon.com/appsync/), DynamoDB Tables, SQL Databases (via Aurora Serverless), Lambda Functions, and ElasticSearch domains have all been elevated as [first-class “Data Sources” for GraphQL resolvers](https://docs.aws.amazon.com/appsync/latest/devguide/tutorials.html)."
+[The Future of Serverless is... Functionless?](https://www.stackery.io/blog/future-of-serverless/) — "With [AWS] [AppSync](https://aws.amazon.com/appsync/), DynamoDB Tables, SQL Databases (via Aurora Serverless), Lambda Functions, and ElasticSearch domains have all been elevated as [first-class "Data Sources" for GraphQL resolvers](https://docs.aws.amazon.com/appsync/latest/devguide/tutorials.html)."
 
 [Monitoring container vitality and availability with Podman](https://developers.redhat.com/blog/2019/04/18/monitoring-container-vitality-and-availability-with-podman/) — Healthchecks in Podman are now a thing.
 

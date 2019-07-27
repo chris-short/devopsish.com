@@ -52,7 +52,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [Meritocracy doesn't exist, and believing it does is bad for you](https://www.fastcompany.com/40510522/meritocracy-doesnt-exist-and-believing-it-does-is-bad-for-you) — "[I]n companies that explicitly held meritocracy as a core value, managers assigned greater rewards to male employees over female employees with identical performance evaluations. This preference disappeared where meritocracy was not explicitly adopted as a value."
 
-[The U.S. Desperately Needs a “Fiber for All” Plan](https://www.eff.org/deeplinks/2019/03/us-desperately-needs-fiber-all-plan) — Given the next piece of evolutionary technology will likely be developed in someone's basement office it is vitally important that we facilitate that as best as possible.
+[The U.S. Desperately Needs a "Fiber for All" Plan](https://www.eff.org/deeplinks/2019/03/us-desperately-needs-fiber-all-plan) — Given the next piece of evolutionary technology will likely be developed in someone's basement office it is vitally important that we facilitate that as best as possible.
 
 ## Process
 

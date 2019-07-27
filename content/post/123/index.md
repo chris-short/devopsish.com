@@ -42,7 +42,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [The struggle (to innovate) is real. D&I is the answer.](https://www.linkedin.com/pulse/struggle-innovate-real-di-answer-delisa-alexander/) — "Diverse teams are more resilient and higher performing, and diverse organizations are more capable of retaining world-class talent."
 
-[Abby Wambach's Leadership Lessons: Be the Wolfs](https://www.nytimes.com/2019/04/09/sports/soccer/abby-wambach-soccer-wolfpack.html) — “When one person stands up and demands the ball, the job, the promotion, the paycheck, the microphone, that one gives others permission to do the same." #GoGators
+[Abby Wambach's Leadership Lessons: Be the Wolfs](https://www.nytimes.com/2019/04/09/sports/soccer/abby-wambach-soccer-wolfpack.html) — "When one person stands up and demands the ball, the job, the promotion, the paycheck, the microphone, that one gives others permission to do the same." #GoGators
 
 [Analysts get hot under collar as ex-Oracle cloud guru ditches corporate wardrobe for Google](https://www.theregister.co.uk/2019/04/09/kurian_oracle_google_indicates_enterprise_change/) — Thomas Kurian talked about, "taking a 'sympathetic' approach to legacy tech."
 

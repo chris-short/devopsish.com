@@ -38,7 +38,7 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 [The 2019 Web Developer Roadmap - A Visual Guide to Becoming a Front End, Back End, or DevOps Developer](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
 
-[An Inconvenient Truth of the Cloud Native World](https://www.tfir.io/2019/07/05/cloud-native-trends-security-risk-dirk-hohndel-cncf-kubecon/) — "No matter how you slice it, “a better understanding of the code that you're running is always an advantage," says Dirk Hohndel, Vice President and Chief Open Source Officer at VMware.
+[An Inconvenient Truth of the Cloud Native World](https://www.tfir.io/2019/07/05/cloud-native-trends-security-risk-dirk-hohndel-cncf-kubecon/) — "No matter how you slice it, "a better understanding of the code that you're running is always an advantage," says Dirk Hohndel, Vice President and Chief Open Source Officer at VMware.
 
 [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) — This is really great advice from Julia Evans.
 

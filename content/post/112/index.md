@@ -76,7 +76,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/) — It's most definitely you.
 
-[The Era of “Move Fast and Break Things” Is Over](https://hbr.org/2019/01/the-era-of-move-fast-and-break-things-is-over) — Only had to have Facebook damage democracy to figure out this was a bad idea. Silicon Valley needs to get out more.
+[The Era of "Move Fast and Break Things" Is Over](https://hbr.org/2019/01/the-era-of-move-fast-and-break-things-is-over) — Only had to have Facebook damage democracy to figure out this was a bad idea. Silicon Valley needs to get out more.
 
 [Requests for info, gag orders and takedowns fired at GitHub users hit an all-time high last year](https://www.theregister.co.uk/2019/01/25/github_transparency_report_2018/) — The "Two cross-border data requests" is intriguing but seems like a possible copyright suit (or, ya know, counterintelligence).
 

@@ -55,7 +55,7 @@ Where: From your desktop, laptop, or mobile device
 
 ## People
 
-[Employers will do almost anything to find workers to fill jobs — except pay them more](http://www.latimes.com/business/hiltzik/la-fi-hiltzik-employment-20180710-story.html): "The underlying cause of the “labor shortage” is hiding in plain sight. It's the long-term trend of funneling the gains from labor productivity not to the workforce, but to shareholders."
+[Employers will do almost anything to find workers to fill jobs — except pay them more](http://www.latimes.com/business/hiltzik/la-fi-hiltzik-employment-20180710-story.html): "The underlying cause of the "labor shortage" is hiding in plain sight. It's the long-term trend of funneling the gains from labor productivity not to the workforce, but to shareholders."
 
 [Yes, open office plans are the worst](https://techcrunch.com/2018/07/13/yes-open-office-plans-are-the-worst/): Yea... I can't do open offices after working from home as long as I have. I love the Ansible office but, I like the personalized touches and peace of my home office WAY more.
 

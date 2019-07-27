@@ -85,7 +85,7 @@ Continuous learning is a tenet of DevOps. It's important to keep up with trends 
 
 [Convergence to Kubernetes](https://medium.com/@pingles/convergence-to-kubernetes-137ffa7ea2bc): "Kubernetes has been so useful, and our convergence so fast, because it helped overcome a real organisational problem: the ever growing cloud and organisational complexity, and the difficulties of scaling teams. We didn't change our organisation because we wanted to use Kubernetes, we used Kubernetes because we wanted to change our organisation."
 
-[DevSecOps: Embracing Automation, Letting Go of Tradition](https://labs.signalsciences.com/devsecops-embracing-automation-letting-go-of-tradition): "Close to 60% of the survey respondents view security as an “inhibitor” to DevOps agility, and while 50% of developers know security is important, they don't have enough time to spend on it."
+[DevSecOps: Embracing Automation, Letting Go of Tradition](https://labs.signalsciences.com/devsecops-embracing-automation-letting-go-of-tradition): "Close to 60% of the survey respondents view security as an "inhibitor" to DevOps agility, and while 50% of developers know security is important, they don't have enough time to spend on it."
 
 [From here on, Red Hat's new GPLv2 software projects will have GPLv3 cure for license violators](https://www.theregister.co.uk/2018/06/18/red_hat_gpl_violation/): We'll forgive you if you change your ways, says Linux giant
 
