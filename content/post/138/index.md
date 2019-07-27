@@ -46,6 +46,8 @@ TOOLS
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish Tweet of the Week][tweet]](https://twitter.com/maria_fibonacci/status/1150493431199752192)
+[![DevOps'ish Tweet of the Week][tweet]](https://twitter.com/ChrisShort/status/1154193024907448321)
 
-[tweet]: 137-tweet-of-the-week.png
+[tweet]: 138-tweet-of-the-week.png
+
+{{< sponsor-blurb >}}
