@@ -15,4 +15,6 @@ DevOps'ish is a weekly newsletter covering DevOps, Cloud Native, Open Source, an
 
 {{< what-is-devops >}}
 
+{{< sponsor-blurb >}}
+
 ## Subscribe Today
