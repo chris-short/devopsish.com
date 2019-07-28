@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-07-28T07:00:00Z
-description = ""
+description = "Let's talk about JEDI. Not the lightsaber wielding kind, it's US Department of Defense's Joint Enterprise Defense Infrastructure (JEDI)."
 draft = false
 slug = "138"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "DevOps news", "Kubernetes news", "JEDI"]
-title = "138: Jeez JEDI, "
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "DevOps news", "Kubernetes news", "JEDI", "AWS", "docker", "oracle", "community", "developers"]
+title = "138: Jeez JEDI, language ladder, killing K8s, floppy finished, and more"
 
 +++
 
-Let's talk about JEDI for a second. Not the lightsaber wielding kind, the US Department of Defense's [Joint Enterprise Defense Infrastructure (JEDI)](https://devopsish.com/tags/jedi/) kind. JEDI is a $10 billion, single-award, indefinite delivery, indefinite quantity contract for the largest Department in the US government's cloud business. The competition had been whittled down to AWS and Azure but, Oracle has been pitching a Larry Ellison sized fit over it. Actually, Oracle has protested JEDI's selection process almost since its inception. The process started in late 2017 and has been filled with all sorts of twists and turns.
+Let's talk about JEDI. Not the lightsaber wielding kind, it's US Department of Defense's [Joint Enterprise Defense Infrastructure (JEDI)](https://devopsish.com/tags/jedi/) kind. JEDI is a $10 billion, single-award, indefinite delivery, indefinite quantity contract for the largest Department in the US government's cloud business. The competition had been whittled down to AWS and Azure but, Oracle has been pitching a Larry Ellison sized fit over it. Actually, Oracle has protested JEDI's selection process almost since its inception. The process started in late 2017 and has been filled with all sorts of twists and turns.
 
 [Last week](https://devopsish.com/137), I shared a story with part of the headline stating, "Judge shoots down Oracle protest." Like any good government procurement process though, this is where the lawyers stepped back and the lobbyist stepped forward. I also linked to a story last week discussing the US President's concern over JEDI. The sitting US President hates Jeff Bezos, owner of the Washington Post and CEO of Amazon. AWS is the clear front runner as the #1 cloud provider *in the world*. The most popular cloud provider in the US by a long shot, [AWS GovCloud](https://aws.amazon.com/govcloud-us/) has been up and running since 2011. The US Intelligence Community uses [AWS Secret Region](https://aws.amazon.com/blogs/publicsector/announcing-the-new-aws-secret-region/) extensively.
 
@@ -50,17 +50,17 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 ## Process
 
-[Will complexity kill Kubernetes?](https://www.infoworld.com/article/3409980/will-complexity-kill-kubernetes.html) — Short answer: Complexity kills everything so, yes. However, the author disagrees (for good reason), "Probably not. While Hadoop got more complicated with age, Kubernetes keeps getting easier. While Kubernetes will likely never be 'easy,' per se, its complexity differs from that of Hadoop in critical ways, paving the way for Kubernetes to remain an industry standard for years to come." I don't think Hadoop is a good analog to Kubernetes (let's face it, no one wants Kubernetes to become OpenStack). But, it does speak to a community that try's to grease the skids in versus raising the bar higher and higher.
+[Will complexity kill Kubernetes?](https://www.infoworld.com/article/3409980/will-complexity-kill-kubernetes.html) — Short answer: Complexity kills everything so, yes. However, the author disagrees (for good reason), "Probably not. While Hadoop got more complicated with age, Kubernetes keeps getting easier. While Kubernetes will likely never be 'easy,' per se, its complexity differs from that of Hadoop in critical ways, paving the way for Kubernetes to remain an industry standard for years to come." I don't think Hadoop is a good analog to Kubernetes (let's face it, no one wants Kubernetes to become OpenStack). But, it does speak to a community that tries to grease the skids in versus raising the bar higher and higher.
 
 [Other people's messes by Jessica Kerr](https://blog.jessitron.com/2019/07/21/other-peoples-messes/) — Like a lot of things in life, When it comes to code, context matters. It's a lot less messy when you understand the why behind it.
 
-[IBM-Red Hat: Should developers worry we're headed back to the 1990s?](https://venturebeat.com/2019/07/20/ibm-red-hat-should-developers-worry-were-headed-back-to-the-1990s/) — "A dated playbook of boxing in and trying to control developers through a Big Blue (and now Red) stack could ultimately harm IBM's chances of achieving cloud relevancy." Huh. I thought the heading back to the 90s bit was the AWS, GCP, Azure, and Oracles of the world (vendor lock-in). I guess with Red Hat being a part of IBM now this was bound to happen. But, the author believes that IBM is now going to start shoving Red Hat products down peoples' throats. I guess if IBM didn't already have product in a space maybe? But, it's not like IBM didn't have anything to sell until a few weeks ago. When something is new and shiny, it's going to be at top of people's minds. Once news of the deal settles and the sales training is into sustainment, I hope folks start to forget Red Hat is a part of IBM. That'd be great.
+[IBM-Red Hat: Should developers worry we're headed back to the 1990s?](https://venturebeat.com/2019/07/20/ibm-red-hat-should-developers-worry-were-headed-back-to-the-1990s/) — "A dated playbook of boxing in and trying to control developers through a Big Blue (and now Red) stack could ultimately harm IBM's chances of achieving cloud relevancy." Huh. I thought the heading back to the 90s bit was the AWS, GCP, Azure, and Oracles of the world (vendor lock-in). I guess with Red Hat being a part of IBM now this was bound to happen. But, the author believes that IBM is now going to start shoving Red Hat products down peoples' throats. I guess if IBM didn't already have product in a space maybe? But, it's not like IBM didn't have anything to sell until a few weeks ago. When something is new and shiny, it's going to be at the top of people's minds. Once news of the deal settles and the sales training is into sustainment, I hope folks start to forget Red Hat is a part of IBM. That'd be great.
 
-[Decoupling database migrations from server startup: why and how](https://pythonspeed.com/articles/schema-migrations-server-startup/) — Your code and database schemas shouldn't have to march in lock step with their releases. Thinking of the database as another codebase (the schema certainly is) has been something I've been trying to get through to folks for a long time on.
+[Decoupling database migrations from server startup: why and how](https://pythonspeed.com/articles/schema-migrations-server-startup/) — Your code and database schemas shouldn't have to march in lockstep with their releases. Thinking of the database as another codebase (the schema certainly is) has been something I've been trying to get through to folks for a long time on.
 
 [How a Production Outage Was Caused Using Kubernetes Pod Priorities](https://grafana.com/blog/2019/07/24/how-a-production-outage-was-caused-using-kubernetes-pod-priorities/) — Resource limits are EVERYTHING. If you don't use them, WHY!?!
 
-[6 Tech Giants Located in Detroit](https://blog.repurpose.co/6-tech-giants-located-in-detroit) — Don't sleep on Detroit, y'all. When I'm doing non-work speaking, I put [pictures from Detroit](https://devopsish.com/138/awesome-detroit.jpg) in the beginning of talks. I want to show people it's not what they hear and see in the news. Detroit is an amazing city!
+[6 Tech Giants Located in Detroit](https://blog.repurpose.co/6-tech-giants-located-in-detroit) — Don't sleep on Detroit, y'all. When I'm doing non-work speaking, I put [pictures from Detroit](https://devopsish.com/138/awesome-detroit.jpg) at the beginning of the slides. I want to show people it's not what they hear and see in the news. Detroit is an amazing city!
 
 ## Tools
 
@@ -86,6 +86,8 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 [Underscoring the "private" in private key](https://koen.io/2019/07/26/underscoring-the-private-in-private-key/) — The private key should be KEPT PRIVATE. It's not to hand out, ever (with very, very few exceptions).
 
+[Goodbye Docker: Purging is Such Sweet Sorrow](https://zwischenzugs.com/2019/07/27/goodbye-docker-purging-is-such-sweet-sorrow/) — I still need Docker on my Mac from time to time and it irritates me to no end.
+
 [jbeda/kinecraft](https://github.com/jbeda/kinecraft) — Start to a Minecraft k8s operator by Joe Beda
 
 [eko/monday](https://github.com/eko/monday) — A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
@@ -97,8 +99,6 @@ Discover the true value of Developer Relations as you learn to build and maintai
 [tumblr/docker-registry-pruner](https://github.com/tumblr/docker-registry-pruner) — Tool to apply retention logic to docker images in a Docker Registry
 
 [geerlingguy/docker-ubi8-ansible](https://github.com/geerlingguy/docker-ubi8-ansible) — UBI 8 Docker container for Ansible playbook and role testing.
-
-[Goodbye Docker: Purging is Such Sweet Sorrow](https://zwischenzugs.com/2019/07/27/goodbye-docker-purging-is-such-sweet-sorrow/) — I still need Docker on my Mac from time to time and it irritates me to no end.
 
 ## DevOps'ish Tweet of the Week
 

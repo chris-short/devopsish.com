@@ -46,5 +46,4 @@
 
 [Amazon hires lobbyist with Trump ties amid contentious Pentagon cloud contest – GeekWire](https://www.geekwire.com/2019/amazon-hires-lobbyist-trump-ties-amid-contentious-pentagon-cloud-contest/)
 
-
 [Facebook Knows More About You Than the CIA | WIRED](https://www.wired.com/story/facebook-knows-more-about-you-than-cia/)
