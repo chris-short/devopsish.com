@@ -27,8 +27,6 @@ title = "Praise"
 
 Special thanks to CNCF TOC member and Weaveworks CEO, [Alexis Richardson](https://twitter.com/monadic/status/1155136182088622080) for the suggestion of Praise for the title of this page.
 
-{{< sponsor-blurb >}}
-
 {{< what-is-devops >}}
 
 [nicolefv]: nicolefv-praise.png

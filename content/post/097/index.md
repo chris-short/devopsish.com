@@ -6,7 +6,7 @@ date = 2018-10-14T07:00:00Z
 description = "Kubernetes, Amazon Woes, Serverless, JEDI, Spinnaker, and More"
 draft = false
 slug = "097"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security", "google", "amazon"]
+tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security", "google", "amazon", "JEDI"]
 title = "097: Kubernetes, Amazon Woes, Serverless, JEDI, Spinnaker, and More"
 
 +++
@@ -22,7 +22,6 @@ Raygun delivers what New Relic and other APM tools can't: an intuitive and easy 
 [**Sponsor DevOps'ish**](/sponsor/)  
 A new sponsor was supposed to have their ad copy here this week. But, they never sent it to me (invoice is paid and all). Maybe your company can do better?
 
-{{< sponsor-blurb >}}
 
 ## People
 

@@ -22,8 +22,6 @@ An additional thing that started here in Detroit this week is the [Detroit Go Me
 
 We are about a month away from [**DevOpsDay Raleigh**](https://www.devopsdays.org/events/2017-raleigh/welcome/). I'm WAY behind in updating the web site. But, why haven't you gotten your tickets yet?!? Do you not realize who is going to be speaking? [Ashley McNamara](https://twitter.com/ashleymcnamara), [Chris Collins](https://twitter.com/chrisindurham), [Nirmal Mehta](https://twitter.com/normalfaults), [ME](https://chrisshort.net), and many more! Oh and someone named [**John Willis](https://twitter.com/botchagalupe)** whom I hear is a big deal. The ticket is already super affordable but, there is a $5 discount code available with code **MEETUP5**. [Get your tickets today](https://www.eventbrite.com/e/devopsdays-raleigh-2017-tickets-34044332515?aff=es2) because is the next week or two we expect them to get scarce.
 
-{{< sponsor-blurb >}}
-
 ## People
 
 [Exclusive: Here's The Full 10-Page Anti-Diversity Screed Circulating Internally at Google [Updated]](http://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320): This is fucking despicable. I'm not mad, I'm just utterly disappointed.

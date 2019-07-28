@@ -6,7 +6,7 @@ date = 2018-08-26T07:00:00Z
 description ="DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!"
 draft = false
 slug = "090"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "red hat", "windows", "linux", "rss", "pipelines", "cicd", "NotPetya", "licenses"]
+tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "red hat", "windows", "linux", "rss", "pipelines", "cicd", "NotPetya", "licenses", "JEDI"]
 title = "090: DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!"
 
 +++
@@ -25,7 +25,6 @@ Moving your organization to a DevOps culture isn't as simple as buying a tool. I
 [**What's Kubernetes Doing? Datadog Knows, So You Can Too!**](https://www.datadoghq.com/monitor-kubernetes/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterKubernetes)  
 Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the performance of your entire container infrastructure at a glance and investigate issues quickly. [Start your free Datadog trial today](https://www.datadoghq.com/monitor-kubernetes/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=Devopsish-NewsletterKubernetes) *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 

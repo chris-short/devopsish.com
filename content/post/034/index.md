@@ -18,8 +18,6 @@ aliases = [
 
 A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for me. The challenges of management are quite interesting. Trying to jump start DevOps initiatives, change technologies, migrate away from legacy infrastructure, as well as hire and manage people is grueling and exciting all at the same time. Then 💥 boom 💥 along comes the most arbitrarily timed, poorly planned project you have ever seen to throw a monkey wrench into everything. Remember The 6Ps, kids: Proper Planning Prevents Piss Poor Performance. Did I mention we closed on a new house this week and are having problems with our moving company? Life gets in the way, yet life always finds a way. You have to remember you're not an electron, your path will not always be the least resistant one. If DevOps was easy, everyone would already be doing it.
 
-{{< sponsor-blurb >}}
-
 ## People
 
 [Ops: It's everyone's job now by Charity Majors](https://opensource.com/article/17/7/state-systems-administration): Ops is the process of delivering value to users. Ops is where beautiful theory meets stubborn reality.

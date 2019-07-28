@@ -26,7 +26,6 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 [**Support The Cloudcast during the Krispy Kreme Challenge!**](https://www.crowdrise.com/thecloudcastnet)
 Since 2013, Aaron Delp and Brian Gracely have asked the community to donate to the Krispy Kreme Challenge with the goal of making things better for children and families at the NC Children's Hospital. **Deadline for donations is February 3rd**. This is one of my favorite [causes](https://chrisshort.net/causes/)!
 
-{{< sponsor-blurb >}}
 
 ## People
 

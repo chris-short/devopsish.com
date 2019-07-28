@@ -22,7 +22,6 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 [**170+ live online training courses opened for March and April**](https://www.oreilly.com/pub/cpc/213941)  
 Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and many other topics *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
 

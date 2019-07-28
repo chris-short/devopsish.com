@@ -24,7 +24,6 @@ The O'Reilly Velocity Conference is returning to New York City, | September 30 -
 
 Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 

@@ -25,7 +25,6 @@ Check out GoCD's latest blog in CD Metrics series. It talks about what lead time
 [**Works on Arm**](https://www.worksonarm.com/blog)  
 Works on Arm (WOA) is how I keep up with most of my Arm news. The editor is a local friend that works at a very heavy consumer of Arm processors, [Packet](https://www.packet.com/) who is a sponsor of WOA. Check it out, give it a subscribe, and trust me, you won't be disappointed. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
 

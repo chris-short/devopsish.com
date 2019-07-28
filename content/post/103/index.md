@@ -22,7 +22,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 [**AWS re:Invent 2018 is THIS WEEK**](https://lastweekinaws.com/)  
 Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don't cover AWS much unless I feel like it's amazing news. If you want great AWS coverage and snark subscribe to [Last Week in AWS](https://lastweekinaws.com/). *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 

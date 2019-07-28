@@ -28,7 +28,6 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 [**Audiobook: Lean Enterprise**](https://devopsi.sh/g8MpN7)  
 How well does your organization respond to changing market conditions, customer needs, and emerging technologies? This practical guide presents Lean and Agile principles and patterns that enable you to move fast at scale—and demonstrates why and how to apply these methodologies throughout your organization, rather than in just one department or team. Through case studies, you'll learn how successful enterprises have rethought everything from governance and financial management to systems architecture and organizational culture in the pursuit of radically improved performance. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
 

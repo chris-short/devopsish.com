@@ -6,7 +6,7 @@ date = 2018-09-30T07:00:00Z
 description = "Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforce, Microsoft Ignite, Rook, and More"
 draft = false
 slug = "095"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "facebook", "microsoft", "China", "rook", "prometheus", "Chris Short", "conference", "serverless"]
+tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "facebook", "microsoft", "China", "rook", "prometheus", "Chris Short", "conference", "serverless", "JEDI"]
 title = "095: Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforce, Microsoft Ignite, Rook, and More"
 
 +++
@@ -19,7 +19,6 @@ In systems based on microservices architecture, you have multiple services getti
 [**Kelsey Hightower and Chris Gaun on serverless and Kubernetes**](https://www.oreilly.com/pub/cpc/168517)  
 Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverless and Kubernetes, with Kelsey Hightower, developer advocate for Google Cloud Platform at Google (and co-author of Kubernetes: Up and Running), and Chris Gaun, Kubernetes product marketing manager at Mesosphere. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 

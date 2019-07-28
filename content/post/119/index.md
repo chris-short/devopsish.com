@@ -24,7 +24,6 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 [**The Cloud Pod**](https://www.thecloudpod.net/)  
 Keeping up with the avalanche of new features, blog posts, industry news, and all things cloud is a daunting task for anyone working in DevOps. Subscribe today to let Justin, Jonathan, and Peter break down the AWS, Azure and Google cloud news each week where you listen to podcasts. [www.thecloudpod.net/subscribe](https://www.thecloudpod.net/subscribe/) *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
 

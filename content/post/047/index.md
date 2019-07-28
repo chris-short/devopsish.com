@@ -26,7 +26,6 @@ This video series covers the history of CD, concepts, best practices, how to get
 Corey Quinn's [**Last Week in AWS**](https://lastweekinaws.com/): You Had Me at Free (Tier)
 *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 

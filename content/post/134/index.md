@@ -6,7 +6,7 @@ date = 2019-06-30T07:00:00Z
 description = ""
 draft = false
 slug = "134"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "google", "multicloud", "platform"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "google", "multicloud", "platform", "JEDI"]
 title = "134: Kubernetes Security, multicloud marvels, BGP bungle, Bill's biggest blunder, Big Blue blows through EU, Big Red roiling JEDI requisition, and more"
 
 +++
@@ -55,7 +55,7 @@ A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Tod
 
 [New Kubernetes command-line flaw discovered](https://techerati.com/news-hub/new-kubernetes-flaw-discovered-command-line/) — "Latest kubectl vulnerability linked to incomplete patch of previous flaw discovered in March." Oops... This was [discovered by Charles Holmes](https://seclists.org/oss-sec/2019/q2/194) as part of a CNCF-sponsored security audit.
 
-[Joint Chiefs CIO on JEDI: 'Our warfighters need this capability now'](https://www.fedscoop.com/joint-chiefs-cio-jedi-delay-letter/) — Oracle is essentially tying the hands of US warfighters at this point. The DOD has done this to themselves though for having an [acquisition process as convoluted as they do](https://www.slideshare.net/tomlindblad/osd-atl-defense-acquisition-process-chart). But, I question whether Oracle really hass a leg to stand on here technologically.
+[Joint Chiefs CIO on JEDI: 'Our warfighters need this capability now'](https://www.fedscoop.com/joint-chiefs-cio-jedi-delay-letter/) — Oracle is essentially tying the hands of US warfighters at this point. The DOD has done this to themselves though for having an [acquisition process as convoluted as they do](https://www.slideshare.net/tomlindblad/osd-atl-defense-acquisition-process-chart). But, I question whether Oracle really has a leg to stand on here technologically.
 
 [BGP super-blunder: How Verizon today sparked a 'cascading catastrophic failure' that knackered Cloudflare, Amazon, etc](https://www.theregister.co.uk/2019/06/24/verizon_bgp_misconfiguration_cloudflare/) — "Verizon sent a big chunk of the internet down a black hole... after it wrongly accepted a network misconfiguration from a small ISP in Pennsylvania, USA." Verizon needs to be broken up. They're so big they can't manage their networks now. One of the worst outages I ever experienced was at Bankrate. Our site was down hard most of a long Independence Day weekend. Why? A faulty node someone in Verizon's network that Fastly ended up identifying and routing around. I bought Fastly employees drinks whenever I saw them that year.
 

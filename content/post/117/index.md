@@ -23,7 +23,6 @@ With GoCD's new Azure plugin, run your CI/CD pipelines on Azure virtual machines
 Learn more about GoCD: [www.gocd.org](https://www.gocd.org)  
 Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/current/ *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
 
