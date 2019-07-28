@@ -21,7 +21,6 @@ Cloud Foundry, IBM, LogDNA share how open ecosystems, interoperability & multi-c
 [RSVP now](https://bit.ly/2H1y8sb) to save your seat.  
 Try LogDNA - [Start free trial](https://logdna.com/sign-up/?utm_medium=Syndication&utm_campaign=DevOpsish&utm_source=DevOpsish) *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Last Week's Top Five
 

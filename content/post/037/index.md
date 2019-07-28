@@ -23,8 +23,6 @@ Typically, DevOps manages geographical differences through detailed ticketing an
 **GoCD — open source continuous delivery server**  
 GoCD is a continuous delivery tool specializing in advanced workflow modeling and dependency management. It lets you track a change from commit to deploy at a glance, providing superior visibility into your workflow. [It's open source, free to use and download](https://www.gocd.org/?utm_campaign=devops_newsletter&utm_medium=email&utm_source=devopsish&utm_content=go_website&utm_term=). *SPONSORED*
 
-{{< sponsor-blurb >}}
-
 ## People
 
 [How To Unfuck the Tech Industry by Respecting People](https://unfesto.com/)

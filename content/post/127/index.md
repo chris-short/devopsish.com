@@ -22,8 +22,6 @@ A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Tod
 [**How companies adopt and apply cloud native infrastructure--from O'Reilly**](https://www.oreilly.com/pub/cpc/224549)  
 Survey results reveal the path organizations face as they integrate cloud native infrastructure and harness the full power of the cloud. *SPONSORED*
 
-{{< sponsor-blurb >}}
-
 ## DevOps'ish Last Week's Top Five
 
 1. [Many Kubernetes Clusters](https://srcco.de/posts/many-kubernetes-clusters.html)

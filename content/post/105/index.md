@@ -24,7 +24,6 @@ One of the benefits of InfluxDB is the ability to store raw events, which might 
 [**The real story on container, cloud, and data adoption**](https://www.oreilly.com/pub/cpc/175842)  
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 
@@ -48,7 +47,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [This is why women leave jobs in tech](https://www.fastcompany.com/90274067/this-is-why-women-leave-jobs-in-tech)
 
-[The “Woke” Men Who Still Want Housewives by Jessica Valenti](https://medium.com/s/jessica-valenti/the-woke-men-who-still-want-housewives-debb2ad46aa0) — Check yourself before you wreck yourself.
+[The "Woke" Men Who Still Want Housewives by Jessica Valenti](https://medium.com/s/jessica-valenti/the-woke-men-who-still-want-housewives-debb2ad46aa0) — Check yourself before you wreck yourself.
 
 [Lightning Talk on How To Jump Start a Career in Open Source (video)](http://www.schabell.org/2018/12/all-things-open-2018-lightning-talk-video.html)
 {{< youtube LQ2BYca8u48 >}}

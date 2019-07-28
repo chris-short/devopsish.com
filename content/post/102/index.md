@@ -30,7 +30,6 @@ We consider logs to be just another form of time series data, and we want to giv
 [**Webinar with Shannon Lietz: DevSecOps: Finding the Adversaries in Our Midst**](https://info.signalsciences.com/devsecops-finding-the-adversaries-in-our-midst-webinar?utm_medium=newsletter&utm_source=devopsish)  
 Discover how you can get greater visibility into how and where you're being attacked, and use that visibility to build, create, and deploy sites that protect what your business cares about. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 
@@ -70,7 +69,7 @@ Discover how you can get greater visibility into how and where you're being atta
 
 [Cloud Native Computing Foundation Opens Inaugural KubeCon + CloudNativeCon China and Welcomes 53 New Members](https://www.cncf.io/announcement/2018/11/13/cncf-welcomes-53-new-members/) — New members, including R&D China Information Technology, Shanghai Qiniu Information Technologies, Beijing Yan Rong Technology and Yuan Ding Technology, to accelerate cloud native adoption across global markets
 
-[Kubernetes 202 — Making It Fully Operational](https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab) — This article should serve as a guide to taking a bare Kubernetes cluster and making it “fully operational.”
+[Kubernetes 202 — Making It Fully Operational](https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab) — This article should serve as a guide to taking a bare Kubernetes cluster and making it "fully operational."
 
 [3 new DevOps lessons learned](https://enterprisersproject.com/article/2018/11/3-new-devops-lessons-learned) — Lawyers (yes, lawyers) can help you kill legacy systems - and more wisdom from the recent DevOps Enterprise Summit
 
@@ -94,7 +93,7 @@ Discover how you can get greater visibility into how and where you're being atta
 
 [Corporate America's blockchain and bitcoin fever is over](https://www.axios.com/corporate-america-blockchain-bitcoin-fervor-over-fb13bc5c-81fd-4c12-8a7b-07ad107817ca.html) — S&P 500 executives are dropping blockchain buzzwords less on earnings calls and during presentations to analysts and investors. Analysts are also asking about it less.
 
-[Salesforce makes undisclosed “strategic investment” in Docker, companies will cross-sell MuleSoft and Docker Enterprise](https://www.geekwire.com/2018/salesforce-makes-undisclosed-strategic-investment-docker-companies-will-cross-sell-mulesoft-docker-enterprise/) 👀
+[Salesforce makes undisclosed "strategic investment" in Docker, companies will cross-sell MuleSoft and Docker Enterprise](https://www.geekwire.com/2018/salesforce-makes-undisclosed-strategic-investment-docker-companies-will-cross-sell-mulesoft-docker-enterprise/) 👀
 
 ## Tools
 
@@ -140,7 +139,7 @@ Discover how you can get greater visibility into how and where you're being atta
 
 [SSH Agents In Depth](https://dev.to/samuyi/ssh-agents-in-depth-4116) — A deep dive into how SSH agents work including some edge cases.
 
-[Find “Toxicity/Profanity” of a comment using Google Perspective](https://dev.to/sandeshsuvarna/find-toxicityprofanity-of-a-comment-using-google-perspective-3m22) — I need this built into my brain ASAP!
+[Find "Toxicity/Profanity" of a comment using Google Perspective](https://dev.to/sandeshsuvarna/find-toxicityprofanity-of-a-comment-using-google-perspective-3m22) — I need this built into my brain ASAP!
 
 ## DevOps'ish Tweet of the Week
 

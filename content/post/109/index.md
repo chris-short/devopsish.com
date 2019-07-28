@@ -35,7 +35,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 [**Real World DevOps**](https://www.realworlddevops.com/)  
 The Real World DevOps Podcast talks about the messy, behind-the-scenes realities of running systems. We'll be talking with practitioners from across the industry, both from traditional enterprises to modern cloud-native startups. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 

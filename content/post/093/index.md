@@ -21,11 +21,11 @@ September 10th, we decided to overnight at my parent's house in Hickory, NC. The
 
 A visit with my psychiatrist this week led me to understand some things about dealing with the trauma of these events. We developed a plan to steel myself during this time of year.
 
-The Ansible team was pushing hard to get Ansible Tower 3.3 ready to release this past Wednesday. I was also prepping a talk for the Grand Rapids Red Hat User Group. Julie's birthday is coming up and planning for that has been next to impossible to focus on. It's like all my buffers were full and throwing stuff to /dev/null at random. It was a lot to run with all at once. As I told someone, “Hard week personally, great week professionally.”
+The Ansible team was pushing hard to get Ansible Tower 3.3 ready to release this past Wednesday. I was also prepping a talk for the Grand Rapids Red Hat User Group. Julie's birthday is coming up and planning for that has been next to impossible to focus on. It's like all my buffers were full and throwing stuff to /dev/null at random. It was a lot to run with all at once. As I told someone, "Hard week personally, great week professionally."
 
 There are three things I am now permanently marking in my calendar as recurring events. On the business day before 9/11, I will have an appointment with my psychiatrist. From 2019 to whenever my working life ends, I will be taking paid time off on the day of 9⁄11. This year I worked late helping tie up things before Hurrican Florence inundated Red Hat HQ. Towards the end of the day, I did have a moment or two to reflect on the day. Early in the day, I was anxious and nervous. I was easily distracted by simple things. My routine after lunch walk with my dog helped. I realized that I needed to lock down a few things then triage a few other before getting out of the office that day. The anxiety didn't fade. But, the distractions were gone.
 
-I will also be blocking out the 5th through the 13th of September every year as “no public speaking” (and mindfully limited travel). I did okay in Grand Rapids but, it wasn't my best me. Anxieties of work, the history of the day, prepping and presenting a talk were  too much for me to perform at a level high enough to do myself justice.
+I will also be blocking out the 5th through the 13th of September every year as "no public speaking" (and mindfully limited travel). I did okay in Grand Rapids but, it wasn't my best me. Anxieties of work, the history of the day, prepping and presenting a talk were  too much for me to perform at a level high enough to do myself justice.
 
 I was going to write about [Azure DevOps](https://azure.microsoft.com/en-us/blog/introducing-azure-devops/) this week. I have talked to several Microsoft folks about the product called DevOps. I have feelings and thoughts on the topic for sure. But, this felt more pertinent and has honestly been therapeutic to write. It might shock some people but, I'm human too. Thank you for reading. Stay safe out there.
 
@@ -43,7 +43,6 @@ Learn tools and techniques for: implementing security across your Kubernetes pip
 [**Cloud Native DevOps with Kubernetes**](https://www.safaribooksonline.com/library/view/cloud-native-devops/9781492040750/)  
 Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](https://devopsi.sh/telegram) will receive a free copy of [Cloud Native DevOps with Kubernetes](https://www.safaribooksonline.com/library/view/cloud-native-devops/9781492040750/) by Justin Domingus and John Arundel. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 

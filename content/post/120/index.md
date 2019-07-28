@@ -24,7 +24,6 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 [**Audiobook: Lean Enterprise**](https://devopsi.sh/g8MpN7)  
 How well does your organization respond to changing market conditions, customer needs, and emerging technologies? This practical guide presents Lean and Agile principles and patterns that enable you to move fast at scale—and demonstrates why and how to apply these methodologies throughout your organization, rather than in just one department or team. Through case studies, you'll learn how successful enterprises have rethought everything from governance and financial management to systems architecture and organizational culture in the pursuit of radically improved performance. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
 
@@ -52,7 +51,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [Meritocracy doesn't exist, and believing it does is bad for you](https://www.fastcompany.com/40510522/meritocracy-doesnt-exist-and-believing-it-does-is-bad-for-you) — "[I]n companies that explicitly held meritocracy as a core value, managers assigned greater rewards to male employees over female employees with identical performance evaluations. This preference disappeared where meritocracy was not explicitly adopted as a value."
 
-[The U.S. Desperately Needs a “Fiber for All” Plan](https://www.eff.org/deeplinks/2019/03/us-desperately-needs-fiber-all-plan) — Given the next piece of evolutionary technology will likely be developed in someone's basement office it is vitally important that we facilitate that as best as possible.
+[The U.S. Desperately Needs a "Fiber for All" Plan](https://www.eff.org/deeplinks/2019/03/us-desperately-needs-fiber-all-plan) — Given the next piece of evolutionary technology will likely be developed in someone's basement office it is vitally important that we facilitate that as best as possible.
 
 ## Process
 

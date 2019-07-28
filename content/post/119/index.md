@@ -24,7 +24,6 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 [**The Cloud Pod**](https://www.thecloudpod.net/)  
 Keeping up with the avalanche of new features, blog posts, industry news, and all things cloud is a daunting task for anyone working in DevOps. Subscribe today to let Justin, Jonathan, and Peter break down the AWS, Azure and Google cloud news each week where you listen to podcasts. [www.thecloudpod.net/subscribe](https://www.thecloudpod.net/subscribe/) *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
 
@@ -40,7 +39,7 @@ Keeping up with the avalanche of new features, blog posts, industry news, and al
 
 [DevOps For Dummies (For Dummies (Computer/Tech)) by Emily Freeman](https://amzn.to/2TFOQFe) — My dear friend, Emily Freeman, is writing a book, y'all! Pre-order it today because it's going to be great and Emily has worked her ass off on it.
 
-[A simple reason why there aren't more women in tech - we're okay with misogyny](https://huyenchip.com/2019/03/11/silicon-valley-misogyny.html) — "While looking for books on the tech world, I came across [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://amzn.to/2UGaTbp). The book is advertised as “exposé of life inside the tech bubble.” A glimpse into his mind and the rave reviews of his male-dominated audience, I suddenly understood why there aren't more women in tech."
+[A simple reason why there aren't more women in tech - we're okay with misogyny](https://huyenchip.com/2019/03/11/silicon-valley-misogyny.html) — "While looking for books on the tech world, I came across [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://amzn.to/2UGaTbp). The book is advertised as "exposé of life inside the tech bubble." A glimpse into his mind and the rave reviews of his male-dominated audience, I suddenly understood why there aren't more women in tech."
 
 [Google moves dozens of employees out of its laptop and tablet division](https://www.businessinsider.com/google-moved-dozens-employees-out-of-laptop-and-tablet-division-2019-3) — The moment in which Google hardware products go the same way as Google Reader. I'm very happy with deciding to buy a new MacBook Air over a Pixelbook. Remember, [Fuschia](https://www.techradar.com/news/google-fuchsia) is coming and [Google killed Google Fiber because of 5G](https://chrisshort.net/the-demise-of-google-fiber-and-internet-under-dirt/) which is still a year or more away from widespread deployment. Google got what it wanted out of the hardware venture I'm betting and now they're out.
 
@@ -104,7 +103,7 @@ Keeping up with the avalanche of new features, blog posts, industry news, and al
 
 [gRPC to AWS Lambda: Is it Possible?](https://blog.coinbase.com/grpc-to-aws-lambda-is-it-possible-4b29a9171d7f) — "I was curious about whether it was even possible to make a gRPC call through API gateway to a Lambda and have a response return all the way to the client. Turns out, it's very close to possible for unary request / response gRPC calls."
 
-[gRPC Load Balancing inside Kubernetes](https://blog.nobugware.com/post/2019/kubernetes_mesh_network_load_balancing_grpc_services/) — "How to deal with disconnections/re-connections, maintenance? What about gRPC specifically? The answer is heavily connected to the network stack used by Kubernetes, but with the “Mesh Network” revolution, It's not always clear how it works anymore and what the options are."
+[gRPC Load Balancing inside Kubernetes](https://blog.nobugware.com/post/2019/kubernetes_mesh_network_load_balancing_grpc_services/) — "How to deal with disconnections/re-connections, maintenance? What about gRPC specifically? The answer is heavily connected to the network stack used by Kubernetes, but with the "Mesh Network" revolution, It's not always clear how it works anymore and what the options are."
 
 [Kafka on Kubernetes, the easy way](https://banzaicloud.com/blog/kafka-on-k8s-simplified/) — If you want Kafka on Kubernetes, start here.
 

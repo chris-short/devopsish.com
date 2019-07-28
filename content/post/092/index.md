@@ -29,7 +29,6 @@ Seamlessly navigate between logs, metrics, and request traces for a clear view o
 [**Office Hours: Developing on Kubernetes**](http://bit.ly/2Nso0wq)  
 Learn how to develop and push your apps to Kubernetes in our Office Hours every Thursday 10am PT — This week's topic: Progressive Delivery (A/B testing, Blue/Green, Canary) - Part 1. [Register here](http://bit.ly/2Nso0wq) *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 

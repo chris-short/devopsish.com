@@ -28,7 +28,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 [**Continuous delivery on modern infrastructure - Run GoCD on Kubernetes**](https://www.gocd.org/kubernetes)  
 Model Docker-based build workflows more effectively with our GoCD Kubernetes integration. Run GoCD natively on Kubernetes, define your build workflow and let GoCD provision and scale build infrastructure on the fly. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## Last Week's Top Five
 

@@ -20,7 +20,6 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 [**The real story on container, cloud, and data adoption**](https://www.oreilly.com/pub/cpc/175842)  
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 

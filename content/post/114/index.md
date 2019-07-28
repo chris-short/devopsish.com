@@ -25,7 +25,6 @@ Check out GoCD's latest blog in CD Metrics series. It talks about what lead time
 [**Triangle DevOps presents DevOps is Not War with Chris Short of Red Hat**](https://www.meetup.com/triangle-devops/events/257189603/)  
 Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid friction during your DevOps journey. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
 

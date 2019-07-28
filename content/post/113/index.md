@@ -11,7 +11,7 @@ title = "113: Ansible Operator, Groundhog Day, DevOps Team Topologies, OSS CS De
 
 +++
 
-If you received this e-mail, it means we all made it through another [Groundhog Day](https://www.imdb.com/title/tt0107048/) here in the US ([it's a real "holiday"](https://en.wikipedia.org/wiki/Groundhog_Day)). The movie, starring Bill Murray, is hands down, bar none one of the best movies ever made. A curmudgeonly news reporter is sent to cover a groundhog (*Marmota monax*, also called “woodchuck”) peeking out of its hole; if it sees its shadow, it means six more weeks of winter. But the reporter ends up repeating the same day over and over again until he gets his poop in a group. It ends happily, but the journey was truly formative. Again, this movie is up there with some of the best.
+If you received this e-mail, it means we all made it through another [Groundhog Day](https://www.imdb.com/title/tt0107048/) here in the US ([it's a real "holiday"](https://en.wikipedia.org/wiki/Groundhog_Day)). The movie, starring Bill Murray, is hands down, bar none one of the best movies ever made. A curmudgeonly news reporter is sent to cover a groundhog (*Marmota monax*, also called "woodchuck") peeking out of its hole; if it sees its shadow, it means six more weeks of winter. But the reporter ends up repeating the same day over and over again until he gets his poop in a group. It ends happily, but the journey was truly formative. Again, this movie is up there with some of the best.
 
 It is a lot like DevOps (or any kind of orchestrated change). You show up intending to do one thing and end up having to do a bunch of other stuff. Then you start measuring, optimizing, and you start getting to the stuff in the backlog. You'll get through some of that backlog at a good clip once you have processes in place to handle day-to-day operations. Once you're executing at a high level like this, things get easier to optimize. There's a [Trough of Disillusionment](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) along the way, but it does end happily most of the time. The journey might be more torture than learning at times, but you need to stick to it. The outcome is the goal, not the tools or how you got to it.
 
@@ -21,7 +21,6 @@ Check out GoCD's latest blog in CD Metrics series. It talks about what lead time
 [**Triangle DevOps presents DevOps is Not War with Chris Short of Red Hat**](https://www.meetup.com/triangle-devops/events/257189603/)  
 Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to prevent conflict during your DevOps journey. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
 
@@ -59,7 +58,7 @@ Apple **finally** took action against [Facebook](https://www.businessinsider.com
 
 [How to Respond to Any Crisis (IT or Otherwise) in an Organized Way](https://thenewstack.io/how-to-respond-to-any-crisis-it-or-otherwise-in-an-organized-way/) — A talk about PagerDuty's Incident Response process
 
-[If You Think “Digital Transformation” is About Kubernetes, You're Wrong](https://content.pivotal.io/pivotal-blog/digital-transformation-kubernetes) — People, Process, Tools. They're in that order for a reason.
+[If You Think "Digital Transformation" is About Kubernetes, You're Wrong](https://content.pivotal.io/pivotal-blog/digital-transformation-kubernetes) — People, Process, Tools. They're in that order for a reason.
 
 [Linux Kernel Spectre Protection Changes to Boost App Performance](https://www.bleepingcomputer.com/news/linux/linux-kernel-spectre-protection-changes-to-boost-app-performance/) — Welcome news from my choked to death eighth-gen Intel i5.
 

@@ -24,7 +24,6 @@ Discover how you can get greater visibility into how and where you're being atta
 [**The real story on container, cloud, and data adoption**](https://www.oreilly.com/pub/cpc/175842)  
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 
@@ -42,7 +41,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [How to Deal with Difficult People on Software Projects](https://people.neilon.software/) — You can explore these Problem Personalities with the [visual map](https://people.neilon.software/). This could come in handy.
 
-[The Science of the Job Search, Part VII: You Only Need 50% of Job “Requirements”](https://talent.works/blog/2018/11/27/the-science-of-the-job-search-part-vii-you-only-need-50-of-job-requirements/) — A lot of data here but basically, "Apply for jobs once you match 50% of job requirements."
+[The Science of the Job Search, Part VII: You Only Need 50% of Job "Requirements"](https://talent.works/blog/2018/11/27/the-science-of-the-job-search-part-vii-you-only-need-50-of-job-requirements/) — A lot of data here but basically, "Apply for jobs once you match 50% of job requirements."
 
 [How to Manage Morale When a Well-Liked Employee Leaves](https://hbr.org/2018/11/how-to-manage-morale-when-a-well-liked-employee-leaves) — Remain patient, celebrate, ask for candor, and be ready to take some criticism. Take all this and work through what's next with the remaining team together.
 

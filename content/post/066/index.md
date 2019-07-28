@@ -51,7 +51,7 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 * [Tammy Butow](http://tammybutow.com/)
 * [Liz Rice](https://www.lizrice.com/)
 
-[2018: My Year of “No”](https://you.women2.com/2018-my-year-of-no-b862acadebd8) by Chloe Condon
+[2018: My Year of "No"](https://you.women2.com/2018-my-year-of-no-b862acadebd8) by Chloe Condon
 
 [36 people in container tech you should be following](https://medium.com/containercamp/35-people-in-container-tech-you-should-be-following-5300bd4766a0)
 

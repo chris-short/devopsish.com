@@ -1,7 +1,7 @@
 <aside class="col-sm-3 ml-auto blog-sidebar">
 
   <section class="sidebar-module">
-    <p><a href="/"><img src="{{ .Site.BaseURL }}img/DevOpsish.png" alt="DevOps'ish" /></a></p>
+    <p><a href="/" title="DevOps'ish"><img src="{{ .Site.BaseURL }}img/DevOpsish.png" alt="DevOps'ish" /></a></p>
     {{ partial "carbon_ads_partial" . }}
   </section>
 
@@ -24,6 +24,7 @@
 
   {{ if .Site.Params.sidebar }}
   {{ partialCached "recent.html" .}}
+  <p><a href="/what-is-devops/" title="What is DevOps?"><strong>What is DevOps?</strong></a></p>
   {{ end }}
 
   {{ with .Site.Menus.sidebar }}

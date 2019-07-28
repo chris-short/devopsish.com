@@ -25,7 +25,6 @@ Bankrate rewired my brain from proactive to reactive in a way I thought I had tr
 [**Continuous Delivery for Mobile Development — GoCD**](https://www.gocd.org/2017/10/31/mobile-app-continuous-delivery-gocd/?utm_campaign=cd_mobile_dev&utm_medium=email&utm_source=devopsish_newsletter&utm_content=cd_mobile_dev&utm_term=)  
 This post chronicles a mobile app development team's journey to continuous delivery, the challenges along the way, how they overcame them and their thoughts beyond continuous delivery. [Check it out](https://www.gocd.org/2017/10/31/mobile-app-continuous-delivery-gocd/?utm_campaign=cd_mobile_dev&utm_medium=email&utm_source=devopsish_newsletter&utm_content=cd_mobile_dev&utm_term=). *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## People
 

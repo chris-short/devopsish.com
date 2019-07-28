@@ -32,7 +32,6 @@ To get 20% off enter code ***DevOpsish20*** when registering to attend.
 Website: [https://allthingsopen.org](https://allthingsopen.org)
 To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/register-now)
 
-{{< sponsor-blurb >}}
 
 ## People
 

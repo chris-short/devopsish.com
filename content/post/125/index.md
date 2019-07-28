@@ -32,7 +32,6 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [Get started logging in a few minutes with a free trial](https://logdna.com/sign-up/?utm_medium=Syndication&utm_campaign=DevOpsish&utm_source=DevOpsish). *SPONSORED*
 
-{{< sponsor-blurb >}}
 
 ## DevOps'ish Top Five from Last Week
 

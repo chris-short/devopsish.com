@@ -24,7 +24,6 @@ A weekly e-mail from the majestically named Dieter Van der Stock that condenses 
 [**"Now my husband dresses better than our toddler!" —Julie Short**](https://devopsi.sh/stitchfix)  
 StitchFix delivers stylist-picked clothes to you with free shipping & returns. It has boosted my confidence, improved my self image, and my significant other is elated. It's a win-win! *REFERRAL*
 
-{{< sponsor-blurb >}}
 
 ## People
 
