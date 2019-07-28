@@ -95,4 +95,6 @@ Referencing an issue ticket in each commit is a development best practice. It im
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1140779753286201344 >}}
+[![DevOps'ish Tweet of the Week][tweet]](https://twitter.com/abbyfuller/status/1140779753286201344)
+
+[tweet]: 133-tweet-of-the-week.png
