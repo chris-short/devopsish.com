@@ -21,6 +21,8 @@ The [Joint Staff has already said, "Our warfighters need this capability now."](
 
 If you are in the US (most of you are), do me a favor this week, please. Reach out to your [Representatives](https://www.house.gov/representatives) and [Senators](https://www.senate.gov/general/contact_information/senators_cfm.cfm). Tell them the politics over JEDI needs to stop and we need to give our service members the tools they need to do their job right. Demand that the JEDI selection moves forward with AWS and Azure as the final two bidders. Don't force the Department of Defense to use potentially inferior tooling. Who wants Oracle getting $10 billion more in US taxpayer money anyway?
 
+A deeper dive on JEDI and how Oracle's objections to it harm US national sercurity interests is available: [Use The Force, Larry: Oracle Playing Politics with Nation's Defense](https://chrisshort.net/use-the-force-larry-oracle-playing-politics-with-nations-defense/)
+
 [**Get $100 to Demo Blue Matador The Alert Automation Service**](https://www.bluematador.com/demo-for-100-devopsish)  
 Blue Matador is alert automation for AWS and Kubernetes environments. Our proactive alerts take the time and toil out of monitoring. See production issues before anyone else. We're so confident you'll love it that we're offering $100 to demo it with our team. *SPONSORED*
 
