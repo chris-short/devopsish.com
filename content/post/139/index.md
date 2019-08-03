@@ -33,6 +33,8 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 ## Process
 
+[The DevOps Issue | Linux Journal](https://www.linuxjournal.com/content/devops-issue?utm_source=devopsish&utm_medium=newsletter&utm_campaign=139) (subscription required) — This month's edition of Linux Journal is all about DevOps. I highly encourage everyone to share with folks getting started on their journey or somewhere along the trough of disillusionment.
+
 [JEDI: Oracle Playing Politics with Nation's Defense](https://chrisshort.net/use-the-force-larry-oracle-playing-politics-with-nations-defense/) — "Senator Marco Rubio has sent letters to the President urging further scrutinization of [JEDI](https://devopsish.com/tags/jedi/). [D]uring his failed presidential run in 2016, Senator Rubio took $4 million from Oracle co-founder Larry Ellison. It's also worth noting that Oracle's CEO was on Trump's Transition Team."
 
 [Amazon vs. Oracle: Effort to turn Trump against Amazon's bid for $10B contract](https://www.cnn.com/2019/07/26/politics/oracle-trump-amazon-defense-contract-conspiracy/index.html) — "White House officials in recent weeks have shown Trump a document that alleges a large conspiracy to award Amazon a 10-year, $10 billion contract to build the Pentagon's cloud computing network, according to three sources familiar with the matter. The document, obtained by CNN, is identical to one created by Oracle's top Washington lobbyist, Kenneth Glueck, an executive vice president with the company, Glueck tells CNN."
@@ -44,7 +46,9 @@ Discover the true value of Developer Relations as you learn to build and maintai
 [**Get $100 to Demo Blue Matador The Alert Automation Service**](https://cshort.co/2YKgZg4)  
 Blue Matador is alert automation for AWS and Kubernetes environments. Our proactive alerts take the time and toil out of monitoring. See production issues before anyone else. We're so confident you'll love it that we're offering $100 to demo it with our team. *SPONSORED*
 
-TOOLS
+[Why Kubernetes will disappear](https://levelup.gitconnected.com/why-kubernetes-will-disappear-10ffcfb39f01?gi=9107aafda7ae) — This went viral, for good reason. The article dicusses how, "the prize of ubiquity is invisibility," which, in my opinion, is much the same way Linux has become the universal standard. Kubernetes will eventually be the [layer 7](https://chrisshort.net/drawings/osi-model/) commodity on top of the OS (or the OS itself if you're looking at Google's [Container-Optimized OS](https://cloud.google.com/container-optimized-os/docs/)). This is good! It's good because it reminds us all that while Kubernetes is awesome, it still isn't the destination.
+
+
 
 ## DevOps'ish Tweet of the Week
 
