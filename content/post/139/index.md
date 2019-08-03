@@ -11,7 +11,7 @@ title = "139: Dark Side of JEDI, "
 
 +++
 
-INTRO
+This week the coverage of JEDI: Oracle's use of a fake dossier, lobbying, and more to persuade the award of a massive government contract to AWS. 
 
 ## DevOps'ish Last Week's Top Five
 
@@ -33,11 +33,11 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 ## Process
 
-[JEDI: Oracle Playing Politics with Nation's Defense](https://chrisshort.net/use-the-force-larry-oracle-playing-politics-with-nations-defense/) — "Regardless of your politics or nationality, if you live in the post-World War II 'west' you likely will be impacted by [JEDI](https://devopsish.com/tags/jedi/)."
+[JEDI: Oracle Playing Politics with Nation's Defense](https://chrisshort.net/use-the-force-larry-oracle-playing-politics-with-nations-defense/) — "Senator Marco Rubio has sent letters to the President urging further scrutinization of [JEDI](https://devopsish.com/tags/jedi/). [D]uring his failed presidential run in 2016, Senator Rubio took $4 million from Oracle co-founder Larry Ellison. It's also worth noting that Oracle's CEO was on Trump's Transition Team."
 
 [Amazon vs. Oracle: Effort to turn Trump against Amazon's bid for $10B contract](https://www.cnn.com/2019/07/26/politics/oracle-trump-amazon-defense-contract-conspiracy/index.html) — "White House officials in recent weeks have shown Trump a document that alleges a large conspiracy to award Amazon a 10-year, $10 billion contract to build the Pentagon's cloud computing network, according to three sources familiar with the matter. The document, obtained by CNN, is identical to one created by Oracle's top Washington lobbyist, Kenneth Glueck, an executive vice president with the company, Glueck tells CNN."
 
-[After Trump cites Amazon concerns, Defense Secretary Mark Esper’s Pentagon reexamines $10 billion JEDI cloud contract process](https://www.washingtonpost.com/business/2019/08/01/after-trump-cites-amazon-concerns-pentagon-re-examines-billion-jedi-cloud-contract-process/?utm_term=.4efc4954fd9a) (WaPo) — "The 11th-hour Oval Office intervention comes just weeks before the winning bid was expected to be announced and has now left a major military priority up in the air, said the officials, who spoke on the condition of anonymity to discuss the closed-door process freely."
+[After Trump cites Amazon concerns, Defense Secretary Mark Esper's Pentagon reexamines $10 billion JEDI cloud contract process](https://www.washingtonpost.com/business/2019/08/01/after-trump-cites-amazon-concerns-pentagon-re-examines-billion-jedi-cloud-contract-process/?utm_term=.4efc4954fd9a) (WaPo) — "The 11th-hour Oval Office intervention comes just weeks before the winning bid was expected to be announced and has now left a major military priority up in the air, said the officials, who spoke on the condition of anonymity to discuss the closed-door process freely."
 
 ## Tools
 
