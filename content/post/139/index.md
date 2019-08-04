@@ -6,12 +6,10 @@ date = 2019-08-04T07:00:00Z
 description = ""
 draft = false
 slug = "139"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "JEDI", "Oracle", "jq"]
-title = "139: Dark Side of JEDI, "
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "JEDI", "Oracle", "jq", "CapitalOne"]
+title = "139: Dark side of JEDI, CapitalOne is CapitalScrewed, Pivotal's fall from favor, vanishing k8s, doomed languages, and more"
 
 +++
-
-This week the coverage of JEDI: Oracle's use of a fake dossier, lobbying, and more to persuade the award of a massive government contract to AWS. 
 
 ## DevOps'ish Last Week's Top Five
 
@@ -26,14 +24,20 @@ This week the coverage of JEDI: Oracle's use of a fake dossier, lobbying, and mo
 [**X-Team Is Hiring a Team of DevOps Engineers (Remote)**](https://cshort.co/2GImsty)  
 We are looking for passionate DevOps engineers to work with the world's leading brands, from anywhere. We love to work with Kubernetes, Docker, Serverless, and AWS tools. Travel the world while being part of the most energizing community of developers. [Join X-Team](https://x-team.com/remote-devops-engineer-jobs/?utm_source=devopsish&utm_medium=email-ad) *SPONSORED*
 
-PEOPLE
+[My Preparation Strategy for AWS Solutions Architect Associate Exam](https://sumit-ghosh.com/articles/aws-solutions-architect-associate-preparation/) — One person's person formula.
+
+[The inevitability of K8s: Pivotal CEO describes the pain and benefits of technology transition](https://www.theregister.co.uk/2019/07/29/pivotal_ceo_interview/) — Pivotal has been getting its teeth kicked in lately. It hasn't been pretty to watch.
 
 [**The Business Value of Developer Relations**](https://cshort.co/2K9XsgV)  
 Discover the true value of Developer Relations as you learn to build and maintain positive relationships with your developer community. Use the principles laid out in this book to walk through your company goals and discover how you can formulate a plan tailored to your specific needs. *SPONSORED*
 
 ## Process
 
-[The Technical Side of the Capital One AWS Security Breach](https://start.jcolemorrison.com/the-technical-side-of-the-capital-one-aws-security-breach/) — Another huge breach thanks to AWS IAM misconfiguration. "Since the Server's `IAM Role` allowed for S3 access to those 700+ Buckets, [Paige A. Thompson] was able to access them"
+[CapitalOne's CapitalTwo Day by Corey Quinn](https://www.lastweekinaws.com/blog/capitalones-capitaltwo-day/) — Corey points out what went right and what went wrong in the CaptialOne compromise.
+
+[The Technical Side of the Capital One AWS Security Breach](https://start.jcolemorrison.com/the-technical-side-of-the-capital-one-aws-security-breach/) — Another huge breach thanks to AWS IAM misconfiguration. "Since the Server's `IAM Role` allowed for S3 access to those 700+ Buckets, [the suspect] was able to access them"
+
+[Capital One's Cloud Misconfiguration Woes Have Been an Industry-Wide Fear](https://thenewstack.io/capital-ones-cloud-misconfiguration-woes-have-been-an-industry-wide-fear/)
 
 [Linux Journal: The DevOps Issue](https://www.linuxjournal.com/content/devops-issue?utm_source=devopsish&utm_medium=newsletter&utm_campaign=139) (subscription required) — This month's edition of Linux Journal is all about DevOps. I highly encourage everyone to share with folks getting started on their journey or somewhere along the trough of disillusionment.
 
@@ -49,10 +53,14 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 [Treading in Haunted Graveyards by Liz Fong Jones](https://www.honeycomb.io/blog/treading-in-haunted-graveyards/) — "[W]e switched from engineers using direct token access to modify our production environment to centralized push-on-green deployment"
 
+[Container Platform Security at Cruise](https://medium.com/cruise/container-platform-security-7a3057a27663) — "~~Best~~ practices for enterprise-grade Kubernetes security."
+
 ## Tools
 
 [**Get $100 to Demo Blue Matador The Alert Automation Service**](https://cshort.co/2YKgZg4)  
 Blue Matador is alert automation for AWS and Kubernetes environments. Our proactive alerts take the time and toil out of monitoring. See production issues before anyone else. We're so confident you'll love it that we're offering $100 to demo it with our team. *SPONSORED*
+
+[Introducing Fedora CoreOS](https://fedoramagazine.org/introducing-fedora-coreos/) — The successor to Fedora Atomic Host and CoreOS Container Linux has a [preview build available](https://getfedora.org/en/coreos/download/).
 
 [Why Kubernetes will disappear](https://levelup.gitconnected.com/why-kubernetes-will-disappear-10ffcfb39f01?gi=9107aafda7ae) — This went viral, for good reason. The article dicusses how, "the prize of ubiquity is invisibility," which, in my opinion, is much the same way Linux has become the universal standard. Kubernetes will eventually be the [layer 7](https://chrisshort.net/drawings/osi-model/) commodity on top of the OS (or the OS itself if you're looking at Google's [Container-Optimized OS](https://cloud.google.com/container-optimized-os/docs/)). This is good! It's good because it reminds us all that while Kubernetes is awesome, it still isn't the destination.
 
@@ -60,11 +68,25 @@ Blue Matador is alert automation for AWS and Kubernetes environments. Our proact
 
 [Learn a little jq, awk, and sed](https://letterstoanewdeveloper.com/2019/07/29/learn-a-little-jq-awk-and-sed/) — I think I blew a former co-worker's mind when I showed them `jq` and `sed` piped together once. Throw in `awk` and you might as started thinking about building an operating system. j/k
 
-[5 Programming Languages That Are Probably Doomed](https://insights.dice.com/2019/07/29/5-programming-languages-probably-doomed/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=139) — Ruby, Haskell, Objective-C, R, and Perl make up the list. I'm still blown away there's as much Perl as there is in the world today. True story, my first job out of the Air Force was at McClatchy Interactive. The CMS that powered thirty-one daily newspaper sites was written in Perl. It was advanced architecturally though (some microservices, definitely some resource pools for different workloads, MySQL database sharding, and a lot of YAML). It ended up collapsing under its own weight but, more the weight of the market. It was the newspaper industry afterall; the glory days had long past. But, to me, that was the last great Perl thing I worked on. What about you?
+[5 Programming Languages That Are Probably Doomed](https://insights.dice.com/2019/07/29/5-programming-languages-probably-doomed/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=139) — Ruby, Haskell, Objective-C, R, and Perl make up the list. I'm still blown away there's as much Perl as there is in the world today. True story, my first job out of the Air Force was at McClatchy Interactive. The CMS that powered thirty-one daily newspaper sites was written in Perl. It was advanced architecturally though (some microservices, definitely some resource pools for different workloads, MySQL database sharding, and a lot of YAML). It ended up collapsing under its own weight but, more the weight of the market. It was the newspaper industry afterall; the glory days had long past. But, to me, that was the last great Perl thing I worked on. What about you? Hit reply or comment on [reddit](https://reddit.com/r/devopsish/).
+
+[IBM debuts integrations and consulting services for Red Hat's OpenShift container platform](https://venturebeat.com/2019/08/01/ibm-debuts-integrations-and-consulting-services-for-red-hats-openshift-container-platform/) — IBM is integrating Red Hat's products into its existing product lineup. It's not that big of a jump given the long bond between IBM and Red Hat. Plus, the acquisition was announced in Oct 2018. But, "Over 100 products across IBM’s extensive software library form the basis of Cloud Paks, all of which are optimized to run on OpenShift." is a logical way for IBM to do it.
+
+[How We Built A Logging Stack at Grab](https://engineering.grab.com/how-built-logging-stack) — How Grab runs ELK
+
+[SolarWinds Tips: Alerting ~~Best~~ Practices](https://loop1.com/swblog/solarwinds-tip-alerting-best-practices/) — If you're a Solarwinds user, here as some helpful tips on alerting.
 
 [airbnb/cloud-maker](https://github.com/airbnb/cloud-maker) — "Building castles in the sky" CloudMaker is a tool for launching and configuring EC2 instances. It works as an extension to the Ubuntu CloudInit system.
 
 [TailorDev/Watson](https://github.com/TailorDev/Watson) — "A wonderful CLI to track your time!"
+
+[deadpixi/mtm](https://github.com/deadpixi/mtm) "Perhaps the smallest useful terminal multiplexer in the world."
+
+[servian/aws-auto-remediate](https://github.com/servian/aws-auto-remediate) — "Open source application to instantly remediate common security issues through the use of AWS Config"
+
+[lucperkins/strato](https://github.com/lucperkins/strato) — "An all-in-one data service for microservices, FaaS functions, etc. gRPC and HTTP interfaces."
+
+[estafette/estafette-gke-preemptible-killer](https://github.com/estafette/estafette-gke-preemptible-killer) — "Kubernetes controller that ensures deletion of preemptible nodes in a GKE cluster is spread out to avoid the risk of all getting deleted at the same time after 24 hours"
 
 ## DevOps'ish Tweet of the Week
 
