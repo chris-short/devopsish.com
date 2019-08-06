@@ -11,6 +11,8 @@ I started the DevOps'ish newsletter in 2016 with hopes of lowerering the barrier
 
 > "Self-promotion is a leadership and political skill that is critical to master in order to navigate the realities of the workplace and position you for success." ― Bonnie Marcus
 
+## Tweets
+
 [!["Even on vacation, I sneak in a couple newsletters. My fave link in the latest DevOps'ish (besides the ASODR survey ‘natch) is the one about open office spaces." —Nicole Forsgren][nicolefv]](https://twitter.com/nicolefv/status/1113069829001568256)
 
 [!["I read this NL every week @ChrisShort gathers an amazing collection of tech #OpenSource #DevOps news. Worth a read and a subscription!" —Kim McMahon][kamcmahon]](https://twitter.com/kamcmahon/status/1085654763193098240)
@@ -19,7 +21,15 @@ I started the DevOps'ish newsletter in 2016 with hopes of lowerering the barrier
 
 [!["Aspiring DevOps/Cloud peoples - great newsletter (DevOpsish) by @ChrisShort. Complete w/ Telegram group to chat." —Bashfulrobot][Bashfulrobot]](https://twitter.com/Bashfulrobot/status/1130907202594562048)
 
-## Special Thanks
+## Quotes
+
+"If you want to get the lowdown on all things DevOps, you could do a lot worse than Chris Short. He boasts outstanding credentials – he’s a CNCF ambassador, has experience with Red Hat and Ansible – but more importantly is the quality of his insights.
+
+A great place to begin is with [DevOps'ish](https://devopsish.com), a newsletter Short produces, which features some really valuable discussions on the biggest issues and talking points in the field."
+
+Source: [*18 people in tech every programmer and software engineer needs to follow in 2019*](https://hub.packtpub.com/18-people-in-tech-every-programmer-and-software-engineer-needs-to-follow-in-2019/) by Richard Gall for Packt
+
+### Special Thanks
 
 Special thanks to CNCF TOC member and Weaveworks CEO, [Alexis Richardson](https://twitter.com/monadic/status/1155136182088622080) for the suggestion of Praise for the title of this page.
 
