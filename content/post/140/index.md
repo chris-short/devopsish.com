@@ -40,6 +40,8 @@ Blue Matador is alert automation for AWS and Kubernetes environments. Our proact
 
 TOOLS
 
+[kopf](https://github.com/zalando-incubator/kopf) — Kopf, Kubernetes Operator Pythonic Framework, is a framework and a library to make Kubernetes operators development easier, just in few lines of Python code. The main goal is to bring the Domain-Driven Design to the infrastructure level, with Kubernetes being an orchestrator/database of the domain objects (custom resources), and the operators containing the domain logic (with no or minimal infrastructure logic).
+
 ## DevOps'ish Tweet of the Week
 
 [![DevOps'ish Tweet of the Week][tweet]](https://twitter.com/EricaJoy/status/1158432433324187650)
