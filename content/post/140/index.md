@@ -38,9 +38,13 @@ PROCESS
 [**Get $100 to Demo Blue Matador The Alert Automation Service**](https://cshort.co/2YKgZg4)  
 Blue Matador is alert automation for AWS and Kubernetes environments. Our proactive alerts take the time and toil out of monitoring. See production issues before anyone else. We're so confident you'll love it that we're offering $100 to demo it with our team. *SPONSORED*
 
+[2019 Cloud Native Computing Foundation (CNCF) Cloud Native Survey Call to Participate](https://www.cncf.io/blog/2019/08/08/2019-cncf-cloud-native-survey-call-to-participate/)
+
 TOOLS
 
 [kopf](https://github.com/zalando-incubator/kopf) — Kopf, Kubernetes Operator Pythonic Framework, is a framework and a library to make Kubernetes operators development easier, just in few lines of Python code. The main goal is to bring the Domain-Driven Design to the infrastructure level, with Kubernetes being an orchestrator/database of the domain objects (custom resources), and the operators containing the domain logic (with no or minimal infrastructure logic).
+
+[Hugo for GitHub Organization Pages](https://github.com/marketplace/actions/hugo-for-github-organization-pages) — GitHub Actions for building Hugo extended and deploying to a Github Organization Pages Submodule Repository
 
 ## DevOps'ish Tweet of the Week
 
@@ -48,4 +52,4 @@ TOOLS
 
 [tweet]: 140-tweet-of-the-week.png
 
-Notes from this week's issue can be found on [GitHub](https://github.com/chris-short/devopsish.com/blob/master/content/post/139/notes.md)
+Notes from this week's issue can be found on [GitHub](https://github.com/chris-short/devopsish.com/blob/master/content/post/140/notes.md)
