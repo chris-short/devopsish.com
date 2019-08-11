@@ -3,13 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-08-11T07:00:00Z
-description = ""
+description = "Kubernetes, DevOps, AWS, Community, Operators, and More"
 draft = false
 slug = "140"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news"]
-title = "140"
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "community", "AWS", "Operators"]
+title = "140: Kubernetes, DevOps, AWS, Community, Operators, and More"
 
 +++
+
+A challenging week due to my injuries. I'll be down for the count Monday afternoon to help. I'll hopefully be back at normal operating happiness by Thursday. I'll have some personal news to share next week.
 
 ## DevOps'ish Last Week's Top Five
 
@@ -21,7 +23,7 @@ title = "140"
 
 ## Events
 
-Event season is picking up in a big way
+Event season is picking up again
 
 [Sensu Summit](https://ti.to/sensu/sensu-summit-2019/discount/DevOpsIsh) is offering DevOps'ish readers *$300 off* the full price ticket price. "Enjoy two days of talks, workshops, and great conversations about all things monitoring."
 
@@ -45,7 +47,7 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 ## Process
 
-[One Misconfig (JIRA) to Leak Them All- Including NASA and Hundreds of Fortune 500 Companies!](https://medium.com/@logicbomb_1/one-misconfig-jira-to-leak-them-all-including-nasa-and-hundreds-of-fortune-500-companies-a70957ef03c7) — Yes, it's a click bait title. Yes, it's a JIRA misconfiguration issue. But, you've probably got an exposed JIRA instance somewhere on your network you should check before you complain to me about it.
+[One Misconfig (JIRA) to Leak Them All- Including NASA and Hundreds of Fortune 500 Companies!](https://medium.com/@logicbomb_1/one-misconfig-jira-to-leak-them-all-including-nasa-and-hundreds-of-fortune-500-companies-a70957ef03c7) — Yes, it's a clickbait title. Yes, it's a JIRA misconfiguration issue. But, you've probably got an exposed JIRA instance somewhere on your network you should check before you complain to me about it.
 
 [DevOps For Dummies Cheat Sheet by Emily Freeman](https://www.dummies.com/business/operations-management/devops-for-dummies-cheat-sheet/) — You know I love a good cheat sheet.
 
@@ -65,6 +67,8 @@ Blue Matador is alert automation for AWS and Kubernetes environments. Our proact
 [2019 Cloud Native Computing Foundation (CNCF) Cloud Native Survey Call to Participate](https://www.cncf.io/blog/2019/08/08/2019-cncf-cloud-native-survey-call-to-participate/) — PRETTY PLEASE take the 2019 CNCF Cloud Native Survey!
 
 [kopf](https://github.com/zalando-incubator/kopf) — Kopf, Kubernetes Operator Pythonic Framework, is a framework and a library to make Kubernetes operators development easier, just in few lines of Python code. The main goal is to bring the Domain-Driven Design to the infrastructure level, with Kubernetes being an orchestrator/database of the domain objects (custom resources), and the operators containing the domain logic (with no or minimal infrastructure logic).
+
+[A Drupal Operator for Kubernetes with the Ansible Operator SDK](https://www.jeffgeerling.com/blog/2019/drupal-operator-kubernetes-ansible-operator-sdk) — Jeff Geerling walks us through Kubernetes Operators with Ansible
 
 [Question: Memory requests and OOM killer in Kubernetes?](https://www.reddit.com/r/kubernetes/comments/clhi23/question_memory_requests_and_oom_killer_in/) (reddit) — A wonderful discussion about Kubernetes memory limits in which Kubernetes cofounder Tim Hockin chimes in with, "set memory limit == request almost always." Sounds like solid advice to me!
 
@@ -90,7 +94,7 @@ Blue Matador is alert automation for AWS and Kubernetes environments. Our proact
 
 [munnerz/kubewg](https://github.com/munnerz/kubewg) — Use Kubernetes to manage & distribute Wireguard configuration
 
-[encode/httpx](https://github.com/encode/httpx) — A next generation HTTP client for Python
+[encode/httpx](https://github.com/encode/httpx) — A next-generation HTTP client for Python
 
 ## DevOps'ish Tweet of the Week
 
