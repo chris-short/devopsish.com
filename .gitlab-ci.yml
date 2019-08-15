@@ -17,7 +17,6 @@ build-preview:
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - apk --no-cache update
-    - apk --no-cache add git
     - rm -rf public || exit 0
   script:
     - hugo -DF --config config.preview.toml
@@ -36,7 +35,6 @@ build-production:
   image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - apk --no-cache update
-    - apk --no-cache add git
     - rm -rf public || exit 0
   script:
     - hugo --minify --config config.toml
