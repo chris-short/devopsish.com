@@ -14,7 +14,7 @@ build-preview:
     paths:
       - public
     expire_in: 1d
-  image: registry.gitlab.com/pages/hugo:latest
+  image: registry.gitlab.com/pages/hugo:0.56.3
   before_script:
     - apk --no-cache update
     - rm -rf public || exit 0
@@ -32,7 +32,7 @@ build-production:
     paths:
       - public
     expire_in: 3d
-  image: registry.gitlab.com/pages/hugo:latest
+  image: registry.gitlab.com/pages/hugo:0.56.3
   before_script:
     - apk --no-cache update
     - rm -rf public || exit 0
