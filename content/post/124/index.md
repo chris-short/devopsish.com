@@ -106,3 +106,5 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1118816110571339778 >}}
+
+Notes from this week's issue can be found [here](./notes/).

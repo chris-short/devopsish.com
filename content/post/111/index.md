@@ -115,3 +115,5 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1085291025143382017 >}}
+
+Notes from this week's issue can be found [here](./notes/).

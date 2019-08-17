@@ -117,3 +117,5 @@ Try LogDNA - [Start free trial](https://logdna.com/sign-up/?utm_medium=Syndicati
 This thread from Justin Garrison is everything.
 
 {{< tweet 1124698927997960192 >}}
+
+Notes from this week's issue can be found [here](./notes/).

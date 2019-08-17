@@ -117,3 +117,5 @@ Two tweets of the week because both were too good not too share.
 {{< tweet 1093299827121709061 >}}
 
 {{< tweet 1093664596341211136 >}}
+
+Notes from this week's issue can be found [here](./notes/).

@@ -95,3 +95,5 @@ Survey results reveal the path organizations face as they integrate cloud native
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1145787863235223552 >}}
+
+Notes from this week's issue can be found [here](./notes/).

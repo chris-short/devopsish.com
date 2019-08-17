@@ -7,7 +7,7 @@ description = "Kubernetes, DevOps, AWS, Community, Operators, and More"
 draft = false
 slug = "141"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news"]
-title = "141"
+title = "141: The Odyssey of BPF"
 
 +++
 
@@ -51,7 +51,7 @@ Featuring interviews with Developer Relations professionals from many successful
 
 ## Tools
 
-TOOLS
+[BPF Performance Tools by Brendan Gregg](https://amzn.to/2z6EeTi) (Amazon) — Pre-order The Odyssey of BPF today! Seriously it's 700 pages, y'all.
 
 ## DevOps'ish Tweet of the Week
 
@@ -59,4 +59,4 @@ TOOLS
 
 [tweet]: 141-tweet-of-the-week.png
 
-Notes from this week's issue can be found [here](/141/notes/).
+Notes from this week's issue can be found [here](./notes/).

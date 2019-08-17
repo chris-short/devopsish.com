@@ -140,3 +140,5 @@ Over the past 500 years, there have been 16 cases of a rising power threatening 
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1095273479887310848 >}}
+
+Notes from this week's issue can be found [here](./notes/).

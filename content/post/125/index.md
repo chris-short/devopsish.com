@@ -128,3 +128,5 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1122117406372057090 >}}
+
+Notes from this week's issue can be found [here](./notes/).

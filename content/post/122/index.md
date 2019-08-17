@@ -116,3 +116,5 @@ How well does your organization respond to changing market conditions, customer 
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1113239960348499968 >}}
+
+Notes from this week's issue can be found [here](./notes/).
