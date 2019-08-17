@@ -17,23 +17,23 @@ NEWSLETTER NOTE
 
 ## DevOps'ish Last Week's Top Five
 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [DevOps For Dummies Cheat Sheet by Emily Freeman](https://www.dummies.com/business/operations-management/devops-for-dummies-cheat-sheet/)
+1. [Syslog: The Complete System Administrator Guide](https://devconnected.com/syslog-the-complete-system-administrator-guide/)
+1. [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
+1. [DevOps For Dummies by Emily Freeman](https://amzn.to/2YWRrsr) (Amazon)
+1. [Why I Turned Down an AWS Job Offer](https://www.lastweekinaws.com/blog/why-i-turned-down-an-aws-job-offer/)
 
 ## Events
 
-Event season is upon us but the good news is I have discounts to some of the hottest events this year:
+Event season is upon us but the good news is DevOps'ish has discounts to some of the hottest events this year.
 
-[PagerDuty Summit 2019](https://summit.pagerduty.com/) is Sept 23-25 in San Francisco. It's three days of interactive workshops, keynotes, and breakouts with topics focusing on cutting edge incident response techniques, resilience engineering, managing team health, continuous improvement, DevSecOps, machine learning, and other intersections with real-time operations. Join experts from Google, Microsoft, Hashicorp, Twilio, Salesforce, Gremlin, Honeycomb, Adobe, AWS, and more. [Register](https://summit.pagerduty.com/summit2019/register?c_280637=PDS19OT) with code PDS19DOISH to save 50% and attend for $350. *SPONSORED*
+[**PagerDuty Summit 2019**](https://summit.pagerduty.com/) is Sept 23-25 in San Francisco. It's three days of interactive workshops, keynotes, and breakouts with topics focusing on cutting edge incident response techniques, resilience engineering, managing team health, continuous improvement, DevSecOps, machine learning, and other intersections with real-time operations. Join experts from Google, Microsoft, Hashicorp, Twilio, Salesforce, Gremlin, Honeycomb, Adobe, AWS, and more. [Register](https://summit.pagerduty.com/summit2019/register?c_280637=PDS19OT) with code *PDS19DOISH* to save 50% and attend for $350. *SPONSORED*
 
-[AnsibleFest is coming to Atlanta](https://cshort.co/fest-reg)! There are some amazing sessions that are lined up for this year. I'm also happy to say that there will be a number of sessions about containers and Kubernetes. This includes the "Building Kubernetes Operators with Ansible Hands-On Workshop" I'll be helping with. Take 20% off standard rates using discount code ANFCSDO19 [when registering](https://cshort.co/fest-reg). Come see what my awesome Red Hat friends have put together for us!
+[AnsibleFest is coming to Atlanta](https://cshort.co/fest-reg)! There are some amazing sessions that are lined up for this year. I'm also happy to say that there will be a number of sessions about containers and Kubernetes. This includes the "Building Kubernetes Operators with Ansible Hands-On Workshop" I'll be helping with. Take 20% off standard rates using discount code *ANFCSDO19* [when registering](https://cshort.co/fest-reg). Come see what my awesome Red Hat friends have put together for us!
 
 [Sensu Summit](https://ti.to/sensu/sensu-summit-2019/discount/DevOpsIsh) is offering DevOps'ish readers *$300 off* the full price ticket price. "Enjoy two days of talks, workshops, and great conversations about all things monitoring."
 
-DevOpsDays Raleigh
+[DevOpsDays Raleigh 2019 is October 1st and 2nd](https://devopsdays.org/events/2019-raleigh/welcome/)! DevOps'ish readers can take $10 off admission with discount code *DODR2019-ISH* when registering. See you in Raleigh!
 
 ## People
 
@@ -59,4 +59,4 @@ TOOLS
 
 [tweet]: 141-tweet-of-the-week.png
 
-Notes from this week's issue can be found on [GitHub](https://github.com/chris-short/devopsish.com/blob/master/content/post/141/notes.md)
+Notes from this week's issue can be found [here](/141/notes/).
