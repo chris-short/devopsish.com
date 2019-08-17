@@ -34,18 +34,14 @@
   {{- with .Site.Params.fb_app_id }}
     <meta property="fb:app_id" content="{{ . }}" />
   {{- end }}
-    <meta property="og:url" content="{{ .URL | absLangURL }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     <!-- Hugo Version number -->
     {{ .Hugo.Generator -}}
     <!-- Links and stylesheets -->
-    <link rel="canonical" href="{{ .URL | absLangURL }}" />
-  {{- if .RSSLink }}
-    <link rel="alternate" href="{{ .RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}">
-  {{- else }}
-    <link rel="alternate" href="{{ .Site.RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}">
-  {{- end }}
+    <link rel="canonical" href="{{ .Permalink }}" />
+    <link rel="alternate" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" type="application/rss+xml" title="{{ .Site.Title }}">
     <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet" type="text/css"{{ if not .Site.Params.disable_sri }} integrity="{{ .Site.Data.sri.style}}" crossorigin="anonymous"{{ end }}>
 
   {{- with .Site.Params.favicon }}
