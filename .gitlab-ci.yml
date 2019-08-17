@@ -14,7 +14,7 @@ build-preview:
     paths:
       - public
     expire_in: 1d
-  image: registry.gitlab.com/pages/hugo:0.56.3
+  image: monachus/hugo:latest
   before_script:
     - apk --no-cache update
     - rm -rf public || exit 0
