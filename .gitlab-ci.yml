@@ -14,7 +14,7 @@ build-preview:
     paths:
       - public
     expire_in: 1d
-  image: monachus/hugo:latest
+  image: monachus/hugo:v0.56.3
   before_script:
     - apt-get -y update
     - rm -rf /var/lib/apt/lists/* || exit 0
@@ -33,7 +33,7 @@ build-production:
     paths:
       - public
     expire_in: 3d
-  image: monachus/hugo:latest
+  image: monachus/hugo:v0.56.3
   before_script:
     - apt-get -y update
     - rm -rf /var/lib/apt/lists/* || exit 0
