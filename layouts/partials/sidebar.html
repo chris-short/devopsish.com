@@ -32,7 +32,7 @@
     <h4>{{ i18n "links" }}</h4>
     <ol class="list-unstyled">
       {{ range . }}
-      <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+      <li><a href="{{ .Permalink }}">{{ .Name }}</a></li>
       {{ end }}
     </ol>
   </section>
