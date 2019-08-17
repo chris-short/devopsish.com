@@ -7,7 +7,7 @@ description = "Kubernetes, DevOps, AWS, Community, Operators, and More"
 draft = false
 slug = "141"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news"]
-title = "141: The Odyssey of BPF"
+title = "141: The BPF version of Homer's Odyssey, "
 
 +++
 
@@ -51,7 +51,7 @@ Featuring interviews with Developer Relations professionals from many successful
 
 ## Tools
 
-[BPF Performance Tools by Brendan Gregg](https://amzn.to/2z6EeTi) (Amazon) — Pre-order The Odyssey of BPF today! Seriously it's 700 pages, y'all.
+[BPF Performance Tools by Brendan Gregg](https://amzn.to/2z6EeTi) (Amazon) — Pre-order The BPF version of Homer's Odyssey today! Seriously it's 700 pages, y'all. I'm certain it's worth every penny though.
 
 ## DevOps'ish Tweet of the Week
 
