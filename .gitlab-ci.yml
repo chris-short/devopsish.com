@@ -16,7 +16,8 @@ build-preview:
     expire_in: 1d
   image: monachus/hugo:latest
   before_script:
-    - apk --no-cache update
+    - apt-get -y update
+    - rm -rf /var/lib/apt/lists/*
     - rm -rf public || exit 0
   script:
     - hugo -v -DF --config config.preview.toml
