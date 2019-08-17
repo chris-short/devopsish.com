@@ -17,7 +17,7 @@ build-preview:
   image: monachus/hugo:latest
   before_script:
     - apt-get -y update
-    - rm -rf /var/lib/apt/lists/*
+    - rm -rf /var/lib/apt/lists/* || exit 0
     - rm -rf public || exit 0
   script:
     - hugo -v -DF --config config.preview.toml
@@ -33,9 +33,10 @@ build-production:
     paths:
       - public
     expire_in: 3d
-  image: registry.gitlab.com/pages/hugo:0.56.3
+  image: monachus/hugo:latest
   before_script:
-    - apk --no-cache update
+    - apt-get -y update
+    - rm -rf /var/lib/apt/lists/* || exit 0
     - rm -rf public || exit 0
   script:
     - hugo -v --minify --config config.toml
