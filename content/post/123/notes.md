@@ -4,7 +4,7 @@ categories = ["Notes"]
 date = 2019-04-14T07:00:00Z
 description = "Notes from DevOps'ish 123"
 draft = false
-slug = "123/notes"
+url = "123/notes"
 
 title = "Notes from DevOps'ish 123"
 +++
