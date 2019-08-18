@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-08-18T07:00:00Z
-description = ""
+description = "Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more"
 draft = false
 url = "141"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news"]
-title = "141: Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, "
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "Ansible", "OpenShift", "Google", "Red Hat", "AWS", "BPF", "database", "ITIL"]
+title = "141: Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more"
 
 +++
 
@@ -56,7 +56,7 @@ We are looking for passionate DevOps engineers to work with the world's leading 
 
 [The Dark Side of DevOps](https://youtu.be/gi-i5NvxVLM) (YouTube) — "People think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows and roses. You start small, work your way up or you decide as an organizational unit to change. These are two patterns associated with a Jedi-type maturation process of DevOps. Like in Star Wars, DevOps has a dark side. This talk by Chris Short of Red Hat provides examples of successful and failed DevOps transformations, as well as some lessons learned along the way."
 
-[Why our team cancelled our move to microservices](https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952) — It should not be a surprise to readers of this newsletter that microservices aren't for everyone. When you have external dependencies that you can't decouple easily, that monolith looks really nice.
+[Why our team canceled our move to microservices](https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952) — It should not be a surprise to readers of this newsletter that microservices aren't for everyone. When you have external dependencies that you can't decouple easily, that monolith looks really nice.
 
 [AWS forbids partners even mentioning multi-cloud!](https://www.crn.com.au/news/aws-forbids-partners-even-mentioning-multi-cloud-529598) — AWS asks its partners to say, "What other clouds are you even talking about? In the air?" AWS has told partners they shouldn't use "terms like 'multi-cloud,' 'cross cloud,' 'any cloud,' 'every cloud,' 'or any other language that implies designing or supporting more than one cloud provider.'" Let me know how that works out.
 
@@ -64,7 +64,7 @@ We are looking for passionate DevOps engineers to work with the world's leading 
 
 [Microsoft Screws Customers and its Own Advocates Alike](https://www.lastweekinaws.com/blog/microsoft-screws-customers-and-its-own-advocates-alike/) — "Surprise! After Oct. 1, licenses you purchase for your Windows workloads become significantly more expensive to run in any cloud provider that isn’t Microsoft Azure. All of your budget planning, all of your resource forecasts? Throw them into the garbage and start over." Or maybe this is a way to get people off Windows? 🤔🤔🤔
 
-[These Legit-Looking iPhone Lightning Cables Will Hijack Your Computer](https://www.vice.com/en_us/article/evj4qw/these-iphone-lightning-cables-will-hack-your-computer) — To hell with your hardward and software supply chain. I just need to figure out where your IT department buys its cables from.
+[These Legit-Looking iPhone Lightning Cables Will Hijack Your Computer](https://www.vice.com/en_us/article/evj4qw/these-iphone-lightning-cables-will-hack-your-computer) — To hell with your hardware and software supply chain. I just need to figure out where your IT department buys its cables from.
 
 [**DevRel is a Force Multiplier**](https://cshort.co/2K9XsgV)  
 Featuring interviews with Developer Relations professionals from many successful companies including Red Hat, Google, Chef, Docker, Mozilla, SparkPost, Heroku, Twilio, CoreOS, and more, and with a foreword by Jono Bacon, *The Business Value of Developer Relations* is the perfect book for anyone who is working in the tech industry and wants to understand where DevRel is now and how to get involved. Don’t get left behind — join the community today. *SPONSORED*
@@ -89,15 +89,15 @@ Featuring interviews with Developer Relations professionals from many successful
 
 [CNCF Archives the rkt Project](https://www.cncf.io/blog/2019/08/16/cncf-archives-the-rkt-project/) — Retiring projects is the sign of a healthy ecosystem. When we look back at what CoreOS did for containers and the early days of the cloud native ecosystem we'll be quite thankful.
 
-[target/portauthority](https://github.com/target/portauthority) — API that leverages Clair to scan Docker Registries and Kubernetes Clusters for vulnerabilities
+[target/portauthority](https://github.com/target/portauthority) — API that leverages Clair to scan Container Registries and Kubernetes Clusters for vulnerabilities
 
 [vbatts/BuildSourceImage](https://github.com/vbatts/BuildSourceImage) — Tool to build a source image based on an existing OCI image
 
-[Issif/falcosidekick](https://github.com/Issif/falcosidekick) — A simple daemon to help you with falco's outputs.
+[Issif/falcosidekick](https://github.com/Issif/falcosidekick) — A simple daemon to help you with Falco's outputs.
 
-[grampelberg/k8s-clusters](https://github.com/grampelberg/k8s-clusters) — Simple kubernetes clusters on cloud providers for development
+[grampelberg/k8s-clusters](https://github.com/grampelberg/k8s-clusters) — Simple Kubernetes clusters on cloud providers for development
 
-[alexlokshin/kube-entropy](https://github.com/alexlokshin/kube-entropy) — Simplistic chaos engineering tool for kubernetes application resilience testing
+[alexlokshin/kube-entropy](https://github.com/alexlokshin/kube-entropy) — Simplistic chaos engineering tool for Kubernetes application resilience testing
 
 [muesli/gitomatic](https://github.com/muesli/gitomatic) — A tool to monitor git repositories and automatically pull & push changes
 
