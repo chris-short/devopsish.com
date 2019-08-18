@@ -96,3 +96,5 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1139679107485032448 >}}
+
+Notes from this week's issue can be found [here](./notes/).

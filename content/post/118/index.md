@@ -111,3 +111,5 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1103746792850669568 >}}
+
+Notes from this week's issue can be found [here](./notes/).

@@ -106,3 +106,5 @@ A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Tod
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1145090529371275264 >}}
+
+Notes from this week's issue can be found [here](./notes/).

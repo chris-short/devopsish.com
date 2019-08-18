@@ -113,3 +113,5 @@ Works on Arm (WOA) is how I keep up with most of my Arm news. The editor is a lo
 When my biological mother left my father in the late 1980s, she joined a [cult](https://chrisshort.net/foundation-for-purposeful-living/). Of course, she dragged my brother and me along. One thing this [cult](https://chrisshort.net/foundation-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/) did, which could be viewed as an abomination, introduce me to is Buddhism (and Islam, Judaism, Hinduism, Christianity, and worshiping a "guru") against my will. However, there are some pretty good life lessons in Buddhism. I'm finding them more and more pertinent as time goes on. Thus this week's DevOps'ish Tweet of the Week.
 
 {{< tweet 1098892705873022976 >}}
+
+Notes from this week's issue can be found [here](./notes/).

@@ -35,7 +35,6 @@ The DevOps Roadmap for Security eBook: Tips and tools for bridging the security 
 [**The real story on container, cloud, and data adoption**](https://www.oreilly.com/pub/cpc/175842)  
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*
 
-
 ## People
 
 [Ashley McNamara created a Patreon](https://www.patreon.com/ashleymcnamara) (finally) — Y'all know what to do.
@@ -137,3 +136,5 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1073688115066347520 >}}
+
+Notes from this week's issue can be found [here](./notes/).

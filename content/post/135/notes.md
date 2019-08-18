@@ -1,3 +1,18 @@
++++
+author = "Chris Short"
+categories = ["Notes"]
+date = 2019-07-07T07:00:00Z
+description = "Notes from DevOps'ish 135"
+draft = false
+url = "135/notes"
+
+title = "Notes from DevOps'ish 135"
++++
+
+{{< notes-note >}}
+
+## Notes
+
 [How Amazon and the Cops Set Up an Elaborate Sting Operation That Accomplished Nothing - VICE](https://www.vice.com/en_us/article/43jmnq/how-amazon-and-the-cops-set-up-elaborate-sting-operation-that-accomplished-nothing)
 
 [What happens when we hit URL in Browser?](https://www.freecodecamp.org/news/what-happens-when-you-hit-url-in-your-browser/)

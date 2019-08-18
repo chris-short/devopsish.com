@@ -128,3 +128,5 @@ I found out about this first thing Friday morning when I e-mailed Jess asking ab
  Also, if you work on GitHub Actions, please reach out to myself or John "gundalow" Barker. We have thoughts.
 
 {{< tweet 1088812740934799360 >}}
+
+Notes from this week's issue can be found [here](./notes/).

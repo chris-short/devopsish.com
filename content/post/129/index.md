@@ -104,3 +104,5 @@ I'll be in Durham, NC 28-30 May and Raleigh 3-7 June. If you want to get togethe
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1131584970194018304 >}}
+
+Notes from this week's issue can be found [here](./notes/).

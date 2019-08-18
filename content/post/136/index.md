@@ -105,3 +105,5 @@ Kubernetes and containers are changing how applications are built, deployed, and
 [chris-short/DevOps-README.md](https://github.com/chris-short/DevOps-README.md) — What to Read to Learn More About DevOps
 
 [poseidon/typhoon](https://github.com/poseidon/typhoon) — Minimal and free Kubernetes distribution
+
+Notes from this week's issue can be found [here](./notes/).

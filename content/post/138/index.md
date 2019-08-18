@@ -109,3 +109,5 @@ Discover the true value of Developer Relations as you learn to build and maintai
 [tweet]: 138-tweet-of-the-week.png
 
 Notes from this week's issue can be found on [GitHub](https://github.com/chris-short/devopsish.com/blob/master/content/post/138/notes.md)
+
+Notes from this week's issue can be found [here](./notes/).

@@ -6,7 +6,7 @@ date = 2019-01-20T07:00:00Z
 description = "Kubernetes Security, Earn More in DevOps, Jim Whitehurst, Where to Work in Tech, and More"
 draft = false
 slug = "111"
-tags = ["kubernetes", "docker", "devops", "open source", "cloud", "tech", "github", "cloud native", "ansible", "aws", "linux", "red hat", "container", "security"]
+tags = ["kubernetes", "docker", "devops", "open source", "cloud", "tech", "github", "cloud native", "ansible", "aws", "linux", "red hat", "container", "security", "ITIL"]
 title = "111: Kubernetes Security, Earn More in DevOps, Jim Whitehurst, Where to Work in Tech, and More"
 
 +++
@@ -115,3 +115,5 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1085291025143382017 >}}
+
+Notes from this week's issue can be found [here](./notes/).

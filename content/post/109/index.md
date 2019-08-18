@@ -112,3 +112,5 @@ A pair of Kubernetes security issues this week. #shoutout to the Kubernetes Prod
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1081418769849700352 >}}
+
+Notes from this week's issue can be found [here](./notes/).

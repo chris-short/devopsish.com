@@ -122,3 +122,5 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1076532900806311936 >}}
+
+Notes from this week's issue can be found [here](./notes/).

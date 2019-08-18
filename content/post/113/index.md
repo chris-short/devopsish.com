@@ -95,3 +95,5 @@ Apple **finally** took action against [Facebook](https://www.businessinsider.com
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1091465574998249472 >}}
+
+Notes from this week's issue can be found [here](./notes/).

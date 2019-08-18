@@ -107,3 +107,5 @@ Please take this year's survey. It is a handful of questions, will provide actio
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1133820760617836550 >}}
+
+Notes from this week's issue can be found [here](./notes/).

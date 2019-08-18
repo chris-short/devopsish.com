@@ -14,13 +14,13 @@ build-preview:
     paths:
       - public
     expire_in: 1d
-  image: registry.gitlab.com/pages/hugo:0.56.3
+  image: monachus/hugo:v0.56.3
   before_script:
-    - apk --no-cache update
-    - apk --no-cache add git
+    - apt-get -y update
+    - rm -rf /var/lib/apt/lists/* || exit 0
     - rm -rf public || exit 0
   script:
-    - hugo -DF --config config.preview.toml
+    - hugo -v -DF --config config.preview.toml
   except:
     - master
 
@@ -33,13 +33,13 @@ build-production:
     paths:
       - public
     expire_in: 3d
-  image: registry.gitlab.com/pages/hugo:0.56.3
+  image: monachus/hugo:v0.56.3
   before_script:
-    - apk --no-cache update
-    - apk --no-cache add git
+    - apt-get -y update
+    - rm -rf /var/lib/apt/lists/* || exit 0
     - rm -rf public || exit 0
   script:
-    - hugo --minify --config config.toml
+    - hugo -v --minify --config config.toml
   only:
     - master
 

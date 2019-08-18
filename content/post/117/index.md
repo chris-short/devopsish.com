@@ -123,3 +123,5 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 i was born with a 16-year old mother in a third world country with no father, no money, just us against the world so excuse me if im a little emotional for making it to university admissions because no one even expected me to graduate high school
 
 — kylie!!! (@kylie_robison) [March 1, 2019](https://twitter.com/kylie_robison/status/1101570518665158656?ref_src=twsrc%5Etfw)
+
+Notes from this week's issue can be found [here](./notes/).

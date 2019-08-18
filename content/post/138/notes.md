@@ -1,3 +1,17 @@
++++
+author = "Chris Short"
+categories = ["Notes"]
+date = 2019-07-28T07:00:00Z
+description = "Notes from DevOps'ish 138"
+draft = false
+url = "138/notes"
+title = "Notes from DevOps'ish 138"
++++
+
+{{< notes-note >}}
+
+## Notes
+
 [Want to hire the best programmers? Offer growth. - Triplebyte Blog](https://triplebyte.com/blog/want-hire-best-programmers-offer-growth)
 
 [Mozilla debuts implementation of WebThings Gateway open source router firmware | VentureBeat](https://venturebeat.com/2019/07/25/mozilla-debuts-webthings-gateway-open-source-router-firmware-for-turris-omnia/)
