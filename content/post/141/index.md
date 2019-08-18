@@ -48,7 +48,7 @@ We are looking for passionate DevOps engineers to work with the world's leading 
 
 [What Does a Coder Do If They Can't Type?](https://nsaphra.github.io/post/hands/) — "I have been in pain for four years... He then kicked me out of his office for using the word 'fucking'. 'We do not tolerate cursing', said a sign in the lobby." Having to cope with a physical ailment or disability is bad enough. But, figuring out how to work while people literally won't believe you when you say something's wrong is a superhuman capability a few of us have.
 
-[How Smaller Cities Are Luring High-Tech Talent](https://www.wired.com/story/how-smaller-cities-trying-plug-brain-drain/) — Tech heavy metropolitan areas make up the landing place for an enormous amount of smart people. The states getting hit the hardest include Vermont, Delaware, Ohio, Michigan, and South Carolina among others. How do you beat this? It's not only salaries and benefits.
+[How Smaller Cities Are Luring High-Tech Talent](https://www.wired.com/story/how-smaller-cities-trying-plug-brain-drain/) — Tech heavy metropolitan areas make up the landing places for an enormous amount of smart people. The states getting hit the hardest include Vermont, Delaware, Ohio, Michigan, and South Carolina among others. How do you beat this? It's not only salaries and benefits.
 
 [25 Years at IBM!](https://integratedcode.us/2019/08/14/25-years-at-ibm/) — Congrats to Phil Estes on 25 years at IBM. This is an amazing feat in our industry and should be celebrated.
 
@@ -56,11 +56,11 @@ We are looking for passionate DevOps engineers to work with the world's leading 
 
 [The Dark Side of DevOps](https://youtu.be/gi-i5NvxVLM) (YouTube) — "People think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows and roses. You start small, work your way up or you decide as an organizational unit to change. These are two patterns associated with a Jedi-type maturation process of DevOps. Like in Star Wars, DevOps has a dark side. This talk by Chris Short of Red Hat provides examples of successful and failed DevOps transformations, as well as some lessons learned along the way."
 
-[Why our team canceled our move to microservices](https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952) — It should not be a surprise to readers of this newsletter that microservices aren't for everyone. When you have external dependencies that you can't decouple easily, that monolith looks really nice.
+[Why our team canceled our move to microservices](https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952) — It should not be a surprise to readers of this newsletter that microservices aren't for everyone. When you have external dependencies that you can't decouple easily; that monolith looks really nice.
 
 [AWS forbids partners even mentioning multi-cloud!](https://www.crn.com.au/news/aws-forbids-partners-even-mentioning-multi-cloud-529598) — AWS asks its partners to say, "What other clouds are you even talking about? In the air?" AWS has told partners they shouldn't use "terms like 'multi-cloud,' 'cross cloud,' 'any cloud,' 'every cloud,' 'or any other language that implies designing or supporting more than one cloud provider.'" Let me know how that works out.
 
-[Is it important to learn ITIL for a DevOps role?](https://www.reddit.com/r/devops/comments/cowe8e/is_it_important_to_learn_itil_for_a_devops_role/) (/r/devops) — I think this is a very valid question. I learned ITIL before DevOps was a thing. Knowing what ITIL is, its intent, and its proper use as a guidebook and not edicts has been incredibly beneficial to me and my career. Should you know what ITIL is and how it works, yes, if you intend to work in environments or industries that have used or are trying to move away from ITIL.
+[Is it important to learn ITIL for a DevOps role?](https://www.reddit.com/r/devops/comments/cowe8e/is_it_important_to_learn_itil_for_a_devops_role/) (/r/devops) — I think this is a very valid question. I learned ITIL before DevOps was a thing. Knowing what ITIL is, its intent, and its proper use as a guidebook and not edicts has been incredibly beneficial to me and my career. Should you know what ITIL is and how it works? Yes! If you intend to work in environments or industries that have used or are trying to move away from ITIL it helps to know what you're up against.
 
 [Microsoft Screws Customers and its Own Advocates Alike](https://www.lastweekinaws.com/blog/microsoft-screws-customers-and-its-own-advocates-alike/) — "Surprise! After Oct. 1, licenses you purchase for your Windows workloads become significantly more expensive to run in any cloud provider that isn’t Microsoft Azure. All of your budget planning, all of your resource forecasts? Throw them into the garbage and start over." Or maybe this is a way to get people off Windows? 🤔🤔🤔
 
@@ -71,15 +71,15 @@ Featuring interviews with Developer Relations professionals from many successful
 
 ## Tools
 
-[BPF Performance Tools by Brendan Gregg](https://amzn.to/2z6EeTi) (Amazon) — Pre-order The BPF version of Homer's Odyssey today! Seriously it's 700 pages, y'all. I'm certain it's worth every penny though.
+[BPF Performance Tools by Brendan Gregg](https://amzn.to/2z6EeTi) (Amazon) — Pre-order The BPF version of Homer's Odyssey today! Seriously, it's 700 pages, y'all. I'm certain it's worth every penny though.
 
 [schemahero/schemahero](https://github.com/schemahero/schemahero) — A Kubernetes operator for declarative database schema management (GitOps for database schemas)
 
-[The dark side of kubeconfig](https://banzaicloud.com/blog/kubeconfig-security/) — That contents of that .kube directory is WAY more important than a lot of people realize.
+[The dark side of kubeconfig](https://banzaicloud.com/blog/kubeconfig-security/) — The contents of that .kube directory are WAY more important than a lot of people realize.
 
 [A brief history of Kubernetes, OpenShift, and IBM](https://developer.ibm.com/blogs/a-brief-history-of-red-hat-openshift/) — A good history of the product I'm about to work on: OpenShift.
 
-[The Horror of Microsoft Teams](https://medium.com/@joshuamkite/the-horror-of-microsoft-teams-c18360712361) — I bet it's better than the affront to good vision, GSuite Hangouts that Red Hat has decided is the chat platform of choice for the company. I rarely use it and am in Slack most of the day with some IRC too. Most of the people I know that have been forced to use anyone one product typically hate it. Give employees the flexibility to decouple their e-mail vendor from their chat vendor.
+[The Horror of Microsoft Teams](https://medium.com/@joshuamkite/the-horror-of-microsoft-teams-c18360712361) — I bet it's better than the affront to good vision, GSuite Hangouts that Red Hat has decided is the chat platform of choice for the company. I rarely use it and am in Slack most of the day with some IRC too. Most of the people I know that have been forced to use one product typically hate it. Give employees the flexibility to decouple their e-mail vendor from their chat vendor.
 
 [Building an auto-deployment pipeline using Jenkins and Ansible](https://www.redhat.com/sysadmin/virtual-auto-deployment-pipeline) — "Here's how one team used Ansible roles and Jenkins Pipeline to automate their Red Hat Virtualization for testing."
 
