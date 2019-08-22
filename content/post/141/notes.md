@@ -7,7 +7,7 @@ description = "Notes from DevOps'ish 141"
 draft = false
 url = "141/notes"
 tags = ["devops", "community", "google", "cloud", "kubernetes", "aws"]
-title = "Notes from DevOps'ish 141"
+title = "DevOps'ish 141 Notes"
 
 +++
 

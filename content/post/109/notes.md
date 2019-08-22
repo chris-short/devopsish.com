@@ -5,7 +5,7 @@ date = 2019-01-06T07:00:00Z
 description = "Notes from DevOps'ish 109"
 draft = false
 url = "109/notes"
-title = "Notes from DevOps'ish 109"
+title = "DevOps'ish 109 Notes"
 +++
 
 {{< notes-note >}}

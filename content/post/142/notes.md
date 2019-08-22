@@ -2,12 +2,12 @@
 
 author = "Chris Short"
 categories = ["Notes"]
-date = 2019-08-18T07:00:00Z
+date = 2019-08-25T07:00:00Z
 description = "Notes from DevOps'ish 142"
 draft = false
 url = "142/notes"
 tags = ["devops", "community", "google", "cloud", "kubernetes", "aws"]
-title = "Notes from DevOps'ish 142"
+title = "DevOps'ish 142 Notes"
 
 +++
 
@@ -19,4 +19,4 @@ title = "Notes from DevOps'ish 142"
 
 ## Notes
 
-
+NOTES
