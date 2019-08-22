@@ -108,3 +108,5 @@ Featuring interviews with Developer Relations professionals from many successful
 [![DevOps'ish Tweet of the Week][tweet]](https://twitter.com/vllry/status/1162371826401460224)
 
 [tweet]: 141-tweet-of-the-week.png
+
+Notes from this week's issue can be found [here](./notes/).
