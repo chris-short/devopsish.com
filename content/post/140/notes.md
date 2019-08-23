@@ -44,7 +44,7 @@ title = "DevOps'ish 140 Notes"
 
 [A Cloud Native Programming Manifesto - Julian Friedman - Medium](https://medium.com/@doctor_julz/a-cloud-native-programming-manifesto-c6e7f24115bd)
 
-[Here’s How Not to Suck at JavaScript - Better Programming - Medium](https://medium.com/better-programming/js-reliable-fdea261012ee)
+[Here's How Not to Suck at JavaScript - Better Programming - Medium](https://medium.com/better-programming/js-reliable-fdea261012ee)
 
 [Jerry Hargrove | History of Amazon Web Services](https://www.awsgeek.com/pages/AWS-History/)
 
@@ -68,7 +68,7 @@ title = "DevOps'ish 140 Notes"
 
 [DataDog/yubikey: Yubikey at Datadog](https://github.com/DataDog/yubikey)
 
-[Broadcom Buys Symantec’s Enterprise Biz.: Good News For Investors; Bad News For Enterprises](https://go.forrester.com/blogs/broadcom-buys-symantecs-enterprise-biz-good-news-for-investors-bad-news-for-enterprises/)
+[Broadcom Buys Symantec's Enterprise Biz.: Good News For Investors; Bad News For Enterprises](https://go.forrester.com/blogs/broadcom-buys-symantecs-enterprise-biz-good-news-for-investors-bad-news-for-enterprises/)
 
 [Hundreds of exposed Amazon cloud backups found leaking sensitive data | TechCrunch](https://techcrunch.com/2019/08/09/aws-ebs-cloud-backups-leak/)
 
@@ -76,14 +76,14 @@ title = "DevOps'ish 140 Notes"
 
 [Building Kubernetes Operators in an Ansible-native way - chrisshort.net](https://chrisshort.net/cfp/building-kubernetes-operators-with-ansible/)
 
-[Domino’s takes its case for non-accessible design to the Supreme Court | Ars Technica](https://arstechnica.com/tech-policy/2019/08/dominos-takes-its-case-for-non-accessible-design-to-the-supreme-court/)
+[Domino's takes its case for non-accessible design to the Supreme Court | Ars Technica](https://arstechnica.com/tech-policy/2019/08/dominos-takes-its-case-for-non-accessible-design-to-the-supreme-court/)
 
 [luksa/kubectl-plugins: My own plugins for kubectl](https://github.com/luksa/kubectl-plugins)
 
 [AT&T employees took bribes to plant malware on the company's network | ZDNet](https://www.zdnet.com/article/at-t-employees-took-bribes-to-plant-malware-on-the-companys-network/)
 
-[With warshipping, hackers ship their exploits directly to their target’s mail room | TechCrunch](https://techcrunch.com/2019/08/06/warshipping-hackers-ship-exploits-mail-room/)
+[With warshipping, hackers ship their exploits directly to their target's mail room | TechCrunch](https://techcrunch.com/2019/08/06/warshipping-hackers-ship-exploits-mail-room/)
 
 [4 bonuses of building a DevOps culture | The Enterprisers Project](https://enterprisersproject.com/article/2019/7/devops-culture-4-benefits-of-building)
 
-[Don’t Put a Digital Expert in Charge of Your Digital Transformation](https://hbr.org/2019/08/dont-put-a-digital-expert-in-charge-of-your-digital-transformation)
+[Don't Put a Digital Expert in Charge of Your Digital Transformation](https://hbr.org/2019/08/dont-put-a-digital-expert-in-charge-of-your-digital-transformation)
