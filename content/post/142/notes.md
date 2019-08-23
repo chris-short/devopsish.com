@@ -17,6 +17,14 @@ title = "DevOps'ish 142 Notes"
 
 {{< notes-note >}}
 
+## DevOps'ish Last Week's Top 6-10
+
+6. [The Horror of Microsoft Teams](https://medium.com/@joshuamkite/the-horror-of-microsoft-teams-c18360712361)
+7. [Ansible Tower vs Ansible AWX for Automation](https://4sysops.com/archives/ansible-tower-vs-ansible-awx-for-automation/)
+8. [The dark side of kubeconfig](https://banzaicloud.com/blog/kubeconfig-security/)
+9. [schemahero/schemahero](https://github.com/schemahero/schemahero)
+10. [muesli/gitomatic](https://github.com/muesli/gitomatic)
+
 ## Notes
 
 NOTES
