@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-08-25T07:00:00Z
-description = "Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more"
+description = "COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more"
 draft = false
 slug = "142"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "COBOL", "git"]
-title = "142: COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, "
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "COBOL", "git", "ops", ""]
+title = "142: COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more"
 
 +++
 
-I wrote something this week on Twitter that I'd like to dive a little deeper into. "I see Kubernetes as an opportunity for Ops folks to reach across the DevOps divides and help Devs understand what concepts Ops has wrangled with everyday around DNS, networking, infrastructure, etc. Kubernetes is a tool that could improve collaboration along logical boundaries."
+I wrote something this week on Twitter that I'd like to dive a little deeper into. "I see Kubernetes as an opportunity for Ops folks to reach across the DevOps divides and help Devs understand what concepts Ops has wrangled with every day around DNS, networking, infrastructure, etc. Kubernetes is a tool that could improve collaboration along logical boundaries."
 
 Google's SRE culture influenced their use of containers and vice versa. Kubernetes is an output of that container use and culture. It shouldn't come as a surprise that a tool built from an SRE culture by container wielding engineers ends up helping that culture grow and spread. I've long said SRE is the metrification of DevOps. But, what Kubernetes can enable in an organization is a singular way in which they orchestrate.
 
