@@ -6,9 +6,9 @@ googleAnalytics = "UA-4498776-13"
 languageCode = "en-us"
 metaDataFormat = "toml"
 newContentEditor = "code"
-paginate = 8
+paginate = 9
 relativeURLs = true
-rssLimit = 5
+rssLimit = 6
 theme = "hugo-theme-bootstrap4-blog"
 title = "DevOps'ish"
 
@@ -31,9 +31,9 @@ title = "DevOps'ish"
     num_recent_posts = 5
 
   [params.stats]
-    subscribers = "3,673"
-    avg_open_rate = "48.1%"
-    avg_click_rate = "22.5%"
+    subscribers = "3,693"
+    avg_open_rate = "47.9%"
+    avg_click_rate = "22.4%"
 
 [Author]
   name = "Chris Short"

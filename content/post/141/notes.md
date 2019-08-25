@@ -5,13 +5,11 @@ categories = ["Notes"]
 date = 2019-08-18T07:00:00Z
 description = "Notes from DevOps'ish 141"
 draft = false
-slug = "141/notes"
-tags = [""]
-title = "Notes from DevOps'ish 141"
+url = "141/notes"
+tags = ["devops", "community", "google", "cloud", "kubernetes", "aws"]
+title = "DevOps'ish 141 Notes"
 
 +++
-
-{{< notes-note >}}
 
 ## Sponsors
 
@@ -21,7 +19,9 @@ We are looking for passionate DevOps engineers to work with the world's leading 
 [**PagerDuty Summit 2019**](https://summit.pagerduty.com/) is Sept 23-25 in San Francisco. It's three days of interactive workshops, keynotes, and breakouts with topics focusing on cutting edge incident response techniques, resilience engineering, managing team health, continuous improvement, DevSecOps, machine learning, and other intersections with real-time operations. Join experts from Google, Microsoft, Hashicorp, Twilio, Salesforce, Gremlin, Honeycomb, Adobe, AWS, and more. [Register](https://summit.pagerduty.com/summit2019/register?c_280637=PDS19OT) with code *PDS19DOISH* to save 50% and attend for $350. *SPONSORED*
 
 [**DevRel is a Force Multiplier**](https://cshort.co/2K9XsgV)  
-Featuring interviews with Developer Relations professionals from many successful companies including Red Hat, Google, Chef, Docker, Mozilla, SparkPost, Heroku, Twilio, CoreOS, and more, and with a foreword by Jono Bacon, *The Business Value of Developer Relations* is the perfect book for anyone who is working in the tech industry and wants to understand where DevRel is now and how to get involved. Don’t get left behind — join the community today. *SPONSORED*
+Featuring interviews with Developer Relations professionals from many successful companies including Red Hat, Google, Chef, Docker, Mozilla, SparkPost, Heroku, Twilio, CoreOS, and more, and with a foreword by Jono Bacon, *The Business Value of Developer Relations* is the perfect book for anyone who is working in the tech industry and wants to understand where DevRel is now and how to get involved. Don't get left behind — join the community today. *SPONSORED*
+
+{{< notes-note >}}
 
 ## Notes
 
@@ -33,7 +33,7 @@ Featuring interviews with Developer Relations professionals from many successful
 
 [How to Respond to “So, Tell Me About Yourself” in a Job Interview](https://hbr.org/2019/08/how-to-respond-to-so-tell-me-about-yourself-in-a-job-interview)
 
-[The Billionaires Behind The Secret Tech Mecca In America’s Heartland](https://www.forbes.com/sites/laurendebter/2019/08/08/jim-kavanaugh-david-steward-world-wide-technology/#40301fc754b4)
+[The Billionaires Behind The Secret Tech Mecca In America's Heartland](https://www.forbes.com/sites/laurendebter/2019/08/08/jim-kavanaugh-david-steward-world-wide-technology/#40301fc754b4)
 
 [DevOps: Beware 3 paths to the dark side | The Enterprisers Project](https://enterprisersproject.com/article/2019/7/devops-mistakes-how-avoid)
 
@@ -41,9 +41,9 @@ Featuring interviews with Developer Relations professionals from many successful
 
 [What is Cloud Native, Really? | Cloud Native | Channel 9](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/What-is-Cloud-Native-Really)
 
-[Automattic’s bargain-bin Tumblr deal plugs right into the WordPress business model | TechCrunch](https://techcrunch.com/2019/08/12/automattics-bargain-bin-tumblr-deal-plugs-right-into-the-wordpress-business-model/)
+[Automattic's bargain-bin Tumblr deal plugs right into the WordPress business model | TechCrunch](https://techcrunch.com/2019/08/12/automattics-bargain-bin-tumblr-deal-plugs-right-into-the-wordpress-business-model/)
 
-[Google Employee Writes Memo About ‘The Burden of Being Black at Google’ - VICE](https://www.vice.com/en_us/article/43kd3w/google-employee-memo-about-being-black-at-google)
+[Google Employee Writes Memo About ‘The Burden of Being Black at Google' - VICE](https://www.vice.com/en_us/article/43kd3w/google-employee-memo-about-being-black-at-google)
 
 [Increasing resilience in Kubernetes - Kudos Engineering - Medium](https://medium.com/kudos-engineering/increasing-resilience-in-kubernetes-b6ddc9fecf80)
 
@@ -53,7 +53,7 @@ Featuring interviews with Developer Relations professionals from many successful
 
 [Found: World-readable database used to secure buildings around the globe | Ars Technica](https://arstechnica.com/information-technology/2019/08/found-world-readable-database-used-to-secure-buildings-around-the-globe/)
 
-[Cisc-o-no! 'We’re being uninvited to bid' on China deals admits CEO as Middle Kingdom snub freaks out investors • The Register](https://www.theregister.co.uk/2019/08/15/cisco_q4_2019/)
+[Cisc-o-no! 'We're being uninvited to bid' on China deals admits CEO as Middle Kingdom snub freaks out investors • The Register](https://www.theregister.co.uk/2019/08/15/cisco_q4_2019/)
 
 [RCJacH/hugo-webslides: This is a Hugo template to create WebSlides presentation using markdown.](https://github.com/RCJacH/hugo-webslides)
 
@@ -73,7 +73,7 @@ Featuring interviews with Developer Relations professionals from many successful
 
 [How Facebook Catches Bugs in Its 100 Million Lines of Code | WIRED](https://www.wired.com/story/facebook-zoncolan-static-analysis-tool/)
 
-[How we’re using Ansible to improve our digital infrastructure - DWP Digital](https://dwpdigital.blog.gov.uk/2019/08/15/how-were-using-ansible-to-improve-our-digital-infrastructure/)
+[How we're using Ansible to improve our digital infrastructure - DWP Digital](https://dwpdigital.blog.gov.uk/2019/08/15/how-were-using-ansible-to-improve-our-digital-infrastructure/)
 
 [NationalSecurityAgency/ghidra-data: Supporting Data Archives for Ghidra](https://github.com/NationalSecurityAgency/ghidra-data)
 
@@ -85,7 +85,7 @@ Featuring interviews with Developer Relations professionals from many successful
 
 [If You Want Engaged Employees, Offer Them Stability](https://hbr.org/2019/08/if-you-want-engaged-employees-offer-them-stability)
 
-[Google employees ‘refuse to be complicit’ in border agency cloud contract - The Verge](https://www.theverge.com/2019/8/14/20805432/google-employees-petition-protest-customs-border-cloud-computing-contract)
+[Google employees ‘refuse to be complicit' in border agency cloud contract - The Verge](https://www.theverge.com/2019/8/14/20805432/google-employees-petition-protest-customs-border-cloud-computing-contract)
 
 [Why, as a software investor, I don't chase fast-growth companies | VentureBeat](https://venturebeat.com/2019/08/10/why-as-a-software-investor-i-dont-chase-fast-growth-companies/)
 

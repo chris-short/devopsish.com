@@ -23,7 +23,7 @@ I started the DevOps'ish newsletter in 2016 with hopes of lowerering the barrier
 
 ## Quotes
 
-"If you want to get the lowdown on all things DevOps, you could do a lot worse than Chris Short. He boasts outstanding credentials – he’s a CNCF ambassador, has experience with Red Hat and Ansible – but more importantly is the quality of his insights.
+"If you want to get the lowdown on all things DevOps, you could do a lot worse than Chris Short. He boasts outstanding credentials – he's a CNCF ambassador, has experience with Red Hat and Ansible – but more importantly is the quality of his insights.
 
 A great place to begin is with [DevOps'ish](https://devopsish.com), a newsletter Short produces, which features some really valuable discussions on the biggest issues and talking points in the field."
 

@@ -5,7 +5,7 @@ categories = ["Weekly", "Newsletter"]
 date = 2019-08-18T07:00:00Z
 description = "Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more"
 draft = false
-url = "141"
+slug = "141"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "Ansible", "OpenShift", "Google", "Red Hat", "AWS", "BPF", "database", "ITIL"]
 title = "141: Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more"
 
@@ -62,12 +62,12 @@ We are looking for passionate DevOps engineers to work with the world's leading 
 
 [Is it important to learn ITIL for a DevOps role?](https://www.reddit.com/r/devops/comments/cowe8e/is_it_important_to_learn_itil_for_a_devops_role/) (/r/devops) — I think this is a very valid question. I learned ITIL before DevOps was a thing. Knowing what ITIL is, its intent, and its proper use as a guidebook and not edicts has been incredibly beneficial to me and my career. Should you know what ITIL is and how it works? Yes! If you intend to work in environments or industries that have used or are trying to move away from ITIL it helps to know what you're up against.
 
-[Microsoft Screws Customers and its Own Advocates Alike](https://www.lastweekinaws.com/blog/microsoft-screws-customers-and-its-own-advocates-alike/) — "Surprise! After Oct. 1, licenses you purchase for your Windows workloads become significantly more expensive to run in any cloud provider that isn’t Microsoft Azure. All of your budget planning, all of your resource forecasts? Throw them into the garbage and start over." Or maybe this is a way to get people off Windows? 🤔🤔🤔
+[Microsoft Screws Customers and its Own Advocates Alike](https://www.lastweekinaws.com/blog/microsoft-screws-customers-and-its-own-advocates-alike/) — "Surprise! After Oct. 1, licenses you purchase for your Windows workloads become significantly more expensive to run in any cloud provider that isn't Microsoft Azure. All of your budget planning, all of your resource forecasts? Throw them into the garbage and start over." Or maybe this is a way to get people off Windows? 🤔🤔🤔
 
 [These Legit-Looking iPhone Lightning Cables Will Hijack Your Computer](https://www.vice.com/en_us/article/evj4qw/these-iphone-lightning-cables-will-hack-your-computer) — To hell with your hardware and software supply chain. I just need to figure out where your IT department buys its cables from.
 
 [**DevRel is a Force Multiplier**](https://cshort.co/2K9XsgV)  
-Featuring interviews with Developer Relations professionals from many successful companies including Red Hat, Google, Chef, Docker, Mozilla, SparkPost, Heroku, Twilio, CoreOS, and more, and with a foreword by Jono Bacon, *The Business Value of Developer Relations* is the perfect book for anyone who is working in the tech industry and wants to understand where DevRel is now and how to get involved. Don’t get left behind — join the community today. *SPONSORED*
+Featuring interviews with Developer Relations professionals from many successful companies including Red Hat, Google, Chef, Docker, Mozilla, SparkPost, Heroku, Twilio, CoreOS, and more, and with a foreword by Jono Bacon, *The Business Value of Developer Relations* is the perfect book for anyone who is working in the tech industry and wants to understand where DevRel is now and how to get involved. Don't get left behind — join the community today. *SPONSORED*
 
 ## Tools
 
@@ -108,3 +108,5 @@ Featuring interviews with Developer Relations professionals from many successful
 [![DevOps'ish Tweet of the Week][tweet]](https://twitter.com/vllry/status/1162371826401460224)
 
 [tweet]: 141-tweet-of-the-week.png
+
+Notes from this week's issue can be found [here](./notes/).

@@ -38,7 +38,7 @@ We are looking for passionate DevOps engineers to work with the world's leading 
 
 [Why I Turned Down an AWS Job Offer](https://www.lastweekinaws.com/blog/why-i-turned-down-an-aws-job-offer/) — The illustrious Corey Quinn and I share at least one thing in common; neither one of us approves of non-compete policies. I think that any employer, AWS in particular, attempting to enact a non-compete is pretty gross. In my opinion, attempting to enforce a non-compete is professional bullying. AWS should indeed be better than this.
 
-[Google Employee Alleges Discrimination Against Pregnant Women in Viral Memo](https://www.vice.com/en_us/article/59nmkx/google-employee-alleges-discrimination-against-pregnant-women-in-viral-memo) — "The memo, titled 'I’m Not Returning to Google After Maternity Leave, and Here is Why,' has been read by more than 10,000 employees at the company."
+[Google Employee Alleges Discrimination Against Pregnant Women in Viral Memo](https://www.vice.com/en_us/article/59nmkx/google-employee-alleges-discrimination-against-pregnant-women-in-viral-memo) — "The memo, titled 'I'm Not Returning to Google After Maternity Leave, and Here is Why,' has been read by more than 10,000 employees at the company."
 
 [Twitter users switch profiles to Germany to escape online hate](https://www.cnbc.com/2019/08/02/twitter-users-switch-profiles-to-germany-to-escape-online-hate.html) — This is a fucked up timeline we're on right now and I can't blame anyone for doing this.
 

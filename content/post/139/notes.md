@@ -5,7 +5,7 @@ date = 2019-08-04T07:00:00Z
 description = "Notes from DevOps'ish 139"
 draft = false
 url = "139/notes"
-title = "Notes from DevOps'ish 139"
+title = "DevOps'ish 139 Notes"
 +++
 
 {{< notes-note >}}
@@ -16,7 +16,7 @@ title = "Notes from DevOps'ish 139"
 
 [How to get the GitHub Student Developer Pack without a student ID - The GitHub Blog](https://github.blog/2019-07-30-how-to-get-the-github-student-developer-pack-without-a-student-id/)
 
-[Bash aliases you can’t live without | Opensource.com](https://opensource.com/article/19/7/bash-aliases)
+[Bash aliases you can't live without | Opensource.com](https://opensource.com/article/19/7/bash-aliases)
 
 [Chaos Engineering — Part 2 - Adrian Hornsby - Medium](https://medium.com/@adhorn/chaos-engineering-part-2-b9c78a9f3dde)
 
@@ -28,7 +28,7 @@ title = "Notes from DevOps'ish 139"
 
 [Ballista: A Distributed Computing Platform Based on Kubernetes and Rust](https://www.technotification.com/2019/07/ballista-a-distributed-computing-platform-based-on-kubernetes-and-rust.html)
 
-[Capital One’s breach was inevitable, because we did nothing after Equifax | TechCrunch](https://techcrunch.com/2019/07/29/capital-one-breach-was-inevitable/)
+[Capital One's breach was inevitable, because we did nothing after Equifax | TechCrunch](https://techcrunch.com/2019/07/29/capital-one-breach-was-inevitable/)
 
 [Controlling Red Hat OpenShift from an OpenShift pod - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/07/25/controlling-red-hat-openshift-from-an-openshift-pod/)
 

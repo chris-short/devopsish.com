@@ -6,7 +6,7 @@ description = "Notes from DevOps'ish 117"
 draft = false
 url = "117/notes"
 
-title = "Notes from DevOps'ish 117"
+title = "DevOps'ish 117 Notes"
 +++
 
 {{< notes-note >}}
