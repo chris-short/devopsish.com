@@ -110,6 +110,4 @@ The founder and CEO of Blue Matador, the alert automation service, will be hosti
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish Tweet of the Week][tweet]](https://twitter.com/maria_fibonacci/status/1150493431199752192)
-
-[tweet]: 137-tweet-of-the-week.png
+{{< tweet 1150493431199752192 >}}
