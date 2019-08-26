@@ -89,8 +89,6 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish Tweet of the Week][tweet]](https://twitter.com/film_girl/status/1165383130812833794)
-
-[tweet]: https://devopsish.com/142/142-tweet-of-the-week.png
+{{< tweet 1165383130812833794 >}}
 
 Notes from this week's issue can be found [here](https://devopsish.com/142/notes/).
