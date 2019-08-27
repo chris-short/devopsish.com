@@ -21,6 +21,8 @@ INTRO
 1. 
 1. 
 
+[See the top ten ->](https://devopsish.com/143/notes/).
+
 ## Events
 
 Event season is upon us but the good news is DevOps'ish has discounts to some of the hottest events this year.

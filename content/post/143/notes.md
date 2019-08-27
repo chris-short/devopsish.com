@@ -17,13 +17,18 @@ title = "DevOps'ish 143 Notes"
 
 {{< notes-note >}}
 
-## DevOps'ish Last Week's Top 6-10
+## DevOps'ish Last Week's Top Ten
 
-* 
-* 
-* 
-* 
-* 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
 
 ## Notes
 
