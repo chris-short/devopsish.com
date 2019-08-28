@@ -51,6 +51,8 @@ TOOLS
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1165383130812833794 >}}
+Please do the open source community a favor and read the whole thread.
+
+{{< tweet 1166100939792474112 >}}
 
 Notes from this week's issue can be found [here](https://devopsish.com/143/notes/).
