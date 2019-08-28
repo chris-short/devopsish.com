@@ -33,6 +33,12 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 ## People
 
+Two people I know are looking for work this week. If you don't mind, forward their info along to the appropriate folks in your organization.
+
+[Nikki McDonald](https://www.linkedin.com/in/nikkimc/) is looking for a full-time content director or conference producer/manager role. It would need to be remote or based in Ann Arbor, Michigan. Nikki is also open to freelance editing/writing work or contract jobs.
+
+[Veronica Hanus](https://www.linkedin.com/in/veronicahanus/) is looking for a role in the Developer Relations space.
+
 PEOPLE
 
 ## Process
