@@ -6,8 +6,8 @@ date = 2019-09-01T07:00:00Z
 description = ""
 draft = false
 slug = "143"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news"]
-title = "143"
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "tanzu"]
+title = "143: Fresh caught Pacific Tanzu, Cluster API, good God Google, JavaScript library ads, and more"
 
 +++
 
@@ -19,7 +19,7 @@ title = "143"
 1. [It's not always true, but sometimes it is true.](https://www.reddit.com/r/kubernetes/comments/ctn93i/its_not_always_true_but_sometimes_it_is_true/)
 1. [walmartlabs/kubeman](https://github.com/walmartlabs/kubeman)
 
-[See the top ten ->](https://devopsish.com/143/notes/).
+[See the top ten ->](https://devopsish.com/143/notes/)
 
 ## Events
 
@@ -63,7 +63,7 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 [Dell announces new Linux XPS 13 developer edition 7390 laptop](https://www.cyberciti.biz/linux-news/dell-announces-new-linux-xps-13-developer-edition-7390-laptop/) — If Apple keeps screwing around with under performing devices, this could be my next laptop.
 
-[Someone Forked GIMP into Glimpse Because Gimp is an Offensive Word](https://itsfoss.com/gimp-fork-glimpse/) — Pulp Fiction came out in 1994. GNU Image Manipulation Program (GIMP) was first released in 1996. I first used it in '98, before I was hurt. I only thought of the Pulp Fiction reference back then. Gimp was a derogatory term long before 1994 and it never should've been name GIMP to begin with. I had to explain what Windows NT was to someone the other day. Before meeting me in 2010, my spouse had never seen Pulp Fiction. A rename is long overdue.
+[Someone Forked GIMP into Glimpse Because Gimp is an Offensive Word](https://itsfoss.com/gimp-fork-glimpse/) — Pulp Fiction came out in 1994. GNU Image Manipulation Program (GIMP) was first released in 1996. I first used it in '98, before I was hurt. I only thought of the Pulp Fiction reference back then. Gimp was a derogatory term long before 1994 and it never should've been named GIMP to begin with. I had to explain what Windows NT was to someone the other day. Before meeting me in 2010, my spouse had never seen Pulp Fiction. A rename is long overdue.
 
 [Bootstrapping a Kubernetes Cluster on AWS with Cluster API](https://blog.scottlowe.org/2019/08/27/bootstrapping-a-kubernetes-cluster-on-aws-with-clusterapi/) — Do you want to build a cluster?
 
