@@ -110,4 +110,8 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 989603219629260800 >}}
+> Here's a thread that should probably be a blog post but I'm tired
+>
+> Thoughts on the current state of SRE:
+>
+> — bletchley punk (@alicegoldfuss) [April 26, 2018](https://twitter.com/alicegoldfuss/status/989603219629260800?utm_source=devopsish&utm_medium=newsletter&utm_campaign=073)

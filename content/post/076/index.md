@@ -109,4 +109,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 997268087429713922 >}}
+> Her palms are sweaty, knees weak, arms are heavy
+> There's errors on her console already, kubernetes
+> 
+> — bletchley punk (@alicegoldfuss) [May 18, 2018](https://twitter.com/alicegoldfuss/status/997268087429713922?utm_source=devopsish&utm_medium=newsletter&utm_campaign=076)
