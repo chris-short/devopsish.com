@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Notes"]
 date = 2019-09-08T07:00:00Z
-description = "Notes from DevOps'ish 143"
+description = "Notes from DevOps'ish 144"
 draft = false
-url = "143/notes"
-title = "DevOps'ish 143 Notes"
+url = "144/notes"
+title = "DevOps'ish 144 Notes"
 
 +++
 
@@ -24,7 +24,7 @@ title = "DevOps'ish 143 Notes"
 1. [It's not always true, but sometimes it is true.](https://www.reddit.com/r/kubernetes/comments/ctn93i/its_not_always_true_but_sometimes_it_is_true/)
 1. [walmartlabs/kubeman](https://github.com/walmartlabs/kubeman)
 1. [Conference Question](https://xkcd.com/2191/)
-1. [Git Cheat Sheet Mug](https://shopkvlly.com/products/git-cheat-sheet-mug?utm_source=devopsish&utm_medium=newsletter&utm_campaign=143&utm_term=git)
+1. [Git Cheat Sheet Mug](https://shopkvlly.com/products/git-cheat-sheet-mug?utm_source=devopsish&utm_medium=newsletter&utm_campaign=144&utm_term=git)
 1. [Google's Eric Brewer on Why Envoy and Istio are the Future of Networking](https://thenewstack.io/googles-eric-brewer-on-why-envoy-and-istio-are-the-future-of-networking/)
 1. [google/kf](https://github.com/google/kf)
 1. [kabachook/k8s-security](https://github.com/kabachook/k8s-security)

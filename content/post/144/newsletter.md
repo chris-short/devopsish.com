@@ -19,7 +19,7 @@ title = "144: "
 1. [It's not always true, but sometimes it is true.](https://www.reddit.com/r/kubernetes/comments/ctn93i/its_not_always_true_but_sometimes_it_is_true/)
 1. [walmartlabs/kubeman](https://github.com/walmartlabs/kubeman)
 
-[See the top ten ->](https://devopsish.com/144/notes/)
+[See the top ten →](https://devopsish.com/144/notes/)
 
 ## Events
 
@@ -27,7 +27,7 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 [**PagerDuty Summit 2019**](https://summit.pagerduty.com/) is Sept 23-25 in San Francisco. It's three days of interactive workshops, keynotes, and breakouts with topics focusing on cutting edge incident response techniques, resilience engineering, managing team health, continuous improvement, DevSecOps, machine learning, and other intersections with real-time operations. Join experts from Google, Microsoft, Hashicorp, Twilio, Salesforce, Gremlin, Honeycomb, Adobe, AWS, and more. [Register](https://summit.pagerduty.com/summit2019/register?c_280637=PDS19OT) with code *PDS19DOISH* to save 50% and attend for $350. *SPONSORED*
 
-[See more Events ->](https://devopsish.com/144/events/)
+[See more Events →](https://devopsish.com/144/events/)
 
 ## People
 
