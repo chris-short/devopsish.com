@@ -6,7 +6,6 @@ date = 2019-08-25T07:00:00Z
 description = "Notes from DevOps'ish 142"
 draft = false
 url = "142/notes"
-tags = ["devops", "community", "google", "cloud", "kubernetes", "aws"]
 title = "DevOps'ish 142 Notes"
 
 +++
