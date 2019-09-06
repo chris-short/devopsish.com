@@ -12,22 +12,25 @@ title = "DevOps'ish 144 Notes"
 
 ## Sponsors
 
+[**Full Alerting Coverage Without the Toil**](https://www.bluematador.com/devopsish)  
+Balance rapid feature development and production stability with alert automation for your cloud infrastructure from Blue Matador. Activate alert automation in your cloud infrastructure today with our free trial. *SPONSORED*
+
 [**PagerDuty Summit 2019**](https://summit.pagerduty.com/) is Sept 23-25 in San Francisco. It's three days of interactive workshops, keynotes, and breakouts with topics focusing on cutting edge incident response techniques, resilience engineering, managing team health, continuous improvement, DevSecOps, machine learning, and other intersections with real-time operations. Join experts from Google, Microsoft, Hashicorp, Twilio, Salesforce, Gremlin, Honeycomb, Adobe, AWS, and more. [Register](https://summit.pagerduty.com/summit2019/register?c_280637=PDS19OT) with code *PDS19DOISH* to save 50% and attend for $350. *SPONSORED*
 
 {{< notes-note >}}
 
 ## DevOps'ish Last Week's Top Ten
 
-1. [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
-1. [WeWTF](https://www.profgalloway.com/wewtf)
-1. [Learn Kubernetes during your Coffee Break - Kubernetes Camp](https://k8s.camp/)
-1. [It's not always true, but sometimes it is true.](https://www.reddit.com/r/kubernetes/comments/ctn93i/its_not_always_true_but_sometimes_it_is_true/)
-1. [walmartlabs/kubeman](https://github.com/walmartlabs/kubeman)
-1. [Conference Question](https://xkcd.com/2191/)
-1. [Git Cheat Sheet Mug](https://shopkvlly.com/products/git-cheat-sheet-mug?utm_source=devopsish&utm_medium=newsletter&utm_campaign=144&utm_term=git)
-1. [Google's Eric Brewer on Why Envoy and Istio are the Future of Networking](https://thenewstack.io/googles-eric-brewer-on-why-envoy-and-istio-are-the-future-of-networking/)
-1. [google/kf](https://github.com/google/kf)
-1. [kabachook/k8s-security](https://github.com/kabachook/k8s-security)
+1. [My Time at Google and After](https://medium.com/@jennifer.blakely/my-time-at-google-and-after-b0af688ec3ab)
+1. [Document Like a Scientist](https://noti.st/karissapeth/g3vUiw)
+1. [DevOps terms: 10 essential concepts, explained](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
+1. [Dell announces new Linux XPS 13 developer edition 7390 laptop](https://www.cyberciti.biz/linux-news/dell-announces-new-linux-xps-13-developer-edition-7390-laptop/)
+1. [Female-free speaker list causes PHP show to collapse when diversity-oriented devs jump ship](https://www.theregister.co.uk/2019/08/27/php_europe_cancelled/)
+1. [curl exercises by Julia Evans](https://jvns.ca/blog/2019/08/27/curl-exercises/)
+1. [sysdiglabs/kubectl-dig](https://github.com/sysdiglabs/kubectl-dig)
+1. [How to Grade DevOps Teams with Nicole Forsgren, PhD](https://www.screaminginthecloud.com/episodes/how-to-grade-devops-teams-with-nicole-forsgren-phd)
+1. [Project Pacific - Technical Overview](https://blogs.vmware.com/vsphere/2019/08/project-pacific-technical-overview.html)
+1. [fcsonline/drill](https://github.com/fcsonline/drill)
 
 ## Notes
 
