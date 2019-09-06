@@ -31,7 +31,7 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 ## People
 
-PEOPLE
+[Veronica Hanus](https://www.linkedin.com/in/veronicahanus/) is looking for a full-time developer advocate role. Veronica is based out of NYC, is okay with remote, and would consider relocation for the right opportunity. In talking to Veronica at DevOpsDays Chicago and via Zoom this week I learned that she is exactly what a company trying to level up their Developer Relations program needs. Veronica's experiences will bring a wealth of knowledge to any organization.
 
 ## Process
 
