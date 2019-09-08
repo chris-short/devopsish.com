@@ -45,11 +45,11 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 [Bang Bros Bought a Huge Porn Doxing Forum and Set Fire to It](https://www.vice.com/en_us/article/9keb4d/bang-bros-bought-pornwikileaks-doxing-forum-and-set-fire-to-it) — "Over 15,000 performers' real names were listed here. Some had phone numbers, addresses, even family members names posted as well. That type of information wasn't voluntarily submitted. It was stolen from anyone that had it posted." That's one way to make an impact in your industry. Also, a great example of taking over a bad thing to do a good thing.
 
-[Chinese tech firm Huawei says it was hacked by the United States](https://www.grahamcluley.com/chinese-tech-firm-huawei-says-it-was-hacked-by-the-united-states/) — To be honest, I don't think many Americans are going to bat an eye at US government cyber operations against China or Chinese industry. The legalities of the operations aside, Chinese government affiliated groups have been hacking US companies for *years*.
+[Chinese tech firm Huawei says it was hacked by the United States](https://www.grahamcluley.com/chinese-tech-firm-huawei-says-it-was-hacked-by-the-united-states/) — To be honest, I don't think many Americans are going to bat an eye at US government cyber operations against China or Chinese industry. The legalities of the operations aside, Chinese government-affiliated groups have been hacking US companies for *years*.
 
 [3 Ways to Motivate Yourself When You Don't Have a Deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline) — Create a system to build artificial deadlines. Incentivize yourself where your boss might not even realize you need one.
 
-[Every Computer Science Degree Should Require a Course in Cybersecurity](https://hbr.org/2019/08/every-computer-science-degree-should-require-a-course-in-cybersecurity) — I have taken a ton of security related courses. It blows my mind how little security is taught in school.
+[Every Computer Science Degree Should Require a Course in Cybersecurity](https://hbr.org/2019/08/every-computer-science-degree-should-require-a-course-in-cybersecurity) — I have taken a ton of security-related courses. It blows my mind how little security is taught in school.
 
 [The Rise of the Serverless Architect](https://read.acloud.guru/the-rise-of-the-serverless-architect-8800d16e9cd4?gi=cb50b1d51de7) — "The focus has expanded to the entire application lifecycle." Also, serverless admin was too ironic.
 
@@ -65,7 +65,7 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 [Microsoft set to close licensing loopholes, leave cloud rivals high and dry](https://www.computerworld.com/article/3435104/microsoft-set-to-close-licensing-loopholes-leave-cloud-rivals-high-and-dry.html) — Licensing an operating system is hard. Licensing an OS with the same model in the cloud and on-prem just doesn't work. Much like how DevOps has changed the industry, the licensing has to change along with that. Now, with that being said, it's possible Microsoft could've gone about this in a more diplomatic way.
 
-[Partners to AWS: 'We're living in a multi-cloud world – get over it'](https://www.arnnet.com.au/article/665835/partners-aws-we-re-living-multi-cloud-world-get-over-it/) — "Customers are increasingly using services from multiple cloud providers, compelling partners to be 'open-minded' and 'agnostic' about who they work with. So why is AWS putting the brakes on this?" Every other cloud, software, and IT vendor are talking about hybrid or multi cloud environments. Does AWS really think it's going to take the entire market? That's a little disturbing, there's more than enough to go around.
+[Partners to AWS: 'We're living in a multi-cloud world – get over it'](https://www.arnnet.com.au/article/665835/partners-aws-we-re-living-multi-cloud-world-get-over-it/) — "Customers are increasingly using services from multiple cloud providers, compelling partners to be 'open-minded' and 'agnostic' about who they work with. So why is AWS putting the brakes on this?" Every other cloud, software, and IT vendor are talking about hybrid or multi-cloud environments. Does AWS really think it's going to take the entire market? That's a little disturbing, there's more than enough to go around.
 
 ## Tools
 
@@ -88,7 +88,7 @@ Balance rapid feature development and production stability with alert automation
 
 [Curl Cookbook](https://catonmat.net/cookbooks/curl) — "I love to cook with curl. Here are some useful curl recipes I often use."
 
-[danielsagi/kube-dnsspoof](https://github.com/danielsagi/kube-dnsspoof) — A POC for DNS spoofing in kubernetes clusters. Runs with minimum capabilities, on default installations of kuberentes.
+[danielsagi/kube-dnsspoof](https://github.com/danielsagi/kube-dnsspoof) — A POC for DNS spoofing in Kubernetes clusters. Runs with minimum capabilities, on default installations of Kubernetes.
 
 [IBM/kone](https://github.com/IBM/kone) — Build and deploy Node.js application on Kubernetes
 
