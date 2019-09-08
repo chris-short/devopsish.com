@@ -2,7 +2,7 @@ baseURL = "https://devopsish.com/"
 copyright = "[Some rights reserved](https://devopsish.com/cc-by-sa-4.0/) | [Terms](https://devopsish.com/terms/) | [Privacy](https://devopsish.com/privacy/) | [Sponsor](https://devopsish.com/sponsor/)"
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = "UA-4498776-13"
+# googleAnalytics = "UA-4498776-13"
 languageCode = "en-us"
 metaDataFormat = "toml"
 newContentEditor = "code"
@@ -31,9 +31,9 @@ title = "DevOps'ish"
     num_recent_posts = 5
 
   [params.stats]
-    subscribers = "3,693"
+    subscribers = "3,721"
     avg_open_rate = "47.9%"
-    avg_click_rate = "22.4%"
+    avg_click_rate = "22.3%"
 
 [Author]
   name = "Chris Short"
