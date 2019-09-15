@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Events"]
 date = 2019-09-15T07:00:00Z
-description = "DevOps'ish 144 Events"
+description = "DevOps'ish 145 Events"
 draft = false
-url = "144/events"
-title = "DevOps'ish 144 Events"
+url = "145/events"
+title = "DevOps'ish 145 Events"
 
 +++
 
