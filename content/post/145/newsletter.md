@@ -7,7 +7,7 @@ description = "Richard Stallman needs to go, Istio 1.13, intelligence gathering 
 draft = false
 slug = "145"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "Python", "Istio", "Microsoft", "Richard Stallman", "AWS"]
-title = "145: No more Richard Stallman (or his ilk), spying in tech, apps at AWS, Istio, 1.13, SSH certificates, Kubernetes issues with iptables, and more"
+title = "145: No more Richard Stallman (or his ilk), spying in tech, apps at AWS, Istio 1.13, SSH certificates, Kubernetes issues with iptables, and more"
 
 +++
 
