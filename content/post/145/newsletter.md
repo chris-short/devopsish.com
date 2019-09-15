@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-09-15T07:00:00Z
-description = "Istio, intelligence gathering for nation states, Python 2's sunset, and a OOCL Hong Kong's worth of Kubernetes"
+description = "Richard Stallman needs to go, Istio 1.13, intelligence gathering for nation states, Python 2's sunset, and a OOCL Hong Kong's container ship worth of Kubernetes"
 draft = false
 slug = "145"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news"]
-title = "145"
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "Python", "Istio", "Microsoft", "Richard Stallman", "AWS"]
+title = "145: No more Richard Stallman (or his ilk), spying in tech, apps at AWS, Istio, 1.13, SSH certificates, Kubernetes issues with iptables, and more"
 
 +++
 
-There's a lot in the newsletter this week; from Istio to intelligence gathering for nation states. Python 2's sunset date of 1 Jan 2020 being set is going to have some pretty significant impact. There's also 26 mentions of Kubernetes in the source for this week's newsletter. This week's DevOps'ish Tweet of the Week can get you a free copy of Kubernetes: Up and Running, Second Edition.
+There's a lot in the newsletter this week; from Istio to intelligence gathering for nation-states. Python 2's sunset date of 1 Jan 2020 being set is going to have some pretty significant impact. There are also 28 mentions of "Kubernetes" in the source for this week's newsletter. This week's DevOps'ish Tweet of the Week can get you a free copy of [Kubernetes: Up and Running, Second Edition](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=145&utm_term=kubernetes). Oh and Richard Stallman *MUST* go.
 
 ## DevOps'ish Last Week's Top Five
 
@@ -33,9 +33,9 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 ## People
 
-[Remove Richard Stallman](https://medium.com/@selamie/remove-richard-stallman-fec6ec210794) — *Immediately*. This is simply unbelieveable. That this would be sent out to a work or educational environment is crazy. It belongs on a site ending in the word chan or some fringe social network. Stallman literally said one of Jeffrey Epstein's victims was "entirely willing". This level of toxic, white, male, privilege simply cannot stand. At this point, if Stallman is speaking somewhere near you, the right thing to do is protest the appearance. MIT must do something here.
+[Remove Richard Stallman](https://medium.com/@selamie/remove-richard-stallman-fec6ec210794) — *Immediately*. This is simply unbelievable. That this would be sent out to a work or educational environment is crazy. It belongs on a site ending in the word chan or some fringe social network. Stallman literally said one of Jeffrey Epstein's victims was "entirely willing". This level of toxic, white, male, privilege simply cannot stand. At this point, if Stallman is speaking somewhere near you, the right thing to do is protest the appearance. MIT must do something here.
 
-[8 Things Leaders Do That Make Employees Quit](https://hbr.org/2019/09/8-things-leaders-do-that-make-employees-quit) — Aside from having a socially inept idiot on staff, consistency is key. Too many contraints is bad (duh). Waste kills. People people in the wrong roles. Boredom inducing work will surely make people leave. Psychologically safety is everything.
+[8 Things Leaders Do That Make Employees Quit](https://hbr.org/2019/09/8-things-leaders-do-that-make-employees-quit) — Aside from having a socially inept idiot on staff, consistency is key. Too many constraints is bad (duh). Waste kills. Putting people in the wrong roles. Boredom inducing work will surely make people leave. Psychologically safety is everything.
 
 [My top 25 items in a senior engineer's checklist](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2) — A decent list for reference. Build and tailor to your needs accordingly.
 
@@ -88,7 +88,7 @@ mkdir -p /mnt/SC2i && mount -v -t cifs //HOSTNAME/OFFICE/private/SC2i /mnt/SC2i 
 
 [asdf-vm/asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
 
-[ameerthehacker/kubelive](https://github.com/ameerthehacker/kubelive) — Kubernetes command line tool to provide live data about the cluster and it's resources
+[ameerthehacker/kubelive](https://github.com/ameerthehacker/kubelive) — Kubernetes command line tool to provide live data about the cluster and its resources
 
 [dumb-password-rules/dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) — Shaming sites with dumb password rules.
 
