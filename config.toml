@@ -6,9 +6,9 @@ enableRobotsTXT = true
 languageCode = "en-us"
 metaDataFormat = "toml"
 newContentEditor = "code"
-paginate = 9
+paginate = 10
 relativeURLs = true
-rssLimit = 6
+rssLimit = 10
 theme = "hugo-theme-bootstrap4-blog"
 title = "DevOps'ish"
 
@@ -28,7 +28,7 @@ title = "DevOps'ish"
 
   [params.sidebar]
     About = "DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/)."
-    num_recent_posts = 5
+    num_recent_posts = 8
 
   [params.stats]
     subscribers = "3,725"
