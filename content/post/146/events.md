@@ -10,10 +10,10 @@ title = "DevOps'ish 146 Events"
 
 +++
 
+[**PagerDuty Summit 2019**](https://summit.pagerduty.com/) is Sept 23-25 in San Francisco. It's three days of interactive workshops, keynotes, and breakouts with topics focusing on cutting edge incident response techniques, resilience engineering, managing team health, continuous improvement, DevSecOps, machine learning, and other intersections with real-time operations. Join experts from Google, Microsoft, Hashicorp, Twilio, Salesforce, Gremlin, Honeycomb, Adobe, AWS, and more. [Register](https://summit.pagerduty.com/summit2019/register?c_280637=PDS19OT) with code *PDS19DOISH* to save 50% and attend for $350. *SPONSORED*
+
 [**Full Alerting Coverage Without the Toil**](https://www.bluematador.com/devopsish)  
 Balance rapid feature development and production stability with alert automation for your cloud infrastructure from Blue Matador. Activate alert automation in your cloud infrastructure today with our free trial. *SPONSORED*
-
-[**PagerDuty Summit 2019**](https://summit.pagerduty.com/) is Sept 23-25 in San Francisco. It's three days of interactive workshops, keynotes, and breakouts with topics focusing on cutting edge incident response techniques, resilience engineering, managing team health, continuous improvement, DevSecOps, machine learning, and other intersections with real-time operations. Join experts from Google, Microsoft, Hashicorp, Twilio, Salesforce, Gremlin, Honeycomb, Adobe, AWS, and more. [Register](https://summit.pagerduty.com/summit2019/register?c_280637=PDS19OT) with code *PDS19DOISH* to save 50% and attend for $350. *SPONSORED*
 
 [Sensu Summit](https://ti.to/sensu/sensu-summit-2019/discount/DevOpsIsh) is offering DevOps'ish readers *$300 off* the full price ticket price. "Enjoy two days of talks, workshops, and great conversations about all things monitoring."
 
@@ -27,6 +27,9 @@ From your desktop, laptop, or mobile device
 [Free Registration](https://www.alldaydevops.com/register)
 
 On November 6th, we will be supporting the live online All Day DevOps conference. This is a 24 hour event with 5 simultaneous tracks, delivering 125+ sessions in 38 time zones. Session tracks include Cloud Native Infra and Monitoring, DevSecOps and Automated Security, CI/CD, Site Reliability Engineering, and Cultural Transformation.
+
+[KubeCon + CloudNativeCon North America 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=events)  
+The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities in San Diego, California from November 18-21, 2019. Join Kubernetes, Prometheus, Envoy, CoreDNS, containerd, Fluentd, OpenTracing, gRPC, CNI, Jaeger, Notary, TUF, Vitess, NATS, Linkerd, Helm, Rook, Harbor, etcd, Open Policy Agent, CRI-O, and TiKV as the community gathers for four days to further the education and advancement of cloud native computing. Use code *KCNACSN10* at checkout for a discount on the corporate registration.
 
 [**Diversity Tickets**](https://diversitytickets.org/)  
 We help events reach a more diverse audience. And we help you to find these events. Because diversity is what makes communities whole. Learn more at [https://diversitytickets.org/](https://diversitytickets.org/)
