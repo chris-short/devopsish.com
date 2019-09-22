@@ -36,57 +36,13 @@ Balance rapid feature development and production stability with alert automation
 
 ## Notes
 
-[30 Linux Permissions Exercises for Sysadmins – devconnected](https://devconnected.com/30-linux-permissions-exercises-for-sysadmins/)
-
-[Richard Stallman and the Fall of the Clueless Nerd | WIRED](https://www.wired.com/story/richard-stallman-and-the-fall-of-the-clueless-nerd/)
-
-[Linus Torvalds on the kernel development community [LWN.net]](https://lwn.net/SubscriberLink/799219/cfc5362a1bf6bc5a/)
-
-[On the occasion of leaving Google - Irenes - Medium](https://medium.com/@Irenes/on-the-occasion-of-leaving-google-b8c7029c8d8b)
-
-[Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
-
-[What to Know About VMware’s Project Pacific - The New Stack](https://thenewstack.io/5-things-to-know-about-vmwares-project-pacific/)
-
-[containers/podman-compose: a script to run docker-compose.yml using podman](https://github.com/containers/podman-compose)
-
-[OpenShift 4.2 Disconnected Install – Red Hat OpenShift Blog](https://blog.openshift.com/openshift-4-2-disconnected-install/)
-
-[mrbobbytables/k8s-intro-tutorials: Kubernetes Intro Tutorials](https://github.com/mrbobbytables/k8s-intro-tutorials)
-
-[How ConvertKit Could Lower Its $64K Monthly AWS Bill - Last Week in AWS](https://www.lastweekinaws.com/blog/how-convertkit-could-lower-its-64k-monthly-aws-bill/)
-
-[DevOps terms: 10 advanced concepts to know | The Enterprisers Project](https://enterprisersproject.com/article/2019/9/devops-terms-10-advanced)
-
-[The real cost of not wearing makeup at the office](https://www.fastcompany.com/90400807/the-real-cost-of-not-wearing-makeup-at-the-office)
-
-[Python 2 End of Life Announced as January 1st 2020](https://www.infoq.com/news/2019/09/python-2-end-of-life-approaching/)
-
-[dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible)
-
-[How Intel's Clear Linux Team Cut The Kernel Boot Time From 3 Seconds To 300 ms - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Clear-Linux-Kernel-3s-to-300ms)
-
 [Modern monitoring - YLD Blog - Medium](https://medium.com/yld-blog/modern-monitoring-6de76deb0663)
-
-[deajan/osync: A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync](https://github.com/deajan/osync)
-
-[What’s Going on with GKE and Anthos? – Brave New Geek](https://bravenewgeek.com/whats-going-on-with-gke-and-anthos/)
-
-[A Black Engineer’s Perspective on Why Diversity Matters in Tech](https://peopleofcolorintech.com/interview/a-black-engineers-perspective-on-why-diversity-matters-in-tech/)
-
-[An Inside Look at GitOps - DevOps.com](https://devops.com/an-inside-look-at-gitops/)
-
-[Kubernetes’ next step could be to try orchestrating everything else | ZDNet](https://www.zdnet.com/article/kubernetes-next-step-could-be-to-try-orchestrating-everything-else/)
-
-[Highly Effective Kubernetes Deployments with GitOps](https://medium.com/@timfpark/highly-effective-kubernetes-deployments-with-gitops-c7a0354f1446)
 
 [Traefik 2.0 - containous](https://blog.containo.us/traefik-2-0-6531ec5196c2)
 
 [DNS and the Art of Making Systems "Just Complex Enough"](https://systemswe.love/archive/san-francisco-2016/dns-and-the-art-of-making-systems-just-complex-enough)
 
 [cloud-bulldozer/ripsaw: The Chuck Norris of cloud benchmarks](https://github.com/cloud-bulldozer/ripsaw)
-
-[The New Target That Enables Ransomware Hackers to Paralyze Dozens of Towns and Businesses at Once — ProPublica](https://www.propublica.org/article/the-new-target-that-enables-ransomware-hackers-to-paralyze-dozens-of-towns-and-businesses-at-once)
 
 [GitHub Becomes CVE Numbering Authority, Acquires Semmle](https://www.darkreading.com/threat-intelligence/github-becomes-cve-numbering-authority-acquires-semmle/d/d-id/1335843)
 
@@ -95,8 +51,6 @@ Balance rapid feature development and production stability with alert automation
 [Google Cloud Expands Its Managed Kubernetes Service Anthos with Serverless, Service Mesh - The New Stack](https://thenewstack.io/google-cloud-expands-its-managed-kubernetes-service-anthos-with-serverless-service-mesh/)
 
 [DevOps Chat: Splunk Moves Into Microservices With Omnition Buy - DevOps.com](https://devops.com/devops-chat-splunk-moves-into-microservices-with-omnition-buy/)
-
-[How I passed my CKAD with 97% - Katie Gamanji - Medium](https://medium.com/@kgamanji/how-i-passed-my-ckad-with-97-6b54dcffa72f)
 
 [Istio Routing Basics | Tigera](https://www.tigera.io/blog/istio-routing-basics/)
 
@@ -108,17 +62,11 @@ Balance rapid feature development and production stability with alert automation
 
 [muesli/beehive: A flexible event/agent & automation system with lots of bees 🐝](https://github.com/muesli/beehive)
 
-[Kubernetes 1.16: Custom Resources, Overhauled Metrics, and Volume Extensions - Kubernetes](https://kubernetes.io/blog/2019/09/18/kubernetes-1-16-release-announcement/)
-
-[IBM will soon launch a 53-qubit quantum computer | TechCrunch](https://techcrunch.com/2019/09/18/ibm-will-soon-launch-a-53-qubit-quantum-computer/)
-
 [Github Actions That Commit to Github · garethr.dev](https://garethr.dev/2019/09/github-actions-that-commit-to-github/)
 
 [ngs/go-release.action: Automate publishing Go build artifacts for GitHub releases through GitHub Actions](https://github.com/ngs/go-release.action)
 
 [Linux_5.3 - Linux Kernel Newbies](https://kernelnewbies.org/Linux_5.3)
-
-[Chef roasted for tech contract with family-separating US immigration, forks up attempt to quash protest • The Register](https://www.theregister.co.uk/2019/09/20/chef_roasted_for_ice_dealings/)
 
 [awslabs/aws-multi-account-viewer: Serverless app designed for any customer with two or more accounts to view resources across accounts/regions in simple single pane of glass website](https://github.com/awslabs/aws-multi-account-viewer)
 
@@ -129,8 +77,6 @@ Balance rapid feature development and production stability with alert automation
 [Introducing the Gruntwork Production Deployment Guides](https://blog.gruntwork.io/introducing-the-gruntwork-production-deployment-guides-887b3b037a1)
 
 [How Adam Neumann’s Over-the-Top Style Built WeWork. ‘This Is Not the Way Everybody Behaves.’ - WSJ](https://www.wsj.com/articles/this-is-not-the-way-everybody-behaves-how-adam-neumanns-over-the-top-style-built-wework-11568823827)
-
-[Open letter to the Free Software Foundation Board of Directors](https://www.redhat.com/en/blog/open-letter-free-software-foundation-board-directors)
 
 [Chef’s Position on Customer Engagement in the Public and Private Sectors - Chef Blog](https://blog.chef.io/2019/09/19/chefs-position-on-customer-engagement-in-the-public-and-private-sectors/)
 

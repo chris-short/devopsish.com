@@ -2,24 +2,16 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
-date = 2019-09-22T07:00:00Z
+date = 2019-09-22T14:00:00Z
 description = ""
 draft = false
 slug = "146"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news"]
-title = "146: Seth Vargo says hell no—puts Chef on ICE, Kubernetes 1.16, "
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "Seth Vargo"]
+title = "146: Seth Vargo says hell no—puts Chef on ICE, Kubernetes 1.16, Linus Torvalds on kernel development, "
 
 +++
 
-Just when you thought an old white guy with bad hygiene was going to dominate the news this week, in walks [Seth Vargo](https://twitter.com/sethvargo). On Thursday, Seth Vargo, a former Chef employee and current Google Cloud engineer, learned something he wasn't comfortable with about code he'd written. Seth discovered Chef had an active contract with the US Department of Homeland Security's Immigration and Customs Enforcement (yes, [that one](https://time.com/5623148/migrant-detention-centers-conditions/)). When Chef wouldn't respond to calls to kill the contract, Seth did something rather extraordinary. He yanked his code (including [chef-sugar](https://github.com/sethvargo/chef-sugar)) from GitHub and RubyGems. This resulted in a number of production systems going offline across the globe. We might see some metrics about impact in a lawsuit at some point. When DM'ing Seth early Friday AM he told me, "It's almost certain that Chef is going to sue."
-
-Before we get into the reasoning, let's think about that for a second. A former employee (and current open source contributor) somehow had the ability to bring an entire DevOps toolchain company to its knees. Sending it into a complete tailspin as it tried to frantically restore production code bases and build artifacts it likely didn't have control over (or maybe even good backups for). Chef CEO, Barry Crist, [had to issue a statement](https://blog.chef.io/2019/09/19/chefs-position-on-customer-engagement-in-the-public-and-private-sectors/) damn near immediately.
-
-One person. One company. One policy. One decision. Global impact. If anyone wants to know why I care about technology's impact on humanity, and use this newsletter as a platform for that position, this is it. As technologists, we have tremendous control over what we do. However, we have little to no control over how our outputs are used. If we are not incredibly thoughtful and deliberate with our decision making the impact could be globally catastrophic. In Seth's own words, "I'm not trying to make a political statement. As software engineers, we have to abide by some sort of moral compass. When I learned that my code was being used for purposes that I perceive as evil, I had to act.
-
-Chef's decision to remain silent on the issue, and their decision to restore an older version of the code, removing me as an author from the metadata, however, speaks volumes to their own moral and ethical standards."
-
-In my opinion, Chef is as culpable as Chef is in all this. The fact someone not at their company anymore could even potentially have an impact like this shows a clear lack of supply chain controls and safeties. The fact their own timeline shows over a day of unavailiability for some components leads me to believe that Chef's footing is even shakier than I suspected.
+Just when you thought a toxic, old, white guy with lousy hygiene was going to dominate the news this week, in walks [Seth Vargo](https://twitter.com/sethvargo). On Thursday, Seth Vargo, a former Chef employee, learned something he wasn't comfortable with about code he'd written. Seth discovered Chef had an active contract with the US Department of Homeland Security's Immigration and Customs Enforcement. Seth then did something rather extraordinary. He yanked his code (including [chef-sugar](https://github.com/sethvargo/chef-sugar)) from GitHub and RubyGems. This resulted in many production systems going offline across the globe. We could see some metrics about impact in a lawsuit at some point. When DM'ing Seth early Friday AM he told me, "It's almost certain that Chef is going to sue." [Read More →](https://chrisshort.net/seth-vargo-says-hell-noputs-chef-on-ice/)
 
 ## DevOps'ish Last Week's Top Five
 
@@ -48,18 +40,66 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [Tech Animals](http://www.git-tower.com/blog/tech-animals) - A side project for a good cause. fournova Software reached out to me directly about an effort they put together to support [Hacker School](https://www.betterplace.org/en/projects/58054-hacker-school-inspire-young-people-for-coding-and-integrate-refugees). I love it! Check it out and let me know what you get (I ordered the Linux mug and am pondering more)!
 
+[The real cost of not wearing makeup at the office](https://www.fastcompany.com/90400807/the-real-cost-of-not-wearing-makeup-at-the-office) — If you're a dude, you need to read this. "I spend 15 times more than my husband when it comes to personal grooming. But finance experts don’t often talk about the professional cost of opting out."
 
+[Richard Stallman and the Fall of the Clueless Nerd](https://www.wired.com/story/richard-stallman-and-the-fall-of-the-clueless-nerd/) — Time's up!
+
+[Open letter to the Free Software Foundation Board of Directors](https://www.redhat.com/en/blog/open-letter-free-software-foundation-board-directors)
+
+[Linus Torvalds on the kernel development community](https://lwn.net/SubscriberLink/799219/cfc5362a1bf6bc5a/) — Some pretty interesting nuggets in here. "Torvalds responded that he doesn't even check for presence in linux-next early in the merge window; he is happy enough to get an early pull request that nothing more is required. As the merge window approaches its end, though, he does start checking, and absence from linux-next (earlier in the merge window) can result in pull requests not being acted upon."
+
+[On the occasion of leaving Google](https://medium.com/@Irenes/on-the-occasion-of-leaving-google-b8c7029c8d8b) — "This isn’t really a 'why I’m leaving' post. You all know many of the reasons, and I do believe retaliation occurred. This is a 'what you should do about it' post."
+
+[A Black Engineer’s Perspective on Why Diversity Matters in Tech](https://peopleofcolorintech.com/interview/a-black-engineers-perspective-on-why-diversity-matters-in-tech/)
+
+[How I passed my CKAD with 97%](https://medium.com/@kgamanji/how-i-passed-my-ckad-with-97-6b54dcffa72f) — Some useful nuggets for Certified Kubernetes Application Developer test takers.
 
 ## Process
 
-PROCESS
+[Chef roasted for tech contract with family-separating US immigration, forks up attempt to quash protest](https://www.theregister.co.uk/2019/09/20/chef_roasted_for_ice_dealings/) — "Software house hits nuclear option after Ruby Gems yanked for moral reasons"
+
+[WeWTF, Part Deux](https://www.profgalloway.com/wewtf-part-deux) — The WeWork shit show must go on!
+
+[How ConvertKit Could Lower Its $64K Monthly AWS Bill](https://www.lastweekinaws.com/blog/how-convertkit-could-lower-its-64k-monthly-aws-bill/) — ConvertKit released a post about their AWS bill. Cloud economist, Corey Quinn, analyzes how ConvertKit could cut $64,000 a month from their AWS bill.
+
+[Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) — What's wrong with software architecture patterns? "I see them similarly in usefulness as coding design patterns. They can give you ideas on how to improve your code or architecture... I spent a lot of time reading and comprehending the Gang of four design patterns, they've had far less impact on becoming a better coder than the feedback I've gotten from other engineers on my code."
+
+[DevOps terms: 10 advanced concepts to know](https://enterprisersproject.com/article/2019/9/devops-terms-10-advanced) — "Are you moving farther down the path with DevOps and tripping on the lingo? Experts explain key DevOps terms and phrases that teams should understand"
+
+[Kubernetes’ next step could be to try orchestrating everything else](https://www.zdnet.com/article/kubernetes-next-step-could-be-to-try-orchestrating-everything-else/) — We already see this with OpenShift, Project Pacific, and Google Anthos. The concepts of Kubernetes as the control plane for damn near everything will eventually feed back into vanilla Kubernetes in due time. Keep in mind, spinning up a small Kubernetes cluster to provision and install a larger cluster is a common Kubernetes pattern.
+
+[The New Target That Enables Ransomware Hackers to Paralyze Dozens of Towns and Businesses at Once](https://www.propublica.org/article/the-new-target-that-enables-ransomware-hackers-to-paralyze-dozens-of-towns-and-businesses-at-once) — If you utilize or operate a managed service provider, you're on the front lines of a cybersecurity hellscape right now.
 
 ## Tools
 
 [**Full Alerting Coverage Without the Toil**](https://www.bluematador.com/devopsish)  
 Balance rapid feature development and production stability with alert automation for your cloud infrastructure from Blue Matador. Activate alert automation in your cloud infrastructure today with our free trial. *SPONSORED*
 
-TOOLS
+[Kubernetes 1.16: Custom Resources, Overhauled Metrics, and Volume Extensions](https://kubernetes.io/blog/2019/09/18/kubernetes-1-16-release-announcement/) — I hope y'all are ready for the CRD tsunami because here it comes! Thank you so much to the 1.16 release team! Y'all did a really amazing job.
+
+[Deprecated APIs Removed In 1.16: Here’s What You Need To Know](https://kubernetes.io/blog/2019/07/18/api-deprecations-in-1-16/) — Instead of `NetworkPolicy` use `networking.k8s.io/v1`. `PodSecurityPolicy` is now in `policy/v1beta1`. `DaemonSet`, `Deployment`, `StatefulSet`, and `ReplicaSet` are now part of `apps/v1`. `Ingress` is moving to `networking.k8s.io/v1beta1` in Kubernetes 1.20, which should be released this time next year.
+
+[30 Linux Permissions Exercises for Sysadmins](https://devconnected.com/30-linux-permissions-exercises-for-sysadmins/) — Need a run through on Linux perms? Here ya go!
+
+[OpenShift 4.2 Disconnected Install](https://blog.openshift.com/openshift-4-2-disconnected-install/) — Install OpenShift in a restricted environment with limited access to the Internet.
+
+[What to Know About VMware’s Project Pacific](https://thenewstack.io/5-things-to-know-about-vmwares-project-pacific/) — It's a single control plane for everything from VMs to Kubernetes clusters to pods (yes, pods). Kubernetes Scheduler and Kubelet have been replaced by a Supervisor Cluster and Spherelet ("a proprietary version of Kubelet"). A concept called Native Pods is a thing to be aware of. Oh and [Photon OS](https://vmware.github.io/photon/). Analysis: This is a lot. VMware is going to have to get implemented and scaled up quickly. If VMware wants to gather a greater than 10% share of the container orchestration market, speedy execution is key.
+
+[What’s Going on with GKE and Anthos?](https://bravenewgeek.com/whats-going-on-with-gke-and-anthos/) — Google Anthos is a little bit of an oddity at the moment. Yes, Google Cloud admits it has an enterprise problem to an extent. Using the Google Cloud UI is smart as it keeps customer experience consistent and codebases to a minimum. But, while Google Anthos helps Google Cloud's enterprise problem, it isn't a lot of actual stuff you can kick the tires on. Their configuration managment tool is a git repo with a Kubernetes Operator watching for changes (which is fine). Their control plane is GKE which is also fine. But, the marketing around Google Anthos feels more like a pitch for Site Reliability Engineering as a business model. This is okay too. But, keep in mind, in [DevOps README.md](https://github.com/chris-short/DevOps-README.md) (back in 2017) I call out Google SRE as, "proof setting a pile of money on fire is a viable solution to engineering problems." I'm wondering how many people will buy Google Anthos and end up with large consulting contracts as a result.
+
+[containers/podman-compose](https://github.com/containers/podman-compose) — A script to run docker-compose.yml using podman
+
+[Python 2 End of Life Announced as January 1st 2020](https://www.infoq.com/news/2019/09/python-2-end-of-life-approaching/) — Python 2's end of life is nigh.
+
+[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) — 📖 A collection of pure bash alternatives to external processes
+
+[How Intel's Clear Linux Team Cut The Kernel Boot Time From 3 Seconds To 300 ms](https://www.phoronix.com/scan.php?page=news_item&px=Clear-Linux-Kernel-3s-to-300ms) — "Intel engineer Feng Tang spoke at this week's Linux Plumbers Conference in Lisbon, Portugal on how the Clear Linux team managed to boot their kernel faster. They started out with around a three second kernel boot time but cut it down to just 300 ms."
+
+[deajan/osync](https://github.com/deajan/osync) — A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
+
+[Highly Effective Kubernetes Deployments with GitOps](https://medium.com/@timfpark/highly-effective-kubernetes-deployments-with-gitops-c7a0354f1446) — "In a GitOps based deployment, a pod running in the cluster watches a specific git repo that contains the set of resource manifests that should be running in the cluster."
+
+[IBM will soon launch a 53-qubit quantum computer](https://techcrunch.com/2019/09/18/ibm-will-soon-launch-a-53-qubit-quantum-computer/) — I think it looks like a bong personally. But, after talking to a few folks at IBM, I am really impressed with the strides being made in this space. Also, I bought [quantumbongs.com](http://quantumbongs.com/) in case that takes off.
 
 ## DevOps'ish Tweet of the Week
 
