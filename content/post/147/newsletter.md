@@ -7,7 +7,7 @@ description = ""
 draft = false
 slug = "147"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news"]
-title = "147"
+title = "147: Strategy is hard, the misaligned middle, no way Matt Asay, the death of Chef, Docker's impending doom, AnsibleFest, and more"
 
 +++
 
@@ -59,9 +59,9 @@ More follow up on the [Seth Vargo—Chef](https://chrisshort.net/seth-vargo-says
 
 [Chef is Dead (/r/devops)](https://www.reddit.com/r/devops/comments/d7lzp4/chef_is_dead/) — I did not write this (I swear). The author points out, "Chef took the #1 spot for Most Dreaded Frameworks, Libraries, and Tools in the [2019 Stack Overflow developer survey](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-other-frameworks-libraries-and-tools). That is damning by itself, and this data was aggregated before the [Chef—ICE debacle](https://chrisshort.net/seth-vargo-says-hell-noputs-chef-on-ice/). That will negatively impact the survey results the next time it runs. Chef's mishandling of the ICE issue has led me to state a long-held thought out loud. In my opinion, Chef died when they conducted layoffs a while back. A look back in the DevOps'ish archives indicates [Chef's death was publicly reported on November 14, 2018](https://devopsish.com/104/) (almost a year ago). Chef is now in a worse position than Docker.
 
-[Docker is trying to raise money following arrival of CEO Rob Bearden](https://www.cnbc.com/2019/09/27/docker-is-trying-to-raise-money-following-arrival-of-ceo-rob-bearden.html) — Docker, Inc. is trying to raise money after being worth over a cool billion. The problem is, this is going to be a huge valuation down round. In one shareholder's opinion, "[I]f they get another round the rung (hold outs) will be leaving. Docker is a tragic story of what could have been." [Docker has been dead a while](https://chrisshort.net/docker-inc-is-dead/). But, this round might really be the end for Docker. I don't see their strategy paying off. They don't have enough of a foothold in the market for it to catch on. This funding round is an admission of that. What will happen to Docker? All the core technology is open source and has been for a while. The company itself will likely be sold off for parts. It could be absorbed into a larger entity with significant investment in this space already. Splunk seems to be on a buying spree. Salesforce has loads of money too. Oracle or Microsoft are still contenders, in my opinion, but I doubt accountants from those firms will offer Docker their egos' worth of money. Hubris and toxicity kills. Here's [my disclaimer](https://devopsish.com/terms/) since Docker people try to get me fired when I write about them.
+[Docker is trying to raise money following arrival of CEO Rob Bearden](https://www.cnbc.com/2019/09/27/docker-is-trying-to-raise-money-following-arrival-of-ceo-rob-bearden.html) — Docker, Inc. is trying to raise money after being worth over a cool billion. The problem is, this is going to be a huge valuation down round. In one shareholder's opinion, "Docker is a tragic story of what could have been." If only someone saw this coming... [Docker has been dead a while](https://chrisshort.net/docker-inc-is-dead/). But, this round might really be the end for Docker. I don't see their strategy paying off. They don't have enough of a foothold in the market for it to catch on. This funding round is an admission of that. What will happen to Docker? All the core technology is open source (has been for a while). The company itself will likely be sold (for a fraction of its once lofty value) and be absorbed into a larger entity with significant investment in this space already. Splunk seems to be on a buying spree. Salesforce has loads of money too. Oracle or Microsoft are still contenders, in my opinion, but I doubt accountants from those firms will offer Docker their egos' worth of money. Hubris and toxicity kills. Here's [my disclaimer](https://devopsish.com/terms/) since Docker people try to get me fired when I write about them.
 
-[IBM’s journey to tens of thousands of production Kubernetes clusters](https://www.tigera.io/blog/ibms-journey-to-tens-of-thousands-of-production-kubernetes-clusters/) — "[T]ens of thousands of production Kubernetes clusters running across more than 60 data centers around the globe, hosting 90% of the PaaS and SaaS services offered by IBM Cloud."
+[IBM's journey to tens of thousands of production Kubernetes clusters](https://www.tigera.io/blog/ibms-journey-to-tens-of-thousands-of-production-kubernetes-clusters/) — "[T]ens of thousands of production Kubernetes clusters running across more than 60 data centers around the globe, hosting 90% of the PaaS and SaaS services offered by IBM Cloud."
 
 [Peloton wipes out more than $900 million of investor wealth in its first day of public trading (PTON)](https://markets.businessinsider.com/news/stocks/peloton-stock-price-900-million-market-value-erased-after-ipo-2019-9-1028557770) — In this week's "Companies Masquerading as Tech Companies" we have Peloton... Yikes!
 
@@ -84,7 +84,6 @@ Balance rapid feature development and production stability with alert automation
 
 [How to evaluate community Ansible roles for your playbooks](https://www.jeffgeerling.com/blog/2019/how-evaluate-community-ansible-roles-your-playbooks) — Jeff Geerling's talk from AnsibleFest Atlanta 2019.
 
-
 [cloudflare/quiche](https://github.com/cloudflare/quiche) — 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 
 [IBM/kui](https://github.com/IBM/kui) — A hybrid command-line/UI development experience for cloud-native development
@@ -93,6 +92,6 @@ Balance rapid feature development and production stability with alert automation
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1174116297468252160 >}}
+{{< tweet 1176478273691443201 >}}
 
 [See Notes →](https://devopsish.com/147/notes/)
