@@ -6,7 +6,7 @@ date = 2019-07-07T07:00:00Z
 description = "DevOps'ish Deep Cuts podcast, burnout, on-call, Cloudflare fustercluck, multicloud mess, and more"
 draft = false
 slug = "135"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "podcast", "burnout", "on-call", "Cloudflare", "Red Hat", "multicloud", "infrastructure", "mess"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "podcast", "burnout", "on-call", "Cloudflare", "Red Hat", "multicloud", "infrastructure", "mess", "Matt Asay"]
 title = "135: DevOps'ish Deep Cuts podcast, burnout, on-call, Cloudflare fustercluck, multicloud mess, and more"
 
 +++
