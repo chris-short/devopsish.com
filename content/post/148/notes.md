@@ -27,35 +27,9 @@ title = "DevOps'ish 148 Notes"
 
 ## Notes
 
-[Red Hat Jobs - Community Architect - Enablement in Remote | Careers at Remote United States](https://us-redhat.icims.com/jobs/70360/community-architect---enablement/job?mobile=false&width=1111&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
-
-[Inside of Kubernetes Controller - Speaker Deck](https://speakerdeck.com/govargo/inside-of-kubernetes-controller)
-
-[Docker is in deep trouble | ZDNet](https://www.zdnet.com/article/docker-is-in-deep-trouble/)
-
-[VMware Tanzu](https://github.com/vmware-tanzu)
-
-[Terraform at Starbucks: Infrastructure as Code for Software Engineers](https://www.hashicorp.com/resources/terraform-at-starbucks-infrastructure-as-code-for-software-engineers)
-
-[Blog @ Codonomics: Essential Tmux for CKAD or CKA Exam](https://blog.codonomics.com/2019/09/essential-tmux-for-ckad-or-cka-exam.html)
-
-[stefanprodan/gitops-app-distribution: GitOps workflow for managing app delivery on multiple clusters](https://github.com/stefanprodan/gitops-app-distribution)
-
-[Ask HN: Anyone Using AWX Ansible in Production? | Hacker News](https://news.ycombinator.com/item?id=21137466)
-
-[Ansible Crash Course](https://www.thecloud.coach/ansible-crash-course?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-
 [In leaked audio, Mark Zuckerberg rallies Facebook against critics, competitors, and Elizabeth Warren - The Verge](https://www.theverge.com/2019/10/1/20756701/mark-zuckerberg-facebook-leak-audio-ftc-antitrust-elizabeth-warren-tiktok-comments)
 
-[12 Kubernetes configuration best practices | StackRox](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
-
-[kernel/git/torvalds/linux.git - Linux kernel source tree](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=aefcf2f4b58155d27340ba5f9ddbe9513da8286d)
-
-[PostgreSQL Change Data Capture With Debezium](https://info.crunchydata.com/blog/postgresql-change-data-capture-with-debezium)
-
 [How to install whois on RHEL 8 / CentOS 8 - nixCraft](https://www.cyberciti.biz/faq/how-to-install-whois-on-rhel-8-centos-8/)
-
-[How The NSA And U.S. Cyber Command Hacked ISIS's Media Operation : NPR](https://www.npr.org/2019/09/26/763545811/how-the-u-s-hacked-isis)
 
 [Debezium](https://debezium.io/)
 
@@ -65,19 +39,13 @@ title = "DevOps'ish 148 Notes"
 
 [Now use AWS Systems Manager to execute complex Ansible playbooks](https://aws.amazon.com/about-aws/whats-new/2019/09/now-use-aws-systems-manager-to-execute-complex-ansible-playbooks/)
 
-[Intro to Ansible Tower | Enable Sysadmin](https://www.redhat.com/sysadmin/intro-ansible-tower)
-
 [Awesome Prometheus alerts | Collection of alerting rules](https://awesome-prometheus-alerts.grep.to/rules.html)
-
-[AWS billing is broken and Kubernetes won't last, says irreverent economist Corey Quinn - TechRepublic](https://www.techrepublic.com/article/aws-billing-is-broken-and-kubernetes-wont-last-says-irreverent-economist-corey-quinn/)
 
 [Kubernetes Shadow Hangs Over Docker Financial Squeeze - SDxCentral](https://www.sdxcentral.com/articles/news/kubernetes-shadow-hangs-over-docker-financial-squeeze/2019/10/)
 
 [Deploy VueJS applications on OpenShift – Red Hat OpenShift Blog](https://blog.openshift.com/deploy-vuejs-applications-on-openshift/)
 
 [Who killed Hadoop ? - Enterprise Irregulars](https://www.enterpriseirregulars.com/142605/who-killed-hadoop/)
-
-[Testing in Production: the hard parts - Cindy Sridharan - Medium](https://medium.com/@copyconstruct/testing-in-production-the-hard-parts-3f06cefaf592)
 
 [Richard Stallman Reportedly Steps Down As Head Of The GNU Project - Phoronix](https://phoronix.com/scan.php?page=news_item&px=RMS-Steps-Down-From-GNU)
 
@@ -87,13 +55,7 @@ title = "DevOps'ish 148 Notes"
 
 [How to verify NTP is working Or not (Check Status of NTP) - nixCraft](https://www.cyberciti.biz/faq/linux-unix-bsd-is-ntp-client-working/)
 
-[facebookincubator/senpai: Senpai is an automated memory sizing tool for container applications.](https://github.com/facebookincubator/senpai)
-
-[DIB_DETECTING_AGILE_BS_2018.10.05.PDF](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
-
 [Processing 40 TB of code from ~10 million projects with a dedicated server and Go for $100 | Ben E. C. Boyter](https://boyter.org/posts/an-informal-survey-of-10-million-github-bitbucket-gitlab-projects/#average-complexity-for-file-in-each-language)
-
-[An update on Knative foundation status - Google Groups](https://groups.google.com/forum/m/#!topic/knative-dev/YmL2vgMC4rc)
 
 [9 Web Development Trends to Skip in 2019 - ReadWrite](https://readwrite.com/2019/09/19/9-web-development-trends-to-skip-in-2019/)
 
@@ -112,8 +74,6 @@ title = "DevOps'ish 148 Notes"
 [Generate SELinux policies for containers with Udica](https://www.redhat.com/en/blog/generate-selinux-policies-containers-with-udica)
 
 [CNCF welcomes KubeVirt and its VM-Kubernetes integration • DEVCLASS](https://devclass.com/2019/09/30/cncf-welcomes-kubevirt-and-its-vm-kubernetes-integration/)
-
-[Building Kubernetes Operators in an Ansible-native way - Cloud Native Computing Foundation](https://www.cncf.io/webinars/building-kubernetes-operators-in-an-ansible-native-way/)
 
 [My Time at Snap - Marko Tupper - Medium](https://medium.com/@marko_tupper/my-time-at-snap-83134da32e01)
 
