@@ -3,17 +3,17 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-10-06T07:00:00Z
-description = ""
+description = "SysAdvent signup, Corey Quinn isn't irrelevant, testing in prod, Kubernetes Controllers, VMware Tanzu, and more"
 draft = false
 slug = "148"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news"]
-title = "148: "
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "Ansible", "community", "Red Hat", "Docker Inc"]
+title = "148: SysAdvent signup, Corey Quinn isn't irrelevant, testing in prod, Kubernetes Controllers, VMware Tanzu, and more"
 
 +++
 
-The ever shifting sands of newsletter writing, these are the days of our DevOps'ish... There are no paying [sponsors](https://devopsish.com/sponsor/) this week. It's not a problem but, it is a little discouraging. The best part about being a disabled veteran is that I have a funding source for this newsletter until I decide to stop. But, this newsletter does take a significant amount of effort, time, and energy. It's nice to be compensated for that. [DevOps'ish Sponsorships](https://devopsish.com/sponsor/) are affordable and available in one month increments. Send me a note with how long you want to sponsor and what you're looking to achieve with your sponsorship. We can be awesome together!
+The ever-shifting sands of newsletter writing, these are the days of our DevOps'ish... There are no paying [sponsors](https://devopsish.com/sponsor/) this week. It's not a problem but, it is a little discouraging. The best part about being a disabled veteran is that I have a funding source for this newsletter until I decide to stop. But, this newsletter does take a significant amount of effort, time, and energy. It's nice to be compensated for that. [DevOps'ish Sponsorships](https://devopsish.com/sponsor/) are affordable and available in one-month increments. Send me a note with how long you want to sponsor and what you're looking to achieve with your sponsorship. We can be awesome together!
 
-**Editor's Note**: The Short family is going on a vacation. DevOps'ish 150 will likely be a 'best of' issue (or maybe a beautiful post card). If you have a preference or better idea, let me know!
+**Editor's Note**: The Short family is going on a vacation. DevOps'ish 150 will likely be a 'best of' issue (or maybe a beautiful postcard). If you have a preference or a better idea, let me know!
 
 ## DevOps'ish Last Week's Top Five
 
@@ -45,7 +45,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [SysAdvent 2019 Author/Editor Signup](https://devopsi.sh/sysadvent) — Have you ever wanted to get a big boost to your own brand while describing the work you've done? SysAdvent is the place to do it. I signed up to be an editor; give me something to edit!
 
-[AWS billing is broken and Kubernetes won't last, says irreverent economist Corey Quinn](https://www.techrepublic.com/article/aws-billing-is-broken-and-kubernetes-wont-last-says-irreverent-economist-corey-quinn/) — For a time longer than I want to admit, I thought the headline said irrelevant. I thought nothing of it because Corey would write that headline.
+[AWS billing is broken and Kubernetes won't last, says irreverent economist Corey Quinn](https://www.techrepublic.com/article/aws-billing-is-broken-and-kubernetes-wont-last-says-irreverent-economist-corey-quinn/) — For a time longer than I want to admit, I thought the headline said irrelevant. I thought nothing of it because Corey would write a  headline like that. "The most consistent mistake that everyone makes when using AWS—this extends to life as well—is once people learn something, they stop keeping current on that thing." If you read this newsletter you're doing yourself a tremendous service. Corey has an amazing [AWS newsletter](https://www.lastweekinaws.com/) too.
 
 ## Process
 
@@ -70,13 +70,13 @@ Our editorial team has curated all the resources you need for a comprehensive ov
 
 [Essential Tmux for CKAD or CKA Exam](https://blog.codonomics.com/2019/09/essential-tmux-for-ckad-or-cka-exam.html) — "If you are preparing for CKAD or CKA exam and are new to Tmux (Terminal Multiplexer), this post will help you know everything that is essential to being productive with Vim during your exam."
 
-[Ansible Crash Course](https://www.thecloud.coach/ansible-crash-course) — "If you've got servers to administrate, users to manage and software to deploy, then you're love Ansible. This Crash Course is for anyone new to Ansible and the concept of Configuration As Code."
+[Ansible Crash Course](https://www.thecloud.coach/ansible-crash-course) — "If you've got servers to administrate, users to manage and software to deploy, then you'll love Ansible. This Crash Course is for anyone new to Ansible and the concept of Configuration As Code."
 
-[Ask HN: Anyone Using AWX Ansible in Production?](https://news.ycombinator.com/item?id=21137466) — There are definitely people running AWX in production. There are so many little edge cases to solve as time goes on though. It's definitely possible (just like most things are in tech). But, I do not recommended it. [Look at how often that codebase changes](https://github.com/ansible/awx/commits/devel) and tell me you want to manage that at scale.
+[Ask HN: Anyone Using AWX Ansible in Production?](https://news.ycombinator.com/item?id=21137466) — There are definitely people running AWX in production. There are so many little edge cases to solve as time goes on though. It's definitely possible (just like most things are in tech). But, I do not recommend it. [Look at how often that codebase changes](https://github.com/ansible/awx/commits/devel) and tell me you want to manage that at scale.
 
 [Intro to Ansible Tower](https://www.redhat.com/sysadmin/intro-ansible-tower) — "Not sure whether you need Red Hat Ansible or Red Hat Ansible Tower? Read on, and learn how to get started with Ansible Tower as well."
 
-[12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/) — If you're running "vanilla" Kubernetes this is a must read. Definitely a bookmarked web page for future reference.
+[12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/) — If you're running "vanilla" Kubernetes this is a must-read. Definitely a bookmarked web page for future reference.
 
 [PostgreSQL Change Data Capture With Debezium](https://info.crunchydata.com/blog/postgresql-change-data-capture-with-debezium) — "The most interesting aspect of Debezium is that at the core it is using Change Data Capture (CDC) to capture the data and push it into Kafka. The advantage of this is that the source database remains untouched in the sense that we don’t have to add triggers or log tables. This is a huge advantage as triggers and log tables degrade performance."
 
