@@ -10,6 +10,13 @@
     {{ if .Site.Params.sidebar }}{{ partial "mc.html" . }}{{ end }}
   </section>
   {{ end }}
+ 
+  <section class="sidebar-module">
+    <p><a href="https://amzn.to/2ImDdLV" title="DevOps for Dummies by Emily Freeman"><img src="{{ .Site.BaseURL }}img/devops-for-dummies.jpg" alt="DevOps for Dummies by Emily Freeman" target="_blank" /></a></p>
+    <p><a href="https://amzn.to/2LQSZ3D" title="ACCELERATE: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations"><img src="{{ .Site.BaseURL }}img/accelerate.jpg" alt="ACCELERATE: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations" target="_blank" /></a></p>
+    <p><a href="/what-is-devops/" title="What is DevOps?"><strong>What is DevOps?</strong></a></p>
+    <p><a href="https://chrisshort.net/devops-readme.md/" title="DevOps README.md" target="_blank" /><strong>DevOps README.md</strong></a></p>
+  </section>
 
   <section class="sidebar-module">
     <h4>Social</h4>
@@ -24,8 +31,6 @@
 
   {{ if .Site.Params.sidebar }}
   {{ partialCached "recent.html" .}}
-  <p><a href="/what-is-devops/" title="What is DevOps?"><strong>What is DevOps?</strong></a></p>
-  <p><a href="https://chrisshort.net/devops-readme.md/" title="DevOps README.md"><strong>DevOps README.md</strong></a></p>
 
   {{ end }}
 
