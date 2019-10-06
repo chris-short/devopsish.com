@@ -6,7 +6,7 @@ date = 2019-02-24T06:00:00Z
 description = "Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, Hashicorp in Wired, Ansible for Kubernetes, Knative, and More"
 draft = false
 slug = "116"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "automation", "knative", "cicd", "learning", "openshift", "istio", "docker layoffs", "docker", "layoffs", "licenses"]
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "automation", "knative", "cicd", "learning", "openshift", "istio", "docker layoffs", "docker", "layoffs", "licenses", "Docker Inc"]
 title = "116: Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, Hashicorp in Wired, Ansible for Kubernetes, Knative, and More"
 
 +++
