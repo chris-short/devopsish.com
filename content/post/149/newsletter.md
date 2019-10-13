@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-10-13T07:00:00Z
-description = ""
+description = "Ahh-Me or Ay-Em-Eye, Don't stop learning, GitOps, open is better, iTerm2 vuln, Ansible Operators, and More"
 draft = false
 slug = "149"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news","Docker Inc"]
-title = "149:"
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "Docker Inc", "Docker", "Ansible", "memory", "controller", "terraform", "Corey Quinn", "GitLab", "AWS", "learning", "GitOps", "iTerm2", "Ansible Operators"]
+title = "149: Ahh-Me or Ay-Em-Eye, Don't stop learning, GitOps, open is better, iTerm2 vuln, Ansible Operators, and More"
 
 +++
 
@@ -49,7 +49,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [20+ basic Algorithms Problems from Coding Interviews](https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76) — "It's important that you practice these Algorithms based questions because even though they seem obvious and easy, sometimes they become tricky to solve in the actual interview, especially if you have never coded them by yourself."
 
-[To Prepare for Automation, Stay Curious and Don’t Stop Learning](https://hbr.org/2019/10/to-prepare-for-automation-stay-curious-and-dont-stop-learning) — Continuous learning is the most important part of DevOps. Don't rest on your laurels. You're baking competitive advantage into your business every day until you stop learning.
+[To Prepare for Automation, Stay Curious and Don't Stop Learning](https://hbr.org/2019/10/to-prepare-for-automation-stay-curious-and-dont-stop-learning) — Continuous learning is the most important part of DevOps. Don't rest on your laurels. You're baking competitive advantage into your business every day until you stop learning.
 
 ## Process
 
@@ -73,7 +73,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/) — "It should be noted however that ensuring adherence to these best practices requires more than just knowing what they are. The level of success you have in consistently following these recommendations will also be determined by the degree to which you can automate the process of checking your environment for misconfigurations."
 
-[A New Linux Memory Controller Promises to Save Lots of RAM](https://thenewstack.io/a-new-linux-memory-controller-promises-to-save-lots-of-ram/) — "Roman Gushchin, a member of Facebook’s Linux kernel engineering team, has proposed a brand new slab memory controller for the Linux kernel. This new slab memory controller promises to provide a much-improved memory utilization between multiple memory cgroups, via sharing slab pages."
+[A New Linux Memory Controller Promises to Save Lots of RAM](https://thenewstack.io/a-new-linux-memory-controller-promises-to-save-lots-of-ram/) — "Roman Gushchin, a member of Facebook's Linux kernel engineering team, has proposed a brand new slab memory controller for the Linux kernel. This new slab memory controller promises to provide a much-improved memory utilization between multiple memory cgroups, via sharing slab pages."
 
 [Deploying Ansible Tower and Terraform](https://www.redhat.com/sysadmin/ansible-tower-terraform) — "Are Terraform and Ansible an unlikely pairing, two star-crossed lovers, or just the right technological marriage to simplify workflows for sysadmins, developers, and users? Find the right answer here."
 
@@ -93,6 +93,6 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1179492578908991488 >}}
+{{< tweet 1181695563743539201 >}}
 
 [See Notes →](https://devopsish.com/149/notes/)
