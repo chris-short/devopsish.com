@@ -27,41 +27,15 @@ title = "DevOps'ish 149 Notes"
 
 ## Notes
 
-[GitOps | GitOps is Continuous Deployment for cloud native applications](https://www.gitops.tech/)
-
-[VMware Tanzu](https://github.com/vmware-tanzu)
-
-[salesforce/sloop: Kubernetes History Visualization](https://github.com/salesforce/sloop)
-
-[12 Kubernetes configuration best practices | StackRox](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
-
-[A New Linux Memory Controller Promises to Save Lots of RAM - The New Stack](https://thenewstack.io/a-new-linux-memory-controller-promises-to-save-lots-of-ram/)
-
 [Announcing Kong Studio: Design and Testing Built For Microservices - KongHQ](https://konghq.com/blog/announcing-kong-studio/)
 
 [Red Hat Kubernetes Kingpin Grant Shipley Jumps Ship To VMware](https://www.crn.com/news/red-hat-kubernetes-kingpin-grant-shipley-jumps-ship-to-vmware)
 
-[Software Engineering Promotions: Advice to Get to That Next Level](https://blog.pragmaticengineer.com/software-engineering-promotions/)
-
 [Liveness Probes are Dangerous | SRCco.de](https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html)
-
-[20+ basic Algorithms Problems from Coding Interviews - DEV Community 👩‍💻👨‍💻](https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76)
-
-[Deploying Ansible Tower and Terraform | Enable Sysadmin](https://www.redhat.com/sysadmin/ansible-tower-terraform)
 
 [Kubernetes Patterns : Capacity Planning](https://www.magalix.com/blog/kubernetes-patterns-capacity-planning)
 
-[How to install whois on RHEL 8 / CentOS 8 - nixCraft](https://www.cyberciti.biz/faq/how-to-install-whois-on-rhel-8-centos-8/)
-
 [conman - [the] container manager: inception](https://iximiuz.com/en/posts/conman-the-container-manager-inception/)
-
-[DevOps in Practice: Moving NGINX Controller Development to GitLab CI - NGINX](https://www.nginx.com/blog/devops-in-practice-moving-nginx-controller-development-to-gitlab-ci/)
-
-[karydia/karydia: Kubernetes Security Walnut](https://github.com/karydia/karydia)
-
-[GitLab's unconventional journey to CI/CD and Kubernetes | GitLab](https://about.gitlab.com/blog/2019/10/03/gitlab-journey-to-cicd/)
-
-[Building Kubernetes Operators in an Ansible-native way - Cloud Native Computing Foundation](https://www.cncf.io/webinars/building-kubernetes-operators-in-an-ansible-native-way/)
 
 [The Monktoberfest conference today and in history — Community Over Code](https://communityovercode.com/2018/10/the-monktoberfest-conference-today-and-in-history/)
 
@@ -81,17 +55,11 @@ title = "DevOps'ish 149 Notes"
 
 [30 Linux Processes Exercises For Sysadmins – devconnected](https://devconnected.com/30-linux-processes-exercises-for-sysadmins/)
 
-[digitalocean/clusterlint: A best practices checker for Kubernetes clusters. 🤠](https://github.com/digitalocean/clusterlint)
-
 [Automation-friendly Software Systems and How to Build Them](https://itnext.io/automation-friendly-software-systems-and-how-to-build-them-7a7c5e3c1a15)
-
-[weaveworks/wksctl: Open Source Weaveworks Kubernetes System](https://github.com/weaveworks/wksctl)
 
 [Stumbles at Uber and WeWork Don't Mean the End of Tech | WIRED](https://www.wired.com/story/stumbles-uber-wework-dont-mean-end-tech/)
 
 [Report: WeWork expected to cut 500 tech roles | TechCrunch](https://techcrunch.com/2019/10/08/wework-layoffs-2/)
-
-[F1 teams back open-source designs proposal](https://www.motorsport.com/f1/news/teams-open-source-designs-proposal/4552508/)
 
 [Ticking Clocks in a Distributed System - baseds - Medium](https://medium.com/baseds/ticking-clocks-in-a-distributed-system-ef2aa4df07a3)
 
@@ -102,8 +70,6 @@ title = "DevOps'ish 149 Notes"
 [How virtual environment works in Python - DEV Community 👩‍💻👨‍💻](https://dev.to/prabhupant/how-virtual-environment-works-in-python-50kg)
 
 [GitLab widens roadmap, aims to run over Datadog • DEVCLASS](https://devclass.com/2019/10/09/2252/)
-
-[Demystifying Persistent Storage Myths for Stateful Workloads in Kubernetes - Container Journal](https://containerjournal.com/topics/container-networking/demystifying-persistent-storage-myths-for-stateful-workloads-in-kubernetes/)
 
 [DevNation Live Bengaluru: Sail into cloud — An introduction to Istio - Red Hat Developer](https://developers.redhat.com/blog/2019/10/08/devnation-live-bengaluru-sail-into-cloud-an-introduction-to-istio/)
 
@@ -135,8 +101,6 @@ title = "DevOps'ish 149 Notes"
 
 [Pods evicted with error "The node was low on resource: ephemeral-storage" - Red Hat Customer Portal](https://access.redhat.com/solutions/4367311)
 
-[To Prepare for Automation, Stay Curious and Don’t Stop Learning](https://hbr.org/2019/10/to-prepare-for-automation-stay-curious-and-dont-stop-learning)
-
 [Microsoft says Iranians tried to hack 2020 campaign - The Washington Post](https://www.washingtonpost.com/technology/2019/10/04/iran-tried-hack-us-presidential-candidates-journalists-effort-that-targeted-hundreds-microsoft-finds/)
 
 [GNU means GNU's Not U: Stallman insists he's still Chief GNUisance while 18 maintainers want him out as leader • The Register](https://www.theregister.co.uk/2019/10/07/gnu_stallman_protest/)
@@ -146,8 +110,6 @@ title = "DevOps'ish 149 Notes"
 [Egyptian government caught tracking opponents and activists through phone apps • The Register](https://www.theregister.co.uk/2019/10/04/egypt_smartphone_spying/)
 
 [Where Companies Go Wrong with Learning and Development](https://hbr.org/2019/10/where-companies-go-wrong-with-learning-and-development)
-
-[Proposal: Permanently change all proprietary licensing to open source · Issue #2786 · caddyserver/caddy](https://github.com/caddyserver/caddy/issues/2786)
 
 [Domino's CEO: 'Irrational pricing' exists in the delivery marketplace](https://www.cnbc.com/2019/10/08/dominos-ceo-irrational-pricing-exists-in-the-delivery-marketplace.html)
 
@@ -175,8 +137,6 @@ title = "DevOps'ish 149 Notes"
 
 [Deepfakes have doubled, overwhelmingly targeting women – Naked Security](https://nakedsecurity.sophos.com/2019/10/09/deepfakes-have-doubled-overwhelmingly-targeting-women/)
 
-[iTerm2 Vulnerability | CISA](https://www.us-cert.gov/ncas/current-activity/2019/10/09/iterm2-vulnerability)
-
 [andresriancho/w3af: w3af: web application attack and audit framework, the open source web vulnerability scanner.](https://github.com/andresriancho/w3af)
 
 [Why We Prefer Coding Challenges and How We Made Ours Better](https://gravitational.com/blog/coding-challenge/)
@@ -190,8 +150,6 @@ title = "DevOps'ish 149 Notes"
 [Essential Meetings to Have With Your People as a Manager - Hello Ajahne](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html)
 
 [Net Neutrality Fake Comments: How Political Operatives Duped Ajit Pai's FCC](https://www.buzzfeednews.com/article/jsvine/net-neutrality-fcc-fake-comments-impersonation)
-
-[Open Source Gerrymandering | Chris Aniszczyk's (zx) diatribe](https://www.aniszczyk.org/2019/10/08/open-source-gerrymandering/)
 
 [Advanced Traefik 2.0 with Kubernetes - Fabrice Aneche](https://blog.nobugware.com/post/2019/advanced-traefik-2-0-with-kubernetes/)
 

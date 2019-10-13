@@ -45,15 +45,51 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 ## People
 
-PEOPLE
+[Software Engineering Promotions: Advice to Get to That Next Level](https://blog.pragmaticengineer.com/software-engineering-promotions/) — "This article collects advice on promotions that I've been giving to engineers on my team - many of whom have since been promoted to that next level."
+
+[20+ basic Algorithms Problems from Coding Interviews](https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76) — "It's important that you practice these Algorithms based questions because even though they seem obvious and easy, sometimes they become tricky to solve in the actual interview, especially if you have never coded them by yourself."
+
+[To Prepare for Automation, Stay Curious and Don’t Stop Learning](https://hbr.org/2019/10/to-prepare-for-automation-stay-curious-and-dont-stop-learning) — Continuous learning is the most important part of DevOps. Don't rest on your laurels. You're baking competitive advantage into your business every day until you stop learning.
 
 ## Process
 
 [Docker Desktop asset, fiscal stress prompt acquisition buzz](https://searchitoperations.techtarget.com/news/252471956/Docker-Desktop-asset-fiscal-stress-prompt-acquisition-buzz) — "Docker still has a great opportunity to add value around Kubernetes, but it doesn't help when people are wondering about their future viability as a company," said Jay Lyman, analyst at 451 Research. "When a company shuffles execs, it's an opportune time to lay out their vision of the future, so someone else doesn't do it for them." Use an incognito window if you can't see it.
 
+[GitOps is Continuous Deployment for cloud native applications](https://www.gitops.tech/) — GitOps is what DevOps implementations should strive for. `git push` and off goes your workloads to their respective environments, tests, and eventually off to production.
+
+[GitLab's unconventional journey to CI/CD and Kubernetes](https://about.gitlab.com/blog/2019/10/03/gitlab-journey-to-cicd/) — "How the Delivery team at GitLab used our existing resources to overhaul our system to make way for CI/CD."
+
+[F1 teams back open-source designs proposal](https://www.motorsport.com/f1/news/teams-open-source-designs-proposal/4552508/) — Open is better.
+
+[Proposal: Permanently change all proprietary licensing to open source · Issue #2786 · caddyserver/caddy](https://github.com/caddyserver/caddy/issues/2786) — Open is better.
+
+[Open Source Gerrymandering](https://www.aniszczyk.org/2019/10/08/open-source-gerrymandering/)
+
 ## Tools
 
-TOOLS
+[iTerm2 Vulnerability](https://www.us-cert.gov/ncas/current-activity/2019/10/09/iterm2-vulnerability) — There's a gnarly vuln in iTerm2 that didn't seem to get a lot of attention this week.
+
+[Building Kubernetes Operators in an Ansible-native way](https://www.cncf.io/webinars/building-kubernetes-operators-in-an-ansible-native-way/) — My colleague Tim Appnel and I get you familiar with Ansible Operators and what they can do in your environments. It's a wide world of possibilities.
+
+[12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/) — "It should be noted however that ensuring adherence to these best practices requires more than just knowing what they are. The level of success you have in consistently following these recommendations will also be determined by the degree to which you can automate the process of checking your environment for misconfigurations."
+
+[A New Linux Memory Controller Promises to Save Lots of RAM](https://thenewstack.io/a-new-linux-memory-controller-promises-to-save-lots-of-ram/) — "Roman Gushchin, a member of Facebook’s Linux kernel engineering team, has proposed a brand new slab memory controller for the Linux kernel. This new slab memory controller promises to provide a much-improved memory utilization between multiple memory cgroups, via sharing slab pages."
+
+[Deploying Ansible Tower and Terraform](https://www.redhat.com/sysadmin/ansible-tower-terraform) — "Are Terraform and Ansible an unlikely pairing, two star-crossed lovers, or just the right technological marriage to simplify workflows for sysadmins, developers, and users? Find the right answer here."
+
+[How to install whois on RHEL 8 / CentOS 8](https://www.cyberciti.biz/faq/how-to-install-whois-on-rhel-8-centos-8/) — You'll need [EPEL](https://fedoraproject.org/wiki/EPEL).
+
+[DevOps in Practice: Moving NGINX Controller Development to GitLab CI](https://www.nginx.com/blog/devops-in-practice-moving-nginx-controller-development-to-gitlab-ci/) — NGINX Controller development moved from GitHub and Jenkins to GitLab CI/CD.
+
+[Demystifying Persistent Storage Myths for Stateful Workloads in Kubernetes](https://containerjournal.com/topics/container-networking/demystifying-persistent-storage-myths-for-stateful-workloads-in-kubernetes/) — "Kubernetes is everywhere now. If you are moving or have moved your workloads to containers and still want to keep up with virtual machines, Kubernetes can do that for you. Due to this, K8S is slowly becoming a mainstream cloud operating system. However, when it comes to handling storage for applications, specifically stateful applications, you have to do some research."
+
+[salesforce/sloop](https://github.com/salesforce/sloop) — Kubernetes History Visualization
+
+[karydia/karydia](https://github.com/karydia/karydia) — Kubernetes Security Walnut
+
+[digitalocean/clusterlint](https://github.com/digitalocean/clusterlint) — A best practices checker for Kubernetes clusters. 🤠
+
+[weaveworks/wksctl](https://github.com/weaveworks/wksctl) — Open Source Weaveworks Kubernetes System
 
 ## DevOps'ish Tweet of the Week
 
