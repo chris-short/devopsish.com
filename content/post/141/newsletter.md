@@ -6,7 +6,7 @@ date = 2019-08-18T07:00:00Z
 description = "Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more"
 draft = false
 slug = "141"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "Ansible", "OpenShift", "Google", "Red Hat", "AWS", "BPF", "database", "ITIL"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Ansible", "OpenShift", "Google", "Red Hat", "AWS", "BPF", "database", "ITIL"]
 title = "141: Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more"
 
 +++

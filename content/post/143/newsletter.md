@@ -6,7 +6,7 @@ date = 2019-09-01T07:00:00Z
 description = ""
 draft = false
 slug = "143"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "tanzu", "cluster", "javascript", "pacific"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "tanzu", "cluster", "javascript", "pacific"]
 title = "143: Fresh caught Pacific Tanzu, Cluster API, good God Google, JavaScript library ads, and more"
 
 +++

@@ -6,7 +6,7 @@ date = 2019-08-11T07:00:00Z
 description = "Kubernetes, DevOps, AWS, Community, Operators, and More"
 draft = false
 slug = "140"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "community", "AWS", "Operators"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "DevOps news", "Kubernetes news", "community", "AWS", "Operators"]
 title = "140: Kubernetes, DevOps, AWS, Community, Operators, and More"
 
 +++

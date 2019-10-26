@@ -6,7 +6,7 @@ date = 2019-09-30T07:00:00Z
 description = "Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, Docker’s impending doom, AnsibleFest, and more"
 draft = false
 slug = "147"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "Chef", "Docker", "Matt Asay", "AnsibleFest", "strategy", "Docker Inc"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Chef", "Docker", "Matt Asay", "AnsibleFest", "strategy", "Docker Inc"]
 title = "147: Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, Docker’s impending doom, AnsibleFest, and more"
 
 +++

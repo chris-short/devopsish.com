@@ -6,7 +6,7 @@ date = 2019-06-30T07:00:00Z
 description = ""
 draft = false
 slug = "134"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "google", "multicloud", "platform", "JEDI"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "security", "google", "multicloud", "platform", "JEDI"]
 title = "134: Kubernetes Security, multicloud marvels, BGP bungle, Bill's biggest blunder, Big Blue blows through EU, Big Red roiling JEDI requisition, and more"
 
 +++

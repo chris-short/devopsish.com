@@ -6,7 +6,7 @@ date = 2018-08-18T07:00:00Z
 description ="Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More"
 draft = false
 slug = "089"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "microservices", "metrics", "azure", "containers", "podman", "kafka", "backblaze", "jack dorsey"]
+tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "microservices", "metrics", "azure", "containers", "podman", "kafka", "backblaze", "jack dorsey", "Site Reliability Engineering", "SRE"]
 title = "089: Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More"
 
 +++

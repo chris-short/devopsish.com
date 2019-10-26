@@ -6,7 +6,7 @@ date = 2019-09-15T07:00:00Z
 description = "Richard Stallman needs to go, Istio 1.13, intelligence gathering for nation states, Python 2's sunset, and a OOCL Hong Kong's container ship worth of Kubernetes"
 draft = false
 slug = "145"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "Python", "Istio", "Microsoft", "Richard Stallman", "AWS"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Python", "Istio", "Microsoft", "Richard Stallman", "AWS"]
 title = "145: No more Richard Stallman (or his ilk), spying in tech, apps at AWS, Istio 1.13, SSH certificates, Kubernetes issues with iptables, and more"
 
 +++

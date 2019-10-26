@@ -6,7 +6,7 @@ date = 2018-12-23T12:45:00Z
 description = "KubeCon Recap, Larry Ellison, China Hacking, Kubernetes Security, and More"
 draft = false
 slug = "107"
-tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "red hat", "ansible", "security", "serverless", "container", "UEFI", "China"]
+tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "red hat", "ansible", "security", "serverless", "container", "UEFI", "China", "Site Reliability Engineering", "SRE"]
 title = "107: KubeCon Recap, Larry Ellison, China Hacking, Kubernetes Security, and More"
 +++
 

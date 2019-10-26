@@ -6,7 +6,7 @@ date = 2019-07-28T07:00:00Z
 description = "Let's talk about JEDI. Not the lightsaber wielding kind, it's US Department of Defense's Joint Enterprise Defense Infrastructure (JEDI)."
 draft = false
 slug = "138"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "DevOps news", "Kubernetes news", "JEDI", "AWS", "docker", "oracle", "community", "developers"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "security", "DevOps news", "Kubernetes news", "JEDI", "AWS", "docker", "oracle", "community", "developers"]
 title = "138: Jeez JEDI, language ladder, killing K8s, floppy finished, and more"
 
 +++

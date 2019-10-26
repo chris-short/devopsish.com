@@ -6,7 +6,7 @@ date = 2019-08-25T07:00:00Z
 description = "COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more"
 draft = false
 slug = "142"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "weekly newsletter", "DevOps news", "Kubernetes news", "COBOL", "git", "ops", ""]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "COBOL", "git", "ops", "Site Reliability Engineering", "SRE"]
 title = "142: COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more"
 
 +++

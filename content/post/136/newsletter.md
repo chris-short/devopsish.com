@@ -6,7 +6,7 @@ date = 2019-07-14T07:00:00Z
 description = "It is done, unicorn languages, Weave Ignite, you can't handle the CORS, and more"
 draft = false
 slug = "136"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "security", "DevOps news", "Kubernetes news", "Red Hat", "code", "Microsoft Teams", "infrastructure"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "security", "DevOps news", "Kubernetes news", "Red Hat", "code", "Microsoft Teams", "infrastructure"]
 title = "136: It is done, unicorn languages, Weave Ignite, you can't handle the CORS, and more"
 
 +++
