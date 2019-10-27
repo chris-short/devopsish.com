@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-10-26T07:00:00Z
-description = ""
+description = "DevOpsDays Detroit 2019, WeWork woes worsen, AWS should pay OSS devs, Women At Ernst & Young, Tim Cook, Equifax used ‘admin’ as username, & more"
 draft = false
 slug = "151"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "WeWork"]
-title = "151: "
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "WeWork", "KubeCon", "security", "Knative", "developers", "Oracle", "Google", "JEDI", "Detroit", "DevOpsDays", "CNCF", "culture"]
+title = "151: DevOpsDays Detroit 2019, WeWork woes worsen, AWS should pay OSS devs, Women At Ernst & Young, Tim Cook, Equifax used ‘admin’ as username, & more"
 
 +++
 
@@ -41,7 +41,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [Hey AWS - it's time to pay OSS developers](https://forrestbrazeal.com/2019/10/23/hey-aws---its-time-to-pay-oss-developers/) — "AWS could transform open source with a single feature. Why won't they do it?"
 
-[Why Republicans Storming a SCIF Puts National Security at Risk](https://www.wired.com/story/republicans-storm-scif-national-security-nightmare/) — To be honest, this is WAY worst than an email server. There were pictures taken from a SCIF and shared online as well as multiple cellular devices in a room there should be *NONE*. This is an infosec nightmare.
+[Why Republicans Storming a SCIF Puts National Security at Risk](https://www.wired.com/story/republicans-storm-scif-national-security-nightmare/) — To be honest, this is WAY worse than an email server. There were pictures taken from a SCIF and shared online as well as multiple cellular devices in a room there should be *NONE*. This is an infosec nightmare.
 
 [Exclusive: White House cyber memo warns of new network risks](https://www.axios.com/scoop-cyber-memo-warns-of-new-risks-to-white-house-network-9aa19c6c-77a3-485b-919b-1dd9bd691514.html) — The fact the US government still uses the term "cyber" shows how bad things *really* are.
 
@@ -49,13 +49,13 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [Women At Ernst & Young Instructed On How To Dress, Act Nicely Around Men](https://www.huffpost.com/entry/women-ernst-young-how-to-dress-act-around-men_n_5da721eee4b002e33e78606a) — Holy shit, what?!?
 
-[Apple CEO Tim Cook assumes 3-year advisory post at Tsinghua University](https://technode.com/2019/10/23/apple-ceo-tim-cook-assumes-3-year-advisory-post-at-tsinghua-university/) — I remeber stopping a lot of attacks from this university back in the day.
+[Apple CEO Tim Cook assumes 3-year advisory post at Tsinghua University](https://technode.com/2019/10/23/apple-ceo-tim-cook-assumes-3-year-advisory-post-at-tsinghua-university/) — I remember stopping a lot of attacks from this university back in the day.
 
 [![Imagine Going Back in Time](https://imgs.xkcd.com/comics/imagine_going_back_in_time.png)](https://xkcd.com/2220/)
 
 ## Process
 
-[JEDI contract goes to Microsoft, not Amazon after Trump expresses opposition to giving contract to Jeff Bezos's company](https://www.washingtonpost.com/business/2019/10/25/pentagon-awards-controversial-billion-cloud-computing-deal-microsoft-spurning-amazon/) — This is really the only way this was going to work after all the Oracle shenanigans. I think Google and IBM are vying for quantum leadership (neither of them were in the final bidding). But, if a nation other than the US gets a major technological advantage in the next decade we can blame Oracle for it. I feel AWS had the best chance of giving the Department of Defense the platform it needed to unlock AI. Fitting that Oracle might actually end up ruining the world.
+[JEDI contract goes to Microsoft, not Amazon after Trump expresses opposition to giving contract to Jeff Bezos's company](https://www.washingtonpost.com/business/2019/10/25/pentagon-awards-controversial-billion-cloud-computing-deal-microsoft-spurning-amazon/) — This is really the only way this was going to work after all the [Oracle shenanigans](https://chrisshort.net/use-the-force-larry-oracle-playing-politics-with-nations-defense/). I think Google and IBM are vying for quantum leadership (neither of them was in the final bidding). But, if a nation other than the US gets a major technological advantage in the next decade we can blame Oracle for it. I feel AWS had the best chance of giving the Department of Defense the platform it needed to unlock AI. Fitting that Oracle might actually end up ruining the world.
 
 [2nd most valuable U.S. startup to leave SF as city loses another headquarters](https://www.sfchronicle.com/business/article/2nd-most-valuable-U-S-startup-to-leave-SF-as-14558067.php) — We stayed in South San Francisco at the beginning and end of our vacation. It's a dope area and the downtown area is pretty neat too. This is a good move all around by Stripe.
 
@@ -105,7 +105,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [A Decision Tree for Undoing Things with Git](https://www.git-tower.com/blog/undoing-things-with-git-decisiontree/) — I need this as a mural in my office.
 
-[knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) — Understand kubernetes step by step. A ~~simple~~ repo for beginners.
+[knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) — Understand Kubernetes step by step. A ~~simple~~ repo for beginners.
 
 [stevelacy/kuberhaus](https://github.com/stevelacy/kuberhaus) — Kubernetes resource dashboard with node/pod layout and resource requests
 
