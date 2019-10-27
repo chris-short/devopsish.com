@@ -27,7 +27,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 ## People
 
-[DevOpsDays Detroit 2019 Trip Report](https://chrisshort.net/devopsdays-detroit-2019-trip-report/) — I spoke, sponsored, and worked from DevOpsDays Detroit 2019 this week. The event sold out for the first time this year!
+[DevOpsDays Detroit 2019 Trip Report](https://chrisshort.net/devopsdays-detroit-2019-trip-report/) — I spoke, sponsored, and worked from DevOpsDays Detroit 2019 this week. The event sold out for the first time this year! Shame on Codefresh for their vendor pitch veiled as a talk.
 
 [Traffic lights worldwide set to change after Swedish engineer saw red over getting a ticket](https://www.theregister.co.uk/2019/10/21/traffic_lights_changed/) — Doing what's right by engineering one traffic ticket at a time.
 
