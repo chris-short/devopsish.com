@@ -7,7 +7,7 @@ description = ""
 draft = false
 slug = "152"
 tags = []
-title = "152:"
+title = "152: UNIX: A History and a Memoir, "
 
 +++
 
@@ -29,6 +29,9 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [GitHub tries, in vain, to quell employee anger over ICE contract](https://www.latimes.com/business/technology/story/2019-10-31/github-ice-contract-defense) — To say things aren't going smoothly at GitHub would appear to be an understatement. DevOps'ish reader, Twitter friend, and now former GitHub staff engineer, Sophie Haskins, resigned on Monday, "the company did not cancel its contract with ICE and 'shows no indication of canceling the contract,' which she wrote was 'morally unacceptable.'" That's another huge loss for GitHub.
 
+[UNIX: A History and a Memoir by Brian W Kernighan](https://amzn.to/2NsxEgF) — "The fascinating story of how Unix began and how it took over the world. Brian Kernighan was a member of the original group of Unix developers, the creator of several fundamental Unix programs, and the co-author of classic books like 'The C Programming Language' and 'The Unix Programming Environment.'"
+
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
 ## Process
 
 PROCESS
