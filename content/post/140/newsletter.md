@@ -53,6 +53,8 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 [DevOps For Dummies by Emily Freeman](https://amzn.to/2YWRrsr) (Amazon) — "DevOps embraces a culture of unifying the creation and distribution of technology in a way that allows for faster release cycles and more resource-efficient product updating. DevOps For Dummies provides a guidebook for those on the development or operations side in need of a primer on this way of working."
 
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 [Mesosphere is now D2iQ](https://d2iq.com/blog/mesosphere-is-now-d2iq) — A good and but, necessary move.
 
 [Linux Journal Ceases Publication: An Awkward Goodbye](https://www.linuxjournal.com/content/linux-journal-ceases-publication-awkward-goodbye) — Linux Journal is dead again.

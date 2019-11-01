@@ -65,6 +65,8 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2Gr2AdK) by Kelsey Hightower, Brendan Burns, and Joe Beda
 
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 [Disney Open Source](http://disney.github.io/)
 
 [Functions as a Service or (FaaS)](https://blog.alexellis.io/introducing-functions-as-a-service/) is a framework for building Serverless functions on top of containers.

@@ -52,6 +52,14 @@ The materials appearing on DevOps'ish's website could include technical, typogra
 
 DevOps'ish has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by DevOps'ish of the site. Use of any such linked website is at the user's own risk.
 
+## Affiliate Link Policy
+
+Some articles on DevOps'ish contain links to products available from online retailers. These links may contain codes that signal to the retailer that DevOps'ish has referred you. Should you choose to purchase the product, DevOps'ish may receive a commission on the sale. This is called an affiliate program.
+
+The same rigor and standards of objectivity are applied to these articles as is the rest of DevOps'ish. In most cases, posts with affiliate links will also include an individual disclaimer located near the link or "buy" button for that product.
+
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 ## Modifications
 
 DevOps'ish may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.

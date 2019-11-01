@@ -25,6 +25,8 @@ Devs have long wondered why Ops can't move faster. Ops is giving Developers this
 1. [Is It Time to Let Employees Work from Anywhere?](https://hbr.org/2019/08/is-it-time-to-let-employees-work-from-anywhere)
 1. [BPF Performance Tools by Brendan Gregg](https://amzn.to/2z6EeTi) (Amazon)
 
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 ## Events
 
 Event season is upon us but the good news is DevOps'ish has discounts to some of the hottest events this year.

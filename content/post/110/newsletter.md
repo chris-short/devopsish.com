@@ -19,6 +19,8 @@ There will be more discussion and thought around this for sure. But, it appears 
 
 In Thomas L. Friedman's [*Thank You For Being Late: An Optimist's Guide to Thriving in the Age of Accelerations*](https://amzn.to/2SSD4mr) a graph is drawn by Google X's Eric "Astro" Teller like this one here.
 
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 ![Technology is outpacing human adaptability](/110/Thank_You_graph_04a.9_fmt.jpg)
 
 Friedman goes on to explain that the roles of education and government today should be to figure out how to lift the line of human adaptability to be able to keep pace with technology.
