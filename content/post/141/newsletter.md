@@ -21,6 +21,8 @@ This Monday (2019-08-19) will be my first day as Principal Technical Marketing M
 1. [DevOps For Dummies by Emily Freeman](https://amzn.to/2YWRrsr) (Amazon)
 1. [Why I Turned Down an AWS Job Offer](https://www.lastweekinaws.com/blog/why-i-turned-down-an-aws-job-offer/)
 
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 ## Events
 
 Event season is upon us but the good news is DevOps'ish has discounts to some of the hottest events this year.

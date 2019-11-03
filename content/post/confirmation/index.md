@@ -14,6 +14,12 @@ aliases = [
 
 +++
 
-A welcome e-mail will come with a lovely GIF and eBook. If there is anything you are particularly interested in, please don't hesitate to get in touch.
+<script>
+window.addEventListener('load', (event) => {
+    fathom('trackGoal', 'IVBKFKWG', 0);
+});
+</script>
 
-Again, thank you for subscribing.
+Thank you for subscribing!
+
+Check out the the [latest edition](/).

@@ -51,6 +51,8 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 [**Accelerate: State of DevOps 2019 Survey**](https://google.qualtrics.com/jfe/form/SV_0v2VZMeA2Eha365?sp=5):  Nicole Forsgren, PhD is conducting the State of DevOps 2019 Survey. Your input is incredibly important. On several occasions, I have referenced [the 2018 report](https://cloudplatformonline.com/2018-state-of-devops.html) since its release for real-world work that impacts real numbers. Nicole's group also wrote, [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2), which I cannot recommend enough either.
 
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 [Homeland Security warns of security flaws in enterprise VPN apps](https://techcrunch.com/2019/04/12/enterprise-security-flaws/) — A hole in OpenVPN means there's a hole in your backdoor, eek! Seriously, upgrade ASAP. I stepped back from OpenVPN a couple of years ago for a few reasons. If you need an alternative I'd recommend [WireGuard](https://www.wireguard.com/) (for personal use there is also [Outline](https://getoutline.org/)).
 
 [Big Companies Thought Insurance Covered a Cyberattack. They May Be Wrong.](https://www.nytimes.com/2019/04/15/technology/cyberinsurance-notpetya-attack.html) — "Zurich Insurance said it would not be sending a reimbursement check. It cited a common, but rarely used, clause in insurance contracts: the 'war exclusion,' which protects insurers from being saddled with costs related to damage from war. Mondelez was deemed collateral damage in a cyberwar."

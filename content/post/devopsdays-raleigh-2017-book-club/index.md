@@ -18,6 +18,8 @@ aliases = [
 
 As part of the Open Spaces at [DevOpsDays Raleigh](https://www.devopsdays.org/events/2017-raleigh/welcome/), the group decided to do a "Book Club" to share interesting books, podcasts, etc. that would be interesting to us DevOps folks. The members of the conversation were Magnus Hedemark (thanks for tweeting all these), Nirmal Mehta, John Willis, Aaron Huslage, and myself. Here is a compiled list from that discussion:
 
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 [The End of Heaven: Disaster and Suffering in a Scientific Age](https://amzn.to/2IwgRsT) by Sidney Dekker — Accidents and disasters have become technical problems without inherent purpose. When told of a disaster, we easily feel lost in the steely emptiness of technical languages of engineering or medicine.
 
 [Release It!: Design and Deploy Production-Ready Software](https://amzn.to/2XwowL8) by Michael T. Nygard — A single dramatic software failure can cost a company millions of dollars — but can be avoided with simple changes to design and architecture.

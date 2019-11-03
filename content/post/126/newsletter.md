@@ -56,6 +56,8 @@ Try LogDNA - [Start free trial](https://logdna.com/sign-up/?utm_medium=Syndicati
 
 [**Accelerate: State of DevOps 2019 Survey**](https://google.qualtrics.com/jfe/form/SV_0v2VZMeA2Eha365?sp=5):  Nicole Forsgren, PhD is conducting the State of DevOps 2019 Survey. Your input is incredibly important. On several occasions, I have referenced [the 2018 report](https://cloudplatformonline.com/2018-state-of-devops.html) since its release for real-world work that impacts real numbers. Nicole's group also wrote, [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2), which I cannot recommend enough either.
 
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 [A Week Later, Docker Offers Scant Details on Hub Attack](https://thenewstack.io/a-week-later-docker-offers-scant-details-on-hub-attack/) — Docker did conduct [a very long maintenance](https://success.docker.com/article/docker-hub-maintenance) this week. But, it hasn't offered much in terms of additional details regarding the [Docker Hub Breach](https://devopsish.com/125/) last week. There will likely be more to this story in the future.
 
 [Compilation of public failure/horror stories related to Kubernetes](https://github.com/hjacobs/kubernetes-failure-stories)

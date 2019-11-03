@@ -83,6 +83,8 @@ In [The Dark Side of DevOps](https://chrisshort.net/the-dark-side-of-devops/) th
 * [*The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*](https://amzn.to/2WxnsdZ)
 * [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2)
 
+*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 ### Credits
 
 A very special thanks to [Nathen Harvey](https://twitter.com/nathenharvey), [Kim McMahon](https://kimmcmahon.me), and [Emily Freeman](https://emilyfreeman.io/).
