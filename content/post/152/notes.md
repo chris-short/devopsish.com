@@ -53,4 +53,3 @@ title = "DevOps'ish 152 Notes"
 [Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234)
 
 [Jonathan Frederick's Blog - Setting up a simple multi-node libvirt VM cluster on CentOS 8](https://blog.doublej472.com/post/libvirt-cluster/)
-

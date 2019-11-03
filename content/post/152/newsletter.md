@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-11-03T07:00:00Z
-description = ""
+description = "UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More"
 draft = false
 slug = "152"
-tags = []
+tags = ["DevOps", "Kubernetes", "cloud", "Unix", "open source", "container", "Contour", "Img", "Ansible Operators", "Cloud Native", "Quarkus", "Jaeger", "podman", "DKIM", "CNCF", "Fitbit", "systemd", "JEDI", "platform", "AWS", "culture"]
 title = "152: UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More"
 
 +++
 
-I actually crossed things off my list this week. The little wins should be celebrated along with the big ones. There is something very therapeutic about erasing a line on a white board or checking a box. That's not celebration enough though. Make sure if you are doing complicated work that you take a moment to celebrate when it all comes together. There's absolutely nothing wrong with feeling good about yourself. Morale is a huge part of this work. I learned this early on back in my  military days and is has served me very well in the DevOps world.
+I actually crossed things off my list this week. The little wins should be celebrated along with the big ones. There is something very therapeutic about erasing a line on a whiteboard or checking a box. That's not celebration enough though. Make sure if you are doing complicated work that you take a moment to celebrate when it all comes together. There's absolutely nothing wrong with feeling good about yourself. Morale is a huge part of this work. I learned this early on back in my  military days and it has served me very well in the DevOps world.
 
 ## Events
 
@@ -74,6 +74,8 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 [DevOps: Tools Can Lead The Culture Change](https://redmonk.com/rstephens/2019/10/25/devops-tools-can-lead-the-culture-change/) — "It's an industry truism that DevOps is about culture change rather than products, but tools can very much lead a culture change and we shouldn't underestimate their role."
 
 [DKIM demystified](https://www.20i.com/blog/dkim-demystified/) — If you deliver mail from a domain, it should have DKIM configured.
+
+[Istio: Up and Running: Using a Service Mesh to Connect, Secure, Control, and Observe](https://amzn.to/2PGCQAk) — "In this book, Lee Calcote and Zack Butcher explain why your services need a service mesh and demonstrate step-by-step how Istio fits into the life cycle of a distributed application. You’ll learn about the tools and APIs for enabling and managing many of the features found in Istio."
 
 [Sysdig 2019 Container Usage Report: New Kubernetes and security insights](https://sysdig.com/blog/sysdig-2019-container-usage-report/) — "One of the surprising insights this year is the 2X increase in the number of containers that live for less than five minutes." Hot damn!
 
