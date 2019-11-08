@@ -24,7 +24,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 ## People
 
-PEOPLE
+[PodCTL Co-host](https://chrisshort.net/podctl-co-host/) — This week, Brian Gracely reached out to me to cohost [PodCTL](http://podcast.podctl.com/), Red Hat’s Kubernetes podcast. Knowing that Brian has the tooling and processes in place for podcast production, I didn’t even hesitate to say, “Yes!” [We recorded an episode](http://podcast.podctl.com/110399/2024361-the-intersection-of-devops-and-kubernetes)  while I’m at home here outside Detroit. [A fancy mic for my iPhone](https://amzn.to/2NYe0t0) is now part of my kit and we’re off to the races.
 
 ## Process
 
