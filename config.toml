@@ -11,6 +11,7 @@ relativeURLs = true
 rssLimit = 10
 theme = "hugo-theme-bootstrap4-blog"
 title = "DevOps'ish"
+disableKinds = ["RSS"]
 
 [taxonomies]
   tag = "tags"
