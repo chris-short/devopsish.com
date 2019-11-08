@@ -8,7 +8,6 @@ metaDataFormat = "toml"
 newContentEditor = "code"
 paginate = 8
 relativeURLs = true
-rssLimit = 5
 theme = "hugo-theme-bootstrap4-blog"
 title = "DevOps'ish PREVIEW"
 disableKinds = ["RSS"]
