@@ -24,7 +24,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 ## People
 
-[PodCTL Co-host](https://chrisshort.net/podctl-co-host/) — This week, Brian Gracely reached out to me to cohost [PodCTL](http://podcast.podctl.com/), Red Hat’s Kubernetes podcast. Knowing that Brian has the tooling and processes in place for podcast production, I didn’t even hesitate to say, “Yes!” [We recorded an episode](http://podcast.podctl.com/110399/2024361-the-intersection-of-devops-and-kubernetes)  while I’m at home here outside Detroit. [A fancy mic for my iPhone](https://amzn.to/2NYe0t0) is now part of my kit and we’re off to the races.
+[PodCTL Co-host](https://chrisshort.net/podctl-co-host/) — This week, Brian Gracely reached out to me to cohost [PodCTL](http://podcast.podctl.com/), Red Hat's Kubernetes podcast. Knowing that Brian has the tooling and processes in place for podcast production, I didn't even hesitate to say, “Yes!” [We recorded an episode](http://podcast.podctl.com/110399/2024361-the-intersection-of-devops-and-kubernetes)  during the calm before the KubeCon storm. [A fancy mic for my iPhone](https://amzn.to/2NYe0t0) is now part of my kit and we're off to the races.
 
 ## Process
 
@@ -32,7 +32,7 @@ PROCESS
 
 ## Tools
 
-[Istio: Up and Running: Using a Service Mesh to Connect, Secure, Control, and Observe](https://amzn.to/2PGCQAk) — "In this book, Lee Calcote and Zack Butcher explain why your services need a service mesh and demonstrate step-by-step how Istio fits into the life cycle of a distributed application. You’ll learn about the tools and APIs for enabling and managing many of the features found in Istio."
+[Istio: Up and Running: Using a Service Mesh to Connect, Secure, Control, and Observe](https://amzn.to/2PGCQAk) — "In this book, Lee Calcote and Zack Butcher explain why your services need a service mesh and demonstrate step-by-step how Istio fits into the life cycle of a distributed application. You'll learn about the tools and APIs for enabling and managing many of the features found in Istio."
 
 *Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](https://devopsish.com/terms/).*
 
