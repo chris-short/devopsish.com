@@ -7,7 +7,7 @@ description = "UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DK
 draft = false
 slug = "153"
 tags = ["DevOps", "Kubernetes", "cloud", "Unix", "open source", "container", "Contour", "Img", "Ansible Operators", "Cloud Native", "Quarkus", "Jaeger", "podman", "DKIM", "CNCF", "Fitbit", "systemd", "JEDI", "platform", "AWS", "culture"]
-title = "153: The week before KubeCon, KubeKhan is back again, and More"
+title = "153: The week before KubeCon, KubeKhan is back, and More"
 
 +++
 
@@ -36,7 +36,7 @@ PROCESS
 
 *Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](https://devopsish.com/terms/).*
 
-TOOLS
+[Kubernetes Patterns by Bilgin Ibryam and Roland Huß](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918) — One of the best reference books for Kubernetes is now available after signup. However, the signup form is annoying as hell and for that I am sorry. Disclaimer: My views do not reflect those of Red Hat.
 
 ## Tweet of the Week
 
