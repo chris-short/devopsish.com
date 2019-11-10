@@ -117,5 +117,3 @@ Write your functions in popular languages and build components using containers.
 [You can run kubectl from the host WITHOUT moving the kubeconfig from the vagrant guest machine](https://medium.com/@abdennour.toumi/you-can-run-kubectl-from-the-host-without-copying-the-kubeconfig-outside-the-vagrant-machine-a40a10fcd08f): This will come in handy.
 
 ## DevOps'ish Tweet of the Week
-
-<!-- {{< tweet 1058037588563578881 >}} -->
