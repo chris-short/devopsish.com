@@ -118,4 +118,4 @@ Write your functions in popular languages and build components using containers.
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1058037588563578881 >}}
+<!-- {{< tweet 1058037588563578881 >}} -->
