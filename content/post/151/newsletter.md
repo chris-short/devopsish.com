@@ -13,6 +13,8 @@ title = "151: DevOpsDays Detroit 2019, WeWork woes worsen, AWS should pay OSS de
 
 Our vacation in Yosemite National Park was amazing. Thanks for sticking around. I jumped out of PTO into DevOpsDays Detroit 2019. It was a great event! My report is linked below. Other news, is that I'm gearing up for Max's birthday, a potential nerve stimulator, and  KubeCon. If you haven't gotten your tickets and travel for KubeCon sorted yet, do so sooner rather than later (KubeCon discount code below). Happy DevOps'ing out there this week, y'all!
 
+Notes for this weeks issue are avaialble here: [Notes](./notes/)
+
 ## Events
 
 [All Day DevOps, Live Online](https://www.alldaydevops.com/)  

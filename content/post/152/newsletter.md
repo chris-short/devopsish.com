@@ -13,6 +13,8 @@ title = "152: UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKI
 
 I actually crossed things off my list this week. The little wins should be celebrated along with the big ones. There is something very therapeutic about erasing a line on a whiteboard or checking a box. That's not celebration enough though. Make sure if you are doing complicated work that you take a moment to celebrate when it all comes together. There's absolutely nothing wrong with feeling good about yourself. Morale is a huge part of this work. I learned this early on back in my  military days and it has served me very well in the DevOps world.
 
+Notes for this weeks issue are avaialble here: [Notes](./notes/)
+
 ## Events
 
 [All Day DevOps, Live Online](https://www.alldaydevops.com/)  
