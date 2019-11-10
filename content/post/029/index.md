@@ -60,8 +60,6 @@ On Wednesday we all woke up and rejoiced when we learned [Uber Founder Travis Ka
 
 I studied Buddhism as a child ([long story](https://chrisshort.net/center-for-purposeful-living/)) and found this piece from [Faisal Hoque](https://medium.com/@faisal_hoque) via [Hackernoon](https://medium.com/@hackernoon) to be quite a nice reminder: [Buddha Had It Right: Relax The Mind And Productivity Will Follow](https://hackernoon.com/buddha-had-it-right-relax-the-mind-and-productivity-will-follow-f2e21b1ef928)
 
-<!-- {{< tweet 877886212551303168 >}} -->
-
 ## Not DevOps But Still Cool
 
 [Older fathers have 'geekier sons'](http://www.bbc.com/news/health-40340540) via BBC
