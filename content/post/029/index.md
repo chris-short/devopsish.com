@@ -68,4 +68,4 @@ I studied Buddhism as a child ([long story](https://chrisshort.net/center-for-pu
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 878748980125069313 >}}
+[![It's really hard for people to internalize that there are other sides to their friends and colleagues that *they may never see*. —Charity Majors](/029/029-tweet-of-the-week.png)](https://twitter.com/mipsytipsy/status/878748980125069313)
