@@ -92,8 +92,4 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 [goadapp/goad](https://github.com/goadapp/goad) — Goad is an AWS Lambda powered, highly distributed, load testing tool
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1145787863235223552 >}}
-
 Notes from this week's issue can be found [here](./notes/).
