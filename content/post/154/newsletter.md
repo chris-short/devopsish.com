@@ -11,6 +11,8 @@ title = "154: Docker on life support, The Unicorn Project, "
 
 +++
 
+Editor's Note: The newsletter passed 3,900 subscribers this week. I'd love to end the month at 4,000 subscribers. If you don't mind, please ask your coworkers and folks on social media to [subscribe to DevOps'ish](https://devopsish.com/subscribe/). Y'all are awesome!
+
 The inevitable is *finally* happening this week. [Docker  gutted itself to stay alive](https://thenewstack.io/mirantis-acquires-docker-enterprise/) by selling off the money making bits of the business to Mirantis. Docker states it's because they have two distinct businesses and they can only focus on one. The Docker that everyone knew is now boiled down to Docker Desktop and Docker Hub. Docker is going to run that with $35 million in cash they got from Mirantis and whatever is left in the bank. In the process, 300 former Docker employees now work for Mirantis (that sucks, they had no say in that). The remaining 100 work for a business that did a 10:1 reverse stock split and revaluation. In essence, Docker sold the farm for peanuts. This also wipes out a lot of  value of whatever stock Docker employees were holding on to in hopes of cashing in some day. I feel really bad for the former and current Docker employees. This has to suck for them. With that in mind, if you're at Docker still and need help finding a better job, updating your resume, or need to figure out what to do next, hit me up.
 
 The one shocking thing from this news is folks wondering what went wrong. [I tried to tell y'all](https://chrisshort.net/docker-inc-is-dead/). This is what happens when you take on VC money and don't make a profit. You have to exit, IPO, or implode under your own weight. Docker chose the latter for some reason (probably hubris). Keep in mind, [Microsoft wanted to acquire Docker for a rumored $4 billion](https://www.sdxcentral.com/articles/news/sources-microsoft-tried-to-buy-docker-for-4b/2016/06/) back in 2016 making everyone with Docker stock rich but, Docker opted not to. Now Docker will continue on with no profits, [no Docker Swarm](https://www.mirantis.com/company/press-center/company-news/mirantis-acquires-docker-enterprise/), and what I imagine is an insanely high bill to run Docker Hub.
@@ -25,9 +27,11 @@ I've heard rumors about the old Docker's run rate. While those numbers are now d
 Missing out on KubeCon + CloudNativeCon NA next week? Don't worry! 🌟Sign-up for the FREE livestream to see all of next week's keynotes.
 
 [KubeCon + CloudNativeCon North America 2019](https://cshort.co/kcna19)  
-The Cloud Native Computing Foundation's flagship conference gathers adopters and technologists from leading open source and cloud native communities in San Diego, California from November 18-21, 2019. Join Kubernetes, Prometheus, Envoy, CoreDNS, containerd, Fluentd, OpenTracing, gRPC, CNI, Jaeger, Notary, TUF, Vitess, NATS, Linkerd, Helm, Rook, Harbor, etcd, Open Policy Agent, CRI-O, and TiKV as the community gathers for four days to further the education and advancement of cloud native computing. Use code *KCNACSN10* at checkout for a 10% discount on KubeCon Corporate Registration.
+**LAST CHANCE!!!** The Cloud Native Computing Foundation's flagship conference gathers adopters and technologists from leading open source and cloud native communities in San Diego, California from November 18-21, 2019. Join Kubernetes, Prometheus, Envoy, CoreDNS, containerd, Fluentd, OpenTracing, gRPC, CNI, Jaeger, Notary, TUF, Vitess, NATS, Linkerd, Helm, Rook, Harbor, etcd, Open Policy Agent, CRI-O, and TiKV as the community gathers for four days to further the education and advancement of cloud native computing. Use code **KCNACSN10** at checkout for a 10% discount on KubeCon Corporate Registration.
 
 [Diversity and Inclusion Lunches and Hacks - KubeCon + CloudNativeCon North America 2019](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/attend/diversity-and-inclusion/?utm_source=devopsish&utm_campaign=154)
+
+Looking for KubeCon parties? Check [last week's newsletter](https://devopsish.com/153/).
 
 ## People
 
