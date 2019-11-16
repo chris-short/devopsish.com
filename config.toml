@@ -22,7 +22,7 @@ disableKinds = ["RSS"]
 
 [params]
   author = "Chris Short"
-  description = "DevOps, Cloud Native, Open Source, and the 'ish between."
+  description = "DevOps, Cloud Native, Open Source, industry news, and the 'ish between."
   favicon = "/favicons/favicon.ico"
   disable_sri = true
 
@@ -31,7 +31,7 @@ disableKinds = ["RSS"]
     num_recent_posts = 8
 
   [params.stats]
-    subscribers = "3,837"
+    subscribers = "3,905"
     avg_open_rate = "47.6%"
     avg_click_rate = "22.0%"
 
