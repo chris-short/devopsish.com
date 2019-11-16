@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter"]
 date = 2019-11-18T07:00:00Z
-description = ""
+description = "154: Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more"
 draft = false
 slug = "154"
-tags = []
-title = "154: Docker on life support, The Unicorn Project, "
+tags = ["Docker", "DevOps", "Unicorn Project", "KubeCon", "Kubernetes", "GitHub", "open source", "cloud", "cloud native", "Helm", "IBM", "Microsoft", "containers", "developer", "Mirantis", "systems", "Deming", "stock options"]
+title = "154: Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more"
 
 +++
 
@@ -35,19 +35,21 @@ Looking for KubeCon parties? Check [last week's newsletter](https://devopsish.co
 
 ## People
 
+[How We Can Fix Startup Stock Options](https://pete.wtf/blog/how-we-can-fix-startup-stock-options/) — How we could have avoided Docker employees getting hosed.
+
 [KubeCon NA 2019 Contributor Summit & Event Preview](http://podcast.podctl.com/110399/2055312-kubecon-na-2019-contributor-summit-event-preview) — I sat down on Veteran's Day with fellow veteran and Kubernetes contributor Marky Jackson, Senior Software Engineer, Sysdig and talked about next week's KubeCon. We're working on the New Contributor Workshop together and wanted to welcome more veterans into the Kubernetes communities. Give it a listen and subscribe for more episodes like this.
 
 [Linux, containers, Kubernetes the standard for IT's next era: IBM CEO Ginni Rometty](https://www.computerworld.com.au/article/668544/linux-containers-kubernetes-new-standard-it-next-era-ibm-ceo-ginni-rometty/) — Ginny highlighted the path forward for enterprise IT for the few years. I get it, it's IBM so it should be taken with a grain of salt. But, the gravity IBM has cannot be ignored. If Ginny is saying it, then IBM customers are believing it.
 
-[The Microsoft-owned GitHub is under pressure for its work with ICE, as employees resign and activists protest its biggest event of the year](https://www.businessinsider.com/github-employees-ice-contracts-protest-microsoft-2019-11) — Serveral folks have left GitHub over a $200,000 ICE contract. Sophia Haskins leaving GitHub was in last week's newsletter. [Alice Goldfuss left GitHub this week](https://twitter.com/alicegoldfuss/status/1194666475325231104) dealing GitHub another major talent blow. I will say one thing, no one blames GitHub employees with families to feed and bills to pay for staying at GitHub.
+[The Microsoft-owned GitHub is under pressure for its work with ICE, as employees resign and activists protest its biggest event of the year](https://www.businessinsider.com/github-employees-ice-contracts-protest-microsoft-2019-11) — Several folks have left GitHub over a $200,000 ICE contract. Sophia Haskins leaving GitHub was in last week's newsletter. [Alice Goldfuss left GitHub this week](https://twitter.com/alicegoldfuss/status/1194666475325231104) dealing GitHub another major talent blow. I will say one thing, no one blames GitHub employees with families to feed and bills to pay for staying at GitHub.
 
-[Do You Give Employees a Reason to Feel Proud of What They Do?](https://hbr.org/2019/11/do-you-give-employees-a-reason-to-feel-proud-of-what-they-do) — According to Deming, pride in one's work is one of the most important things in reducing costs and improving quality.
+[Do You Give Employees a Reason to Feel Proud of What They Do?](https://hbr.org/2019/11/do-you-give-employees-a-reason-to-feel-proud-of-what-they-do) — According to Deming, pride in one's work is one of the most important things in reducing costs and improving quality. Listen to Deming on this one.
 
 ## Process
 
 [3 lessons for IT leaders from "​The Unicorn Project"](https://enterprisersproject.com/article/2019/11/3-lessons-it-leaders-unicorn-project) — Gene Kim has a new book coming out. If the pre-Kubecon anxiety calms down, I might read it on the flight to San Diego.
 
-[The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://amzn.to/2XqekFl) — In *The Unicorn Project*, we follow Maxine, a senior lead developer and architect, as she is exiled to the Phoenix Project, to the horror of her friends and colleagues, as punishment for contributing to a payroll outage. She tries to survive in what feels like a heartless and uncaring bureaucracy and to work within a system where no one can get anything done without endless committees, paperwork, and approvals.
+[The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://amzn.to/2XqekFl) — In *The Unicorn Project*, we follow Maxine, a senior lead developer, and architect, as she is exiled to the Phoenix Project, to the horror of her friends and colleagues, as punishment for contributing to a payroll outage. She tries to survive in what feels like a heartless and uncaring bureaucracy and to work within a system where no one can get anything done without endless committees, paperwork, and approvals.
 
 [Google Cloud Down: GCP Suffers "Major" Global Outage](https://www.cbronline.com/news/google-cloud-down) — A number of Google services were impacted for quite some time. The impact though is not as widespread as an S3 outage, thankfully.
 
@@ -61,13 +63,13 @@ Looking for KubeCon parties? Check [last week's newsletter](https://devopsish.co
 
 [Using Helm 3 with Azure DevOps](https://jessicadeen.com/using-helm-3-with-azure-devops/) — Jessica Deen patches up Azure DevOps to get it working with Helm 3.
 
-[adidas/adidas-devops-maturity-framework](https://github.com/adidas/adidas-devops-maturity-framework) — The DevOps maturity framework was created by adidas as a guide for the first DevOps cup to support the teams on their DevOps transformation journey.
+[adidas/adidas-devops-maturity-framework](https://github.com/adidas/adidas-devops-maturity-framework) — The DevOps maturity framework was created by Adidas as a guide for the first DevOps cup to support the teams on their DevOps transformation journey.
 
-[Red Hat Introduces open source Project Quay container registry](https://www.redhat.com/en/blog/red-hat-introduces-open-source-project-quay-container-registry) — Just in time for Docker to be put on life support, Project Quay emerges from Red Hat's CoreOS acquisition as an open source project. With tight Clair integration the service is already dope af. Run it in your infrastructure or maybe spin up a service to replace Docker Hub.
+[Red Hat Introduces open source Project Quay container registry](https://www.redhat.com/en/blog/red-hat-introduces-open-source-project-quay-container-registry) — Just in time for Docker to be put on life support, Project Quay emerges from Red Hat's CoreOS acquisition as an open source project. With tight Clair integration, the service is already dope af. Run it in your infrastructure or maybe spin up a service to replace Docker Hub.
 
 [The History of HAProxy](https://www.haproxy.com/blog/the-history-of-haproxy/) — When I worked at Hosted Solutions (2014), I remember building RPMs to deploy HAProxy to RHEL boxes. Red Hat moved the RPM into a yum repo our systems weren't subscribed to and we needed them. I ended up making some contributions to the project as a result.
 
-[Containers in a Minute with Michael Hrivnak (Red Hat)](https://youtu.be/B9IOukIZoq4) — Four people had an idea to shoot a video in the middle of a confernce hall. Michael spits mad container game and I over produce my first video for the OpenShift YouTube channel.
+[Containers in a Minute with Michael Hrivnak (Red Hat)](https://youtu.be/B9IOukIZoq4) — Four people had an idea to shoot a video in the middle of a conference hall. Michael spits mad container game and I overproduce my first video for the OpenShift YouTube channel.
 
 [Python overtakes Java to become second-most popular language on GitHub after JavaScript](https://www.theregister.co.uk/2019/11/07/python_java_github_javascript/) — Music to my ears. Don't get me wrong Java is probably fine. It's that, I have never had a great experience around the language in my entire 25 years in tech.
 
