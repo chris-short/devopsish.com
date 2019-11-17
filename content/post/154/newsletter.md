@@ -17,7 +17,7 @@ The inevitable is *finally* happening this week. [Docker  gutted itself to stay 
 
 The one shocking thing from this news is folks wondering what went wrong. [I tried to tell y'all](https://chrisshort.net/docker-inc-is-dead/). This is what happens when you take on VC money and don't make a profit. You have to exit, IPO, or implode under your own weight. Docker chose the latter for some reason (probably hubris). Keep in mind, [Microsoft wanted to acquire Docker for a rumored $4 billion](https://www.sdxcentral.com/articles/news/sources-microsoft-tried-to-buy-docker-for-4b/2016/06/) back in 2016 making everyone with Docker stock rich but, Docker opted not to. Now Docker will continue on with no profits, [no Docker Swarm](https://www.mirantis.com/company/press-center/company-news/mirantis-acquires-docker-enterprise/), and what I imagine is an insanely high bill to run Docker Hub.
 
-I've heard rumors about the old Docker's run rate. While those numbers are now different since the Mirantis unload, $35 million wouldn't have lasted the old Docker a year. Docker's plan now is to focus on developer tooling. Everyone cast aside the IDE as a commodity a few years ago. But, Red Hat and Microsoft are now selling products based around IDEs and GitLab is adding features to theirs. Tech giants likely see blood in the water after this week. They are coming for the rest of Docker's business (developer experience). It's only a matter of time now.
+I've heard rumors about the old Docker's run rate. While those numbers are now different since the Mirantis unload, $35 million wouldn't have lasted the old Docker a year. Docker's plan now is to focus on developer tooling. It's not a big secret that reducing friction improves outcomes. Everyone is looking to improve developer experience. Tech giants likely see blood in the water after this week. They are coming for the rest of Docker's business. It's only a matter of time now.
 
 {{< notes-link >}}
 
@@ -91,9 +91,9 @@ Looking for KubeCon parties? Check [last week's newsletter](https://devopsish.co
 
 [bats-core/bats-core](https://github.com/bats-core/bats-core) — Bash Automated Testing System
 
-[quay/quay: Build, Store, and Distribute your Applications and Containers](https://github.com/quay/quay)
+[quay/quay](https://github.com/quay/quay) — Build, Store, and Distribute your Applications and Containers
 
-[quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
+[quay/clair](https://github.com/quay/clair) — Vulnerability Static Analysis for Containers
 
 ## Tweet of the Week
 
