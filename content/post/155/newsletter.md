@@ -19,6 +19,9 @@ I can tell you for certain, I'm not the only one that feels this way. One CNCF A
 
 {{< notes-link >}}
 
+[**X-Team is Hiring Go developers with strong AWS skills (Remote)**](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)  
+We are looking for passionate Go developers with strong AWS skills to work with the world's leading brands, from anywhere. We love to work with Kubernetes, Docker, Serverless, and AWS tools. Travel the world while being part of the most energizing community of developers. We provide the funding needed to help you achieve your goals and grow as a remote developer. [Join X-Team](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)! *SPONSORED*
+
 ## People
 
 [geopolitics.dev](https://geopolitics.dev/) — I'm launching a seperate newsletter to dive into policy, ethics, and tech. If you like the People and Process section of this newsletter and don't mind living outside your comfort zone, [subscribe today](https://geopolitics.dev/subscribe/)!
