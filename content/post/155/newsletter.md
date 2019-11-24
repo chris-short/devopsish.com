@@ -15,7 +15,7 @@ Editor's Note: The newsletter passed 3,975 subscribers this week. I'd love to en
 
 I'm exhausted. I tweeted midweek that I likely shortened my lifespan at KubeCon this week and I wasn't sure why. It was a net negative experience for me. The people are great. I love meeting contributors and teaching new folks how to contribute. But, the problems that had to be solved on the ground were extreme in some cases. I sent out my unpolished report internally. I will share it when I have the energy to clean it up a lot.
 
-I can tell you for certain, I'm not the only one that feels this way. One CNCF Ambassador already hung it up. I have legitimate concerns about the long term viability of Cloud Native Computing Foundation. At this rate of disregard for the communities forming underneath it the intent seems to get as much money as possible at all costs. It's frustrating as hell and I'm still mulling what to do. If I end up leaving my CNCF Ambassador title behind, it would free up some time to do more in the community. I will not do a full KubeCon again.
+I can tell you for certain, I'm not the only one that feels this way. One CNCF Ambassador already hung it up. I have legitimate concerns about the long term viability of Cloud Native Computing Foundation. At this rate of disregard for the communities forming underneath it, the intent seems to get as much money as possible at all costs. It's frustrating as hell and I'm still mulling what to do. If I end up leaving my CNCF Ambassador title behind, it would free up some time to do more in the community. I will not do a full KubeCon again.
 
 {{< notes-link >}}
 
@@ -24,7 +24,7 @@ We are looking for passionate Go developers with strong AWS skills to work with 
 
 ## People
 
-[geopolitics.dev](https://geopolitics.dev/) — I'm launching a seperate newsletter to dive into policy, ethics, and tech. If you like the People and Process section of this newsletter and don't mind living outside your comfort zone, [subscribe today](https://geopolitics.dev/subscribe/)!
+[geopolitics.dev](https://geopolitics.dev/) — I'm launching a separate newsletter to dive into policy, ethics, and tech. If you like the People and Process section of this newsletter and don't mind living outside your comfort zone, [subscribe today](https://geopolitics.dev/subscribe/)!
 
 [The Secret of Employee Engagement](https://www.sametab.com/blog/employee-engagement) — Context is key.
 
@@ -68,7 +68,7 @@ We are looking for passionate Go developers with strong AWS skills to work with 
 
 [The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology](https://servicemesh.io/) — It's written by the creator of Linkerd but it is filled with good information.
 
-[Can someone ELI5 Service Meshes (Consul, Istio, etc)](https://www.reddit.com/r/devops/comments/dy7ecv/can_someone_eli5_service_meshes_consul_istio_etc/f7zu1ga/) — This response to a reddit asking for a simple explanation of service meshes is great.
+[Can someone ELI5 Service Meshes (Consul, Istio, etc)](https://www.reddit.com/r/devops/comments/dy7ecv/can_someone_eli5_service_meshes_consul_istio_etc/f7zu1ga/) — This response to a Reddit asking for a simple explanation of service meshes is great.
 
 [Write secure Kubernetes configuration with help from Snyk](https://snyk.io/blog/write-secure-kubernetes-configuration-with-help-from-snyk/) — "A new Snyk feature to help you find and fix issues with your Kubernetes configuration as part of your development process." 👀
 
