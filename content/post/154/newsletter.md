@@ -19,8 +19,6 @@ The one shocking thing from this news is folks wondering what went wrong. [I tri
 
 I've heard rumors about the old Docker's run rate. While those numbers are now different since the Mirantis unload, $35 million wouldn't have lasted the old Docker a year. Docker's plan now is to focus on developer tooling. It's not a big secret that reducing friction improves outcomes. Everyone is looking to improve developer experience. Tech giants likely see blood in the water after this week. They are coming for the rest of Docker's business. It's only a matter of time now.
 
-{{< notes-link >}}
-
 ## Events
 
 [KubeCon Livestream](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/livestream/?utm_source=devopsish&utm_campaign=154)  

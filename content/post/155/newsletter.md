@@ -17,8 +17,6 @@ I'm exhausted. I tweeted midweek that I likely shortened my lifespan at KubeCon 
 
 I can tell you for certain, I'm not the only one that feels this way. One CNCF Ambassador already hung it up. I have legitimate concerns about the long term viability of Cloud Native Computing Foundation. At this rate of disregard for the communities forming underneath it, the intent seems to get as much money as possible at all costs. It's frustrating as hell and I'm still mulling what to do. If I end up leaving my CNCF Ambassador title behind, it would free up some time to do more in the community. I will not do a full KubeCon again.
 
-{{< notes-link >}}
-
 [**X-Team is Hiring Go developers with strong AWS skills (Remote)**](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)  
 We are looking for passionate Go developers with strong AWS skills to work with the world's leading brands, from anywhere. We love to work with Kubernetes, Docker, Serverless, and AWS tools. Travel the world while being part of the most energizing community of developers. We provide the funding needed to help you achieve your goals and grow as a remote developer. [Join X-Team](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)! *SPONSORED*
 

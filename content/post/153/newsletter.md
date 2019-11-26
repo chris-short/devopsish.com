@@ -17,8 +17,6 @@ Are you ready for [KubeCon](https://cshort.co/kcna19)? I'm not, but I hope to be
 
 But, the event of the year we all know is [#KubeKhan](https://twitter.com/search?q=(%23KubeKhan)&src=typed_query&f=live). The come as you are, judgment-free gathering is back this year with a little extra oomph thanks to our friends at [Cloud Native Computing Foundation](https://cncf.io). It's casual and will take place every night of KubeCon activities in some capacity. But, the first official night of #KubeKhan will be Monday, November, 18th at the Marriott Marquis® San Diego Marina starting around 7-ish. The [KubeCon Code of Conduct](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/attend/code-of-conduct/) will be adhered to.
 
-{{< notes-link >}}
-
 ## Events
 
 [**KubeCon + CloudNativeCon North America 2019**](https://cshort.co/kcna19)  
