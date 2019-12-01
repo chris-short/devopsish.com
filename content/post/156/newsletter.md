@@ -6,14 +6,14 @@ date = 2019-12-02T07:00:00Z
 description = "156"
 draft = false
 slug = "156"
-tags = []
-title = "156: KubeCon Analysis, "
+tags = ["Kubernetes", "KubeCon", "DevOps", "cloud", "cloud native", "open source", "developers", "VMware", "git", "Ansible", "AWS", "security", "Operator", "community"]
+title = "156: KubeCon analysis, Kubernetes security, ‘learn-it-alls’, AWX Kubernetes Operator, and more"
 
 +++
 
 Editor's Note: The newsletter passed 4,000 subscribers this week. Thank you to everyone that help spread the word. I'd love to get to 5,000 subscribers as quickly as possible though. If you don't mind, please ask your coworkers, BFFs, family, and folks on social media to [subscribe to DevOps'ish](https://devopsish.com/subscribe/). Y'all keep being awesome!
 
-It is worth nothing that the metrics based system I use to help write DevOps'ish has broken. This week, I lost the ability to post to Twitter due to rate limiting of Tweets sent by IFTTT. Thank you in advance to all the folks that will suggest Zapier, Buffer, etc. But, this isn't a normal use case for any of those tools. Also, I don't want to be for a service. I'm looking for a solution but, to be honest, I'd like to build an open source tool to handle the [DIY Buffer using IFTTT](https://chrisshort.net/drawings/diy-buffer-using-ifttt/) I've cobbled together (and has worked just fine for YEARS). But, I don't have the skills to do it nor the time, even if I did. If you're interested in working on such a project, let me know. I can provide significant support, full credit where it's due, and mentions throughout all the work I do.
+It is worth noting that the metrics-based system I use to help write DevOps’ish has broken. This week, I lost the ability to post to Twitter due to rate limiting of Tweets sent by IFTTT. Thank you in advance to all the folks that will suggest Zapier, Buffer, etc. But, this isn't a normal use case for any of those tools. Also, I don't want to be for a service. I'm looking for a solution but, to be honest, I'd like to build an open source tool to handle the [DIY Buffer using IFTTT](https://chrisshort.net/drawings/diy-buffer-using-ifttt/) I've cobbled together (and has worked just fine for YEARS). But, I don't have the skills to do it nor the time, even if I did. If you're interested in working on such a project, let me know. I can provide support, full credit where it's due, and mentions throughout all the work I do.
 
 [**X-Team is Hiring Go developers with strong AWS skills (Remote)**](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)  
 We are looking for passionate Go developers with strong AWS skills to work with the world's leading brands, from anywhere. We love to work with Kubernetes, Docker, Serverless, and AWS tools. Travel the world while being part of the most energizing community of developers. We provide the funding needed to help you achieve your goals and grow as a remote developer. [Join X-Team](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)! *SPONSORED*
