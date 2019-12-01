@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2018-12-16T00:07:00Z
 description = "KubeKhan, KubeCon, AWS Container Roadmap, etcd, More Weird Licenses, Securing Kubernetes, JFrog Go Registry, and More!"
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-07-21T07:00:00Z
 description = "Contains 3% Kubernetes, Open Source perception, long live CIRT, Linkerd 2.4, TTY, and more"
 draft = false

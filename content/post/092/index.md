@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2018-09-09T07:00:00Z
 description ="Kubernetes, Musk, Dorsey, Go, Blame, Serverless, and More"
 draft = false

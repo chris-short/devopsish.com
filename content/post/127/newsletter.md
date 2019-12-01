@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-05-12T07:00:00Z
 description = "Mother's Day, What is DevOps, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More"
 draft = false

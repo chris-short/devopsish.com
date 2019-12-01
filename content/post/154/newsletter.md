@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-11-18T07:00:00Z
 description = "154: Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more"
 draft = false

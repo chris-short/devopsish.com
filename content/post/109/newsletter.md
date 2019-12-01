@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-01-06T07:00:00Z
 description = "Get Caught Up, Kubernetes in High Demand, Two Monorepos Walk into a Bar, Hashicorp at Home, and More"
 draft = false

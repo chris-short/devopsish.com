@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-04-28T07:00:00Z
 description = "Docker Hub Breach, Drupal in Kubernetes, Localize Kubernetes, Get Into Open Source, Apple's AWS Bill, Hertz Sues Accenture, and Much More"
 draft = false

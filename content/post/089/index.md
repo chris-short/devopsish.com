@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2018-08-18T07:00:00Z
 description ="Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More"
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-07-14T07:00:00Z
 description = "It is done, unicorn languages, Weave Ignite, you can't handle the CORS, and more"
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-07-07T07:00:00Z
 description = "DevOps'ish Deep Cuts podcast, burnout, on-call, Cloudflare fustercluck, multicloud mess, and more"
 draft = false

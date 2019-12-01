@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-05-19T07:00:00Z
 description = "128: MDS, Mined Minds, Red Hat & IBM, Kubernetes Operating Systems, ReactiveOps Polaris, ~~Best~~ Practices, and More"
 draft = false
