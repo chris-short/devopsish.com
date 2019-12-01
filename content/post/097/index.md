@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2018-10-14T07:00:00Z
 description = "Kubernetes, Amazon Woes, Serverless, JEDI, Spinnaker, and More"
 draft = false

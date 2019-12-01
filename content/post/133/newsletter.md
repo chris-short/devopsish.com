@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-06-23T07:00:00Z
 description = "TCP SACK PANIC, Kubernetes 1.15, Red Hat & IBM, Job Identity, UBI, Cognitive Load and More"
 draft = false

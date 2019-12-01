@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-02-17T16:15:00Z
 description = "CVE-2019-5736 runc vuln, You Can Fit So Much Kubernetes in this Newsletter, Liz Fong-Jones, MongoDB's Demise, GPS epoch, DIY DBaaS, and More!"
 draft = false

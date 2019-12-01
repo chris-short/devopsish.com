@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-05-26T07:00:00Z
 description = "Kubernetes Invades Barcelona, Summer Sanity Tips, Summer Survey, SuperGloo Makes Its Mark, Huawei Warm-up, Fake Agile, and More"
 draft = false

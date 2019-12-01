@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2018-08-12T07:00:00Z
 description ="Survey Results, Kubernetes, Prometheus Graduates 🎓, Blue Light is Bad, CI/CD, Ethics, kubespray, and More!"
 draft = false

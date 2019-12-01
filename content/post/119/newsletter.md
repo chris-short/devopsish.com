@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-03-17T07:00:00Z
 description = "Serverless, k8s on k8s on k8s, gRPC (Yeah You Know Me), Foundation Fatigue, Self Care, and More"
 draft = false

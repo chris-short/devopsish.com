@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-09-30T07:00:00Z
 description = "Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, Docker’s impending doom, AnsibleFest, and more"
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-09-08T07:00:00Z
 description = "Your 39 bps matters, happy little hybrid clouds, Kubernetes with a side of service mesh, HA SQLite, and more"
 draft = false

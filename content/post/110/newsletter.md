@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-01-13T07:00:00Z
 description = "Weaveworks Flagger, DevOps Leaving Ops Behind, AWS 🖕 OSS, Kubernetes Galore, and More"
 draft = false

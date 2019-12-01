@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-08-25T07:00:00Z
 description = "COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more"
 draft = false

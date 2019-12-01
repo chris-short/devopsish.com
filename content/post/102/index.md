@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2018-11-18T07:00:00Z
 description = "Web Development is Hard, Kubernetes, Ansible, DevOps Engineer title debate, Google Woes, sr.ht, and More"
 draft = false

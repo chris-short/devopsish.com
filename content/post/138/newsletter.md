@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter"]
+categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-07-28T07:00:00Z
 description = "Let's talk about JEDI. Not the lightsaber wielding kind, it's US Department of Defense's Joint Enterprise Defense Infrastructure (JEDI)."
 draft = false
