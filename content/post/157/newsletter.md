@@ -11,10 +11,10 @@ title = "157: and more"
 
 +++
 
-Editor's Note: The newsletter passed 4,000 subscribers this week. Thank you so much for spreading the word. I'd love to get to 5,000 subscribers as quickly as possible though. Please ask your coworkers, BFFs, family, and folks on social media to [subscribe to DevOps'ish](https://devopsish.com/subscribe/). Y'all stay awesome!
+Editor's Note: The newsletter passed 4,000 subscribers! Thank you so much for spreading the word. I'd love to get to 5,000 subscribers as quickly as possible though. Please ask your coworkers, BFFs, family, and folks on social media to [subscribe to DevOps'ish](https://devopsish.com/subscribe/). Y'all stay awesome!
 
 [**Pulumi is Focused on Community**](http://bit.ly/DevOpsIsh)  
-We're looking for a passionate Developer Advocate to lead our community outreach, helping devs and ops folks build innovative cloud software together. The community is warm and welcoming, and growing organically. [Join our vision](http://bit.ly/DevOpsIsh) to help every team can program the cloud! *SPONSORED*
+We're looking for a passionate Developer Advocate to lead our community outreach, helping devs and ops folks build innovative cloud software together. The community is warm and welcoming, and growing organically. [Join our vision](http://bit.ly/DevOpsIsh) to help every team program the cloud! *SPONSORED*
 
 [**X-Team is Hiring Go developers with strong AWS skills (Remote)**](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)  
 We are looking for passionate Go developers with strong AWS skills to work with the world's leading brands, from anywhere. We love to work with Kubernetes, Docker, Serverless, and AWS tools. Travel the world while being part of the most energizing community of developers. We provide the funding needed to help you achieve your goals and grow as a remote developer. [Join X-Team](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)! *SPONSORED*
