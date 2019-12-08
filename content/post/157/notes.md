@@ -42,15 +42,9 @@ It is worth pointing out that the metrics based system I use to help write DevOp
 
 [Google Founders Larry Page and Sergey Brin to Step Down (GOOG) - Bloomberg](https://www.bloomberg.com/news/articles/2019-12-03/larry-page-steps-down-as-alphabet-ceo-pichai-to-take-over)
 
-[BPF: A New Type of Software](http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html)
-
 [Best Practice for Creating Indexes on your MySQL Tables - High Scalability -](http://highscalability.com/blog/2019/12/3/best-practice-for-creating-indexes-on-your-mysql-tables.html)
 
 [Monitoring and observability:](https://blog.sensu.io/monitoring-and-observability)
-
-[Amazon EKS on AWS Fargate Now Generally Available | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-eks-on-aws-fargate-now-generally-available/)
-
-[AWS Now Available from a Local Zone in Los Angeles | AWS News Blog](https://aws.amazon.com/blogs/aws/aws-now-available-from-a-local-zone-in-los-angeles/)
 
 [CentOS Community newsletter, December 2019 (#1912) – Blog.CentOS.org](https://blog.centos.org/2019/12/centos-community-newsletter-december-2019-1912/)
 
@@ -64,37 +58,21 @@ It is worth pointing out that the metrics based system I use to help write DevOp
 
 [The Reliability of Enterprise Applications - ACM Queue](https://queue.acm.org/detail.cfm?ref=rss&id=3374665)
 
-[Stop Using Facebook | Home](https://www.stopusingfacebook.co/)
-
-[Creating Kubernetes distributions [LWN.net]](https://lwn.net/Articles/806230/)
-
-[Former Away employees describe a toxic work environment at the luggage company - The Verge](https://www.theverge.com/2019/12/5/20995453/away-luggage-ceo-steph-korey-toxic-work-environment-travel-inclusion)
-
 [Ephemeral Containers - Kubernetes](https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers/)
 
 [Netflix open-sources its Python Framework 'Metaflow' for building and managing data science projects | MarkTechPost](https://www.marktechpost.com/2019/12/04/netflix-open-sources-its-python-framework-metaflow-for-building-and-managing-data-science-projects/)
 
-[PSA: There is a fake version of this package on PyPI with malicious code · Issue #984 · dateutil/dateutil](https://github.com/dateutil/dateutil/issues/984)
-
-[OOMyPod: Nothin' To CRI-O-bout • Capsule8](https://capsule8.com/blog/oomypod-nothin-to-cri-o-bout/)
-
 [Two malicious Python libraries caught stealing SSH and GPG keys | ZDNet](https://www.zdnet.com/article/two-malicious-python-libraries-removed-from-pypi/)
-
-[Canonical announces Ubuntu Pro for Amazon Web Services | Ubuntu](https://ubuntu.com/blog/canonical-announces-ubuntu-pro-for-amazon-web-services)
 
 [Can You Know Too Much About Your Organization?](https://hbr.org/2019/12/can-you-know-too-much-about-your-organization)
 
 [Microsoft: We're creating a new Rust-like programming language for secure coding | ZDNet](https://www.zdnet.com/article/microsoft-were-creating-a-new-rust-based-programming-language-for-secure-coding/)
-
-[The “Great Cannon” has been deployed again | AT&T Alien Labs](https://cybersecurity.att.com/blogs/labs-research/the-great-cannon-has-been-deployed-again)
 
 [Read the Arm 2020 Predictions Report - Arm Blueprint](https://www.arm.com/blogs/blueprint/2020-predictions-report)
 
 [Arduino Blog » Contributing back to Ansible — flexible secrets with some Sops](https://blog.arduino.cc/2019/12/04/contributing-back-to-ansible-flexible-secrets-with-some-sops/)
 
 [https://www.openssl.org/news/secadv/20191206.txt](https://www.openssl.org/news/secadv/20191206.txt)
-
-[A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 
 [W3C Recommends WebAssembly to push the limits for speed, efficiency and responsiveness | W3C News](https://www.w3.org/blog/news/archives/8123)
 
@@ -104,17 +82,11 @@ It is worth pointing out that the metrics based system I use to help write DevOp
 
 [FBI recommends that you keep your IoT devices on a separate network | ZDNet](https://www.zdnet.com/article/fbi-recommends-that-you-keep-your-iot-devices-on-a-separate-network/)
 
-[Climate policy needs negative carbon-dioxide emissions - Clearing the air](https://www.economist.com/briefing/2019/12/05/climate-policy-needs-negative-carbon-dioxide-emissions)
-
 [Biggest Jobs Loss Since 2009 Tests Canadian Resolve on Rates - Bloomberg](https://www.bloomberg.com/news/articles/2019-12-06/canada-posts-largest-jobs-loss-since-2009-on-full-time-decline)
-
-[Subscribe to read | Financial Times](https://www.ft.com/content/a1a14220-1801-11ea-9ee4-11f260415385)
 
 [Programmatically Kubernetes port forward in Go](https://gianarb.it/blog/programmatically-kube-port-forward-in-go?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 [Introducing Open Repos: a free product to aid open source development - GitClear](https://www.gitclear.com/blog/introducing_open_repos_a_free_product_to_aid_open_source_development)
-
-[What’s new in Kubernetes 1.17? | Sysdig](https://sysdig.com/blog/whats-new-kubernetes-1-17/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 [Five Things to Take Away From re:Invent 2019 – tecosystems](https://redmonk.com/sogrady/2019/12/06/reinvent-2019/)
 
@@ -122,9 +94,6 @@ It is worth pointing out that the metrics based system I use to help write DevOp
 
 [Guinevere Saenger on Twitter: "After some exciting last minute docs wrangling, we’re headed into the Weekend Before The Release with green tests and awesome docs. Fingers crossed 🤞 and so excited for 1.17 on Monday! STAY TUNED for the last #Kubernetes release of 2019!" / Twitter](https://twitter.com/guincodes/status/1203208308791754755)
 
-[We Need To Save .ORG From Arbitrary Censorship By Halting the Private Equity Buy-Out | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2019/12/we-need-save-org-arbitrary-censorship-halting-private-equity-buy-out)
-
 [Former Oracle product manager says he was forced out for refusing to deceive customers. Now he's suing the biz • The Register](https://www.theregister.co.uk/2019/12/04/oracle_product_manager_lawsuit/)
 
 [Container Security](https://learning.oreilly.com/library/view/container-security/9781492056690/)
-

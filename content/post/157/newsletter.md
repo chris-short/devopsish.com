@@ -15,6 +15,8 @@ Editor's Note: The newsletter passed 4,000 subscribers! Thank you so much for sp
 
 I had a long week with a lot of ups and downs. But, the real downer was delivered on Friday afternoon when I learned my insurance provider had denied a trial run at a new nerve stimulator. I had been talking to friends and family about this new nerve stimulator because it was way less invasive to implant. In a nutshell, the nerve stimulator is synthesized to produce a cancellation signal that keeps the brain from feeling the pain. One friend described it as being akin to Iron Man. Instead of keeping metal out of my heart, the nerve stimulator would keep pain from my brain. It also featured technology like Bluetooth and wireless power which means that I could have a cordless device that's inert in my body with no exposed wiring. No issue with TSA or any government facilities I might find myself in or around again someday (never know if or when a friend will call). Back to the drawing board...
 
+If you're looking for news from [**AWS re:Invent 2019**](https://devopsish.com/157/reinvent/), look no further.
+
 [**Pulumi is Focused on Community**](http://bit.ly/DevOpsIsh)  
 We're looking for a passionate Developer Advocate to lead our community outreach, helping devs and ops folks build innovative cloud software together. The community is warm and welcoming, and growing organically. [Join our vision](http://bit.ly/DevOpsIsh) to help every team program the cloud! *SPONSORED*
 
@@ -35,8 +37,6 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 
 ## People
 
-[Commentary: Andy Jassy aims to reinvent Amazon Web Services for the cloud's next generation](https://siliconangle.com/2019/12/01/commentary-andy-jassy-aims-reinvent-amazon-web-services-clouds-next-generation/) — "In an exclusive one-on-one conversation, Amazon’s cloud chief reveals how he views the future of the cloud, the competition, market shifts, customer demands and controversies"
-
 [Top things to remember in preparation for this Christmas party season](https://www.siliconrepublic.com/advice/top-things-remember-christmas-party-season) — "The advice from the HR experts is to act now to prevent problems at your office Christmas party."
 
 [A letter from Larry and Sergey](https://www.blog.google/inside-google/alphabet/letter-from-larry-and-sergey/) — They gone! Sundar's in charge.
@@ -45,9 +45,15 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 
 [geopolitics.dev](https://geopolitics.dev/) — I've launched a separate newsletter to dive into policy, ethics, and tech. If you like the People and Process section of this newsletter and enjoy living outside your comfort zone then you'll enjoy this new newsletter.
 
+[Stop Using Facebook](https://www.stopusingfacebook.co/) — If you haven't massively curtailed using Facebook and its properties, maybe it's time?
+
 ## Process
 
 [Digging into OnCallOps](http://podcast.podctl.com/110399/2208677-digging-into-oncallops) — I talked, "with Matt Stratton, DevOps Advocate, PagerDuty about how to better manage OnCall Rotations, integrating DevOps concepts with OnCall, and suggestions about better organizing to handle alerting and observability."
+
+[Creating Kubernetes distributions](https://lwn.net/SubscriberLink/806230/ce4016ee97c5ce90/) — Kubernetes wouldn't be here without Linux and its release concepts (and systemd `/troll`; not really). Also, my friends Tim and Stephen made LWN!
+
+[PSA: There is a fake version of this package on PyPI with malicious code · Issue #984 · dateutil/dateutil](https://github.com/dateutil/dateutil/issues/984) — Trust but verify.
 
 [Internet Society says opportunity to sell .org to private equity biz for $1.14bn came out of the blue. Wow, really?](https://www.theregister.co.uk/2019/12/03/internet_society_org/) — This stinks to high heaven.
 
@@ -63,11 +69,19 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 
 [Agile teams: 5 signs of trouble](https://enterprisersproject.com/article/2019/12/agile-teams-5-warning-signs) — "That small, self-organizing team may look agile, but is it actually delivering the benefits? Consider these warning signs that a team isn’t as agile as you think"
 
-[AWS Managed Cassandra Launches: First They Came for Kafka...](https://www.cbronline.com/news/aws-managed-cassandra) — AWS is going to make millions but, they'll give the community $100K... in AWS credits.
+[Canonical announces Ubuntu Pro for Amazon Web Services](https://ubuntu.com/blog/canonical-announces-ubuntu-pro-for-amazon-web-services) — The operating system is becoming a commodity (if it hasn't already done so). Maintaining operating systems is harder than it should be and I feel like Ubuntu is making that case here.
+
+[The “Great Cannon” has been deployed again](https://cybersecurity.att.com/blogs/labs-research/the-great-cannon-has-been-deployed-again) — "The Great Cannon is a distributed denial of service tool (“DDoS”) that operates by injecting malicious Javascript into pages served from behind the Great Firewall. These scripts, potentially served to millions of users across the internet, hijack the users’ connections to make multiple requests against the targeted site. These requests consume all the resources of the targeted site, making it unavailable" We should all be afraid of this.
+
+[A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) — When in doubt, flow chart. Good stuff.
 
 ## Tools
 
-[Run Ansible Tower or AWX in Kubernetes or OpenShift with the Tower Operator](https://www.jeffgeerling.com/blog/2019/run-ansible-tower-or-awx-kubernetes-or-openshift-tower-operator) — A Kubernetes Operator written in Ansible to install Ansible Tower or AWX on the Kubernetes cluster of your choice! Also, yes, you can build CRDs with Ansible. Awesome stuff happens when folks discover the Operator Framework and Ansible work well together. Huge thanks to Jeff Geerling.
+[Container Security: Fundamental Technology Concepts that Protect Containerized Applications](https://amzn.to/3414GL5) — "Many organizations are running applications in cloud native environments, using containers and orchestration to facilitate scalability and resilience. But how do you know whether your deployment is secure? To fully grasp the security implications of containers and their operation, you need an understanding of what they are and how they work. This practical book dives into the underlying technologies and components that these systems rely on to leave you better equipped to assess the security risks and potential solutions applicable to your environment. Author Liz Rice explores the building blocks and security boundaries commonly used in container-based systems and how they’re constructed in Linux."
+
+[BPF: A New Type of Software](http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html) — "BPF originally stood for Berkeley Packet Filter, but has been extended in Linux to become a generic kernel execution engine, capable of running a new type of user-defined and kernel-mode applications. This is what BPF is really about..."
+
+[What’s new in Kubernetes 1.17?](https://sysdig.com/blog/whats-new-kubernetes-1-17/) K8s 1.17 release... So hot right now. The release team has done a tremendous job of getting this Kubernetes release out the door. Shout out to Guinevere Saenger and the entire release team. Note: if you ever want me to reach out as far and wide as possible for help, be the release lead and tell me you have a problem on a Friday evening.
 
 [Digging Into etcd by Benjamin Elder](https://elder.dev/posts/digging-into-etcd/) — "Kubernetes uses etcd as the backing store for cluster data, which drove my own interest in collecting the information in this post. Clearly a lot of clusters out there are using etcd for critical data storage, but how does it work?"
 
@@ -75,15 +89,11 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 
 [Debugging Software Deployments with `strace`](https://theartofmachinery.com/2019/11/14/deployment_debugging_strace.html) — I feel like learning `strace` relatively early on in my DevOps journey unlocked a lot of skills and ability I didn't have until I learned it.
 
-[Amazon Braket: Get Started with Quantum Computing](https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/) — I do agree with AWS on this, it will be a long time before quantum computing becomes as ubiquitous classical computation. A cloud solution is going to be needed to boost this technology into the future.
-
 [Do things right in VSCode](https://blog.jessitron.com/2019/12/02/do-things-right-in-vscode/) — "Here are some settings that I change when I install VS Code on a new computer."
 
 [How Shopify Implements Custom Autoscaling Rules in Kubernetes](https://www.infoq.com/news/2019/11/shopify-custom-autoscaler-k8s/) "Andy Kwiatkowski from Shopify talked at the Velocity conference in Berlin about why they had to create a custom autoscaler in Kubernetes. Existing solutions for autoscaling didn’t fulfill Shopify’s needs, mainly because of the large and sudden influx of traffic requests they receive. Also, they needed a cost-efficient solution when scaling down or to configure complex scaling conditions."
 
 [Four ex-Google engineers ask for federal probe of Thanksgiving week firings](https://www.nbcnews.com/tech/tech-news/four-ex-google-engineers-ask-federal-probe-thanksgiving-week-firings-n1094706) — I'd like someone to act like this was perfectly business as usual, yes.
-
-[With Compute Optimizer, AWS Finds an Actual Use For AI/ML](https://www.lastweekinaws.com/blog/with-compute-optimizer-aws-finds-an-actual-use-for-ai-ml/) — AWS is doing something long needed and wanted by a lot of customers.
 
 [How to idempotently change file attributes (e.g. immutable) with Ansible](https://www.jeffgeerling.com/blog/2019/how-idempotently-change-file-attributes-eg-immutable-ansible)
 
@@ -92,6 +102,8 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 [psFried/roperator](https://github.com/psFried/roperator) — Experimental Kubernetes Operator kit written in Rust
 
 [The status quo of Kubernetes operators](https://jaxenter.com/status-quo-kubernetes-operators-164737.html) — "Container technology is spreading like wildfire in the software world – possibly faster than any other technology before. Kubernetes, in particular, has had a banner year and continues to rise. But what are the key learnings so far? Learn about existing Kubernetes operators in detail with Red Hat’s Roland Huss."
+
+[OOMyPod: Nothin' To CRI-O-bout](https://capsule8.com/blog/oomypod-nothin-to-cri-o-bout/) — "Gather around the fire for a story about the unlikely partnership of bugs that led to a partial container escape. While this is a fairly technical post covering some container and Kubernetes components, we included links throughout if you want to learn about them or need a refresher while reading."
 
 ## Tweet of the Week
 
