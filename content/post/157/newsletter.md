@@ -3,15 +3,13 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-12-09T07:00:00Z
-description = "157"
+description = "Kubernetes, BPF, container security, re:Invent, PagerDuty, .org debacle, and more"
 draft = false
 slug = "157"
-tags = []
-title = "157: and more"
+tags = ["Kubernetes", "DevOps", "cloud", "cloud native", "reinvent", "community", "open source", "security", "AWS", "developers", "remote", "DevOps news", "software", "PagerDuty"]
+title = "157: Kubernetes, BPF, container security, re:Invent, PagerDuty, .org debacle, and more"
 
 +++
-
-Editor's Note: The newsletter passed 4,000 subscribers! Thank you so much for spreading the word. I'd love to get to 5,000 subscribers as quickly as possible though. Please ask your coworkers, BFFs, family, and folks on social media to [subscribe to DevOps'ish](https://devopsish.com/subscribe/). Y'all stay awesome!
 
 I had a long week with a lot of ups and downs. But, the real downer was delivered on Friday afternoon when I learned my insurance provider had denied a trial run at a new nerve stimulator. I had been talking to friends and family about this new nerve stimulator because it was way less invasive to implant. In a nutshell, the nerve stimulator is synthesized to produce a cancellation signal that keeps the brain from feeling the pain. One friend described it as being akin to Iron Man. Instead of keeping metal out of my heart, the nerve stimulator would keep pain from my brain. It also featured technology like Bluetooth and wireless power which means that I could have a cordless device that's inert in my body with no exposed wiring. No issue with TSA or any government facilities I might find myself in or around again someday (never know if or when a friend will call). Back to the drawing board...
 
@@ -43,15 +41,13 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 
 [10 thrilling tech jobs to watch in 2020](https://www.siliconrepublic.com/careers/hottest-tech-jobs-2020) — DevOps is still going strong in 2020.
 
-[geopolitics.dev](https://geopolitics.dev/) — I've launched a separate newsletter to dive into policy, ethics, and tech. If you like the People and Process section of this newsletter and enjoy living outside your comfort zone then you'll enjoy this new newsletter.
-
 [Stop Using Facebook](https://www.stopusingfacebook.co/) — If you haven't massively curtailed using Facebook and its properties, maybe it's time?
 
 ## Process
 
 [Digging into OnCallOps](http://podcast.podctl.com/110399/2208677-digging-into-oncallops) — I talked, "with Matt Stratton, DevOps Advocate, PagerDuty about how to better manage OnCall Rotations, integrating DevOps concepts with OnCall, and suggestions about better organizing to handle alerting and observability."
 
-[Creating Kubernetes distributions](https://lwn.net/SubscriberLink/806230/ce4016ee97c5ce90/) — Kubernetes wouldn't be here without Linux and its release concepts (and systemd `/troll`; not really). Also, my friends Tim and Stephen made LWN!
+[Creating Kubernetes distributions](https://lwn.net/SubscriberLink/806230/ce4016ee97c5ce90/) — Kubernetes wouldn't be here without Linux and its release concepts (and systemd `/troll`; not really). Also, my friends, Tim and Stephen made LWN!
 
 [PSA: There is a fake version of this package on PyPI with malicious code · Issue #984 · dateutil/dateutil](https://github.com/dateutil/dateutil/issues/984) — Trust but verify.
 

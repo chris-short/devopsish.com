@@ -6,7 +6,7 @@ date = 2019-12-08T07:00:00Z
 description = "DevOps'ish 157 featured so much AWS news of interest that it is probably better to make it a separate page."
 draft = false
 url = "157/reinvent"
-tags = []
+tags = ["AWS", "re:Invent", "cloud", "developers", "Amazon Web Services", "open source"]
 title = "157: News from re:Invent 2019"
 
 +++
