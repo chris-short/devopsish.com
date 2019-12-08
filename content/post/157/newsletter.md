@@ -13,6 +13,8 @@ title = "157: and more"
 
 Editor's Note: The newsletter passed 4,000 subscribers! Thank you so much for spreading the word. I'd love to get to 5,000 subscribers as quickly as possible though. Please ask your coworkers, BFFs, family, and folks on social media to [subscribe to DevOps'ish](https://devopsish.com/subscribe/). Y'all stay awesome!
 
+I had a long week with a lot of ups and downs. But, the real downer was delivered on Friday afternoon when I learned my insurance provider had denied a trial run at a new nerve stimulator. I had been talking to friends and family about this new nerve stimulator because it was way less invasive to implant. In a nutshell, the nerve stimulator is synthesized to produce a cancellation signal that keeps the brain from feeling the pain. One friend described it as being akin to Iron Man. Instead of keeping metal out of my heart, the nerve stimulator would keep pain from my brain. It also featured technology like Bluetooth and wireless power which means that I could have a cordless device that's inert in my body with no exposed wiring. No issue with TSA or any government facilities I might find myself in or around again someday (never know if or when a friend will call). Back to the drawing board...
+
 [**Pulumi is Focused on Community**](http://bit.ly/DevOpsIsh)  
 We're looking for a passionate Developer Advocate to lead our community outreach, helping devs and ops folks build innovative cloud software together. The community is warm and welcoming, and growing organically. [Join our vision](http://bit.ly/DevOpsIsh) to help every team program the cloud! *SPONSORED*
 

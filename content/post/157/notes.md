@@ -16,4 +16,183 @@ title = "DevOps'ish 157 Notes"
 
 It is worth pointing out that the metrics based system I use to help write DevOps'ish has broken. I lost the ability to post to Twitter due to rate limiting of Tweets sent via IFTTT. I'm looking for a solution but, to be honest, I'd like to build an open source tool to handle my [DIY Buffer using IFTTT](https://chrisshort.net/drawings/diy-buffer-using-ifttt/). But, I don't have the skills to do it nor the time, even if I did. If you're interested in working on such a project, let me know.
 
+[Commentary: Andy Jassy aims to reinvent Amazon Web Services for the cloud's next generation - SiliconANGLE](https://siliconangle.com/2019/12/01/commentary-andy-jassy-aims-reinvent-amazon-web-services-clouds-next-generation/)
+
+[Cloud-Native: Start Here (Remote) | Meetup](https://www.meetup.com/Kubernetes-Cloud-Native-STL/events/266823546/)
+
+[Go Advent Introduction | Gopher Academy Blog](https://blog.gopheracademy.com/advent-2019/introduction/)
+
+[Digging Into etcd | BenTheElder](https://elder.dev/posts/digging-into-etcd/)
+
+[Ramblings from Jessie: Born in a Garage](https://blog.jessfraz.com/post/born-in-a-garage/)
+
+[Microsoft, not Amazon, is going to win the cloud wars | IT PRO](https://www.itpro.co.uk/cloud/microsoft-azure/354230/microsoft-not-amazon-is-going-to-win-the-cloud-wars)
+
+[Alibaba’s growing open source stature - Eyes on APAC](https://www.computerweekly.com/blog/Eyes-on-APAC/Alibabas-growing-open-source-stature)
+
+[Disaster Recovery with GitOps – Red Hat OpenShift Blog](https://blog.openshift.com/disaster-recovery-with-gitops/)
+
+[Gardener Project Update - Kubernetes](https://kubernetes.io/blog/2019/12/02/gardener-project-update/)
+
+[The Class of 2000 ‘Could Have Been Anything.’ Until Opioids Hit. - The New York Times](https://www.nytimes.com/interactive/2019/12/02/us/opioid-crisis-high-school-teenagers.html)
+
+[Oxide Computer Company: Oxide Computer Company: Initial boot sequence](https://oxide.computer/blog/introducing-the-oxide-computer-company/)
+
+[Digging into OnCallOps](https://www.buzzsprout.com/110399/2208677)
+
+[Identify Unintended Resource Access with AWS Identity and Access Management (IAM) Access Analyzer | AWS News Blog](https://aws.amazon.com/blogs/aws/identify-unintended-resource-access-with-aws-identity-and-access-management-iam-access-analyzer/)
+
+[The Requirements For Aftermath Projects » Adaptive Capacity Labs](https://www.adaptivecapacitylabs.com/blog/2019/11/26/requirements-for-aftermaths/)
+
+[China now requires facial scans for SIM card registration · TechNode](https://technode.com/2019/12/02/china-facial-recognition-sim-card/)
+
+[Eric D. Schabell: Code Ready Containers - Getting Started with Process Automation in the Cloud](http://www.schabell.org/2019/12/code-ready-containers-getting-started-with-process-automation.html)
+
+[Pocket - Top things to remember in preparation for this Christmas party season](https://app.getpocket.com/read/2810139587)
+
+[Debugging Software Deployments with strace — The Art of Machinery](https://theartofmachinery.com/2019/11/14/deployment_debugging_strace.html)
+
+[Physicists Have Identified a Metal That Conducts Electricity But Not Heat](https://www.sciencealert.com/physicists-identify-a-metal-that-conducts-electricity-but-not-heat)
+
+[Amazon Braket – Get Started with Quantum Computing | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/)
+
+[Do things right in VSCode – Jessitron](https://blog.jessitron.com/2019/12/02/do-things-right-in-vscode/)
+
+[Agile teams: 5 signs of trouble | The Enterprisers Project](https://enterprisersproject.com/article/2019/12/agile-teams-5-warning-signs)
+
+[Internet Society says opportunity to sell .org to private equity biz for $1.14bn came out of the blue. Wow, really? • The Register](https://www.theregister.co.uk/2019/12/03/internet_society_org/)
+
+[(2) Jessica Rose on Twitter: "Tech Twitter: 2019 is almost blessedly dead. What happened this year that you were proud of, or that's left you with hope for 2020? RT for reach? Would love to see what positive things happened" / Twitter](https://twitter.com/jesslynnrose/status/1201830187400196096)
+
+[Introducing a New Local Storage for Kubernetes: TopoLVM - Kintone Engineering Blog](https://blog.kintone.io/entry/topolvm?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+[How Shopify Implements Custom Autoscaling Rules in Kubernetes](https://www.infoq.com/news/2019/11/shopify-custom-autoscaler-k8s/)
+
+[A Technical Guide to Version Control System (VCS) Internals](https://initialcommit.io/blog/Technical-Guide-VCS-Internals)
+
+[Creating a Docker Image with GitHub Actions | Preston Lamb Consulting, LLC](https://www.prestonlamb.com/blog/creating-a-docker-image-with-github-actions)
+
+[(2) ⬡ᔕᗩᗰ⬡ᑕ⬡ on Twitter: "Oral tradition was good enough for The Odyssey so it's probably good enough for my tool's documentation." / Twitter](https://twitter.com/thecravenone/status/1201629394940420101)
+
+[Google - Site Reliability Engineering](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/)
+
+[Kubernetes Audit: Making Log Auditing a Viable Practice Again - Cloud Native Computing Foundation](https://www.cncf.io/blog/2019/12/03/kubernetes-audit-making-log-auditing-a-viable-practice-again/)
+
+[Upcoming Linux 5.5 Kernel Improves Live Patching, Scheduling - The New Stack](https://thenewstack.io/upcoming-linux-5-5-kernel-improves-live-patching-scheduling/?utm_source=Publications+from+PnT+Comms+%40+Red+Hat&utm_campaign=22b1329b93-EMAIL_CAMPAIGN_2018_06_25_03_58_COPY_01&utm_medium=email&utm_term=0_1ef296a000-22b1329b93-98222663)
+
+[5 Takeaways from KubeCon North America 2019 -- Virtualization Review](https://virtualizationreview.com/articles/2019/12/02/take-5-kubecon.aspx?m=1&utm_source=Publications+from+PnT+Comms+%40+Red+Hat&utm_campaign=22b1329b93-EMAIL_CAMPAIGN_2018_06_25_03_58_COPY_01&utm_medium=email&utm_term=0_1ef296a000-22b1329b93-98222663)
+
+[Four ex-Google engineers ask for federal probe of Thanksgiving week firings](https://www.nbcnews.com/tech/tech-news/four-ex-google-engineers-ask-federal-probe-thanksgiving-week-firings-n1094706)
+
+[Google Founders Larry Page and Sergey Brin to Step Down (GOOG) - Bloomberg](https://www.bloomberg.com/news/articles/2019-12-03/larry-page-steps-down-as-alphabet-ceo-pichai-to-take-over)
+
+[BPF: A New Type of Software](http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html)
+
+[(2) Jen Madriaga on Twitter: "@IanColdwater @veronicajean621 @ChrisShort @CloudNativeFdn Hey all, we re-designed the hats on purpose with that in mind. As a woman of color, just know I think about this stuff but I also don't want to continue to be held hostage to a certain group laying claim. Here's the hat from the front. https://t.co/Ey22XqpZEL" / Twitter](https://twitter.com/jeninnovate/status/1201900296080900098)
+
+[Best Practice for Creating Indexes on your MySQL Tables - High Scalability -](http://highscalability.com/blog/2019/12/3/best-practice-for-creating-indexes-on-your-mysql-tables.html)
+
+[CEOs of Microsoft, Apple, Google and more urge Trump administration to stay in Paris climate deal – GeekWire](https://www.geekwire.com/2019/ceos-microsoft-apple-google-urge-trump-administration-stay-paris-climate-deal/)
+
+[Monitoring and observability:](https://blog.sensu.io/monitoring-and-observability)
+
+[Amazon EKS on AWS Fargate Now Generally Available | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-eks-on-aws-fargate-now-generally-available/)
+
+[AWS Now Available from a Local Zone in Los Angeles | AWS News Blog](https://aws.amazon.com/blogs/aws/aws-now-available-from-a-local-zone-in-los-angeles/)
+
+[CentOS Community newsletter, December 2019 (#1912) – Blog.CentOS.org](https://blog.centos.org/2019/12/centos-community-newsletter-december-2019-1912/)
+
+[With Compute Optimizer, AWS Finds an Actual Use For AI/ML - Last Week in AWS](https://www.lastweekinaws.com/blog/with-compute-optimizer-aws-finds-an-actual-use-for-ai-ml/)
+
+[Certified Kubernetes Administrator (CKA) — Tips and Tricks — Part 2](https://medium.com/@imarunrk/certified-kubernetes-administrator-cka-tips-and-tricks-part-2-b4f5c636eb4)
+
+[Finally: AWS Gives Servers A Real Shot In The Arm](https://www.nextplatform.com/2019/12/03/finally-aws-gives-servers-a-real-shot-in-the-arm/)
+
+[Trump Administration fast-tracks compulsory border facial recognition scans for all US citizens • The Register](https://www.theregister.co.uk/2019/12/03/facial_recognition_visas/)
+
+[How to idempotently change file attributes (e.g. immutable) with Ansible | Jeff Geerling](https://www.jeffgeerling.com/blog/2019/how-idempotently-change-file-attributes-eg-immutable-ansible)
+
+[How McKinsey Helped the Trump Administration Detain and Deport Immigrants — ProPublica](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+
+[Start Using Git on the Command Line Like a Pro in Five Minutes](https://medium.com/better-programming/start-using-git-on-the-command-line-like-a-pro-in-5-minutes-36a6e0007e9f)
+
+[Kubernetes: It's Not Easy but What's to Come? - The New Stack](https://thenewstack.io/kubernetes-its-not-easy-but-whats-to-come/)
+
+[Roperator: a new framework for writing … - kubernetes - Reddit](https://www.reddit.com/r/kubernetes/comments/e5udud/roperator_a_new_framework_for_writing_kubernetes/)
+
+[The status quo of Kubernetes operators - JAXenter](https://jaxenter.com/status-quo-kubernetes-operators-164737.html)
+
+[AWS Managed Cassandra Launches: First They Came for Kafka...](https://www.cbronline.com/news/aws-managed-cassandra?utm_source=Publications+from+PnT+Comms+%40+Red+Hat&utm_campaign=a9f13b2a3b-EMAIL_CAMPAIGN_2018_06_25_03_58_COPY_01&utm_medium=email&utm_term=0_1ef296a000-a9f13b2a3b-98222663)
+
+[A letter from Larry and Sergey](https://www.blog.google/inside-google/alphabet/letter-from-larry-and-sergey/)
+
+[10 thrilling tech jobs to watch in 2020](https://www.siliconrepublic.com/careers/hottest-tech-jobs-2020)
+
+[Contribute Beyond Code: Open Source for Everyone | Gopher Academy Blog](https://blog.gopheracademy.com/advent-2019/contribute-beyond-code/)
+
+[The Reliability of Enterprise Applications - ACM Queue](https://queue.acm.org/detail.cfm?ref=rss&id=3374665)
+
+[Stop Using Facebook | Home](https://www.stopusingfacebook.co/)
+
+[Creating Kubernetes distributions [LWN.net]](https://lwn.net/Articles/806230/)
+
+[Former Away employees describe a toxic work environment at the luggage company - The Verge](https://www.theverge.com/2019/12/5/20995453/away-luggage-ceo-steph-korey-toxic-work-environment-travel-inclusion)
+
+[Ephemeral Containers - Kubernetes](https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers/)
+
+[Netflix open-sources its Python Framework 'Metaflow' for building and managing data science projects | MarkTechPost](https://www.marktechpost.com/2019/12/04/netflix-open-sources-its-python-framework-metaflow-for-building-and-managing-data-science-projects/)
+
+[PSA: There is a fake version of this package on PyPI with malicious code · Issue #984 · dateutil/dateutil](https://github.com/dateutil/dateutil/issues/984)
+
+[OOMyPod: Nothin' To CRI-O-bout • Capsule8](https://capsule8.com/blog/oomypod-nothin-to-cri-o-bout/)
+
+[Two malicious Python libraries caught stealing SSH and GPG keys | ZDNet](https://www.zdnet.com/article/two-malicious-python-libraries-removed-from-pypi/)
+
+[Canonical announces Ubuntu Pro for Amazon Web Services | Ubuntu](https://ubuntu.com/blog/canonical-announces-ubuntu-pro-for-amazon-web-services)
+
+[Can You Know Too Much About Your Organization?](https://hbr.org/2019/12/can-you-know-too-much-about-your-organization)
+
+[Microsoft: We're creating a new Rust-like programming language for secure coding | ZDNet](https://www.zdnet.com/article/microsoft-were-creating-a-new-rust-based-programming-language-for-secure-coding/)
+
+[The “Great Cannon” has been deployed again | AT&T Alien Labs](https://cybersecurity.att.com/blogs/labs-research/the-great-cannon-has-been-deployed-again)
+
+[Read the Arm 2020 Predictions Report - Arm Blueprint](https://www.arm.com/blogs/blueprint/2020-predictions-report)
+
+[Arduino Blog » Contributing back to Ansible — flexible secrets with some Sops](https://blog.arduino.cc/2019/12/04/contributing-back-to-ansible-flexible-secrets-with-some-sops/)
+
+[https://www.openssl.org/news/secadv/20191206.txt](https://www.openssl.org/news/secadv/20191206.txt)
+
+[A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+
+[W3C Recommends WebAssembly to push the limits for speed, efficiency and responsiveness | W3C News](https://www.w3.org/blog/news/archives/8123)
+
+[Building a ChatOps Bot With Tekton - dlorenc - Medium](https://medium.com/@dlorenc/building-a-chatops-bot-with-tekton-6d51c4f958f9)
+
+[CNCF TOC Governance Structure + Elections 2020 - Cloud Native Computing Foundation](https://www.cncf.io/blog/2019/12/06/cncf-toc-governance-structure-elections-2020/)
+
+[FBI recommends that you keep your IoT devices on a separate network | ZDNet](https://www.zdnet.com/article/fbi-recommends-that-you-keep-your-iot-devices-on-a-separate-network/)
+
+[Climate policy needs negative carbon-dioxide emissions - Clearing the air](https://www.economist.com/briefing/2019/12/05/climate-policy-needs-negative-carbon-dioxide-emissions)
+
+[Biggest Jobs Loss Since 2009 Tests Canadian Resolve on Rates - Bloomberg](https://www.bloomberg.com/news/articles/2019-12-06/canada-posts-largest-jobs-loss-since-2009-on-full-time-decline)
+
+[Subscribe to read | Financial Times](https://www.ft.com/content/a1a14220-1801-11ea-9ee4-11f260415385)
+
+[Programmatically Kubernetes port forward in Go](https://gianarb.it/blog/programmatically-kube-port-forward-in-go?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+[Introducing Open Repos: a free product to aid open source development - GitClear](https://www.gitclear.com/blog/introducing_open_repos_a_free_product_to_aid_open_source_development)
+
+[What’s new in Kubernetes 1.17? | Sysdig](https://sysdig.com/blog/whats-new-kubernetes-1-17/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+[Five Things to Take Away From re:Invent 2019 – tecosystems](https://redmonk.com/sogrady/2019/12/06/reinvent-2019/)
+
+[Microservices instrumentation · jbd.dev](https://jbd.dev/microservices-instrumentation/)
+
+[Guinevere Saenger on Twitter: "After some exciting last minute docs wrangling, we’re headed into the Weekend Before The Release with green tests and awesome docs. Fingers crossed 🤞 and so excited for 1.17 on Monday! STAY TUNED for the last #Kubernetes release of 2019!" / Twitter](https://twitter.com/guincodes/status/1203208308791754755)
+
+[We Need To Save .ORG From Arbitrary Censorship By Halting the Private Equity Buy-Out | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2019/12/we-need-save-org-arbitrary-censorship-halting-private-equity-buy-out)
+
+[Former Oracle product manager says he was forced out for refusing to deceive customers. Now he's suing the biz • The Register](https://www.theregister.co.uk/2019/12/04/oracle_product_manager_lawsuit/)
+
+[Container Security](https://learning.oreilly.com/library/view/container-security/9781492056690/)
 
