@@ -20,19 +20,9 @@ title = "DevOps'ish 158 Notes"
 
 [Launching the 2019 State of Rust Survey | Rust Blog](https://blog.rust-lang.org/2019/12/03/survey-launch.html)
 
-[SSH to remote hosts though a proxy or bastion with ProxyJump | Enable Sysadmin](https://www.redhat.com/sysadmin/ssh-proxy-bastion-proxyjump)
-
-[We Need To Save .ORG From Arbitrary Censorship By Halting the Private Equity Buy-Out | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2019/12/we-need-save-org-arbitrary-censorship-halting-private-equity-buy-out)
-
-[Former Oracle product manager says he was forced out for refusing to deceive customers. Now he's suing the biz • The Register](https://www.theregister.co.uk/2019/12/04/oracle_product_manager_lawsuit/)
-
-[Amazon Web Services CEO cites ‘significant political interference’ from Trump in JEDI contract – GeekWire](https://www.geekwire.com/2019/amazon-web-services-ceo-cites-significant-political-interference-trump-jedi-contract/)
-
 [New Duo Labs White Paper! Chain of Fools: An Exploration of Certificate Chain Validation Mishaps | Duo Security](https://duo.com/blog/new-duo-labs-white-paper-chain-of-fools-an-exploration-of-certificate-chain-validation-mishaps)
 
 [Tweet / Twitter](https://mobile.twitter.com/trevoro/status/1203113197571428352)
-
-[similarweb/finala: A resource cloud scanner that analyzes and reports about wasteful and unused resources to cut unwanted expenses.](https://github.com/similarweb/finala)
 
 [Snyk's Gareth Rushgrove on How Visibility Is Driving Security - The New Stack](https://thenewstack.io/snyks-gareth-rushgrove-on-how-visibility-is-driving-security/)
 
@@ -51,8 +41,6 @@ title = "DevOps'ish 158 Notes"
 [Reducing Istio proxy resource consumption with outbound traffic restrictions · Banzai Cloud](https://banzaicloud.com/blog/istio-sidecar/)
 
 [My learnings on Linux BPF container performance engineering](https://medium.com/@aimvec/my-learnings-on-linux-bpf-container-performance-engineering-3eb424b73d56)
-
-[Tweet / Twitter](https://mobile.twitter.com/rothgar/status/1203768589540454400)
 
 [Megan Rapinoe: Sports Illustrated 2019 Sportsperson of the Year - Sports Illustrated](https://www.si.com/sportsperson/2019/12/09/megan-rapinoe-2019-sportsperson-of-the-year?utm_source=reddit.com)
 

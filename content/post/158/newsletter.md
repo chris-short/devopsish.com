@@ -26,16 +26,21 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 
 ## People
 
-PEOPLE
+[Former Oracle product manager says he was forced out for refusing to deceive customers. Now he's suing the biz](https://www.theregister.co.uk/2019/12/04/oracle_product_manager_lawsuit/) — "For a civil RICO claim to succeed, the plaintiff must show that the defendant committed one of the crimes covered by the statute, such as mail fraud or wire fraud."
 
 ## Process
 
-PROCESS
+[We Need To Save .ORG From Arbitrary Censorship By Halting the Private Equity Buy-Out](https://www.eff.org/deeplinks/2019/12/we-need-save-org-arbitrary-censorship-halting-private-equity-buy-out) — "EFF has joined with over 250 respected nonprofits to oppose the sale of Public Interest Registry, the (currently) nonprofit entity that operates the .ORG domain, to Ethos Capital."
+
+
 
 ## Tools
 
-TOOLS
+[SSH to remote hosts though a proxy or bastion with ProxyJump](https://www.redhat.com/sysadmin/ssh-proxy-bastion-proxyjump) — I love me some SSH ProxyJump.
+
+[similarweb/finala](https://github.com/similarweb/finala) — A resource cloud scanner that analyzes and reports about wasteful and unused resources to cut unwanted expenses.
+
 
 ## Tweet of the Week
 
-{{< tweet 1201629394940420101 >}}
+{{< tweet 1203768589540454400 >}}
