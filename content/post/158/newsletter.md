@@ -6,8 +6,8 @@ date = 2019-12-16T07:00:00Z
 description = "Guinevere Saenger on Kubernetes 1.17 release, devs as a new soft target, need for a college degree, htop, CRDs, Istio, and more"
 draft = false
 slug = "158"
-tags = ["Guinevere Saenger", ""]
-title = "158: Guinevere Saenger on Kubernetes 1.17 release, devs as a new soft target, need for a college degree, htop, CRDs, Istio, and more"
+tags = ["Guinevere Saenger", "Kubernetes", "cloud", "cloud native", "DevOps", "Istio", "CRDs", "open source", "developers", "htop", "release", "college degree", "AWS", "Red Hat", ".ORG", "remote", "deliveryconf", "infrastructure", "Detroit", "DevSecOps", "Agile", "Google", "Seattle", "Ansible", "defense-in-depth"]
+title = "158: Guinevere Saenger on Kubernetes 1.17 release, devs as a new soft target, need for a college degree, `htop`, CRDs, Istio, and more"
 
 +++
 
@@ -89,7 +89,7 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 
 [Running Cassandra in Kubernetes: challenges and solutions](https://medium.com/flant-com/running-cassandra-in-kubernetes-challenges-and-solutions-9082045a7d93)
 
-[Linux process management improved with htop](https://www.redhat.com/sysadmin/process-management-htop) — I keep running into people who haven't heard of htop somehow.
+[Linux process management improved with `htop`](https://www.redhat.com/sysadmin/process-management-htop) — I keep running into people who haven't heard of `htop` somehow.
 
 [kyma-project/rafter](https://github.com/kyma-project/rafter) — Kubernetes-native S3-like files/assets store based on CRDs and powered by MinIO
 
