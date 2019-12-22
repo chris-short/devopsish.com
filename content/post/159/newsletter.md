@@ -11,8 +11,6 @@ title = "159: "
 
 +++
 
-INTRO
-
 [**X-Team is Hiring Go developers with strong AWS skills (Remote)**](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)  
 We are looking for passionate Go developers with strong AWS skills to work with the world's leading brands, from anywhere. We love to work with Kubernetes, Docker, Serverless, and AWS tools. Travel the world while being part of the most energizing community of developers. We provide the funding needed to help you achieve your goals and grow as a remote developer. [Join X-Team](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)! *SPONSORED*
 
@@ -73,6 +71,8 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 ## Tools
 
+[Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing](https://youtu.be/YYHp0oksor4) — "Chris Short, Principal Product Marketing Manager, OpenShift at Red Hat and CNCF Ambassador sits down with Staff Developer Advocate at Google, Kelsey Hightower to discuss Kubernetes. The conversation covers Kubernetes The Hard Way (which Kelsey created) and the rise of curated Kubernetes distributions like OpenShift and OKD."
+
 [RDS Pricing Has More Than Doubled](https://medium.com/@rbranson/rds-pricing-has-more-than-doubled-ef8c3b7e5218) — "[A] 78% premium? Now that gives me pause. Particularly because it is so much more and with no added value². This violates a core expectation of technology: it gets better and cheaper over time even if it was already worth it."
 
 [What is Kubernetes | Kubernetes explained in 15 mins (YouTube)](https://www.youtube.com/watch?v=VnvRFRk_51k&feature=youtu.be) — "Kubernetes popularity rises constantly. So, what is Kubernetes actually and what problems does it solve? In 'Kubernetes explained' I cover Kubernetes basic archicture and concepts, like Pods and Services."
@@ -101,4 +101,4 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 ## Tweet of the Week
 
-{{< tweet 1203768589540454400 >}}
+{{< tweet 1207682466334609413 >}}
