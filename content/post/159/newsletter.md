@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News"]
 date = 2019-12-23T07:00:00Z
-description = ""
+description = "Kubernetes with extra sprinkles, skilling up in DevOps, Google Cloud’s Y2K(23), privileged containers on Santa’s naughty list, and more"
 draft = false
 slug = "159"
-tags = []
-title = "159: "
+tags = ["Kubernetes", "DevOps", "cloud", "cloud native", "developers", "Google", "Google Cloud", "GCP 2023", "open source", "community", "swift", "Percona", "Kelsey Hightower", "Emily Freeman", "AWS", "Raspberry Pi", "JEDI", "RBAC", "MySQL", "PodCTL", "DevOps for Dummies", "Ansible"]
+title = "159: Kubernetes with extra sprinkles, skilling up in DevOps, Google Cloud’s Y2K(23), privileged containers on Santa’s naughty list, and more"
 
 +++
 
@@ -29,17 +29,17 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 [Hacking With The Homies Developers Conference Ticket](https://www.eventbrite.com/e/hacking-with-the-homies-developers-conference-tickets-83203845943)  
 Detroit, MI  
 Feb 29, 2020  
-This is the first Software Developer Conference with a 100% focus on Black and Brown software developers. All sessions will be led by developers and will contain an actual code walk-thru. All presentors have a 3 slide limit and everything else has to be code. We have an Happy Hour after the conference where you can network and mingle with other developers. The profits from the conference will go to funding Detroit Black Tech initiatives and events.
+This is the first Software Developer Conference with a 100% focus on Black and Brown software developers. All sessions will be led by developers and will contain an actual code walk-thru. All presenters have a 3 slide limit and everything else has to be code. We have a Happy Hour after the conference where you can network and mingle with other developers. The profits from the conference will go to funding Detroit Black Tech initiatives and events.
 
 ## People
 
-[Building Compassion](https://www.youtube.com/watch?v=X6qOweQtqTg) — I cried really hard. It would mean the world to me if you watched Julia Ferraioli talk about what she lives with every second of everyday. I have peripheral nerve damage. I cannot even fathom what Julia is dealing with (and is successful in spite of it).
+[Building Compassion](https://www.youtube.com/watch?v=X6qOweQtqTg) — I cried really hard. It would mean the world to me if you watched Julia Ferraioli talk about what she lives with every second of every day. I have peripheral nerve damage. I cannot even fathom what Julia is dealing with (and is successful in spite of it).
 
 [5 interview questions every Kubernetes job candidate should know](https://opensource.com/article/19/12/kubernetes-interview-questions) — "If you're interviewing people for Kubernetes-related roles, here's what to ask and why it matters."
 
 [DevOps for Dummies (PodCTL)](http://podcast.podctl.com/110399/2325842-devops-for-dummies) — I talk with Emily Freeman, author of DevOps for Dummies, about the biggest challenges faced in cloud adoption and DevOps culture changes.
 
-[How to actually get good at basic DevOps if i'm not already hired (/r/devops)](https://www.reddit.com/r/devops/comments/e9nl05/how_to_actually_get_good_at_basic_devops_if_im/) — The general advice is get some Raspberry Pis and start hacking on them. This is exactly how I learned Ansible in an evening. I've also taught myself a lot about Kubernetes and containers by using Kubernetes on Raspberry Pis. It's good to know I'm not alone in this thinking. If there's not enough budget for Raspberry Pis, you could always use KVM or Vagrant.
+[How to actually get good at basic DevOps if i'm not already hired (/r/devops)](https://www.reddit.com/r/devops/comments/e9nl05/how_to_actually_get_good_at_basic_devops_if_im/) — The general advice is to get some Raspberry Pis and start hacking on them. This is exactly how I learned Ansible in an evening. I've also taught myself a lot about Kubernetes and containers by using Kubernetes on Raspberry Pis. It's good to know I'm not alone in this thinking. If there's not enough budget for Raspberry Pis, you could always use KVM or Vagrant.
 
 [Ann Arbor & Detroit Rated Top U.S. Tech & Startup Hubs To Watch](https://cronicle.press/2019/12/13/ann-arbor-detroit-rated-top-u-s-tech-startup-hubs-to-watch/) — A lot of brilliant people live and work here in Michigan. Energy prices are fairly low too. Lots of open space for data centers too. It feels like half the Kubernetes community in the US lives here. It makes a lot of sense.
 
@@ -61,7 +61,7 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 [The Architecture of a Large-Scale Web Search Engine, circa 2019](https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html) — [Cliqz] Journey to Microservices, Kubernetes and beyond.
 
-[December 12th, 2019 - Server / Workgroup Updates - Swift Forums](https://forums.swift.org/t/december-12th-2019/31735) — "...following a review by IBM of its open source priorities, it has been decided that they will not be continuing to work on Swift in 2020. As a result, they are both standing down from the workgroup." I had high hopes for Swift. The idea of a purpose built mobile and backend friendly language really intrigued me. But, it never really took off. With IBM pulling out of the working group, I don't think Swift will have an easy path to becoming a de facto backend contender. 🙁🙁🙁
+[December 12th, 2019 - Server / Workgroup Updates - Swift Forums](https://forums.swift.org/t/december-12th-2019/31735) — "...following a review by IBM of its open source priorities, it has been decided that they will not be continuing to work on Swift in 2020. As a result, they are both standing down from the workgroup." I had high hopes for Swift. The idea of a purpose-built mobile and backend friendly language really intrigued me. But, it never really took off. With IBM pulling out of the working group, I don't think Swift will have an easy path to becoming a de facto backend contender. 🙁🙁🙁
 
 [Kubernetes is booming, but consolidation is coming](https://www.zdnet.com/article/kubernetes-is-booming-but-consolidation-is-coming/) — "The crowded halls of the official Kubernetes conference Kubecon reflect a nascent but important technology whose best future might be to disappear into the background." Kubernetes is not a destination.
 
@@ -75,11 +75,11 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 [RDS Pricing Has More Than Doubled](https://medium.com/@rbranson/rds-pricing-has-more-than-doubled-ef8c3b7e5218) — "[A] 78% premium? Now that gives me pause. Particularly because it is so much more and with no added value². This violates a core expectation of technology: it gets better and cheaper over time even if it was already worth it."
 
-[What is Kubernetes | Kubernetes explained in 15 mins (YouTube)](https://www.youtube.com/watch?v=VnvRFRk_51k&feature=youtu.be) — "Kubernetes popularity rises constantly. So, what is Kubernetes actually and what problems does it solve? In 'Kubernetes explained' I cover Kubernetes basic archicture and concepts, like Pods and Services."
+[What is Kubernetes | Kubernetes explained in 15 mins (YouTube)](https://www.youtube.com/watch?v=VnvRFRk_51k&feature=youtu.be) — "Kubernetes popularity rises constantly. So, what is Kubernetes actually and what problems does it solve? In 'Kubernetes explained' I cover Kubernetes basic architecture and concepts, like Pods and Services."
 
 [The Path Less Traveled: Abusing Kubernetes Defaults (YouTube)](https://www.youtube.com/watch?v=HmoVSmTIOxM) — "In this live demonstration-filled talk, we are going to walk through the Kubernetes control plane before using sigs.k8s.io/kind to show some of the attack surface exposed by a default configuration of Kubernetes. There will be multiple exploits involving various moving parts, including cluster takeovers and host escapes. We’ll show you mitigations, and then show you how to get around those."
 
-[Updated XtraDB Cluster, XtraBackup, Percona Servers, New Features in Kubernetes Operator: Release Roundup 12/17/2019](https://www.percona.com/blog/2019/12/17/updated-xtradb-cluster-xtrabackup-percona-servers-new-features-in-kubernetes-operator-release-roundup/) — If you need MySQL in Kubernetes (or anywhere for that matter), Percona offers some very compelling solutions. I know when is was working with MySQL everyday, Percona Toolkit was a staple in my life. It's awesome seeing Percona bringing these MySQL database tools into Kubernetes.
+[Updated XtraDB Cluster, XtraBackup, Percona Servers, New Features in Kubernetes Operator: Release Roundup 12/17/2019](https://www.percona.com/blog/2019/12/17/updated-xtradb-cluster-xtrabackup-percona-servers-new-features-in-kubernetes-operator-release-roundup/) — If you need MySQL in Kubernetes (or anywhere for that matter), Percona offers some very compelling solutions. I know when is was working with MySQL every day, Percona Toolkit was a staple in my life. It's awesome seeing Percona bringing these MySQL database tools into Kubernetes.
 
 [Why Running a Privileged Container in Docker Is a Bad Idea](https://blog.trendmicro.com/trendlabs-security-intelligence/why-running-a-privileged-container-in-docker-is-a-bad-idea/) — Like anything else running as root, if it's compromised the entire system is. Say it with me, "Containers are not a security boundary."
 
@@ -93,7 +93,7 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 [This Week in Programming: The Time Has Come to Pay Attention to WebAssembly](https://thenewstack.io/this-week-in-programming-the-time-has-come-to-pay-attention-to-webassembly/) — WebAssembly has been embraced by W3C. Bytecode Alliance was launched. Brian Ketelsen has been raving about it for a while now. I think it's time we all start paying attention to WASM.
 
-[CoreDNS-1.6.6 Release](https://coredns.io/2019/12/11/coredns-1.6.6-release/) — One security issue of note, bug fixes, and enchancements.
+[CoreDNS-1.6.6 Release](https://coredns.io/2019/12/11/coredns-1.6.6-release/) — One security issue of note, bug fixes, and enhancements.
 
 [What's New in Tekton 0.9](https://cd.foundation/blog/2019/12/12/whats-new-in-tekton-0-9/) — Announcing new Script Mode. I need deep dive into Tekton soon.
 
