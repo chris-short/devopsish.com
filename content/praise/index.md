@@ -19,6 +19,8 @@ I started the DevOps'ish newsletter in 2016 with hopes of lowerering the barrier
 
 [!["I don't read a lot of tech newsletters, but there are 3 that I do, for various reasons! Devops'ish by @ChrisShort puts so much good stuff there, that I must confess that I usually just scan the previous week's top 5, very convenient." —Jérôme Petazzoni][jpetazzo]](https://twitter.com/jpetazzo/status/1129916987545653248)
 
+[!["If you are not subscribed to the https://devopsish.com newsletter from @ChrisShort then take a minute and subscribe now. Always an interesting quick read across the full breadth of the industry - interspersed with a little dry wit and commentary." —Martin Woodward][mwoodward]](https://twitter.com/martinwoodward/status/1038687548153978881)
+
 [!["Aspiring DevOps/Cloud peoples - great newsletter (DevOpsish) by @ChrisShort. Complete w/ Telegram group to chat." —Bashfulrobot][Bashfulrobot]](https://twitter.com/Bashfulrobot/status/1130907202594562048)
 
 ## Quotes
@@ -43,3 +45,4 @@ Finally, thank ***you*** subscribers, friends, fans for making this project the 
 [jpetazzo]: jpetazzo-praise.png
 [Bashfulrobot]: Bashfulrobot-praise.png
 [kamcmahon]: kamcmahon-praise.png
+[mwoodward]: martin-woodward-praise.png
