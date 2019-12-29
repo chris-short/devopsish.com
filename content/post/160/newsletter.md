@@ -39,11 +39,11 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 [The tech CEOs' year of reckoning](https://www.engadget.com/2019/12/27/the-tech-ceo-year-of-reckoning/) — A year in which we all learned startup CEOs aren't going to save us (no shit).
 
-[The unintended consequence of US campaign against Huawei could be a global split in technology standards](https://www.scmp.com/tech/big-tech/article/3042233/unintended-consequence-us-campaign-against-huawei-could-be-global) — I would not be surprised if there were three "internets" by the end of 2020. The US based internet, a Chinese based one (which is well on its way), and I see a potential for a third internet from either Russia or countries with despotic regimes banding together. I say that not to pick on Russians in particular but, they are moving in that general direction.
+[The unintended consequence of US campaign against Huawei could be a global split in technology standards](https://www.scmp.com/tech/big-tech/article/3042233/unintended-consequence-us-campaign-against-huawei-could-be-global) — I would not be surprised if there were three "internets" by the end of 2020. The US-based internet, a Chinese based one (which is well on its way), and I see a potential for a third internet from either Russia or countries with despotic regimes banding together. I say that not to pick on Russians in particular but, they are moving in that general direction.
 
-[RuNet - Russia successfully concluded tests on its Internet infrastructureSecurity Affairs](https://securityaffairs.co/wordpress/95564/security/russia-runet-tests.html) — "Russia's government announced that it has successfully concluded a series of tests for its RuNet intranet aimed at country disconnection from the Internet."
+[RuNet - Russia successfully concluded tests on its Internet infrastructure Security Affairs](https://securityaffairs.co/wordpress/95564/security/russia-runet-tests.html) — "Russia's government announced that it has successfully concluded a series of tests for its RuNet intranet aimed at country disconnection from the Internet."
 
-[Research: How Women Undersell Their Work](https://hbr.org/2019/12/research-how-women-undersell-their-work) — Self-promotion is how I got to where I am. If you don't toot your own horn, no one else will. But, there's good and bad forms of self-promotion.
+[Research: How Women Undersell Their Work](https://hbr.org/2019/12/research-how-women-undersell-their-work) — Self-promotion is how I got to where I am. If you don't toot your own horn, no one else will. But, there are good and bad forms of self-promotion.
 
 [My blogging stack and publishing process](https://blog.frankel.ch/my-blogging-stack-publishing-process/) — Medium is bad. You should stop using it. If you need more reason than what's listed in this article, I give you [nomedium.dev](https://nomedium.dev).
 
@@ -73,7 +73,7 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 [Boeing fires chief executive Dennis A. Muilenburg in wake of 737 Max crisis](https://www.washingtonpost.com/business/2019/12/23/boeing-chief-executive-dennis-muilenburg-resigns-board-seeks-restore-confidence-wake-max-crisis/) — This seems long overdue.
 
-[After a year of acquisitions CloudBees looks at portfolio, says ‘it’s complicated’](https://devclass.com/2019/12/20/cloudbees-to-simplify-portfolio/) — Cloudbees is a legit head scratcher right now.
+[After a year of acquisitions CloudBees looks at portfolio, says ‘it’s complicated’](https://devclass.com/2019/12/20/cloudbees-to-simplify-portfolio/) — Cloudbees is a legit head-scratcher right now.
 
 [The ingenious way Steve Jobs led design reviews at Apple](https://www.fastcompany.com/90447287/the-ingenious-way-steve-jobs-led-design-reviews-at-apple) — "If you ever found yourself sitting at your desk by yourself with your headphones on, stressing ’cause you felt like you had to figure it out on your own, something was really broken."
 
