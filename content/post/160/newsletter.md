@@ -6,8 +6,8 @@ date = 2019-12-30T07:00:00Z
 description = ""
 draft = false
 slug = "160"
-tags = []
-title = "160"
+tags = ["DevOps", "Kubernetes", "developers", "open source", "Linux", "security", "cloud", "cloud native", "performance", "Apple", "CNCF", "CNCF Ambassador", "MinIO", "Detroit", "geolite", "Bongo", "Operator", "sysadmin", "entropy", "VMware", "Red Hat", "velocity"]
+title = "160: 2019 is a wrap, internet bifurcation, using ML to block BGP hijacking, monitoring entropy, Kubernetes Operators, ops anti-patterns, and more"
 
 +++
 
