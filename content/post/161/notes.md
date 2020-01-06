@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Notes"]
-date = 2020-01-06T07:00:00Z
+date = 2020-01-06T01:15:00Z
 description = "Notes from DevOps'ish 161"
 draft = false
 url = "161/notes"
