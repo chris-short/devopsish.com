@@ -18,43 +18,15 @@ title = "DevOps'ish 161 Notes"
 
 [The best resources for agile software development | Opensource.com](https://opensource.com/article/19/12/agile-resources)
 
-[What happens if the Air Force’s command center for all its tankers and cargo planes gets hacked? : devopsish](https://www.reddit.com/r/devopsish/comments/eh5kcg/what_happens_if_the_air_forces_command_center_for/)
-
-[aws/jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!](https://github.com/aws/jsii)
-
-[WebAssembly 2019 Year In Review](https://blog.scottlogic.com/2019/12/24/webassembly-2019.html)
-
 [Tweet / Twitter](https://mobile.twitter.com/EmmaBostian/status/1211260645020196864)
-
-[A tutorial on Github Actions | Pixelstech.net](https://www.pixelstech.net/article/1577096152-A-tutorial-on-Github-Actions)
 
 [[1912.11211v1] Algorithmic Extremism: Examining YouTube's Rabbit Hole of Radicalization](https://arxiv.org/abs/1912.11211v1)
 
-[‘Rude’ peer reviews inflict most damage on women and minorities | Times Higher Education (THE)](https://www.timeshighereducation.com/news/rude-peer-reviews-inflict-most-damage-women-and-minorities)
-
-[bridgecrewio/checkov: Prevent cloud misconfigurations during build time](https://github.com/bridgecrewio/checkov)
-
 [media.ccc.de - Harry Potter and the Not-So-Smart Proxy War](https://media.ccc.de/v/36c3-10642-harry_potter_and_the_not-so-smart_proxy_war)
-
-[8 must-read DevOps articles for success in 2020 | Opensource.com](https://opensource.com/article/19/12/devops-resources)
-
-[Our top 10 articles of 2019 for IT leaders | The Enterprisers Project](https://enterprisersproject.com/article/2019/12/our-top-10-articles-2019-it-leaders)
-
-[20 Years Since Y2K: The Evolution of IT Operations and DevOps · Transposit](https://www.transposit.com/blog/2019.12.30-20-years-since-y2k-evolution-of-it-operations-and-devops/)
-
-[Tweet / Twitter](https://mobile.twitter.com/mikegcoleman/status/1211999070350299138)
-
-[VMware completes $2.7 billion Pivotal acquisition | TechCrunch](https://techcrunch.com/2019/12/30/vmware-completes-2-7-billion-pivotal-acquisition/)
 
 [Intel Processor Trace for System Management Mode (ring-2) code tracing | sysenter-eip.github.io](https://sysenter-eip.github.io/intel_pt_smm.html)
 
-[Internet shutdowns used to be rare. They're increasingly becoming the norm - CNN](https://www.cnn.com/2019/12/21/asia/internet-shutdowns-china-india-censorship-intl-hnk/index.html)
-
-[2019 Learnings, 2020 Expectations - chrisshort.net](https://chrisshort.net/2019-learnings-2020-expectations/)
-
 [9 Ansible guides to help you ease into automation | Enable Sysadmin](https://www.redhat.com/sysadmin/ansible-guides)
-
-[Screaming in the Cloud | Hyperscaler Infrastructure for the Masses with Jessie Frazelle, Steve Tuck, and Bryan Cantrill of Oxide Computing](https://share.transistor.fm/s/f527fc61)
 
 [Tweet / Twitter](https://mobile.twitter.com/DalaiLama/status/1212323848177115137)
 
@@ -68,8 +40,6 @@ title = "DevOps'ish 161 Notes"
 
 [Well, That Escalated Quickly](https://know.bishopfox.com/research/privilege-escalation-in-aws)
 
-[Amazon RDS customers: Update your SSL/TLS certificates by February 5, 2020 | AWS Database Blog](https://aws.amazon.com/blogs/database/amazon-rds-customers-update-your-ssl-tls-certificates-by-february-5-2020/)
-
 [6 guides on making containers secure | Enable Sysadmin](https://www.redhat.com/sysadmin/making-containers-secure)
 
 [ChubaoFS: The Cloud Native Computing Foundation's Speedy New Distributed File System - The New Stack](https://thenewstack.io/chubaofs-the-cloud-native-computing-foundations-speedy-new-distributed-file-system/)
@@ -77,10 +47,6 @@ title = "DevOps'ish 161 Notes"
 [Real Mentorship Starts with Company Culture, Not Formal Programs](https://hbr.org/2019/12/real-mentorship-starts-with-company-culture-not-formal-programs)
 
 [Experiences with Spinnaker on Adobe Experience Platform](https://medium.com/adobetech/experiences-with-spinnaker-on-adobe-experience-platform-bae6cf351f34)
-
-[Network Automation and the Lack of Innovation in the Management Plane - The New Stack](https://thenewstack.io/network-automation-and-the-lack-of-innovation-in-the-management-plane/)
-
-[Home - DENT](https://dent.dev/)
 
 [How to build confidence as an engineer part 2 | CircleCI](https://circleci.com/blog/how-to-build-confidence-as-an-engineer-an-interview-with-michael-stahnke-circleci-vp-of-platform/)
 
@@ -98,13 +64,7 @@ title = "DevOps'ish 161 Notes"
 
 [Dynein – an Asynchronous Background Job Service from Airbnb](https://www.infoq.com/news/2019/12/dynein-job-queue-airbnb/)
 
-[My 2020 resolution: Pay for news!](https://www.keithrozario.com/2020/01/2020-resolution-pay-for-news.html)
-
-[Google's Formula for Elite DevOps Performance - The New Stack](https://thenewstack.io/googles-formula-for-elite-devops-performance/)
-
 [Why Black Women Are Still Cringing At The Lean In Strategy : devopsish](https://www.reddit.com/r/devopsish/comments/ejhox5/why_black_women_are_still_cringing_at_the_lean_in/)
-
-[xkcd: I Love the 20s](https://xkcd.com/2249/)
 
 [DevOpsRemote.work | Find DevOps Remote Jobs](https://devopsremote.work/)
 
@@ -126,31 +86,13 @@ title = "DevOps'ish 161 Notes"
 
 [Disaster Recovery Strategies for Applications Running on OpenShift – Red Hat OpenShift Blog](https://blog.openshift.com/disaster-recovery-strategies-for-applications-running-on-openshift/)
 
-[ahmetb/kubectl-tree: kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)](https://github.com/ahmetb/kubectl-tree)
-
 [Chloe Condon 🎀 on Twitter: "I have spoken with *several* students over the last couple months who have been affected by this, and were shut down/bullied/negged when they raised these issues to staff. I'm ashamed of the behavior of an institution that claims to be "designed for student success". https://t.co/sklDlcFgQ3" / Twitter](https://mobile.twitter.com/ChloeCondon/status/1212613963696885760)
-
-[Python Software Foundation: Press Release 20-Dec-2019 | Python.org](https://www.python.org/psf/press-release/pr20191220/)
-
-[Apache Pulsar](https://pulsar.apache.org/)
-
-[rq/rq: Simple job queues for Python](https://github.com/rq/rq)
-
-[Google veterans: The company has become 'unrecognizable'](https://www.cnbc.com/2019/12/31/google-veterans-the-company-has-become-unrecognizable.html)
 
 [9 infamous tech disasters of the last decade we’d like to forget](https://www.siliconrepublic.com/companies/worst-tech-disasters-2010s)
 
-[imsnif/bandwhich: Terminal bandwidth utilization tool (formerly known as "what")](https://github.com/imsnif/bandwhich)
-
 [Mastering systemd: Securing and sandboxing applications and services | Enable Sysadmin](https://www.redhat.com/sysadmin/mastering-systemd)
 
-[gchq/stroom: Stroom is a highly scalable data storage, processing and analysis platform.](https://github.com/gchq/stroom)
-
-[alexellis/faasd: faasd - serverless with containerd 🐳](https://github.com/alexellis/faasd)
-
 [‘The digital transformation process is a journey rather than a destination’](https://www.siliconrepublic.com/companies/ensono-barney-taylor-digital-transformation)
-
-[How Anxiety Traps Us, and How We Can Break Free](https://hbr.org/2020/01/how-anxiety-traps-us-and-how-we-can-break-free)
 
 [Here are some terms to mute on Twitter to clean your timeline up a bit.](https://gist.github.com/IanColdwater/88b3341a7c4c0cf71c73ac56f9bd36ec)
 
