@@ -77,6 +77,6 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 [rakyll/govalidate](https://github.com/rakyll/govalidate) — Validates your Go installation and dependencies
 
-## DevOps'ish Tweets of the Week
+## DevOps'ish Tweet of the Week
 
 {{< tweet 1213607102595424258 >}}

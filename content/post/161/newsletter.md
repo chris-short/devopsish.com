@@ -114,7 +114,7 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 [gchq/stroom](https://github.com/gchq/stroom) — Stroom is a highly scalable data storage, processing and analysis platform.
 
-## DevOps'ish Tweets of the Week
+## DevOps'ish Tweet of the Week
 
 This tweet made for a very surreal New Year's Eve.
 
