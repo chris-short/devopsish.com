@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-01-12T07:00:00Z
-description = "kubectl tree, SHA-1, Pulse Secure VPN vulnerabilty, data gravity, Falco, eBPF, Bash-my-AWS, and more"
+description = "kubectl tree, SHA-1, Pulse Secure VPN vulnerability, data gravity, Falco, eBPF, Bash-my-AWS, and more"
 draft = false
 slug = "162"
 tags = ["data gravity", "AWS", "SHA-1", "DevOps", "developers", "eBPF", "VPN", "Pulse Secure", "vulnerability", "Kubenetes", "Falco", "Amazon", "bash", "kubectl", "cloud native", "open source", "OpenShift"]
-title = "162: kubectl tree, SHA-1, Pulse Secure VPN vulnerabilty, data gravity, Falco, eBPF, Bash-my-AWS, and more"
+title = "162: kubectl tree, SHA-1, Pulse Secure VPN vulnerability, data gravity, Falco, eBPF, Bash-my-AWS, and more"
 
 +++
 
-It felt like security dominated the news this week. A Pulse Secure VPN vulnerability is getting exploited. SHA-1 is effectively busted now. Firefox exploits need patching too. Meanwhile, Kubernetes news abounds with new talks, tools, and tips. Enjoy some other awesome deep dives, stories, and posts from across the space too. Have a great week!
+It felt like security dominated the news this week. A Pulse Secure VPN vulnerability is getting exploited. SHA-1 is effectively busted now. Firefox exploits need patching too. Meanwhile, Kubernetes news abounds with new talks, tools, and tips. Enjoy some other awesome deep dives, stories, and posts from across the industry too. Have a great week!
 
 ## Events
 
@@ -27,7 +27,7 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 ## People
 
-[Company shuts down because of ransomware, leaves 300 without jobs just before holidays](https://www.zdnet.com/article/company-shuts-down-because-of-ransomware-leaves-300-without-jobs-just-before-holidays/) — This is nightmare fuel. I couldn't imagine being a leader in a business that has been debilitated by ransomware to the point of deciding to shutdown operations.
+[Company shuts down because of ransomware, leaves 300 without jobs just before holidays](https://www.zdnet.com/article/company-shuts-down-because-of-ransomware-leaves-300-without-jobs-just-before-holidays/) — This is nightmare fuel. I couldn't imagine being a leader in a business that has been debilitated by ransomware to the point of deciding to shut down operations.
 
 [OpenShift and Kubernetes, with Clayton Coleman](https://kubernetespodcast.com/episode/085-openshift-and-kubernetes/) — "Hosts Adam Glick and Craig Box return for 2020 with the story of OpenShift"
 
@@ -41,7 +41,7 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 ## Process
 
-[Travelex being held to ransom by hackers](https://www.bbc.com/news/business-51017852) — This is a pretty bad hack and has tied up a ton of money. It's likely due to a [Pulse Secure VPN vulnerabilty](https://www.darkreading.com/attacks-breaches/widely-known-flaw-in-pulse-secure-vpn-being-used-in-ransomware-attacks/d/d-id/1336729) that was patched in April 2019.
+[Travelex being held to ransom by hackers](https://www.bbc.com/news/business-51017852) — This is a pretty bad hack and has tied up a ton of money. It's likely due to a [Pulse Secure VPN vulnerability](https://www.darkreading.com/attacks-breaches/widely-known-flaw-in-pulse-secure-vpn-being-used-in-ransomware-attacks/d/d-id/1336729) that was patched in April 2019.
 
 [SHA-1 is a Shambles](https://sha-mbles.github.io/) — SHA-1's demise is upon us it appears. "We have computed the very first chosen-prefix collision for SHA-1." There shouldn't be a lot of SHA-1 left, although PGP/GnuPG was the target of the experiment. But, someone pointed out this week that some DNSSEC implementations use SHA-1. Keep your eyes peeled and update when you can.
 
