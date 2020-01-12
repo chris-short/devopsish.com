@@ -66,6 +66,8 @@
     {{ if or (.Params.categories) (.Params.tags) }}{{ partial "meta-terms.html" . }}{{ end }}</p>
   </header>
 
+  {{ partial "carbon_ads_partial.html" . }}
+
   {{ .Content }}
 
   {{ if .IsTranslated }}
@@ -79,9 +81,9 @@
   </ul>
   {{ end }}
 
-  <hr />
-
   {{ partial "notes-link.html" . }}
+
+  <hr />
 
   {{ partial "mc.html" . }}
   

@@ -6,7 +6,7 @@ date = 2019-04-07T07:00:00Z
 description = ""
 draft = false
 slug = "122"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "red hat", "envoy", "OPA", "BPF", "Chef"]
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "Red Hat", "envoy", "OPA", "BPF", "Chef"]
 title = "122: Chefnanigans, Emotional Intelligence, Derek the DevOps Dinosaur, BPF, Envoy Convoy, Crates of k8s, OPA, and More"
 
 +++

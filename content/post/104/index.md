@@ -6,7 +6,7 @@ date = 2018-12-02T07:00:00Z
 description = "DevOps for All, Requirements, Discord Acquisition Coming, Kubernetes Myths, Service Meshes, and More"
 draft = false
 slug = "104"
-tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "red hat", "ansible", "security", "serverless", "AWS"]
+tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "Red Hat", "ansible", "security", "serverless", "AWS"]
 title = "104: AWS (roasting Oracle), Kubernetes, Open Source in 2018, Oh... Google, Breaches, and More"
 
 +++

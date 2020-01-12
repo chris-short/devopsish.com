@@ -6,7 +6,7 @@ date = 2018-12-10T00:12:00Z
 description = "Two Years 🎂, #KubeKhan, CVE-2018-1002105, State of k8s, vim, and More!"
 draft = false
 slug = "105"
-tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "red hat", "ansible", "security", "serverless", "Site Reliability Engineering", "SRE"]
+tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "Red Hat", "ansible", "security", "serverless", "Site Reliability Engineering", "SRE"]
 title = "105: Two Years 🎂, #KubeKhan, CVE-2018-1002105, State of k8s, vim, and More!"
 
 +++
