@@ -22,8 +22,6 @@ We are looking for passionate Go developers with strong AWS skills to work with 
 
 [The Mind at Work: Guido van Rossum on how Python makes thinking in code easier](https://blog.dropbox.com/topics/work-culture/-the-mind-at-work--guido-van-rossum-on-how-python-makes-thinking) — "A conversation with the creator of the world’s most popular programming language on removing brain friction for better work."
 
-[KubeCon North America 2019 Trip Report](https://chrisshort.net/kubecon-north-america-2019-trip-report/) — This is my complete trip report from KubeCon + CloudNativeCon North America 2019. I did not have a pleasant experience overall. If you read the introduction of last week's newsletter and are interested in how it's going, read on.
-
 [Kubernetes Security](https://www.arresteddevops.com/kubernetes-security/) — Bridget [Kromhout] chats with Ian Coldwater about Kubernetes security on the Arrested DevOps podcast
 
 [Red Hat's Chris Short on Redirecting A War Vet's Energy To Lifelong Learning & Technical Leadership](https://cronicle.press/2019/11/29/redhats-chris-short-on-redirecting-a-war-vets-energy-to-lifelong-learning-technical-leadership/) — Cronicle Press interviewed me at DevOpsDays Detroit. They did way more with the interview than I thought they would. Thank you to them for the opportunity.
