@@ -6,7 +6,7 @@ date = 2020-01-19T07:00:00Z
 description = "Mozilla and DigitalOcean Layoffs, NSA discloses Windows vuln, Kubernetes Bug Bounty Program, PrivateBin, and more"
 draft = false
 slug = "163"
-tags = []
+tags = ["Kubernetes", "cloud native", "DevOps", "NSA", "Mozilla", "DigitalOcean", "bug bounty", "developers", "Microsoft", "Windows", "AWS", "layoffs", "chaos engineering", "Ansible", "governance", "infosec", "security", "pair programming", "postmortems", "Y2K"]
 title = "163: Mozilla and DigitalOcean Layoffs, NSA discloses Windows vuln, Kubernetes Bug Bounty Program, PrivateBin, and more"
 
 +++
@@ -45,7 +45,7 @@ DevOpsDay LA is a technical conference covering topics of software development, 
 
 ## Process
 
-[NSA found a dangerous Microsoft software flaw and alerted the firm — rather than weaponizing it](https://www.washingtonpost.com/national-security/nsa-found-a-dangerous-microsoft-software-flaw-and-alerted-the-firm--rather-than-weaponize-it/2020/01/14/f024c926-3679-11ea-bb7b-265f4554af6d_story.html) — The global instability this could have caused if it hadn't gone patched responsibly is mind boggling. Also, our industry on newsstands again this week.
+[NSA found a dangerous Microsoft software flaw and alerted the firm — rather than weaponizing it](https://www.washingtonpost.com/national-security/nsa-found-a-dangerous-microsoft-software-flaw-and-alerted-the-firm--rather-than-weaponize-it/2020/01/14/f024c926-3679-11ea-bb7b-265f4554af6d_story.html) — The global instability this could have caused if it hadn't gone patched is mind-boggling. Also, our industry on newsstands again this week.
 
 [Introducing the Kubernetes Bug Bounty Program](https://www.cncf.io/blog/2020/01/14/introducing-the-kubernetes-bug-bounty-program/) — I am so happy that the Kubernetes bug bounty program has come to fruition.
 
