@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-01-26T07:00:00Z
-description = "Mozilla and DigitalOcean Layoffs, NSA discloses Windows vuln, Kubernetes Bug Bounty Program, PrivateBin, and more"
+description = ""
 draft = false
 slug = "164"
-tags = ["Kubernetes", "cloud native", "DevOps", "NSA", "Mozilla", "DigitalOcean", "bug bounty", "developers", "Microsoft", "Windows", "AWS", "layoffs", "chaos engineering", "Ansible", "governance", "infosec", "security", "pair programming", "postmortems", "Y2K"]
-title = "164: Mozilla and DigitalOcean Layoffs, NSA discloses Windows vuln, Kubernetes Bug Bounty Program, PrivateBin, and more"
+tags = []
+title = "164"
 
 +++
 
