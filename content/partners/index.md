@@ -16,7 +16,7 @@ DevOps'ish is a weekly newsletter covering DevOps, Cloud Native, Open Source, in
 
 [![Cronicle Press](cronicle-press.png)](https://cronicle.press/)
 
-[![O'Reilly](ba-affiliates-ORM-300x250.jpg)](https://www.oreilly.com/pub/cpc/295832)
+[![O'Reilly](oreilly.jpg)](https://www.oreilly.com/pub/cpc/295836)
 
 Thank you for your continued support!
 
