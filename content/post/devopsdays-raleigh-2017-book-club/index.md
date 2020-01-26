@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Commentary"]
+categories = ["Commentary", "2017"]
 date = 2017-10-10T02:00:00Z
 description = "As part of the Open Spaces at DevOpsDays Raleigh, the group decided to do a Book Club to share interesting books, podcasts, etc."
 draft = false
