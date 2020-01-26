@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-01-26T07:00:00Z
-description = ""
+description = "Your why, DevOps engineer interview questions, Managing the Hidden Costs of Coordination, kube-scan, funding rounds, and more"
 draft = false
 slug = "164"
-tags = []
-title = "164"
+tags = ["DevOps", "open source", "Kubernetes", "security", "infosec", "cloud", "cloud native", "open source software", "funding", "community", "AWS", "Microsoft", "Windows", "ChatOps", "elasticsearch", "IBM", "culture"]
+title = "164: Your why, DevOps engineer interview questions, Managing the Hidden Costs of Coordination, kube-scan, funding rounds, and more"
 
 +++
 
-On my last trip of 2019, I took a very important walk with a friend. We talked extensively about burnout and recognizing ways to recover and mitigate the stress of our lives. I left the conversation in a much more peaceful place having just talked about. But, I'm not sure my friend did. The other day they sent me a [Shonda Rhimes TED Talk](https://youtu.be/gmj-azFbpkA) that reminded them about my pledge a couple years ago to say yes to everything I could. This pledge elevated me in some ways but, it had a very high cost in others. Clearly this wasn't an exercise in achieving balance. But, the video really drove home the importance of the "Why?" behind what we're saying, "Yes" to. If we're constantly working ([on the weekend like usual](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc?si=KLc63v_nRE2dDfFqvtMBwQ)), what good is the time we have on this earth. You created value but, did you value what you created?
+On my last trip of 2019, I took a very important walk with a friend. We talked extensively about burnout and recognizing ways to recover and mitigate the stress of our lives. I left the conversation in a much more peaceful place having just talked about. But, I'm not sure my friend did. The other day they sent me a [Shonda Rhimes TED Talk](https://youtu.be/gmj-azFbpkA) that reminded them about my pledge a couple of years ago to say yes to everything I could. This pledge elevated me in some ways but, it had a very high cost in others. Clearly, this wasn't an exercise in achieving balance. But, the video really drove home the importance of the "Why?" behind what we're saying, "Yes" to. If we're constantly working ([on the weekend like usual](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc?si=KLc63v_nRE2dDfFqvtMBwQ)), what good is the time we have on this earth? You created value but, did you value what you created? *Figure out your why* and **strive to achieve balance**.
 
 ## Events
 
@@ -44,7 +44,7 @@ DevOpsDay LA is a technical conference covering topics of software development, 
 
 [ITHAKA’s Tom Bellinson Outlines The Blameless Postmortem](https://cronicle.press/2020/01/07/ithakas-tom-bellinson-outlines-the-blameless-postmortem/) — Systems thinking takes significant practice, indeed.
 
-[Managing the Hidden Costs of Coordination by Laura M.D. Maguire](https://queue.acm.org/detail.cfm?ref=rss&id=3380779) — "Poor design renders ChatOps nearly useless as a tool for sensemaking as people come into an evolving and increasingly pressured situation." 🔥🔥🔥 Grabs ChatOps book of shelf, lights it on fire, throws it in the snow. 🔥🔥🔥❄️❄️💨
+[Managing the Hidden Costs of Coordination by Laura M.D. Maguire](https://queue.acm.org/detail.cfm?ref=rss&id=3380779) — "Poor design renders ChatOps nearly useless as a tool for sensemaking as people come into an evolving and increasingly pressured situation." 🔥🔥🔥 Grabs ChatOps book off the shelf, lights it on fire, throws it in the snow. 🔥🔥🔥❄️❄️💨
 
 [Above the Line, Below the Line by Richard I. Cook, M.D.](https://queue.acm.org/detail.cfm?ref=rss&id=3380777) — "People working above the line of representation continuously build and refresh their models of what lies below the line. That activity is critical to the resilience of Internet-facing systems and the principal source of adaptive capacity."
 
@@ -98,3 +98,5 @@ There were several funding rounds this week in the cloud native space. Congrats 
 ## DevOps'ish Tweet of the Week
 
 {{< tweet 1218884804185350145 >}}
+
+{{< tweet 1221185059379646470 >}}
