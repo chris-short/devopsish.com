@@ -27,11 +27,11 @@ disableKinds = ["RSS"]
   disable_sri = true
 
   [params.sidebar]
-    About = "DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/)."
+    About = "DevOps'ish is a weekly newsletter assembled by open source professional, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador [Chris Short](https://chrisshort.net/)."
     num_recent_posts = 8
 
   [params.stats]
-    subscribers = "4,108"
+    subscribers = "4,118"
     avg_open_rate = "48%"
     avg_click_rate = "22%"
 
