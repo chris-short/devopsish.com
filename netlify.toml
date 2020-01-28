@@ -52,9 +52,3 @@ HUGO_ENABLEGITINFO = "true"
     Referrer-Policy = "no-referrer-when-downgrade"
 
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
-
-  for = "404.html"
-
-  [headers.values]
-    cache-control = '''
-    max-age=300'''
