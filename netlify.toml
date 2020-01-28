@@ -15,13 +15,13 @@ HUGO_VERSION = "0.56.3"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo --gc --buildFuture -b $DEPLOY_PRIME_URL"
+command = "hugo -v --gc --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.56.3"
 
 [context.branch-deploy]
-command = "hugo --gc -b $DEPLOY_PRIME_URL"
+command = "hugo -v --gc -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.56.3"
@@ -34,10 +34,6 @@ HUGO_ENABLEGITINFO = "true"
   for = "**/*"
 
   [headers.values]
-    cache-control = '''
-    404.html,
-    max-age=300'''
-
     cache-control = '''
     **/*.@(jpg|jpeg|gif|png|svg|css|js|eot|otf|ttf|ttc|woff*|pdf),
     /favicons/*,
@@ -57,3 +53,8 @@ HUGO_ENABLEGITINFO = "true"
 
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
 
+  for = "404.html"
+
+  [headers.values]
+    cache-control = '''
+    max-age=300'''
