@@ -47,11 +47,5 @@ HUGO_ENABLEGITINFO = "true"
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
 
 [[redirects]]
-  # By default, redirects won't be applied if there's a file with the same
-  # path as the one defined in the `from` property. Setting `force` to `true`
-  # will make the redirect rule take precedence over any existing files.
-  # https://docs.netlify.com/configure-builds/file-based-configuration/#sample-file
-  force = true
-
   # Redirect default Netlify subdomain to primary domain
   https://devopsish.netlify.com/* https://devopsish.com/:splat 301!
