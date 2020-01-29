@@ -16,13 +16,15 @@ HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo -v --gc --buildFuture -b $DEPLOY_PRIME_URL"
-
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.56.3"
+# Skip all post processing in deploy previews,
+# ignoring any other settings
+[context.deploy-preview.processing]
+  skip_processing = true
 
 [context.branch-deploy]
 command = "hugo -v --gc -b $DEPLOY_PRIME_URL"
-
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.56.3"
 
@@ -46,6 +48,23 @@ HUGO_ENABLEGITINFO = "true"
     Referrer-Policy = "no-referrer-when-downgrade"
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
 
+# https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing
+# If skip_processing = true, all other settings are ignored
+[build.processing]
+  skip_processing = false
+[build.processing.css]
+  bundle = true
+  minify = false
+[build.processing.js]
+  bundle = true
+  minify = false
+[build.processing.html]
+  pretty_urls = false
+[build.processing.images]
+  compress = true
+
 [[redirects]]
-# Redirect default Netlify subdomain to primary domain
-https://devopsish.netlify.com/* https://devopsish.com/:splat 301!
+  from = "https://devopsish.netlify.com/*"
+  to = "https://devopsish.com/:splat"
+  status = 301
+  force = true
