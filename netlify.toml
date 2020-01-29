@@ -38,17 +38,20 @@ HUGO_ENABLEGITINFO = "true"
     **/*.@(jpg|jpeg|gif|png|svg|css|js|eot|otf|ttf|ttc|woff*|pdf),
     /favicons/*,
     max-age=2764800'''
-
     Access-Control-Allow-Origin = "**/*.@(eot|otf|ttf|ttc|woff*|font.css)"
-
     X-Frame-Options = "SAMEORIGIN"
-
     Content-Security-Policy = "frame-ancestors 'self'"
-
     X-XSS-Protection = "1; mode=block"
-
     X-Content-Type-Options = "nosniff"
-
     Referrer-Policy = "no-referrer-when-downgrade"
-
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+
+[[redirects]]
+  # By default, redirects won't be applied if there's a file with the same
+  # path as the one defined in the `from` property. Setting `force` to `true`
+  # will make the redirect rule take precedence over any existing files.
+  # https://docs.netlify.com/configure-builds/file-based-configuration/#sample-file
+  force = true
+
+  # Redirect default Netlify subdomain to primary domain
+  https://devopsish.netlify.com/* https://devopsish.com/:splat 301!
