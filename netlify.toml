@@ -47,5 +47,5 @@ HUGO_ENABLEGITINFO = "true"
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
 
 [[redirects]]
-  # Redirect default Netlify subdomain to primary domain
-  https://devopsish.netlify.com/* https://devopsish.com/:splat 301!
+# Redirect default Netlify subdomain to primary domain
+https://devopsish.netlify.com/* https://devopsish.com/:splat 301!
