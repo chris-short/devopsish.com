@@ -31,33 +31,16 @@ HUGO_VERSION = "0.56.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[[headers]]
-  # Define which paths this specific [[headers]] block will cover.
-  for = "**/*"
-
-  [headers.values]
-    cache-control = '''
-    *.@(jpg|jpeg|gif|png|svg|css|js|eot|otf|ttf|ttc|woff*|pdf),
-    /favicons/*,
-    max-age=2764800'''
-    Access-Control-Allow-Origin = "**/*.@(eot|otf|ttf|ttc|woff*|font.css)"
-    X-Frame-Options = "SAMEORIGIN"
-    Content-Security-Policy = "frame-ancestors 'self'"
-    X-XSS-Protection = "1; mode=block"
-    X-Content-Type-Options = "nosniff"
-    Referrer-Policy = "no-referrer-when-downgrade"
-    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
-
 # https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing
 # If skip_processing = true, all other settings are ignored
 [build.processing]
   skip_processing = false
 [build.processing.css]
   bundle = true
-  minify = false
+  minify = true
 [build.processing.js]
   bundle = true
-  minify = false
+  minify = true
 [build.processing.html]
   pretty_urls = false
 [build.processing.images]
