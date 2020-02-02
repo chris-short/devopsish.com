@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-02-02T07:00:00Z
-description = ""
+description = "Change at IBM and Red Hat, flaunt your Kubernetes knowledge, WireGuard, Tailscale, Azure, nmap, podman, and more"
 draft = false
 slug = "165"
 tags = ["DevOps", "Kubernetes", "open source", "IBM", "Red Hat", "cloud", "cloud native", "Linux", "WireGuard", "Tailscale", "security", "scale", "engineer", "community", "nmap", "podman", "VPN", "Azure", "microservice", "Michigan", "Chinese", "coronavirus", "trends", "funding", "observability"]
-title = "165: Change at IBM and Red Hat, flaunt your Kubernetes knowledge, WireGuard, Tailscale, tech filling time during the coronavirus outbreak, Azure, nmap, podman, and more"
+title = "165: Change at IBM and Red Hat, flaunt your Kubernetes knowledge, WireGuard, Tailscale, Azure, nmap, podman, and more"
 
 +++
 
-A change at the helms of IBM and Red Hat are occuring in April [(IBM press release)](https://newsroom.ibm.com/2020-01-30-Arvind-Krishna-Elected-IBM-Chief-Executive-Officer). Ginni Rometty is retiring (after a short period as Executive Chairman). [Ginny is the only woman to have ever led IBM](https://www.washingtonpost.com/business/technology/ibm-ceos-over-the-century-first-and-only-woman-is-leaving/2020/01/30/643d0b86-43b6-11ea-99c7-1dfd4241a2fe_story.html) which is a feat all by itself. She had the unenviable job of leading IBM out of its funk too. [IBM had really good numbers this quarter](https://www.fool.com/investing/2020/01/29/ibm-is-big-blue-set-for-sustained-growth.aspx). Whether that continues remains to be seen but, it's noteworthy that it happened under Ginny's watch. It happened after she made her big move too; [one of the largest acquisitions ever](https://devopsish.com/ibm-red-hat-acquisition-index/). It's a little sad but we definitely knew it was going to happen at some point, [Jim Whitehurst is leaving Red Hat to take on the role of President of IBM](https://www.forbes.com/sites/jonobacon/2020/01/31/jim-whitehurst-becomes-president-of-ibm-why-he-gets-culture/#7a3611146394). It will be interesting to see what Jim can do in IBM's leadership. It will be interesting to see what happens in the Red Hat leadership too. It's going to be a fun, change filled year!
+A change at the helms of IBM and Red Hat are occurring in April [(IBM press release)](https://newsroom.ibm.com/2020-01-30-Arvind-Krishna-Elected-IBM-Chief-Executive-Officer). Ginni Rometty is retiring (after a short period as Executive Chairman). [Ginny is the only woman to have ever led IBM](https://www.washingtonpost.com/business/technology/ibm-ceos-over-the-century-first-and-only-woman-is-leaving/2020/01/30/643d0b86-43b6-11ea-99c7-1dfd4241a2fe_story.html) which is a feat all by itself. She had the unenviable job of leading IBM out of its funk too. [IBM had really good numbers this quarter](https://www.fool.com/investing/2020/01/29/ibm-is-big-blue-set-for-sustained-growth.aspx). Whether that continues remains to be seen but, it's noteworthy that it happened under Ginny's watch. It happened after she made her big move too; [one of the largest acquisitions ever](https://devopsish.com/ibm-red-hat-acquisition-index/). It's a little sad but we definitely knew it was going to happen at some point, [Jim Whitehurst is leaving Red Hat to take on the role of President of IBM](https://www.forbes.com/sites/jonobacon/2020/01/31/jim-whitehurst-becomes-president-of-ibm-why-he-gets-culture/#7a3611146394). It will be interesting to see what Jim can do in IBM's leadership. It will be interesting to see what happens in the Red Hat leadership too. It's going to be a fun, change filled year!
 
 {{< tweet 1223255909373239299 >}}
 
@@ -62,7 +62,7 @@ I'm speaking at the O'Reilly Infrastructure & Ops Conference this year. But, did
 
 [Is everything OK over there, Britain? Have you tried turning the UK off and on again? ISPs, financial orgs fall over in Freaky Friday of outages](https://www.theregister.co.uk/2020/01/31/uk_internet_outages/) — Brexit happened on Friday and for a while there it seemed like it really was gonna be a hard one as outage after outage occurred.
 
-[Latest Jepsen Results against etcd 3.4.3](https://etcd.io/blog/jepsen-343-results/) — Jepsen highlighted some areas of improvement and strenghts of the be~~loave~~loved `etcd`.
+[Latest Jepsen Results against etcd 3.4.3](https://etcd.io/blog/jepsen-343-results/) — Jepsen highlighted some areas of improvement and strengths of the be~~loave~~loved `etcd`.
 
 [How we retired Python 2 and improved developer happiness](https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness) — Some great knowledge being shared in this piece. Some very real lessons learned.
 
@@ -102,11 +102,11 @@ I'm speaking at the O'Reilly Infrastructure & Ops Conference this year. But, did
 
 [Tekton in 2020 and beyond!](https://cd.foundation/blog/2020/01/28/tekton-in-2020-and-beyond/) — Tekton had a big 2019 and is showing mad love to the folks that made it all happen.
 
-[Scheduled PostgreSQL Backups and Retention Policies with Kubernetes](https://info.crunchydata.com/blog/schedule-postgresql-backups-and-retention-with-kubernetes) — Jonathan Katz: When it comes to advice on running databases on Kubernetes, accept no substitutes.
+[Scheduled PostgreSQL Backups and Retention Policies with Kubernetes](https://info.crunchydata.com/blog/schedule-postgresql-backups-and-retention-with-kubernetes) — Jonathan Katz: When it comes to advising on running databases on Kubernetes, accept no substitutes.
 
 [Operator SDK: Getting Started Guide](https://keithtenzer.com/2020/01/27/openshift-operator-sdk-getting-started-guide/) — This walkthrough is amazing. Operators are super powerful and the fact that a lot of the scaffolding is built out by the Operator SDK really makes it worth the time it takes to learn the concepts.
 
-[Kronos-Android: Easy NTP](https://eng.lyft.com/kronos-android-easy-ntp-d44fd6ece9c5) — Lyft taught me that Android devices have an insane time drift across the diverse landscape of devices using it. They built their own solution, Easy NTP, to solve the problem around the time offset that would make for minutes of time time differences between drivers and riders.
+[Kronos-Android: Easy NTP](https://eng.lyft.com/kronos-android-easy-ntp-d44fd6ece9c5) — Lyft taught me that Android devices have an insane time drift across the diverse landscape of devices using it. They built their own solution, Easy NTP, to solve the problem around the time offset that would make for minutes of time differences between drivers and riders.
 
 [ibuildthecloud/klum](https://github.com/ibuildthecloud/klum) — Kubernetes Lazy User Manager
 
