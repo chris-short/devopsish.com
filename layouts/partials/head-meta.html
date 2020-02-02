@@ -41,7 +41,7 @@
     {{ .Hugo.Generator -}}
     <!-- Links and stylesheets -->
     <link rel="canonical" href="{{ .Permalink }}" />
-    <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet" type="text/css"{{ if not .Site.Params.disable_sri }} integrity="{{ .Site.Data.sri.style}}" crossorigin="anonymous"{{ end }}>
+    <link href="/css/style.css" rel="stylesheet" type="text/css"{{ if not .Site.Params.disable_sri }} integrity="{{ .Site.Data.sri.style}}" crossorigin="anonymous"{{ end }}>
 
   {{- with .Site.Params.favicon }}
     <link href="{{ . | absURL }}" rel="icon" type="image/x-icon" />
