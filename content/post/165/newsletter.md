@@ -6,8 +6,8 @@ date = 2020-02-02T07:00:00Z
 description = ""
 draft = false
 slug = "165"
-tags = []
-title = "165"
+tags = ["DevOps", "Kubernetes", "open source", "IBM", "Red Hat", "cloud", "cloud native", "Linux", "WireGuard", "Tailscale", "security", "scale", "engineer", "community", "nmap", "podman", "VPN", "Azure", "microservice", "Michigan", "Chinese", "coronavirus", "trends", "funding", "observability"]
+title = "165: Change at IBM and Red Hat, flaunt your Kubernetes knowledge, WireGuard, Tailscale, tech filling time during the coronavirus outbreak, Azure, nmap, podman, and more"
 
 +++
 
