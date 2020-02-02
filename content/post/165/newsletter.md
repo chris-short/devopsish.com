@@ -11,8 +11,6 @@ title = "165"
 
 +++
 
-Well... There's no dodging this one...
-
 A change at the helms of IBM and Red Hat are occuring in April [(IBM press release)](https://newsroom.ibm.com/2020-01-30-Arvind-Krishna-Elected-IBM-Chief-Executive-Officer). Ginni Rometty is retiring (after a short period as Executive Chairman). [Ginny is the only woman to have ever led IBM](https://www.washingtonpost.com/business/technology/ibm-ceos-over-the-century-first-and-only-woman-is-leaving/2020/01/30/643d0b86-43b6-11ea-99c7-1dfd4241a2fe_story.html) which is a feat all by itself. She had the unenviable job of leading IBM out of its funk too. [IBM had really good numbers this quarter](https://www.fool.com/investing/2020/01/29/ibm-is-big-blue-set-for-sustained-growth.aspx). Whether that continues remains to be seen but, it's noteworthy that it happened under Ginny's watch. It happened after she made her big move too; [one of the largest acquisitions ever](https://devopsish.com/ibm-red-hat-acquisition-index/). It's a little sad but we definitely knew it was going to happen at some point, [Jim Whitehurst is leaving Red Hat to take on the role of President of IBM](https://www.forbes.com/sites/jonobacon/2020/01/31/jim-whitehurst-becomes-president-of-ibm-why-he-gets-culture/#7a3611146394). It will be interesting to see what Jim can do in IBM's leadership. It will be interesting to see what happens in the Red Hat leadership too. It's going to be a fun, change filled year!
 
 {{< tweet 1223255909373239299 >}}
