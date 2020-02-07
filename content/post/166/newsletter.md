@@ -32,7 +32,7 @@ I'm speaking at the O'Reilly Infrastructure & Ops Conference this year. But, did
 
 ## People
 
-PEOPLE
+[The Plucky Astromech Droid - A Star Wars DevRel Story](https://dev.to/jaydestro/the-plucky-astromech-droid-a-star-wars-devrel-story-3nhd) — My buddy, Jay Gordon, is a Senior Cloud Ops Advocate for Microsoft. He's written a piece about where he fits into the greater universe.
 
 ## Process
 
