@@ -6,7 +6,7 @@ date = 2019-06-02T07:00:00Z
 description = "So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More"
 draft = false
 slug = "130"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "Ansible", "cloud native", "Huawei", "China"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "Ansible", "cloud native", "Huawei", "China", "Kubernetes Operators"]
 title = "130: So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More"
 
 +++

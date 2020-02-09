@@ -6,7 +6,7 @@ date = 2019-01-27T07:00:00Z
 description = "Kubernetes Any Way You Want It, Passing the CKA, GitOps, Joy Sparking Meetings, Processes, Containers, and VMs. Oh My! and More"
 draft = false
 slug = "112"
-tags = ["kubernetes", "docker", "devops", "open source", "cloud", "tech", "github", "cloud native", "ansible", "container", "security", "curl", "minikube", "CI/CD"]
+tags = ["kubernetes", "docker", "devops", "open source", "cloud", "tech", "github", "cloud native", "ansible", "container", "security", "curl", "minikube", "CI/CD", "Kubernetes Operators"]
 title = "112: Kubernetes Any Way You Want It, Passing the CKA, GitOps, Joy Sparking Meetings, Processes, Containers, and VMs. Oh My! and More"
 
 +++

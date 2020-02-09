@@ -6,7 +6,7 @@ date = 2019-05-12T07:00:00Z
 description = "Mother's Day, What is DevOps, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More"
 draft = false
 slug = "127"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "infrastructure", "git", "GitHub", "event driven", "UBI", "KEDA", "Oracle", "Windows", "Mother's Day"]
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "infrastructure", "git", "GitHub", "event driven", "UBI", "KEDA", "Oracle", "Windows", "Mother's Day", "Kubernetes Operators"]
 title = "127: Mother's Day, What is DevOps, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More"
 
 +++
