@@ -6,12 +6,10 @@ date = 2020-02-09T07:00:00Z
 description = "Change at IBM and Red Hat, flaunt your Kubernetes knowledge, WireGuard, Tailscale, Azure, nmap, podman, and more"
 draft = false
 slug = "166"
-tags = ["Knative"]
-title = "166: Knative annual report"
+tags = ["Knative", "Kubernetes", "cloud native", "open source", "cloud", "scale", "operators", "container", "observability", "infrastructure", "Linux", "GitLab", "cdpwn", "Cisco Discovery Protocal", "CDP", "VMware"]
+title = "166: Knative annual report, CKA prep, cdpwn, sudo vuln, Kubernetes Operators, Konveyor, Apollo 11 vs USB-C Chargers, and more"
 
 +++
-
-INTRO
 
 ## Events
 
