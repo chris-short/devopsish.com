@@ -6,7 +6,7 @@ date = 2019-12-09T07:00:00Z
 description = "Kubernetes, BPF, container security, re:Invent, PagerDuty, .org debacle, and more"
 draft = false
 slug = "157"
-tags = ["Kubernetes", "DevOps", "cloud", "cloud native", "reinvent", "community", "open source", "security", "AWS", "developers", "remote", "DevOps news", "software", "PagerDuty"]
+tags = ["Kubernetes", "DevOps", "cloud", "cloud native", "reinvent", "community", "open source", "security", "AWS", "developers", "remote", "DevOps news", "software", "PagerDuty", "Kubernetes Operators"]
 title = "157: Kubernetes, BPF, container security, re:Invent, PagerDuty, .org debacle, and more"
 
 +++
