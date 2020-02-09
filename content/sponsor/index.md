@@ -39,8 +39,7 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 
 ### Example Ad
 
-[Calling all DevOps Advocates](http://bit.ly/DevOpsIsh)  
-Does the idea of helping software professionals build and deploy modern cloud software faster and more collaboratively excite you? Pulumi is looking for a passionate Developer Advocate to build a community outreach program that will help devs and ops folks build innovative cloud software together using their open source infrastructure as code platform. [Join the team today](http://bit.ly/DevOpsIsh)! *SPONSORED*
+[Open Source-based Cloud Observability](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) — Do you prefer using open source tools like ELK and Grafana for observability? Do you wish the tools could be just a little bit easier to use together at scale? Logz.io’s [cloud observability platform](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) provides a high-powered ELK and Grafana as an integrated, fully managed service, so you can simplify monitoring, troubleshooting and security for your production environment with the open source tools you love, at the scale you need. [Learn more here](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt)! *SPONSORED*
 
 ## How do we get started
 

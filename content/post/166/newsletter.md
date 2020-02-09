@@ -62,8 +62,7 @@ I'm speaking at the O'Reilly Infrastructure & Ops Conference this year. But, did
 
 ## Tools
 
-**Open Source-based Cloud Observability**  
-Do you prefer using open source tools like ELK and Grafana for observability? Do you wish the tools could be just a little bit easier to use together at scale? Logz.io’s [cloud observability platform](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) provides a high-powered ELK and Grafana as an integrated, fully managed service, so you can simplify monitoring, troubleshooting and security for your production environment with the open source tools you love, at the scale you need. [Learn more here](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt)! *SPONSORED*
+[Open Source-based Cloud Observability](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) — Do you prefer using open source tools like ELK and Grafana for observability? Do you wish the tools could be just a little bit easier to use together at scale? Logz.io’s [cloud observability platform](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) provides a high-powered ELK and Grafana as an integrated, fully managed service, so you can simplify monitoring, troubleshooting and security for your production environment with the open source tools you love, at the scale you need. [Learn more here](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt)! *SPONSORED*
 
 [O’Reilly: Kubernetes Operators: Automating the Container Orchestration Platform](https://cshort.co/2w1FGIk) — ***FREE eBook!!!*** my fellow Red Hatters, Jason Dobies and Joshua Wood, worked really hard to write this book about Kubernetes Operators. Page fifty-six (56) is where the coverage of my favorite Kubernetes Operators starts: Ansible Operators.
 
