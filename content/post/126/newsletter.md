@@ -6,7 +6,7 @@ date = 2019-05-05T07:00:00Z
 description = "Ransom Attacks Hit Git, Managing Many Clusters, Kubernetes Failure Stories, Ansible-based Kubernetes Operators, Deadlines are Horrible, and More"
 draft = false
 slug = "126"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "Red Hat", "docker", "ansible", "Ansible-based Operators", "logo", "AWS", "Amazon Web Services", "clusters", "infrastructure", "git", "GitHub", "GitLab"]
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "Red Hat", "docker", "ansible", "Ansible-based Operators", "logo", "AWS", "Amazon Web Services", "clusters", "infrastructure", "git", "GitHub", "GitLab", "Kubernetes Operators"]
 title = "126: Ransom Attacks Hit Git, Managing Many Clusters, Kubernetes Failure Stories, Ansible-based Kubernetes Operators, Deadlines are Horrible, & More"
 
 +++

@@ -6,7 +6,7 @@ date = 2019-12-02T07:00:00Z
 description = "156"
 draft = false
 slug = "156"
-tags = ["Kubernetes", "KubeCon", "DevOps", "cloud", "cloud native", "open source", "developers", "VMware", "git", "Ansible", "AWS", "security", "Operator", "community"]
+tags = ["Kubernetes", "KubeCon", "DevOps", "cloud", "cloud native", "open source", "developers", "VMware", "git", "Ansible", "AWS", "security", "Operator", "community", "Kubernetes Operators"]
 title = "156: KubeCon analysis, Kubernetes security, ‘learn-it-alls’, AWX Kubernetes Operator, and more"
 
 +++

@@ -6,7 +6,7 @@ date = 2019-10-06T07:00:00Z
 description = "SysAdvent signup, Corey Quinn isn't irrelevant, testing in prod, Kubernetes Controllers, VMware Tanzu, and more"
 draft = false
 slug = "148"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Ansible", "community", "Red Hat", "Docker Inc"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Ansible", "community", "Red Hat", "Docker Inc", "Kubernetes Operators"]
 title = "148: SysAdvent signup, Corey Quinn isn't irrelevant, testing in prod, Kubernetes Controllers, VMware Tanzu, and more"
 
 +++
