@@ -21,25 +21,28 @@ SCaLE 18x – the 18th annual Southern California Linux Expo – will take place
 March 6, 2020  
 DevOpsDay LA is a technical conference covering topics of software development, IT infrastructure operations, and the intersection between them.
 
-[Kubernetes Contributor Summit Europe](https://events.linuxfoundation.org/kubernetes-contributor-summit-europe/) — Come learn some Kubernetes with me from some of the best people on earth to teach it. Also, get real work done in the community with folks right there in the room with you!
+[Kubernetes Contributor Summit Europe](https://events.linuxfoundation.org/kubernetes-contributor-summit-europe/)
+Come learn some Kubernetes with me from some of the best people on earth to teach it. Also, get real work done in the community with folks right there in the room with you!
 
 [A few days can make a lasting impact.](https://www.oreilly.com/pub/cpc/295841)  
 I'm speaking at the O'Reilly Infrastructure & Ops Conference this year. But, did you know O'Reilly has a series of conferences geared towards every DevOps'ish reader? Did you know you can speak at these conferences too? Have a look and see what might interest you. *SPONSORED*
 
 ## People
 
-PEOPLE
+{{< tweet 1225910196813357056 >}}
 
 ## Process
 
-PROCESS
+[Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+A high level look at how infrastructure changes should occur as you scale. Note that splitting frontend and database is step one.
 
 ## Tools
 
-[Open Source-based Cloud Observability](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) — Do you prefer using open source tools like ELK and Grafana for observability? Do you wish the tools could be just a little bit easier to use together at scale? Logz.io’s [cloud observability platform](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) provides a high-powered ELK and Grafana as an integrated, fully managed service, so you can simplify monitoring, troubleshooting and security for your production environment with the open source tools you love, at the scale you need. [Learn more here](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt)! *SPONSORED*
+[Open Source-based Cloud Observability](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt)
+Do you prefer using open source tools like ELK and Grafana for observability? Do you wish the tools could be just a little bit easier to use together at scale? Logz.io’s [cloud observability platform](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) provides a high-powered ELK and Grafana as an integrated, fully managed service, so you can simplify monitoring, troubleshooting and security for your production environment with the open source tools you love, at the scale you need. [Learn more here](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt)! *SPONSORED*
 
 TOOLS
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1225445956734390273 >}}
+{{< tweet 1226183144786685952 >}}
