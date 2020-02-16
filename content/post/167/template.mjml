@@ -98,32 +98,32 @@
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">Tools</h2>
-<p><a href="https://www.zdnet.com/article/python-programming-language-now-you-can-take-nsas-free-course-for-beginners/">Python programming language: Now you can take NSA&rsquo;s free course for beginners</a><br />
-Obtained through a FOIA request, NSA&rsquo;s Python course COMP 3221 is now available.</p>
+          <p><a href="https://www.zdnet.com/article/python-programming-language-now-you-can-take-nsas-free-course-for-beginners/">Python programming language: Now you can take NSA&rsquo;s free course for beginners</a><br />
+            Obtained through a FOIA request, NSA&rsquo;s Python course COMP 3221 is now available.</p>
 
-<p><a href="https://anthonyspiteri.net/visual-studio-code-ssh-client/">Visual Studio Code is now my Default SSH Client and Linux file Editor!</a><br />
-I hear the Remote Development extension for VScode is dope. I installed it and it immediately read my SSH config and did a <code>docker ps</code>. This is nifty and going to come in handy. Thank you, Anthony Spiteri.</p>
+          <p><a href="https://anthonyspiteri.net/visual-studio-code-ssh-client/">Visual Studio Code is now my Default SSH Client and Linux file Editor!</a><br />
+            I hear the Remote Development extension for VScode is dope. I installed it and it immediately read my SSH config and did a <code>docker ps</code>. This is nifty and going to come in handy. Thank you, Anthony Spiteri.</p>
 
-<p><a href="https://next.redhat.com/2020/02/10/kiali-an-observability-platform-for-istio/">Kiali: An observability platform for Istio</a><br />
-Kiali is a graphical dashboard, visualization tool, and user interface for Istio. It allows you to view and modify the Istio configuration for your application directly in your web browser, and to visualize the behavior of your application.</p>
+          <p><a href="https://next.redhat.com/2020/02/10/kiali-an-observability-platform-for-istio/">Kiali: An observability platform for Istio</a><br />
+            Kiali is a graphical dashboard, visualization tool, and user interface for Istio. It allows you to view and modify the Istio configuration for your application directly in your web browser, and to visualize the behavior of your application.</p>
 
-<p><a href="https://www.datadoghq.com/dg/monitor/kubernetes-monitoring-benefits/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter01&amp;utm_content=Kubernetes">Dynamic Kubernetes Monitoring</a><br />
-Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the Container Map to group, filter, and explore your containers, and the Live Container view to investigate the metrics and processes of individual containers. Try Datadog in your environment with a free 14-day trial. <em>SPONSORED</em></p>
+          <p><a href="https://www.datadoghq.com/dg/monitor/kubernetes-monitoring-benefits/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter01&amp;utm_content=Kubernetes">Dynamic Kubernetes Monitoring</a><br />
+            Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the Container Map to group, filter, and explore your containers, and the Live Container view to investigate the metrics and processes of individual containers. Try Datadog in your environment with a free 14-day trial. <em>SPONSORED</em></p>
 
-<p><a href="https://itnext.io/google-cloud-advantages-over-aws-28751469e570">Google Cloud Advantages over AWS</a><br />
-&ldquo;This post is not about GCP vs. AWS&hellip; This post is a short summary of the advantages of GCP over AWS.&rdquo; I agree that the network is fast af.</p>
+          <p><a href="https://itnext.io/google-cloud-advantages-over-aws-28751469e570">Google Cloud Advantages over AWS</a><br />
+            &ldquo;This post is not about GCP vs. AWS&hellip; This post is a short summary of the advantages of GCP over AWS.&rdquo; I agree that the network is fast af.</p>
 
-<p><a href="https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/">Supercharge your command line experience: GitHub CLI is now in beta</a><br />
-&ldquo;Millions of developers rely on GitHub to make building software more fun and collaborative, and <code>gh</code> brings the GitHub experience right to your terminal.&rdquo;</p>
+          <p><a href="https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/">Supercharge your command line experience: GitHub CLI is now in beta</a><br />
+            &ldquo;Millions of developers rely on GitHub to make building software more fun and collaborative, and <code>gh</code> brings the GitHub experience right to your terminal.&rdquo;</p>
 
-<p><a href="https://www.haproxy.com/blog/rolling-updates-and-blue-green-deployments-with-kubernetes-and-haproxy/">Rolling Updates and Blue-Green Deployments with Kubernetes and HAProxy</a><br />
-&ldquo;The HAProxy Kubernetes Ingress Controller supports two popular deployment patterns for updating applications in Kubernetes: rolling updates and blue-green deployments.&rdquo;</p>
+          <p><a href="https://www.haproxy.com/blog/rolling-updates-and-blue-green-deployments-with-kubernetes-and-haproxy/">Rolling Updates and Blue-Green Deployments with Kubernetes and HAProxy</a><br />
+            &ldquo;The HAProxy Kubernetes Ingress Controller supports two popular deployment patterns for updating applications in Kubernetes: rolling updates and blue-green deployments.&rdquo;</p>
 
-<p><a href="https://www.welcometothejungle.com/en/articles/btc-history-git">The History of Git: The Road to Domination</a><br />
-&ldquo;In 2005, Linus Torvalds urgently needed a new version control system to maintain the development of the Linux Kernel&hellip; Fifteen years later, the platform is the undisputed leader in a crowded field.&rdquo;</p>
+          <p><a href="https://www.welcometothejungle.com/en/articles/btc-history-git">The History of Git: The Road to Domination</a><br />
+            &ldquo;In 2005, Linus Torvalds urgently needed a new version control system to maintain the development of the Linux Kernel&hellip; Fifteen years later, the platform is the undisputed leader in a crowded field.&rdquo;</p>
 
-<p><a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Pipe-Parallel-Job-Opt">Linus Torvalds Just Made A Big Optimization To Help Code Compilation Times On Big CPUs</a><br />
-GNU Make is about to get faster in Linux 5.6 on large core count systems.</p>
+          <p><a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Pipe-Parallel-Job-Opt">Linus Torvalds Just Made A Big Optimization To Help Code Compilation Times On Big CPUs</a><br />
+            GNU Make is about to get faster in Linux 5.6 on large core count systems.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -155,7 +155,7 @@ GNU Make is about to get faster in Linux 5.6 on large core count systems.</p>
     <mj-section>
       <mj-column width="100%">
         <mj-text align="center">
-          <p><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a></p>
+          <p style="font-size:12px"><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a></p>
           <p style="font-size:12px">Want to change how you receive these emails?<br />
             You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
         </mj-text>
