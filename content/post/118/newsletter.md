@@ -6,7 +6,7 @@ date = 2019-03-10T07:00:00Z
 description = "Kubernetes, People, Say AMI, Ghidra, Terraform, Git, OperatorHub, and More"
 draft = false
 slug = "118"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "Ghidra", "Terraform", "docker", "azure", "operator", "Docker Inc"]
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "Ghidra", "Terraform", "docker", "azure", "operator", "Docker Inc", "Linus Torvalds"]
 title = "118: Kubernetes, People, Say AMI, Ghidra, Terraform, Git, OperatorHub, and More"
 
 +++

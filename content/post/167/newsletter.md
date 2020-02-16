@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-02-16T07:00:00Z
-description = ""
+description = "Kubernetes team secrets, Amazon bending CAP Theorem, JEDI chokes Microsoft, GitHub CLI tool, Kiali the Istio dashboard tool, coding bootcamp scams, and more"
 draft = false
 slug = "167"
-tags = []
+tags = ["Kubernetes", "DevOps", "cloud", "cloud native", "open source", "Amazon", "CAP Theorem", "JEDI", "exhaustion", "exhausted", "infrastructure", "Microsoft", "container", "Linux", "Istio", "GitHub", "coding bootcamp", "Kiali", "debt", "funding", "database", "Datadog", "Python", "VScode", "SSH", "Google", "HAProxy", "Linus Torvalds"]
 title = "DevOps'ish 167 — 16 Feb 2020"
 
 +++
@@ -36,21 +36,18 @@ An amazing breakdown of what the Australian Transport Safety Bureau (ATSB) got w
 A high level look at how infrastructure changes should occur as you scale. Note that splitting frontend and database is step one.
 
 [Debt is Coming](https://alexdanco.com/2020/02/07/debt-is-coming/)  
-The SaaS model is going to open doors to funding things with debt as the value of the cashflow itself becomes the thing that people work to monetize. To some people, companies make money, not products. That perspective changes your view of the world.
+The SaaS model is going to open doors to funding things with debt as the value of the cash flow itself becomes the thing that people work to monetize. To some people, companies make money, not products. That perspective changes your view of the world.
 
 [Amazon Found Every 100ms of Latency Cost them 1% in Sales](https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/)  
 Having infrastructure isn't good enough. Measuring, researching, and making improvements iteratively should always be a part of your life.
 
 [Amazon EBS addresses the challenge of the CAP Theorem at scale](https://www.amazon.science/blog/amazon-ebs-addresses-the-challenge-of-the-cap-theorem-at-scale)  
-I'm sure Corey Quinn will have smarter things to say about this. But, basically if you have enough infrastructure to host Netflix you can pretty much do with CAP Theorem it would seem. Also, putting the database closer to the work being done helps.
+I'm sure Corey Quinn will have smarter things to say about this. But, if you have enough infrastructure to host Netflix you can pretty much do away with CAP Theorem. Also, putting the database closer to the work being done helps.
 
 [Microsoft sees $17 billion of market value erased in just 5 minutes after a judge grants Amazon's request to block a key cloud contract](https://markets.businessinsider.com/news/stocks/microsoft-stock-price-17-billion-erased-judge-blocks-cloud-contract-2020-2-1028904685)  
-Amazon won an injunction that forced Microsoft and DoD to stop work on the $10 billion JEDI contract. The stock market responded by wiping out $17 billion of Microsoft' market cap.
+Amazon won an injunction that forced Microsoft and DoD to stop work on the $10 billion JEDI contract. The stock market responded by wiping out $17 billion of Microsoft's market cap.
 
 ## Tools
-
-[Dynamic Kubernetes Monitoring](https://www.datadoghq.com/dg/monitor/kubernetes-monitoring-benefits/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=DevOpsish-Newsletter01&utm_content=Kubernetes)  
-Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the Container Map to group, filter, and explore your containers, and the Live Container view to investigate the metrics and processes of individual containers. Try Datadog in your environment with a free 14-day trial. *SPONSORED*
 
 [Python programming language: Now you can take NSA's free course for beginners](https://www.zdnet.com/article/python-programming-language-now-you-can-take-nsas-free-course-for-beginners/)  
 Obtained through a FOIA request, NSA's Python course COMP 3221 is now available.
@@ -59,7 +56,10 @@ Obtained through a FOIA request, NSA's Python course COMP 3221 is now available.
 I hear the Remote Development extension for VScode is dope. I installed it and it immediately read my SSH config and did a `docker ps`. This is nifty and going to come in handy. Thank you, Anthony Spiteri.
 
 [Kiali: An observability platform for Istio](https://next.redhat.com/2020/02/10/kiali-an-observability-platform-for-istio/)  
-Kiali is a graphical dashboard, visualization tool, and user interface for Istio. It allows you to view and modify the Istio configuration for your application directly in your web browser, and to visualize the behaviour of your application.
+Kiali is a graphical dashboard, visualization tool, and user interface for Istio. It allows you to view and modify the Istio configuration for your application directly in your web browser, and to visualize the behavior of your application.
+
+[Dynamic Kubernetes Monitoring](https://www.datadoghq.com/dg/monitor/kubernetes-monitoring-benefits/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=DevOpsish-Newsletter01&utm_content=Kubernetes)  
+Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the Container Map to group, filter, and explore your containers, and the Live Container view to investigate the metrics and processes of individual containers. Try Datadog in your environment with a free 14-day trial. *SPONSORED*
 
 [Google Cloud Advantages over AWS](https://itnext.io/google-cloud-advantages-over-aws-28751469e570)  
 "This post is not about GCP vs. AWS... This post is a short summary of the advantages of GCP over AWS." I agree that the network is fast af.
