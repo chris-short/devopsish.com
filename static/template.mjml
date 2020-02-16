@@ -144,6 +144,7 @@
     <mj-section>
       <mj-column width="100%">
         <mj-text align="center">
+          <p><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a></p>
           <p style="font-size:12px">Want to change how you receive these emails?<br />
             You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
         </mj-text>
