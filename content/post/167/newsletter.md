@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-02-16T07:00:00Z
-description = "Kubernetes team secrets, Amazon bending CAP Theorem, JEDI chokes Microsoft, GitHub CLI tool, Kiali the Istio dashboard tool, coding bootcamp scams, and more"
+description = "Kubernetes team secrets, Amazon bending CAP Theorem, JEDI chokes Microsoft, GitHub CLI, Kiali the Istio dashboard, coding bootcamp scams, and more"
 draft = false
 slug = "167"
 tags = ["Kubernetes", "DevOps", "cloud", "cloud native", "open source", "Amazon", "CAP Theorem", "JEDI", "exhaustion", "exhausted", "infrastructure", "Microsoft", "container", "Linux", "Istio", "GitHub", "coding bootcamp", "Kiali", "debt", "funding", "database", "Datadog", "Python", "VScode", "SSH", "Google", "HAProxy", "Linus Torvalds"]
-title = "DevOps'ish 167 — 16 Feb 2020"
+title = "DevOps'ish 167"
 
 +++
 
