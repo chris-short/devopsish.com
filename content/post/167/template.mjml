@@ -1,0 +1,166 @@
+<mjml>
+  <mj-head>
+    <mj-title>DevOps'ish Weekly Newsletter</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="20px 0">
+      <mj-column width="100%">
+        <mj-image href="https://devopsish/?utm_source=newsletter&utm_medium=email&utm_campaign=logo" src="https://devopsish.com/img/DevOpsish-Wide.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">DevOps'ish is assembled by open source professional, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador Chris Short</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 167</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider border-width="2px" border-color="#616161" width="50%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p>Welcome!</p>
+          <p>I got up this morning and was quickly exhausted from pain. I had noticed this exhausted feeling earlier in the week. It was the day of a doctor’s appointment to get injections to fix the mentally distracting nature of constant, chronic pain. I discovered <a href="https://burnoutindex.org/">burnoutindex.org</a>, which is a nine-question test to give you an idea of your main risk factors of burnout. My two key elements are self-inefficacy and exhaustion (<a href="../pdf/Chris-Short-Global-IT-Burnout-Index.pdf">see my burnout report</a>). I’ve proven that this exhausted feeling is a real thing; what do I do about it? According to this, I need to figure out what my sources of energy are and bulk up on them while working to figure out what work-related urgencies are overwhelming. I think my problem is that I feel like I’m often trying to move a celestial body into or out of an orbit. The force, effort, time, and energy this requires is enormous. Of course, if you feel like the weight of the world is on you, exhaustion is a natural outcome. I have to remember that I’m sitting behind a keyboard and that I am only human. Hopefully, this too shall pass.</p>
+          <p>Without further ado, let's get on with this week's newsletter. Tell me what you think. I'm nothing without feedback. Also, don't forget to support the sponsors.</p>
+          <p>Events and Notes are available on <a href="https://devopsish/?utm_source=newsletter&utm_medium=email&utm_campaign=events-notes">devopsish.com</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">People</h2>
+          <p><a href="https://ncase.me/trust/">The Evolution of Trust</a><br />
+            A beautiful and easy to digest game explaining game theory and to help fix our &ldquo;epidemic of distrust.&rdquo; You had me at trench warfare.</p>
+
+          <p><a href="https://enterprisersproject.com/article/2020/2/kubernetes-6-secrets-success">Kubernetes: 6 secrets of successful teams</a><br />
+            Here are six significant things that high-performing teams do when successfully running Kubernetes in production</p>
+
+          <p><a href="https://www.theverge.com/2020/2/11/21131848/lambda-school-coding-bootcamp-isa-tuition-cost-free">Lambda School: the high cost of a free coding bootcamp</a><br />
+            The coding bootcamp is turning into an exploitative venture. I know a lot of people that went to them. But, I don&rsquo;t think any of them told me they got a lot out of it.</p>
+
+          <p><a href="https://upshotstories.com/stories/why-i-contribute-to-the-open-source-community-and-you-should-too">Why I Contribute to the Open Source Community—and You Should Too</a><br />
+            &ldquo;I made up for the shaky foundations provided by my foster residences by building the bedrock of a new reality through coding.&rdquo; My buddy and fellow veteran Marky Jackson provides a must read this week.</p>
+
+          <p><a href="https://safetydifferently.com/you-see-pilot-error-i-see-normal-work/">You see pilot error, I see normal work</a><br />
+            An amazing breakdown of what the Australian Transport Safety Bureau (ATSB) got wrong about a Jetstar Airways flight that had to do two go-arounds.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Process</h2>
+          <p><a href="https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html">Scaling to 100k Users</a><br />
+            A high level look at how infrastructure changes should occur as you scale. Note that splitting frontend and database is step one.</p>
+
+          <p><a href="https://alexdanco.com/2020/02/07/debt-is-coming/">Debt is Coming</a><br />
+            The SaaS model is going to open doors to funding things with debt as the value of the cash flow itself becomes the thing that people work to monetize. To some people, companies make money, not products. That perspective changes your view of the world.</p>
+
+          <p><a href="https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/">Amazon Found Every 100ms of Latency Cost them 1% in Sales</a><br />
+            Having infrastructure isn&rsquo;t good enough. Measuring, researching, and making improvements iteratively should always be a part of your life.</p>
+
+          <p><a href="https://www.amazon.science/blog/amazon-ebs-addresses-the-challenge-of-the-cap-theorem-at-scale">Amazon EBS addresses the challenge of the CAP Theorem at scale</a><br />
+            I&rsquo;m sure Corey Quinn will have smarter things to say about this. But, if you have enough infrastructure to host Netflix you can pretty much do away with CAP Theorem. Also, putting the database closer to the work being done helps.</p>
+
+          <p><a href="https://markets.businessinsider.com/news/stocks/microsoft-stock-price-17-billion-erased-judge-blocks-cloud-contract-2020-2-1028904685">Microsoft sees $17 billion of market value erased in just 5 minutes after a judge grants Amazon&rsquo;s request to block a key cloud contract</a><br />
+            Amazon won an injunction that forced Microsoft and DoD to stop work on the $10 billion JEDI contract. The stock market responded by wiping out $17 billion of Microsoft&rsquo;s market cap.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Tools</h2>
+          <p><a href="https://www.zdnet.com/article/python-programming-language-now-you-can-take-nsas-free-course-for-beginners/">Python programming language: Now you can take NSA&rsquo;s free course for beginners</a><br />
+            Obtained through a FOIA request, NSA&rsquo;s Python course COMP 3221 is now available.</p>
+
+          <p><a href="https://anthonyspiteri.net/visual-studio-code-ssh-client/">Visual Studio Code is now my Default SSH Client and Linux file Editor!</a><br />
+            I hear the Remote Development extension for VScode is dope. I installed it and it immediately read my SSH config and did a <code>docker ps</code>. This is nifty and going to come in handy. Thank you, Anthony Spiteri.</p>
+
+          <p><a href="https://next.redhat.com/2020/02/10/kiali-an-observability-platform-for-istio/">Kiali: An observability platform for Istio</a><br />
+            Kiali is a graphical dashboard, visualization tool, and user interface for Istio. It allows you to view and modify the Istio configuration for your application directly in your web browser, and to visualize the behavior of your application.</p>
+
+          <p><a href="https://www.datadoghq.com/dg/monitor/kubernetes-monitoring-benefits/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter01&amp;utm_content=Kubernetes">Dynamic Kubernetes Monitoring</a><br />
+            Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the Container Map to group, filter, and explore your containers, and the Live Container view to investigate the metrics and processes of individual containers. Try Datadog in your environment with a free 14-day trial. <em>SPONSORED</em></p>
+
+          <p><a href="https://itnext.io/google-cloud-advantages-over-aws-28751469e570">Google Cloud Advantages over AWS</a><br />
+            &ldquo;This post is not about GCP vs. AWS&hellip; This post is a short summary of the advantages of GCP over AWS.&rdquo; I agree that the network is fast af.</p>
+
+          <p><a href="https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/">Supercharge your command line experience: GitHub CLI is now in beta</a><br />
+            &ldquo;Millions of developers rely on GitHub to make building software more fun and collaborative, and <code>gh</code> brings the GitHub experience right to your terminal.&rdquo;</p>
+
+          <p><a href="https://www.haproxy.com/blog/rolling-updates-and-blue-green-deployments-with-kubernetes-and-haproxy/">Rolling Updates and Blue-Green Deployments with Kubernetes and HAProxy</a><br />
+            &ldquo;The HAProxy Kubernetes Ingress Controller supports two popular deployment patterns for updating applications in Kubernetes: rolling updates and blue-green deployments.&rdquo;</p>
+
+          <p><a href="https://www.welcometothejungle.com/en/articles/btc-history-git">The History of Git: The Road to Domination</a><br />
+            &ldquo;In 2005, Linus Torvalds urgently needed a new version control system to maintain the development of the Linux Kernel&hellip; Fifteen years later, the platform is the undisputed leader in a crowded field.&rdquo;</p>
+
+          <p><a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Pipe-Parallel-Job-Opt">Linus Torvalds Just Made A Big Optimization To Help Code Compilation Times On Big CPUs</a><br />
+            GNU Make is about to get faster in Linux 5.6 on large core count systems.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="90%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/guincodes/status/1226183144786685952" src="https://devopsish.com/img/167-tweet-of-the-week.png"></mj-image>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="75%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="50%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="25%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p style="font-size:12px"><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a></p>
+          <p style="font-size:12px">Want to change how you receive these emails?<br />
+            You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

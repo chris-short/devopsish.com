@@ -6,7 +6,7 @@ date = 2019-03-02T07:00:00Z
 description = "Docker Layoffs, Purl, Linus Knocks Arm, Killing k8s, Ansible, OperatorHub, Gremlin, PostgreSQL Operator, and More"
 draft = false
 slug = "117"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "operator", "gremlin", "docker layoffs", "docker", "layoffs", "git", "linus", "postgresql", "operatorhub", "azure", "Site Reliability Engineering", "SRE", "CI/CD", "Kubernetes Operators", "Ansible Operators"]
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "operator", "gremlin", "docker layoffs", "docker", "layoffs", "git", "linus", "postgresql", "operatorhub", "azure", "Site Reliability Engineering", "SRE", "CI/CD", "Kubernetes Operators", "Ansible Operators", "Linus Torvalds"]
 title = "117: Docker Layoffs, Purl, Linus Knocks Arm, Killing k8s, Ansible, OperatorHub, Gremlin, PostgreSQL Operator, and More"
 
 +++

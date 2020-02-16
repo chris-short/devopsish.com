@@ -31,16 +31,18 @@
       <mj-column width="100%">
         <mj-text>
           <p>Welcome!</p>
-          <p> Don't panic. The look and feel of this newsletter is changing. Hopefully for the better. I received some feedback this week that I'm taking to heart. First point was that the text in the e-mail was unreadable on mobile. I hope that is now fixed for you. Second, there are far too many words. This may be true but, I don't think that is necessarily a bad thing if the words merit attention but, I can certainly cut back to fewer words and links overall. Also, there are some things I know I can save for the web. Notes pages for every e-mail already exist. These pages include all the links that hit the cutting room floor every week (those will now be longer). Events that aren't <a href="https://devopsish.com/sponsor/">DevOps'ish sponsors</a> can stay on the website as well. The last piece of feedback was the e-mail was too long and that it read like an RSS reader. That's definitely a symptom of me consumimg the news that makes up the newsletter through <a href="https://www.inoreader.com/">Inoreader</a>. I can work on that too with three to five (or so) links in the People and Process section and no more than ten (or so) links in the Tools section (y'all like your tools).</p>
-          <p>Without further ado, let's get on with this week's newsletter. Tell me what you think. I'm nothing without feedback.</p>
+          <p> Don't panic. The look and feel of this newsletter is changing. Hopefully for the better. I received some feedback this week that I'm taking to heart. First point was that the text in the e-mail was unreadable on mobile. I hope that is now fixed for you. Second, there are far too many words. This may be true but, I don't think that is necessarily a bad thing if the words merit attention but, I can certainly cut back to fewer words and links overall. Also, there are some things I know I can save for the web. Notes pages for every e-mail already exist. These pages include all the links that hit the cutting room floor every week (those will now be longer). Events that aren't <a href="https://devopsish.com/sponsor/">DevOps'ish sponsors</a> can stay on the website as well. The last piece of feedback was the e-mail was too long and that it read like an RSS reader. That's definitely a symptom of me consumimg the news that makes up the newsletter through <a href="https://www.inoreader.com/">Inoreader</a>. I can work on that too with three to five ('ish) links in the People and Process section and no more than ten ('ish) links in the Tools section (y'all like your tools).</p>
+          <p>Without further ado, let's get on with this week's newsletter. Tell me what you think. I'm nothing without feedback. Also, don't forget to support the sponsors.</p>
           <p>Events and Notes are available on <a href="https://devopsish/?utm_source=newsletter&utm_medium=email&utm_campaign=events-notes">devopsish.com</a></p>
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section>
-      <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0" width="90%"></mj-divider>
+    <mj-section background-color="#000080" background-repeat="repeat" padding="20px 0" text-align="left" vertical-align="top">
+      <mj-column width="80%">
+        <mj-text color="#ffffff">
+          <em>SPONSORED</em>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -63,9 +65,11 @@
     </mj-section>
 
 
-    <mj-section>
-      <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0" width="90%"></mj-divider>
+    <mj-section background-color="#000080" background-repeat="repeat" padding="20px 0" text-align="left" vertical-align="top">
+      <mj-column width="80%">
+        <mj-text color="#ffffff">
+          <em>SPONSORED</em>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -87,9 +91,11 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
-      <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0" width="90%"></mj-divider>
+    <mj-section background-color="#000080" background-repeat="repeat" padding="20px 0" text-align="left" vertical-align="top">
+      <mj-column width="80%">
+        <mj-text color="#ffffff">
+          <em>SPONSORED</em>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -138,6 +144,7 @@
     <mj-section>
       <mj-column width="100%">
         <mj-text align="center">
+          <p><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a></p>
           <p style="font-size:12px">Want to change how you receive these emails?<br />
             You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
         </mj-text>
