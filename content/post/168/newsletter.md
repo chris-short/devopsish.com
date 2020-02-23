@@ -3,7 +3,7 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-02-23T16:00:00Z
-description = "Two universes of IBM and Red Hat, Impact of Istio and Knative not going to a foundation, compenastion questions, technical debt, and more"
+description = "Two universes of IBM and Red Hat, Impact of Istio and Knative not going to a foundation, compensation questions, technical debt, and more"
 draft = false
 slug = "168"
 tags = ["open source", "Kubernetes", "DevOps", "IBM", "Red Hat", "cloud", "Cloud Native", "technical debt", "engineer", "Google", "Ansible", "Linux Foundation", "trust", "Oracle", "Istio", "Knative", "CNCF", "platform", "infrastructure", "Xerox", "Linux", "observability", "monitoring", "performance", "Kelsey Hightower", "Datadog", "containers", "Moore's Law", "Cloud Native Computing Foundation", "parallel"]
@@ -22,10 +22,10 @@ IBM uses a top-down approach to sales and enablement because it has established 
 ## People
 
 [Jeffrey Paul: Discord Is Not An Acceptable Choice For Free Software Projects](https://sneak.berlin/20200220/discord-is-not-an-acceptable-choice-for-free-software-projects/)  
-An argument against Discord for use with open source and public interest projects. The privacy and censorship point of view is one I appreciate but, a lot of the arguments could be made about a lot of communication systems in used today, not only Discord (namely IRC and Slack).
+An argument against Discord for use with open source and public interest projects. The privacy and censorship point of view is one I appreciate but, a lot of the arguments could be made about a lot of communication systems in use today, not only Discord (namely IRC and Slack).
 
 [DOJ backs Oracle over Google in long-running copyright dispute](https://siliconangle.com/2020/02/19/doj-backs-oracle-google-long-running-copyright-dispute/)  
-Anytime the US Department of Justice gets behind Oracle it's a sign of dark times for us all. The [IEEE has an overview of the Google v. Oracle case](https://spectrum.ieee.org/tech-talk/computing/software/google-v-oracle-explained-supreme-court-news-apis-software) and its implications if you're not up to speed. This could change the course of history.
+Anytime the US Department of Justice gets behind Oracle, it's a sign of dark times for us all. The [IEEE has an overview of the Google v. Oracle case](https://spectrum.ieee.org/tech-talk/computing/software/google-v-oracle-explained-supreme-court-news-apis-software) and its implications if you're not up to speed. This could change the course of history.
 
 [Questions you can ask about compensation](https://jvns.ca/blog/compensation-questions/)  
 Next time salary comes up in a job interview, ask them to answer some questions ⁦from Julia Evans' list. It will help you understand a lot about the company as well as how you’ll extract more money for yourself from the value you create for the organization.
@@ -34,7 +34,7 @@ Next time salary comes up in a job interview, ask them to answer some questions 
 "When engaging internally with employees, Danfoss, a global manufacturing company, has branded its innovation process around the simple, manageable word 'idea.' While not everyone think they can be innovative, nearly everyone has at least one idea."
 
 [U.S. agency that handles Trump's secure communication suffered data breach](https://www.reuters.com/article/us-usa-defense-breach-idUSKBN20E27A)  
-Having done an enourmous amount of work with DISA in the past, I'm patiently waiting for my copy of [this letter](https://devopsish.com/images/disa-pii-breach.jpg) and the next round of free, US government issued credit monitoring service.
+Having done an enormous amount of work with DISA in the past, I'm patiently waiting for my copy of [this letter](https://devopsish.com/images/disa-pii-breach.jpg) and the next round of free, US government-issued credit monitoring service.
 
 ## Process
 
@@ -54,7 +54,7 @@ If you are like many of your friends in DevOps, you might prefer using open sour
 The HP/Xerox saga continues. I'm starting to wonder when Xerox runs out of clock on this. There has to be some critical reason(s) Xerox's board sees this as it's future. Eventually, investors are going to want this work to pay off. If it never materializes, which seems more and more likely, then what Xerox?
 
 [3 steps for product marketing your open source project](https://opensource.com/article/20/2/product-marketing-open-source-project)  
-"How do I market my open source XYZ?" is a question I get at least once a week. At some point, I'll write a book about it. But, for now, I'm still trying to figure it out. But, the one thing I tell folks is to be consistent and authentic. This builds trust and everything in open source is based on a degree of trust.
+"How do I market my open source XYZ?" is a question I get at least once a week. At some point, I'll write a book about it. But, for now, I'm still trying to figure it out. But, the one thing I tell folks is to be consistent and authentic. This builds trust. Everything in open source is based on a degree of trust.
 
 ## Tools
 
