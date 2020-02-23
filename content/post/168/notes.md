@@ -2,11 +2,11 @@
 
 author = "Chris Short"
 categories = ["Notes", "2020"]
-date = 2020-02-09T07:00:00Z
-description = "Notes from DevOps'ish 167"
+date = 2020-02-23T16:00:00Z
+description = "Notes from DevOps'ish 168"
 draft = false
-url = "167/notes"
-title = "DevOps'ish 167 Notes"
+url = "168/notes"
+title = "DevOps'ish 168 Notes"
 
 +++
 
@@ -28,8 +28,6 @@ DevOpsDay LA is a technical conference covering topics of software development, 
 I'm speaking at the O'Reilly Infrastructure & Ops Conference this year. But, did you know O'Reilly has a series of conferences geared towards every DevOps'ish reader? Did you know you can speak at these conferences too? Have a look and see what might interest you. *SPONSORED*
 
 ## Notes
-<<<<<<< Updated upstream
-=======
 
 [Open Source-based Cloud Observability](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt)  
 If you are like many of your friends in DevOps, you might prefer using open source solutions. Logz.io's [cloud observability platform](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) is designed to help deliver the open source experience you love, at the scale you need. Log management and Cloud SIEM based on ELK, and Infrastructure monitoring based on Grafana. All on one unified platform to help you correlate quickly between logs and metrics. Sign up for a [free trial today](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) and receive a Logz.io t-shirt! *SPONSORED*
@@ -41,19 +39,11 @@ Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the
 
 [OpenSSH adds support for FIDO/U2F security keys | ZDNet](https://www.zdnet.com/article/openssh-adds-support-for-fidou2f-security-keys/)
 
-[Census Program II - Download Preliminary Report - Core Infrastructure Initiative](https://www.coreinfrastructure.org/programs/census-program-ii/)
-
 [Jerem: An Agile Bot | OVHcloud Blog](https://www.ovh.com/blog/jerem-an-agile-bot/)
 
 [Problems With Sharing Responsibility for Security - The New Stack](https://thenewstack.io/problems-with-sharing-responsibility-for-security/)
 
-[Jeffrey Paul: Discord Is Not An Acceptable Choice For Free Software Projects](https://sneak.berlin/20200220/discord-is-not-an-acceptable-choice-for-free-software-projects/)
-
 [Growth of China’s hi-tech industries slump to record low | South China Morning Post](https://www.scmp.com/tech/big-tech/article/3051823/growth-chinas-hi-tech-industries-slump-record-low)
-
-[HP adopts limited shareholder rights plan to fend off Xerox takeover attempt - SiliconANGLE](https://siliconangle.com/2020/02/20/hp-adopts-limited-duration-shareholder-rights-plan-fend-off-xerox-takeover-attempt/)
-
-[DOJ backs Oracle over Google in long-running copyright dispute - SiliconANGLE](https://siliconangle.com/2020/02/19/doj-backs-oracle-google-long-running-copyright-dispute/)
 
 [Percona Monitoring and Management, Meet Prometheus Alertmanager - Percona Database Performance Blog](https://www.percona.com/blog/2020/02/21/percona-monitoring-and-management-meet-prometheus-alertmanger/)
 
@@ -63,11 +53,7 @@ Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the
 
 [Rancher Short Comings : kubernetes](https://www.reddit.com/r/kubernetes/comments/f6g0ah/rancher_short_comings/)
 
-[Moore's Law is not Ending Soon and the Reason May Surprise You - High Scalability -](http://highscalability.com/blog/2020/2/19/moores-law-is-not-ending-soon-and-the-reason-may-surprise-yo.html)
-
 [Find an optimal set of nodes for a Kubernetes cluster](https://medium.com/kubecost/find-an-optimal-set-of-nodes-for-a-kubernetes-cluster-751e4c3b40b7)
-
-[Questions you can ask about compensation - Julia Evans](https://jvns.ca/blog/compensation-questions/)
 
 [Google acquires mainframe application specialist Cornerstone - SiliconANGLE](https://siliconangle.com/2020/02/19/google-acquires-mainframe-application-specialist-cornerstone/)
 
@@ -75,23 +61,11 @@ Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the
 
 [Modernize your Java apps with open source, cloud-native tools – IBM Developer](https://developer.ibm.com/technologies/java/blogs/modernize-your-java-apps-with-open-source-cloud-native-tools/)
 
-[Stop Calling It “Innovation”](https://hbr.org/2020/02/stop-calling-it-innovation)
-
-[VMware Kubernetes – Epic Fail In Flight | LinkedIn](https://www.linkedin.com/pulse/vmware-kubernetes-epic-fail-flight-jay-valentine/)
-
-[U.S. agency that handles Trump's secure communication suffered data breach - Reuters](https://www.reuters.com/article/us-usa-defense-breach-idUSKBN20E27A?utm_source=reddit.com)
-
 [Now Internet Society told to halt controversial .org sale… by its own advisory council: 'You misread the community mindset around dot-org' • The Register](https://www.theregister.co.uk/2020/02/19/dot_org_sale_isoc_advice/)
-
-[5 arguments to make managers care about technical debt — Understand Legacy Code](https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt/)
-
-[Google v. Oracle Explained: The Fight for Interoperable Software - IEEE Spectrum](https://spectrum.ieee.org/tech-talk/computing/software/google-v-oracle-explained-supreme-court-news-apis-software)
 
 [DevOps is a solution to burnout worth investing in | Opensource.com](https://opensource.com/article/20/1/devops-burnout-solution)
 
 [Tweet / Twitter](https://mobile.twitter.com/kubernetesio/status/1230194249137901568)
-
-[Stop making data scientists manage Kubernetes clusters](https://towardsdatascience.com/stop-making-data-scientists-manage-kubernetes-clusters-53c3b584cb08)
 
 [Kubernetes Podcast from Google](https://kubernetespodcast.com/episode/091-ebpf-and-falco/)
 
@@ -113,8 +87,6 @@ Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the
 
 [Tweet / Twitter](https://mobile.twitter.com/textfiles/status/1229842910239166465)
 
-[3 steps for product marketing your open source project | Opensource.com](https://opensource.com/article/20/2/product-marketing-open-source-project)
-
 [Don’t Demonize Employees Who Raise Problems](https://hbr.org/2020/01/dont-demonize-employees-who-raise-problems)
 
 [Writing unit test after writing code considered harmful in test-driven development | Opensource.com](https://opensource.com/article/20/2/automate-unit-tests)
@@ -133,4 +105,3 @@ Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the
 
 [How to Mend a Work Relationship](https://hbr.org/2020/02/how-to-mend-a-work-relationship)
 
->>>>>>> Stashed changes
