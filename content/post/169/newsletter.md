@@ -28,8 +28,7 @@ PEOPLE
 
 PROCESS
 
-[Open Source-based Cloud Observability](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt)  
-If you are like many of your friends in DevOps, you might prefer using open source solutions. Logz.io's [cloud observability platform](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) is designed to help deliver the open source experience you love, at the scale you need. Log management and Cloud SIEM based on ELK, and Infrastructure monitoring based on Grafana. All on one unified platform to help you correlate quickly between logs and metrics. Sign up for a [free trial today](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) and receive a Logz.io t-shirt! *SPONSORED*
+LOGZ.IO AD COPY *SPONSORED*
 
 PROCESS
 
