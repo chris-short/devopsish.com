@@ -82,7 +82,7 @@ COBOL is still going strong after all these years. These systems aren't going an
 [Moore's Law is not Ending Soon and the Reason May Surprise You](http://highscalability.com/blog/2020/2/19/moores-law-is-not-ending-soon-and-the-reason-may-surprise-yo.html)  
 Long live Moore's Law!
 
-[VMware Kubernetes – Epic Fail In Flight](https://www.linkedin.com/pulse/vmware-kubernetes-epic-fail-flight-jay-valentine/)  
+[VMware Kubernetes – Epic Fail In Flight](https://getpocket.com/library/?pl_i=2888742357)  
 One person's view on how VMware's Kubernetes play could be doomed before it even gets off the ground.
 
 [5 arguments to make managers care about technical debt](https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt/)  
