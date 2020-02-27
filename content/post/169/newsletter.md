@@ -19,6 +19,9 @@ Responses to last week's newsletter?
 
 ## People
 
+[Kubernetes Contributor Summit Amsterdam Schedule Announced](https://kubernetes.io/blog/2020/02/18/contributor-summit-amsterdam-schedule-announced/)  
+"On top of the presentations, there will be a dedicated Docs Sprint as well as the New Contributor Workshop 101 and 201 Sessions. All told, we will have five separate rooms of content throughout the day on Monday."
+
 PEOPLE
 
 ## Process
