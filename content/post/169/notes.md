@@ -35,51 +35,23 @@ If you are like many of your friends in DevOps, you might prefer using open sour
 [Monitor Your Docker Containers More Effectively](https://www.datadoghq.com/dg/monitor/docker-benefits-ts/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=DevOpsish-Newsletter02&utm_content=Docker)  
 See across all of your Docker containers, servers, apps, and services in one place with Datadog's custom dashboards, distributed tracing, and 400+ vendor-backed integrations. Start your free trial today, create one dashboard, and receive a free Datadog t-shirt. *SPONSORED*
 
-[The Horrifically Dystopian World of Software Engineering Interviews - Blog by Jared Nelsen](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews)
-
 [We're Building a Rich Ecosystem of Certified HAProxy Integrations - HAProxy Technologies](https://www.haproxy.com/blog/ecosystem-of-certified-haproxy-integrations/)
-
-[Container Security - Nobody Knows What It Means But It's Provocative • Capsule8](https://capsule8.com/blog/container-security-nobody-knows-what-it-means-but-its-provocative/)
-
-[📕 The 25 most recommended programming books of all-time. · daolf](https://www.daolf.com/posts/best-programming-books/)
-
-[Introduction · Tig - Text-mode interface for Git](https://jonas.github.io/tig/)
-
-[Starting work on Operator Working Group](https://lists.cncf.io/g/cncf-sig-app-delivery/topic/71453445#151)
-
-[Mirantis Acquires Kubernetes Assets from Kontena - Container Journal](https://containerjournal.com/topics/container-ecosystems/mirantis-acquires-kubernetes-assets-from-kontena/)
-
-[How to solve the DevOps vs. ITSM culture clash | Opensource.com](https://opensource.com/article/20/2/devops-vs-itsm)
-
-[Your new web notifications experience is here - The GitHub Blog](https://github.blog/2020-02-25-your-new-web-notifications-experience-is-here/)
 
 [Go 1.14 is released - The Go Blog](https://blog.golang.org/go1.14)
 
 [AuditD: What is the Linux Auditing System? • Capsule8](https://capsule8.com/blog/auditd-what-is-the-linux-auditing-system/)
 
-[Free Software Foundation Aims To Launch Code Hosting / Collaboration Platform This Year - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=FSF-Forge-2020-Platform)
-
 [Cloudflare’s Gen X: Servers for an Accelerated Future](https://blog.cloudflare.com/cloudflares-gen-x-servers-for-an-accelerated-future/)
 
 [What is backporting, and how does it apply to RHEL and other Red Hat products?](https://www.redhat.com/en/blog/what-backporting-and-how-does-it-apply-rhel-and-other-red-hat-products)
 
-[On-Demand Container Scanning API – JerryGamblin.com](https://jerrygamblin.com/2020/02/23/on-demand-container-scanning-api/)
-
 ['Trust nothing': As breaches mount, a radical approach to cybersecurity gains favor - SiliconANGLE](https://siliconangle.com/2020/02/23/trust-nothing-breaches-mount-radical-approach-cybersecurity-gains-favor/)
-
-[Advanced Persistence Threats: The Future of Kubernetes Attacks | RSA Conference](https://www.rsaconference.com/usa/agenda/advanced-persistence-threats-the-future-of-kubernetes-attacks-3)
-
-[DOJ Plans to Strike Against Encryption While the Techlash Iron Is Hot | Center for Internet and Society](https://cyberlaw.stanford.edu/blog/2020/02/doj-plans-strike-against-encryption-while-techlash-iron-hot)
-
-[[License-discuss] Member conduct](http://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2020-February/021350.html)
 
 [Video game accessibility aided by consultants who say it’s not about compromising game design - The Washington Post](https://www.washingtonpost.com/video-games/2020/02/25/how-accessibility-consultants-are-building-more-inclusive-video-game-industry-behind-scenes/?utm_source=reddit.com)
 
 [Raspberry Pi 4 Linux computer gets twice the RAM and USB-C power fix](https://betanews.com/2020/02/27/raspberry-pi-4-double-ram-usbc/)
 
 [Three principles for guiding your development career – Letters To A New Developer](https://letterstoanewdeveloper.com/2020/02/27/three-principles-for-guiding-your-development-career/)
-
-[Tweet / Twitter](https://mobile.twitter.com/heyjulesfern/status/1233068108358619136)
 
 [Logging FOMO is real and it hurts. Here’s how to overcome it  - Rookout](https://www.rookout.com/blog/logging-fomo-is-real-and-it-hurts-heres-how-to-overcome-it)
 
@@ -95,17 +67,11 @@ See across all of your Docker containers, servers, apps, and services in one pla
 
 [Gen X Performance Tuning](https://blog.cloudflare.com/gen-x-performance-tuning/)
 
-[Announcement: Ansible Contributor Summit Europe](https://www.ansible.com/blog/announcement-ansible-contributor-summit-europe)
-
-[Everyone might be a cluster-admin in your Kubernetes cluster | Jeff Geerling](https://www.jeffgeerling.com/blog/2020/everyone-might-be-cluster-admin-your-kubernetes-cluster)
-
 [IBM Survey: Only 38% of State and Local Government Employees Trained on Ransomware Prevention - Feb 27, 2020](https://newsroom.ibm.com/2020-02-27-IBM-Survey-Only-38-of-State-and-Local-Government-Employees-Trained-on-Ransomware-Prevention)
 
 [Qantas CIO takes flight to Boeing - Strategy - iTnews](https://www.itnews.com.au/news/qantas-cio-takes-flight-to-boeing-538673)
 
 [Don’t Do Agile and DevOps by the Book - DevOps.com](https://devops.com/dont-do-agile-and-devops-by-the-book/)
-
-[What happens behind the scenes of a rootless Podman container? | Enable Sysadmin](https://www.redhat.com/sysadmin/behind-scenes-podman)
 
 ['Cloud Snooper' Attack Circumvents AWS Firewall ...](https://www.darkreading.com/cloud/cloud-snooper-attack-circumvents-aws-firewall-controls/d/d-id/1337171)
 
@@ -113,15 +79,11 @@ See across all of your Docker containers, servers, apps, and services in one pla
 
 [Lessons Learned from Running Debezium with PostgreSQL on Amazon RDS](https://debezium.io/blog/2020/02/25/lessons-learned-running-debezium-with-postgresql-on-rds/)
 
-[Let's Encrypt Has Issued a Billion Certificates - Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/2020/02/27/one-billion-certs.html)
-
 [Impedance matching for BPF and LSM [LWN.net]](https://lwn.net/Articles/813261/)
 
 [Clearview AI, Facial Recognition Company That Works With Law Enforcement, Says Entire Client List Was Stolen](https://www.thedailybeast.com/clearview-ai-facial-recognition-company-that-works-with-law-enforcement-says-entire-client-list-was-stolen)
 
 [Chris Short (Main.OSI Board of Directors.Board Member Elections.2020 Individual and Affiliate Elections.Short2020) - XWiki](https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2020+Individual+and+Affiliate+Elections/Short2020)
-
-[The Jellyfish-Inspired Database Under AWS Block Storage](https://www.nextplatform.com/2020/02/18/the-jellyfish-inspired-database-under-aws-block-storage/)
 
 [How Python Became the Popular Choice](https://www.welcometothejungle.com/en/articles/btc-python-popular)
 
@@ -133,21 +95,13 @@ See across all of your Docker containers, servers, apps, and services in one pla
 
 [​Google Cloud axes Stackdriver brand in suite upgrade - ARN](https://www.arnnet.com.au/article/671324/google-cloud-axes-stackdriver-brand-suite-upgrade/)
 
-[Crisis? What crisis? Netflix opensources incident management framework • DEVCLASS](https://devclass.com/2020/02/25/crisis-what-crisis-netflix-opensources-incident-management-framework/)
-
 [An Introduction to Serverless with Knative - JAXenter](https://jaxenter.com/knative-serverless-2-168552.html)
-
-[DevOps: 5 tips on how to manage stronger remote teams | The Enterprisers Project](https://enterprisersproject.com/article/2020/2/devops-how-manage-remote-teams-tips)
-
-[Multicluster Kubernetes with Service Mirroring | Linkerd](https://linkerd.io/2020/02/25/multicluster-kubernetes-with-service-mirroring/)
 
 [Kazuhisa Hashimoto, creator of the famous ‘Konami Code,’ has died - The Washington Post](https://www.washingtonpost.com/video-games/2020/02/26/kazuhisa-hashimoto-creator-famous-konami-code-has-died/?utm_source=reddit.com)
 
 [Tweet / Twitter](https://mobile.twitter.com/b0rk/status/1232800388404760581)
 
 [Flaw in billions of Wi-Fi devices left communications open to eavesdropping | Ars Technica](https://arstechnica.com/information-technology/2020/02/flaw-in-billions-of-wi-fi-devices-left-communications-open-to-eavesdroppng/)
-
-[Implementing A Reverse Proxy Server In Kubernetes Using The Sidecar](https://www.magalix.com/blog/implemeting-a-reverse-proxy-server-in-kubernetes-using-the-sidecar-pattern)
 
 [Internal Docs Show Why the U.S. Military Publishes North Korean and Russian Malware - VICE](https://www.vice.com/en_us/article/5dmwyx/documents-how-cybercom-publishes-russian-north-korean-malware-virustotal?utm_source=reddit.com)
 
@@ -204,4 +158,3 @@ See across all of your Docker containers, servers, apps, and services in one pla
 [Apple drops a bomb on long-life HTTPS certificates: Safari to snub new security certs valid for more than 13 months • The Register](https://www.theregister.co.uk/2020/02/20/apple_shorter_cert_lifetime/)
 
 [Massive DoD DevSecOps standards push may aid enterprise IT](https://searchitoperations.techtarget.com/news/252478994/Massive-DoD-DevSecOps-standards-push-may-aid-enterprise-IT)
-
