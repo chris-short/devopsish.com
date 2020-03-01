@@ -22,7 +22,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-divider border-width="2px" border-color="#616161"></mj-divider>
-        <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 167</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 169</mj-text>
         <mj-divider border-width="2px" border-color="#616161"></mj-divider>
         <mj-divider border-width="2px" border-color="#616161" width="50%"></mj-divider>
       </mj-column>
@@ -31,13 +31,9 @@
       <mj-column width="100%">
         <mj-text>
           <p style="font-weight: bold">Welcome!</p>
-          <p>I spent this week in Las Vegas, working at IBM&rsquo;s FastStart 2020 event. The event is for IBM sellers, partners, and technical folks to come to learn the new bits of knowledge about the products they&rsquo;re selling and enabling at their clients&rsquo; sites. I went in my usual technical capacity and learned very quickly IBM and Red Hat speak two different languages. This is expected but, I wanted to look a little further into the why behind that. As a surprise to no one, I found a DevOps parallel here.</p>
+          <p>The first CNCF Air Gapped Working Group meeting happened this week. I was fortunate enough to be able to attend. Air gapped or disconnected environments have a few variants. But, the air gaps I&rsquo;m most familiar with are those between unclassified and classified US government systems (TEMPEST, EMSEC, COMSEC, etc.). Also, given the attendance, there is a lot of interest from folks across the public and private sectors. If you&rsquo;re interested in getting involved, <a href="https://lists.cncf.io/g/cncf-sig-app-delivery/topic/airgap_working_group_meeting/71568152">we&rsquo;re figuring out what the cadence of the meetings will be</a>. The current scope of our work is to provide a &ldquo;cookbook&rdquo; for maintaining an air gapped cloud native environment. Join the <a href="https://lists.cncf.io/g/cncf-sig-app-delivery/">CNCF SIG App Delivery mailing list</a> and keep an eye out for messages to see how to get involved.</p>
 
-          <p>In DevOps, change starts one of two ways based on the type of change happening. The more natural way (for me) is to start with the teams with their hands on the keyboard doing the work. Talk to them about their problems in their language. Tell them how your tool&rsquo;s features help to solve their problems. Pull out a laptop and prove to them you&rsquo;re not full of shit. This is the bottom-up approach to DevOps. It&rsquo;s an engineer built and run transformation. Leadership stakeholders are updated about results. Leadership buys-in because the results prove themselves.</p>
-
-          <p>The other approach to change I&rsquo;ve seen is a top-down approach. This is often implemented poorly at first, from the engineer&rsquo;s point of view. It&rsquo;s often implemented as an edict from on high making what appears to be an ill-informed decision. This approach works well when an agreement that change is necessary is reached beforehand. It&rsquo;s also a great approach when the corporate culture is fantastic. Yes, I&rsquo;ve seen it done as an executive driven decision with mass firing and all the trimmings. That approach rarely goes well.</p>
-
-          <p>IBM uses a top-down approach to sales and enablement because it has established trust with its clients. This trust is very much with the top of the org chart, though. An engineer and developer-first world full of projects and tools the IBM crowd has never seen or even heard of before is foreign. This world is also eating into the IBM world. If Red Hat and IBM establish a new common language and figure out our collective strengths together, watch out.</p>
+          <p>The 2020 election for the <a href="https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/">Open Source Initiative Board of Directors</a> is rapidly approaching. I nominated myself for a seat on the board as an Individual Member. I spoke with a few friends in the months before submitting my nomination. It sounds like OSI could use my help <a href="http://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2020-February/021350.html">given the week they&rsquo;ve had</a>. Open source software has done nothing but provide opportunity after opportunity in my life. It should be cared for and maintained so that everyone willing can benefit from it as much as I have (hopefully more). If you&rsquo;re an OSI member, <a href="https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2020+Individual+and+Affiliate+Elections/Short2020">please considering me for a seat on the board</a>. If you&rsquo;re not an OSI member, you have until 1 March 2020 to join to vote. However, if you work with open source software, <a href="https://opensource.org/join">you should be an OSI member</a>.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -52,20 +48,20 @@
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">People</h2>
-          <p><a href="https://sneak.berlin/20200220/discord-is-not-an-acceptable-choice-for-free-software-projects/">Jeffrey Paul: Discord Is Not An Acceptable Choice For Free Software Projects</a><br />
-            An argument against Discord for use with open source and public interest projects. The privacy and censorship point of view is one I appreciate but, a lot of the arguments could be made about a lot of communication systems in use today, not only Discord (namely IRC and Slack).</p>
+          <p><a href="https://kubernetes.io/blog/2020/02/18/contributor-summit-amsterdam-schedule-announced/">Kubernetes Contributor Summit Amsterdam Schedule Announced</a><br />
+            &ldquo;On top of the presentations, there will be a dedicated Docs Sprint as well as the New Contributor Workshop 101 and 201 Sessions. All told, we will have five separate rooms of content throughout the day on Monday.&rdquo;</p>
 
-          <p><a href="https://siliconangle.com/2020/02/19/doj-backs-oracle-google-long-running-copyright-dispute/">DOJ backs Oracle over Google in long-running copyright dispute</a><br />
-            Anytime the US Department of Justice gets behind Oracle, it&rsquo;s a sign of dark times for us all. The <a href="https://spectrum.ieee.org/tech-talk/computing/software/google-v-oracle-explained-supreme-court-news-apis-software">IEEE has an overview of the Google v. Oracle case</a> and its implications if you&rsquo;re not up to speed. This could change the course of history.</p>
+          <p><a href="https://www.ansible.com/blog/announcement-ansible-contributor-summit-europe">Ansible Contributor Summit Europe</a><br />
+            &ldquo;A European Contributor Summit will be held in Gothenburg, Sweden, ahead of the usual summit at AnsibleFest! On March 29 we&rsquo;ll be welcoming new and old contributors alike. So if you already contribute to Ansible, or would like to, but don&rsquo;t know how or where to start, this event is for you.&rdquo;</p>
 
-          <p><a href="https://jvns.ca/blog/compensation-questions/">Questions you can ask about compensation</a><br />
-            Next time salary comes up in a job interview, ask them to answer some questions⁦from Julia Evans&rsquo; list. It will help you understand a lot about the company as well as how you'll extract more money for yourself from the value you create for the organization.</p>
+          <p><a href="https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews">The Horrifically Dystopian World of Software Engineering Interviews</a><br />
+            &ldquo;Why are we measuring people and not learning about people?&rdquo;</p>
 
-          <p><a href="https://hbr.org/2020/02/stop-calling-it-innovation">Stop Calling It &ldquo;Innovation&rdquo;</a><br />
-            &ldquo;When engaging internally with employees, Danfoss, a global manufacturing company, has branded its innovation process around the simple, manageable word &lsquo;idea.&rsquo; While not everyone think they can be innovative, nearly everyone has at least one idea.&rdquo;</p>
+          <p><a href="https://www.daolf.com/posts/best-programming-books/">The 25 most recommended programming books of all-time</a><br />
+            This is an excellent list of books. I&rsquo;d like to see a similar method for DevOps books.</p>
 
-          <p><a href="https://www.reuters.com/article/us-usa-defense-breach-idUSKBN20E27A">U.S. agency that handles Trump&rsquo;s secure communication suffered data breach</a><br />
-            Having done an enormous amount of work with DISA in the past, I&rsquo;m patiently waiting for my copy of <a href="https://devopsish.com/images/disa-pii-breach.jpg">this letter</a> and the next round of free, US government-issued credit monitoring service.</p>
+          <p><a href="https://cyberlaw.stanford.edu/blog/2020/02/doj-plans-strike-against-encryption-while-techlash-iron-hot">DOJ Plans to Strike Against Encryption While the Techlash Iron Is Hot</a><br />
+            The US Department of Justice intends to strike while the iron is hot in the encryption war as public opinion of tech companies wanes. This is a pretty serious deal and the US government might get away with it given how dependent the US is upon mass surveillance.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -80,23 +76,26 @@
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">Process</h2>
-          <p><a href="https://www.protocol.com/google-open-source-istio">Will Google donate open-source Istio to a foundation</a><br />
-            &rdquo;&lsquo;It&rsquo;s a real problem,&rsquo; said Nicolas Chaillan, chief software officer for the U.S. Air Force, which has made a sizable bet on Istio as a key component of its cloud strategy. &lsquo;I reached out to Google [after Kubecon] to say that if we don&rsquo;t get Istio within the CNCF, we&rsquo;ll have to drop it.&lsquo;&rdquo;</p>
+          <p><a href="https://capsule8.com/blog/container-security-nobody-knows-what-it-means-but-its-provocative/">Container Security - Nobody Knows What It Means But It&rsquo;s Provocative</a><br />
+            &ldquo;[T]his post helps delineate the different areas of container security and why they&rsquo;re each important. As a community - not just security, but also embracing our friends in DevOps - we must work to secure the containers lest we become contained by our own failures.&rdquo;</p>
 
-          <p><a href="https://www.zdnet.com/article/the-linux-foundation-identifies-the-most-important-open-source-software-components-and-their-problems/">The Linux Foundation identifies most important open-source software components and their problems</a><br />
-            &ldquo;In its latest study, the Linux Foundation&rsquo;s Core Infrastructure Initiative discovered just how prevalent open-source components are in all software and their shared problems and vulnerabilities.&rdquo;</p>
+          <p><a href="https://lists.cncf.io/g/cncf-sig-app-delivery/topic/71453445#151">Starting work on Operator Working Group</a><br />
+            CNCF is also starting up an Operator working group. I hope to be able to participate in this as it&rsquo;s going to be a fun space for a while.</p>
+
+          <p><a href="https://opensource.com/article/20/2/devops-vs-itsm">How to solve the DevOps vs. ITSM culture clash</a><br />
+            I know I faced this problem head on in a few organizations. &ldquo;Declare a truce between ITSM and DevOps within your organization by learning these lessons.&rdquo;</p>
 
           <p><a href="https://logz.io/freeshirt/?utm_source=podcast&amp;utm_medium=devopish&amp;utm_campaign=freeshirt">Open Source-based Cloud Observability</a><br />
             If you are like many of your friends in DevOps, you might prefer using open source solutions. Logz.io&rsquo;s <a href="https://logz.io/freeshirt/?utm_source=podcast&amp;utm_medium=devopish&amp;utm_campaign=freeshirt">cloud observability platform</a> is designed to help deliver the open source experience you love, at the scale you need. Log management and Cloud SIEM based on ELK, and Infrastructure monitoring based on Grafana. All on one unified platform to help you correlate quickly between logs and metrics. Sign up for a <a href="https://logz.io/freeshirt/?utm_source=podcast&amp;utm_medium=devopish&amp;utm_campaign=freeshirt">free trial today</a> and receive a Logz.io t-shirt! <em>SPONSORED</em></p>
 
-          <p><a href="https://verraes.net/2020/01/wall-of-technical-debt/">The Wall of Technical Debt</a><br />
-            &ldquo;Or perhaps fixing it isn&rsquo;t worth it? That&rsquo;s not a matter of aesthetics or opinion anymore. It&rsquo;s a matter of empirically collected metrics. Congratulations, you&rsquo;re negotiating tradeoffs as a team.&rdquo;</p>
+          <p><a href="https://containerjournal.com/topics/container-ecosystems/mirantis-acquires-kubernetes-assets-from-kontena/">Mirantis Acquires Kubernetes Assets from Kontena</a><br />
+            &ldquo;Kontena role-based access control (RBAC) and multi-cluster management tools will find their way into Docker Kubernetes Service (DKS) and Universal Control Plane (UCP).&rdquo;</p>
 
-          <p><a href="https://siliconangle.com/2020/02/20/hp-adopts-limited-duration-shareholder-rights-plan-fend-off-xerox-takeover-attempt/">HP adopts limited shareholder rights plan to fend off Xerox takeover attempt</a><br />
-            The HP/Xerox saga continues. I&rsquo;m starting to wonder when Xerox runs out of clock on this. There has to be some critical reason(s) Xerox&rsquo;s board sees this as it&rsquo;s future. Eventually, investors are going to want this work to pay off. If it never materializes, which seems more and more likely, then what Xerox?</p>
+          <p><a href="https://www.rsaconference.com/usa/agenda/advanced-persistence-threats-the-future-of-kubernetes-attacks-3">Advanced Persistence Threats: The Future of Kubernetes Attacks</a><br />
+            &ldquo;Let&rsquo;s explore the dark corners of clusters and shine a light on several new advanced attacks on Kubernetes, and learn how to detect and prevent them using practical, proven methods.&rdquo;</p>
 
-          <p><a href="https://opensource.com/article/20/2/product-marketing-open-source-project">3 steps for product marketing your open source project</a><br />
-            &ldquo;How do I market my open source XYZ?&rdquo; is a question I get at least once a week. At some point, I&rsquo;ll write a book about it. But, for now, I&rsquo;m still trying to figure it out. But, the one thing I tell folks is to be consistent and authentic. This builds trust. Everything in open source is based on a degree of trust.</p>
+          <p><a href="https://enterprisersproject.com/article/2020/2/devops-how-manage-remote-teams-tips">DevOps: 5 tips on how to manage stronger remote teams</a><br />
+            &ldquo;Are you leading or working in a DevOps team where some people work remote? Building a healthy culture presents some challenges - but experts say remote teams can become masters of collaboration and flexibility&rdquo;</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -111,35 +110,41 @@
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">Tools</h2>
-          <p><a href="https://thenewstack.io/kubernetes-performance-troublespots-airbnbs-take/">Kubernetes Performance Trouble Spots: Airbnb&rsquo;s Take</a><br />
-            Running thousands of pods in prod leads to a number of ways performance inconsistencies could pop up.</p>
+          <p><a href="https://github.blog/2020-02-25-your-new-web-notifications-experience-is-here/">Your new web notifications experience is here</a><br />
+            Pretty sure I already f&rsquo;ed this up. I need to stop using GitHub on mobile. But, I&rsquo;m hopeful I can re-manage my notifications as opposed to having to be so beholden to email.</p>
 
-          <p><a href="https://www.jeffgeerling.com/blog/2020/kubernetes-collection-ansible">The Kubernetes Collection for Ansible</a><br />
-            Jeff Geerling has made significant strides in getting an Ansible collection of Kubernetes tools together. If you&rsquo;re doing templating with Ansible, need to use Ansible in CI to mangle your Kubernetes objects, or something else with Ansible give it a look.</p>
+          <p><a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FSF-Forge-2020-Platform">Free Software Foundation Aims To Launch Code Hosting / Collaboration Platform This Year</a><br />
+            &ldquo;The Free Software Foundation&rsquo;s lead contender right now is using Pagure as the basis for their platform, but have some reservations over it since JavaScript is required for a pleasant experience. Gitea and Sourcehut are other options they are also exploring but have pros/cons for all of them.&rdquo;</p>
 
-          <p><a href="https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-staying-power-of-kubernetes-with-kelsey-hightower/">The Staying Power of Kubernetes with Kelsey Hightower</a><br />
-            Kelsey answers a &ldquo;grumpy Unix sysadmin&rsquo;s&rdquo; questions. Because, &ldquo;It&rsquo;s not like there&rsquo;s a second kind of Unix sysadmin you&rsquo;re ever going to encounter.&rdquo;</p>
+          <p><a href="https://jerrygamblin.com/2020/02/23/on-demand-container-scanning-api/">On-Demand Container Scanning API</a><br />
+            &ldquo;scan.vulnerablecontainers.org is an open python API built using Trivy, Flask, Gunicorn, and Nginx that for now has two public endpoints (more endpoints and tools coming). From the start, I designed it to be easy to use in the browser or on the command line for integration with CI/CD.&rdquo;</p>
 
-          <p><a href="https://www.datadoghq.com/dg/monitor/kubernetes-monitoring-benefits/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter01&amp;utm_content=Kubernetes">Dynamic Kubernetes Monitoring</a><br />
-            Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the Container Map to group, filter, and explore your containers, and the Live Container view to investigate the metrics and processes of individual containers. Try Datadog in your environment with a free 14-day trial. <em>SPONSORED</em></p>
+          <p><a href="https://www.jeffgeerling.com/blog/2020/everyone-might-be-cluster-admin-your-kubernetes-cluster">Everyone might be a cluster-admin in your Kubernetes cluster</a><br />
+            &ldquo;What the installation guide doesn&rsquo;t tell you is that this manifest grants cluster-admin privileges to every single Pod in the default namespace!&rdquo; This is going to become a big problem pretty quick. You need to make sure you&rsquo;re applying RBAC and security policies to anything you pull down from the web.</p>
 
-          <p><a href="https://towardsdatascience.com/stop-making-data-scientists-manage-kubernetes-clusters-53c3b584cb08">Stop making data scientists manage Kubernetes clusters</a><br />
-            The case for a career trajectory that has job titles like, Machine learning infrastructure engineer, Data science platform engineer, and ML production engineer. I could definitely get down with this line of work.</p>
+          <p><a href="https://www.redhat.com/sysadmin/behind-scenes-podman">What happens behind the scenes of a rootless Podman container?</a><br />
+            &ldquo;Have you ever wondered what happens behind the scenes of a rootless Podman container? Let&rsquo;s walk through an example.&rdquo;</p>
 
-          <p><a href="https://devopsish.com/pdf/census_ii_vulnerabilities_in_the_core.pdf">Census II</a><br />
-            &ldquo;Census II identifies the most commonly used free and open source software (FOSS) components in production applications and begins to examine them for potential vulnerabilities, which can inform actions to sustain the long-term security and health of FOSS.&rdquo; I&rsquo;m actually a little surprised at this list. I figured there would be things like NTP and DNS knowledge.</p>
+          <p><a href="https://letsencrypt.org/2020/02/27/one-billion-certs.html">Let&rsquo;s Encrypt Has Issued a Billion Certificates</a><br />
+            Huge thank you to the folks at Let&rsquo;s Encrypt and congratulations on building one of the most fantastic infrastructure services on the internet.</p>
 
-          <p><a href="https://www.techradar.com/news/cobol-remains-an-important-programming-priority">COBOL stays top of mind for businesses in 2020</a><br />
-            COBOL is still going strong after all these years. These systems aren&rsquo;t going anywhere because they were built to last. Figuring out the best abstraction points will be critical in the future. Understanding the design of these systems and the way your systems interface with them will be increasingly important.</p>
+          <p><a href="https://www.nextplatform.com/2020/02/18/the-jellyfish-inspired-database-under-aws-block-storage/">The Jellyfish-Inspired Database Under AWS Block Storage</a><br />
+            &ldquo;While it is highly unlikely that AWS will ever open source Physalia, it is possible that it will inspire others to re-create elements of its architecture that will be open source, much as has happened with many hyperscaler and cloud builder technologies in the past.&rdquo;</p>
 
-          <p><a href="http://highscalability.com/blog/2020/2/19/moores-law-is-not-ending-soon-and-the-reason-may-surprise-yo.html">Moore&rsquo;s Law is not Ending Soon and the Reason May Surprise You</a><br />
-            Long live Moore&rsquo;s Law!</p>
+          <p><a href="https://www.datadoghq.com/dg/monitor/docker-benefits-ts/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter02&amp;utm_content=Docker">Monitor Your Docker Containers More Effectively</a><br />
+            See across all of your Docker containers, servers, apps, and services in one place with Datadog&rsquo;s custom dashboards, distributed tracing, and 400+ vendor-backed integrations. Start your free trial today, create one dashboard, and receive a free Datadog t-shirt. <em>SPONSORED</em></p>
 
-          <p><a href="https://www.linkedin.com/pulse/vmware-kubernetes-epic-fail-flight-jay-valentine/">VMware Kubernetes – Epic Fail In Flight</a><br />
-            One person&rsquo;s view on how VMware&rsquo;s Kubernetes play could be doomed before it even gets off the ground.</p>
+          <p><a href="https://devclass.com/2020/02/25/crisis-what-crisis-netflix-opensources-incident-management-framework/">Crisis? What crisis? Netflix opensources incident management framework</a><br />
+            &ldquo;Netflix has open sourced its crisis management framework, giving organisations a standardised way to manage incidents and get back to a state of chill.&rdquo; I see what you did there.</p>
 
-          <p><a href="https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt/">5 arguments to make managers care about technical debt</a><br />
-            Debt is a tool. But, managing that debt is vital. Letting debt manage you leads to horrible things. I&rsquo;m talking about money here but, your org&rsquo;s codebases might be old enough to be at this level of impact too. But, much like you had to learn some money management terms to navigate the financial world, you&rsquo;ll have to adopt new language to get management to understand the need to manage this tech debt sooner rather than later.</p>
+          <p><a href="https://linkerd.io/2020/02/25/multicluster-kubernetes-with-service-mirroring/">Multicluster Kubernetes with Service Mirroring</a><br />
+            &ldquo;With service mirroring in place, the full observability, security, and routing features of Linkerd apply uniformly to both in-cluster and cluster-calls, and the application does not need to distinguish between those situations.&rdquo;</p>
+
+          <p><a href="https://jonas.github.io/tig/">Tig</a><br />
+            Text-mode interface for Git</p>
+
+          <p><a href="https://www.magalix.com/blog/implemeting-a-reverse-proxy-server-in-kubernetes-using-the-sidecar-pattern">Implementing A Reverse Proxy Server In Kubernetes Using The Sidecar</a><br />
+            DIY sidecar injection to help you understand the concept of having multiple containers in a single pod to form a fully functional web app.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -155,7 +160,7 @@
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
         </mj-text>
-        <mj-image width="600px" padding-top="0" href="https://twitter.com/textfiles/status/1229842910239166465" src="https://devopsish.com/images/169-tweet-of-the-week.png"></mj-image>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/heyjulesfern/status/1233068108358619136" src="https://devopsish.com/images/169-tweet-of-the-week.png"></mj-image>
         </mj-text>
       </mj-column>
     </mj-section>
