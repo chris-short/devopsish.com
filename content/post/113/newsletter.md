@@ -94,6 +94,6 @@ Apple **finally** took action against [Facebook](https://www.businessinsider.com
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1091465574998249472 >}}
+![A Sr. Engineer's responsibility isn't to make puns, work on whatever they want, & fly around the world giving talks....](/images/113-tweet-of-the-week.png)
 
 Notes from this week's issue can be found [here](./notes/).

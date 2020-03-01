@@ -1,0 +1,187 @@
+<mjml>
+  <mj-head>
+    <mj-title>DevOps'ish Weekly Newsletter</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="20px 0">
+      <mj-column width="100%">
+        <mj-image src="https://devopsish.com/img/DevOpsish-Wide.png" title="DevOps'ish" alt="DevOps'ish wide logo"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">DevOps'ish is assembled by open source professional, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador Chris Short</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 169</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider border-width="2px" border-color="#616161" width="50%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p style="font-weight: bold">Welcome!</p>
+          <p>The first CNCF Air Gapped Working Group meeting happened this week. I was fortunate enough to be able to attend. Air gapped or disconnected environments have a few variants. But, the air gaps I&rsquo;m most familiar with are those between unclassified and classified US government systems (TEMPEST, EMSEC, COMSEC, etc.). Also, given the attendance, there is a lot of interest from folks across the public and private sectors. If you&rsquo;re interested in getting involved, <a href="https://lists.cncf.io/g/cncf-sig-app-delivery/topic/airgap_working_group_meeting/71568152">we&rsquo;re figuring out what the cadence of the meetings will be</a>. The current scope of our work is to provide a &ldquo;cookbook&rdquo; for maintaining an air gapped cloud native environment. Join the <a href="https://lists.cncf.io/g/cncf-sig-app-delivery/">CNCF SIG App Delivery mailing list</a> and keep an eye out for messages to see how to get involved.</p>
+
+          <p>The 2020 election for the <a href="https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/">Open Source Initiative Board of Directors</a> is rapidly approaching. I nominated myself for a seat on the board as an Individual Member. I spoke with a few friends in the months before submitting my nomination. It sounds like OSI could use my help <a href="http://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2020-February/021350.html">given the week they&rsquo;ve had</a>. Open source software has done nothing but provide opportunity after opportunity in my life. It should be cared for and maintained so that everyone willing can benefit from it as much as I have (hopefully more). If you&rsquo;re an OSI member, <a href="https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2020+Individual+and+Affiliate+Elections/Short2020">please considering me for a seat on the board</a>. If you&rsquo;re not an OSI member, you have until 1 March 2020 to join to vote. However, if you work with open source software, <a href="https://opensource.org/join">you should be an OSI member</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">People</h2>
+          <p><a href="https://kubernetes.io/blog/2020/02/18/contributor-summit-amsterdam-schedule-announced/">Kubernetes Contributor Summit Amsterdam Schedule Announced</a><br />
+            &ldquo;On top of the presentations, there will be a dedicated Docs Sprint as well as the New Contributor Workshop 101 and 201 Sessions. All told, we will have five separate rooms of content throughout the day on Monday.&rdquo;</p>
+
+          <p><a href="https://www.ansible.com/blog/announcement-ansible-contributor-summit-europe">Ansible Contributor Summit Europe</a><br />
+            &ldquo;A European Contributor Summit will be held in Gothenburg, Sweden, ahead of the usual summit at AnsibleFest! On March 29 we&rsquo;ll be welcoming new and old contributors alike. So if you already contribute to Ansible, or would like to, but don&rsquo;t know how or where to start, this event is for you.&rdquo;</p>
+
+          <p><a href="https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews">The Horrifically Dystopian World of Software Engineering Interviews</a><br />
+            &ldquo;Why are we measuring people and not learning about people?&rdquo;</p>
+
+          <p><a href="https://www.daolf.com/posts/best-programming-books/">The 25 most recommended programming books of all-time</a><br />
+            This is an excellent list of books. I&rsquo;d like to see a similar method for DevOps books.</p>
+
+          <p><a href="https://cyberlaw.stanford.edu/blog/2020/02/doj-plans-strike-against-encryption-while-techlash-iron-hot">DOJ Plans to Strike Against Encryption While the Techlash Iron Is Hot</a><br />
+            The US Department of Justice intends to strike while the iron is hot in the encryption war as public opinion of tech companies wanes. This is a pretty serious deal and the US government might get away with it given how dependent the US is upon mass surveillance.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Process</h2>
+          <p><a href="https://capsule8.com/blog/container-security-nobody-knows-what-it-means-but-its-provocative/">Container Security - Nobody Knows What It Means But It&rsquo;s Provocative</a><br />
+            &ldquo;[T]his post helps delineate the different areas of container security and why they&rsquo;re each important. As a community - not just security, but also embracing our friends in DevOps - we must work to secure the containers lest we become contained by our own failures.&rdquo;</p>
+
+          <p><a href="https://lists.cncf.io/g/cncf-sig-app-delivery/topic/71453445#151">Starting work on Operator Working Group</a><br />
+            CNCF is also starting up an Operator working group. I hope to be able to participate in this as it&rsquo;s going to be a fun space for a while.</p>
+
+          <p><a href="https://opensource.com/article/20/2/devops-vs-itsm">How to solve the DevOps vs. ITSM culture clash</a><br />
+            I know I faced this problem head on in a few organizations. &ldquo;Declare a truce between ITSM and DevOps within your organization by learning these lessons.&rdquo;</p>
+
+          <p><a href="https://logz.io/freeshirt/?utm_source=podcast&amp;utm_medium=devopish&amp;utm_campaign=freeshirt">Open Source-based Cloud Observability</a><br />
+            If you are like many of your friends in DevOps, you might prefer using open source solutions. Logz.io&rsquo;s <a href="https://logz.io/freeshirt/?utm_source=podcast&amp;utm_medium=devopish&amp;utm_campaign=freeshirt">cloud observability platform</a> is designed to help deliver the open source experience you love, at the scale you need. Log management and Cloud SIEM based on ELK, and Infrastructure monitoring based on Grafana. All on one unified platform to help you correlate quickly between logs and metrics. Sign up for a <a href="https://logz.io/freeshirt/?utm_source=podcast&amp;utm_medium=devopish&amp;utm_campaign=freeshirt">free trial today</a> and receive a Logz.io t-shirt! <em>SPONSORED</em></p>
+
+          <p><a href="https://containerjournal.com/topics/container-ecosystems/mirantis-acquires-kubernetes-assets-from-kontena/">Mirantis Acquires Kubernetes Assets from Kontena</a><br />
+            &ldquo;Kontena role-based access control (RBAC) and multi-cluster management tools will find their way into Docker Kubernetes Service (DKS) and Universal Control Plane (UCP).&rdquo;</p>
+
+          <p><a href="https://www.rsaconference.com/usa/agenda/advanced-persistence-threats-the-future-of-kubernetes-attacks-3">Advanced Persistence Threats: The Future of Kubernetes Attacks</a><br />
+            &ldquo;Let&rsquo;s explore the dark corners of clusters and shine a light on several new advanced attacks on Kubernetes, and learn how to detect and prevent them using practical, proven methods.&rdquo;</p>
+
+          <p><a href="https://enterprisersproject.com/article/2020/2/devops-how-manage-remote-teams-tips">DevOps: 5 tips on how to manage stronger remote teams</a><br />
+            &ldquo;Are you leading or working in a DevOps team where some people work remote? Building a healthy culture presents some challenges - but experts say remote teams can become masters of collaboration and flexibility&rdquo;</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Tools</h2>
+          <p><a href="https://github.blog/2020-02-25-your-new-web-notifications-experience-is-here/">Your new web notifications experience is here</a><br />
+            Pretty sure I already f&rsquo;ed this up. I need to stop using GitHub on mobile. But, I&rsquo;m hopeful I can re-manage my notifications as opposed to having to be so beholden to email.</p>
+
+          <p><a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FSF-Forge-2020-Platform">Free Software Foundation Aims To Launch Code Hosting / Collaboration Platform This Year</a><br />
+            &ldquo;The Free Software Foundation&rsquo;s lead contender right now is using Pagure as the basis for their platform, but have some reservations over it since JavaScript is required for a pleasant experience. Gitea and Sourcehut are other options they are also exploring but have pros/cons for all of them.&rdquo;</p>
+
+          <p><a href="https://jerrygamblin.com/2020/02/23/on-demand-container-scanning-api/">On-Demand Container Scanning API</a><br />
+            &ldquo;scan.vulnerablecontainers.org is an open python API built using Trivy, Flask, Gunicorn, and Nginx that for now has two public endpoints (more endpoints and tools coming). From the start, I designed it to be easy to use in the browser or on the command line for integration with CI/CD.&rdquo;</p>
+
+          <p><a href="https://www.jeffgeerling.com/blog/2020/everyone-might-be-cluster-admin-your-kubernetes-cluster">Everyone might be a cluster-admin in your Kubernetes cluster</a><br />
+            &ldquo;What the installation guide doesn&rsquo;t tell you is that this manifest grants cluster-admin privileges to every single Pod in the default namespace!&rdquo; This is going to become a big problem pretty quick. You need to make sure you&rsquo;re applying RBAC and security policies to anything you pull down from the web.</p>
+
+          <p><a href="https://www.redhat.com/sysadmin/behind-scenes-podman">What happens behind the scenes of a rootless Podman container?</a><br />
+            &ldquo;Have you ever wondered what happens behind the scenes of a rootless Podman container? Let&rsquo;s walk through an example.&rdquo;</p>
+
+          <p><a href="https://letsencrypt.org/2020/02/27/one-billion-certs.html">Let&rsquo;s Encrypt Has Issued a Billion Certificates</a><br />
+            Huge thank you to the folks at Let&rsquo;s Encrypt and congratulations on building one of the most fantastic infrastructure services on the internet.</p>
+
+          <p><a href="https://www.nextplatform.com/2020/02/18/the-jellyfish-inspired-database-under-aws-block-storage/">The Jellyfish-Inspired Database Under AWS Block Storage</a><br />
+            &ldquo;While it is highly unlikely that AWS will ever open source Physalia, it is possible that it will inspire others to re-create elements of its architecture that will be open source, much as has happened with many hyperscaler and cloud builder technologies in the past.&rdquo;</p>
+
+          <p><a href="https://www.datadoghq.com/dg/monitor/docker-benefits-ts/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter02&amp;utm_content=Docker">Monitor Your Docker Containers More Effectively</a><br />
+            See across all of your Docker containers, servers, apps, and services in one place with Datadog&rsquo;s custom dashboards, distributed tracing, and 400+ vendor-backed integrations. Start your free trial today, create one dashboard, and receive a free Datadog t-shirt. <em>SPONSORED</em></p>
+
+          <p><a href="https://devclass.com/2020/02/25/crisis-what-crisis-netflix-opensources-incident-management-framework/">Crisis? What crisis? Netflix opensources incident management framework</a><br />
+            &ldquo;Netflix has open sourced its crisis management framework, giving organisations a standardised way to manage incidents and get back to a state of chill.&rdquo; I see what you did there.</p>
+
+          <p><a href="https://linkerd.io/2020/02/25/multicluster-kubernetes-with-service-mirroring/">Multicluster Kubernetes with Service Mirroring</a><br />
+            &ldquo;With service mirroring in place, the full observability, security, and routing features of Linkerd apply uniformly to both in-cluster and cluster-calls, and the application does not need to distinguish between those situations.&rdquo;</p>
+
+          <p><a href="https://jonas.github.io/tig/">Tig</a><br />
+            Text-mode interface for Git</p>
+
+          <p><a href="https://www.magalix.com/blog/implemeting-a-reverse-proxy-server-in-kubernetes-using-the-sidecar-pattern">Implementing A Reverse Proxy Server In Kubernetes Using The Sidecar</a><br />
+            DIY sidecar injection to help you understand the concept of having multiple containers in a single pod to form a fully functional web app.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/heyjulesfern/status/1233068108358619136" src="https://devopsish.com/images/169-tweet-of-the-week.png"></mj-image>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="75%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="50%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="25%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p style="font-size:12px"><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a></p>
+          <p style="font-size:12px">Want to change how you receive these emails?<br />
+            You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
