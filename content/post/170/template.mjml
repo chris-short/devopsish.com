@@ -31,9 +31,7 @@
       <mj-column width="100%">
         <mj-text>
           <p style="font-weight: bold">Welcome!</p>
-          <p>The first CNCF Air Gapped Working Group meeting happened this week. I was fortunate enough to be able to attend. Air gapped or disconnected environments have a few variants. But, the air gaps I&rsquo;m most familiar with are those between unclassified and classified US government systems (TEMPEST, EMSEC, COMSEC, etc.). Also, given the attendance, there is a lot of interest from folks across the public and private sectors. If you&rsquo;re interested in getting involved, <a href="https://lists.cncf.io/g/cncf-sig-app-delivery/topic/airgap_working_group_meeting/71568152">we&rsquo;re figuring out what the cadence of the meetings will be</a>. The current scope of our work is to provide a &ldquo;cookbook&rdquo; for maintaining an air gapped cloud native environment. Join the <a href="https://lists.cncf.io/g/cncf-sig-app-delivery/">CNCF SIG App Delivery mailing list</a> and keep an eye out for messages to see how to get involved.</p>
-
-          <p>The 2020 election for the <a href="https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/">Open Source Initiative Board of Directors</a> is rapidly approaching. I nominated myself for a seat on the board as an Individual Member. I spoke with a few friends in the months before submitting my nomination. It sounds like OSI could use my help <a href="http://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2020-February/021350.html">given the week they&rsquo;ve had</a>. Open source software has done nothing but provide opportunity after opportunity in my life. It should be cared for and maintained so that everyone willing can benefit from it as much as I have (hopefully more). If you&rsquo;re an OSI member, <a href="https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2020+Individual+and+Affiliate+Elections/Short2020">please considering me for a seat on the board</a>. If you&rsquo;re not an OSI member, you have until 1 March 2020 to join to vote. However, if you work with open source software, <a href="https://opensource.org/join">you should be an OSI member</a>.</p>
+          <p>Everything is canceled, postponed, or going virtual. Coronavirus (COVID-19) has already made drastic impacts across the planet. Particularly this week, when several companies restricted travel forcing conferences to do something if they hadn&rsquo;t already. KubeCon EU is getting pushed back to July or August. I canceled my plans earlier in the week because, with everything up in the air, there&rsquo;s no telling I&rsquo;ll be available to participate whenever it does eventually get rescheduled. Since a lot of us are probably stuck at home, I&rsquo;d like to remind you, I&rsquo;m always looking for opportunities to sit down and talk to folks from my office. I&rsquo;ve got the setup for it and have a few upgrades in mind. If you have an idea for a conversation instead of a Meetup, panel, or talk, feel free to reach out. I&rsquo;m looking for collaborative opportunities.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -48,20 +46,23 @@
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">People</h2>
-          <p><a href="https://kubernetes.io/blog/2020/02/18/contributor-summit-amsterdam-schedule-announced/">Kubernetes Contributor Summit Amsterdam Schedule Announced</a><br />
-            &ldquo;On top of the presentations, there will be a dedicated Docs Sprint as well as the New Contributor Workshop 101 and 201 Sessions. All told, we will have five separate rooms of content throughout the day on Monday.&rdquo;</p>
+          <p><a href="https://hbr.org/2020/03/dont-hide-bad-news-in-times-of-crisis">Don&rsquo;t Hide Bad News in Times of Crisis</a><br />
+            Dumbest thing you can do in a crisis is double down on existing decisions. The next dumbest thing is to double down without being transparent about what work is in progress to reassess the situation.</p>
 
-          <p><a href="https://www.ansible.com/blog/announcement-ansible-contributor-summit-europe">Ansible Contributor Summit Europe</a><br />
-            &ldquo;A European Contributor Summit will be held in Gothenburg, Sweden, ahead of the usual summit at AnsibleFest! On March 29 we&rsquo;ll be welcoming new and old contributors alike. So if you already contribute to Ansible, or would like to, but don&rsquo;t know how or where to start, this event is for you.&rdquo;</p>
+          <p><a href="https://www.usatoday.com/story/news/nation/2020/03/06/coronavirus-us-naming-victims-would-violate-hipaa-dangerous/4964498002/">Coronavirus, US: Naming victims would violate HIPAA, be dangerous</a><br />
+            Imagine how appalled I was when a coworker told me they had their town&rsquo;s first coronavirus victim identified on the local news. It was with consent as part of a public health announcement but, that has to be a pretty dire situation (like coronavirus).</p>
 
-          <p><a href="https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews">The Horrifically Dystopian World of Software Engineering Interviews</a><br />
-            &ldquo;Why are we measuring people and not learning about people?&rdquo;</p>
+          <p><a href="https://www.diffblue.com/Education/research_papers/2019-diffblue-developer-survey/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=DevOpsIsh">The Diffblue Developer Survey</a><br />
+            What&rsquo;s wrong with software speed, quality, and cost? Oxford-based AI company Diffblue surveyed 300 developers to find out what the people who actually work with code have to say about testing, their pain points, and what&rsquo;s holding back DevOps in their organizations. <em>SPONSORED</em></p>
 
-          <p><a href="https://www.daolf.com/posts/best-programming-books/">The 25 most recommended programming books of all-time</a><br />
-            This is an excellent list of books. I&rsquo;d like to see a similar method for DevOps books.</p>
+          <p><a href="https://www.redhat.com/sysadmin/women-ops">Women in Ops</a><br />
+            With the push towards diversity in tech, why are women under-represented in operations?</p>
 
-          <p><a href="https://cyberlaw.stanford.edu/blog/2020/02/doj-plans-strike-against-encryption-while-techlash-iron-hot">DOJ Plans to Strike Against Encryption While the Techlash Iron Is Hot</a><br />
-            The US Department of Justice intends to strike while the iron is hot in the encryption war as public opinion of tech companies wanes. This is a pretty serious deal and the US government might get away with it given how dependent the US is upon mass surveillance.</p>
+          <p><a href="https://www.businessinsider.com/github-hires-nicole-forsgren-devops-researcher-google-cloud-dora-2020-3">GitHub hires top DevOps researcher who founded Google Cloud-owned DORA</a><br />
+            I think having Business Insider covering you being poached is a new career goal (that is a very high bar). Congratulations to Nicole Forsgren on her new role!</p>
+
+          <p><a href="https://www.infoworld.com/article/3530300/should-open-source-be-ethical.html">Should open source be ethical?</a><br />
+            &ldquo;At present, software licenses that prohibit socially harmful or unethical uses cannot be considered open source. Should we change that?&rdquo;</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -76,26 +77,26 @@
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">Process</h2>
-          <p><a href="https://capsule8.com/blog/container-security-nobody-knows-what-it-means-but-its-provocative/">Container Security - Nobody Knows What It Means But It&rsquo;s Provocative</a><br />
-            &ldquo;[T]his post helps delineate the different areas of container security and why they&rsquo;re each important. As a community - not just security, but also embracing our friends in DevOps - we must work to secure the containers lest we become contained by our own failures.&rdquo;</p>
+          <p><a href="https://www.reddit.com/r/kubernetes/comments/fdgblk/google_gke_to_introduce_management_fees_by_june/">Google GKE to introduce management fees by June 6th</a><br />
+            &ldquo;If the main value of GKE over &lt;other&gt; is $73, you should totally use &lt;other&gt;.&rdquo; But, your GKE bill is going up.</p>
 
-          <p><a href="https://lists.cncf.io/g/cncf-sig-app-delivery/topic/71453445#151">Starting work on Operator Working Group</a><br />
-            CNCF is also starting up an Operator working group. I hope to be able to participate in this as it&rsquo;s going to be a fun space for a while.</p>
+          <p><a href="https://www.scmagazineuk.com/unfixable-vulnerability-intel-chipsets-lets-attackers-decrypt-data/article/1676112">Unfixable vulnerability in Intel chipsets lets attackers decrypt data</a><br />
+            &ldquo;A vulnerability in Intel CSME - CVE-2019-0090 - can enable a local attacker to extract the chipset key stored on the PCH microchip and obtain access to data encrypted with the key. Discoverers Positive Technologies say that it is impossible to detect such a key breach.&rdquo;</p>
 
-          <p><a href="https://opensource.com/article/20/2/devops-vs-itsm">How to solve the DevOps vs. ITSM culture clash</a><br />
-            I know I faced this problem head on in a few organizations. &ldquo;Declare a truce between ITSM and DevOps within your organization by learning these lessons.&rdquo;</p>
+          <p><a href="https://securityaffairs.co/wordpress/99043/hacking/linux-rce-ppp-daemon-flaw.html">Most of Linux distros affected by a critical RCE in PPP Daemon flaw</a><br />
+            &ldquo;The flaw, tracked as CVE-2020-8597, was discovered by the expert Ilja Van Sprundel from IOActive, it is a stack buffer overflow issue that is caused by a logical error in the Extensible Authentication Protocol (EAP) packet parser of the pppd software.&rdquo; I feel like Obi Won Kenobi on this one. EAP? That&rsquo;s a protocol I haven&rsquo;t heard in a long time.</p>
 
-          <p><a href="https://logz.io/freeshirt/?utm_source=podcast&amp;utm_medium=devopish&amp;utm_campaign=freeshirt">Open Source-based Cloud Observability</a><br />
-            If you are like many of your friends in DevOps, you might prefer using open source solutions. Logz.io&rsquo;s <a href="https://logz.io/freeshirt/?utm_source=podcast&amp;utm_medium=devopish&amp;utm_campaign=freeshirt">cloud observability platform</a> is designed to help deliver the open source experience you love, at the scale you need. Log management and Cloud SIEM based on ELK, and Infrastructure monitoring based on Grafana. All on one unified platform to help you correlate quickly between logs and metrics. Sign up for a <a href="https://logz.io/freeshirt/?utm_source=podcast&amp;utm_medium=devopish&amp;utm_campaign=freeshirt">free trial today</a> and receive a Logz.io t-shirt! <em>SPONSORED</em></p>
+          <p><a href="https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=paid+media&amp;utm_source=devopsish&amp;utm_campaign=ioca20&amp;utm_content=paid+devopsish+march+9">Join us for the inaugural O&rsquo;Reilly Infrastructure &amp; Ops Conference</a><br />
+            From legacy to leading edge, learn how to modernize your systems, train with industry experts, and network with peers at the first <a href="https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=paid+media&amp;utm_source=devopsish&amp;utm_campaign=ioca20&amp;utm_content=paid+devopsish+march+9">Infrastructure &amp; Ops Conference</a> in Santa Clara, June 15-18. Save up to $700 during Best Price, which ends on March 20. <a href="https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=paid+media&amp;utm_source=devopsish&amp;utm_campaign=ioca20&amp;utm_content=paid+devopsish+march+9"><strong>Register today</strong></a>. <em>SPONSORED</em></p>
 
-          <p><a href="https://containerjournal.com/topics/container-ecosystems/mirantis-acquires-kubernetes-assets-from-kontena/">Mirantis Acquires Kubernetes Assets from Kontena</a><br />
-            &ldquo;Kontena role-based access control (RBAC) and multi-cluster management tools will find their way into Docker Kubernetes Service (DKS) and Universal Control Plane (UCP).&rdquo;</p>
+          <p><a href="https://www.cncf.io/blog/2020/03/04/2019-cncf-survey-results-are-here-deployments-are-growing-in-size-and-speed-as-cloud-native-adoption-becomes-mainstream/">2019 CNCF Survey results are here</a><br />
+            Deployments are growing in size and speed as cloud native adoption becomes mainstream</p>
 
-          <p><a href="https://www.rsaconference.com/usa/agenda/advanced-persistence-threats-the-future-of-kubernetes-attacks-3">Advanced Persistence Threats: The Future of Kubernetes Attacks</a><br />
-            &ldquo;Let&rsquo;s explore the dark corners of clusters and shine a light on several new advanced attacks on Kubernetes, and learn how to detect and prevent them using practical, proven methods.&rdquo;</p>
+          <p><a href="https://www.linkedin.com/pulse/slo-pitfalls-femi-agbabiaka/">SLO Pitfalls</a><br />
+            &ldquo;[S]etting and forgetting is not as simple as it may seem. I wanted to walk through a few common pitfalls I&rsquo;ve seen and discuss how your organizations can avoid them.&rdquo;</p>
 
-          <p><a href="https://enterprisersproject.com/article/2020/2/devops-how-manage-remote-teams-tips">DevOps: 5 tips on how to manage stronger remote teams</a><br />
-            &ldquo;Are you leading or working in a DevOps team where some people work remote? Building a healthy culture presents some challenges - but experts say remote teams can become masters of collaboration and flexibility&rdquo;</p>
+          <p><a href="https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/">A Survey of Istio&rsquo;s Network Security Features</a><br />
+            &ldquo;In this blog post we used lab-based examples to illustrate common misconceptions and pitfalls encountered when using Istio to limit workloads&rsquo; network traffic&rdquo;</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -110,41 +111,32 @@
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">Tools</h2>
-          <p><a href="https://github.blog/2020-02-25-your-new-web-notifications-experience-is-here/">Your new web notifications experience is here</a><br />
-            Pretty sure I already f&rsquo;ed this up. I need to stop using GitHub on mobile. But, I&rsquo;m hopeful I can re-manage my notifications as opposed to having to be so beholden to email.</p>
+          <p><a href="https://www.redhat.com/sysadmin/kubernetes-operators">Kubernetes operators: Embedding operational expertise side by side with containerized applications</a><br />
+            Kubernetes isn&rsquo;t complex, your business problem is. Learn how operators make it easy to run complex software at scale. &ldquo;I often describe the Operator pattern as deploying a robot sysadmin next to the containerized application.&rdquo;</p>
 
-          <p><a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FSF-Forge-2020-Platform">Free Software Foundation Aims To Launch Code Hosting / Collaboration Platform This Year</a><br />
-            &ldquo;The Free Software Foundation&rsquo;s lead contender right now is using Pagure as the basis for their platform, but have some reservations over it since JavaScript is required for a pleasant experience. Gitea and Sourcehut are other options they are also exploring but have pros/cons for all of them.&rdquo;</p>
+          <p><a href="https://istio.io/blog/2020/tradewinds-2020/">Istio in 2020 - Following the Trade Winds</a><br />
+            The who, what, where, and how of Istio plans for 2020.</p>
 
-          <p><a href="https://jerrygamblin.com/2020/02/23/on-demand-container-scanning-api/">On-Demand Container Scanning API</a><br />
-            &ldquo;scan.vulnerablecontainers.org is an open python API built using Trivy, Flask, Gunicorn, and Nginx that for now has two public endpoints (more endpoints and tools coming). From the start, I designed it to be easy to use in the browser or on the command line for integration with CI/CD.&rdquo;</p>
+          <p><a href="https://blog.baturin.org/anycast-routing.html">Anycast routing</a><br />
+            A very quick overview of one of my favorite pieces of technology: Anycast.</p>
 
-          <p><a href="https://www.jeffgeerling.com/blog/2020/everyone-might-be-cluster-admin-your-kubernetes-cluster">Everyone might be a cluster-admin in your Kubernetes cluster</a><br />
-            &ldquo;What the installation guide doesn&rsquo;t tell you is that this manifest grants cluster-admin privileges to every single Pod in the default namespace!&rdquo; This is going to become a big problem pretty quick. You need to make sure you&rsquo;re applying RBAC and security policies to anything you pull down from the web.</p>
+          <p><a href="https://thenewstack.io/how-openebs-brings-container-attached-storage-to-kubernetes/">How OpenEBS Brings Container Attached Storage to Kubernetes</a><br />
+            &ldquo;Container Attached Storage enables Kubernetes users to treat storage entities as microservices. CAS has two elements — the control plane and the data plane. The control plane is deployed as a set of Custom Resource Definitions (CRD) that deal with the low-level storage entities. The data plane runs as a collection of Pods close to the workload.&rdquo;</p>
 
-          <p><a href="https://www.redhat.com/sysadmin/behind-scenes-podman">What happens behind the scenes of a rootless Podman container?</a><br />
-            &ldquo;Have you ever wondered what happens behind the scenes of a rootless Podman container? Let&rsquo;s walk through an example.&rdquo;</p>
+          <p><a href="https://www.nextplatform.com/2019/06/10/future-kubernetes-will-mimic-what-facebook-already-does/">Future Kubernetes Will Mimic What Facebook Already Does</a><br />
+            &ldquo;The pity is that Facebook is not going to create an open source version of the Tupperware cluster and container controller, or the new Delos storage service that is underpinning the current iteration of the control plane in Tupperware, both of which were discussed at Facebook&rsquo;s System @scale event late last week.&rdquo;</p>
 
-          <p><a href="https://letsencrypt.org/2020/02/27/one-billion-certs.html">Let&rsquo;s Encrypt Has Issued a Billion Certificates</a><br />
-            Huge thank you to the folks at Let&rsquo;s Encrypt and congratulations on building one of the most fantastic infrastructure services on the internet.</p>
+          <p><a href="https://www.datadoghq.com/dg/monitor/linux-monitoring/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter03&amp;utm_content=Linux">Investigate and Troubleshoot Linux Issues Faster</a><br />
+            Start monitoring all your servers, both on-prem and in the cloud, within minutes with Datadog. Create actionable alerts to improve Linux performance and seamlessly navigate between logs, infrastructure metrics, and application traces in one place for faster troubleshooting. Try monitoring Linux with Datadog for free. <em>SPONSORED</em></p>
 
-          <p><a href="https://www.nextplatform.com/2020/02/18/the-jellyfish-inspired-database-under-aws-block-storage/">The Jellyfish-Inspired Database Under AWS Block Storage</a><br />
-            &ldquo;While it is highly unlikely that AWS will ever open source Physalia, it is possible that it will inspire others to re-create elements of its architecture that will be open source, much as has happened with many hyperscaler and cloud builder technologies in the past.&rdquo;</p>
+          <p><a href="https://enterprisersproject.com/article/2020/3/kubernetes-best-practices-building-applications-containers">7 best practices: Building applications for containers and Kubernetes</a><br />
+            Let&rsquo;s examine key considerations for building new applications specifically for containers and Kubernetes, according to cloud-native experts</p>
 
-          <p><a href="https://www.datadoghq.com/dg/monitor/docker-benefits-ts/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter02&amp;utm_content=Docker">Monitor Your Docker Containers More Effectively</a><br />
-            See across all of your Docker containers, servers, apps, and services in one place with Datadog&rsquo;s custom dashboards, distributed tracing, and 400+ vendor-backed integrations. Start your free trial today, create one dashboard, and receive a free Datadog t-shirt. <em>SPONSORED</em></p>
+          <p><a href="https://enterprisersproject.com/article/2020/3/kubernetes-migrating-applications-containers-5-best-practices">Migrating applications to containers and Kubernetes: 5 best practices</a><br />
+            Let&rsquo;s examine key considerations for migrating existing applications to containers and Kubernetes, according to experts</p>
 
-          <p><a href="https://devclass.com/2020/02/25/crisis-what-crisis-netflix-opensources-incident-management-framework/">Crisis? What crisis? Netflix opensources incident management framework</a><br />
-            &ldquo;Netflix has open sourced its crisis management framework, giving organisations a standardised way to manage incidents and get back to a state of chill.&rdquo; I see what you did there.</p>
-
-          <p><a href="https://linkerd.io/2020/02/25/multicluster-kubernetes-with-service-mirroring/">Multicluster Kubernetes with Service Mirroring</a><br />
-            &ldquo;With service mirroring in place, the full observability, security, and routing features of Linkerd apply uniformly to both in-cluster and cluster-calls, and the application does not need to distinguish between those situations.&rdquo;</p>
-
-          <p><a href="https://jonas.github.io/tig/">Tig</a><br />
-            Text-mode interface for Git</p>
-
-          <p><a href="https://www.magalix.com/blog/implemeting-a-reverse-proxy-server-in-kubernetes-using-the-sidecar-pattern">Implementing A Reverse Proxy Server In Kubernetes Using The Sidecar</a><br />
-            DIY sidecar injection to help you understand the concept of having multiple containers in a single pod to form a fully functional web app.</p>
+          <p><a href="https://youtu.be/K3jNo4z5Jx8">Kubernetes Namespaces Explained in 15 mins (YouTube)</a><br />
+            Introduction to Kubernetes Namespaces: What are Kubernetes Namespaces? How do Namespaces help you manage your Kubernetes resources and how to use them?</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -160,7 +152,7 @@
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
         </mj-text>
-        <mj-image width="600px" padding-top="0" href="https://twitter.com/heyjulesfern/status/1233068108358619136" src="https://devopsish.com/images/170-tweet-of-the-week.png"></mj-image>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/DalaiLama/status/1235875303764844544" src="https://devopsish.com/images/170-tweet-of-the-week.png"></mj-image>
         </mj-text>
       </mj-column>
     </mj-section>

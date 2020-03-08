@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-03-08T07:00:00Z
-description = ""
+description = "We're all grounded, transparency, women in ops, GKE price hike, pppd flaw, GitHub poaches Nicole Forsgren, container attached storage, and more"
 draft = false
 slug = "170"
-tags = []
+tags = ["Kubernetes", "Operators", "Istio", "DevOps", "cloud native", "cloud", "open source", "storage", "control plane", "coronavirus", "COVID-19", "Linux", "containers", "namespaces", "Google", "GKE", "Intel", "infrastructure", "CNCF", "Ops", "Nicole Forsgren", "container attached storage", "OpenEBS"]
 title = "DevOps'ish 170"
 
 +++
 
-Everything is canceled, postponed, or going virtual. Coronavirus (COVID-19) has already made drastic impacts across the planet. Particularly this week when several companies restricted travel forcing conferences to do something if they hadn't already. KubeCon EU is getting pushed back to July or August. I cancelled my plans earlier in the week because to be honest, with everything up in the air, there's no telling I'll be available to participate whenever it does eventually get rescheduled to. With that being said, I'm always looking for opportunities to sit down and talk to folks from my office. I've got the setup for it and have a few upgrades in mind. If you have an idea for a conversation in lieu of a Meetup, panel or talk, feel free to reach out. I'm looking for opportunities.
+Everything is canceled, postponed, or going virtual. Coronavirus (COVID-19) has already made drastic impacts across the planet. Particularly this week, when several companies restricted travel forcing conferences to do something if they hadn't already. KubeCon EU is getting pushed back to July or August. I canceled my plans earlier in the week because, with everything up in the air, there's no telling I'll be available to participate whenever it does eventually get rescheduled. Since a lot of us are probably stuck at home, I'd like to remind you, I'm always looking for opportunities to sit down and talk to folks from my office. I've got the setup for it and have a few upgrades in mind. If you have an idea for a conversation instead of a Meetup, panel, or talk, feel free to reach out. I'm looking for collaborative opportunities.
 
 ## People
 
@@ -28,7 +28,7 @@ What's wrong with software speed, quality, and cost? Oxford-based AI company Dif
 With the push towards diversity in tech, why are women under-represented in operations?
 
 [GitHub hires top DevOps researcher who founded Google Cloud-owned DORA](https://www.businessinsider.com/github-hires-nicole-forsgren-devops-researcher-google-cloud-dora-2020-3)  
-I think having Business Insider covering you being poached is a new career goal (that is an very high bar). Congratulations to Nicole on her new role!
+I think having Business Insider covering you being poached is a new career goal (that is a very high bar). Congratulations to Nicole Forsgren on her new role!
 
 [Should open source be ethical?](https://www.infoworld.com/article/3530300/should-open-source-be-ethical.html)  
 "At present, software licenses that prohibit socially harmful or unethical uses cannot be considered open source. Should we change that?"
@@ -41,7 +41,7 @@ I think having Business Insider covering you being poached is a new career goal 
 [Unfixable vulnerability in Intel chipsets lets attackers decrypt data](https://www.scmagazineuk.com/unfixable-vulnerability-intel-chipsets-lets-attackers-decrypt-data/article/1676112)  
 "A vulnerability in Intel CSME - CVE-2019-0090 - can enable a local attacker to extract the chipset key stored on the PCH microchip and obtain access to data encrypted with the key. Discoverers Positive Technologies say that it is impossible to detect such a key breach."
 
-[Most of Linux distros affected by a critical RCE in PPP Daemon flawSecurity Affairs](https://securityaffairs.co/wordpress/99043/hacking/linux-rce-ppp-daemon-flaw.html)  
+[Most of Linux distros affected by a critical RCE in PPP Daemon flaw](https://securityaffairs.co/wordpress/99043/hacking/linux-rce-ppp-daemon-flaw.html)  
 "The flaw, tracked as CVE-2020-8597, was discovered by the expert Ilja Van Sprundel from IOActive, it is a stack buffer overflow issue that is caused by a logical error in the Extensible Authentication Protocol (EAP) packet parser of the pppd software." I feel like Obi Won Kenobi on this one. EAP? That's a protocol I haven't heard in a long time.
 
 [Join us for the inaugural O'Reilly Infrastructure & Ops Conference](https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=paid+media&utm_source=devopsish&utm_campaign=ioca20&utm_content=paid+devopsish+march+9)  
@@ -82,7 +82,7 @@ Let's examine key considerations for building new applications specifically for 
 [Migrating applications to containers and Kubernetes: 5 best practices](https://enterprisersproject.com/article/2020/3/kubernetes-migrating-applications-containers-5-best-practices)  
 Let's examine key considerations for migrating existing applications to containers and Kubernetes, according to experts
 
-[Kubernetes Namespaces Explained in 15 mins](https://www.youtube.com/watch?v=K3jNo4z5Jx8&feature=youtu.be) (YouTube)  
+[Kubernetes Namespaces Explained in 15 mins (YouTube)](https://youtu.be/K3jNo4z5Jx8)  
 Introduction to Kubernetes Namespaces: What are Kubernetes Namespaces? How do Namespaces help you manage your Kubernetes resources and how to use them?
 
 ## DevOps'ish Tweet of the Week
