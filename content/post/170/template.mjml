@@ -4,7 +4,7 @@
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
     <mj-attributes>
       <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
-      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-text font-weight="300" font-size="16px" color="#666666" line-height="24px"></mj-text>
       <mj-section padding="0px"></mj-section>
     </mj-attributes>
   </mj-head>
@@ -21,10 +21,10 @@
     </mj-section>
     <mj-section>
       <mj-column width="75%">
-        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666666"></mj-divider>
         <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 170</mj-text>
-        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
-        <mj-divider border-width="2px" border-color="#616161" width="50%"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666666"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666666" width="50%"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section padding-top="30px">
@@ -38,7 +38,7 @@
 
     <mj-section>
       <mj-column width="75%">
-        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666666"></mj-divider>
       </mj-column>
     </mj-section>
 
@@ -69,7 +69,7 @@
 
     <mj-section>
       <mj-column width="75%">
-        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666666"></mj-divider>
       </mj-column>
     </mj-section>
 
@@ -103,7 +103,7 @@
 
     <mj-section>
       <mj-column width="75%">
-        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666666"></mj-divider>
       </mj-column>
     </mj-section>
 
@@ -143,7 +143,7 @@
 
     <mj-section>
       <mj-column width="75%">
-        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666666"></mj-divider>
       </mj-column>
     </mj-section>
 
