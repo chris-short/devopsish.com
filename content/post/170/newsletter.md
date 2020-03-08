@@ -15,14 +15,14 @@ Everything is canceled, postponed, or going virtual. Coronavirus (COVID-19) has 
 
 ## People
 
-[Don’t Hide Bad News in Times of Crisis](https://hbr.org/2020/03/dont-hide-bad-news-in-times-of-crisis)  
+[Don't Hide Bad News in Times of Crisis](https://hbr.org/2020/03/dont-hide-bad-news-in-times-of-crisis)  
 Dumbest thing you can do in a crisis is double down on existing decisions. The next dumbest thing is to double down without being transparent about what work is in progress to reassess the situation.
 
 [Coronavirus, US: Naming victims would violate HIPAA, be dangerous](https://www.usatoday.com/story/news/nation/2020/03/06/coronavirus-us-naming-victims-would-violate-hipaa-dangerous/4964498002/)  
 Imagine how appalled I was when a coworker told me they had their town's first coronavirus victim identified on the local news. It was with consent as part of a public health announcement but, that has to be a pretty dire situation (like coronavirus).
 
 [The Diffblue Developer Survey](https://www.diffblue.com/Education/research_papers/2019-diffblue-developer-survey/?utm_source=newsletter&utm_medium=email&utm_campaign=DevOpsIsh)  
-What's wrong with software speed, quality, and cost? Oxford-based AI company Diffblue surveyed 300 developers to find out what the people who actually work with code have to say about testing, their pain points, and what’s holding back DevOps in their organizations. *SPONSORED*
+What's wrong with software speed, quality, and cost? Oxford-based AI company Diffblue surveyed 300 developers to find out what the people who actually work with code have to say about testing, their pain points, and what's holding back DevOps in their organizations. *SPONSORED*
 
 [Women in Ops](https://www.redhat.com/sysadmin/women-ops)  
 With the push towards diversity in tech, why are women under-represented in operations?
@@ -54,7 +54,7 @@ Deployments are growing in size and speed as cloud native adoption becomes mains
 "[S]etting and forgetting is not as simple as it may seem. I wanted to walk through a few common pitfalls I've seen and discuss how your organizations can avoid them."
 
 [A Survey of Istio's Network Security Features](https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/)  
-"In this blog post we used lab-based examples to illustrate common misconceptions and pitfalls encountered when using Istio to limit workloads’ network traffic"
+"In this blog post we used lab-based examples to illustrate common misconceptions and pitfalls encountered when using Istio to limit workloads' network traffic"
 
 ## Tools
 
@@ -71,16 +71,16 @@ A very quick overview of one of my favorite pieces of technology: Anycast.
 "Container Attached Storage enables Kubernetes users to treat storage entities as microservices. CAS has two elements — the control plane and the data plane. The control plane is deployed as a set of Custom Resource Definitions (CRD) that deal with the low-level storage entities. The data plane runs as a collection of Pods close to the workload."
 
 [Future Kubernetes Will Mimic What Facebook Already Does](https://www.nextplatform.com/2019/06/10/future-kubernetes-will-mimic-what-facebook-already-does/)  
-"The pity is that Facebook is not going to create an open source version of the Tupperware cluster and container controller, or the new Delos storage service that is underpinning the current iteration of the control plane in Tupperware, both of which were discussed at Facebook’s System @scale event late last week."
+"The pity is that Facebook is not going to create an open source version of the Tupperware cluster and container controller, or the new Delos storage service that is underpinning the current iteration of the control plane in Tupperware, both of which were discussed at Facebook's System @scale event late last week."
 
 [Investigate and Troubleshoot Linux Issues Faster](https://www.datadoghq.com/dg/monitor/linux-monitoring/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=DevOpsish-Newsletter03&utm_content=Linux)  
 Start monitoring all your servers, both on-prem and in the cloud, within minutes with Datadog. Create actionable alerts to improve Linux performance and seamlessly navigate between logs, infrastructure metrics, and application traces in one place for faster troubleshooting. Try monitoring Linux with Datadog for free. *SPONSORED*
 
 [7 best practices: Building applications for containers and Kubernetes](https://enterprisersproject.com/article/2020/3/kubernetes-best-practices-building-applications-containers)  
-Let’s examine key considerations for building new applications specifically for containers and Kubernetes, according to cloud-native experts
+Let's examine key considerations for building new applications specifically for containers and Kubernetes, according to cloud-native experts
 
 [Migrating applications to containers and Kubernetes: 5 best practices](https://enterprisersproject.com/article/2020/3/kubernetes-migrating-applications-containers-5-best-practices)  
-Let’s examine key considerations for migrating existing applications to containers and Kubernetes, according to experts
+Let's examine key considerations for migrating existing applications to containers and Kubernetes, according to experts
 
 [Kubernetes Namespaces Explained in 15 mins](https://www.youtube.com/watch?v=K3jNo4z5Jx8&feature=youtu.be) (YouTube)  
 Introduction to Kubernetes Namespaces: What are Kubernetes Namespaces? How do Namespaces help you manage your Kubernetes resources and how to use them?
