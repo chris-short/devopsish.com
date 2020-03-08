@@ -111,4 +111,4 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 ## Tweet of the Week
 
-{{< tweet 1189154519466336257 >}}
+![Jill Jubs on Twitter](/images/152-tweet-of-the-week.png)
