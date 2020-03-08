@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.production.environment]
 HUGO_VERSION = "0.56.3"
@@ -8,7 +8,7 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "git submodule update --rebase --remote && hugo --gc --minify --enableGitInfo"
+command = "git submodule update --rebase --remote && hugo --gc --minify --enableGitInfo -b $DEPLOY_PRIME_URL"
 
 [context.split1.environment]
 HUGO_VERSION = "0.56.3"
