@@ -1,0 +1,179 @@
+<mjml>
+  <mj-head>
+    <mj-title>DevOps'ish Weekly Newsletter</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#333" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="20px 0">
+      <mj-column width="100%">
+        <mj-image src="https://devopsish.com/img/DevOpsish-Wide.png" title="DevOps'ish" alt="DevOps'ish wide logo"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">DevOps'ish is assembled by open source professional, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador Chris Short</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 171</mj-text>
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666" width="50%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p style="font-weight: bold">Welcome!</p>
+          <p>Everything is canceled, postponed, or going virtual. Coronavirus (COVID-19) has already made drastic impacts across the planet. Particularly this week, when several companies restricted travel forcing conferences to do something if they hadn&rsquo;t already. KubeCon EU is getting pushed back to July or August. I canceled my plans earlier in the week because, with everything up in the air, there&rsquo;s no telling I&rsquo;ll be available to participate whenever it does eventually get rescheduled. Since a lot of us are probably stuck at home, I&rsquo;d like to remind you, I&rsquo;m always looking for opportunities to sit down and talk to folks from my office. I&rsquo;ve got the setup for it and have a few upgrades in mind. If you have an idea for a conversation instead of a Meetup, panel, or talk, feel free to reach out. I&rsquo;m looking for collaborative opportunities.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">People</h2>
+          <p><a href="https://hbr.org/2020/03/dont-hide-bad-news-in-times-of-crisis">Don&rsquo;t Hide Bad News in Times of Crisis</a><br />
+            Dumbest thing you can do in a crisis is double down on existing decisions. The next dumbest thing is to double down without being transparent about what work is in progress to reassess the situation.</p>
+
+          <p><a href="https://www.usatoday.com/story/news/nation/2020/03/06/coronavirus-us-naming-victims-would-violate-hipaa-dangerous/4964498002/">Coronavirus, US: Naming victims would violate HIPAA, be dangerous</a><br />
+            Imagine how appalled I was when a coworker told me they had their town&rsquo;s first coronavirus victim identified on the local news. It was with consent as part of a public health announcement but, that has to be a pretty dire situation (like coronavirus).</p>
+
+          <p><a href="https://www.diffblue.com/Education/research_papers/2019-diffblue-developer-survey/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=DevOpsIsh">The Diffblue Developer Survey</a><br />
+            What&rsquo;s wrong with software speed, quality, and cost? Oxford-based AI company Diffblue surveyed 300 developers to find out what the people who actually work with code have to say about testing, their pain points, and what&rsquo;s holding back DevOps in their organizations. <em>SPONSORED</em></p>
+
+          <p><a href="https://www.redhat.com/sysadmin/women-ops">Women in Ops</a><br />
+            With the push towards diversity in tech, why are women under-represented in operations?</p>
+
+          <p><a href="https://www.businessinsider.com/github-hires-nicole-forsgren-devops-researcher-google-cloud-dora-2020-3">GitHub hires top DevOps researcher who founded Google Cloud-owned DORA</a><br />
+            I think having Business Insider covering you being poached is a new career goal (that is a very high bar). Congratulations to Nicole Forsgren on her new role!</p>
+
+          <p><a href="https://www.infoworld.com/article/3530300/should-open-source-be-ethical.html">Should open source be ethical?</a><br />
+            &ldquo;At present, software licenses that prohibit socially harmful or unethical uses cannot be considered open source. Should we change that?&rdquo;</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Process</h2>
+          <p><a href="https://www.reddit.com/r/kubernetes/comments/fdgblk/google_gke_to_introduce_management_fees_by_june/">Google GKE to introduce management fees by June 6th</a><br />
+            &ldquo;If the main value of GKE over &lt;other&gt; is $73, you should totally use &lt;other&gt;.&rdquo; But, your GKE bill is going up.</p>
+
+          <p><a href="https://www.scmagazineuk.com/unfixable-vulnerability-intel-chipsets-lets-attackers-decrypt-data/article/1676112">Unfixable vulnerability in Intel chipsets lets attackers decrypt data</a><br />
+            &ldquo;A vulnerability in Intel CSME - CVE-2019-0090 - can enable a local attacker to extract the chipset key stored on the PCH microchip and obtain access to data encrypted with the key. Discoverers Positive Technologies say that it is impossible to detect such a key breach.&rdquo;</p>
+
+          <p><a href="https://securityaffairs.co/wordpress/99043/hacking/linux-rce-ppp-daemon-flaw.html">Most of Linux distros affected by a critical RCE in PPP Daemon flaw</a><br />
+            &ldquo;The flaw, tracked as CVE-2020-8597, was discovered by the expert Ilja Van Sprundel from IOActive, it is a stack buffer overflow issue that is caused by a logical error in the Extensible Authentication Protocol (EAP) packet parser of the pppd software.&rdquo; I feel like Obi Won Kenobi on this one. EAP? That&rsquo;s a protocol I haven&rsquo;t heard in a long time.</p>
+
+          <p><a href="https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=paid+media&amp;utm_source=devopsish&amp;utm_campaign=ioca20&amp;utm_content=paid+devopsish+march+9">Join us for the inaugural O&rsquo;Reilly Infrastructure &amp; Ops Conference</a><br />
+            From legacy to leading edge, learn how to modernize your systems, train with industry experts, and network with peers at the first <a href="https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=paid+media&amp;utm_source=devopsish&amp;utm_campaign=ioca20&amp;utm_content=paid+devopsish+march+9">Infrastructure &amp; Ops Conference</a> in Santa Clara, June 15-18. Save up to $700 during Best Price, which ends on March 20. <a href="https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=paid+media&amp;utm_source=devopsish&amp;utm_campaign=ioca20&amp;utm_content=paid+devopsish+march+9"><strong>Register today</strong></a>. <em>SPONSORED</em></p>
+
+          <p><a href="https://www.cncf.io/blog/2020/03/04/2019-cncf-survey-results-are-here-deployments-are-growing-in-size-and-speed-as-cloud-native-adoption-becomes-mainstream/">2019 CNCF Survey results are here</a><br />
+            Deployments are growing in size and speed as cloud native adoption becomes mainstream</p>
+
+          <p><a href="https://www.linkedin.com/pulse/slo-pitfalls-femi-agbabiaka/">SLO Pitfalls</a><br />
+            &ldquo;[S]etting and forgetting is not as simple as it may seem. I wanted to walk through a few common pitfalls I&rsquo;ve seen and discuss how your organizations can avoid them.&rdquo;</p>
+
+          <p><a href="https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/">A Survey of Istio&rsquo;s Network Security Features</a><br />
+            &ldquo;In this blog post we used lab-based examples to illustrate common misconceptions and pitfalls encountered when using Istio to limit workloads&rsquo; network traffic&rdquo;</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Tools</h2>
+          <p><a href="https://www.redhat.com/sysadmin/kubernetes-operators">Kubernetes operators: Embedding operational expertise side by side with containerized applications</a><br />
+            Kubernetes isn&rsquo;t complex, your business problem is. Learn how operators make it easy to run complex software at scale. &ldquo;I often describe the Operator pattern as deploying a robot sysadmin next to the containerized application.&rdquo;</p>
+
+          <p><a href="https://istio.io/blog/2020/tradewinds-2020/">Istio in 2020 - Following the Trade Winds</a><br />
+            The who, what, where, and how of Istio plans for 2020.</p>
+
+          <p><a href="https://blog.baturin.org/anycast-routing.html">Anycast routing</a><br />
+            A very quick overview of one of my favorite pieces of technology: Anycast.</p>
+
+          <p><a href="https://thenewstack.io/how-openebs-brings-container-attached-storage-to-kubernetes/">How OpenEBS Brings Container Attached Storage to Kubernetes</a><br />
+            &ldquo;Container Attached Storage enables Kubernetes users to treat storage entities as microservices. CAS has two elements — the control plane and the data plane. The control plane is deployed as a set of Custom Resource Definitions (CRD) that deal with the low-level storage entities. The data plane runs as a collection of Pods close to the workload.&rdquo;</p>
+
+          <p><a href="https://www.nextplatform.com/2019/06/10/future-kubernetes-will-mimic-what-facebook-already-does/">Future Kubernetes Will Mimic What Facebook Already Does</a><br />
+            &ldquo;The pity is that Facebook is not going to create an open source version of the Tupperware cluster and container controller, or the new Delos storage service that is underpinning the current iteration of the control plane in Tupperware, both of which were discussed at Facebook&rsquo;s System @scale event late last week.&rdquo;</p>
+
+          <p><a href="https://www.datadoghq.com/dg/monitor/linux-monitoring/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter03&amp;utm_content=Linux">Investigate and Troubleshoot Linux Issues Faster</a><br />
+            Start monitoring all your servers, both on-prem and in the cloud, within minutes with Datadog. Create actionable alerts to improve Linux performance and seamlessly navigate between logs, infrastructure metrics, and application traces in one place for faster troubleshooting. Try monitoring Linux with Datadog for free. <em>SPONSORED</em></p>
+
+          <p><a href="https://enterprisersproject.com/article/2020/3/kubernetes-best-practices-building-applications-containers">7 best practices: Building applications for containers and Kubernetes</a><br />
+            Let&rsquo;s examine key considerations for building new applications specifically for containers and Kubernetes, according to cloud-native experts</p>
+
+          <p><a href="https://enterprisersproject.com/article/2020/3/kubernetes-migrating-applications-containers-5-best-practices">Migrating applications to containers and Kubernetes: 5 best practices</a><br />
+            Let&rsquo;s examine key considerations for migrating existing applications to containers and Kubernetes, according to experts</p>
+
+          <p><a href="https://youtu.be/K3jNo4z5Jx8">Kubernetes Namespaces Explained in 15 mins (YouTube)</a><br />
+            Introduction to Kubernetes Namespaces: What are Kubernetes Namespaces? How do Namespaces help you manage your Kubernetes resources and how to use them?</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/DalaiLama/status/1235875303764844544" src="https://devopsish.com/images/171-tweet-of-the-week.png"></mj-image>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="75%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="50%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="25%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p style="font-size:12px"><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a></p>
+          <p style="font-size:12px">Want to change how you receive these emails?<br />
+            You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
