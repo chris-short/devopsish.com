@@ -31,7 +31,9 @@
       <mj-column width="100%">
         <mj-text>
           <p style="font-weight: bold">Welcome!</p>
-          <p>Everything is canceled, postponed, or going virtual. Coronavirus (COVID-19) has already made drastic impacts across the planet. Particularly this week, when several companies restricted travel forcing conferences to do something if they hadn&rsquo;t already. KubeCon EU is getting pushed back to July or August. I canceled my plans earlier in the week because, with everything up in the air, there&rsquo;s no telling I&rsquo;ll be available to participate whenever it does eventually get rescheduled. Since a lot of us are probably stuck at home, I&rsquo;d like to remind you, I&rsquo;m always looking for opportunities to sit down and talk to folks from my office. I&rsquo;ve got the setup for it and have a few upgrades in mind. If you have an idea for a conversation instead of a Meetup, panel, or talk, feel free to reach out. I&rsquo;m looking for collaborative opportunities.</p>
+          <p>In dark times, there are typically rays of light that can be found to give us hope. I read an article last weekend that I thought would be worth mentioning here this week. <a href="https://www.scmp.com/tech/big-tech/article/3073961/will-coronavirus-crisis-sars-give-birth-next-big-thing-china-tech"><em>Will the coronavirus crisis, like Sars, give birth to the next big thing in China tech?</em></a> looks at how the Chinese e-commerce giants Alibaba and JD.com got their start during the SARS crisis of 2002-2003. The coronavirus caused markets tanked this week but, US banks had plenty of liquidity from the Federal Reserve and capital on hand thanks to regulations passed after the 2008 financial crisis. A global outbreak of this nature will have a significant economic impact. But, here will be some good that comes from this current crisis. One possible example is that a few companies have halted stock buybacks. <a href="https://hbr.org/2020/01/why-stock-buybacks-are-dangerous-for-the-economy">Stopping stock buybacks might do some good for the economy</a> as companies maintain capital that can be invested in things that will be more impactful during this trying time. <a href="https://www.washingtonpost.com/history/2020/03/12/during-pandemic-isaac-newton-had-work-home-too-he-used-time-wisely/">Use your time effectively like Iassc Newton</a> did. You might not invent calculus or theories for gravity and motion but, the time you save from commuting might be able to be put to some good use. Keep your heads up.</p>
+
+          <p>Note: Starting this week, I&rsquo;m stopping all e-mail click and open tracking. After 170 weeks of doing this, if I don&rsquo;t know what you want to read by now, I&rsquo;m not doing a good job. This change will impact marketing efforts, but your privacy matters more to me. The only metric I have left to give to potential sponsors is subscribers. Do this newsletter a favor and help it grow. <a href="https://devopsish.com/subscribe/">Tell your whole team to subscribe today</a>.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -46,57 +48,48 @@
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">People</h2>
-          <p><a href="https://hbr.org/2020/03/dont-hide-bad-news-in-times-of-crisis">Don&rsquo;t Hide Bad News in Times of Crisis</a><br />
-            Dumbest thing you can do in a crisis is double down on existing decisions. The next dumbest thing is to double down without being transparent about what work is in progress to reassess the situation.</p>
+          <p><a href="https://blog.iirc.life/p/a-good-word-in-storm-hugops.html">A Good Word in the Storm? #hugops</a><br />
+            &ldquo;The infection curve will hit the inflection point. We will go back to &lsquo;conferencing&rsquo; and I suspect that it will be all the harder to honor the &lsquo;no hugs, just verbal greetings&rsquo; advisories when that happens.&rdquo;</p>
 
-          <p><a href="https://www.usatoday.com/story/news/nation/2020/03/06/coronavirus-us-naming-victims-would-violate-hipaa-dangerous/4964498002/">Coronavirus, US: Naming victims would violate HIPAA, be dangerous</a><br />
-            Imagine how appalled I was when a coworker told me they had their town&rsquo;s first coronavirus victim identified on the local news. It was with consent as part of a public health announcement but, that has to be a pretty dire situation (like coronavirus).</p>
+          <p><a href="https://www.humblebundle.com/books/tech-job-for-dummies-2-books">Humble Book Bundle: Land a Tech Job 2.0 by For Dummies (pay what you want and help charity)</a><br />
+            This bundle includes one of the best books on DevOps by Emily Freeman. I could probably use that SQL for Dummies book too (I&rsquo;m so bad at syntax).</p>
 
           <p><a href="https://www.diffblue.com/Education/research_papers/2019-diffblue-developer-survey/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=DevOpsIsh">The Diffblue Developer Survey</a><br />
             What&rsquo;s wrong with software speed, quality, and cost? Oxford-based AI company Diffblue surveyed 300 developers to find out what the people who actually work with code have to say about testing, their pain points, and what&rsquo;s holding back DevOps in their organizations. <em>SPONSORED</em></p>
 
-          <p><a href="https://www.redhat.com/sysadmin/women-ops">Women in Ops</a><br />
-            With the push towards diversity in tech, why are women under-represented in operations?</p>
+          <p><a href="https://aminuteonthemic.com/">A Minute on the Mic</a><br />
+            A new effort put together by <a href="https://nimbinatus.com/">Laura Santamaria</a>, A Minute on the Mic is a group of minute-long videos from experts answering questions related to relevant topics in tech. For example, eliminating toil and working from home were the first two topics. More videos are dropping next week!</p>
 
-          <p><a href="https://www.businessinsider.com/github-hires-nicole-forsgren-devops-researcher-google-cloud-dora-2020-3">GitHub hires top DevOps researcher who founded Google Cloud-owned DORA</a><br />
-            I think having Business Insider covering you being poached is a new career goal (that is a very high bar). Congratulations to Nicole Forsgren on her new role!</p>
-
-          <p><a href="https://www.infoworld.com/article/3530300/should-open-source-be-ethical.html">Should open source be ethical?</a><br />
-            &ldquo;At present, software licenses that prohibit socially harmful or unethical uses cannot be considered open source. Should we change that?&rdquo;</p>
+          <p><a href="https://www.siliconrepublic.com/people/consensys-claire-fitzpatrick">&lsquo;Leave the ladder down behind you rather than pull it up&rsquo;</a><br />
+            &ldquo;Claire Fitzpatrick of ConsenSys highlights some of the the rewarding and challenging parts of her career as a woman in tech.&rdquo;</p>
         </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
-      <mj-column width="75%">
-        <mj-divider border-width="2px" border-color="#666"></mj-divider>
-      </mj-column>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/ElaineF/status/1236670741464178688" src="https://devopsish.com/images/171-intl-womens-day.png"></mj-image </mj-column> </mj-section> <mj-section>
+        <mj-column width="75%">
+          <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        </mj-column>
     </mj-section>
 
     <mj-section>
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">Process</h2>
-          <p><a href="https://www.reddit.com/r/kubernetes/comments/fdgblk/google_gke_to_introduce_management_fees_by_june/">Google GKE to introduce management fees by June 6th</a><br />
-            &ldquo;If the main value of GKE over &lt;other&gt; is $73, you should totally use &lt;other&gt;.&rdquo; But, your GKE bill is going up.</p>
+          <p><a href="https://www.zdnet.com/article/amd-processors-from-2011-to-2019-vulnerable-to-two-new-attacks/">AMD processors from 2011 to 2019 vulnerable to two new attacks</a><br />
+            &ldquo;Academics disclose new Collide+Probe and Load+Reload attacks on AMD CPUs.&rdquo;</p>
 
-          <p><a href="https://www.scmagazineuk.com/unfixable-vulnerability-intel-chipsets-lets-attackers-decrypt-data/article/1676112">Unfixable vulnerability in Intel chipsets lets attackers decrypt data</a><br />
-            &ldquo;A vulnerability in Intel CSME - CVE-2019-0090 - can enable a local attacker to extract the chipset key stored on the PCH microchip and obtain access to data encrypted with the key. Discoverers Positive Technologies say that it is impossible to detect such a key breach.&rdquo;</p>
+          <p><a href="https://www.zdnet.com/article/intel-cpus-vulnerable-to-new-lvi-attacks/">Intel CPUs vulnerable to new LVI attacks</a><br />
+            &ldquo;Researchers say Intel processors will need another round of silicon chip re-designs to protect against new attack.&rdquo;</p>
 
-          <p><a href="https://securityaffairs.co/wordpress/99043/hacking/linux-rce-ppp-daemon-flaw.html">Most of Linux distros affected by a critical RCE in PPP Daemon flaw</a><br />
-            &ldquo;The flaw, tracked as CVE-2020-8597, was discovered by the expert Ilja Van Sprundel from IOActive, it is a stack buffer overflow issue that is caused by a logical error in the Extensible Authentication Protocol (EAP) packet parser of the pppd software.&rdquo; I feel like Obi Won Kenobi on this one. EAP? That&rsquo;s a protocol I haven&rsquo;t heard in a long time.</p>
+          <p><a href="https://www.cio.com/article/3530277/containers-and-kubernetes-3-transformational-success-stories.html">Containers and Kubernetes: 3 transformational success stories</a><br />
+            &ldquo;This powerful combo of workload portability and orchestration has become an invaluable business asset in multi-cloud and hybrid cloud environments.&rdquo;</p>
 
-          <p><a href="https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=paid+media&amp;utm_source=devopsish&amp;utm_campaign=ioca20&amp;utm_content=paid+devopsish+march+9">Join us for the inaugural O&rsquo;Reilly Infrastructure &amp; Ops Conference</a><br />
-            From legacy to leading edge, learn how to modernize your systems, train with industry experts, and network with peers at the first <a href="https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=paid+media&amp;utm_source=devopsish&amp;utm_campaign=ioca20&amp;utm_content=paid+devopsish+march+9">Infrastructure &amp; Ops Conference</a> in Santa Clara, June 15-18. Save up to $700 during Best Price, which ends on March 20. <a href="https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=paid+media&amp;utm_source=devopsish&amp;utm_campaign=ioca20&amp;utm_content=paid+devopsish+march+9"><strong>Register today</strong></a>. <em>SPONSORED</em></p>
+          <p><a href="https://www.stackrox.com/post/2020/02/eks-vs-gke-vs-aks/?utm_source=DevOps'ish&amp;utm_medium=email&amp;utm_campaign=sponsored">EKS vs. GKE vs. AKS — Comparing the top three cloud providers</a><br />
+            Not all managed Kubernetes services are created the same. They support different features and options for their cluster control planes and nodes, and they vary in how much management they really provide. To help cut through the fog, StackRox performed a hands-on, side-by-side comparison of the top three services (EKS, AKS, GKE) to help you understand the current state of these services and the trade-offs between them. <em>SPONSORED</em></p>
 
-          <p><a href="https://www.cncf.io/blog/2020/03/04/2019-cncf-survey-results-are-here-deployments-are-growing-in-size-and-speed-as-cloud-native-adoption-becomes-mainstream/">2019 CNCF Survey results are here</a><br />
-            Deployments are growing in size and speed as cloud native adoption becomes mainstream</p>
+          <p><a href="https://www.protocol.com/oxide-computer-cloud-server">Oxide Computer wants to build cloud hardware for everybody</a><br />
+            &ldquo;Oxide Computer is a bold bet by three prominent engineers that some day, more and more companies will want cloudlike hardware under their own control.&rdquo;</p>
 
-          <p><a href="https://www.linkedin.com/pulse/slo-pitfalls-femi-agbabiaka/">SLO Pitfalls</a><br />
-            &ldquo;[S]etting and forgetting is not as simple as it may seem. I wanted to walk through a few common pitfalls I&rsquo;ve seen and discuss how your organizations can avoid them.&rdquo;</p>
-
-          <p><a href="https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/">A Survey of Istio&rsquo;s Network Security Features</a><br />
-            &ldquo;In this blog post we used lab-based examples to illustrate common misconceptions and pitfalls encountered when using Istio to limit workloads&rsquo; network traffic&rdquo;</p>
+          <p><a href="https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html">How Visa built its own container security solution</a><br />
+            &ldquo;The homegrown solution takes advantage of the native capabilities that already exist on container orchestration platforms and is primarily built on top of open-source tools and libraries.&rdquo;</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -111,32 +104,35 @@
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">Tools</h2>
-          <p><a href="https://www.redhat.com/sysadmin/kubernetes-operators">Kubernetes operators: Embedding operational expertise side by side with containerized applications</a><br />
-            Kubernetes isn&rsquo;t complex, your business problem is. Learn how operators make it easy to run complex software at scale. &ldquo;I often describe the Operator pattern as deploying a robot sysadmin next to the containerized application.&rdquo;</p>
+          <p><a href="https://blog.openshift.com/what-makes-a-good-operator/">What makes a good Operator?</a><br />
+            One Operator per managed application, one controller per custom resource definition, and do not hard-code namespaces or resources names are some pretty basic guidelines but, there are many other good bits folks should try to stick to (or at least be aware of the compromises you might be making).</p>
 
-          <p><a href="https://istio.io/blog/2020/tradewinds-2020/">Istio in 2020 - Following the Trade Winds</a><br />
-            The who, what, where, and how of Istio plans for 2020.</p>
+          <p><a href="https://devopsdirective.com/posts/2020/03/managed-kubernetes-comparison/">Managed Kubernetes Price Comparison (2020)</a><br />
+            &ldquo;TL;DR: Azure and Digital Ocean don&rsquo;t charge for the compute resources used for the control plane, making AKS and DO the cheapest for running many, smaller clusters. For running fewer, larger clusters GKE is the most affordable option.&rdquo;</p>
 
-          <p><a href="https://blog.baturin.org/anycast-routing.html">Anycast routing</a><br />
-            A very quick overview of one of my favorite pieces of technology: Anycast.</p>
+          <p><a href="https://thenewstack.io/open-policy-agents-mission-to-secure-the-cloud/">Open Policy Agent&rsquo;s Mission to Secure the Cloud</a><br />
+            &ldquo;OPA is an open-source tool that enables the enforcement of a wide range of policies across domains and all layers in the stack. This policy engine supplies users with greater control over their environment while eliminating the need to write a different policy language, API, or model for each product and service.&rdquo;</p>
 
-          <p><a href="https://thenewstack.io/how-openebs-brings-container-attached-storage-to-kubernetes/">How OpenEBS Brings Container Attached Storage to Kubernetes</a><br />
-            &ldquo;Container Attached Storage enables Kubernetes users to treat storage entities as microservices. CAS has two elements — the control plane and the data plane. The control plane is deployed as a set of Custom Resource Definitions (CRD) that deal with the low-level storage entities. The data plane runs as a collection of Pods close to the workload.&rdquo;</p>
+          <p><a href="https://opensource.googleblog.com/2020/03/usb-keystroke-injection-protection.html">USB Keystroke Injection Protection</a><br />
+            &ldquo;To make the life of an attacker harder, we propose a tool that measures the timing of incoming keystrokes and determines if it is an attack based on predefined heuristics (without a user being involved in the decision).&rdquo;</p>
 
-          <p><a href="https://www.nextplatform.com/2019/06/10/future-kubernetes-will-mimic-what-facebook-already-does/">Future Kubernetes Will Mimic What Facebook Already Does</a><br />
-            &ldquo;The pity is that Facebook is not going to create an open source version of the Tupperware cluster and container controller, or the new Delos storage service that is underpinning the current iteration of the control plane in Tupperware, both of which were discussed at Facebook&rsquo;s System @scale event late last week.&rdquo;</p>
+          <p><a href="https://www.cloudskew.com/">Free AWS, Azure, GCP, Kubernetes Architecture Diagram Tool</a><br />
+            Draw cloud architecture diagrams for free!</p>
 
-          <p><a href="https://www.datadoghq.com/dg/monitor/linux-monitoring/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter03&amp;utm_content=Linux">Investigate and Troubleshoot Linux Issues Faster</a><br />
-            Start monitoring all your servers, both on-prem and in the cloud, within minutes with Datadog. Create actionable alerts to improve Linux performance and seamlessly navigate between logs, infrastructure metrics, and application traces in one place for faster troubleshooting. Try monitoring Linux with Datadog for free. <em>SPONSORED</em></p>
+          <p><a href="https://tech.goglides.com/2020/03/09/manage-ntp-using-kubernetes/">NTP in a Kubernetes cluster</a><br />
+            &ldquo;I am going to follow this blog to create a build process for NTPD docker image and use that image to run NTPD in the Kubernetes cluster.&rdquo;</p>
 
-          <p><a href="https://enterprisersproject.com/article/2020/3/kubernetes-best-practices-building-applications-containers">7 best practices: Building applications for containers and Kubernetes</a><br />
-            Let&rsquo;s examine key considerations for building new applications specifically for containers and Kubernetes, according to cloud-native experts</p>
+          <p><a href="https://www.redhat.com/sysadmin/cli-speedup">7 tips to speed up your Linux command line navigation</a><br />
+            &ldquo;The command line doesn&rsquo;t have to be tedious, it can be awesome with these shortcuts.&rdquo;</p>
 
-          <p><a href="https://enterprisersproject.com/article/2020/3/kubernetes-migrating-applications-containers-5-best-practices">Migrating applications to containers and Kubernetes: 5 best practices</a><br />
-            Let&rsquo;s examine key considerations for migrating existing applications to containers and Kubernetes, according to experts</p>
+          <p><a href="https://www.datadoghq.com/dg/monitor/containers/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter04&amp;utm_content=Containers">Monitor Your Container Environment in One Place</a><br />
+            With Datadog&rsquo;s Live Container view, you can see every container&rsquo;s health, resource consumption, and running processes in real time. Datadog, a cloud-scale monitoring platform, allows you to easily monitor and manage your dynamic container fleet. Start today with a free 14-day trial. <em>SPONSORED</em></p>
 
-          <p><a href="https://youtu.be/K3jNo4z5Jx8">Kubernetes Namespaces Explained in 15 mins (YouTube)</a><br />
-            Introduction to Kubernetes Namespaces: What are Kubernetes Namespaces? How do Namespaces help you manage your Kubernetes resources and how to use them?</p>
+          <p><a href="https://thenewstack.io/a-no-bs-checklist-for-kubernetes/">A &lsquo;No-BS&rsquo; Checklist for Kubernetes</a><br />
+            &ldquo;To help you navigate the space and ask vendors the right questions, we created this no-BS Kubernetes checklist. All of the “must-haves” for a future-ready Kubernetes strategy are included in the list.&rdquo;</p>
+
+          <p><a href="https://github.com/similarweb/statusbay">similarweb/statusbay</a><br />
+            Kubernetes deployment visibility like a pro</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -152,7 +148,9 @@
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
         </mj-text>
-        <mj-image width="600px" padding-top="0" href="https://twitter.com/DalaiLama/status/1235875303764844544" src="https://devopsish.com/images/171-tweet-of-the-week.png"></mj-image>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/b0rk/status/1237387483987374083" src="https://devopsish.com/images/171-tweet-of-the-week.png"></mj-image>
+        <mj-text padding-bottom="0px">
+          <p>Want more? Be sure to check out the <a href="https://devopsish.com/171/notes/">notes from this week&rsquo;s issue</a> to see what didn&rsquo;t make it to the newsletter.</p>
         </mj-text>
       </mj-column>
     </mj-section>
