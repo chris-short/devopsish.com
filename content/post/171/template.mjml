@@ -1,0 +1,177 @@
+<mjml>
+  <mj-head>
+    <mj-title>DevOps'ish Weekly Newsletter</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#333" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="20px 0">
+      <mj-column width="100%">
+        <mj-image src="https://devopsish.com/img/DevOpsish-Wide.png" title="DevOps'ish" alt="DevOps'ish wide logo"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">DevOps'ish is assembled by open source professional, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador Chris Short</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 171</mj-text>
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666" width="50%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p style="font-weight: bold">Welcome!</p>
+          <p>In dark times, there are typically rays of light that can be found to give us hope. I read an article last weekend that I thought would be worth mentioning here this week. <a href="https://www.scmp.com/tech/big-tech/article/3073961/will-coronavirus-crisis-sars-give-birth-next-big-thing-china-tech"><em>Will the coronavirus crisis, like Sars, give birth to the next big thing in China tech?</em></a> looks at how the Chinese e-commerce giants Alibaba and JD.com got their start during the SARS crisis of 2002-2003. The coronavirus caused markets tanked this week but, US banks had plenty of liquidity from the Federal Reserve and capital on hand thanks to regulations passed after the 2008 financial crisis. A global outbreak of this nature will have a significant economic impact. But, here will be some good that comes from this current crisis. One possible example is that a few companies have halted stock buybacks. <a href="https://hbr.org/2020/01/why-stock-buybacks-are-dangerous-for-the-economy">Stopping stock buybacks might do some good for the economy</a> as companies maintain capital that can be invested in things that will be more impactful during this trying time. <a href="https://www.washingtonpost.com/history/2020/03/12/during-pandemic-isaac-newton-had-work-home-too-he-used-time-wisely/">Use your time effectively like Iassc Newton</a> did. You might not invent calculus or theories for gravity and motion but, the time you save from commuting might be able to be put to some good use. Keep your heads up.</p>
+
+          <p>Note: Starting this week, I&rsquo;m stopping all e-mail click and open tracking. After 170 weeks of doing this, if I don&rsquo;t know what you want to read by now, I&rsquo;m not doing a good job. This change will impact marketing efforts, but your privacy matters more to me. The only metric I have left to give to potential sponsors is subscribers. Do this newsletter a favor and help it grow. <a href="https://devopsish.com/subscribe/">Tell your whole team to subscribe today</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">People</h2>
+          <p><a href="https://blog.iirc.life/p/a-good-word-in-storm-hugops.html">A Good Word in the Storm? #hugops</a><br />
+            &ldquo;The infection curve will hit the inflection point. We will go back to &lsquo;conferencing&rsquo; and I suspect that it will be all the harder to honor the &lsquo;no hugs, just verbal greetings&rsquo; advisories when that happens.&rdquo;</p>
+
+          <p><a href="https://www.humblebundle.com/books/tech-job-for-dummies-2-books">Humble Book Bundle: Land a Tech Job 2.0 by For Dummies (pay what you want and help charity)</a><br />
+            This bundle includes one of the best books on DevOps by Emily Freeman. I could probably use that SQL for Dummies book too (I&rsquo;m so bad at syntax).</p>
+
+          <p><a href="https://www.diffblue.com/Education/research_papers/2019-diffblue-developer-survey/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=DevOpsIsh">The Diffblue Developer Survey</a><br />
+            What&rsquo;s wrong with software speed, quality, and cost? Oxford-based AI company Diffblue surveyed 300 developers to find out what the people who actually work with code have to say about testing, their pain points, and what&rsquo;s holding back DevOps in their organizations. <em>SPONSORED</em></p>
+
+          <p><a href="https://aminuteonthemic.com/">A Minute on the Mic</a><br />
+            A new effort put together by <a href="https://nimbinatus.com/">Laura Santamaria</a>, A Minute on the Mic is a group of minute-long videos from experts answering questions related to relevant topics in tech. For example, eliminating toil and working from home were the first two topics. More videos are dropping next week!</p>
+
+          <p><a href="https://www.siliconrepublic.com/people/consensys-claire-fitzpatrick">&lsquo;Leave the ladder down behind you rather than pull it up&rsquo;</a><br />
+            &ldquo;Claire Fitzpatrick of ConsenSys highlights some of the the rewarding and challenging parts of her career as a woman in tech.&rdquo;</p>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/ElaineF/status/1236670741464178688" src="https://devopsish.com/images/171-intl-womens-day.png"></mj-image </mj-column> </mj-section> <mj-section>
+        <mj-column width="75%">
+          <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Process</h2>
+          <p><a href="https://www.zdnet.com/article/amd-processors-from-2011-to-2019-vulnerable-to-two-new-attacks/">AMD processors from 2011 to 2019 vulnerable to two new attacks</a><br />
+            &ldquo;Academics disclose new Collide+Probe and Load+Reload attacks on AMD CPUs.&rdquo;</p>
+
+          <p><a href="https://www.zdnet.com/article/intel-cpus-vulnerable-to-new-lvi-attacks/">Intel CPUs vulnerable to new LVI attacks</a><br />
+            &ldquo;Researchers say Intel processors will need another round of silicon chip re-designs to protect against new attack.&rdquo;</p>
+
+          <p><a href="https://www.cio.com/article/3530277/containers-and-kubernetes-3-transformational-success-stories.html">Containers and Kubernetes: 3 transformational success stories</a><br />
+            &ldquo;This powerful combo of workload portability and orchestration has become an invaluable business asset in multi-cloud and hybrid cloud environments.&rdquo;</p>
+
+          <p><a href="https://www.stackrox.com/post/2020/02/eks-vs-gke-vs-aks/?utm_source=DevOps'ish&amp;utm_medium=email&amp;utm_campaign=sponsored">EKS vs. GKE vs. AKS — Comparing the top three cloud providers</a><br />
+            Not all managed Kubernetes services are created the same. They support different features and options for their cluster control planes and nodes, and they vary in how much management they really provide. To help cut through the fog, StackRox performed a hands-on, side-by-side comparison of the top three services (EKS, AKS, GKE) to help you understand the current state of these services and the trade-offs between them. <em>SPONSORED</em></p>
+
+          <p><a href="https://www.protocol.com/oxide-computer-cloud-server">Oxide Computer wants to build cloud hardware for everybody</a><br />
+            &ldquo;Oxide Computer is a bold bet by three prominent engineers that some day, more and more companies will want cloudlike hardware under their own control.&rdquo;</p>
+
+          <p><a href="https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html">How Visa built its own container security solution</a><br />
+            &ldquo;The homegrown solution takes advantage of the native capabilities that already exist on container orchestration platforms and is primarily built on top of open-source tools and libraries.&rdquo;</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Tools</h2>
+          <p><a href="https://blog.openshift.com/what-makes-a-good-operator/">What makes a good Operator?</a><br />
+            One Operator per managed application, one controller per custom resource definition, and do not hard-code namespaces or resources names are some pretty basic guidelines but, there are many other good bits folks should try to stick to (or at least be aware of the compromises you might be making).</p>
+
+          <p><a href="https://devopsdirective.com/posts/2020/03/managed-kubernetes-comparison/">Managed Kubernetes Price Comparison (2020)</a><br />
+            &ldquo;TL;DR: Azure and Digital Ocean don&rsquo;t charge for the compute resources used for the control plane, making AKS and DO the cheapest for running many, smaller clusters. For running fewer, larger clusters GKE is the most affordable option.&rdquo;</p>
+
+          <p><a href="https://thenewstack.io/open-policy-agents-mission-to-secure-the-cloud/">Open Policy Agent&rsquo;s Mission to Secure the Cloud</a><br />
+            &ldquo;OPA is an open-source tool that enables the enforcement of a wide range of policies across domains and all layers in the stack. This policy engine supplies users with greater control over their environment while eliminating the need to write a different policy language, API, or model for each product and service.&rdquo;</p>
+
+          <p><a href="https://opensource.googleblog.com/2020/03/usb-keystroke-injection-protection.html">USB Keystroke Injection Protection</a><br />
+            &ldquo;To make the life of an attacker harder, we propose a tool that measures the timing of incoming keystrokes and determines if it is an attack based on predefined heuristics (without a user being involved in the decision).&rdquo;</p>
+
+          <p><a href="https://www.cloudskew.com/">Free AWS, Azure, GCP, Kubernetes Architecture Diagram Tool</a><br />
+            Draw cloud architecture diagrams for free!</p>
+
+          <p><a href="https://tech.goglides.com/2020/03/09/manage-ntp-using-kubernetes/">NTP in a Kubernetes cluster</a><br />
+            &ldquo;I am going to follow this blog to create a build process for NTPD docker image and use that image to run NTPD in the Kubernetes cluster.&rdquo;</p>
+
+          <p><a href="https://www.redhat.com/sysadmin/cli-speedup">7 tips to speed up your Linux command line navigation</a><br />
+            &ldquo;The command line doesn&rsquo;t have to be tedious, it can be awesome with these shortcuts.&rdquo;</p>
+
+          <p><a href="https://www.datadoghq.com/dg/monitor/containers/?utm_source=Advertisement&amp;utm_medium=Advertisement&amp;utm_campaign=DevOpsish-Newsletter04&amp;utm_content=Containers">Monitor Your Container Environment in One Place</a><br />
+            With Datadog&rsquo;s Live Container view, you can see every container&rsquo;s health, resource consumption, and running processes in real time. Datadog, a cloud-scale monitoring platform, allows you to easily monitor and manage your dynamic container fleet. Start today with a free 14-day trial. <em>SPONSORED</em></p>
+
+          <p><a href="https://thenewstack.io/a-no-bs-checklist-for-kubernetes/">A &lsquo;No-BS&rsquo; Checklist for Kubernetes</a><br />
+            &ldquo;To help you navigate the space and ask vendors the right questions, we created this no-BS Kubernetes checklist. All of the “must-haves” for a future-ready Kubernetes strategy are included in the list.&rdquo;</p>
+
+          <p><a href="https://github.com/similarweb/statusbay">similarweb/statusbay</a><br />
+            Kubernetes deployment visibility like a pro</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/b0rk/status/1237387483987374083" src="https://devopsish.com/images/171-tweet-of-the-week.png"></mj-image>
+        <mj-text padding-bottom="0px">
+          <p>Want more? Be sure to check out the <a href="https://devopsish.com/171/notes/">notes from this week&rsquo;s issue</a> to see what didn&rsquo;t make it to the newsletter.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="75%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="50%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="25%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p style="font-size:12px"><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a></p>
+          <p style="font-size:12px">Want to change how you receive these emails?<br />
+            You can <a href="*|UPDATE_PROFILE|*">update your preferences</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
