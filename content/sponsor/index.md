@@ -39,8 +39,8 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 
 ### Example Ad
 
-[Open Source-based Cloud Observability](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt)  
-Do you prefer using open source tools like ELK and Grafana for observability? Do you wish the tools could be just a little bit easier to use together at scale? Logz.io’s [cloud observability platform](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt) provides a high-powered ELK and Grafana as an integrated, fully managed service, so you can simplify monitoring, troubleshooting and security for your production environment with the open source tools you love, at the scale you need. [Learn more here](https://logz.io/freeshirt/?utm_source=podcast&utm_medium=devopish&utm_campaign=freeshirt)! *SPONSORED*
+[Monitor Your Container Environment in One Place](https://www.datadoghq.com/dg/monitor/containers/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=DevOpsish-Newsletter04&utm_content=Containers)  
+With Datadog's Live Container view, you can see every container's health, resource consumption, and running processes in real time. Datadog, a cloud-scale monitoring platform, allows you to easily monitor and manage your dynamic container fleet. Start today with a free 14-day trial. *SPONSORED*
 
 ## How do we get started
 
