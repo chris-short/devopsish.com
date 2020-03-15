@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-03-15T07:00:00Z
-description = ""
+description = "Rays of light that give us hope, A Minute on the Mic, new AMD & Intel vulns, Oxide Computer, good Operators, NTP in a Kubernetes cluster, and more"
 draft = false
 slug = "171"
-tags = []
+tags = ["cloud", "DevOps", "Kubernetes", "open source", "good", "container", "cloud native", "crisis", "Intel", "AMD", "GKE", "AWS", "control plane", "Open Policy Agent", "developers", "coronavirus", "orchestration", "EKS", "SARS", "cluster", "Operator", "Azure", "Linux"]
 title = "DevOps'ish 171"
 
 +++
