@@ -31,9 +31,9 @@ disableKinds = ["RSS"]
     num_recent_posts = 8
 
   [params.stats]
-    subscribers = "4,222"
-    avg_open_rate = "48%"
-    avg_click_rate = "21%"
+    subscribers = "4,234"
+#    avg_open_rate = "48%"
+#    avg_click_rate = "21%"
 
 [Author]
   name = "Chris Short"
