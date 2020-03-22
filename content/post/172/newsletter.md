@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-03-22T07:00:00Z
-description = ""
+description = "Kubernetes 1.18 is coming, curl gets JSON, istiod, install OKD4 on GCP, Tailscale, and more"
 draft = false
 slug = "172"
-tags = []
+tags = ["DevOps", "Kubernetes", "cloud", "encryption", "security", "services", "open source", "systems", "clusters", "production", "performance", "Azure", "Datadog", "cloud native", "developers", "Tailscale", "WireGuard", "Istio", "curl", "Amazon"]
 title = "DevOps'ish 172"
 
 +++
