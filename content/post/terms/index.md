@@ -74,7 +74,7 @@ The right to refuse sponsorship from anyone for any reason is reserved.
 
 Sponsors may not place restrictions on the content or format of the newsletter in any way.
 
-Subscriber demographic data outside of what’s shared on devopsish.com or in the [DevOps'ish Sponsorship Prospectus](/sponsor/DevOps'ish_Sponsorship_Prospectus.pdf) is not available.
+Subscriber demographic data outside of what’s shared on devopsish.com or in the [DevOps'ish Sponsorship Prospectus](https://devopsi.sh/prospectus) is not available.
 
 No more than three ads a week will run in the newsletter. Out of cycle/cadence e-mails may or may not feature ads depending on a variety of factors.
 
@@ -82,7 +82,7 @@ No more than three ads a week will run in the newsletter. Out of cycle/cadence e
 
 The newsletter is typically sent on Sundays at 0700 UTC. There may be weeks where due to life circumstances, travel, or timezone differences the newsletter is sent a day earlier or a day later but this is the exception not the rule.
 
-Rates can change based on supply, demand, and subscribership. Rates should not change more than once a quarter or four times a year.
+Rates can change based on supply, demand, and subscribers. Rates should not change more than once a quarter or four times a year.
 
 ### Ad Format
 

@@ -14,7 +14,7 @@ aliases = [
 
 Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, and readers across the globe.
 
-Download the [**DevOps'ish Sponsorship Prospectus**](/sponsor/DevOps'ish_Sponsorship_Prospectus.pdf) today!
+Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospectus) today!
 
 ## What do I get with a DevOps'ish sponsorship
 
@@ -33,7 +33,7 @@ A one (1) week sponsorship has a fixed fee of **$275 USD**. There is a two week 
 
 {{< stats >}}
 
-Need something to present to leadership? Download the [**DevOps'ish Sponsorship Prospectus**](/sponsor/DevOps'ish_Sponsorship_Prospectus.pdf).
+Need something to present to leadership? Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospectus).
 
 Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 

@@ -118,7 +118,7 @@
           <p><a href="https://fosdem.org/2020/schedule/event/kubernetes/">Fixing the Kubernetes clusterfuck</a><br />
             Understanding security from the kernel up by Kris Nova</p>
 
-          <p><a href="https://www.theregister.co.uk/2020/03/19/nasa_cloud_data_migration_mess/">NASA to launch 247 petabytes of data into AWS – but forgot about eye-watering cloudy egress costs before lift-off</a><br />
+          <p><a href="https://www.theregister.co.uk/2020/03/19/nasa_cloud_data_migration_mess/">NASA to launch 247 petabytes of data into AWS—but forgot about eye-watering cloudy egress costs before lift-off</a><br />
             &ldquo;NASA needs 215 more petabytes of storage by the year 2025, and expects Amazon Web Services to provide the bulk of that capacity. However, the space agency didn&rsquo;t realize this would cost it plenty in cloud egress charges. As in, it will have to pay as scientists download its data.&rdquo;</p>
 
           <p><a href="https://youtu.be/2UwQD0diUxk">How To Install OKD4 on GCP (YouTube)</a></p>
