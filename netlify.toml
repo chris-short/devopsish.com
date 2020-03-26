@@ -51,3 +51,12 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://devopsish.com/:splat"
   status = 301
   force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "no-referrer"
+    X-Content-Type-Options = "nosniff"
+    Feature-Policy = "geolocation 'none'; midi 'none'; sync-xhr 'none';microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; fullscreen 'none'; payment 'none'"
