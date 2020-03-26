@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-12-23T12:51:00Z
+date = 2018-03-29T19:23:00Z
 description = "Sponsor DevOps'ish"
 draft = false
 title = "Sponsor"
