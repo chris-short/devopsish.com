@@ -39,19 +39,20 @@ disableKinds = ["RSS"]
   name = "Chris Short"
 
 [privacy]
+  [privacy.disqus]
+    disable = true
   [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = false
-    respectDoNotTrack = true
-    useSessionStorage = true
+    disable = true
   [privacy.instagram]
     disable = false
     simple = false
-  [privacy.speakerDeck]
-    disable = false
   [privacy.twitter]
     disable = false
     enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    simple = false
   [privacy.youtube]
     disable = false
-    privacyEnhanced = false
+    privacyEnhanced = true
