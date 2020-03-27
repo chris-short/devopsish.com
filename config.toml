@@ -26,6 +26,12 @@ disableKinds = ["RSS"]
   favicon = "/favicons/favicon.ico"
   disable_sri = true
 
+  # Optionally display a message about the site's use of cookies, which may be
+  # required for your site in the European Union. Set the parameter below to a
+  # page where the user can get more information about cookies, either on your
+  # site or externally, for example:
+  cookie_consent_info_url = "/cookie-policy/"
+
   [params.sidebar]
     About = "DevOps'ish is a weekly newsletter assembled by open source professional, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador [Chris Short](https://chrisshort.net/)."
     num_recent_posts = 8

@@ -90,7 +90,7 @@ Where we transfer personal information from a non-EEA country to another country
 
 ## Cookies
 
-We use "cookies" to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information.
+We use "cookies" to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our [Cookie Policy](/cookie-policy/) for more information.
 
 ## Business transfers
 
