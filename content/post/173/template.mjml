@@ -46,6 +46,9 @@
       <mj-column width="100%">
         <mj-text padding-bottom="0px">
           <h2 style="font-weight: bold">People</h2>
+          <p><a href="https://hbswk.hbs.edu/item/the-hidden-vulnerabilities-of-open-source-software">The Hidden Vulnerabilities of Open Source Software</a><br />
+            The increasing use of open source software in most commercial apps has revolutionized software development-but also created hidden vulnerabilities, say Frank Nagle and Jenny Hoffman.</p>
+
           <p><a href="https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief">That Discomfort You&rsquo;re Feeling Is Grief</a><br />
             I know an article is a big deal when my wife says I should read it. &ldquo;If we can name it, perhaps we can manage it.&rdquo; An HBR interview with David Kessler.</p>
 

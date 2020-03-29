@@ -70,8 +70,6 @@ title = "DevOps'ish 173 Notes"
 
 [8 Ways to Manage Your Team While Social Distancing](https://hbr.org/2020/03/8-ways-to-manage-your-team-while-social-distancing)
 
-[The Hidden Vulnerabilities of Open Source Software - Harvard Business School Working Knowledge](https://hbswk.hbs.edu/item/the-hidden-vulnerabilities-of-open-source-software)
-
 [Guide to Installing an OKD 4.4 Cluster on your Home Lab – Red Hat OpenShift Blog](https://blog.openshift.com/guide-to-installing-an-okd-4-4-cluster-on-your-home-lab/)
 
 [Tweet / Twitter](https://mobile.twitter.com/thomrstrom/status/1242501258092498945)
