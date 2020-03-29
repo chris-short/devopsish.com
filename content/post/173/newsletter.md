@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-03-29T07:00:00Z
-description = ""
+description = "For shame O'Reilly, Zoom'ing in on privacy, Kubernetes 1.18, Serverless with Knative, spanner.fyi, why you try UBI, Dockerized Folding@Home, and more"
 draft = false
 slug = "173"
-tags = []
+tags = ["O'Reilly", "Kubernetes", "security", "open source", "DevOps", "Red Hat", "Cloud", "infrastructure", "AWS", "EKS", "xKS", "cluster", "Zoom", "privacy", "software", "interview", "Knative", "serverless", "CNCF", "pandemic", "Microsoft", "community", "cloud native"]
 title = "DevOps'ish 173"
 
 +++
@@ -14,6 +14,9 @@ title = "DevOps'ish 173"
 The impact of the coronavirus hit the tech events industry hard this week. In a shocking move on Tuesday, [O'Reilly announced it has immediately ceased all in-person events](https://www.oreilly.com/conferences/from-laura-baldwin.html). To add insult to injury, [O'Reilly laid off their entire events staff during a pandemic](https://twitter.com/joshsimmons/status/1242596429924728832). To make matters worse, under US law, they'll get only a week of health insurance benefits left, [meager support for COBRA (super expensive health insurance), and any severance is based solely on tenure](https://twitter.com/jhscott/status/1242604187294154752). DevOps'ish is an O'Reilly community partner. I heard from the O'Reilly partner team this week. I was slated to speak at the [O'Reilly Infrastructure & Ops Conference in June](https://conferences.oreilly.com/infrastructure-ops/io-ca/public/schedule/speaker/200908)). I haven't heard a peep out of O'Reilly either about what happens now. [Tim O'Reilly mustered up this 'lipstick on a pig' post](https://www.oreilly.com/about/open-source-matters-more-than-ever.html), though, so we should all feel great about it, right? Guess what; I don't.
 
 ## People
+
+[The Hidden Vulnerabilities of Open Source Software](https://hbswk.hbs.edu/item/the-hidden-vulnerabilities-of-open-source-software)  
+The increasing use of open source software in most commercial apps has revolutionized software development-but also created hidden vulnerabilities, say Frank Nagle and Jenny Hoffman.
 
 [That Discomfort You're Feeling Is Grief](https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief)  
 I know an article is a big deal when my wife says I should read it. "If we can name it, perhaps we can manage it." An HBR interview with David Kessler.
@@ -70,7 +73,7 @@ The Istio requirement has been dropped so you can use Linkerd with Knative now.
 [Knative Crowds out Other Serverless Software (and Other CNCF Survey Takeaways)](https://thenewstack.io/knative-crowds-out-other-serverless-software-packages-and-other-cncf-survey-takeaways/)  
 A different and in some ways, better take on the CNCF survey data.
 
-[Title: Online Debug for AWS Lambda on your IDE!](https://devopsi.sh/aws-lambda-97890)  
+[Online Debug for AWS Lambda on your IDE!](https://devopsi.sh/aws-lambda-97890)  
 Thundra allows you to natively debug your serverless applications on the cloud with their own permissions. Thundra's online-debugger sets up a secure bridge between your AWS Lambda environment and your IDE. VSCode and IntelliJ IDEA are natively supported with plugins. For other IDEs, we provide a portable client to foster the integration with any IDEs. Start debugging Node.js, Python and Java functions for free today! *SPONSORED*
 
 [spanner.fyi](https://spanner.fyi/)  

@@ -168,12 +168,16 @@
     <mj-section>
       <mj-column width="100%">
         <mj-text align="center">
-          <p style="font-size:12px"><em><strong>Made in Michigan</strong></em></p>
+          <p style="font-size:14px"><em><strong>Made in Michigan</strong></em></p>
           <p style="font-size:12px"><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a><br />
             <a href="*|FORWARD|*">Forward</a> this email to a friend</p>
           <p style="font-size:10px">Want to change how you receive these emails?<br />
-            You (*|EMAIL|*) can <a href="*|UPDATE_PROFILE|*">update your profile</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.<br />
-            Mailing address: *|HTML:LIST_ADDRESS_HTML|*</p>
+            You can <a href="*|UPDATE_PROFILE|*">update your profile</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
+          <p style="font-size:10px">Mailing address:<br />
+            DevOps'ish<br />
+            1150 Atlantic St, <br />
+            #234<br />
+            Milford, MI 48381</p>
         </mj-text>
       </mj-column>
     </mj-section>
