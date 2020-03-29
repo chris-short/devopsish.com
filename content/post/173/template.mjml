@@ -124,7 +124,7 @@
           <p><a href="https://thenewstack.io/knative-crowds-out-other-serverless-software-packages-and-other-cncf-survey-takeaways/">Knative Crowds out Other Serverless Software (and Other CNCF Survey Takeaways)</a><br />
             A different and in some ways, better take on the CNCF survey data.</p>
 
-          <p><a href="https://devopsi.sh/aws-lambda-97890">Title: Online Debug for AWS Lambda on your IDE!</a><br />
+          <p><a href="https://devopsi.sh/aws-lambda-97890">Online Debug for AWS Lambda on your IDE!</a><br />
             Thundra allows you to natively debug your serverless applications on the cloud with their own permissions. Thundra&rsquo;s online-debugger sets up a secure bridge between your AWS Lambda environment and your IDE. VSCode and IntelliJ IDEA are natively supported with plugins. For other IDEs, we provide a portable client to foster the integration with any IDEs. Start debugging Node.js, Python and Java functions for free today! <em>SPONSORED</em></p>
 
           <p><a href="https://spanner.fyi/">spanner.fyi</a><br />
@@ -177,10 +177,7 @@
           <p style="font-size:10px">Want to change how you receive these emails?<br />
             You can <a href="*|UPDATE_PROFILE|*">update your profile</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
           <p style="font-size:10px">Mailing address:<br />
-            DevOps'ish<br />
-            1150 Atlantic St, <br />
-            #234<br />
-            Milford, MI 48381</p>
+            DevOps'ish, 1150 Atlantic St, Unit 234, Milford, MI 48381</p>
         </mj-text>
       </mj-column>
     </mj-section>
