@@ -1,0 +1,182 @@
+<mjml>
+  <mj-head>
+    <mj-title>DevOps'ish Weekly Newsletter</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#333" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="20px 0">
+      <mj-column width="100%">
+        <mj-image src="https://devopsish.com/img/DevOpsish-Wide.png" title="DevOps'ish" alt="DevOps'ish wide logo"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">DevOps'ish is assembled by open source professional, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador Chris Short</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 173</mj-text>
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666" width="50%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p style="font-weight: bold">Welcome!</p>
+          <p>The impact of the coronavirus hit the tech events industry hard this week. In a shocking move on Tuesday, <a href="https://www.oreilly.com/conferences/from-laura-baldwin.html">O&rsquo;Reilly announced it has immediately ceased all in-person events</a>. To add insult to injury, <a href="https://twitter.com/joshsimmons/status/1242596429924728832">O&rsquo;Reilly laid off their entire events staff during a pandemic</a>. To make matters worse, under US law, they&rsquo;ll get only a week of health insurance benefits left, <a href="https://twitter.com/jhscott/status/1242604187294154752">meager support for COBRA (super expensive health insurance), and any severance is based solely on tenure</a>. DevOps&rsquo;ish is an O&rsquo;Reilly community partner. I heard from the O&rsquo;Reilly partner team this week. I was slated to speak at the <a href="https://conferences.oreilly.com/infrastructure-ops/io-ca/public/schedule/speaker/200908">O&rsquo;Reilly Infrastructure &amp; Ops Conference in June</a>). I haven&rsquo;t heard a peep out of O&rsquo;Reilly either about what happens now. <a href="https://www.oreilly.com/about/open-source-matters-more-than-ever.html">Tim O&rsquo;Reilly mustered up this &lsquo;lipstick on a pig&rsquo; post</a>, though, so we should all feel great about it, right? Guess what; I don&rsquo;t.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">People</h2>
+          <p><a href="https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief">That Discomfort You&rsquo;re Feeling Is Grief</a><br />
+            I know an article is a big deal when my wife says I should read it. &ldquo;If we can name it, perhaps we can manage it.&rdquo; An HBR interview with David Kessler.</p>
+
+          <p><a href="https://enterprisersproject.com/article/2020/3/14-kubernetes-interview-questions">14 Kubernetes interview questions: For hiring managers and job seekers</a><br />
+            Filling Kubernetes jobs can be tricky because the technology is relatively young. Experts share interview questions to help hiring managers sort candidates - and help job seekers prepare</p>
+
+          <p><a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Hans-Reiser-Locked-Up-No-Parole">Former Linux Developer Hans Reiser To Remain Locked Up</a><br />
+            I didn&rsquo;t even realize this is what happened to ReiserFS. In other news, when you get 15 to life, don&rsquo;t expect to be contributing to the kernel anytime soon. Also, never read the comments.</p>
+
+          <p><a href="https://www.theregister.co.uk/2020/03/26/microsoft_reply_all_email_storm_52000/">Microsoft staff giggle beneath the weight of a 52,000-person Reply-All email storm</a><br />
+            We call these unsubsquirrels at Red Hat and they are generally hilarious. <a href="https://store.ecompanystore.com/redhat/Shop/#/product/Search/RHT170013.000000-Red-Hat-remotee-sticker">We even have a sticker</a>.</p>
+
+          <p><a href="https://www.theregister.co.uk/2020/03/27/gresecurity_perens_gpl_settlement/">Gresecurity maker finally coughs up $300k to foot open-source pioneer Bruce Perens&rsquo; legal bill in row over GPL</a><br />
+            In other news, when you sue people because of their opinions, don&rsquo;t get surprised when you&rsquo;re forced to pay their legal fees.</p>
+
+          <p><a href="https://www.theregister.co.uk/2020/03/26/corejs_maintainer_jailed_code_release/">What happens when the maintainer of a JS library downloaded 26m times a week goes to prison for killing someone with a motorbike? Core-js just found out</a><br />
+            What will be the fate of an open-source project relied upon by so many?</p>
+        </mj-text>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Process</h2>
+          <p><a href="https://chrisshort.net/things-no-one-tells-you-when-you-start-a-newsletter/">Things no one tells you when you start a newsletter</a><br />
+            I took some of my notes and compared them with Gareth Rushgrove (Devops Weekly) and Mattias Geniar (cron.weekly) on what it&rsquo;s like writing a tech-related newsletter. It&rsquo;s very rewarding, but it is not trivial.</p>
+
+          <p><a href="https://www.wired.com/story/elizabeth-warren-campaign-open-source-tech/">Elizabeth Warren&rsquo;s Campaign Is Making Its Software Open Source</a><br />
+            One good thing from this US election cycle is that more people in politics will understand open source.</p>
+
+          <p><a href="https://lwn.net/SubscriberLink/815913/546f9bedce72c9ed/">Helping FOSS conferences in the face of a pandemic</a><br />
+            &ldquo;There are some resources listed on the web site, including organizations focused more widely on the problems that COVID-19 is bringing to our world (e.g. the World Health Organization response fund). There are also pointers to web pages covering virtual event organization and the mechanics of running an online event. The FOSS Responders web site makes it clear that many of the items posted there are simply meant as starting points; those with ideas are encouraged to get in touch with the project.&rdquo;</p>
+
+          <p><a href="https://devopsi.sh/guide-elastic-1c07c">Definitive Guide to AWS EKS Security - Download eBook</a><br />
+            When using Amazon&rsquo;s Elastic Kubernetes Service (EKS), you must understand which pieces of the security management role fall on you. AWS takes responsibility for securing their infrastructure and addressing security issues in their software. The customer must ensure the security of their own applications while correctly using the controls offered to protect their data and workloads. In this 42-page eBook, StackRox covers general EKS cluster security, including the standard controls and best practices for minimizing the risk around cluster workloads, as well as specific requirements for securing an EKS cluster and its associated infrastructure. <em>SPONSORED</em></p>
+
+          <p><a href="https://blogs.harvard.edu/doc/2020/03/27/zoom/">Zoom needs to clean up its privacy act</a><br />
+            &ldquo;A person whose personal data is being shed on Zoom doesn&rsquo;t know that&rsquo;s happening because Zoom doesn&rsquo;t tell them. There&rsquo;s no red light, like the one you see when a session is being recorded. If you were in a browser instead of an app, an extension such as Privacy Badger could tell you there are trackers sniffing your ass. And, if your browser is one that cares about privacy, such as Brave, Firefox or Safari, there&rsquo;s a good chance it would be blocking trackers as well. But in the Zoom app, you can&rsquo;t tell if or how your personal data is being harvested.&rdquo;</p>
+
+          <p><a href="https://blog.lexfo.fr/pentesting-pesit-ftp.html">Pentesting a banking FTP service</a><br />
+            If you&rsquo;ve ever had the joy of handling large businesses&rsquo; financial records, you know the pleasure of banking FTP servers. How these things are STILL running is just beyond my comprehension.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Tools</h2>
+          <p><a href="https://kubernetes.io/blog/2020/03/25/kubernetes-1-18-release-announcement/">Kubernetes 1.18: Fit &amp; Finish</a><br />
+            Kubernetes 1.18 was released this week (after a slight delay). &ldquo;Kubernetes 1.18 consists of 38 enhancements: 15 enhancements are moving to stable, 11 enhancements in beta, and 12 enhancements in alpha.&rdquo; Thank you to all the contributors and especially the 1.18 release team!</p>
+
+          <p><a href="https://istio.io/blog/2020/wasmhub-istio/">Extended and Improved WebAssemblyHub to Bring the Power of WebAssembly to Envoy and Istio</a><br />
+            &ldquo;A place to build, publish, share, and deploy WebAssembly Envoy extensions&rdquo;</p>
+
+          <p><a href="https://linkerd.io/2020/03/23/serverless-service-mesh-with-knative-and-linkerd/">Serverless Service Mesh with Knative and Linkerd</a><br />
+            The Istio requirement has been dropped so you can use Linkerd with Knative now.</p>
+
+          <p><a href="https://snyk.io/blog/ubi-to-minimize-container-vulnerabilities/">Using UBI images to minimize container vulnerabilities</a><br />
+            &ldquo;From a technical perspective, they are nearly identical to Red Hat Enterprise Linux images, which means they have great security, performance, and life cycles. They are released under a different End User License Agreement - It&rsquo;s possible to build a containerized application using UBI, push it to any registry server, easily share it with others - and because it&rsquo;s freely redistributable - even deploy it on non-Red Hat platforms.&rdquo;</p>
+
+          <p><a href="https://thenewstack.io/knative-crowds-out-other-serverless-software-packages-and-other-cncf-survey-takeaways/">Knative Crowds out Other Serverless Software (and Other CNCF Survey Takeaways)</a><br />
+            A different and in some ways, better take on the CNCF survey data.</p>
+
+          <p><a href="https://devopsi.sh/aws-lambda-97890">Title: Online Debug for AWS Lambda on your IDE!</a><br />
+            Thundra allows you to natively debug your serverless applications on the cloud with their own permissions. Thundra&rsquo;s online-debugger sets up a secure bridge between your AWS Lambda environment and your IDE. VSCode and IntelliJ IDEA are natively supported with plugins. For other IDEs, we provide a portable client to foster the integration with any IDEs. Start debugging Node.js, Python and Java functions for free today! <em>SPONSORED</em></p>
+
+          <p><a href="https://spanner.fyi/">spanner.fyi</a><br />
+            Bits of knowledge on Spanner from Jaana Dogan and the Cloud Spanner team at Google</p>
+
+          <p><a href="https://www.anandtech.com/show/15578/cloud-clash-amazon-graviton2-arm-against-intel-and-amd">Amazon&rsquo;s Arm-based Graviton2 Against AMD and Intel: Comparing Cloud Compute</a><br />
+            If you can cross-compile and run your code on ARM infrastructure, do it! You&rsquo;ll save a ton of money.</p>
+
+          <p><a href="https://github.com/darkbitio/mkit">darkbitio/mkit</a><br />
+            &ldquo;MKIT is a &lsquo;Managed Kubernetes Inspection Tool&rsquo; that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.&rdquo;</p>
+
+          <p><a href="https://github.com/codingCoffee/fahclient">codingCoffee/fahclient</a><br />
+            Dockerized Folding@home client with NVIDIA GPU support</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/jbeda/status/1242575595956867072" src="https://devopsish.com/images/173-tweet-of-the-week.jpg"></mj-image>
+        <mj-text padding-bottom="0px">
+          <p>Want more? Be sure to check out the <a href="https://devopsish.com/173/notes/">notes from this week&rsquo;s issue</a> to see what didn&rsquo;t make it to the newsletter.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="75%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="50%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="25%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p style="font-size:12px"><em><strong>Made in Michigan</strong></em></p>
+          <p style="font-size:12px"><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a><br />
+            <a href="*|FORWARD|*">Forward</a> this email to a friend</p>
+          <p style="font-size:10px">Want to change how you receive these emails?<br />
+            You (*|EMAIL|*) can <a href="*|UPDATE_PROFILE|*">update your profile</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.<br />
+            Mailing address: *|HTML:LIST_ADDRESS_HTML|*</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
