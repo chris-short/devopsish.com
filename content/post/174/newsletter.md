@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-04-05T07:00:00Z
-description = ""
+description = "Free Ansible & Kubernetes books, migrating to Kubernetes, Ansible GitOps, OpenShift Virtualization, Ingress API tweaks in Kubernetes 1.18, and more"
 draft = false
 slug = "174"
-tags = []
+tags = ["Kubernetes", "cloud", "DevOps", "security", "AWS", "community", "Ansible", "containers", "open source", "cloud native", "configuration", "Lambda", "OpenShift", "virtualization", "Operators", "Outreachy"]
 title = "DevOps'ish 174"
 
 +++
 
-There was some discussion in the DevOps'ish Telegram about what the topic of this intro should be this week. One suggestion was very good and I'm probably going to run with it next week. But, I understand that there are some of you looking for something to learn while we're in this odd time. I wrote this week's newsletter with that in mind. [If you don't know `git`, **now** is the time to learn](https://youtu.be/K5qI9bTG9Ik) for sure. Please don't hesitate to reach out if you have feedback. Thank you for subscribing and reading.
+There was some discussion in the [DevOps'ish Telegram](https://t.me/devopsish) about what the topic of this intro should be this week. One suggestion was excellent; I'm probably going to run with it next week. But, I understand that there are some of you looking for something to learn while we're in this odd time. I wrote this week's newsletter with that in mind. [If you don't know `git`, **now** is the time to learn](https://youtu.be/K5qI9bTG9Ik) for sure. Please don't hesitate to reach out if you have any feedback. Thank you for subscribing and reading.
 
 ## People
 
@@ -33,7 +33,7 @@ I will freely admit, I'm looking for distractions from the news and numbers.
 ## Process
 
 [Migrating to Kubernetes](https://blog.sensu.io/migrating-to-kubernetes)  
-"How to migrate depends, to an extent, on what you want to migrate from. The primary consideration is whether your existing infrastructure runs workloads in containers. If so, you’re already off to a quick start because you won’t have the containerization step to complete. Otherwise, you have a clear place to start."
+"How to migrate depends, to an extent, on what you want to migrate from. The primary consideration is whether your existing infrastructure runs workloads in containers. If so, you're already off to a quick start because you won't have the containerization step to complete. Otherwise, you have a clear place to start."
 
 [A hacker has wiped, defaced more than 15,000 Elasticsearch servers](https://www.zdnet.com/article/a-hacker-has-wiped-defaced-more-than-15000-elasticsearch-servers/)  
 "Hacker tries to pin the blame on Night Lion Security, a US cyber-security firm."
@@ -50,7 +50,7 @@ A continuously updated AirTable of companies and whether or not they're hiring.
 ## Tools
 
 [Kpt: Packaging up your Kubernetes configuration with git and YAML since 2014](https://opensource.googleblog.com/2020/03/kpt-packaging-up-your-kubernetes.html)  
-"Today we’d like to introduce kpt, an OSS tool for Kubernetes packaging, which uses a standard format to bundle, publish, customize, update, and apply configuration manifests."
+"Today we'd like to introduce kpt, an OSS tool for Kubernetes packaging, which uses a standard format to bundle, publish, customize, update, and apply configuration manifests."
 
 [Forget AWS Lambda, Kubernetes AND Fargate - what we need is beyond all three](https://diginomica.com/forget-aws-lambda-kubernetes-fargate-need-beyond)  
 The case for containers without thinking about capacity (which is exactly what we need right now).
@@ -59,13 +59,13 @@ The case for containers without thinking about capacity (which is exactly what w
 Welcome to the kernel, WireGuard.
 
 [Online Debug for AWS Lambda on your IDE!](https://devopsi.sh/aws-lambda-97890)  
-Thundra allows you to natively debug your serverless applications on the cloud with their own permissions. Thundra’s online-debugger sets up a secure bridge between your AWS Lambda environment and your IDE. VSCode and IntelliJ IDEA are natively supported with plugins. For other IDEs, we provide a portable client to foster the integration with any IDEs. Start debugging Node.js, Python and Java functions for free today! *SPONSORED*
+Thundra allows you to natively debug your serverless applications on the cloud with their own permissions. Thundra's online-debugger sets up a secure bridge between your AWS Lambda environment and your IDE. VSCode and IntelliJ IDEA are natively supported with plugins. For other IDEs, we provide a portable client to foster the integration with any IDEs. Start debugging Node.js, Python and Java functions for free today! *SPONSORED*
 
 [Deploying a Windows Server 2019 virtual machine using OpenShift Virtualization (YouTube)](https://youtu.be/Kx110kqoHo0)  
 "OpenShift virtualization enables Red Hat OpenShift clusters deployed to bare metal physical servers to use the KVM hypervisor to deploy and manage virtual machines utilizing Kubernetes APIs and Operators.  For applications which consist of a mix of containers and VMs, OpenShift virtualization provides a way to bring both components under the same management paradigm, allowing the application team to move at the speed of containers, but still retain the characteristics of a virtual machine when needed."
 
 [Improvements to the Ingress API in Kubernetes 1.18](https://kubernetes.io/blog/2020/04/02/improvements-to-the-ingress-api-in-kubernetes-1.18/)  
-"In Kubernetes 1.18, we’ve made 3 significant additions to this API"
+"In Kubernetes 1.18, we've made 3 significant additions to this API"
 
 [Introducing Kubie](https://blog.sbstp.ca/introducing-kubie/)  
 "I kept being bothered by the fact that `kubectx` and `kubens` modify a global config file. That is, when you change your shell's current context or namespace, it also affects all other shells..."
