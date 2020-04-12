@@ -1,0 +1,183 @@
+<mjml>
+  <mj-head>
+    <mj-title>DevOps'ish Weekly Newsletter</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#333" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="20px 0">
+      <mj-column width="100%">
+        <mj-image src="https://devopsish.com/img/DevOpsish-Wide.png" title="DevOps'ish" alt="DevOps'ish wide logo"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">DevOps'ish is assembled by open source professional, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador Chris Short</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 175</mj-text>
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666" width="50%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p style="font-weight: bold">Welcome!</p>
+          <p>There was some discussion in the <a href="https://t.me/devopsish">DevOps&rsquo;ish Telegram</a> about what the topic of this intro should be this week. One suggestion was excellent; I&rsquo;m probably going to run with it next week. But, I understand that there are some of you looking for something to learn while we&rsquo;re in this odd time. I wrote this week&rsquo;s newsletter with that in mind. <a href="https://youtu.be/K5qI9bTG9Ik">If you don&rsquo;t know <code>git</code>, <strong>now</strong> is the time to learn</a> for sure. Please don&rsquo;t hesitate to reach out if you have any feedback. Thank you for subscribing and reading.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">People</h2>
+          <p><a href="https://www.cncf.io/blog/2020/04/03/were-all-in-this-together-a-wellness-guide-from-the-cncf-well-being-working-group/">We&rsquo;re all in this Together: A Wellness Guide from the CNCF Well-Being Working Group</a><br />
+            If you&rsquo;re struggling, I&rsquo;m right there with you. Don&rsquo;t be afraid to reach out for help.</p>
+
+          <p><a href="https://devops.com/ibm-awards-its-second-50000-open-source-community-grant-to-internship-and-mentorship-program-outreachy/">IBM awards its second $50,000 Open Source Community Grant to internship and mentorship program Outreachy</a><br />
+            &ldquo;Our open source community nominated a number of nonprofits doing incredible work and, while voting was close with plenty of deserving organizations in the mix, we awarded Outreachy the most votes for their commitment to providing paid internships to underserved and underrepresented minorities.&rdquo;</p>
+
+          <p><a href="https://www.jeffgeerling.com/blog/2020/my-devops-books-are-free-april-thanks-device42">Jeff Geerling&rsquo;s DevOps books are free in April, thanks to Device42</a><br />
+            Huge thanks for these books. Ansible for DevOps changed my career. Ansible for Kubernetes builds on that. Thank you!</p>
+
+          <p><a href="https://www.washingtonpost.com/video-games/2020/04/03/best-video-games-modern-nintendo-playstation-xbox-pc/?utm_source=reddit.com">The best games to play while waiting out the coronavirus</a><br />
+            I will freely admit, I&rsquo;m looking for distractions from the news and numbers.</p>
+
+          <p><a href="https://www.cnn.com/2020/04/02/tech/wework-softbank-bailout/index.html">WeWork founder Adam Neumann loses out as SoftBank scraps share buyout</a><br />
+            <em>points and laughs</em></p>
+        </mj-text>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Process</h2>
+          <p><a href="https://blog.sensu.io/migrating-to-kubernetes">Migrating to Kubernetes</a><br />
+            &ldquo;How to migrate depends, to an extent, on what you want to migrate from. The primary consideration is whether your existing infrastructure runs workloads in containers. If so, you&rsquo;re already off to a quick start because you won&rsquo;t have the containerization step to complete. Otherwise, you have a clear place to start.&rdquo;</p>
+
+          <p><a href="https://www.zdnet.com/article/a-hacker-has-wiped-defaced-more-than-15000-elasticsearch-servers/">A hacker has wiped, defaced more than 15,000 Elasticsearch servers</a><br />
+            &ldquo;Hacker tries to pin the blame on Night Lion Security, a US cyber-security firm.&rdquo;</p>
+
+          <p><a href="https://www.ansible.com/blog/ops-by-pull-request-an-ansible-gitops-story">Ops by Pull Request: An Ansible GitOps Story</a><br />
+            &ldquo;There are many tools you can use in your GitOps pipelines; however, Ansible provides some unique advantages that make it ideal for these workflows and extending their use beyond Kubernetes and cloud-native systems.&rdquo;</p>
+
+          <p><a href="https://candor.co/hiring-freezes/">Who&rsquo;s freezing hiring from coronavirus</a><br />
+            A continuously updated AirTable of companies and whether or not they&rsquo;re hiring.</p>
+
+          <p><a href="https://hbr.org/2020/04/3-tips-to-avoid-wfh-burnout">3 Tips to Avoid WFH Burnout</a><br />
+            &ldquo;Maintain physical and social boundaries. Maintain temporal boundaries as much as possible. Focus on your most important work.&rdquo;</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Tools</h2>
+          <p><a href="https://opensource.googleblog.com/2020/03/kpt-packaging-up-your-kubernetes.html">Kpt: Packaging up your Kubernetes configuration with git and YAML since 2014</a><br />
+            &ldquo;Today we&rsquo;d like to introduce kpt, an OSS tool for Kubernetes packaging, which uses a standard format to bundle, publish, customize, update, and apply configuration manifests.&rdquo;</p>
+
+          <p><a href="https://diginomica.com/forget-aws-lambda-kubernetes-fargate-need-beyond">Forget AWS Lambda, Kubernetes AND Fargate - what we need is beyond all three</a><br />
+            The case for containers without thinking about capacity (which is exactly what we need right now).</p>
+
+          <p><a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=WireGuard-1.0.0-Released">WireGuard 1.0.0 Christened As A Modern Secure VPN Alternative To OpenVPN/IPsec</a><br />
+            Welcome to the kernel, WireGuard.</p>
+
+          <p><a href="https://devopsi.sh/aws-lambda-97890">Online Debug for AWS Lambda on your IDE!</a><br />
+            Thundra allows you to natively debug your serverless applications on the cloud with their own permissions. Thundra&rsquo;s online-debugger sets up a secure bridge between your AWS Lambda environment and your IDE. VSCode and IntelliJ IDEA are natively supported with plugins. For other IDEs, we provide a portable client to foster the integration with any IDEs. Start debugging Node.js, Python and Java functions for free today! <em>SPONSORED</em></p>
+
+          <p><a href="https://youtu.be/Kx110kqoHo0">Deploying a Windows Server 2019 virtual machine using OpenShift Virtualization (YouTube)</a><br />
+            &ldquo;OpenShift virtualization enables Red Hat OpenShift clusters deployed to bare metal physical servers to use the KVM hypervisor to deploy and manage virtual machines utilizing Kubernetes APIs and Operators. For applications which consist of a mix of containers and VMs, OpenShift virtualization provides a way to bring both components under the same management paradigm, allowing the application team to move at the speed of containers, but still retain the characteristics of a virtual machine when needed.&rdquo;</p>
+
+          <p><a href="https://kubernetes.io/blog/2020/04/02/improvements-to-the-ingress-api-in-kubernetes-1.18/">Improvements to the Ingress API in Kubernetes 1.18</a><br />
+            &ldquo;In Kubernetes 1.18, we&rsquo;ve made 3 significant additions to this API&rdquo;</p>
+
+          <p><a href="https://blog.sbstp.ca/introducing-kubie/">Introducing Kubie</a><br />
+            &ldquo;I kept being bothered by the fact that <code>kubectx</code> and <code>kubens</code> modify a global config file. That is, when you change your shell&rsquo;s current context or namespace, it also affects all other shells&hellip;&rdquo;</p>
+
+          <p><a href="https://devopsi.sh/guide-kubernetes-c346e">Detailed Guide to Kubernetes Configurations - Download Today</a><br />
+            Accidental misconfiguration is one of the leading causes of security breaches. When it comes to Kubernetes, the configuration options are complicated, security features are not enabled by default, and most of the community is learning how to securely configure their infrastructure components. In this guide, StackRox takes a deep dive into key Kubernetes configurations and recommended best practices you should follow to secure your API server, kubelet, pod security policies, etc. - with code snippets to check the configs. <em>SPONSORED</em></p>
+
+          <p><a href="https://learnk8s.io/cloud-resources-kubernetes">Provisioning cloud resources (AWS, GCP, Azure) in Kubernetes</a><br />
+            &ldquo;TL;DR: You can create and connect to managed cloud resources from Kubernetes using the Service Catalog, a tool such as Kubeform or cloud-specific operators such as Config Connector and AWS Operator Service.&rdquo;</p>
+
+          <p><a href="https://kubernetes.io/blog/2020/04/01/kubernetes-1-18-feature-topoloy-manager-beta/">Kubernetes Topology Manager Moves to Beta - Align Up!</a><br />
+            The <code>TopologyManager</code> feature enables NUMA alignment of CPUs and peripheral devices (such as SR-IOV VFs and GPUs), allowing your workload to run in an environment optimized for low-latency.</p>
+
+          <p><a href="https://github.com/kubevious/kubevious">kubevious</a><br />
+            &ldquo;Kubevious project, application centric Kubernetes UI&rdquo;</p>
+
+          <p><a href="https://github.com/ankane/pgsync">ankane/pgsync</a><br />
+            &ldquo;Sync data from one Postgres database to another&rdquo;</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/pythondj/status/1245365381756704391" src="https://devopsish.com/images/175-tweet-of-the-week.png"></mj-image>
+        <mj-text padding-bottom="0px">
+          <p>Want more? Be sure to check out the <a href="https://devopsish.com/175/notes/">notes from this week&rsquo;s issue</a> to see what didn&rsquo;t make it to the newsletter.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="75%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="50%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="25%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p style="font-size:14px"><em><strong>Made in Michigan</strong></em></p>
+          <p style="font-size:12px"><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a><br />
+            <a href="*|FORWARD|*">Forward</a> this email to a friend</p>
+          <p style="font-size:10px">Want to change how you receive these emails?<br />
+            You can <a href="*|UPDATE_PROFILE|*">update your profile</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
+          <p style="font-size:10px">Mailing address:<br />
+            DevOps'ish, 1150 Atlantic St, Unit 234, Milford, MI 48381</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
