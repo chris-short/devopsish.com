@@ -1,0 +1,183 @@
+<mjml>
+  <mj-head>
+    <mj-title>DevOps'ish Weekly Newsletter</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#333" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="20px 0">
+      <mj-column width="100%">
+        <mj-image src="https://devopsish.com/img/DevOpsish-Wide.png" title="DevOps'ish" alt="DevOps'ish wide logo"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">DevOps'ish is assembled by open source professional, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador Chris Short</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 175</mj-text>
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+        <mj-divider border-width="2px" border-color="#666" width="50%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p style="font-weight: bold">Welcome!</p>
+          <p>I was going to make a list of things you could learn this week but, the tech world got a notable call to arms this week. We need more COBOL developers in the US. <a href="https://thenewstack.io/u-s-unemployment-surge-highlights-dire-need-for-cobol-skills/">The glut of unemployment claims</a> has crippled mainframe systems designed to run in a satisfactory government manner under normal conditions. &ldquo;<a href="https://twitter.com/manicode/status/1246497036389793792">The governor of New Jersey just put out the call on live TV that he is desperate for Cobol programmers right now.</a>&rdquo; As insane as this sounds, it's true (and long overdue). We don't need to modernize this; it's not able to run as-is. We need more COBOL programmers now. The University of Limerick has a free <a href="http://www.csis.ul.ie/cobol/course/Default.htm">COBOL programming course</a>. IBM also has a <a href="https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe">Master the Mainframe</a> course that you can take online now. Even if you don't need a job right now, maybe you know someone who does. We can solve two problems at once here!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">People</h2>
+          <p><a href="https://blog.alicegoldfuss.com/hire-me/">Hire Alice Goldfuss</a><br />
+            Be like a shoe and just do it.</p>
+
+          <p><a href="https://www.ciodive.com/news/linux-containers-kubernetes/575506/">Why Linux containers are a CIO&rsquo;s best friend</a><br />
+            &ldquo;Linux containers enable developers to package and isolate applications with their entire runtime environment. This makes it easier (and less expensive) to move fully functional applications among dev, test, production and other environments. In turn, it makes it possible to meet the never-ending internal and external demand for those applications.&rdquo;</p>
+
+          <p><a href="https://terazo.com/providing-business-value-with-observability/">Webinar: Providing Business Value Through Observability</a><br />
+            My good friend, one of the most brilliant minds in DevOps, and great engineering leader, <a href="https://twitter.com/seebails">Chris Bailey</a>, is talking to the universe about observability for free. You should register, I did.</p>
+
+          <p><a href="https://www.cnn.com/2020/04/09/tech/microsoft-12-weeks-parental-leave/index.html">Microsoft is giving workers 12 weeks of paid parental leave because of school disruptions</a><br />
+            &ldquo;Microsoft is giving its workers an additional three months of paid parental leave to deal with extended school closures due to the coronavirus outbreak&hellip; The company is calling the program &lsquo;12-Week Paid Pandemic School and Childcare Closure Leave.&rsquo;&rdquo; My jaw dropped when I read this. I don&rsquo;t know the complete logistics of it, but having it as an option would be amazing.</p>
+
+          <p><a href="https://hbr.org/2020/04/how-to-manage-your-stress-when-the-sky-is-falling">How to Manage Your Stress When the Sky Is Falling</a><br />
+            &ldquo;It's natural to feel stressed right now. As we try to navigate our new normal, we're worried about getting sick or losing our jobs, we're inundated with news about death tolls and an economic recession, and we're isolated from coworkers, friends, and family.&rdquo;</p>
+
+          <p><a href="https://blog.dbsmasher.com/2020/04/08/high-performance-mysql.html">High Performance MySQL</a><br />
+            Huge congrats to Silvia Botros! What an uplifting story.</p>
+
+          <p><a href="https://www.youtube.com/watch?v=BxV14h0kFs0">This Video Has 6,637,986 Views (YouTube)</a><br />
+            This Tom Scott video is brilliant.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Process</h2>
+          <p><a href="https://www.zdnet.com/article/russian-telco-hijacks-internet-traffic-for-google-aws-cloudflare-and-others/">Russian telco hijacks internet traffic for Google, AWS, Cloudflare, and others</a><br />
+            &ldquo;Rostelecom involved in BGP hijacking incident this week impacting more than 200 CDNs and cloud providers.&rdquo;</p>
+
+          <p><a href="https://blogs.blackberry.com/en/2020/04/decade-of-the-rats">Decade of the RATs: Novel APT Attacks Targeting Linux, Windows and Android</a><br />
+            &ldquo;BlackBerry researchers have released a new report that examines how five related APT groups operating in the interest of the Chinese government have systematically targeted Linux servers, Windows systems and Android mobile devices while remaining undetected for nearly a decade.&rdquo; And people wonder why COBOL is still around.</p>
+
+          <p><a href="https://landing.google.com/sre/books/">Building Secure and Reliable Systems</a><br />
+            A new SRE-focused eBook from Google that&rsquo;s free for everyone.</p>
+
+          <p><a href="https://www.redhat.com/en/blog/be-careful-when-pulling-images-short-name">Be careful when pulling images by short name</a></p>
+
+          <p><a href="https://www.nytimes.com/2020/04/08/business/zoom-video-privacy-security-coronavirus.html">Zoom Rushes to Improve Privacy for Consumers Flooding Its Service</a><br />
+            The stories we will tell our grandchildren about Zoom&hellip; I can&rsquo;t wait. &ldquo;The risks, the misuse, we never thought about that.&rdquo; Eric S. Yuan, the chief executive of Zoom Video Communications.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Tools</h2>
+          <p><a href="https://monzo.com/blog/controlling-outbound-traffic-from-kubernetes">Controlling outbound traffic from Kubernetes</a><br />
+            This is brilliant and intense. This is how you keep bad shit from running in your cluster. A little automation and you can find leaky points in your processes and infrastructure at a moment&rsquo;s notice.</p>
+
+          <p><a href="https://liquidat.wordpress.com/2020/04/09/getting-started-with-ansible-security-automation-investigation-enrichment/">Getting Started with Ansible Security Automation: Investigation Enrichment</a><br />
+            &ldquo;In this blog post we have a closer look at how Ansible can help to overcome these challenges and support investigation enrichment activities. In the following example we'll see how Ansible can be used to enable programmatic access to information like logs coming from technologies that may not be integrated into a SIEM.&rdquo;</p>
+
+          <p><a href="https://info.crunchydata.com/blog/optimize-postgresql-server-performance">Optimize PostgreSQL Server Performance Through Configuration</a><br />
+            [I]t&rsquo;s always recommended that one of the first actions performed once an install of PostgreSQL is completed, would be to tune and configure some high-level settings.</p>
+
+          <p><a href="https://www.percona.com/blog/2020/04/10/percona-xtrabackup-backup-and-restore-of-a-single-table-or-database/">Percona XtraBackup: Backup and Restore of a Single Table or Database</a><br />
+            Percona tools have saved my ass more times than I can count. Give this a read in case you ever end up in a MySQL pickle.</p>
+
+          <p><a href="https://spectrum.ieee.org/automaton/robotics/home-robots/irobot-launches-robot-simulator-free-online-curriculum-for-robotics-education">iRobot Launches Robot Simulator, Free Online Curriculum for Robotics Education</a><br />
+            &ldquo;Your kids can learn to program robots from scratch, for free, on their computer or phone&rdquo;</p>
+
+          <p><a href="https://aws.amazon.com/about-aws/whats-new/2020/04/aws-fargate-launches-platform-version-14/">AWS Fargate launches Platform Version 1.4</a><br />
+            Still not the container management platform we want (see last week&rsquo;s issue).</p>
+
+          <p><a href="https://product.hubspot.com/blog/zookeeper-to-kubernetes-migration">Embrace and Replace: Migrating ZooKeeper into Kubernetes</a><br />
+            &ldquo;We recently migrated hundreds of ZooKeeper instances from individual server instances to Kubernetes without downtime. Our approach used powerful Kubernetes features like endpoints to ease the process, so we're sharing the high level outline of the approach for anyone who wants to follow in our footsteps.&rdquo;</p>
+
+          <p><a href="https://kerestey.net/writing/2020-04-05-announcing-unverified-dot-email.html">Announcing unverified.email</a><br />
+            &ldquo;unverified.email is a catch-all SMTP server. You can use it programmatically via its API at <a href="https://api.unverified.email">https://api.unverified.email</a>, and the article shows an example of its usage.&rdquo;</p>
+
+          <p><a href="https://markmap.js.org/">markmap-lib</a><br />
+            Turn Markdown into a mind map. I&rsquo;m going to have some fun with this later.</p>
+
+          <p><a href="https://github.com/ManagedKube/kubernetes-common-services">ManagedKube/kubernetes-common-services</a><br />
+            &ldquo;These services help make it easier to manage your applications environment in Kubernetes&rdquo;</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#666"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/pythondj/status/1245365381756704391" src="https://devopsish.com/images/175-tweet-of-the-week.png"></mj-image>
+        <mj-text padding-bottom="0px">
+          <p>Want more? Be sure to check out the <a href="https://devopsish.com/175/notes/">notes from this week&rsquo;s issue</a> to see what didn&rsquo;t make it to the newsletter.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="75%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="50%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="25%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p style="font-size:14px"><em><strong>Made in Michigan</strong></em></p>
+          <p style="font-size:12px"><a href="https://devopsi.sh/feedback">Please provide thoughtful feedback</a><br />
+            <a href="*|FORWARD|*">Forward</a> this email to a friend</p>
+          <p style="font-size:10px">Want to change how you receive these emails?<br />
+            You can <a href="*|UPDATE_PROFILE|*">update your profile</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
+          <p style="font-size:10px">Mailing address:<br />
+            DevOps'ish, 1150 Atlantic St, Unit 234, Milford, MI 48381</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
