@@ -1,2 +1,6 @@
 User-Agent: *
+Disallow: https://devopsish.com/cc-by-sa-4.0/
+Disallow: https://devopsish.com/terms/
+Disallow: https://devopsish.com/privacy/
+Disallow: https://devopsish.com/cookie-policy/
 Sitemap: https://devopsish.com/sitemap.xml
