@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-04-19T07:00:00Z
-description = ""
+description = "Upcoming hiatus, phishing, DevSecOps, Mars rover driving from home, Vision Fund, BGP, Kubernetes Operators, OpenTelemetry, and more!"
 draft = false
 slug = "176"
-tags = []
+tags = ["cloud", "Kubernetes", "DevOps", "AWS", "GitHub", "cloud native", "security", "Linux", "IDE", "eBPF", "Vision Fund", "BGP", "Operators", "container", "Microsoft", "privelege escalation", "phishing", "Verizon", "BlueJeans", "Red Hat", "EKS", "GKE", "AKS", "OpenTelemetry", "Lambda", "VSCode", ""]
 title = "DevOps'ish 176"
 
 +++
@@ -79,7 +79,7 @@ Thundra allows you to natively debug your serverless applications on the cloud w
 [alexellis/awesome-baremetal](https://github.com/alexellis/awesome-baremetal)  
 "Bare-metal is awesome. Let's share our favourite tools."
 
-[raphamorim/lucario:](https://github.com/raphamorim/lucario)  
+[raphamorim/lucario](https://github.com/raphamorim/lucario)  
 "The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm" I switched to this theme in VSCode while writing this newsletter. I had to turn the brightness down on my monitor, that's probably a good thing. So far, I like it.
 
 ## DevOps'ish Tweet of the Week
