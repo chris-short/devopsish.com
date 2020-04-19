@@ -1,0 +1,179 @@
+<mjml>
+  <mj-head>
+    <mj-title>DevOps'ish Weekly Newsletter</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="20px 0">
+      <mj-column width="100%">
+        <mj-image src="https://devopsish.com/img/DevOpsish-Wide.png" title="DevOps'ish" alt="DevOps'ish wide logo"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">DevOps'ish is assembled by open source contributor, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador Chris Short</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="24px">DevOps'ish 176</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider border-width="2px" border-color="#616161" width="50%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p style="font-weight: bold">Welcome!</p>
+          <p>Next week&rsquo;s DevOps&rsquo;ish (177) will be the last DevOps&rsquo;ish for a while. I&rsquo;m going to be putting DevOps&rsquo;ish on a COVID-19 hiatus. A large part of making this newsletter is reading the news every day. Even with very heavy-handed filtering, the amount of data I read about the ongoing pandemic is far higher than one should be consuming. I&rsquo;m pausing DevOps&rsquo;ish because the news is hard to read these days. I&rsquo;ll still be around. I&rsquo;ve got something I&rsquo;m pretty excited about in the works. Stay tuned on <a href="https://twitter.com/ChrisShort">Twitter</a> and <a href="https://chrisshort.net">chrishort.net</a> for more info on that.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">People</h2>
+          <p><a href="https://github.blog/2020-04-14-sawfish-phishing-campaign-targets-github-users/">Sawfish phishing campaign targets GitHub users</a><br />
+            &ldquo;Over the last week, GitHub has received reports related to a phishing campaign targeting our customers. We&rsquo;re publishing this blog to increase awareness of this ongoing threat.&rdquo;</p>
+
+          <p><a href="https://devops.com/devops-chats-devsecops-and-openshift-with-red-hat/">DevOps Chats: DevSecOps and OpenShift, with Red Hat</a><br />
+            When Kirsten Newcomer speaks, I listen. &ldquo;We&rsquo;re seeing that shift left a lot, but then there&rsquo;s all these other range of things that you should be doing and can be doing to build security into the platform. And so, when we saw pod security policies in Kubernetes, for example, that&rsquo;s a way that the Kube admin can take advantage of the Linux features that enable container isolation at the Kubernetes layer and enforce things like ensure that a container doesn&rsquo;t run with unnecessary privileges.&rdquo;</p>
+
+          <p><a href="https://nora.codes/post/stop-making-students-use-eclipse/">Stop Making Students Use Eclipse</a><br />
+            &ldquo;When students don&rsquo;t understand what a file is, or haven&rsquo;t ever edited text in anything but Microsoft Word and don&rsquo;t realize they can edit code outside of an IDE, they will not be able to do the crucial work of self-directed learning that is a hallmark of all computer science success.&rdquo;</p>
+
+          <p><a href="https://hbr.org/2020/04/how-working-parents-can-support-one-another">How Working Parents Can Support One Another</a><br />
+            I know there are thousands of working parents juggling kids right now. Yes, Max is around most of the day, but we&rsquo;re fortunate in that we&rsquo;re a single-income household. If you&rsquo;re working with folks that are tagging out of meetings and directly into parenting so their partner can do their meeting, please give them the advantage of every ounce of flexibility you have.</p>
+
+          <p><a href="https://www.nasa.gov/feature/jpl/nasas-curiosity-keeps-rolling-as-team-operates-rover-from-home">NASA&rsquo;s Curiosity Keeps Rolling As Team Operates Rover From Home</a><br />
+            If these folks can control a rover on another fucking planet while working from home, what&rsquo;s your organization&rsquo;s excuse? I&rsquo;ve talked to four different doctors the past couple weeks and every, single one of them thinks we might have changed medicine forever at this point.</p>
+
+          <p><a href="https://hbr.org/2020/04/is-it-even-possible-to-focus-on-anything-right-now">Is It Even Possible to Focus on Anything Right Now?</a><br />
+            It&rsquo;s not. Stop acting like we&rsquo;re all okay.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Process</h2>
+          <p><a href="https://www.thezdi.com/blog/2020/4/8/cve-2020-8835-linux-kernel-privilege-escalation-via-improper-ebpf-program-verification">Zero Day Initiative - CVE-2020-8835: Linux Kernel Privilege Escalation via Improper eBPF Program Verification</a><br />
+            &ldquo;This blog explains the technical details of an exploit using the Linux eBPF feature to achieve local privilege escalation. Due to the nature of the bug(s), which are rather subtle misbehaviors of a safety-critical feature called the “verifier”, some explanations about the inner workings of eBPF need to be provided first.&rdquo;</p>
+
+          <p><a href="https://techcrunch.com/2020/04/13/softbank-expects-24-billion-in-losses-from-vision-fund-wework-and-oneweb-investments/">SoftBank expects $24 billion in losses from Vision Fund, WeWork and OneWeb investments</a><br />
+            Now we all have to figure out what definition of vision is the correct one for Vision Fund.</p>
+
+          <p><a href="https://devopsi.sh/practical-steps-4640e">Online Workshop: Practical Steps to Reduce Your AWS Bill</a><br />
+            Learn about practical steps you can take now to reduce your AWS bill. In this workshop, you&rsquo;ll learn common causes of cloud waste, how to get cost visibility with proper tagging and account segmentation, and how to analyze your cost in the context of your business. Looking to get immediate visibility into your costs? Check out the only engineering-first cloud cost management tool and start a free trial at <a href="https://www.cloudzero.com/">www.cloudzero.com</a>. <em>SPONSORED</em></p>
+
+          <p><a href="https://blog.cloudflare.com/is-bgp-safe-yet-rpki-routing-security-initiative/">Is BGP Safe Yet? No. But we are tracking it carefully</a><br />
+            BGP will take a significant amount of work to become safe. The fact that as a 19-year old I could redirect a whole country&rsquo;s network traffic on accident to a router I controlled (and things like that are still happening today) shows just how far we have to go with BGP.</p>
+
+          <p><a href="https://www.cnbc.com/2020/04/16/verizon-will-buy-video-conferencing-company-blue-jeans.html">Verizon will buy video conferencing company BlueJeans</a><br />
+            I wonder if I should start taking my BlueJeans meetings over my Verizon connection.</p>
+
+          <p><a href="https://www.itnews.com.au/news/remote-hands-flub-takes-out-much-of-cloudflare-546752">&lsquo;Remote hands&rsquo; flub takes out much of Cloudflare</a><br />
+            &ldquo;During planned maintenance remote hands decommissioned some equipment that they shouldn&rsquo;t have.&rdquo; This has happened to me before.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">Tools</h2>
+          <p><a href="https://developers.redhat.com/blog/2020/04/15/crafting-kubernetes-operators/">Crafting Kubernetes Operators</a><br />
+            &ldquo;In this talk, you&rsquo;ll learn about crafting Kubernetes Operators from Josh Wood and Burr Sutter.&rdquo;</p>
+
+          <p><a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Git-Newline-Leak-Vulnerability">Git Releases Security Update With Newline Character Creating Possible Credential Leak</a><br />
+            &ldquo;A member of Google&rsquo;s Project Zero team discovered that a specially crafted URL could trick the Git client into sending credential information for an alternative host to an attacker&rsquo;s host.&rdquo;</p>
+
+          <p><a href="https://devopsi.sh/gke-aks-e3ad2">EKS vs. GKE vs. AKS - Comparing the top three cloud providers</a><br />
+            Not all managed Kubernetes services are created the same. They support different features and options for their cluster control planes and nodes, and they vary in how much management they really provide. To help cut through the fog, StackRox performed a hands-on, side-by-side comparison of the top three services (EKS, AKS, GKE) to help you understand their current state and trade-offs - updated April 2020 <em>SPONSORED</em></p>
+
+          <p><a href="https://thenewstack.io/opentelemetry-steps-up-to-manage-the-mayhem-of-microservices/">OpenTelemetry Steps up to Manage the Mayhem of Microservices</a><br />
+            &ldquo;Work continues to make OpenTelemetry the standard set of vendor-neutral specifications and associated tools for capturing cloud native operational data.&rdquo;</p>
+
+          <p><a href="https://gumroad.com/l/aws-good-parts">The Good Parts of AWS</a><br />
+            I bought this book to read after I finish The Unicorn Project (finally).</p>
+
+          <p><a href="https://blog.christophersmart.com/2020/04/11/fedora-silverblue-is-an-amazing-immutable-desktop/">Fedora Silverblue is an amazing immutable desktop</a><br />
+            Layers aren&rsquo;t just for containers.</p>
+
+          <p><a href="https://devopsi.sh/aws-lambda-97890">Online Debug for AWS Lambda on your IDE!</a><br />
+            Thundra allows you to natively debug your serverless applications on the cloud with their own permissions. Thundra&rsquo;s online-debugger sets up a secure bridge between your AWS Lambda environment and your IDE. VSCode and IntelliJ IDEA are natively supported with plugins. For other IDEs, we provide a portable client to foster the integration with any IDEs. Start debugging Node.js, Python and Java functions for free today! <em>SPONSORED</em></p>
+
+          <p><a href="https://github.com/alexellis/awesome-baremetal">alexellis/awesome-baremetal</a><br />
+            &ldquo;Bare-metal is awesome. Let&rsquo;s share our favourite tools.&rdquo;</p>
+
+          <p><a href="https://github.com/raphamorim/lucario">raphamorim/lucario</a><br />
+            &ldquo;The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm&rdquo; I switched to this theme in VSCode while writing this newsletter. I had to turn the brightness down on my monitor, that&rsquo;s probably a good thing. So far, I like it.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="75%">
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-bottom="0px">
+          <h2 style="font-weight: bold">DevOps'ish Tweet of the Week</h2>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" href="https://twitter.com/stefanprodan/status/1248953443361918977" src="https://devopsish.com/images/176-tweet-of-the-week.png"></mj-image>
+        <mj-text padding-bottom="0px">
+          <p>Want more? Be sure to check out the <a href="https://devopsish.com/176/notes/">notes from this week&rsquo;s issue</a> to see what didn&rsquo;t make it to the newsletter.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="75%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="50%"></mj-divider>
+        <mj-divider border-width="1px" border-color="#E0E0E0" width="25%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p style="font-size:14px"><em><strong>Made in Michigan</strong></em></p>
+          <p style="font-size:10px">Want to change how you receive these emails?<br />
+            You can <a href="*|UPDATE_PROFILE|*">update your profile</a> or <a href="*|UNSUB|*">unsubscribe from this list</a>.</p>
+          <p style="font-size:10px">Mailing address:<br />
+            DevOps'ish, 1150 Atlantic St, Unit 234, Milford, MI 48381</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
