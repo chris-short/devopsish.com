@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-04-26T07:00:00Z
-description = "The Hiatus Edition"
+description = "DevOps'ish 177: The Hiatus Edition"
 draft = false
 slug = "177"
 tags = ["Kubernetes", "DevOps", "developers", "cloud", "cloud native", "open source", "AKS", "Google", "AWS", "FTP", "SFTP", "Telegram", "CNCF", "Knative", "eBook", "Cloud Native Computing Foundation", "Microsoft", "YouTube", "Detroit", "Amazon", "serverless", "ArgoCD", "OpenShift", "Red Hat", "Azure", "Fedora", "Netflix", "Spotify", "Operators", "Community"]
-title = "DevOps'ish 177"
+title = "DevOps'ish 177: The Hiatus Edition"
 
 +++
 
