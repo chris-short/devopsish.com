@@ -26,17 +26,9 @@ title = "DevOps'ish 177 Notes"
 
 [Tech Field Day Virtual with Red Hat - Tech Field Day](https://techfieldday.com/event/tfdrh1/)
 
-[Help the World by Healing Your NGINX Configuration - NGINX](https://www.nginx.com/blog/help-the-world-by-healing-your-nginx-configuration/)
-
-[kudobuilder/kuttl: KUbernetes Test TooL (kuttl)](https://github.com/kudobuilder/kuttl)
-
 [How Kubernetes contributors are building a better communication process - Kubernetes](https://kubernetes.io/blog/2020/04/21/contributor-communication/)
 
 [Embracing the beautiful mess – Surfing Complexity](https://surfingcomplexity.blog/2020/04/18/embracing-the-beautiful-mess/)
-
-[Lenovo To Begin Shipping ThinkPad Laptops With Fedora Pre-Installed - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Lenovo-ThinkPad-Fedora-Preload)
-
-[How Netflix brings safer and faster streaming experiences to the living room on crowded networks using TLS 1.3](https://netflixtechblog.com/how-netflix-brings-safer-and-faster-streaming-experience-to-the-living-room-on-crowded-networks-78b8de7f758c)
 
 [How Containers Work!](https://wizardzines.com/zines/containers/)
 
