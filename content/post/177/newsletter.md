@@ -6,14 +6,14 @@ date = 2020-04-26T07:00:00Z
 description = "The Hiatus Edition"
 draft = false
 slug = "177"
-tags = []
+tags = ["Kubernetes", "DevOps", "developers", "cloud", "cloud native", "open source", "AKS", "Google", "AWS", "FTP", "SFTP", "Telegram", "CNCF", "Knative", "eBook", "Cloud Native Computing Foundation", "Microsoft", "YouTube", "Detroit", "Amazon", "serverless", "ArgoCD", "OpenShift", "Red Hat", "Azure", "Fedora", "Netflix", "Spotify", "Operators", "Community"]
 title = "DevOps'ish 177"
 
 +++
 
 "We should take comfort that while we may have more still to endure, better days will return. We will be with our friends again. We will be with our families again. We will meet again. But for now, I send my thanks and warmest good wishes to you all." -Queen Elizabeth II
 
-As a bonus this week, I am including my existing RSS reader's [OPML file](/DevOps'ish-Inoreader-Subscriptions-20200426.xml) for anyone to pick and carry on the reporting I used to do. I look forward to merging this with the new one I build starting tomorrow.
+As mentioned last week, the newsletter is going on a hiatus. I'm not sure for how long, but it will be a while. Fear not, as a bonus this week, I am including my RSS reader's [OPML file](/DevOps'ish-Inoreader-Subscriptions-20200426.xml) for you to be bombarded by news constantly. I look forward to merging this with the new one I start building tomorrow.
 
 ## People
 
