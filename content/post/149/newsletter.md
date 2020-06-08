@@ -93,6 +93,8 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1181695563743539201 >}}
+woah. @SlackHQ TIL, and i ❤️ you! pic.twitter.com/vLJphX0Vxe
+
+- mo (@usrdev) [October 8, 2019](https://twitter.com/usrdev/status/1181695563743539201?ref_src=twsrc%5Etfw)
 
 [See Notes →](https://devopsish.com/149/notes/)

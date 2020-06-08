@@ -117,4 +117,6 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 ## Tweet of the Week
 
-{{< tweet 1188072326358884354 >}}
+Open source is not a product marketing strategy.
+
+- Asim Aslam (@malsamisa) [October 26, 2019](https://twitter.com/malsamisa/status/1188072326358884354?ref_src=twsrc%5Etfw)
