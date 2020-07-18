@@ -15,4 +15,4 @@ DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps l
 
 Every week DevOps'ish is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, and readers across the globe. [Some of the brightest minds in the industry](/praise/) are reading DevOps'ish and you should too. Subscribe today!
 
-{{< mc >}}
+{{< mc-gdpr >}}
