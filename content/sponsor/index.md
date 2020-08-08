@@ -18,7 +18,7 @@ Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospect
 
 ## What do I get with a DevOps'ish sponsorship
 
-* Ads are featured natively in e-mails and on devopsish.com
+* Ads are featured natively in newsletter e-mails and on devopsish.com
 * The native ad format guards against content blockers while maintaining the quality experience subscribers expect
 * Ads are placed in the section you want them in; puts ad in the best possible context
 * Brand recognition and engagement from readers across the globe
@@ -29,7 +29,7 @@ Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospect
 
 Effective 2019-12-22
 
-A one (1) week sponsorship has a fixed fee of **$275 USD**. There is a two week minimum for all sponsorships. For an additional fee, ads can be shared on [Twitter](https://twitter.com/ChrisShort) and [LinkedIn](https://linkedin.com/in/thechrisshort/).
+A one (1) week sponsorship has a fixed fee of **$275 USD**. There is a two week minimum for all sponsorships.
 
 {{< stats >}}
 
