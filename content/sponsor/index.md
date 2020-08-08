@@ -27,9 +27,15 @@ Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospect
 
 ## What does a DevOps'ish sponsorship cost
 
-Effective 2019-12-22
+Effective 2020-08-07
 
-A one (1) week sponsorship has a fixed fee of **$275 USD**. There is a two week minimum for all sponsorships.
+*Reduced rates in effect*
+
+A one (1) week sponsorship has a fixed fee of **$200 USD**. There is a four week minimum for all sponsorships.
+
+All copy and links are needed by close of business Friday to ensure it is in the newsletter.
+
+It is highly encouraged to change copy and CTAs every week.
 
 {{< stats >}}
 
