@@ -16,6 +16,10 @@ Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professi
 
 Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospectus) today!
 
+## How do we get started
+
+Send your event, product, or organizational details to [chris@devopsish.com](mailto:chris@devopsish.com) with your ad idea to **get started today**!
+
 ## What do I get with a DevOps'ish sponsorship
 
 * Ads are featured natively in newsletter e-mails and on devopsish.com
@@ -23,15 +27,17 @@ Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospect
 * Ads are placed in the section you want them in; puts ad in the best possible context
 * Brand recognition and engagement from readers across the globe
 
-[Terms and conditions apply](https://devopsish.com/terms/)
+[Terms and conditions apply](/terms/)
 
 ## What does a DevOps'ish sponsorship cost
 
 Effective 2020-08-07
 
-*Reduced rates in effect*
+***Reduced rates in effect***
 
 A one (1) week sponsorship has a fixed fee of **$200 USD**. There is a four week minimum for all sponsorships.
+
+***Reduced rates in effect***
 
 All copy and links are needed by close of business Friday to ensure it is in the newsletter.
 
@@ -39,9 +45,11 @@ It is highly encouraged to change copy and CTAs every week.
 
 {{< stats >}}
 
+Interested in [devopsish.com web site analytics](https://app.usefathom.com/share/acmuyzfw/devopsish.com)?
+
 Need something to present to leadership? Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospectus).
 
-Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
+Interested in sponsoring? Email me at [chris@chrisshort.net](mailto:chris@chrisshort.net).
 
 ### Example Ad
 
