@@ -16,6 +16,10 @@ Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professi
 
 Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospectus) today!
 
+## How do we get started
+
+Send your event, product, or organizational details to [chris@devopsish.com](mailto:chris@devopsish.com) with your ad idea to **get started today**!
+
 ## What do I get with a DevOps'ish sponsorship
 
 * Ads are featured natively in newsletter e-mails and on devopsish.com
@@ -41,7 +45,7 @@ It is highly encouraged to change copy and CTAs every week.
 
 Need something to present to leadership? Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospectus).
 
-Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
+Interested in sponsoring? Email me at [chris@chrisshort.net](mailto:chris@chrisshort.net).
 
 ### Example Ad
 

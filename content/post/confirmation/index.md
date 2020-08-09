@@ -14,12 +14,6 @@ aliases = [
 
 +++
 
-<script>
-window.addEventListener('load', (event) => {
-    fathom('trackGoal', 'IVBKFKWG', 0);
-});
-</script>
-
 Thank you for subscribing!
 
 Check out the the [latest edition](/).

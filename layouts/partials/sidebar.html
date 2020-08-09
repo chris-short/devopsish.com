@@ -6,14 +6,20 @@
 
   {{ if and (.Site.Params.sidebar) (isset .Site.Params.sidebar "about") }}
   <section class="sidebar-module sidebar-module-inset">
-    {{ if .Site.Params.sidebar }}{{ partial "mc.html" . }}{{ end }}
+    {{ if .Site.Params.sidebar }}{{ partial "sib.html" . }}{{ end }}
   </section>
   {{ end }}
- 
+
   <section class="sidebar-module">
+    <p><a href="/what-is-devops/" title="What is DevOps?"><img src="/img/what-is-devops.jpg" alt="What is DevOps?" targer="_blank" /></a></p>
+    <h3>DevOps Books</h2>
+    <p><a href="https://amzn.to/33Gme2t" title="The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win"><img src="/img/the-phoenix-project.jpg" alt="The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win" target="_blank" /></a></p>
     <p><a href="https://amzn.to/2ImDdLV" title="DevOps for Dummies by Emily Freeman"><img src="/img/devops-for-dummies.jpg" alt="DevOps for Dummies by Emily Freeman" target="_blank" /></a></p>
     <p><a href="https://amzn.to/2LQSZ3D" title="ACCELERATE: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations"><img src="/img/accelerate.jpg" alt="ACCELERATE: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations" target="_blank" /></a></p>
-    <p><a href="/what-is-devops/" title="What is DevOps?"><strong>What is DevOps?</strong></a></p>
+    <p><a href="https://amzn.to/3fGMCfc" title="Beyond the Phoenix Project: The Origins and Evolution of DevOps"><img src="/img/beyond-the-phoenix-project.jpg" alt="Beyond the Phoenix Project: The Origins and Evolution of DevOps" target="_blank" /></a></p>
+    <p><a href="https://amzn.to/3a8OwUA" title="The Unicorn Project"><img src="/img/the-unicorn-project.jpg" alt="The Unicorn Project" target="_blank" /></a></p>
+    <p><a href="https://amzn.to/3a8OwUA" title="The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations"><img src="/img/the-devops-handbook.jpg" alt="The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations" target="_blank" /></a></p>
+    <h4>Praise & Partners</h4>
     <p><a href="/praise/" title="Praise for DevOps'ish" target="_blank" /><strong>Praise for DevOps'ish</strong></a></p>
     <p><a href="/partners/" title="Partners" target="_blank" /><strong>Partners</strong></a></p>
   </section>
@@ -24,7 +30,7 @@
       <a href="https://www.reddit.com/r/devopsish/" title="/r/devopsish on Reddit"><span class="fa fa-reddit fa-lg"></span></a>&nbsp;
       <a href="https://twitter.com/ChrisShort" title="Chris Short on Twitter"><span class="fa fa-twitter fa-lg"></span></a>&nbsp;
       <a href="https://linkedin.com/in/thechrisshort/" title="Chris Short on LinkedIn"><span class="fa fa-linkedin fa-lg"></span></a>&nbsp;
-      <a href="https://github.com/chris-short/devopsish.com" title="Chris Short on GitHub"><span class="fa fa-github fa-lg"></span></a></p>
+      <a href="https://github.com/chris-short/" title="Chris Short on GitHub"><span class="fa fa-github fa-lg"></span></a></p>
   </section>
 
   {{ if .Site.Params.sidebar }}
