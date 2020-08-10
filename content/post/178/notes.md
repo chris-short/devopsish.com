@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Notes", "2020"]
-date = 2020-08-09T07:00:00Z
+date = 2020-08-10T07:00:00Z
 description = "Notes from DevOps'ish 178"
 draft = false
 url = "178/notes"
@@ -14,32 +14,50 @@ title = "DevOps'ish 178 Notes"
 
 ## Notes
 
-[Master Shifu & His Cloud-Native Mentoring Sessions - InfraCloud Technologies](https://www.infracloud.io/master-shifu-cloud-native-mentoring-sessions/)
+[Best practices for Agile integration with Red Hat's Eric Schabell - Episode 44](https://whatthedev.buzzsprout.com/673192/4750094-best-practices-for-agile-integration-with-red-hat-s-eric-schabell-episode-44)
 
-[ekalinin/github-markdown-toc: Easy TOC creation for GitHub README.md](https://github.com/ekalinin/github-markdown-toc)
+[Upgrade to Kubernetes 1.16 · Issue #1649 · googleforgames/agones](https://github.com/googleforgames/agones/issues/1649)
 
-[Elon Musk says Starlink internet private beta to begin in roughly three months, public beta in six | TechCrunch](https://techcrunch.com/2020/04/23/elon-musk-says-starlink-internet-private-beta-to-begin-in-roughly-three-months-public-beta-in-six/)
+[xkcd: Scientist Tech Help](https://xkcd.com/2341/)
 
-[SLOs Are the API for Your Engineering Team](https://www.infoq.com/articles/slos-engineering-team-API/)
+[The best parts of Visual Studio Code are proprietary - Underjord](https://underjord.io/the-best-parts-of-visual-studio-code-are-proprietary.html)
 
-[Five best practices for administering remote systems | Enable Sysadmin](https://www.redhat.com/sysadmin/administering-remote-systems)
+[avatsaev/touchbar_nyancat: Stupid nyancat animation on your +$2k MacBook Pro's Touchbar](https://github.com/avatsaev/touchbar_nyancat)
 
-[Tech Field Day Virtual with Red Hat - Tech Field Day](https://techfieldday.com/event/tfdrh1/)
+[Automate virtual machine deployment with Ansible: Automation | Enable Sysadmin](https://www.redhat.com/sysadmin/deployment-ansible-automation)
 
-[How Kubernetes contributors are building a better communication process - Kubernetes](https://kubernetes.io/blog/2020/04/21/contributor-communication/)
+[How to Integrate Open Policy Agent with Red Hat Advanced Cluster Management for Kubernetes policy framework](https://www.openshift.com/blog/how-to-integrate-open-policy-agent-with-red-hat-advanced-cluster-management-for-kubernetes-policy-framework)
 
-[Embracing the beautiful mess – Surfing Complexity](https://surfingcomplexity.blog/2020/04/18/embracing-the-beautiful-mess/)
+[Week Ending August 2, 2020 | Last Week in Kubernetes Development](http://lwkd.info/2020/20200804)
 
-[How Containers Work!](https://wizardzines.com/zines/containers/)
+[There’s No Such Thing As a Tech Expert Anymore | WIRED](https://www.wired.com/story/theres-no-such-thing-as-a-tech-expert-anymore/)
 
-[How Does DNS Work? - Kevin Sookocheff](https://sookocheff.com/post/networking/how-does-dns-work/)
+[kshitijcode/a2a](https://github.com/kshitijcode/a2a)
 
-[Opinion | Two Parents. Two Kids. Two Jobs. No Child Care. - The New York Times](https://www.nytimes.com/2020/04/22/opinion/coronavirus-parenting-burnout.html)
+[The quest for quantum-proof encryption just made a leap forward | MIT Technology Review](https://www.technologyreview.com/2020/08/03/1005891/search-for-quantum-proof-encryption-computing-nist/)
 
-[Integrating Hashicorp Vault in OpenShift 4](https://www.openshift.com/blog/integrating-hashicorp-vault-in-openshift-4)
+[ongoing by Tim Bray · Just Too Efficient](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient)
 
-[The secret skills of productive programmers](https://codewithoutrules.com/2020/04/20/productivity-skills/)
+[Enable TLS with Let's Encrypt and the HAProxy Kubernetes Ingress Controller - HAProxy Technologies](https://www.haproxy.com/blog/enable-tls-with-lets-encrypt-and-the-haproxy-kubernetes-ingress-controller/)
 
-[Testing sync at Dropbox - Dropbox](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
+[Journey of a Linux DevOps engineer | Enable Sysadmin](https://www.redhat.com/sysadmin/journey-linux-devops-engineer)
 
-[(131) Getting Started with ArgoCD on OpenShift 4 - YouTube](https://www.youtube.com/watch?v=xYCX2EejSMc&feature=youtu.be)
+[Why I use Ingress Controllers to expose Kubernetes services | Opensource.com](https://opensource.com/article/20/8/ingress-controllers-kubernetes)
+
+[Leading Change: Why Transformation Efforts Fail](https://hbr.org/1995/05/leading-change-why-transformation-efforts-fail-2)
+
+[Building Ethical Tech Companies with Liz Fong-Jones - Last Week in AWS](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/building-ethical-tech-companies-with-liz-fong-jones/)
+
+[Bloomberg - Are you a robot?](https://www.bloomberg.com/tosv2.html?vid=&uuid=f2027720-d71e-11ea-b3d7-a1a795060a40&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wNy0zMS9udmlkaWEtc2FpZC1pbi1hZHZhbmNlZC10YWxrcy10by1idXktc29mdGJhbmstcy1jaGlwLWNvbXBhbnktYXJt)
+
+[Replacing ngrok with ktunnel :: A blog — Just a blog](https://mbuffett.com/posts/ktunnel-ngrok-replace/)
+
+[Three people have been charged for Twitter’s huge hack, and a Florida teen is in jail - The Verge](https://www.theverge.com/2020/7/31/21349920/twitter-hack-arrest-florida-teen-fbi-irs-secret-service)
+
+[IBM completes successful field trials on Fully Homomorphic Encryption | Ars Technica](https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/)
+
+[Hackers broke into real news sites to plant fake stories | Ars Technica](https://arstechnica.com/information-technology/2020/07/hackers-broke-into-real-news-sites-to-plant-fake-stories/)
+
+[Lesson Learned From Cloud Migrations | swampUP 2020 Resources](https://jfrog.com/user-conference/lesson-learned-from-cloud-migrations-planning-is-everything/)
+
+[virtual : devopsish](https://www.reddit.com/r/devopsish/comments/i2gw4e/virtual/)
