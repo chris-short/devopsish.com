@@ -6,7 +6,7 @@ date = 2020-08-10T07:00:00Z
 description = "DevOps'ish 178"
 draft = false
 slug = "178"
-tags = []
+tags = ["Accurics", "cloud", "DevOps", "cloud native", "AWS", "Red Hat", "AWS bill", "Cloudflare", "development", "GitOps", "CNCF", "Kubernetes", "Rust", "Go", "helpernode", "ZFS", "Windows", "open source", "process", "distributed systems", "data storage", "cluster", "Nginx", "Envoy", "Microsoft", "infrastructure", "community", "safety", "nodes", "loosely coupled", "Christian Hernandez", "crun", "vim", "live stream", "VScode", "Linux", "OKD", "WSL", "kube", "Lili Cosic", "Corey Quinn", "DevSecOps"]
 title = "DevOps'ish 178: Return of the G"
 
 +++
