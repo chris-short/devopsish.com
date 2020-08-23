@@ -3,7 +3,7 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-08-23T07:00:00Z
-description = "DevOps'ish 180"
+description = "KubeCon EU 2020 recap, vacations, Mozilla, permanent WFH, Arm sale, Hierarchical Namespaces, Tekton Hub, Linkerd, and more"
 draft = false
 slug = "180"
 tags = ["Kubernetes", "cloud native", "open source", "cloud", "DevOps", "security", "namespaces", "hierarchical namespaces", "Tekton", "proxy", "Linkerd", "Cloud Native Computing Foundation", "CNCF", "KubeCon", "containers", "postgresql", "postgres", "Docker", "Ian Coldwater"]
@@ -23,7 +23,7 @@ I asked what some folks thought were the highlights of the week's festivities an
 
 There was a ton of praise for Ian Coldwater and Brad Geesaman's talk, [Advanced Persistence Threats: The Future of Kubernetes Attacks](https://kccnceu20.sched.com/event/ZesN/advanced-persistence-threats-the-future-of-kubernetes-attacks-ian-coldwater-heroku-brad-geesaman-brad-geesaman-consulting). Ian Coldwater was the talk of the conference pretty much.
 
-I have no idea when any of these talks are going to be publicly available. But, you can log back into the ~~terrible~~ platform and watch the talks and keynotes on demand at the moment.
+I have no idea when any of these talks are going to be publicly available. But, you can log back into the ~~terrible~~ platform and watch the talks and keynotes on-demand at the moment.
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_180). They have recently released a rewrite of [Terrascan](https://github.com/accurics/terrascan?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_180) that uses the incubating Cloud Native Computing Foundation project, [Open Policy Agent](https://www.openpolicyagent.org/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_180).
 
@@ -39,7 +39,7 @@ Definitely been mulling this one over given the current state of the world. This
 "As sensors are deployed around the globe, the open-source project aims to improve current earthquake detection and alert systems and using machine learning and other technologies."
 
 [Atlassian tells employees they can work from home indefinitely](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html)  
-To an extent, a lot of companies are going to go this route as companies look at how operations have gone and how soon they can get out of leases.
+To an extent, a lot of companies are going to go this route as companies look at how operations have gone and how soon they can get out of leases. Also, I'm grounded until July 2021 at the earliest.
 
 [Equal access to tech can reduce poverty and increase diversity](https://thehill.com/opinion/technology/511436-equal-access-to-tech-can-reduce-poverty-and-increase-diversity)  
 "We need to remove the barriers of access to education, technology and career advancement that are keeping people of color from the same opportunities and achievements others enjoy. Even helping one kid in this way would be amazing. This would be one of the greatest hacks ever."
