@@ -6,7 +6,7 @@ date = 2020-08-23T07:00:00Z
 description = "DevOps'ish 180"
 draft = false
 slug = "180"
-tags = []
+tags = ["Kubernetes", "cloud native", "open source", "cloud", "DevOps", "security", "namespaces", "hierarchical namespaces", "Tekton", "proxy", "Linkerd", "Cloud Native Computing Foundation", "CNCF", "KubeCon", "containers", "postgresql", "postgres", "Docker", "Ian Coldwater"]
 title = "DevOps'ish 180"
 
 +++
