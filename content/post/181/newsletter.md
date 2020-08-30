@@ -57,7 +57,7 @@ This is nothing short of terrifying.
 I have no idea WTF is going to happen with TikTok. But, Microsoft and Walmart, of all people, want in on the action too? Weird. The whole situation is weird and is probably going to get ruled illegal at some point anyway.
 
 [Is Your Organization Ready for Permanent WFH?](https://hbr.org/2020/08/is-your-organization-ready-for-permanent-wfh)  
-It's happening. Folks are subletting, Amazon is taking over former big box stores in malls for distribution centers, and things are generally going to move to working from home for the foreseeable future. I've been grounded until July 2021.
+It's happening. Folks are subletting, Amazon is taking over former big box stores in malls for distribution centers, and things are generally going to move to work from home for the foreseeable future. I've been grounded until July 2021.
 
 ## Tools
 
@@ -72,7 +72,7 @@ Operators: A good problem to have.
 [Do I Need Kubernetes?](https://mbird.biz/writing/do-i-need-kubernetes.html)  
 Well do ya... Punk?
 
-[Why are Creative Commons ”Non Commercial” licenses not Open Source and a big problem for hardware & product design - Mifactori](https://mifactori.de/non-commercial-is-not-open-source/)  
+[Why are Creative Commons ”Non Commercial” licenses not Open Source and a big problem for hardware & product design](https://mifactori.de/non-commercial-is-not-open-source/)  
 Licensing your projects matter. This is something I had not thought of about specific Creative Commons licenses. Don't worry! DevOps'ish doesn't use eight of these licenses.
 
 [KubeCon EU: Accurics, Snyk Release Tools to Secure Infrastructure-as-Code Deployments](https://thenewstack.io/kubecon-eu-accurics-snyk-release-tools-to-secure-infrastructure-as-code-deployments/)  
