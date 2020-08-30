@@ -50,7 +50,7 @@ Sarah is of course 100% in the right here. Forcing folks to use archaic tools to
 [Webinar | Empower DevOps and Security Teams with Kubernetes-native Security](https://pages.awscloud.com/GLOBAL-partner-OE-containers-stackrox-sept-2020-reg-event.html?ContainersStackRoxSeptember2020&sc_publisher=StackRox&sc_country=USA&sc_geo=NAMER&sc_category=mult&sc_outcome=acq&trk=Partner_DevOpsIsh)  
 Startups and enterprises alike are embracing containerization and Kubernetes, but security struggles to move at the pace of DevOps, bogged down by tools and processes not suited for cloud-native technology. [Register for this webinar](https://pages.awscloud.com/GLOBAL-partner-OE-containers-stackrox-sept-2020-reg-event.html?ContainersStackRoxSeptember2020&sc_publisher=StackRox&sc_country=USA&sc_geo=NAMER&sc_category=mult&sc_outcome=acq&trk=Partner_DevOpsIsh) where cloud-native security experts from AWS, Informatica, and StackRox will discuss how to apply Kubernetes-native security and controls to protect containers and Kubernetes without slowing down application development and rollout. *Date: Sep 03, 2020 | 10 AM PDT* *SPONSORED*
 
-[New P2P botnet infects SSH servers all over the world | Ars Technica](https://arstechnica.com/information-technology/2020/08/new-p2p-botnet-infects-ssh-servers-all-over-the-world/)  
+[New P2P botnet infects SSH servers all over the world](https://arstechnica.com/information-technology/2020/08/new-p2p-botnet-infects-ssh-servers-all-over-the-world/)  
 This is nothing short of terrifying.
 
 [Trump backs Oracle as potential TikTok buyer](https://www.theregister.com/2020/08/19/trump_backs_oracle_as_tiktok/)  
