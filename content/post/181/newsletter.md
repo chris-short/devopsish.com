@@ -3,17 +3,19 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-08-30T07:00:00Z
-description = ""
+description = "Heptio people abandoning VMWare's ship, DevOps titles, Camille Fournier on management, plain text email is no longer a good development tool, GitOps, and more"
 draft = false
 slug = "181"
-tags = []
-title = "DevOps'ish 181"
+tags = ["DevOps'ish", "DevOps", "Kubernetes", "cloud native", "Kubernetes native", "tools", "security", "open source", "Heptio", "VMware", "Operators", "Red Hat", "Accurics", "development", "developers", "risk", "GitOps", "NTP", "platform", "engineering", "Cloud Native Computing Foundation", "CNCF", "archaic", "certificates", "network", "OSPF", "licenses", "Creative Commons", "postgresql", "postgres", "Crunchy", "database", "SQLite", "CoreOS", "git", "TikTok", "Amazon", "Oracle", "Walmart", "Facebook", "Holocaust"]
+title = "DevOps'ish 181: Heptio people abandoning VMWare's ship, DevOps titles, Camille Fournier on management, plain text email is no longer a good development tool, GitOps, and more"
 
 +++
 
 Welcome!
 
-It would appear the clock has run out for all the Heptio folks to get their payouts from the VMware acquisition. A few Kubernetes contributors are jumping ship from VMware. Four in a little over a week is nothing short of a sign, though. These aren't the kinds of folks who like to hang out in big corporate orgs and feel like cogs in the machine. They want to feel like they're making an impact and see the value in their work. They, like Deming, appreciate and take pride in their work. There is nothing at all wrong with this. I 100% understand, given that Red Hat is the biggest organization I've ever been a part of outside the Air Force. I can understand the appeal of the late-stage startup life too. But, there is comfort in working for a 25-year-old organization inside a much larger organization that probably won't muck with us too much given the current global situation. VMware completely sucked all the Heptio out of Heptio the second they started renaming and rebranding Heptio projects to VMware products. I have to hand it to Red Hat. Realizing that the CoreOS name meant something and keeping some of its projects active and incorporating the CoreOS name into products shows that at the very least, Red Hat appreciated CoreOS's work. I don't know if the same can be said for VMware of Heptio. Perception is often reality in these instances.
+It would appear the clock has run out for all the Heptio folks to get their payouts from the VMware acquisition. A few Kubernetes contributors are jumping ship from VMware. Four in a little over a week is nothing short of a sign, though. These aren't the kinds of folks who like to hang out in big corporate orgs and feel like cogs in the machine. They want to feel like they're making an impact and see the value in their work. They, like Deming, appreciate and take pride in their work. There is nothing at all wrong with this. I 100% understand, given that Red Hat is the biggest organization I've ever been a part of outside the Air Force. I can understand the appeal of the late-stage startup life too.
+
+But, there is comfort in working for a 25-year-old organization inside a much larger organization that probably won't muck with us too much given the current global situation. VMware completely sucked all the Heptio out of Heptio the second they started renaming and rebranding Heptio projects to VMware products. I have to hand it to Red Hat. Realizing that the CoreOS name meant something and keeping some of its projects active and incorporating the CoreOS name into products shows that at the very least, Red Hat appreciated CoreOS's work. I don't know if the same can be said for VMware of Heptio. Perception is often reality in these instances because we'll never know otherwise unless folks speak up (which they are often not allowed to).
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_181). Learn more about their new [open source project Terrscan](https://www.accurics.com/blog/products/terrascan-opa-policy-as-code/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_181).
 
@@ -23,7 +25,7 @@ It would appear the clock has run out for all the Heptio folks to get their payo
 "Have concerns about using the term 'DevOps' in job titles in the years to come? Get over it. Spend your time using the DevOps engineer title to help achieve important outcomes"
 
 [Facebook algorithm found to 'actively promote' Holocaust denial](https://www.theguardian.com/world/2020/aug/16/facebook-algorithm-found-to-actively-promote-holocaust-denial#Echobox=1597587921)  
-Utterly fucking disgusting. What else is Facebook fucking up besides elections and the truth about the Holocaust. Just turn it off.
+Utterly disgusting. What else is Facebook screwing up besides elections and the truth about the Holocaust? Just turn it off.
 
 [Camille Fournier on Effectively Managing Internal Platform Teams](https://www.infoq.com/news/2020/08/fournier-internal-platform/)  
 "Camille Fournier, managing director, head of platform engineering at Two Sigma, recently shared her learnings from managing internal platform engineering teams. Two of the key challenges she shared are the smaller size of the customer base and the challenge in understanding how your customers will use your product. She also stressed the importance of ensuring invested development work is aligned to the best interests of the product and the end user."
@@ -52,7 +54,7 @@ Startups and enterprises alike are embracing containerization and Kubernetes, bu
 This is nothing short of terrifying.
 
 [Trump backs Oracle as potential TikTok buyer](https://www.theregister.com/2020/08/19/trump_backs_oracle_as_tiktok/)  
-I have no idea WTF is going to happen with TikTok. But, Microsoft and WalMart of all people want in on the action too? Weird. The whole situation is weird and is probably going to get ruled illegal at some point anyway.
+I have no idea WTF is going to happen with TikTok. But, Microsoft and Walmart, of all people, want in on the action too? Weird. The whole situation is weird and is probably going to get ruled illegal at some point anyway.
 
 [Is Your Organization Ready for Permanent WFH?](https://hbr.org/2020/08/is-your-organization-ready-for-permanent-wfh)  
 It's happening. Folks are subletting, Amazon is taking over former big box stores in malls for distribution centers, and things are generally going to move to working from home for the foreseeable future. I've been grounded until July 2021.
@@ -75,10 +77,10 @@ Licensing your projects matter. This is something I had not thought of about spe
 
 [KubeCon EU: Accurics, Snyk Release Tools to Secure Infrastructure-as-Code Deployments](https://thenewstack.io/kubecon-eu-accurics-snyk-release-tools-to-secure-infrastructure-as-code-deployments/)  
 "Cloud native security providers Accurics and Snyk have each released new tools that promise to help organizations secure infrastructure-as-Code (IaC) deployments."  
-*[**Accurics**](https://www.accurics.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_181) is a sponsor of DevOps'ish*
+*[Accurics](https://www.accurics.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_181) is a sponsor of DevOps'ish*
 
 [Run cloud-native Postgres on Kubernetes](https://www.crunchydata.com/developers/download-postgres/containers/postgres-operator?utm_source=DevOpsish&utm_medium=Week2&utm_campaign=CrunchyOperator)  
-Make your Postgres deployments elastic, HA, and secure with open source Crunchy PostgreSQL for Kuberenetes. Its PostgreSQL Operator provides a simple interface to provision, secure and scale database clusters in your K8S environments. Download now or reach out to the team at Crunchy Data to get started. *SPONSORED*
+Make your Postgres deployments elastic, HA, and secure with open source Crunchy PostgreSQL for Kubernetes. Its PostgreSQL Operator provides a simple interface to provision, secure and scale database clusters in your K8S environments. Download now or reach out to the team at Crunchy Data to get started. *SPONSORED*
 
 [Why Kubernetes Operators Will Unleash Your Developers by Reducing Complexity](https://thenewstack.io/why-kubernetes-operators-will-unleash-your-developers-by-reducing-complexity/)  
 "Operators are a big part of helping us reach this automated, on-demand, container-based future. Operators are operational procedures and best practices that are codified into software. They make automated day two operations possible on Kubernetes, and model the complexities of today’s distributed systems."
