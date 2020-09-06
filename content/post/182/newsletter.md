@@ -3,7 +3,7 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-09-06T07:00:00Z
-description = "I got nothing this week."
+description = "1x engineers, Future of Ops Jobs, DevOps for non-IT biz leaders, Kubernetes, Litmus, and more"
 draft = false
 slug = "182"
 tags = ["Kubernetes", "DevOps", "Cloud", "cloud native", "security", "Business", "Engineers", "open source", "Engineering", "cluster", "AWS"]
