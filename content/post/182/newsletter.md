@@ -3,21 +3,21 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-09-06T07:00:00Z
-description = ""
+description = "I got nothing this week."
 draft = false
 slug = "182"
-tags = []
+tags = ["Kubernetes", "DevOps", "Cloud", "cloud native", "security", "Business", "Engineers", "open source", "Engineering", "cluster", "AWS"]
 title = "DevOps'ish 182"
 
 +++
 
 Welcome!
 
-Your environment makes up so much of who your are in real life. I often wonder if your work environment reflects how your infrastructure will look. If you're okay with satisfying that 80% use case, does your infra look like AWS with hundreds of services some of which are quite stable and others not so much? Or if you the perfect be the enemy of the good and be like a lot of companies and spend a lot of time spinning their wheels waiting for the right thing to happen. I've seen countless examples of this.
+Your environment makes up so much of who you are in real life. I often wonder if your work environment reflects how your infrastructure will look. If you’re okay with satisfying that 80% use case, does your infra look like AWS with hundreds of services some of which are quite stable and others not so much? Or if you the perfect be the enemy of the good and be like a lot of companies and spend a lot of time spinning their wheels waiting for the right thing to happen. I’ve seen countless examples of this.
 
-But, what about when your environment is resilient, scalable, and cloud enabled. What about when psychological safety is achieved AND the idea of cost per minute to the business during an outage is established? We see so many examples of bad ways and maybe a few good ways of building . I would love to see more use cases around the things that are possible when the business value is known down to the individual and the organization is a high-performer. Highlighting more of the good, I hope, would engrain "the why" behind the need for change way more than features and individual capabilities.
+But, what about when your environment is resilient, scalable, and cloud-enabled. What about when psychological safety is achieved AND the idea of cost per minute to the business during an outage is established? We see so many examples of bad ways and maybe a few good ways of building. I would love to see more use cases around the things that are possible when the business value is known down to the individual and the organization is a high-performer. Highlighting more of the good, I hope, would engrain “the why” behind the need for change way more than features and individual capabilities.
 
-Or... Is it what we all know deep down inside? It's a little bit of a shit show *somewhere*.
+Or... Is it what we all know deep down inside? It’s a little bit of a shit show *somewhere*.
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_182). Learn more about their new open source project [Terrscan](https://www.accurics.com/blog/products/terrascan-opa-policy-as-code/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_182) which has recently been refactored Open Policy Agent.
 
@@ -70,7 +70,7 @@ I love Markdown. It's what I use to write all my web sites content these days. I
 Yet another Kubernetes Handbook. YMMV.
 
 [How a Kubernetes Pod Gets an IP Address](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)  
-"I wanted to write this post to share what I have learned about various networking components and how they are stitched together in a kubernetes cluster for every pod to receive an IP address."
+"I wanted to write this post to share what I have learned about various networking components and how they are stitched together in a Kubernetes cluster for every pod to receive an IP address."
 
 [5 Linux network troubleshooting commands](https://www.redhat.com/sysadmin/five-network-commands)  
 "Linux provides many command-line tools to help sysadmins manage, configure, and troubleshoot network settings." Minus nslookup this is a helpful list.
@@ -78,7 +78,7 @@ Yet another Kubernetes Handbook. YMMV.
 [Public Sector on Air: SPARTA OCP 4.5 Air-Gapped AWS Gov Cloud](https://www.twitch.tv/videos/727360211?filter=archives&sort=time)  
 "Sparta was created to solve the problem of delivering the Red Hat OpenShift Kubernetes Platform, along with an extensible middleware and application portfolio, within restricted deployment environments (e.g. behind an air gap)."
 
-[Understanding DNS—anatomy of a BIND zone file](https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/)  
+[Understanding DNS-anatomy of a BIND zone file](https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/)  
 "Need a clear, thorough guide to understanding how DNS records work? We got you."
 
 [litmuschaos/litmus](https://github.com/litmuschaos/litmus)  
