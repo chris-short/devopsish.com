@@ -12,15 +12,15 @@ aliases = [
 
 +++
 
-Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, and readers across the globe.
+Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, senior leaders, and readers from all walks of life *across the globe*.
 
 Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospectus) today!
 
-## How do we get started
+## Get Started
 
-Send your event, product, or organizational details to [chris@devopsish.com](mailto:chris@devopsish.com) with your ad idea to **get started today**!
+Send your event, product, or organizational details to [chris@devopsish.com](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
 
-## What do I get with a DevOps'ish sponsorship
+## What's in a DevOps'ish sponsorship
 
 * Ads are featured natively in newsletter e-mails and on devopsish.com
 * The native ad format guards against content blockers while maintaining the quality experience subscribers expect
@@ -29,13 +29,15 @@ Send your event, product, or organizational details to [chris@devopsish.com](mai
 
 [Terms and conditions apply](https://devopsish.com/terms/)
 
-## What does a DevOps'ish sponsorship cost
+## Pricing
 
 Effective 2020-08-07
 
 *Reduced rates in effect*
 
 A one (1) week sponsorship has a fixed fee of **$200 USD**. There is a four week minimum for all sponsorships.
+
+*Note: Rates will go up in 2021. Lock in lock term sponsorships now and save big.*
 
 All copy and links are needed by close of business Friday to ensure it is in the newsletter.
 
@@ -54,4 +56,4 @@ With Datadog's Live Container view, you can see every container's health, resour
 
 ## How do we get started
 
-Email [chris@devopsish.com](mailto:chris@devopsish.com) with your ad idea to **get started today**!
+Email [chris@devopsish.com](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
