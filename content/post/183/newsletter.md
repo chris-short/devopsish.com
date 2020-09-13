@@ -6,7 +6,7 @@ date = 2020-09-13T07:00:00Z
 description = "9/11, The Automated CIO, Postgres, Rust, Kubernetes, and more"
 draft = false
 slug = "183"
-tags = ["DevOps", "cloud", "cloud native", "open source", "Kubernetes", "Intelligence", "postgresql", "infrastructure", "Intel", "CIO", "observability", "automated", "GitOps", "Operators", "Apache Kafka", "Chef", "security", "Linux", "Langley AFB", "monitoring", "automation", "CNCF", "API", "Progressive Delivery", "Feature Flags", ""]
+tags = ["DevOps", "cloud", "cloud native", "open source", "Kubernetes", "Intelligence", "postgresql", "infrastructure", "Intel", "CIO", "observability", "automated", "GitOps", "Operators", "Apache Kafka", "Chef", "security", "Linux", "Langley AFB", "monitoring", "automation", "CNCF", "API", "Progressive Delivery", "Feature Flags"]
 title = "DevOps'ish 183"
 
 +++
