@@ -3,7 +3,7 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-09-13T07:00:00Z
-description = "9/11, The Automated CIO, Postgres, Rust, Kubernetes, and more"
+description = "9-11, The Automated CIO, Postgres, Rust, Kubernetes, and more"
 draft = false
 slug = "183"
 tags = ["DevOps", "cloud", "cloud native", "open source", "Kubernetes", "Intelligence", "postgresql", "infrastructure", "Intel", "CIO", "observability", "automated", "GitOps", "Operators", "Apache Kafka", "Chef", "security", "Linux", "Langley AFB", "monitoring", "automation", "CNCF", "API", "Progressive Delivery", "Feature Flags"]
@@ -11,19 +11,19 @@ title = "DevOps'ish 183"
 
 +++
 
-*General 9/11, war, and mental health warnings*
+*General 9-11, war, and mental health warnings*
 
 This is hell week for me every year. The week before 9-11-2001, I lost my best friend. At the same time, mourning his loss in North Carolina still (I was stationed at Langley AFB, VA). I woke up early the morning after leaving the mountains and the funeral activities in Hendersonville. I was at my parents' house. They'd taken time off the week before dealing with my dad's mother's (my grandmother's) passing. While they were incredibly helpful, they'd missed all the work they could afford to, so we were leaving that day to be back home by nightfall. I flipped over to the news to see a weather update. I saw one smoking tower. Minutes later, I saw another plane smack into the second tower live. Scarred for life (I studied NYC architecture throughout my youth), I jumped in the shower after telling my ex-wife, "If they hit the Pentagon, we're leaving, immediately." She began frantically packing up our miraculously still sleeping daughter and her stuff.
 
-I knew some things she didn't, but she knew that the world was in some horrendously deep shit. I knew that the Pentagon was the next logical target after the Al Qaeda attacks on the USS Cole. But, the WTC was the wild card we didn't see coming at all. I don't know why we didn't think it'd be a massive, all in one hit. Al Qaeda was known for stepping up their theatrics. I either learned right before leaving or immediately after returning to duty that the typical background chatter died down the week before 9/11. To the point, some folks were indeed worried before my departure.
+I knew some things she didn't, but she knew that the world was in some horrendously deep shit. I knew that the Pentagon was the next logical target after the Al Qaeda attacks on the USS Cole. But, the WTC was the wild card we didn't see coming at all. I don't know why we didn't think it'd be a massive, all in one hit. Al Qaeda was known for stepping up their theatrics. I either learned right before leaving or immediately after returning to duty that the typical background chatter died down the week before 9-11. To the point, some folks were indeed worried before my departure.
 
 We raced home in a Toyota RAV-4, listening to the day's events unfold. By the time we hit I-64 in Virginia, we were in a group of folks moving down the interstate in convoy, we all ID'd as military (all branches), weren't stopping for shit, and were driving between 80-100 mph. In a group that large, with flashing lights, by the afternoon of *that* day, everyone knew to get out of the way. The cops were not out. Even someone did try to pull us over; we'd have gotten them called off before you could say, World Trade Center. We got home. I was unloading the car, getting the latest on the day's events from my boss. I was being added to a list to get on base. As soon as I was on it, I was to report in and expect to work non-stop. "Pack every tactical thing you got."
 
 I pulled the flag we fly in. It was a dark day for the United States. As I was folding the flag, a squadron of F-15s appeared on the return path to Langley Air Force Base. It was my second year in the US Air Force. I'd only seen pictures of fully loaded out F-15s up to that point. I immediately confirmed what I already knew before the Bush presser from the Oval that night by the armament being carried. We were at war, I knew it was Al Qaeda before the intel even came close to confirming it, and I was deeply shaken we did not catch it. It was so fucking obvious. "I want in the fight, now," I told my boss. He reassured me, he knew. But, we had no idea what was in store for any of us.
 
-The events of that day would trigger a series of life-altering decisions for everyone around me. We lost so many people that day. I'm still outraged and sad we missed the intelligence behind it. The intelligence hell we created in the aftermath of 9/11 was partly built and maintained with my own hands. We trampled so many people's rights, but we had no idea because we only used and reacted to actionable intelligence in my roles. There were real walls between what I knew what we were doing with what we gathered and what the other agencies did with it. I just maintained all the infrastructure behind it for one of the regional sites. Everything else done by other intel agencies on station was unknown to me.
+The events of that day would trigger a series of life-altering decisions for everyone around me. We lost so many people that day. I'm still outraged and sad we missed the intelligence behind it. The intelligence hell we created in the aftermath of 9-11 was partly built and maintained with my own hands. We trampled so many people's rights, but we had no idea because we only used and reacted to actionable intelligence in my roles. There were real walls between what I knew what we were doing with what we gathered and what the other agencies did with it. I just maintained all the infrastructure behind it for one of the regional sites. Everything else done by other intel agencies on station was unknown to me.
 
-It wasn't until the Snowden revelations that I realized how dirty my hands were in maintaining the most voracious intelligence gathering apparatus the world had ever known. The physical injuries and mental hell are the scars 9/11 veterans bare. But, there is so much more to 9/11 for me than the day of 9/11.
+It wasn't until the Snowden revelations that I realized how dirty my hands were in maintaining the most voracious intelligence gathering apparatus the world had ever known. The physical injuries and mental hell are the scars 9-11 veterans bare. But, there is so much more to 9-11 for me than the day of 9-11.
 
 I made it through another year. I'm glad you did too.
 
