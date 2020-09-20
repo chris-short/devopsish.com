@@ -96,8 +96,6 @@ title = "DevOps'ish 184 Notes"
 
 [OSCAL](https://pages.nist.gov/OSCAL/)
 
-[Terrascan extends Policy as Code to Kubernetes - Accurics](https://www.accurics.com/blog/products/terrascan-kubernetes/)
-
 [An introduction to Kubespray | Enable Sysadmin](https://www.redhat.com/sysadmin/kubespray-deploy-kubernetes)
 
 [Is Plastic Recycling A Lie? Oil Companies Touted Recycling To Sell More Plastic : NPR](https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled)
@@ -117,8 +115,6 @@ title = "DevOps'ish 184 Notes"
 [nkanaev/yarr: yet another rss reader](https://github.com/nkanaev/yarr)
 
 [Red Hat named a leader among multicloud container development platforms by Forrester](https://www.redhat.com/en/resources/forrester-wave-multicloud-container-platform-analyst-material)
-
-[Chris Short: K8s Release Team - Cloud Native Computing Foundation - NVIDIA to buy Arm for $40B - Oracle and TikTok - OpenShift TV - Walmart Brings Back Gateway Computers by Tech Breakfast Podcast • A podcast on Anchor](https://anchor.fm/techbreakfast/episodes/Chris-Short-K8s-Release-Team---Cloud-Native-Computing-Foundation---NVIDIA-to-buy-Arm-for-40B---Oracle-and-TikTok---OpenShift-TV---Walmart-Brings-Back-Gateway-Computers-ejk8n1)
 
 [Cruster](https://cruster.io/)
 
