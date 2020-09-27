@@ -14,74 +14,64 @@ title = "DevOps'ish 185 Notes"
 
 ## Notes
 
-[TikTok reveals details of how its coveted algorithm works - Axios](https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html?utm_source=Pointer&utm_campaign=13d6351f9b-ISSUE_205_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-13d6351f9b-300312877)
+[restic · restic 0.10.0 released](https://restic.net/blog/2020-09-19/restic-0.10.0-released/)
 
-[Rakuten the 'unvendor' has a lot to prove | Light Reading](https://www.lightreading.com/cloud-nativenfv/rakuten-unvendor-has-lot-to-prove/d/d-id/763998)
+[This Week in Programming: All Hail Visual Studio Code – The New Stack](https://thenewstack.io/this-week-in-programming-all-hail-visual-studio-code/)
 
-[Hubble's New Rainbow View of Jupiter | ESA/Hubble](https://www.spacetelescope.org/images/heic2017b/)
+[Alphabet settles shareholder lawsuit](https://www.cnbc.com/2020/09/25/alphabet-settles-shareholder-lawsuit-.html)
 
-[China has more reason to block Nvidia's Arm deal than approve it, say analysts | South China Morning Post](https://www.scmp.com/tech/big-tech/article/3102030/china-has-more-reason-block-nvidias-arm-deal-approve-it-say-analysts)
+[U.S. Economy Lost $16 Trillion Because Of Racism, Citigroup Says : Live Updates: Protests For Racial Justice : NPR](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/09/23/916022472/cost-of-racism-u-s-economy-lost-16-trillion-because-of-discrimination-bank-says)
 
-[Thank you · Issue #471 · glimpse-editor/Glimpse](https://github.com/glimpse-editor/Glimpse/issues/471)
+[The Importance of Feedback Loops in Distributed Systems – The New Stack](https://thenewstack.io/the-importance-of-feedback-loops-in-distributed-systems/)
 
-[Beware of kubectl's -t (--tty) Option | Thomas Stringer](https://trstringer.com/kubectl-tty-issues/)
+[Google CEO Sundar Pichai considering 'hybrid' work from home models](https://www.cnbc.com/2020/09/23/google-ceo-sundar-pichai-considering-hybrid-work-from-home-models.html)
 
-[CI/CD Patterns and Practices - CD Foundation](https://cd.foundation/blog/2020/09/17/ci-cd-patterns-and-practices/)
+[Climate scientists are terrified of a second Trump term | MIT Technology Review](https://www.technologyreview.com/2020/09/24/1008848/climate-scientists-terrified-of-trump-victory-democracy/)
 
-[learnbyexample - Search and replace tricks with ripgrep](https://learnbyexample.github.io/substitution-with-ripgrep/)
+[PostgreSQL 13 released [LWN.net]](https://lwn.net/Articles/832408/)
 
-[Disney's Mulan Crushes All Competition on Pirate Sites * TorrentFreak](https://torrentfreak.com/disneys-mulan-crushes-all-competition-on-pirate-sites-200917/)
+[Testing ahead of U.S. elections reveals struggle to quell disinformation | Reuters](https://www.reuters.com/article/us-usa-election-disinformation-idUSKCN26E1L7)
 
-[CISA Joins MITRE to Issue Vulnerability Identifiers](https://www.darkreading.com/vulnerabilities---threats/vulnerability-management/cisa-joins-mitre-to-issue-vulnerability-identifiers/d/d-id/1338930)
+[HOW DO PROVIDERS IMPLEMENT INTERNET BLOCKING IN BELARUS?Security Affairs](https://securityaffairs.co/wordpress/108655/hacking/belarus-internet-blocking.html)
 
-[GopherCon 2020 Agenda | Gopher Academy Blog](https://blog.gopheracademy.com/gophercon-2020-agenda/)
+[TiDB Operator: Your TiDB Operations Expert in Kubernetes | PingCAP](https://pingcap.com/blog/tidb-operator-your-tidb-operations-expert-in-kubernetes)
 
-[IBM MQ on Raspberry Pi - our tastiest developer edition yet! - IBM Developer](https://developer.ibm.com/components/ibm-mq/blogs/ibm-mq-on-raspberry-pi-our-tastiest-developer-edition-yet/)
+[Yes, you can run VMs on Kubernetes with KubeVirt | Opensource.com](https://opensource.com/article/20/9/vms-kubernetes-kubevirt)
 
-[Scientists Discover How Drugs Like Ketamine Induce An Altered State Of Mind : Shots - Health News : NPR](https://www.npr.org/sections/health-shots/2020/09/16/913565163/scientists-discover-way-to-induce-altered-state-of-mind-without-drugs)
+[Linux sysadmins: Understand ncat's power to avoid accidental security risks | Enable Sysadmin](https://www.redhat.com/sysadmin/ncat-security)
 
-[Oracle hosting TikTok US data. '25,000' moderators hired. Code reviews. Trump getting his cut... It's the season finale • The Register](https://www.theregister.com/2020/09/16/tiktok_oracle_trump/)
+[Trump eyes ‘concrete legal steps’ against social media sites for alleged bias against conservatives - The Washington Post](https://www.washingtonpost.com/technology/2020/09/23/trump-doj-censorship-section-230/)
 
-[Ransomware attack at German hospital leads to death of patient](https://www.bleepingcomputer.com/news/security/ransomware-attack-at-german-hospital-leads-to-death-of-patient/)
+[“LokiBot,” the malware that steals your most sensitive data, is on the rise | Ars Technica](https://arstechnica.com/information-technology/2020/09/lokibot-the-malware-that-steals-your-most-sensitive-data-is-on-the-rise/)
 
-[Achieving multi-tenancy in monitoring with Prometheus & the mighty Thanos Receiver](https://www.infracloud.io/blogs/multi-tenancy-monitoring-thanos-receiver/)
+[The Stack Overflow Antipattern, part 2 – Pet Pixels](https://marcus.bointon.com/the-stack-overflow-antipattern-part-2/)
 
-[JFrog IPO Raises $509 Million, Stock Jumps | Investor's Business Daily](https://www.investors.com/news/technology/jfrog-ipo-raises-509-million-pricing-above-range/)
+[Open-source Maintainers' Must Haves](https://blog.shhdharmen.me/open-source-maintainers-must-haves)
 
-[The road ahead for Linkerd2-proxy, and how you can get involved | Linkerd](https://linkerd.io/2020/09/02/the-road-ahead-for-linkerd2-proxy/)
+[Find security issues in Go code using gosec | Opensource.com](https://opensource.com/article/20/9/gosec)
 
-[Kubernetes Architecture and What It Means for Security | StackRox](https://www.stackrox.com/post/2020/09/kubernetes-architecture-and-what-it-means-for-security/)
+[The Subtle Art of Saying No](https://hbr.org/podcast/2020/09/the-subtle-art-of-saying-no)
 
-[Loclock](https://www.ionstage.org/loclock/#QW1lcmljYS9OZXdfWW9yayxFdXJvcGUvTG9uZG9uLEFzaWEvVG9reW8)
+[Nearly 70% of IT & Security Pros Hone Their Cyber ...](https://www.darkreading.com/operations/nearly-70--of-it-and-security-pros-hone-their-cyber-skills-outside-of-work/d/d-id/1338980)
 
-[How to explain Kubernetes in plain English | The Enterprisers Project](https://enterprisersproject.com/article/2017/10/how-explain-kubernetes-plain-english)
+[No, Moving Your SSH Port Isn't Security by Obscurity | Daniel Miessler](https://danielmiessler.com/blog/no-moving-your-ssh-port-isnt-security-by-obscurity/)
 
-[The future of enterprise is the future of DevOps, says 'The Phoenix Project' author - SiliconANGLE](https://siliconangle.com/2020/09/15/future-enterprise-future-devops-says-phoenix-project-author-datadriven2020/)
+[Why and how I emigrated to Canada | by Liz Fong-Jones | Sep, 2020 | Medium](https://medium.com/@lizthegrey/why-and-how-i-emigrated-to-canada-38107855773f)
 
-[Security pushes DevOps to breaking point | CIO Dive](https://www.ciodive.com/news/gartner-devops-security-risk-developers/585274/)
+[Announcing the FOSS Governance Collection - {anonymous => 'hash'};](https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection)
 
-[OSCAL](https://pages.nist.gov/OSCAL/)
+[The Stack Overflow Antipattern](https://riggraz.dev/stack-overflow-antipattern.html)
 
-[An introduction to Kubespray | Enable Sysadmin](https://www.redhat.com/sysadmin/kubespray-deploy-kubernetes)
+[NSA Releases Cybersecurity Guidance “Selecting and Safely Using Multifactor Authentication Services” > National Security Agency Central Security Service > Article View](https://www.nsa.gov/News-Features/News-Stories/Article-View/Article/2356020/nsa-releases-cybersecurity-guidance-selecting-and-safely-using-multifactor-auth/)
 
-[What does Nvidia buying ARM mean for Raspberry Pi? | Jeff Geerling](https://www.jeffgeerling.com/blog/2020/what-does-nvidia-buying-arm-mean-raspberry-pi)
+[Cybercriminals Distribute Backdoor With VPN Installer](https://www.trendmicro.com/en_us/research/20/i/cybercriminals-distribute-backdoor-with-vpn.html)
 
-[Ex-Google boss Eric Schmidt: US 'dropped the ball' on innovation - BBC News](https://www.bbc.com/news/business-54100001)
+[TriggerMesh Wants to Be the Plumber for Multicloud – The New Stack](https://thenewstack.io/triggermesh-wants-to-be-the-plumber-for-multicloud/)
 
-[deroproject/graviton: Graviton Database: ZFS for key-value stores.](https://github.com/deroproject/graviton)
+[PagerDuty to Acquire Rundeck to Expand DevOps Automation Capabilities Across Digital Operations - DevOps.com](https://devops.com/pagerduty-to-acquire-rundeck-to-expand-devops-automation-capabilities-across-digital-operations/)
 
-[NVIDIA Announces $40 Billion Deal To Acquire Arm - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=NVIDIA-Buying-Arm)
+[Pandemic accelerated cord cutting, making 2020 the worst-ever year for pay TV | TechCrunch](https://techcrunch.com/2020/09/21/pandemic-accelerated-cord-cutting-making-2020-the-worst-ever-year-for-pay-tv/)
 
-[Trek10 | AWSets: AWS Resource listing made easy](https://www.trek10.com/blog/awsets-aws-resource-listing-made-easy)
+[PagerDuty gets a dose of automation to help resolve issues more proactively - SiliconANGLE](https://siliconangle.com/2020/09/21/pagerduty-gets-dose-automation-help-resolve-issues-proactively/)
 
-[nkanaev/yarr: yet another rss reader](https://github.com/nkanaev/yarr)
-
-[Red Hat named a leader among multicloud container development platforms by Forrester](https://www.redhat.com/en/resources/forrester-wave-multicloud-container-platform-analyst-material)
-
-[Why Do Your Employees Resist New Tech?](https://hbr.org/2020/08/why-do-your-employees-resist-new-tech?utm_medium=email&utm_source=newsletter_monthly&utm_campaign=technology_activesubs&utm_content=signinnudge&deliveryName=DM96385)
-
-[Must Read Free Kubernetes Books ~ Bilgin Ibryam (@bibryam)](http://www.ofbizian.com/2020/09/must-read-free-kubernetes-books.html)
-
-[Manning | Operations Anti-Patterns, DevOps Solutions](https://www.manning.com/books/operations-anti-patterns-devops-solutions)
-
-["Microsoft Wants To Create A Complete Virtualization Stack With Linux" - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-Linux-Root-Partition)
+[How we use the Grafana GitHub plugin to track outstanding pull requests | Grafana Labs](https://grafana.com/blog/2020/09/21/how-we-use-the-grafana-github-plugin-to-track-outstanding-pull-requests/)
