@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-09-27T07:00:00Z
-description = ""
+description = "COVID-19 hits too close to home, Kubernetes Contributor site, Accurics, OpenShift TV, dangers of averages, and more"
 draft = false
 slug = "185"
-tags = ["Kubernetes Contributors", "Kubernetes"]
+tags = ["Kubernetes Contributors", "Kubernetes", "DevOps'ish", "DevOps", "DevSecOps", "open source", "AWS", "Microsoft", "Microsoft Windows", "cloud", "cloud native", "security", "community", "observability", "o11y", "build", "systems", "culture", "tools", "Crunchy Data", "postgresql", "Todoist", "Linkerd", "privacy", "Northvile", "Kubernetes SIGs", "averages", "practices", "Snyk", "network", "secure", "SNS", "kustomize", "RAID10", "Trello", "Mozilla", "Accurics", "StackRox", "Honeycomb", "Netflix", "Social Dilemma", "Blacklight", "COVID-19"]
 title = "DevOps'ish 185"
 
 +++
@@ -15,9 +15,7 @@ My daughter just informed me she very likely has contracted COVID-19. My apologi
 
 I was going to discuss this lengthy piece but, give it a read instead: [The Developer-Led Landscape](https://tylerjewell.substack.com/p/the-developer-led-landscape-20-08-28).
 
-
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/). They're cool people doing cool things with cloud native security. Check them out! [Scanning Kubernetes IaC configurations with Terrascan](https://community.accurics.com/t/scanning-kubernetes-iac-configurations-with-terrascan/51)
->>>>>>> Stashed changes
 
 ## People
 
@@ -38,7 +36,7 @@ My life at $job in a synopsis blog post.
 Talking about my day-to-day activities to pay the bills and give back somehow.
 
 [These Chrome extensions protect you against creepy web tracking](https://www.wired.co.uk/article/chrome-extensions-privacy-ad-tracking-blocker)  
-[Privacy Badger](https://privacybadger.org/) is a God send. There is also [Blacklight](https://themarkup.org/blacklight) if you want to inspect a site before visiting.
+[Privacy Badger](https://privacybadger.org/) is a Godsend. There is also [Blacklight](https://themarkup.org/blacklight) if you want to inspect a site before visiting.
 
 [Family of Northville man killed in hit and run increases reward to $15,000](https://www.fox2detroit.com/video/853147?fbclid=IwAR3Pf_81Cd0dKL_wqyNF-hDLiuTEyKcsdyikzZ3e6CKtLKtZGtnesVNSwrg)  
 A tragic story impacting a friend of one of my teammates (who happens to live here in Michigan). If you know something, please contact the Northville PD at 248-349-5100. Thank you.
@@ -61,7 +59,7 @@ Not a terrible list.
 The next few weeks should be interesting in terms of low level Windows things being discovered. Of course, now that it's leaked, can we actually use it in any other application ever? What if there are bits in here that aren't licensed properly and invoke lawsuits? What if it somehow exposes a monopolistic plot? Who knows what'll happen! 🍿🍿🍿🍿🍿
 
 [Snyk Acquires DeepCode to Apply AI to DevSecOps](https://devops.com/snyk-acquires-deepcode-to-apply-ai-to-devsecops/)  
-It's my understanding that Snyk is or at least was in a hardcore acquistion mode.
+It's my understanding that Snyk is or at least was in a hardcore acquisition mode.
 
 [Why Magic Leap Failed: AR Hype Exceeded Product's Capabilities](https://www.bloomberg.com/news/features/2020-09-23/why-magic-leap-failed-ar-hype-exceeded-product-s-capabilities)  
 Next time, call me before you spend over $10 million on something. I'll tell you if it's legit or not for $250K. Dead serious.
@@ -90,13 +88,13 @@ General purpose processors are going to start becoming userland in a hurry. With
 As a RAID 10 user, I *really* like the sound of that.
 
 [10 Best Open Source Static Site Generators [2020]](https://itsfoss.com/open-source-static-site-generators/)
-The annual reminder that static web sites are within your reach and that [you shouldn't use Medium(https://nomedium.dev/)] (which I'll remind you about often).
+The annual reminder that static web sites are within your reach and that [you shouldn't use Medium](https://nomedium.dev/) (which I'll remind you about often).
 
 [Todoist takes a shot at Trello with Kanban-style ‘boards’](https://thenextweb.com/plugged/2020/09/23/todoist-takes-a-shot-at-trello-with-kanban-style-boards/)  
 Todoist just murdered Trello with a throat slit in the dark of night, in my opinion. I went Pro on Todoist the second the board feature went into beta. It's life changing.
 
 Two bad things about Mozilla this week:  
-* [Firefox usage is down 85% despite Mozilla's top exec pay going up 400%](http://calpaterson.com/mozilla.html)
+* [Firefox usage is down 85% despite Mozilla's top exec pay going up 400%](http://calpaterson.com/mozilla.html)  
 * [Killed by Mozilla](https://killedbymozilla.com/)
 
 [couler-proj/couler](https://github.com/couler-proj/couler)  
