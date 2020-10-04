@@ -6,7 +6,7 @@ date = 2020-09-27T07:00:00Z
 description = "COVID-19 hits too close to home, Kubernetes Contributor site, Accurics, OpenShift TV, dangers of averages, and more"
 draft = false
 slug = "185"
-tags = ["Kubernetes Contributors", "Kubernetes", "DevOps'ish", "DevOps", "DevSecOps", "open source", "AWS", "Microsoft", "Microsoft Windows", "cloud", "cloud native", "security", "community", "observability", "o11y", "build", "systems", "culture", "tools", "Crunchy Data", "postgresql", "Todoist", "Linkerd", "privacy", "Northvile", "Kubernetes SIGs", "averages", "practices", "Snyk", "network", "secure", "SNS", "kustomize", "RAID10", "Trello", "Mozilla", "Accurics", "StackRox", "Honeycomb", "Netflix", "Social Dilemma", "Blacklight", "COVID-19"]
+tags = ["Kubernetes Contributors", "Kubernetes", "DevOps", "DevSecOps", "open source", "AWS", "Microsoft", "Microsoft Windows", "cloud", "cloud native", "security", "community", "observability", "o11y", "build", "systems", "culture", "tools", "Crunchy Data", "postgresql", "Todoist", "Linkerd", "privacy", "Northvile", "Kubernetes SIGs", "averages", "practices", "Snyk", "network", "secure", "SNS", "kustomize", "RAID10", "Trello", "Mozilla", "Accurics", "StackRox", "Honeycomb", "Netflix", "Social Dilemma", "Blacklight", "COVID-19"]
 title = "DevOps'ish 185"
 
 +++

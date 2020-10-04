@@ -6,7 +6,7 @@ date = 2020-08-30T07:00:00Z
 description = "Heptio people abandoning VMWare's ship, DevOps titles, Camille Fournier on management, plain text email is no longer a good development tool, GitOps, and more"
 draft = false
 slug = "181"
-tags = ["DevOps'ish", "DevOps", "Kubernetes", "cloud native", "Kubernetes native", "tools", "security", "open source", "Heptio", "VMware", "Operators", "Red Hat", "Accurics", "development", "developers", "risk", "GitOps", "NTP", "platform", "engineering", "Cloud Native Computing Foundation", "CNCF", "archaic", "certificates", "network", "OSPF", "licenses", "Creative Commons", "postgresql", "postgres", "Crunchy", "database", "SQLite", "CoreOS", "git", "TikTok", "Amazon", "Oracle", "Walmart", "Facebook", "Holocaust"]
+tags = ["DevOps", "Kubernetes", "cloud native", "Kubernetes native", "tools", "security", "open source", "Heptio", "VMware", "Operators", "Red Hat", "Accurics", "development", "developers", "risk", "GitOps", "NTP", "platform", "engineering", "Cloud Native Computing Foundation", "CNCF", "archaic", "certificates", "network", "OSPF", "licenses", "Creative Commons", "postgresql", "postgres", "Crunchy", "database", "SQLite", "CoreOS", "git", "TikTok", "Amazon", "Oracle", "Walmart", "Facebook", "Holocaust"]
 title = "DevOps'ish 181: Heptio people abandoning VMWare's ship, DevOps titles, Camille Fournier on management, plain text email is no longer a good development tool, GitOps, and more"
 
 +++
