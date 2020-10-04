@@ -127,6 +127,8 @@ I found out about this first thing Friday morning when I e-mailed Jess asking ab
 
  Also, if you work on GitHub Actions, please reach out to myself or John "gundalow" Barker. We have thoughts.
 
-{{< tweet 1088812740934799360 >}}
+> As of yesterday I am no longer an employee at GitHub. Everyone who works there and GitHub itself will always hold a special place in my heart. @natfriedman has a special place in my heart as well. I wish them nothing but the best.
+>
+> — Jessie Frazelle (@jessfraz) January 25, 2019
 
 Notes from this week's issue can be found [here](./notes/).
