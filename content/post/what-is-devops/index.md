@@ -77,8 +77,8 @@ In [The Dark Side of DevOps](https://chrisshort.net/the-dark-side-of-devops/) th
 
 ## Where To Learn More About DevOps
 
-* [DevOps'ish — A weekly newsletter covering open source, DevOps, and cloud native technologies and practices](https://devopsish.com/subscribe/)
-* [**DevOps README.md**](https://chrisshort.net/devops-readme.md/)
+* [DevOps'ish - A weekly newsletter covering open source, DevOps, and cloud native technologies and practices](https://devopsish.com/subscribe/)
+* [**DevOps README**](https://devopsreadme.xyz/)
 * [*DevOps For Dummies*](https://amzn.to/2TFOQFe)
 * [*The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*](https://amzn.to/2WxnsdZ)
 * [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2)
@@ -87,6 +87,6 @@ In [The Dark Side of DevOps](https://chrisshort.net/the-dark-side-of-devops/) th
 
 ### Credits
 
-A very special thanks to [Nathen Harvey](https://twitter.com/nathenharvey), [Kim McMahon](https://kimmcmahon.me), and [Emily Freeman](https://emilyfreeman.io/).
+A very special thanks to [Nathen Harvey](https://twitter.com/nathenharvey), [Kim McMahon](https://twitter.com/kamcmahon), and [Emily Freeman](https://emilyfreeman.io/).
 
 [DevOps Toolchain](https://commons.wikimedia.org/wiki/File:Devops-toolchain.svg) graphic is provided under the CC BY-SA 4.0 via Wikimedia Commons

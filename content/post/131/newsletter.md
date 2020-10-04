@@ -36,7 +36,7 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 [IBM layoffs affect more than 1,000 employees](https://www.cnbc.com/2019/06/06/ibm-layoffs-affect-more-than-1000-employees.html) — It was interesting to learn this week some folks at Red Hat received retention bonuses while others did not. This is a reminder of why the IBM acquisition of Red Hat makes people concerned.
 
-[Experience from Six Months of Remote Work](https://www.justingarrison.com/blog/six-months-remote/) — "While I've had lots of experience working in open source and tons of experience with communicating asynchronously doing full time work remotely is different. I wanted to share some things I've learned so far."
+[Experience from Six Months of Remote Work](https://www.justingarrison.com/blog/2019-05-29-six-months-remote/) — "While I've had lots of experience working in open source and tons of experience with communicating asynchronously doing full time work remotely is different. I wanted to share some things I've learned so far."
 
 [The guy who made a tool to track women in porn videos is sorry](https://www.technologyreview.com/s/613607/facial-recognition-porn-database-privacy-gdpr-data-collection-policy/) — What could possibly go wrong?!? ¯\\\_(ツ)\_/¯
 

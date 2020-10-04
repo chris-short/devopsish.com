@@ -76,7 +76,7 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 [A quickstart guide to Ansible](https://opensource.com/article/19/2/quickstart-guide-ansible) — A month ago, someone on my team (pretty sure my awesome boss) mentioned Ansible's birthday was coming up (February 23rd-ish). Jason Hibbets and I huddled up with the Opensource.com team and built a nice looking book for y'all. Happy 7th birthday, Ansible!
 
-[Ansible Operators](https://podctl.com/ansible-operators/) — Brian talks with Fabian von Feilitzsch (Sr. Software Engineer at RedHat) and Shawn Hurley (Sr. Software Engineer at Red Hat) about Ansible Operators, how they work with Ansible Playbook, on-platform and off-platform usage, and examples to help people learn the new Kubernetes technology.
+[Ansible Operators](https://podcasts.apple.com/in/podcast/ansible-operators/id1270983443?i=1000430756448) — Brian talks with Fabian von Feilitzsch (Sr. Software Engineer at RedHat) and Shawn Hurley (Sr. Software Engineer at Red Hat) about Ansible Operators, how they work with Ansible Playbook, on-platform and off-platform usage, and examples to help people learn the new Kubernetes technology.
 
 [Scaling PostgreSQL with Kubernetes Operators](https://opensource.com/article/19/2/scaling-postgresql-kubernetes-operators) — Operators let users create standardized interfaces for managing stateful applications, like PostgreSQL, across Kubernetes-enabled cloud environments.
 

@@ -6,7 +6,7 @@ date = 2020-08-16T07:00:00Z
 description = "DevOps'ish 179"
 draft = false
 slug = "179"
-tags = ["DevOps", "security", "cloud native", "Kubernetes", ".io TLD", "GitOps", "Docker", "namespace", "Linux", "UPS", "performance", "DevSecOps", "AWS", "scale", "CI/CD", "operations", "community", "development", "open source", "hierarchical namespace", "1Password", "Microsoft", "service mesh", "kustomize"]
+tags = ["DevOps", "security", "cloud native", "Kubernetes", "io TLD", "GitOps", "Docker", "namespace", "Linux", "UPS", "performance", "DevSecOps", "AWS", "scale", "CI/CD", "operations", "community", "development", "open source", "hierarchical namespace", "1Password", "Microsoft", "service mesh", "kustomize"]
 title = "DevOps'ish 179"
 
 +++

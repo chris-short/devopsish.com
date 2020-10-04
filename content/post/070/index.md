@@ -55,7 +55,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 ## People
 
-[Sometimes Good Things Come to an End](https://www.linkedin.com/pulse/sometimes-good-things-come-end-kim-mcmahon/): [Kim McMahon](https://kimmcmahon.me/) was one of the casualties of the {code} shut down. Her thoughts on turning off the lights on her way out are touching. [*Hire, Kim*](https://www.linkedin.com/in/kimmcmahonmarketingdirector/)
+[Sometimes Good Things Come to an End](https://www.linkedin.com/pulse/sometimes-good-things-come-end-kim-mcmahon/): [Kim McMahon](https://twitter.com/kamcmahon) was one of the casualties of the {code} shut down. Her thoughts on turning off the lights on her way out are touching. [*Hire, Kim*](https://www.linkedin.com/in/kimmcmahonmarketingdirector/)
 
 [Diversity fatigue is real: Atlassian's State of Diversity Report 2018](https://medium.com/smells-like-team-spirit/the-diversity-fatigue-is-real-atlassians-state-of-diversity-report-2018-2655d7eb5e2c): This year's results show that fatigue has set in and progress has stalled. People are tired of talking about diversity and inclusion, frustrated by talk not turning into impactful action, and overwhelmed by the number of issues. 😦😦😦
 

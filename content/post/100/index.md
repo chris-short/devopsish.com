@@ -112,8 +112,6 @@ Write your functions in popular languages and build components using containers.
 
 [Infrastructure as Code, Part Two: A Closer Look at Terraform](https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/): "Let's focus on Hashicorp's Terraform, a fantastic and versatile tool for orchestration written in Go and used by us at Crate.io for managing our infrastructure."
 
-[Vespene](https://vespene.io/): Re-imagined continuous integration, deployment, and self-service IT automation.
-
 [You can run kubectl from the host WITHOUT moving the kubeconfig from the vagrant guest machine](https://medium.com/@abdennour.toumi/you-can-run-kubectl-from-the-host-without-copying-the-kubeconfig-outside-the-vagrant-machine-a40a10fcd08f): This will come in handy.
 
 ## DevOps'ish Tweet of the Week

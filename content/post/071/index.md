@@ -95,7 +95,7 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 ## Tools
 
-[Open Container Initiative Announces Distribution Specification Project](https://www.opencontainers.org/announcement/2018/04/09/oci-announces-dist-spec-project): OCI creates distribution specification to standardize container image distribution
+[Open Container Initiative Announces Distribution Specification Project](https://coreos.com/blog/oci-distribution-spec-announced): OCI creates distribution specification to standardize container image distribution
 
 [Container Storage Interface (CSI) for Kubernetes Goes Beta](https://kubernetes.io/blog/2018/04/10/container-storage-interface-beta/)
 
