@@ -36,7 +36,11 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 ## People
 
-[PodCTL Co-host](https://chrisshort.net/podctl-co-host/) — This week, Brian Gracely reached out to me to cohost [PodCTL](http://podcast.podctl.com/), Red Hat's Kubernetes podcast. Knowing that Brian has the tooling and processes in place for podcast production, I didn't even hesitate to say, “Yes!” [We recorded an episode](http://podcast.podctl.com/110399/2024361-the-intersection-of-devops-and-kubernetes?utm_source=devopsish&utm_campaign=153) during the calm before the KubeCon storm. [A fancy mic for my iPhone](https://amzn.to/2NYe0t0) is now part of my kit and we're off to the races.
+[The Intersection of DevOps and Kubernetes](https://podcasts.apple.com/gb/podcast/the-intersection-of-devops-and-kubernetes/id1270983443?i=1000456263929)  
+"Brian talks with Chris Short ([@ChrisShort](https://twitter.com/ChrisShort), Technical Marketing Red Hat, CNCF Ambassador, writes at DevOps’ish) about DevOps 10th birthday, how Kubernetes helps DevOps."
+
+
+ [We recorded an episode](http://podcast.podctl.com/110399/2024361-the-intersection-of-devops-and-kubernetes?utm_source=devopsish&utm_campaign=153) during the calm before the KubeCon storm. [A fancy mic for my iPhone](https://amzn.to/2NYe0t0) is now part of my kit and we're off to the races.
 
 [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google) — A walkthrough of the Google SRE hiring process.
 

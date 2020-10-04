@@ -48,8 +48,6 @@ I'm going to add this new top five from the previous newsletter. Hit reply and t
 
 ## People
 
-[2018 and what's to come in 2019](https://kimmcmahon.me/2018-and-whats-to-come-in-2019/) — My dear friend, **Kim McMahon**, wrote a great recap of her 2018, which started with the {code} team shuttering and being unemployed to becoming Senior Director of Digital Strategy at Cloud Foundry Foundation (CFF). A great read because it crosses over so many facets of the tech industry.
-
 [Kolton Andrus, Gremlin Inc on On-Call Nightmares Podcast](https://www.podomatic.com/podcasts/oncallnightmares/episodes/2019-01-10T07_28_49-08_00) — Kolton is the CEO of chaos engineering firm Gremlin, Inc.
 
 [Jenn's Guide to Thriving in Tech](https://dev.to/geekgalgroks/jenns-guide-to-thriving-in-tech-4k91) — A well-rounded list of things to do to be successful in tech. One thing I need to work on is time boxing research.

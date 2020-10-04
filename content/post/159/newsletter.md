@@ -37,7 +37,7 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 [5 interview questions every Kubernetes job candidate should know](https://opensource.com/article/19/12/kubernetes-interview-questions) — "If you're interviewing people for Kubernetes-related roles, here's what to ask and why it matters."
 
-[DevOps for Dummies (PodCTL)](http://podcast.podctl.com/110399/2325842-devops-for-dummies) — I talk with Emily Freeman, author of DevOps for Dummies, about the biggest challenges faced in cloud adoption and DevOps culture changes.
+[DevOps for Dummies (PodCTL)](https://podcasts.apple.com/by/podcast/devops-for-dummies/id1270983443?i=1000460425906) — I talk with Emily Freeman, author of DevOps for Dummies, about the biggest challenges faced in cloud adoption and DevOps culture changes.
 
 [How to actually get good at basic DevOps if i'm not already hired (/r/devops)](https://www.reddit.com/r/devops/comments/e9nl05/how_to_actually_get_good_at_basic_devops_if_im/) — The general advice is to get some Raspberry Pis and start hacking on them. This is exactly how I learned Ansible in an evening. I've also taught myself a lot about Kubernetes and containers by using Kubernetes on Raspberry Pis. It's good to know I'm not alone in this thinking. If there's not enough budget for Raspberry Pis, you could always use KVM or Vagrant.
 

@@ -54,8 +54,8 @@ Meet your "always on" data requirements with trusted, open source components. Cr
 [Event: Kickstart innovation, built on Kubernetes](https://redhat.brighttalk.live/summit/4814-kickstart-innovation-built-on-kubernetes/?utm_source=7013a000002h1QGAAY&utm_medium=email&utm_campaign=devopsish_183)  
 We take OpenShift.tv on the road, to an extent, for the keynote to this two-day event. I'll be talking about Operators and GitOps with two of the experts on the topics, Jason Dobies (Operators) and Christian Hernandez (GitOps) in what is one of the most fun keynotes I've ever made. Stay tuned in for the other great content including another [OpenShift.tv](https://openshift.tv/?utm_source=devopsish&utm_medium=email&utm_campaign=183) styled interview I did with Clayton Coleman, top contributor to the open source Kubernetes project. This is a virtual event worth attending, y'all.
 
-[Scaleable Multiplayer Game Design with OpenShift](https://www.twitch.tv/videos/736160724)  
-Here's the [GitHub repo](https://github.com/RHGamingCoP) too.
+[Scaleable Multiplayer Game Design with OpenShift](https://youtu.be/mspNEkSWCR4)  
+Here's the [GitHub repo](https://github.com/redhat-gamedev) too.
 
 [Why RudderStack Used Postgres Over Apache Kafka for Streaming Engine](https://rudderstack.com/blog/why-rudderstack-used-postgres-over-apache-kafka-for-streaming-engine/)  
 "In this post, we answer the all-important question - 'Why we did not prefer Apache Kafka over PostgreSQL for building RudderStack'. We discuss some of the challenges with using Apache Kafka over our implemented solution that uses PostgreSQL."

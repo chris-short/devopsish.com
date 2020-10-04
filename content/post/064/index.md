@@ -35,18 +35,17 @@ March 9, 2018
 
 Tragedy has struck an open source community. I have several friends that will be out of a job on March 2nd (with very little notice). [Dell has decided to shutter the {code} team](https://blog.thecodeteam.com/2018/02/22/final-thank-code-team/). If you need some excellent talent with open source experience reach out to these folks:
 
-Amanda Katona: [Twitter](https://twitter.com/amanda_katona) [LinkedIn](http://www.linkedin.com/in/amandakatona)  
+Amanda Katona: [Twitter](https://twitter.com/amanda_katona) [LinkedIn](https://www.linkedin.com/in/amandakatona)  
 Andrew Kutz: [Twitter](https://twitter.com/ssakutz) [LinkedIn](https://www.linkedin.com/in/akutz)  
 April Bacarro: [Twitter](https://twitter.com/a_bacarro) [LinkedIn](https://www.linkedin.com/in/aprilbacarroeventmarketing)  
 Chris Duchesne: [Twitter](https://twitter.com/ChrisDuchesne) [LinkedIn](https://www.linkedin.com/in/cduchesne/)  
 Clint Kitson: [Twitter](https://twitter.com/clintkitson) [LinkedIn](https://www.linkedin.com/in/clintonkitson/)  
-David vonThenen: [Twitter](https://twitter.com/dvonthenen) [LinkedIn](http://www.linkedin.com/in/dvonthenen)  
+David vonThenen: [Twitter](https://twitter.com/dvonthenen) [LinkedIn](https://www.linkedin.com/in/dvonthenen)  
 Jonas Rosland: [Twitter](https://twitter.com/jonasrosland) [LinkedIn](https://www.linkedin.com/in/jonasrosland/)  
-Josh Bernstein: [Twitter](https://twitter.com/quityourjoshing) [LinkedIn](https://www.linkedin.com/in/jbernstein)  
 Kenny Coleman: [Twitter](https://twitter.com/kendrickcoleman) [LinkedIn](https://www.linkedin.com/in/kendrickcoleman/)  
-[Kim McMahon](https://kimmcmahon.me/): [Twitter](https://twitter.com/kamcmahon) [LinkedIn](https://www.linkedin.com/in/kimmcmahonmarketingdirector/)  
-Steve Wong: [Twitter](https://twitter.com/cantbewong) [LinkedIn](http://www.linkedin.com/in/stevewongcodeteam)  
-Travis Rhoden: [Twitter](https://twitter.com/codenrhoden) [LinkedIn](http://www.linkedin.com/in/trhoden)  
+[Kim McMahon](https://twitter.com/kamcmahon): [Twitter](https://twitter.com/kamcmahon) [LinkedIn](https://www.linkedin.com/in/kimmcmahonmarketingdirector/)  
+Steve Wong: [Twitter](https://twitter.com/cantbewong) [LinkedIn](https://www.linkedin.com/in/stevewongcodeteam)  
+Travis Rhoden: [Twitter](https://twitter.com/codenrhoden) [LinkedIn](https://www.linkedin.com/in/trhoden)  
 Vladimir Vivien: [Twitter](https://twitter.com/VladimirVivien) [LinkedIn](https://www.linkedin.com/in/vvivien)
 
 [Was Twitter Ever Ready for the Future?](https://medium.com/@kylierobison/was-twitter-ever-ready-for-the-future-47a2d63d9c80): Now imagine a platform where any abuser, narcissist, or predator can access their desired victim at any time, any where. With that same power, they're met with little obstacles to torment.

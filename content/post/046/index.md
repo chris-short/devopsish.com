@@ -19,7 +19,7 @@ aliases = [
 
 Is DevOps dying? I've had this thought for a few weeks now. Since [DevOpsDays Detroit](https://www.devopsdays.org/events/2017-detroit/welcome/) when Richard I. Cook, M.D. sat shaking his head at Gene Kim on stage in a panel discussion titled, "DevOps, Safety, And Lean". Like a concept twisted by bad marketing DevOps has become almost a cult. There are those that practice it religiously and others that cannot adhere to every tenet every moment of every day but do try to "DevOps". Site Reliability Engineering has gained significant ground. As have many other practices and ideas that if embraced would balance the future of information work. Those of us in DevOps often forget where we came from. Never doing a deploy while the sun is up, only on the lowest traffic period, and rarely completed within the allotted time slot. Damn near anything was better than those days. Let's not be too high and mighty about [DevOps](https://devopsish.com/). We all should focus on making things better for everyone.
 
-I'll be in Raleigh at All Things Open this week. If you're around definitely come say hello and get a DevOps'ish sticker. Also, come check out my [lightning talk on Tuesday](https://allthingsopen.org/lightning-talks-hosted-by-opensource-com/).
+I'll be in Raleigh at All Things Open this week. If you're around definitely come say hello and get a DevOps'ish sticker. Also, come check out my [lightning talk on Tuesday](https://youtu.be/Ibnj-YZTypU).
 
 [**Join Our Research Group — GoCD**](https://docs.google.com/forms/d/e/1FAIpQLSdsxfQbVbuVVRizNaDmD1_6nyyG5WNn4pKtfHElzO9kblnz5Q/viewform)  
 Take our short survey for the chance to join a great group of continuous delivery practitioners in our research group. You'll be eligible to get your name on our contributors list, and win great schwag, and gift cards. *SPONSORED*
@@ -28,8 +28,7 @@ Take our short survey for the chance to join a great group of continuous deliver
 October 23 and 24, Raleigh, NC USA  
 3,000+ technologists will descend upon the City of Oaks to attend 200+ sessions from nearly as many speakers. Representative from nearly every major technology company in the U.S. will be in attendance as well.
 To get 20% off enter code ***DevOpsish20*** when registering to attend.
-Website: [https://allthingsopen.org](https://allthingsopen.org)  
-To Register: [https://allthingsopen.org/register-now](https://allthingsopen.org/register-now)
+Website: [https://allthingsopen.org](https://allthingsopen.org)
 
 **All Day DevOps, Live Online**  
 October 24, 2017  
