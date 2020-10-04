@@ -121,6 +121,8 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1076532900806311936 >}}
+> Happy holidays to everyone who is on call, may your rotation be emergency free, your shells always be owned by you, your networks never partition, and the failures not cascade.
+>
+> — Jessie Frazelle (@jessfraz) December 22, 2018
 
 Notes from this week's issue can be found [here](./notes/).

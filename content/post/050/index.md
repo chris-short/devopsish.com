@@ -116,4 +116,8 @@ This post chronicles a mobile app development team's journey to continuous deliv
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 930426418361757696 >}}
+> Stop perpetuating the myth that the bar is being lowered. It's not at Google or Microsoft. Minorities at those companies are brilliant. https://t.co/ItvCfrAQJB
+> 
+> — Jessie Frazelle (@jessfraz) November 14, 2017
+
+{{< amazon >}}

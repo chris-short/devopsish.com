@@ -75,4 +75,9 @@ This [Microsoft Flight Simulator support case](https://blogs.msdn.microsoft.com/
 
 Putting the period on the end of the Docker/Moby change:
 
-{{< tweet 854656035981799424 >}}
+> How many times can you open source a project?
+> One.
+> But I'll just change the...
+> One.
+>
+> — Jessie Frazelle (@jessfraz) April 19, 2017

@@ -124,4 +124,8 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1045010991216353280 >}}
+> what are we if not an aggregate of the giants we build on top of
+> 
+> — Jessie Frazelle (@jessfraz) September 26, 2018
+
+{{< amazon >}}

@@ -120,4 +120,9 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 913202252025868288 >}}
+> [coding with Bob Ross]
+> "See those bugs... those... there... Now they are tiny little features... So many tiny little features."
+>
+> — Jessie Frazelle (@jessfraz) September 28, 2017
+
+{{< amazon >}}

@@ -98,4 +98,6 @@ Nyah Check, a Software Developer from Cameroon and friend of mine has been accep
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 942031487809085440 >}}
+> Hire the people who will automate themselves out of a job, then just keep giving them jobs.
+>
+> — Jessie Frazelle (@jessfraz) December 16, 2017
