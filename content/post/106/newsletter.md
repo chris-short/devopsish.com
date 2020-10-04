@@ -8,9 +8,9 @@ draft = false
 slug = "106"
 tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "Red Hat", "ansible", "security", "serverless", "container", "AWS", "licenses"]
 title = "106: KubeKhan, KubeCon, AWS Container Roadmap, etcd, More Weird Licenses, Securing Kubernetes, JFrog Go Registry, and More!"
-image = "/106/kubekhan.jpg"
+image = "/images/kubekhan.jpg"
 imagealt = "Various pictures taken by Chris Short during KubeCon + CloudNativeCon NA 2018"
-imagecap = ""
+imagecap = "Various pictures taken by Chris Short during KubeCon + CloudNativeCon NA 2018"
 
 +++
 
