@@ -2,7 +2,7 @@
 
 <article class="blog-post">
   <header>
-    {{ if .Params.image }}<p class="blog-post-meta"><a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" /></a>
+    {{ if .Params.image }}<p class="blog-post-meta"><a href="{{ .Permalink }}"><img loading="lazy" src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" /></a>
       {{ if .Params.imagecap }}<br />{{ .Params.imagecap | markdownify }}{{ end }}
     </p>{{ end }}
     <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>

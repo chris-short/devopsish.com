@@ -58,7 +58,7 @@
 
 <article class="blog-post">
   <header>
-    {{ if .Params.image }}<p><img src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" />
+    {{ if .Params.image }}<p><img loading="lazy" src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" />
       {{ if .Params.imagecap }}<br />{{ .Params.imagecap | markdownify }}{{ end }}
     </p>{{ end }}
     <h2 class="blog-post-title">{{ .Title | markdownify }}</h2>
