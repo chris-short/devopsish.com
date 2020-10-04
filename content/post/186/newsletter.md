@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-10-04T07:00:00Z
-description = ""
+description = "Help save face, help for juniors, Hacktoberfest objection, cgroups, breaking busy culture, and more"
 draft = false
 slug = "186"
-tags = []
+tags = ["Kubernetes", "culture", "DevOps", "dog", "open source", "build", "junior", "senior", "cloud", "observability", "cloud native", "security", "Google", "Red Hat", "cgroups", "computer", "sysadmins", "developer", "measure", "attacked", "Hacktoberfest", "serverless"]
 title = "DevOps'ish 186"
 
 +++
@@ -90,7 +90,7 @@ The fast, featureful, GPU based terminal emulator
 "Defining cgroups and how they help with resource management and performance tuning in this first article kicking off a four-part series covering cgroups and resource management."
 
 [The Cloudcast: Learning Streaming from the Experts](https://www.thecloudcast.net/2020/09/learning-streaming-from-experts.html)  
-"Chris Short ([@chrisshort](https://chrisshort.net), Technical Marketing Red Hat, CNCF Ambassador) talks about how to deliver compelling technical learning via streaming services, how to engage audiences and communities, and how to improve virtual events."
+"Chris Short ([@ChrisShort](https://twitter.com/ChrisShort), Technical Marketing Red Hat, CNCF Ambassador) talks about how to deliver compelling technical learning via streaming services, how to engage audiences and communities, and how to improve virtual events."
 
 [RabbitMQ Monitoring on Kubernetes](https://piotrminkowski.com/2020/09/29/rabbitmq-monitoring-on-kubernetes/)  
 "In this article, I will show you how to use Prometheus and Grafana to monitor the key metrics of RabbitMQ. Of course, we will build the applications that send and receive messages. We will use Kubernetes as a target platform for our system. In the last step, we are going to enable the tracing plugin. It helps us in collecting the list of incoming messages."
