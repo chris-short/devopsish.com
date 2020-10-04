@@ -82,6 +82,7 @@ In [The Dark Side of DevOps](https://chrisshort.net/the-dark-side-of-devops/) th
 * [*DevOps For Dummies*](https://amzn.to/2TFOQFe)
 * [*The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*](https://amzn.to/2WxnsdZ)
 * [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2)
+* [DevOps Newsletters](https://devopsnewsletters.com/): "Continuous learning is a critical part of DevOps. Staying current is imperative. These are DevOps newsletters of note from several well regarded DevOps leaders."
 
 *Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
 
