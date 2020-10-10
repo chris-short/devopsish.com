@@ -16,63 +16,25 @@ title = "DevOps'ish 187 Notes"
 
 [Comcast working toward 10Gbps to your home | ZDNet](https://www.zdnet.com/article/comcast-working-towards-10-gigabit-to-your-home/)
 
-[Managing cgroups with systemd | Enable Sysadmin](https://www.redhat.com/sysadmin/cgroups-part-four)
-
 [Acellus, a Major Online Learning Platform, Was Created By a Subterranean Religious ‘Cult’ Whose Leader Has Been Accused of Violence and Abuse | OneZero](https://onezero.medium.com/a-major-online-learning-platform-was-created-by-a-subterranean-religious-cult-whose-leader-has-cec99e7adcaf)
-
-[Twilio Set To Acquire Cloud Customer Data Startup Segment For $3.2 Billion](https://www.forbes.com/sites/alexkonrad/2020/10/09/twilio-to-acquire-cloud-startup-segment-for-3-billion/#51d4e38c2020)
-
-[Measuring the Memory Overhead of a Postgres Connection · Postgres From Below](https://blog.anarazel.de/2020/10/07/measuring-the-memory-overhead-of-a-postgres-connection/)
-
-[dheera/magicimport.py](https://github.com/dheera/magicimport.py)
 
 [Twitch.tv is About to Get Placed On a WIPO Anti-Piracy Blacklist * TorrentFreak](https://torrentfreak.com/twitch-tv-is-about-to-get-placed-on-a-wipo-anti-piracy-blacklist-201009/)
 
 [rust in curl with hyper | daniel.haxx.se](https://daniel.haxx.se/blog/2020/10/09/rust-in-curl-with-hyper/)
 
-[Continuous Availability and Active-Active Bucket Replication](https://blog.min.io/active-active-replication/)
-
-[How Alibaba Cloud uses Cilium for High-Performance Cloud-Native Networking — Cilium](https://cilium.io/blog/2020/10/09/cilium-in-alibaba-cloud/)
-
-[Memory Safe ‘curl’ for a More Secure Internet - Internet Security Research Group](https://www.abetterinternet.org/post/memory-safe-curl/)
-
 [Observability 101: Terminology and Concepts - Honeycomb](https://www.honeycomb.io/blog/observability-101-terminology-and-concepts/)
 
-[How eBPF Turns Linux into a Programmable Kernel – The New Stack](https://thenewstack.io/how-ebpf-turns-linux-into-a-programmable-kernel/)
-
-[bash errors](https://wizardzines.com/comics/bash-errors/)
-
-[Microsoft is letting more employees work from home permanently - The Verge](https://www.theverge.com/2020/10/9/21508964/microsoft-remote-work-from-home-covid-19-coronavirus)
-
 [How to Spoof Any User on Github…and What to Do to Prevent It | by Matt Calhoun | Oct, 2020 | Gruntwork](https://blog.gruntwork.io/how-to-spoof-any-user-on-github-and-what-to-do-to-prevent-it-e237e95b8deb)
-
-[KubeCon + CloudNativeCon North America 2020 Virtual: Building Better Communication for Kubern...](https://kccncna20.sched.com/event/ekHJ/building-better-communication-for-kubernetes-contributors-with-marketing-matthew-broberg-red-hat-kaslin-fields-google-rajula-vineet-reddy-cern)
 
 [Static analysis with KubeAudit for Red Hat OpenShift - Red Hat Developer](https://developers.redhat.com/blog/2020/10/09/static-analysis-with-kubeaudit-for-red-hat-openshift/)
 
 [Serverless Horror Stories – The New Stack](https://thenewstack.io/serverless-horror-stories/)
 
-[Fixing our broken internet [LWN.net]](https://lwn.net/Articles/833625/)
-
-[Unfck the internet](https://www.mozilla.org/en-US/firefox/unfck/)
-
-[Apple's T2 custom secure boot chip is not only insecure, it cannot be fixed without replacing the silicon • The Register](https://www.theregister.com/2020/10/08/apple_t2_security_chip/)
-
 [America’s internet wasn’t prepared for online school - The Verge](https://www.theverge.com/21504476/online-school-covid-pandemic-rural-low-income-internet-broadband)
-
-[IBM to spin off new company, will focus on $1 trillion cloud 'opportunity' | WRAL TechWire](https://www.wraltechwire.com/2020/10/08/ibm-to-spin-off-new-company-will-focus-on-1-trillion-cloud-opportunity/)
 
 [Bruce Momjian: Postgres Blog](https://momjian.us/main/blogs/pgblog/2020.html#October_7_2020)
 
-[6 must-read books for aspiring Cloud Architects | Enable Architect](https://www.redhat.com/architect/books-cloud-architects)
-
 [Streamlabs & Stream Hatchet Q3 Live Streaming Industry Report | by Ethan May | Oct, 2020 | Streamlabs Blog](https://blog.streamlabs.com/streamlabs-stream-hatchet-q3-live-streaming-industry-report-a49adba105ba)
-
-[Using a WordPress flaw to leverage zerologon vulnerability and attack companies’ Domain ControllersSecurity Affairs](https://securityaffairs.co/wordpress/109175/hacking/zerologon-dc-hack.html)
-
-[Accurics Enables Self-healing Infrastructure with GitHub App - Accurics](https://www.accurics.com/blog/devops/accurics-for-github/)
-
-[storax/kubedoom: Kill Kubernetes pods by playing Id's DOOM!](https://github.com/storax/kubedoom)
 
 [Important Helm Repo Changes & v2 End of Support in November | Cloud Native Computing Foundation](https://www.cncf.io/blog/2020/10/07/important-reminder-for-all-helm-users-stable-incubator-repos-are-deprecated-and-all-images-are-changing-location/)
 
@@ -90,8 +52,6 @@ title = "DevOps'ish 187 Notes"
 
 [How to Setup PostgreSQL Monitoring in Kubernetes](https://info.crunchydata.com/blog/setup-postgresql-monitoring-in-kubernetes)
 
-[nb · CLI plain-text note-taking, bookmarking, and archiving.](https://xwmx.github.io/nb/)
-
 [Unlocking eBPF power](https://devopsspiral.com/articles/linux/ebpf-unlock/)
 
 [Using Ansible to interact with web endpoints | Enable Sysadmin](https://www.redhat.com/sysadmin/ansible-web-endpoints)
@@ -106,8 +66,6 @@ title = "DevOps'ish 187 Notes"
 
 [OpenShift Developer Survey](https://redhatvoc.co1.qualtrics.com/jfe/form/SV_cTvjNzMTmsFHILH)
 
-[bash quotes](https://wizardzines.com/comics/bash-quotes/)
-
 [redhat-developer/service-binding-operator: The Service Binding Operator: Connecting Applications with Services](https://github.com/redhat-developer/service-binding-operator/)
 
 [Keep Secrets out of Your Codebase | Atomist Blog](https://blog.atomist.com/dont-let-em-leak-your-secrets/)
@@ -120,7 +78,7 @@ title = "DevOps'ish 187 Notes"
 
 [Announcing PipeCD | PipeCD](https://pipecd.dev/blog/2020/10/06/announcing-pipecd/)
 
-[(1) How can one stream safely? : Twitch](https://www.reddit.com/r/Twitch/comments/j5mkg8/how_can_one_stream_safely/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+[How can one stream safely? : Twitch](https://www.reddit.com/r/Twitch/comments/j5mkg8/how_can_one_stream_safely/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 [Equinix Metal: Metal and More! - Interconnections - The Equinix Blog](https://blog.equinix.com/blog/2020/10/06/equinix-metal-metal-and-more/)
 
@@ -144,20 +102,22 @@ title = "DevOps'ish 187 Notes"
 
 [AT&T internet: Provider starting to phase out DSL](https://www.usatoday.com/story/tech/columnist/2020/10/03/att-dsl-internet-digital-subscriber-line-outdated/5880219002/)
 
-[Stop the EARN IT Bill Before It Breaks Encryption | EFF Action Center](https://act.eff.org/action/stop-the-earn-it-bill-before-it-breaks-encryption-a7904e20-2083-4d5e-88ae-44ee5fef7a5d)
-
-[NVIDIA Unveils $59 USD Raspberry Pi Competitor With Jetson Nano 2GB - Phoronix](https://www.phoronix.com/scan.php?page=article&item=nvidia-jetson-2gb&num=1)
-
 [Resources for learning distributed systems | Lobsters](https://lobste.rs/s/vuevqu/resources_for_learning_distributed)
 
 [The end of the American internet — Benedict Evans](https://www.ben-evans.com/benedictevans/2020/10/3/the-end-of-the-american-internet)
-
-[TimeToogo/tunshell: Remote shell into ephemeral environments 🐚 🦀](https://github.com/TimeToogo/tunshell)
 
 [How One Guy Ruined #Hacktoberfest2020 #Drama](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
 
 [Debugging Kubernetes Applications on the Fly - Rookout](https://www.rookout.com/blog/debugging-kubernetes-applications-on-the-fly)
 
 [Cloud-Native CI/CD Pipeline for Kubernetes- Webinar - JFrog](https://jfrog.com/webinar/artifactory-kubernetes-pipeline/)
+
+[Changes to the Knative Project Governance | Knative](https://knative.dev/blog/2020/09/30/changes-to-the-knative-project-governance/)
+
+[screego/server: screen sharing for developers https://screego.net/](https://github.com/screego/server)
+
+[yq : A command line tool that will help you handle your YAML resources better - DEV Community 👩‍💻👨‍💻](https://dev.to/vikcodes/yq-a-command-line-tool-that-will-help-you-handle-your-yaml-resources-better-8j9)
+
+[DuckDuckGo, Mozilla launch privacy settings for the internet](https://www.fastcompany.com/90561555/global-privacy-control-duckduckgo-eff-mozilla)
 
 {{< amazon >}}
