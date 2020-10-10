@@ -11,7 +11,9 @@ title = "DevOps'ish 187"
 
 +++
 
-INTRO
+Normally, I don't like to highlight military uses of Kubernetes (people have feelings about that; I do too, for that matter). But, this week, something rather significant happened out in Utah: [U-2 Federal Lab achieves flight with Kubernetes](https://www.hill.af.mil/News/Article-Display/Article/2375297/u-2-federal-lab-achieves-flight-with-kubernetes/). "The U-2 Federal Laboratory successfully leveraged Kubernetes during a local training sortie on a U-2 Dragon Lady assigned to the 9th Reconnaissance Wing at Beale Air Force Base, Sept. 22. This represents the first time Kubernetes has flown on an operational major weapon system in the Department of Defense."
+
+Yes, OpenShift and Kubernetes are in use in ground systems across the US Department of Defense. But, I've not heard of Kubernetes running on actual airframes until this week. The fact the team on the U-2 did this is quite stunning. Remember, U-2s were critical intelligence gathering sources on overflight missions during the [Cuban Missile Crisis](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis) ***in 1962***. The U-2 program is a very old and sensitive program to the US government. As high and overarching as my clearances were, I never got close to the U-2 program. It's that sensitive. It's a critical replacement for getting better pictures of suspicious facilities and weapons concentrations in humanitarian and warfighting missions the globe over. The fact they're leaning forward with containers and cloud native thinking makes me ask, the same question I asked folks about [DevOps and the US nuclear weapons program](https://youtu.be/eKOGQKHOBNg?t=655). "If they can do it, why can't you?"
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/). They're cool people doing cool things with cloud native security. Check them out! [Scanning Kubernetes IaC configurations with Terrascan](https://community.accurics.com/t/scanning-kubernetes-iac-configurations-with-terrascan/51)
 
@@ -37,15 +39,12 @@ PROCESS
 [Download today: Kubernetes security ebook - tips, tricks, best practices](https://security.stackrox.com/kubernetes-security-ebook-tips-tricks-best-practices.html?Source=DevOpsish&LSource=DevOpsish)  
 The rapid adoption of Kubernetes to manage containerized workloads is driving great efficiencies in application development, deployment, and scalability. However, when security becomes an afterthought, you risk diminishing the greatest gain of containerization - agility. [Download this ebook](https://security.stackrox.com/kubernetes-security-ebook-tips-tricks-best-practices.html?Source=DevOpsish&LSource=DevOpsish) to learn how to (1) build secure images and prevent untrusted/vulnerable code, (2) configure RBAC, network policies, and runtime privileges, (3) detect unauthorized runtime activity, and (4) secure your Kubernetes infrastructure components such as the API server. *SPONSORED*
 
-[U-2 Federal Lab achieves flight with Kubernetes](https://www.hill.af.mil/News/Article-Display/Article/2375297/u-2-federal-lab-achieves-flight-with-kubernetes/)  
-"The U-2 Federal Laboratory successfully leveraged Kubernetes during a local training sortie on a U-2 Dragon Lady assigned to the 9th Reconnaissance Wing at Beale Air Force Base, Sept. 22. This represents the first time Kubernetes has flown on an operational major weapon system in the Department of Defense." Kubernetes on the U-2? This is wild because the U-2 program is a very old and sensitive program to the US government. The fact they're leaning forward with containers and cloud native thinking makes me ask, the same question I asked folks about DevOps and the US nuclear weapons program. "If they can do it, why can't you?"
-
 [exelban/stats](https://github.com/exelban/stats)  
 macOS system monitor in your menu bar (I've started using this on my main Mac laptop and it's rather handy).
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1313994061745975297 >}}
+[!["Japanese textbooks: cute, 'programming is fun!' vibe. American textbooks: eldritch horrors, chronicles of riddick cosplay."](https://devopsish.com/images/187-devopsish-tweet-of-the-week.png)](https://twitter.com/gl4cierblue/status/1313994061745975297)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/187/notes/) to see what didn't make it to the newsletter.
 
