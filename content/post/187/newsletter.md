@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-10-11T07:00:00Z
-description = ""
+description = "Kubernetes on spy planes, @K8sContributors, Unfck the internet, Demystifying GitOps, Cilium, and more"
 draft = false
 slug = "187"
-tags = []
+tags = ["Kubernetes", "cloud", "cloud native", "DevOps", "internet", "IBM", "Red Hat", "GttOps", "infrastructure", "data", "security", "Wordpress", "hybrid cloud", "Mozilla", "observability", "runtime", "storage", "kernel", "GitHub", "Google", "Accurics", "Cilium"]
 title = "DevOps'ish 187"
 
 +++
@@ -15,7 +15,7 @@ Normally, I don't like to highlight military uses of Kubernetes (people have fee
 
 Yes, OpenShift and Kubernetes are in use in ground systems across the US Department of Defense. But, I've not heard of Kubernetes running on actual airframes until this week. The fact the team on the U-2 did this is quite stunning. Remember, U-2s were critical intelligence gathering sources on overflight missions during the [Cuban Missile Crisis](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis) ***in 1962***.
 
-The U-2 program is a very old and sensitive program to the US government. As high and overarching as my clearances were, I never got close to the U-2 program (compartmentalization works). [The U-2](https://en.wikipedia.org/wiki/Lockheed_U-2) is a critical [C4ISR platform](https://www.northropgrumman.com/c4isr/) used in humanitarian and war fighting missions the globe over. The fact the U-2 program is leaning forward with containers and cloud native thinking makes me ask, the same question I asked folks about [DevOps and the US nuclear weapons program](https://youtu.be/eKOGQKHOBNg?t=655). "If they can do it, why can't you?"
+The U-2 program is a very old and sensitive program to the US government. As high and overarching as my clearances were, I never got close to the U-2 program (compartmentalization works). [The U-2](https://en.wikipedia.org/wiki/Lockheed_U-2) is a critical [C4ISR platform](https://www.northropgrumman.com/c4isr/) used in humanitarian and war fighting missions the globe over. The fact the U-2 program is leaning forward with containers and cloud native thinking makes me ask the same question I asked folks about [DevOps and the US nuclear weapons program](https://youtu.be/eKOGQKHOBNg?t=655). "If they can do it, why can't you?"
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/). They're cool people doing cool things with cloud native security. Check them out! [Scanning Kubernetes IaC configurations with Terrascan](https://community.accurics.com/t/scanning-kubernetes-iac-configurations-with-terrascan/51)
 
