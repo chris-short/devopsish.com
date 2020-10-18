@@ -14,6 +14,8 @@ title = "DevOps'ish 188 Notes"
 
 ## Notes
 
+{{< carbon_ads >}}
+
 [open-cluster-management/policy-collection: A collection of policy examples for Open Cluster Management](https://github.com/open-cluster-management/policy-collection)
 
 [chriswalz/bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
@@ -91,8 +93,6 @@ title = "DevOps'ish 188 Notes"
 [Top five Vim plugins for sysadmins | Enable Sysadmin](https://www.redhat.com/sysadmin/five-vim-plugins)
 
 [What I Learned from DevSecOps Leaders in a High Tech World](https://blog.sonatype.com/what-i-learned-from-devsecops-leaders-in-a-high-tech-world)
-
-{{< carbon >}}
 
 {{< sib-gdpr >}}
 
