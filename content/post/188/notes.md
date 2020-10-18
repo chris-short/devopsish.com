@@ -14,8 +14,6 @@ title = "DevOps'ish 188 Notes"
 
 ## Notes
 
-{{< carbon_ads >}}
-
 [open-cluster-management/policy-collection: A collection of policy examples for Open Cluster Management](https://github.com/open-cluster-management/policy-collection)
 
 [chriswalz/bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
