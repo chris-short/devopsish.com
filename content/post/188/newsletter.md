@@ -33,21 +33,97 @@ I hope that a drop in replacement is possible. The fact that we need tools like 
 
 Remember, comparing things relatively to like something (YAML vs. XML or YAML vs. JSON) completely throws out the beginner's journey. Start from the newb and go forward from there. YAML doesn't. Git doesn't. Incrementally, YAML is better than XML but, it sucks compared to something like HTML or Markdown (which I can teach to execs and children alike). Yes, balancing machine and human readability is hard. The compromises suck, but, at some point, there's enough compute to run a process to take in something 100% human-readable and make it 100% machine-readable. In the same sense that compute has become so readily available that we gzip and encrypt almost all HTTP traffic today, I hope we can do the same with systems configuration languages. Move the complexity from the human to code. Computers are better at remembering things and syntax-semantics than humans could ever hope to be.
 
+There's always a happy medium between human and machine readability. However, I'd much rather see a human first, [80/20](https://en.wikipedia.org/wiki/Pareto_efficiency) approach here where entry-level skills can solve 80% of the markup language's use cases. That's the true nirvana, in my opinion. There will always be complexity and a need to understand the tool you're using. But, YAML gives us an example that there can and should be better things.
+
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/). They're cool people doing cool things with cloud native security. Check them out! [Scanning Kubernetes IaC configurations with Terrascan](https://community.accurics.com/t/scanning-kubernetes-iac-configurations-with-terrascan/51)
 
 Want to see your ad in DevOps'ish? Review the [newsletter sponsor](https://devopsish.com/sponsor/) page for all the details. Give the [DevOps'ish Sponsorship Prospectus](https://devopsi.sh/prospectus) a gander if you need help convincing your marketing team they should spend . *SPONSORED*
 
 ## People
 
-PEOPLE
+[Announcing the 2020 Steering Committee Election Results](https://kubernetes.io/blog/2020/10/12/steering-committee-results-2020/)  
+Congratulations to Davanum Srinivas, Jordan Liggitt, Bob Killen. May you steer us well!
+
+[FCC changes its stance on Section 230 policy after months of Trump tweets](https://www.washingtonpost.com/technology/2020/10/16/fcc-facebook-twitter-section-230/)  
+Well this is just going to fuck things right on up.
+
+[Five Eyes governments, India, and Japan make new call for encryption backdoors](https://www.zdnet.com/article/five-eyes-governments-india-and-japan-make-new-call-for-encryption-backdoors/)  
+The assault on encryption will never stop. If you have nothing to hide then please drive around Manhattan with all your PII on display. This isn't about terrorists versus governments. This is about the right to free speech and against unreasonable searches and seizures.
+
+[Tech Should Enable Change, Not Drive It](https://hbr.org/2020/10/tech-should-enable-change-not-drive-it)  
+"Companies that place humans at the center - while leveraging technology at speed and enabling innovation at scale - accelerate the value they create in the long-term, while making strides to reframe and thrive in the future."
+
+[Open Invention Network open-source, non-aggression patents now covers Android and exFAT.](https://www.zdnet.com/article/open-invention-network-open-source-non-aggression-patents-now-covers-android-and-exfat/)  
+"Open source's main patent protection organization is expanding its reach far beyond just Linux."
+
+[Twitter’s ban almost doubled attention for Biden misinformation](https://www.technologyreview.com/2020/10/16/1010644/twitter-ban-hunter-biden-emails-backfires/)  
+"The social media company’s attempt to stop misinformation from spreading brought the Streisand Effect into action."
+
+[San Francisco Apartment Rents Crater Up to 31%, Most in U.S. During Covid](https://www.bloomberg.com/news/articles/2020-10-13/san-francisco-studio-apartment-rents-plunge-31-most-in-u-s)  
+Duh!
 
 ## Process
 
-PROCESS
+BleedingTooth Coverage:
+
+* [BleedingTooth: critical kernel Bluetooth vulnerability](https://lwn.net/Articles/834297/rss)
+* [Linux: Heap-Based Type Confusion in L2CAP (BleedingTooth)](https://github.com/google/security-research/security/advisories/GHSA-h637-c88j-47wq)
+* [BleedingTooth - Kernel Bluetooth vulnerabilities - CVE-2020-12351, CVE-2020-12352, and CVE-2020-24490](https://access.redhat.com/security/vulnerabilities/BleedingTooth)
+
+[CVE-2020-15157 "ContainerDrip" Write-up](https://darkbit.io/blog/cve-2020-15157-containerdrip)  
+"If an attacker publishes a public image with a crafted manifest that directs one of the image layers to be fetched from a web server they control and they trick a user or system into pulling the image, they can obtain the credentials used by ctr/containerd to access that registry."
+
+[Microsoft wins court order to take down TrickBot, a botnet that threatens election integrity](https://www.washingtonpost.com/technology/2020/10/12/microsoft-trickbot-ransomware/)  
+"The software giant won a court order to seize servers used by the Trickbot botnet, a network of infected computers that Microsoft says might have been used to lock up voter-registration systems."
+
+[Undocumented backdoor that covertly takes snapshots found in kids’ smartwatch](https://arstechnica.com/information-technology/2020/10/a-watch-designed-exclusively-for-kids-has-an-undocumented-spying-backdoor/)  
+"The X4, made and jointly developed in China, raises concerns."
+
+[Further analysis of PyPI typosquatting](https://lwn.net/SubscriberLink/834078/d7c69dad72e414af/)  
+"They identified two types of package typosquatting: misspelling and confusion. The first type relies on package names that are slightly misspelled, djanga instead of django or urlib3 instead of urllib3. The confusion attacks rely upon changing the order of the "words" in the name (e.g. nmap-python rather than python-nmap), removing or changing separators (e.g. easyinstall vs. easy_install), or otherwise changing the elements of the name (e.g. crypt/crypto, python-sqlite/pysqlite). Of the 40 attacks identified, 18 were of the misspelling variety, while 24 were confusing-two were both, which accounts for the overlap."
 
 ## Tools
 
-TOOLS
+[Who Needs a Dashboard? Why the Kubernetes Command Line Is Not Enough](https://thenewstack.io/who-needs-a-dashboard-why-the-kubernetes-command-line-is-not-enough/)  
+"Developers don’t use them, but enterprises won’t buy a product without them. What’s the deal with dashboards? And why do they matter for Kubernetes?"
+
+[Room-temperature superconductivity has been achieved for the first time](https://www.technologyreview.com/2020/10/14/1010370/room-temperature-superconductivity/)  
+"It was in a tiny sample under extremely high pressure, so don’t start dismantling the world’s energy infrastructure quite yet." But, it is a pretty giant leap forward.
+
+[shellcheck](https://wizardzines.com/comics/shellcheck/)
+
+[PostgreSQL Monitoring for Application Developers: The DBA Fundamentals](https://info.crunchydata.com/blog/postgresql-monitoring-for-application-developers-dba-stats)  
+"These statistics provide an overall look at PostgreSQL database activity and can help you spot problems with performance and availability, and can provide 'early warnings' before 'bad things' start to happen."
+
+[Rust after the honeymoon](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/)  
+Bryan Cantrill and the folks at Oxide still appreciate Rust. They've been using it for two years now. I'm not sure if they've made any money but, they like Rust.
+
+[Van Halen's rider and how it can help improve software development](https://blog.scottlogic.com/2020/10/15/van-halens-rider-and-software-development.html)  
+You should always have an quality indicator when working with third parties. If you can't make up one, something is wrong. Use this as a constant measuring stick whenever there's a handoff.
+
+[It's Time to Forget About Docker](https://martinheinz.dev/blog/35)  
+"In the ancient times of containers (really more like 4 years ago) Docker was the only player in the container game. That's not the case anymore though and Docker is not the only, but rather just another container engine on the landscape. Docker allows us to build, run, pull, push or inspect container images, but for each of these tasks there are other alternative tools, which might just do better job at it than Docker. So, let's explore the landscape and (just maybe) uninstall and forget about Docker altogether..."
+
+[Orchestrating CloudEvents (with Knative and Zeebe)](https://knative.dev/blog/2020/10/10/orchestrating-cloudevents-with-knative-and-zeebe/)  
+"Knative Eventing and Workflow Engine Integration for gaining visibility, decoration and orchestration scenarios."
+
+[exelban/stats](https://github.com/exelban/stats)  
+macOS system monitor in your menu bar (I usually don't recommend Mac apps unless I'm actively using them)
+
+[n3wscott/sockeye](https://github.com/n3wscott/sockeye/)  
+Websocket based CloudEvents viewer.
+
+[thanos-io/kube-thanos](https://github.com/thanos-io/kube-thanos)  
+Kubernetes specific configuration for deploying Thanos.
+
+[sassman/t-rec-rs](https://github.com/sassman/t-rec-rs)  
+Blazingly fast terminal recorder that generates animated gif images for the web written in rust
+
+[dandavison/delta](https://github.com/dandavison/delta)  
+A viewer for git and diff output
+
+[5 Fun Ways to Use Kubernetes](https://thechief.io/c/editorial/5-fun-ways-use-kubernetes/)  
+Next time you have some time to burn and some Kubernetes to learn.
 
 ## DevOps'ish Tweet of the Week
 
