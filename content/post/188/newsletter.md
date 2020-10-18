@@ -41,6 +41,10 @@ Want to see your ad in DevOps'ish? Review the [newsletter sponsor](https://devop
 
 ## People
 
+One lone hero in production is not sustainable-not for you, not for high-functioning teams, and not for customers who depend on your service. Collaborate well by instrumenting observability from the very beginning, and enable more resilient teams to build more reliable systems sustainably.
+
+In our guide, [Developing a Culture of Observability](https://info.honeycomb.io/developing-a-culture-of-observability-devopsish?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=developing-a-culture-of-observability-devopsish), we lay out why o11y culture and tools go hand-in-hand. Learn how to build a culture of observability with [Honeycomb](https://ui.honeycomb.io/signup/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup). *SPONSORED*
+
 [Announcing the 2020 Steering Committee Election Results](https://kubernetes.io/blog/2020/10/12/steering-committee-results-2020/)  
 Congratulations to Davanum Srinivas, Jordan Liggitt, Bob Killen. May you steer us well!
 
@@ -64,6 +68,9 @@ Duh!
 
 ## Process
 
+[Protecting K8s Against MITRE ATT&CK Techniques - Download Whitepaper](https://security.stackrox.com/protecting-against-K8s-threats-white-paper.html?Source=DevOpsIsh&LSource=DevOpsIsh)  
+The rapid adoption of Kubernetes for business-critical operations is driving new security challenges that must be addressed - namely an expansion of the attack surface that exposes you to new threats. The MITRE ATT&CK framework was recently adapted to Kubernetes to identify nine distinct attack vectors and techniques unique to Kubernetes that attackers employ. [Download this whitepaper](https://security.stackrox.com/protecting-against-K8s-threats-white-paper.html?Source=DevOpsIsh&LSource=DevOpsIsh) from StackRox to learn about these nine techniques and the individual tactics within each technique, and get actionable recommendations to protect your environment and reduce your attack surface. *SPONSORED*
+
 BleedingTooth Coverage:
 
 * [BleedingTooth: critical kernel Bluetooth vulnerability](https://lwn.net/Articles/834297/rss)
@@ -83,6 +90,9 @@ BleedingTooth Coverage:
 "They identified two types of package typosquatting: misspelling and confusion. The first type relies on package names that are slightly misspelled, djanga instead of django or urlib3 instead of urllib3. The confusion attacks rely upon changing the order of the "words" in the name (e.g. nmap-python rather than python-nmap), removing or changing separators (e.g. easyinstall vs. easy_install), or otherwise changing the elements of the name (e.g. crypt/crypto, python-sqlite/pysqlite). Of the 40 attacks identified, 18 were of the misspelling variety, while 24 were confusing-two were both, which accounts for the overlap."
 
 ## Tools
+
+[Oh Dear, uptime monitoring like no other](https://ohdear.app/)  
+With Oh Dear, you get uptime monitoring, SSL certificate alerts, performance monitoring and we'll crawl your entire site, reporting 404's, server errors and more. With our unlimited status pages and cron job monitoring, Oh Dear is all the monitoring you'll ever need. Sign up with code DEVOPSISH and get a 30% discount on your first 3 months. *SPONSORED*
 
 [Who Needs a Dashboard? Why the Kubernetes Command Line Is Not Enough](https://thenewstack.io/who-needs-a-dashboard-why-the-kubernetes-command-line-is-not-enough/)  
 "Developers don’t use them, but enterprises won’t buy a product without them. What’s the deal with dashboards? And why do they matter for Kubernetes?"
