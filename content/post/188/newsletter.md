@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-10-18T07:00:00Z
-description = ""
+description = "YAML, Kubernetes Steering Committee, BleedingTooth, ContainerDrip, TrickBot, Kubernetes, Van Halen's rider, Rust, and more"
 draft = false
 slug = "188"
-tags = []
+tags = ["YAML", "Kubernetes", "DevOps", "Rust", "monitoring", "Docker", "infrastructure", "code", "build", "open source", "systems", "security", "bleedingtooth", "cloud", "cloud native", "git", "configuration", "observability", "learn", "culture", "developers", "Microsoft", "Python", "container", "thanos", "deployment", "platform"]
 title = "DevOps'ish 188"
 
 +++
@@ -37,7 +37,7 @@ There's always a happy medium between human and machine readability. However, I'
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/). They're cool people doing cool things with cloud native security. Check them out! [Scanning Kubernetes IaC configurations with Terrascan](https://community.accurics.com/t/scanning-kubernetes-iac-configurations-with-terrascan/51)
 
-Want to see your ad in DevOps'ish? Review the [newsletter sponsor](https://devopsish.com/sponsor/) page for all the details. Give the [DevOps'ish Sponsorship Prospectus](https://devopsi.sh/prospectus) a gander if you need help convincing your marketing team they should spend . *SPONSORED*
+Want to see your ad in DevOps'ish? Review the [newsletter sponsor](https://devopsish.com/sponsor/) page for all the details. Give the [DevOps'ish Sponsorship Prospectus](https://devopsi.sh/prospectus) a gander if you need help convincing your marketing team they should spend. *SPONSORED*
 
 ## People
 
@@ -45,11 +45,11 @@ One lone hero in production is not sustainable-not for you, not for high-functio
 
 In our guide, [Developing a Culture of Observability](https://info.honeycomb.io/developing-a-culture-of-observability-devopsish?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=developing-a-culture-of-observability-devopsish), we lay out why o11y culture and tools go hand-in-hand. Learn how to build a culture of observability with [Honeycomb](https://ui.honeycomb.io/signup/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup). *SPONSORED*
 
-[Announcing the 2020 Steering Committee Election Results](https://kubernetes.io/blog/2020/10/12/steering-committee-results-2020/)  
+[Announcing the 2020 Kubernetes Steering Committee Election Results](https://kubernetes.io/blog/2020/10/12/steering-committee-results-2020/)  
 Congratulations to Davanum Srinivas, Jordan Liggitt, Bob Killen. May you steer us well!
 
 [FCC changes its stance on Section 230 policy after months of Trump tweets](https://www.washingtonpost.com/technology/2020/10/16/fcc-facebook-twitter-section-230/)  
-Well this is just going to fuck things right on up.
+Well, this is just going to fuck things right on up.
 
 [Five Eyes governments, India, and Japan make new call for encryption backdoors](https://www.zdnet.com/article/five-eyes-governments-india-and-japan-make-new-call-for-encryption-backdoors/)  
 The assault on encryption will never stop. If you have nothing to hide then please drive around Manhattan with all your PII on display. This isn't about terrorists versus governments. This is about the right to free speech and against unreasonable searches and seizures.
