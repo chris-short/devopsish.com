@@ -1,5 +1,5 @@
 baseURL = "https://devopsish.com/"
-copyright = "[Some rights reserved](/cc-by-sa-4.0/) | [Terms](/terms/) | [Privacy](/privacy/) | [Partners](/partners/) | [Advisory](https://advisedbyshort.com/) | [Sponsor](/sponsor/) | [Subscribe](/subscribe/)"
+copyright = "[Some rights reserved](https://devopsish.com/cc-by-sa-4.0/) | [Terms](https://devopsish.com/terms/) | [Privacy](https://devopsish.com/privacy/) | [Partners](https://devopsish.com/partners/) | [Advisory](https://advisedbyshort.com/) | [Sponsor](https://devopsish.com/sponsor/) | [Subscribe](https://devopsish.com/subscribe/)"
 enableEmoji = true
 enableRobotsTXT = true
 # googleAnalytics = "UA-4498776-13"
