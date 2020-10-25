@@ -11,8 +11,6 @@ title = "DevOps'ish 189"
 
 +++
 
-{{< sib_gdpr >}}
-
 I was incredibly busy this week. I spoke at the [October 2020 CNCF Eastern Canadian Meetup](https://www.youtube.com/watch?v=l_EEZV1P15U). I turned the introduction to last week's newsletter into its own blog post, [Fear and Loathing in YAML](https://chrisshort.net/fear-and-loathing-in-yaml/), and it made the front page of [the orange site](https://news.ycombinator.com/item?id=24848511) (you read it here first). And then, of course, all the [live streaming for Red Hat](https://www.openshift.com/blog/this-past-week-on-openshift.tv).
 
 Speaking of live streaming. When we look back at 2020, it seems like live streaming will be the thing the COVID-19 brought into our daily lives. Twitch is cleaning up its act and trying to be a little more grown up: [Twitch DMCA Purge Deletes Thousands Of Streamers' Videos](https://kotaku.com/twitch-deletes-thousands-of-streamers-videos-and-issues-1845429294). Then a major [US politician got up to 400K people viewing her stream](https://www.wired.com/story/aoc-among-us-twitch-stream/) simultaneously. It seems like, live streaming, in general, is turning into the new Twitter. It’s an exciting world, for sure. I need to sit down and write out some additional thoughts on live streaming, my setup, etc. But that’ll be for another day.
@@ -20,6 +18,8 @@ Speaking of live streaming. When we look back at 2020, it seems like live stream
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/). They're cool people doing cool things with cloud native security. Check them out! [Scanning Kubernetes IaC configurations with Terrascan](https://community.accurics.com/t/scanning-kubernetes-iac-configurations-with-terrascan/51)
 
 Want to see your organization in DevOps'ish? Review the [newsletter sponsor](https://devopsish.com/sponsor/) page for all the details. Give the [DevOps'ish Sponsorship Prospectus](https://devopsi.sh/prospectus) a gander if you need help convincing your marketing team they should spend. *SPONSORED*
+
+{{< sib_gdpr >}}
 
 ## People
 
