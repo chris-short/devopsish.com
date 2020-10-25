@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-10-25T07:00:00Z
-description = ""
+description = "Complacency, Zoomsterbating, time zones, website carbon footprints, Docker hub policy changes AGAIN, and more"
 draft = false
 slug = "189"
-tags = []
+tags = ["DevOps", "Kubernetes", "time", "streaming", "cloud", "cloud native", "network", "monitoring", "open source", "security", "attack", "observability", "culture", "release", "privacy", "Red Hat", "AWS", "Alice Goldfuss", "Ian Coldwater", "developers", "MITRE", "CNCF", "environment", "Docker", "Intel", "storage", "uptime", "community", "GitHub", "YouTube", "NTP", "NTS", "Firefox", "Git", "PVC", "pvc autoresizer", "secrets", "Jeffrey Toobin", "Zoom", "Detroit", "Zoomsterbating"]
 title = "DevOps'ish 189"
 
 +++
@@ -31,10 +31,10 @@ In our guide, [Developing a Culture of Observability](https://info.honeycomb.io/
 "I recently saw this tweet asking people about their career's most expensive mistake. The most common one was people staying too long at their jobs and not switching sooner." I can confirm this. The happy medium between keeping your job and losing money by not taking the next opportunity is pretty short in tech. If you're early in your career, always be looking for the next thing. Have a minimum pay raise in mind to cover the sunk costs of changing jobs and risk of it sucking for a year. This number will increase over time. The number should be a percentage of your current salary (10-15% pay raises to change jobs is normal). Once you have your feet under you, you'll have an excellent idea of what metrics matter to you.
 
 [Nude on Zoom: Jeffrey Toobin and other embarrassing video meetings](https://www.scmp.com/news/world/article/3106401/nude-zoom-jeffrey-toobin-and-other-embarrassing-video-meetings)  
-Henceforth, pants are mandatory. This kind of behavior is 100% unacceptable and if this ever were to happen on a call I was on, I would push for the employee's immediate termination. There's no reason for this. Check your privilege at the door, please.
+Henceforth, pants are mandatory. This kind of behavior is 100% unacceptable and if this ever were to happen on a call I was on, I would push for the employee's immediate termination. There's no reason for this. Check your privilege at the door, please. [Zoomsterbating.com](http://zoomsterbating.com) will point to the [Zoomsterbating tag](https://devopsish.com/tags/zoomsterbating/) here on DevOps'ish. A little shame could go a long way in changing behaviors.
 
 [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)  
-This is an absolutely wonderful article about earth's time management. There was an update to the tzdata files this week so I cracked it open and read all about how America/Detroit came to be. Time is fascinating and we very much treat like a construct we control.
+This is an absolutely wonderful article about earth's time management. There was an update to the tzdata files this week so I cracked it open and read all about how [America/Detroit came to be](https://gist.github.com/chris-short/168f900a369078fcb862c56ed99a6ee6). Time is fascinating and we very much treat like a construct we control.
 
 [Developer survey: C# losing ground to JavaScript, PHP and Java for cloud apps, still big in gaming](https://www.theregister.com/2020/10/21/developer_survey_c_losing_ground/)  
 "Plus: What puts off developers from adopting cloud? Price"
