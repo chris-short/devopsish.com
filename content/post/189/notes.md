@@ -14,18 +14,15 @@ title = "DevOps'ish 189 Notes"
 
 ## Notes
 
+{{< sib_gdpr >}}
+
 [Who was dumb enough to invest $1.75 billion in Quibi? | The Business of Business](https://media.thinknum.com/articles/Quibi-investors-katzenberg-whitman-slim-disney-google-goldman-sachs/)
 
-
-
-
 [How 30 Lines of Code Blew Up a 27-Ton Generator | WIRED](https://www.wired.com/story/how-30-lines-of-code-blew-up-27-ton-generator/)
-
 
 [v0.42 - Biggest update yet - All Resources now available!](https://infra.app/blog/v0-42-biggest-update-yet-all-resources-now-available)
 
 [ongoing by Tim Bray · Google Antitrust Notes](https://www.tbray.org/ongoing/When/202x/2020/10/20/Google-Antitrust)
-
 
 [Today's tech giants won't be as naive as I was in DoJ dealings, says former Microsoft chief Bill Gates • The Register](https://www.theregister.com/2020/10/22/todays_tech_giants_wont_be/)
 
@@ -78,7 +75,5 @@ title = "DevOps'ish 189 Notes"
 [AddyOsmani.com - Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/)
 
 [Waypoint. A couple of weeks ago, I saw a demo of… | by Cindy Sridharan | Oct, 2020 | Medium](https://copyconstruct.medium.com/waypoint-3f00b11da4a)
-
-{{< sib_gdpr >}}
 
 {{< amazon >}}
