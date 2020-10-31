@@ -18,8 +18,8 @@ DevOps'ish is a weekly newsletter covering DevOps, Cloud Native, Hybrid Cloud, O
 
 [![O'Reilly](oreilly.jpg)](https://www.oreilly.com/pub/cpc/295836)
 
+[![All Day DevOps](ADDO_Logo_2019_Black.svg)](https://www.alldaydevops.com/)
+
 Thank you for your continued support!
 
 {{< what-is-devops >}}
-
-## Subscribe Today
