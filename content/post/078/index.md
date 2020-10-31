@@ -116,4 +116,4 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish Tweet of the Week from @editingemily](/images/078-devopsish-tweet-of-the-week.png)](https://twitter.com/editingemily/status/1001855561963581446)
+[![DevOps'ish Tweet of the Week from @editingemily](/images/078-devopsish-tweet-of-the-week.jpg)](https://twitter.com/editingemily/status/1001855561963581446)
