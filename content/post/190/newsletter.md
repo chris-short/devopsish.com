@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
 date = 2020-11-01T07:00:00Z
-description = ""
+description = "Flux Community, Intel CPU code leak, Pulumi raises dough, AMD acquires Xilinx, youtube-dl backlash, read the RFC, kube-linter, and more"
 draft = false
 slug = "190"
-tags = []
+tags = ["cloud", "cloud native", "security", "systemd", "monitoring", "DevOps", "youtube-dl", "privacy", "developers", "Intel", "open source", "Kubernetes", "Prometheus", "Iac", "Lesley Carhart", "Kelsey Hightower", "AMD", "Xilinx", "Corey Quinn", "Kafka", "Strimzi", "IFTTT", "Maddie Stone", "kube-linter"]
 title = "DevOps'ish 190"
 
 +++
