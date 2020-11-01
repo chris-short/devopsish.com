@@ -16,43 +16,13 @@ title = "DevOps'ish 190 Notes"
 
 {{< sib_gdpr >}}
 
-
-
-[Announcing the Linkerd Community Anchor Program | Cloud Native Computing Foundation](https://www.cncf.io/blog/2020/10/26/announcing-the-linkerd-community-anchor-program/)
-
-[Verica - Downtime: Bad for Computers, Essential for Humans](https://www.verica.io/downtime-bad-for-computers-essential-for-humans/)
-
 [On pronouns and corrections — Ryn Daniels](https://www.ryn.works/blog/on-pronouns-and-corrections)
 
 [Fedora 33 is officially here! - Fedora Magazine](https://fedoramagazine.org/announcing-fedora-33/)
 
-[lirantal/awesome-nodejs-security: Awesome Node.js Security resources](https://github.com/lirantal/awesome-nodejs-security)
-
-[AMD Acquiring Xilinx In Bold, $35B Semiconductor Mega-Deal](https://www.forbes.com/sites/patrickmoorhead/2020/10/27/amd-acquiring-xilinx-in-bold-35b-semiconductor-mega-deal/?sh=7d436b6e492a)
-
-[Link Previews: How a Simple Feature Can Have Privacy and Security Risks | Mysk](https://www.mysk.blog/2020/10/25/link-previews/)
-
 [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/what-we-do/cybersecurity/quantum-key-distribution-qkd-and-quantum-cryptography-qc/)
 
-[RIAA's YouTube-DL Takedown Ticks Off Developers and GitHub's CEO * TorrentFreak](https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027/)
-
-[rebuy-de/aws-nuke: Nuke a whole AWS account and delete all its resources.](https://github.com/rebuy-de/aws-nuke)
-
-[cloud-custodian/cloud-custodian: Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources](https://github.com/cloud-custodian/cloud-custodian)
-
 [Study shows which messengers leak your data, drain your battery, and more | Ars Technica](https://arstechnica.com/information-technology/2020/10/study-shows-which-messengers-leak-your-data-drain-your-battery-and-more/)
-
-[Write Down Your Team’s Unwritten Rules](https://hbr.org/2020/10/write-down-your-teams-unwritten-rules)
-
-[Systemd 247-RC1 Released With Systemd-OOMD, Systemd-Homed Now Defaults To Btrfs - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=systemd-247-rc1)
-
-[The Future of Cloud Native Security Is Self-Healing – The New Stack](https://thenewstack.io/the-future-of-cloud-native-security-is-self-healing/)
-
-[Lesley Carhart: if the shirt fits, or even if it doesn't, wear it | SC Media](https://www.scmagazine.com/women-in-it-security/power-players/lesley-carhart-if-the-shirt-fits-or-even-if-it-doesnt-wear-it/)
-
-[Music industry forces widely used journalist tool offline](https://freedom.press/news/riaa-github-youtube-dl-journalist-tool/)
-
-[PromQL for Humans](https://timber.io/blog/promql-for-humans/)
 
 [GitHub should stand up to the RIAA over youtube-dl – Blog FiascoBlog Fiasco](https://funnelfiasco.com/blog/2020/10/25/youtube-dl-github-riaa/)
 
@@ -68,21 +38,11 @@ title = "DevOps'ish 190 Notes"
 
 [Apache Kafka on Kubernetes with Strimzi - Part 2: Creating Producer and Consumer apps using Go and Scala and deploying on Kubernetes - Sina Nourian](https://snourian.com/kafka-kubernetes-strimzi-part-2-creating-producer-consumer-using-go-scala-deploying-on-kubernetes/#more-70)
 
-[Apache Kafka on Kubernetes with Strimzi - Part 3: Monitoring our Strimzi Kafka Cluster with Prometheus and Grafana - Sina Nourian](https://snourian.com/kafka-kubernetes-strimzi-part-3-monitoring-strimzi-kafka-with-prometheus-grafana/#more-118)
-
-[The Unsinkable Maddie Stone, Google’s Bug-Hunting Badass | WIRED](https://www.wired.com/story/maddie-stone-project-zero-reverse-engineering/)
-
 [Breaking the Glass Ceiling: Tough for Women, ...](https://www.darkreading.com/careers-and-people/breaking-the-glass-ceiling-tough-for-women-tougher-for-women-of-color/d/d-id/1339311)
-
-['Deciphering' YouTube's Rolling Cypher in Your Browser is a Piece of Cake * TorrentFreak](https://torrentfreak.com/deciphering-youtubes-rolling-cypher-in-your-browser-is-a-piece-of-cake-201030/)
-
-[How to waste half a day by not reading RFC 1034 - Signal v. Noise](https://m.signalvnoise.com/how-to-waste-half-a-day-by-not-reading-rfc-1034/)
 
 [Can we stop megacorps from using and abusing our data? That ship has sailed, ex-NSA lawyer argues in new book • The Register](https://www.theregister.com/2020/10/29/cyber_privacy_april_falcon_doss_interview/)
 
 [Eight ways to protect SSH access on your system | Enable Sysadmin](https://www.redhat.com/sysadmin/eight-ways-secure-ssh)
-
-[Goodbye IFTTT | Ben Congdon](https://benjamincongdon.me/blog/2020/10/30/Goodbye-IFTTT/)
 
 [The Briefing: AMD Buying Xilinx For $35B, Rockset Raises $40M, Moxie Launches Fitness Studio, And More – Crunchbase News](https://news.crunchbase.com/news/briefing-10-27-20/)
 
@@ -97,8 +57,6 @@ title = "DevOps'ish 190 Notes"
 [NGINX Steps into the Service Mesh Fray Promising a Simpler Alternative – The New Stack](https://thenewstack.io/nginx-steps-into-the-service-mesh-fray-promising-a-simpler-alternative/)
 
 [Red Hat Enterprise Linux 8.3 Adds Updated Container Tools, New Security Profiles | TFiR: News, Interviews & Analysis shows hosted by Swapnil Bhartiya, covering the confluence of Cloud Native Computing, AI/ML & Security.](https://www.tfir.io/red-hat-enterprise-linux-8-3-adds-updated-container-tools-new-security-profiles/)
-
-[How Google Cloud's Kelsey Hightower became one of the most respected people in cloud computing - Protocol](https://www.protocol.com/kelsey-hightower-google-cloud)
 
 [It’s Time to Kick Patent Trolls Out of the International Trade Commission | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2020/10/its-time-kick-patent-trolls-out-international-trade-commission)
 
