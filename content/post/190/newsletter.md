@@ -93,7 +93,7 @@ This three part series is a wonderful one. I highly recommend giving it a once o
 Yup, with recent changes and new advances, IFTTT is falling out of favor with a lot of folks.
 
 [stackrox/kube-linter](https://github.com/stackrox/kube-linter)  
-"KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices." StackRox also wrote [a blog post about kube-linter](https://www.stackrox.com/post/2020/10/introducing-kubelinter-an-open-source-linter-for-kubernetes/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=190). My take, this is a pretty big step forward for an organization who a year ago did not have an open source offering at all. I hope to see more companies releasing tools that make their engineers more productive in the cloud native security landscape. I'll be continuing to kick the tires on this as the week progresses.
+"KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices." StackRox also wrote [a blog post about kube-linter](https://www.stackrox.com/post/2020/10/introducing-kubelinter-an-open-source-linter-for-kubernetes/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=190). My take, this is a pretty big step forward for an organization that a year ago did not have an open source offering at all. I hope to see more companies releasing tools that make their engineers more productive in the cloud native security landscape. I'll be continuing to kick the tires on this as the week progresses.
 
 [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security)  
 Awesome Node.js Security resources
