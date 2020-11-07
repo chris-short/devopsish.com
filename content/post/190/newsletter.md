@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-11-01T07:00:00Z
 description = "Flux Community, Intel CPU code leak, Pulumi raises dough, AMD acquires Xilinx, youtube-dl backlash, read the RFC, kube-linter, and more"
 draft = false

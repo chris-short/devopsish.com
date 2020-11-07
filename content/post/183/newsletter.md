@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-09-13T07:00:00Z
 description = "9-11, The Automated CIO, Postgres, Rust, Kubernetes, and more"
 draft = false

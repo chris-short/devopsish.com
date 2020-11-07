@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-03-15T07:00:00Z
 description = "Rays of light that give us hope, A Minute on the Mic, new AMD & Intel vulns, Oxide Computer, good Operators, NTP in a Kubernetes cluster, and more"
 draft = false
