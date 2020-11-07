@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-11-08T07:00:00Z
-description = ""
+description = "On Dan Kohn's Passing, NAT slipstreaming, Raspberry Pi 400, Python overtakes Java, container registries, Raspberry Pi 400, and more"
 draft = false
 slug = "191"
-tags = ["Dan Kohn", "CNCF", "Cloud Native Computing Foundation", "community"]
+tags = ["Dan Kohn", "CNCF", "Cloud Native Computing Foundation", "community", "Kubernetes", "Linux", "DevOps", "monitoring", "Docker", "open source", "service", "Travis CI", "security", "family", "GitHub", "Java", "Python", "Raspberry Pi 400", "technology", "kernel", "KubeCon", "CKS", "distributed", "microservices", "tracing", "NAT slipstreaming"]
 title = "DevOps'ish 191"
 
 +++
@@ -28,7 +28,7 @@ Other articles on Dan's passing:
 * [A Tribute to Dan Kohn - CD Foundation](https://cd.foundation/blog/2020/11/03/a-tribute-to-dan-kohn/)
 * [CNCF Statement on the Passing of Dan Kohn | Cloud Native Computing Foundation](https://www.cncf.io/blog/2020/11/02/cncf-statement-on-the-passing-of-dan-kohn/)
 * [Mourning Dan Kohn [LWN.net]](https://lwn.net/Articles/835839/rss)
-* [An Open Source Leader Is Gone, a Remembrance of Dan Kohn – The New Stack](https://thenewstack.io/an-open-source-leader-is-gone-a-remembrance-of-dan-kohn/)
+* [An Open Source Leader Is Gone, a Remembrance of Dan Kohn - The New Stack](https://thenewstack.io/an-open-source-leader-is-gone-a-remembrance-of-dan-kohn/)
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/). They're cool people doing cool things with cloud native security. Check them out! [Scanning Kubernetes IaC configurations with Terrascan](https://community.accurics.com/t/scanning-kubernetes-iac-configurations-with-terrascan/51)
 
