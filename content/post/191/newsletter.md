@@ -11,7 +11,7 @@ title = "DevOps'ish 191"
 
 +++
 
-*As written for [chrisshort.net](https://chrisshort.net/on-the-passing-of-dan-kohn/), a portion of which is also [here](https://github.com/cncf/memorials/blob/master/dan-kohn.md).*
+*As written for [my website](https://chrisshort.net/on-the-passing-of-dan-kohn/), a version of which is also [here](https://github.com/cncf/memorials/blob/master/dan-kohn.md).*
 
 I woke Sunday morning to some very sad news. We've had a tragic loss in the cloud native community. [Last weekend we lost Dan Kohn](https://twitter.com/DrOceanJulie/status/1322957062444326919). Dan Kohn is the former Executive Director of Cloud Native Computing Foundation and was leading up COVID-19 response for the Linux Foundation. He passed away after [losing his battle with stage four colon cancer](https://www.dankohn.com/health). Dan's passing happened far too soon. I knew Dan was battling something, but we hadn't been in the same place for quite some time. It's not one of those things you necessarily want to initiate a conversation about either. I did not know of Dan's blog about it until he was gone. I would encourage all of us to look at our physical ailments as we age (perhaps more rapidly because of 2020) to take care of ourselves.
 
@@ -121,6 +121,6 @@ ripgrep recursively searches directories for a regex pattern while respecting yo
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish Tweet of the Week from @Puerto_Wiccan](/images/191-devopsish-tweet-of-the-week.png)](https://twitter.com/Puerto_Wiccan/status/1324534699717513216)
+[![DevOps'ish Tweet of the Week from @JoeBiden](/images/191-devopsish-tweet-of-the-week.png)](https://twitter.com/JoeBiden/status/1325118992785223682)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/191/notes/) to see what didn't make it to the newsletter.
