@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-04-12T07:00:00Z
 description = "COBOL need grows, Alice Goldfuss wants a job, containers, observability, Tom Scott, Zoom doom, MySQL, PostgreSQL, Kubernetes, markmap-lib, and more"
 draft = false
