@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-11-15T07:00:00Z
-description = ""
+description = "Lockdown (again), Dan Kohn, KubeCon, interview lessons learned, At Work in Pain, remote work, Google Photos proves its monopolistic behavior, inclusive language, and more"
 draft = false
 slug = "192"
-tags = []
+tags = ["Google", "open source", "KubeCon", "cloud native", "home office", "DevOps", "At Work in Pain", "Dan Kohn", "Google Photos", "Apple", "Google Photos", "Red Hat", "Kubernetes", "YouTube", "youtube-dl", "Veterans", "community", "Ginny Rometty", "Microsoft", "inclusive language", "security", "lockdown", "AWS", "tech industry", "Julia Ferraioli", "POPcast", "Zoom", "IBM", "psychlogical safety", "distributed systems", "git", "Daniel Stenberg", "Xi Jinping", "Ant Group IPO", "microservices", "CNCF", "Cloud Native Computing Foundation", "multi factor authentication", "Big Sur"]
 title = "DevOps'ish 192"
 
 +++
@@ -27,7 +27,7 @@ And yes! Next week is [KubeCon + CloudNativeCon NA 2020](https://www.cncf.io/eve
 I always love pieces like this. I learned so much from bombing my AWS interview way back in 2012. This article is full of good interviewing skills.
 
 [At Work in Pain S01E01](https://www.youtube.com/watch?v=xnCKeeXqElQ&feature=youtu.be)  
-"The first episode of At Work in Pain, with [Chris Short](https://chrisshort.net) and [Julia Ferraioli](https://www.juliaferraioli.com/). During this video, Chris and I kick it off, cover how we cope with pain, and how it we communicate it -- or not -- at work." Julia came to me with this idea and I'm all for it. It's okay for me to hurt. I got injured, y'all. We don't want sympathy. We want understanding.
+"The first episode of At Work in Pain, with [Chris Short](https://chrisshort.net) and [Julia Ferraioli](https://www.juliaferraioli.com/). During this video, Chris and I kick it off, cover how we cope with pain, and how we communicate it -- or not -- at work." Julia came to me with this idea and I'm all for it. It's okay for me to hurt. I got injured, y'all. We don't want sympathy. We want understanding.
 
 [The POPCAST: Veterans Day Special with Chris Short and Marky Jackson](https://www.youtube.com/watch?v=EEjiYVYdwwk&feature=youtu.be)  
 "A very special Veterans day POPCAST.  in this episode we talk to two veterans who are in the cloud native and Kubernetes space.  Red Hat's Chris Short and CDF's Marky Jackson.  We discuss their service, their sacrifice, their love of the open source community and so much more.  Please stay til the end as both these fellows really are open about what serving their country means to them and coming back and enabling others in the community.  Chris and Marky are absolute class acts and it was an honor to capture their stories." Thank you, Dan Papandrea, for doing this. It ties into the [At Work in Pain](https://www.youtube.com/channel/UC8jhUEJ-K_QfDWbmpmwi4XA) series.
@@ -39,7 +39,7 @@ I worked on and off from home for years before working from home became the norm
 "'I actually don’t think these technology trends are going to reverse themselves,' Rometty told CNBC anchor Karen Tso." I think Ginny Rometty is absolutely right here. Even once say 50%-75% of the population is vaccinated, I still wouldn't be comfortable going into an office (at this point in time, knowing what little we know). Organizations need to treat this as a psychological safety issue. Remember, [psychological safety](https://rework.withgoogle.com/print/guides/5721312655835136/) is the foundation on which everything else in your organization depends upon.
 
 [Pre-Kubecon Warm Up Session - Diane Mueller, Chris Short, Jen Madriaga, and Josh Berkus (Red Hat)](https://youtu.be/PXSRXix7Fcs)  
-"CNCF's Kubecon week is coming up fast, it can be overwhelming to navigate all the virtual talks, chat rooms, BoFs, Office Hours, booths. [Here are] our tips and tricks to avoid virtual burn out, hear our top picks for talks, co-located sessions, best snack foods and stretches to ensure you maximize your Kubecon experience! From Day Zero to binge watching all the sessions you missed, to virtual after parties!"
+"CNCF's Kubecon week is coming up fast, it can be overwhelming to navigate all the virtual talks, chat rooms, BoFs, Office Hours, booths. [Here are] our tips and tricks to avoid virtual burn out, hear our top picks for talks, co-located sessions, best snack foods, and stretches to ensure you maximize your Kubecon experience! From Day Zero to binge watching all the sessions you missed, to virtual after parties!"
 
 ## Process
 
@@ -59,7 +59,7 @@ As I mentioned last week, [Jack Ma said some things](https://technode.com/2020/1
 I mean, yes, this sucks. But, aren't these older Android versions vulnerable as hell anyway?
 
 [Google Photos Just Made the Case for Breaking Up Big Tech](https://onezero.medium.com/google-photos-just-made-the-case-for-breaking-up-big-tech-420dc6b5d375)  
-I have a policy generally [against linking to Medium](https://nomedium.dev) posts. But, this one brings up a very good point. Google literally trounced any real competition here. "The losers are all the rival photo apps that Google Photos crushed on its way to the top, including startups such as Everpix, Loom, and Picturelife." I used Google Photos for a litle bit and dumped it because I actually got a good photo backup strategy in place. But, my wife has used Google Photos for years and is glad that I went ahead and made sure she's in a family account with me sharing 2 TB of storage in Apple's iCloud for photo backups. Like me, Julie can safely purge whatever she wants out of Google Photos and delete the app. Google is essentially now double-dipping users by 1. harvesting data and image analysis and 2. forcing folks to actually spend money now for a service that was free. Zoom is doing the same thing now that it has a lion's share of the market. It's small things that you had but now have to pay for. Those add up over time and eventually, you end up pissing off the customers, lose market share, and end up not making money.
+I have a policy generally [against linking to Medium](https://nomedium.dev) posts. But, this one brings up a very good point. Google literally trounced any real competition here. "The losers are all the rival photo apps that Google Photos crushed on its way to the top, including startups such as Everpix, Loom, and Picturelife." I used Google Photos for a little bit and dumped it because I actually got a good photo backup strategy in place. But, my wife has used Google Photos for years and is glad that I went ahead and made sure she's in a family account with me sharing 2 TB of storage in Apple's iCloud for photo backups. Like me, Julie can safely purge whatever she wants out of Google Photos and delete the app. Google is essentially now double-dipping users by 1. harvesting data and image analysis and 2. forcing folks to actually spend money now for a service that was free. Zoom is doing the same thing now that it has a lion's share of the market. It's small things that you had but now have to pay for. Those add up over time and eventually, you end up pissing off the customers, lose market share, and end up not making money.
 
 [Why AWS Announces Regions in Advance](https://www.lastweekinaws.com/blog/why-aws-announces-regions-in-advance/)  
 "Real estate deals leak like Equifax" 🤣🤣🤣🤣🤣
@@ -67,7 +67,7 @@ I have a policy generally [against linking to Medium](https://nomedium.dev) post
 [Microsoft urges users to stop using phone-based multi-factor authentication](https://www.zdnet.com/article/microsoft-urges-users-to-stop-using-phone-based-multi-factor-authentication/)  
 "Microsoft is urging users to abandon telephone-based multi-factor authentication (MFA) solutions like one-time codes sent via SMS and voice calls and instead replace them with newer MFA technologies, like app-based authenticators and security keys." Microsoft is pleading for better security practices. I'm all for that. Now teach my grandma, Clippy.
 
-[The RIAA, GitHub, and youtube-dl [LWN.net]](https://lwn.net/SubscriberLink/836830/b7289803a0c6820f/)  
+[The RIAA, GitHub, and youtube-dl](https://lwn.net/SubscriberLink/836830/b7289803a0c6820f/)  
 "If the goal of that notice was to somehow erase youtube-dl from the internet, the effort could not have been more misguided." We found our home network briefly banned from YouTube after I downloaded some content from YouTube to edit into another piece for work. The content is Creative Commons licensed, hell, Red Hat is the content owner, but we can't download it? Oh and we get penalized if we do? That's some incredibly anti-user behavior.
 
 [Google’s initiative for more inclusive language in open source projects](https://opensource.googleblog.com/2020/11/googles-initiative-for-more-inclusive.html)  
