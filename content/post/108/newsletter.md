@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2018"]
 date = 2018-12-30T07:00:00Z
 description = "Stats, Emily Freeman, IPOs, Kubernetes Future, Go, and More"
 draft = false

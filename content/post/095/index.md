@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2018"]
 date = 2018-09-30T07:00:00Z
 description = "Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforce, Microsoft Ignite, Rook, and More"
 draft = false
