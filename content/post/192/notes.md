@@ -14,8 +14,6 @@ title = "DevOps'ish 192 Notes"
 
 ## Notes
 
-[firstcontributions/first-contributions: 🚀✨ Help beginners to contribute to open source projects](https://github.com/firstcontributions/first-contributions)
-
 [Rust vs Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/rust-vs-go)
 
 [Jeffrey Paul: Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
@@ -30,21 +28,13 @@ title = "DevOps'ish 192 Notes"
 
 [A TON of VS Code tips for productivity - DEV Community 👩‍💻👨‍💻](https://dev.to/craigaholliday/a-ton-of-vs-code-tips-for-productivity-34j3)
 
-[Why AWS Announces Regions in Advance - Last Week in AWS](https://www.lastweekinaws.com/blog/why-aws-announces-regions-in-advance/)
-
 [China compromised F-35 subcontractor and forced expensive software system rewrite, academic tells MPs • The Register](https://www.theregister.com/2020/11/12/china_compromised_f35_software_claim/)
 
 [Students rebel over remote test monitoring during the pandemic - The Washington Post](https://www.washingtonpost.com/technology/2020/11/12/test-monitoring-student-revolt/)
 
-[Microsoft urges users to stop using phone-based multi-factor authentication | ZDNet](https://www.zdnet.com/article/microsoft-urges-users-to-stop-using-phone-based-multi-factor-authentication/)
-
 [Argo GitOps Engine Update. Argo GitOps Engine is a library that… | by Alexander Matyushentsev | Nov, 2020 | Argo Project](https://blog.argoproj.io/argo-gitops-engine-update-8a2d6911a25c)
 
-[An Uncertain Season Sidelines A High School Runner](https://www.wgbh.org/news/education/2020/11/11/covid-and-the-classroom-competition)
-
 [7 ways to use Raspberry Pi in enterprise IT | The Enterprisers Project](https://enterprisersproject.com/article/2020/11/raspberry-pi-7-enterprise-it-uses)
-
-[The RIAA, GitHub, and youtube-dl [LWN.net]](https://lwn.net/Articles/836830/)
 
 [What is eBPF? | How eBPF works](https://gravitational.com/blog/what-is-ebpf/)
 
@@ -52,15 +42,11 @@ title = "DevOps'ish 192 Notes"
 
 [Surviving disillusionment - spakhm's newsletter](https://www.spakhm.com/p/surviving-disillusionment)
 
-[powerfulseal/powerfulseal: A powerful testing tool for Kubernetes clusters.](https://github.com/powerfulseal/powerfulseal)
-
 [Correction: Virus Outbreak-Business Travel story](https://apnews.com/article/business-travel-future-unclear-virus-baa0bef7385bf4fa4674aeea021e041c)
 
 [Data breach at Mashable leaks users’ personal information online | The Daily Swig](https://portswigger.net/daily-swig/data-breach-at-mashable-leaks-users-nbsp-personal-information-online)
 
 [Kubeflow for Machine Learning: From Lab to Production: Trevor Grant and Holden Karau and Boris Lublinsky: Trade Paperback: 9781492050124: Powell's Books](https://www.powells.com/book/kubeflow-for-machine-learning-9781492050124)
-
-[Google’s initiative for more inclusive language in open source projects | Google Open Source Blog](https://opensource.googleblog.com/2020/11/googles-initiative-for-more-inclusive.html)
 
 [Part 6: Building inclusive companies](https://together.leaddev.com/programme/building-inclusive-companies)
 
@@ -88,11 +74,7 @@ title = "DevOps'ish 192 Notes"
 
 [BGP Lego Bricks](https://blog.cynthia.re/post/bgp-lego)
 
-[The unsigned op-eds that foreshadowed Ant Group fiasco · TechNode](https://technode.com/2020/11/09/china-voices-the-unsigned-op-eds-that-foreshadowed-ant-group-ipo-suspension/)
-
 [Hotel reservation platform leaked user data from top online booking sites](https://www.hackread.com/hotel-reservation-platform-data-leak-online-booking-sites/)
-
-[awklang.org – Τhe site for things related to the awk language](http://www.awklang.org/)
 
 [Debugging incidents in Google's distributed systems | Communications of the ACM](https://dl.acm.org/doi/10.1145/3397880)
 
