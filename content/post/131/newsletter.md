@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2019"]
 date = 2019-06-09T07:00:00Z
 description = "DevOps Tools, Kubernetes ≠ Rocket Science, IBM Layoffs, Open Source Licenses Aren't Broken, Small Kubernetes Clusters, and More"
 draft = false

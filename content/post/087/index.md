@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2018"]
 date = 2018-08-05T07:00:00Z
 description ="Psychological Safety, Kubernetes, Ansible, Serverless, AWS, OpenFaaS, and More!"
 draft = false
