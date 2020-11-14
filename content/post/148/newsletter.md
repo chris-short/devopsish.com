@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2019"]
 date = 2019-10-06T07:00:00Z
 description = "SysAdvent signup, Corey Quinn isn't irrelevant, testing in prod, Kubernetes Controllers, VMware Tanzu, and more"
 draft = false

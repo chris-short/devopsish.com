@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2018"]
 date = 2018-09-24T07:00:00Z
 description = "Linus Apologizes, Giveaway Winners, Kubernetes, Istio, Dark Debt, Mage, and More"
 draft = false
