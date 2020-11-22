@@ -89,4 +89,4 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 951780912848654336 >}}
+![DevOps'ish 058 Tweet of the Week](/images/058-devopsish-tweet-of-the-week.png)]
