@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-11-22T07:00:00Z
-description = "KubeCon, need to improve all virtual events,"
+description = "KubeCon, need to improve all virtual events, inclusive leaders, GitOps WG, DKIM, cloud native acquisitions, youtube-dl is back, big problems with Big Sur, and more"
 draft = false
 slug = "193"
-tags = []
+tags = ["virtual events", "complexity", "cloud", "security", "cloud native", "open source", "DevOps", "Apple", "community", "time", "platform", "IBM", "Kubernetes", "attend", "reason", "KubeCon", "IoT", "CNCF", "awk", "conference", "news", "GitHub", "Microsoft", "developers", "employers", "teach", "workloads", "leaders", "internet", "Twitter", "fleets", "friction", "postgresql", "Big Sur", "Fedora", "ARM", "Crunchy Data", "WSL", "attendees", "hallway track", "Red Hat", "culture", "cloud native ecosystem", "Intrado", "inclusive behavior", "GitOps", "Amazon", "container", "eBook", "hybrid cloud", "Operators", "Linux", "network", "IPO", "Xi Jinping", "Jack Ma", "Instana", "Google", "youtube-dl", "YouTube", "EFF", "OpenTelemetry", "observability", "YAML", "Mac", "GNU", "FrontPage", "Windows", "Zoom", "Slack", "Rambly", "Ian Coldwater", "Cloud Native Security White Paper"]
 title = "DevOps'ish 193"
 
 +++
