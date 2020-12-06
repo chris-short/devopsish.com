@@ -6,7 +6,7 @@ date = 2018-09-30T07:00:00Z
 description = "Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforce, Microsoft Ignite, Rook, and More"
 draft = false
 slug = "095"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "facebook", "microsoft", "China", "rook", "prometheus", "Chris Short", "conference", "serverless", "JEDI"]
+tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "facebook", "microsoft", "China", "rook", "prometheus", "Chris Short", "conference", "serverless", "JEDI", "Docker"]
 title = "095: Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforce, Microsoft Ignite, Rook, and More"
 
 +++
