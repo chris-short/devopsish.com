@@ -3,7 +3,7 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-12-06T07:00:00Z
-description = ""
+description = "Google's firing of Timnit Gebru, Slack acquired by Salesforce, Kubernetes dockershim Deprecation, "
 draft = false
 slug = "195"
 tags = []
@@ -11,11 +11,21 @@ title = "DevOps'ish 195"
 
 +++
 
-There are a few themes to this week's news worthy discussing here in the introduction of the newsletter
+There are a few themes to this week's news worth discussing here in the introduction of the newsletter to give folks a clearer picture on each topic. We'll tackle them in the same People, Process, and Tools format DevOps'ish uses (which are the three core components of DevOps, in order of importance). Surprisingly, I have to explain the tools portion of the news the most because it involves one of the most toxic companies in the world, **Docker**.
+
+I'd like to take this moment to remind folks about this site's [disclaimer](https://devopsish.com/terms#disclaimer).
 
 ## Google's firing of Timnit Gebru
 
-Google continues to display bad behavior towards people who highlight what it's doing wrong potentially to the detriment of the entire planet. Google fired Timnit Gebru for an email (which isn't unheard of), but it's the fact she found flaws in Google's operating model that could actually hurt people. 
+Google continues to display bad behavior towards people who highlight what it's doing wrong potentially to the detriment of the entire planet. Google fired Timnit Gebru for an email (which isn't unheard of), but it's the fact she found flaws in large language models, which are a big part Google's operating model, that could actually hurt people. The concern is around the staggering impact on the environment building these models takes a significant amount of compute costing somewhere between $942,973-$3,201,722 and dumping 626,155 pounds (284,019 kilograms) of carbon into the environment. There's also a [Standing with Dr. Timnit Gebru](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382) page, that I've signed and I'd encourage you to do so as well (if it safe for you to do so without risk of retaliation).
+
+The most comprehensive coverage of Timnit Gebru's firing is from MIT Technology Review's, [*We read the paper that forced Timnit Gebru out of Google. Here’s what it says.*](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)
+
+The actual email Timnit Gebru sent that got her fired is available via [Platformer News](https://www.platformer.news/p/the-withering-email-that-got-an-ethical).
+
+## Slack acquired by Salesforce
+
+All your SaaS are belong to Salesforce. At least that's their goal it looks like. The world was thinking this could be bigger than the IBM-Red Hat acquisition. It almost did, [clocking in $27.7 Billion](https://www.nytimes.com/2020/12/01/technology/salesforce-slack-deal.html). But, why did Slack want to be acquired? According to [The Verge](https://www.theverge.com/22150313/how-microsoft-crushed-slack-salesforce-acquisition), Slack grew to 12 million users while since 2016, Microsoft Teams grew to 115 million thanks to its inclusion, for free, in Office365. The acquisition will position Slack to better compete with Microsoft Teams but, this is a fine example of Microsoft's monopoly building skills of the 1990s in full effect.
 
 ## dockergate (again) 🤦‍♂️🤦‍♂️🤦‍♂️
 
@@ -40,27 +50,47 @@ Allow me to elaborate on the "Mirantis and Docker don't have their eye on Kubern
 
 Mirantis did so in [a blog post stating they'd continue support for dockershim](https://www.mirantis.com/blog/mirantis-to-take-over-support-of-kubernetes-dockershim-2/) and details on how to keep it as a runtime in Kubernetes would be coming. Who knows if Mirantis even looked at the code and all the reasons for its deprecation before they made this promise. But, they did it anyway because their business appears to be helping legacy workloads trod on. Regardless, [plans remain unchanged to remove support for dockershim from kubelet](https://twitter.com/dims/status/1335262856187695105). CRI is still moving towards production readiness in Kubernetes and docker-engine is still incompatible with CRI.
 
-**I've mentioned this before, but getting off Docker should be a strategic imperative in your organization.** To quote Kat Cosgrove, "Docker is no more than a user experience at this point." Alternative tools have come a long way since the advent of Docker. Consider those before continuing to march forward with legacy software. You'll be better for it. Remember, something can die in tech without a replacement. Its not always competition that ends a business or technology.
+**I've mentioned this before, but getting off Docker should be a strategic imperative in your organization.** To quote fellow CNCF Ambassador, [Kat Cosgrove](https://twitter.com/Dixie3Flatline/), who took on the nearly impossible task of explaining this change to folks, "Docker is no more than a user experience at this point." *Note: Do not harass Kat or you'll be biting off way more than you can chew.*
 
-## Slack acquired by Salesforce
+Alternative tools have come a long way since the advent of Docker. Consider those before continuing to march forward with what is all but legacy software. You'll be better for it. Remember, something can die in tech without a replacement. Its not always competition or time that ends a business or technology.
 
-All your SaaS are belong to Salesforce. At least that's their goal it looks like.
+Still curious what this all means in more technical terms, checkout fellow CNCF Ambassador, Gianluca Arbezzano's blog: [Kubenetes v1.20 the docker deprecation dilemma in practice](https://gianarb.it/blog/kubernetes-1-20-dockershim-in-practice).
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=195)
 
 ## People
 
-PEOPLE
+[How a Vibrating Smartwatch Could Be Used to Stop Nightmares](https://www.wired.com/story/how-a-vibrating-smartwatch-could-be-used-to-stop-nightmares/)  
+Those of us with PTSD that haunts us at night now have a reason for hope of a medication-free relief to the struggles we face thanks to [NightWare](https://night-ware.com/). I've already sent a message to my docs at the VA to see if I can get my hands on this. Let me know if you attempt to get a prescription for NightWare. I'd like to hear about who is on board with this and who isn't.
 
 Want to see your ad in DevOps'ish? Check out the [newsletter sponsor](https://devopsish.com/sponsor/) page for all the details. *SPONSORED*
 
+[KubeCon + CloudNativeCon North America 2020 - Virtual](https://www.youtube.com/playlist?list=PLj6h78yzYM2Pn8RxfLh2qrXBDftr6Qjut)  
+CNCF has shared all the videos from KubeCon + CloudNativeCon North America 2020 - Virtual.
+
 ## Process
+
+[GitOps: It’s the cloud-native way](https://sdtimes.com/softwaredev/gitops-its-the-cloud-native-way/)  
+I said this in 2018, "GitOps is also being declared as the 'next big thing for DevOps' because of their strong connection. According to Weaveworks’ [Cornelia] Davis, while DevOps doesn’t have a concrete set of practices, GitOps does provide a concrete way of doing DevOps."
+
+[Download today: container security ebook - going beyond image scanning](https://security.stackrox.com/container-security-going-beyond-image-scanning.html?Source=DevOpsish&LSource=DevOpsish)  
+Vulnerability scanning is often the first step to securing containers and Kubernetes, but it’s insufficient by itself. [Download this eBook](https://security.stackrox.com/container-security-going-beyond-image-scanning.html?Source=DevOpsish&LSource=DevOpsish), from StackRox, to learn about the security checks, controls, and best practices DevOps should consider to secure container images and CI build pipeline, Kubernetes deployments, running workloads, and the underlying Kubernetes infrastructure. *SPONSORED*
 
 PROCESS
 
 ## Tools
 
-TOOLS
+[Introducing another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/)  
+ZeroSSL is offering free certs via ACME. Here's a list of additional [ACME servers](https://docs.https.dev/list-of-acme-servers).
+
+🎺  Looking to up your hands-on skills at KubeCon? We are premiering our [OpenTelemetry Starter Kit at the Honeycomb booth](https://info.honeycomb.io/honeycomb-and-kubecon). Instrument a sample app or your own production data. There are prize-drawings for completed steps, but the real prize is launching with OTel and getting valuable insights right away.
+
+[Git stash doesn’t have to be scary](https://jemma.dev/blog/git-stash)  
+"Stashes are more easily understood as a basic last in, first out stack."
+
+[Weaveworks Brings GitOps to Amazon EKS Distro](https://www.weave.works/blog/on-prem-kubernetes-gitops-eks-distro)  
+"This is especially for those customers who need more than just a ‘day zero’ installer for one or two clusters."
+
 
 ## DevOps'ish Tweet of the Week
 

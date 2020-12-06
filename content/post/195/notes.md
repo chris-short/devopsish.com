@@ -14,32 +14,9 @@ title = "DevOps'ish 195 Notes"
 
 ## Notes
 
-[How a Vibrating Smartwatch Could Be Used to Stop Nightmares | WIRED](https://www.wired.com/story/how-a-vibrating-smartwatch-could-be-used-to-stop-nightmares/)
-
-
 [Sahil on Twitter: "🌍🌎🌏 Excited to announce we've deprecated all location-based pay! Gumroad will now pay you the same salary, no matter if you live in San Francisco, Bangalore, Lagos, or anywhere else." / Twitter](https://twitter.com/shl/status/1334201934702493697)
 
-[How a Vibrating Smartwatch Could Be Used to Stop Nightmares | WIRED](https://www.wired.com/story/how-a-vibrating-smartwatch-could-be-used-to-stop-nightmares/)
-
-[We read the paper that forced Timnit Gebru out of Google. Here’s what it says | MIT Technology Review](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)
-
-[Standing with Dr. Timnit Gebru — #ISupportTimnit #BelieveBlackWomen | by Google Walkout For Real Change | Dec, 2020 | Medium](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382)
-
-[Mirantis to take over support of Kubernetes dockershim | Mirantis](https://www.mirantis.com/blog/mirantis-to-take-over-support-of-kubernetes-dockershim-2/)
-
-[List of ACME Servers - HTTPS.dev](https://docs.https.dev/list-of-acme-servers)
-
-[Introducing another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/)
-
 [Announcing the Atheris Python Fuzzer | Google Open Source Blog](https://opensource.googleblog.com/2020/12/announcing-atheris-python-fuzzer.html)
-
-[Git stash doesn’t have to be scary | Jemma Issroff](https://jemma.dev/blog/git-stash)
-
-[How the Salesforce acquisition of Slack shows how Microsoft won out - The Verge](https://www.theverge.com/22150313/how-microsoft-crushed-slack-salesforce-acquisition)
-
-[Weaveworks Brings GitOps to Amazon EKS Distro](https://www.weave.works/blog/on-prem-kubernetes-gitops-eks-distro)
-
-[GitOps: It’s the cloud-native way - SD Times](https://sdtimes.com/softwaredev/gitops-its-the-cloud-native-way/)
 
 [Why Linkerd doesn't use Envoy | Linkerd](https://linkerd.io/2020/12/03/why-linkerd-doesnt-use-envoy/)
 
@@ -104,8 +81,6 @@ title = "DevOps'ish 195 Notes"
 [Observations on ARM64 & AWS’s Amazon EC2 M6g Instances - Honeycomb](https://www.honeycomb.io/blog/observations-on-arm64-awss-amazon-ec2-m6g-instances/)
 
 [AWS launches EC2 computing instances running Apple MacOS](https://www.cnbc.com/2020/12/01/aws-launches-ec2-computing-instances-running-apple-macos.html)
-
-[Salesforce to Acquire Slack for $27.7 Billion - The New York Times](https://www.nytimes.com/2020/12/01/technology/salesforce-slack-deal.html)
 
 [Kubernetes YAML: Enforcing best practices and security policies in CI/CD and GitOps pipelines](https://thechief.io/c/editorial/kubernetes-yaml-enforcing-best-practices-and-security-policies-cicd-and-gitops-pipelines/)
 
