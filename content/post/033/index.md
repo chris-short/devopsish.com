@@ -6,7 +6,7 @@ date = 2017-07-23T07:01:01.348Z
 description = ""
 draft = false
 slug = "033"
-tags = ["devops", "cloud native", "open source", "kubernetes", "golang", "hiring", "women in tech", "gophercon", "password management", "microservices", "CI/CD"]
+tags = ["devops", "cloud native", "open source", "kubernetes", "golang", "hiring", "women in tech", "gophercon", "password management", "microservices", "CI/CD", "Docker"]
 title = "033: More GopherCon, Women in Tech, DevOps, Kubernetes, etcdhcp, and More"
 image = "/033/burning-oil-well.jpg"
 imagealt = "Moving Sucks (and other obvious things)"
@@ -91,4 +91,4 @@ Sunday, I flew back to NC to help close and move out of our house. It has turned
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 888751291802898433 >}}
+[![DevOps'ish 033 Tweet of the Week](/images/033-devopsish-tweet-of-the-week.png)](https://twitter.com/krisnova/status/888751291802898433)

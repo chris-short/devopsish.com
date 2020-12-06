@@ -6,7 +6,7 @@ date = 2019-11-03T07:00:00Z
 description = "UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More"
 draft = false
 slug = "152"
-tags = ["DevOps", "Kubernetes", "cloud", "Unix", "open source", "container", "Contour", "Img", "Ansible Operators", "Cloud Native", "Quarkus", "Jaeger", "podman", "DKIM", "CNCF", "Fitbit", "systemd", "JEDI", "platform", "AWS", "culture"]
+tags = ["DevOps", "Kubernetes", "cloud", "Unix", "open source", "container", "Contour", "Img", "Ansible Operators", "Cloud Native", "Quarkus", "Jaeger", "podman", "DKIM", "CNCF", "Fitbit", "systemd", "JEDI", "platform", "AWS", "culture", "Docker"]
 title = "152: UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More"
 
 +++

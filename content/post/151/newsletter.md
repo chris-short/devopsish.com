@@ -6,7 +6,7 @@ date = 2019-10-26T07:00:00Z
 description = "DevOpsDays Detroit 2019, WeWork woes worsen, AWS should pay OSS devs, Women At Ernst & Young, Tim Cook, Equifax used ‘admin’ as username, & more"
 draft = false
 slug = "151"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "WeWork", "KubeCon", "security", "Knative", "developers", "Oracle", "Google", "JEDI", "Detroit", "DevOpsDays", "CNCF", "culture"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "WeWork", "KubeCon", "security", "Knative", "developers", "Oracle", "Google", "JEDI", "Detroit", "DevOpsDays", "CNCF", "culture", "Docker"]
 title = "151: DevOpsDays Detroit 2019, WeWork woes worsen, AWS should pay OSS devs, Women At Ernst & Young, Tim Cook, Equifax used ‘admin’ as username, & more"
 
 +++
