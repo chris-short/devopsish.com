@@ -6,7 +6,7 @@ date = 2019-04-14T07:00:00Z
 description = ""
 draft = false
 slug = "123"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "system", "Site Reliability Engineering", "SRE"]
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "system", "Site Reliability Engineering", "SRE", "Docker"]
 title = "123: Kubernetes, DevOps Pipelines, Trolls & Corporate Liability, How to Get Into SRE, Hannah Montana Linux, and More"
 
 +++

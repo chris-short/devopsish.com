@@ -6,7 +6,7 @@ date = 2020-03-01T07:00:00Z
 description = "Cloud Native Air Gapped Working Group, Chris Short for Open Source Initiative Board of Directors, future Kubernetes attacks, Jellyfish, Tig, and more"
 draft = false
 slug = "169"
-tags = ["DevOps", "open source", "Kubernetes", "cloud", "cloud native", "Open Source Initiative", "Kubernetes cluster", "CNCF", "container", "security", "OSI", "Kubernetes Contributor Summit", "platform", "management", "observability", "air gapped", "Operator", "ITSM", "Ansible", "encryption", "podman", "AWS", "sidecar"]
+tags = ["DevOps", "open source", "Kubernetes", "cloud", "cloud native", "Open Source Initiative", "Kubernetes cluster", "CNCF", "container", "security", "OSI", "Kubernetes Contributor Summit", "platform", "management", "observability", "air gapped", "Operator", "ITSM", "Ansible", "encryption", "podman", "AWS", "sidecar", "Docker"]
 title = "DevOps'ish 169"
 
 +++

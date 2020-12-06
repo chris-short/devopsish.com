@@ -6,7 +6,7 @@ date = 2018-10-28T07:00:00Z
 description = "AllThingsOpen, GitHub's Ups and Downs, Google's Grossness Grows, Serverless DevOps, Kubernetes, and More"
 draft = false
 slug = "099"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security", "serverless", "allthingsopen", "google", "code of conduct", "licenses", "Site Reliability Engineering", "SRE", "Linus Torvalds"]
+tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security", "serverless", "allthingsopen", "google", "code of conduct", "licenses", "Site Reliability Engineering", "SRE", "Linus Torvalds", "Docker"]
 title = "099: AllThingsOpen, GitHub's Ups and Downs, Google's Grossness Grows, Serverless DevOps, Kubernetes, and More"
 
 +++
