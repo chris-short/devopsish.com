@@ -6,7 +6,7 @@ date = 2020-12-06T07:00:00Z
 description = "Google's firing of Timnit Gebru, Slack acquired by Salesforce, Kubernetes dockershim Deprecation, embracing failure, NightWare, GitOps, more ACME CAs, and more"
 draft = false
 slug = "195"
-tags = ["Timnit Gebru", "Google", "large language models", "Slack", "Salesforce", "Kubernetes", "Docker", "dockershim", "deprecation", "Linkerd", "Richard Liebowitz"]
+tags = ["Timnit Gebru", "Google", "large language models", "Slack", "Salesforce", "Kubernetes", "Docker", "dockershim", "deprecation", "Linkerd", "Richard Liebowitz", "DevOps", "cloud", "cloud native", "container", "container runtime", "CNCF", "CRI", "deprecation", "GitOps", "Mirantis", "kubelet", "failure", "Pulumi", "large language models", "compliant", "Kat Cosgrove", "legacy", "OCI", "OCI compliant", "security", "malware", "git", "open source", "Red Hat", "Microsoft", "containerd", "Twitter", "toxic", "CNCF Ambassador", "KubeCon", "fired", "Salesforce", "OpenZFS", "KEP", "Ian Coldwater", "IBM"]
 title = "DevOps'ish 195"
 
 +++
