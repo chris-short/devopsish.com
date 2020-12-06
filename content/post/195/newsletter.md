@@ -3,7 +3,7 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-12-06T07:00:00Z
-description = "Google's firing of Timnit Gebru, Slack acquired by Salesforce, Kubernetes dockershim Deprecation, "
+description = "Google's firing of Timnit Gebru, Slack acquired by Salesforce, Kubernetes dockershim Deprecation, embracing failure, NightWare, GitOps, more ACME CAs, and more"
 draft = false
 slug = "195"
 tags = ["Timnit Gebru", "Google", "Slack", "Salesforce", "Kubernetes", "Docker", "dockershim", "deprecation", "Linkerd", "Richard Liebowitz"]
@@ -104,7 +104,6 @@ Celebrating failures are more and more important than ever. Large distributed sy
 
 [Why failure should be normalized and how to do it](https://opensource.com/article/20/11/normalize-failure)  
 "'Everybody is perfect, except you.' This toxic thought can creep in and ruin your confidence. Here's how to normalize failure during the learning process and remember that everyone makes mistakes."
-
 
 [Threat Alert: Fileless Malware Executing in Containers](https://blog.aquasec.com/fileless-malware-container-security)  
 "Our cyber research team detected a new type of attack that executes and runs malware straight from memory in containers, thus evading common defenses and static scanning. This malware is using a rootkit to hide its running processes, then hijacks resources by executing a crypto miner from memory — leaving a backdoor that enables attackers to do more damage. We found four container images in Docker Hub designed to execute fileless malware attacks."
