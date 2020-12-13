@@ -3,21 +3,21 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-12-13T07:00:00Z
-description = ""
+description = "The Raddest Release, CentOS Stream, schools using phone hacking tech, FireEye hacked, I feel bad for Austin, GitOps, Honeycomb survey, and more"
 draft = false
 slug = "196"
-tags = []
+tags = ["DevOps", "Kubernetes", "People", "CentOS Stream", "change", "release", "weather", "database", "enhancements", "privacy", "contributor", "open source", "software", "security", "query", "cloud native", "community", "Austin", "Oracle", "cloud computing", "enterprise", "FireEye", "Microsoft", "GitOps", "Linkerd", "Apple", "developers"]
 title = "DevOps'ish 196"
 
 +++
 
-Some people understand that the advancement of technology is marching at an ever quickening pace. We're talking exponential advancement every year. Five years ago, [Kubernetes](https://kubernetes.io/) was brand new. Now it's democratizing computing across clouds. Docker, the company behind some glue technology that made containers the new norm in software, has [died twice now](https://www.tariqislam.com/posts/kubernetes-docker-dep/). The size and shape of infrastructure has changed so much the past two years, it's hard to remember ten years ago when [Vagrant](https://www.vagrantup.com/) was brand new.
+Some people understand that the advancement of technology is marching at an ever quickening pace. We’re talking about exponential advancement every year. Five years ago, [Kubernetes](https://kubernetes.io/) was brand new. Now it's democratizing computing across clouds. Docker, the company behind some glue technology that made containers the new norm in software, has [died twice now](https://www.tariqislam.com/posts/kubernetes-docker-dep/). The size and shape of infrastructure has changed so much in the past two years, it's hard to remember ten years ago when [Vagrant](https://www.vagrantup.com/) was brand new.
 
 I've been thinking about my typical end of year blog post this week quite a bit. Trying to accurately predict what next year will bring is difficult. When an organization offers to support something for ten years, it seems increasingly daunting to fathom what the technology landscape will look like.
 
 When I found out (the same time you did) about [CentOS Stream](https://blog.centos.org/2020/12/future-is-centos-stream/), I appreciated it ([FAQ](https://centos.org/distro-faq/)). It feels like DevOps has touched the enterprise operating system I was using when I first started learning DevOps. But, then I realized, like most decent digital transformations, change is often met with some resistance. The best people in DevOps are the ones that can [help people see the future a little clearer](https://youtu.be/MDu6wL1DWY4). Some people lean into DevOps; some people resist it. This is human nature.
 
-There's nothing I'm going to say or do that's going to change anything. But, I hope you can seek out understanding like [Kristian Köhntopp](https://blog.koehntopp.info/2020/12/09/embracing-the-stream.html) did. It might not be the popular thing, but it helps when you realize the [sea change that has occurred underneath us all](https://www.cncf.io/).
+There's nothing I'm going to say or do that's going to change anything. But, I hope you can seek out understanding as [Kristian Köhntopp](https://blog.koehntopp.info/2020/12/09/embracing-the-stream.html) did. It might not be the popular thing, but it helps when you realize the [sea change that has occurred underneath us all](https://www.cncf.io/).
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=196)
 
@@ -38,11 +38,13 @@ Sorry, Austin.
 [National Weather Service faces internet bandwidth shortage, proposes access limits](https://www.washingtonpost.com/weather/2020/12/09/nws-data-limits-internet-bandwidth/)  
 "The Weather Service’s proposed remedy is to limit users to 60 connections per minute on a large number of its websites that provide weather observations, forecasts, warnings, computer model data, air quality information, aviation weather support and ocean conditions." The impacts could be pretty severe.
 
-
 ## Process
 
 [FireEye hack: foreign government attackers steal ‘Red Team’ tools from US cybersecurity firm](https://www.scmp.com/news/world/united-states-canada/article/3113137/fireeye-hack-foreign-government-attackers-steal-red)  
 "Attack carried out by ‘nation with top-tier offensive capabilities’. Hackers stole tools used to probe defences of FireEye customers."
+
+[**Download today: Kubernetes security ebook - tips, tricks, best practices**](https://security.stackrox.com/kubernetes-security-ebook-tips-tricks-best-practices.html?Source=DevOpsIsh&LSource=DevOpsIsh)  
+The rapid adoption of Kubernetes to manage containerized workloads is driving great efficiencies in application development, deployment, and scalability. However, when security becomes an afterthought, you risk diminishing the greatest gain of containerization - agility. [Download this ebook](https://security.stackrox.com/kubernetes-security-ebook-tips-tricks-best-practices.html?Source=DevOpsIsh&LSource=DevOpsIsh) to learn how to (1) build secure images and prevent untrusted/vulnerable code, (2) configure RBAC, network policies, and runtime privileges, (3) detect unauthorized runtime activity, and (4) secure your Kubernetes infrastructure components such as the API server. *SPONSORED*
 
 [Kubernetes security: preventing man in the middle with policy as code](https://www.accurics.com/blog/security/kubernetes-security-man-in-the-middle-cve-2020-8554/)  
 Use Terrascan to defend thyself.
@@ -67,7 +69,13 @@ Congrats to my friends at WeaveWorks!
 [Kubernetes 1.20: The Raddest Release](https://kubernetes.io/blog/2020/12/08/kubernetes-1-20-release-announcement/)  
 "We’re pleased to announce the release of Kubernetes 1.20, our third and final release of 2020! This release consists of 42 enhancements: 11 enhancements have graduated to stable, 15 enhancements are moving to beta, and 16 enhancements are entering alpha."
 
-### CentOS News
+We need your voice!
+
+In partnership with the team at ClearPath Strategies, [Honeycomb.io](https://www.honeycomb.io/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=honeycomb-homepage-devopish) is collecting insights for changes in software development and operation practices across our industry. How do you see the world and what your team is doing?
+
+[Take the survey](https://clearpathstrategies.sjc1.qualtrics.com/jfe/form/SV_cMAECZ6jv5wmjrL?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_keyword=&utm_content=software-production-excellence-survey-clearpath-devopsish&utm_adgroup=) for a chance to win $500 from Apple, HelloFresh, or Fender. *SPONSORED*
+
+**CentOS News**
 
 * [CentOS Stream: Building an innovative future for enterprise Linux](https://www.redhat.com/en/blog/centos-stream-building-innovative-future-enterprise-linux)
 * [Thoughts on CentOS Stream](https://jperrin.org/blog/thoughts-on-stream/)
