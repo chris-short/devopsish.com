@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-12-20T07:00:00Z
-description = ""
+description = "Solarwinds Orion compromise, State of Women in Tech Report 2020, 737 MAX Assumptions, Google postmortem, Discord, CKS, CKAD, WebAssembly, and more"
 draft = false
 slug = "197"
-tags = ["Solarwinds", "compromise", "hack", ]
+tags = ["Kubernetes", "cloud", "Solarwinds", "compromise", "hack", "DevOps", "Women in Tech", "Google", "ARM", "Linux", "WiFi", "Docker", "Git", "cloud native", "Red Hat", "Apple", "security", "runtime", "Boeing", "CKS", "container", "supply chain", "harassment", "GitHub", "OKRs", "FAA", "Discord", "open source", "air gapped", "cluster", "Cloud Native Computing Foundation", "CNCF", "CLI", "AltaVista", "search engine", "Solarwinds Orion", "OpenShift", "GitHub Actions", "OpenShift", "GitOps", "Windows", "SSH", "remote", "scientists", "observability", "Operator", ""]
 title = "DevOps'ish 197"
 
 +++
 
-This being a holiday break my intros will probably be a little bit shorter than normal. "More punchy" as my first boss at Red Hat would say. Let's start with the thing with an ever increasing blast radius: **Solarwinds**.
+This being a holiday break my intros will probably be a little bit shorter than normal. "More punchy" as my first boss at Red Hat would say. Let's start with the thing with an ever-increasing blast radius: **Solarwinds**.
 
 ## Solarwinds Supply Chain Compromise
 
@@ -19,7 +19,7 @@ For the record, Reuters has been all over this coverage wise. I can't do them ju
 
 This is a truly terrifying compromise at a company [I genuinely enjoyed working for in the past](https://chrisshort.net/resume/). No, I never touched the Orion product while I worked there. Perhaps I should have. But, over the years, I've been in contact with more places than I can count that use Solarwinds Orion. It really is everywhere that has a big enough footprint to justify it. Governments included. This might turn out to be bigger than the OPM hack when the dust settles. I decided to build an [Index](https://devopsish.com/categories/Indexes) page to provide continuing coverage of the [**Solarwinds supply chain compromise**](https://devopsish.com/solarwinds-supply-chain-compromise/). When in doubt, go to this page for vetted info.
 
-There's already a lot of coverage and it will continue to grow. Here's where you the reader can help round out the coverage. Feel free to add missing links yourself (and help me enjoy my down time a little more); [pull requests welcome](https://github.com/chris-short/devopsish.com/) or you can e-mail or [DM me on Twitter](https://twitter.com/ChrisShort).
+There's already a lot of coverage and it will continue to grow. Here's where you the reader can help round out the coverage. Feel free to add missing links yourself (and help me enjoy my downtime a little more); [pull requests welcome](https://github.com/chris-short/devopsish.com/) or you can e-mail or [DM me on Twitter](https://twitter.com/ChrisShort).
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=197)
 
@@ -32,16 +32,16 @@ This drove me a little batty at one employer. Now I at least no why. "Setting in
 Women Who Tech's annual report shows that half of women founders have been harassed in the past twelve months; 41% of that harassment was sexual harassment. "Nearly 50% of women founders were told they would raise more money if they were a man." Additionally, "Women in tech aren't reporting the harassment they experience to senior leadership at the same rate as they have previously." WOMEN DESERVE BETTER! Forward this to a scumbag you know. Tell them you expect better. The only way we stop this vile and insane behavior is by having people that look like the scumbags standing up against them. They're bullies and criminals, they should be treated and dealt with as such. I'm tired of this shit and I'm pulling cards in 2021, believe that.
 
 [Device and data access when personal safety is at risk](https://manuals.info.apple.com/MANUALS/1000/MA1976/en_US/device-and-data-access-when-personal-safety-is-at-risk.pdf)  
-Apple's 20 page guide to protecting yourself. "If you're concerned that someone is accessing information you did not share from your Apple device, this guide will also help you identify risks, and walk you through the steps to help make the technology you rely on as private and secure as you want it to be."
+Apple's 20-page guide to protecting yourself. "If you're concerned that someone is accessing information you did not share from your Apple device, this guide will also help you identify risks, and walk you through the steps to help make the technology you rely on as private and secure as you want it to be."
 
 [China-Based Executive at U.S. Telecommunications Company Charged with Disrupting Video Meetings Commemorating Tiananmen Square Massacre](https://www.justice.gov/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings)  
 This is super shady behavior. Xinjiang Jin no longer works at Zoom now.
 
 [Why Capable People Are Reluctant to Lead](https://hbr.org/2020/12/why-capable-people-are-reluctant-to-lead)  
-I don't want to lead folks right now for a variety of reasons. Mainly because the last time I managed people I was brought in help transform an org, which to leadership, meant to be an axe. I don't roll like that. It's on the list of things I need to tackle through therapy, to be honest. As a matter of fact, that job likely led to an acceleration of a decline in my mental health. Leadership is brutal in some orgs.
+I don't want to lead folks right now for a variety of reasons. Mainly because the last time I managed people I was brought in to help transform an org, which to leadership, meant to be an ax. I don't roll like that. It's on the list of things I need to tackle through therapy, to be honest. As a matter of fact, that job likely led to an acceleration of a decline in my mental health. Leadership is brutal in some orgs.
 
 [Retail Sales Fell More Than Expected as Spending Slowed](https://www.nytimes.com/2020/12/16/business/us-retail-sales-november.html)  
-I forsee a tougher economy ahead. A lot tougher as our change in behavior due to COVID-19 changes a number of spending habit changes across the world. The US administration could do something about it to help, but I do not think what is being kicked around in Congress is going to help anything long term.
+I foresee a tougher economy ahead. A lot tougher as our change in behavior due to COVID-19 changes a number of spending habit changes across the world. The US administration could do something about it to help, but I do not think what is being kicked around in Congress is going to help anything long term.
 
 ## Process
 
@@ -61,7 +61,7 @@ NET4 India sounds like an awful registrar. Now they're out of business with thei
 Discord is the new Slack.
 
 [[2012.06884] AIR-FI: Generating Covert Wi-Fi Signals from Air-Gapped Computers](https://arxiv.org/abs/2012.06884)  
-Oh this is good and terrifying. Researchers have figured out a way to turn the memory bus into a Wi-Fi transmitters. "Our evaluation shows that data can be exfiltrated from air-gapped computers to nearby Wi-Fi receivers located a distance of several meters away."
+Oh, this is good and terrifying. Researchers have figured out a way to turn the memory bus into a Wi-Fi transmitter. “Our evaluation shows that data can be exfiltrated from air-gapped computers to nearby Wi-Fi receivers located a distance of several meters away.”
 
 [CKS Certification Study Guide: Cluster Setup in Kubernetes](https://www.stackrox.com/post/2020/12/cks-certification-study-guide-cluster-setup-in-kubernetes/)  
 "As we dive into studying for the Certified Kubernetes Security Specialist (CKS) program, make sure to understand the test and its structure. A full blog details the Cloud Native Computing Foundation’s (CNCF) announcement about the CKS and its exam structure."
@@ -114,8 +114,6 @@ Uptime monitor and status page powered by GitHub
 K8Spin multi-tenant operator
 
 ## DevOps'ish Tweet of the Week
-
-{{< tweet 1339951522092900352 >}}
 
 [![DevOps'ish 197 Tweet of the Week](/images/197-devopsish-tweet-of-the-week.png)](https://twitter.com/bryanl/status/1339951522092900352)
 
