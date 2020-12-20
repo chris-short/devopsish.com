@@ -16,30 +16,6 @@ title = "DevOps'ish 197 Notes"
 
 [Quick tactic: how to make sure OPA doesn’t crash your cluster – Kubenuts](https://www.kubenuts.com/make-sure-opa-dont-crash-k8s-cluster/)
 
-[Use OKRs to Set Goals for Teams, Not Individuals](https://hbr.org/2020/12/use-okrs-to-set-goals-for-teams-not-individuals)
-
-[Trump contradicts Pompeo in bid to downplay massive hack of U.S. government, Russia?s role - The Washington Post](https://www.washingtonpost.com/national-security/russia-is-behind-the-broad-ongoing-cyber-spy-campaign-against-the-us-government-and-private-sector-pompeo-says/2020/12/19/8c850cf0-41b3-11eb-8bc0-ae155bee4aff_story.html)
-
-[State of Women in Tech Report 2020 | Women Who Tech](https://womenwhotech.com/data-and-resources/state-women-tech-and-startups)
-
-[Thread by @nixcraft on Thread Reader App – Thread Reader App](https://threadreaderapp.com/thread/1340258493056499712.html)
-
-[SolarWinds hackers broke into U.S. cable firm and Arizona county, web records show | Reuters](https://www.reuters.com/article/us-usa-cyber-idUSKBN28S2B9)
-
-[Microsoft president calls SolarWinds hack an “act of recklessness” | Ars Technica](https://arstechnica.com/information-technology/2020/12/only-an-elite-few-solarwinds-hack-victims-received-follow-on-attacks/)
-
-[Device-and-data-access-when-personal-safety-is-at-risk](https://manuals.info.apple.com/MANUALS/1000/MA1976/en_US/device-and-data-access-when-personal-safety-is-at-risk.pdf)
-
-[Hack Suggests New Scope, Sophistication for Cyberattacks - WSJ](https://www.wsj.com/articles/hack-suggests-new-scope-sophistication-for-cyberattacks-11608251360)
-
-[Exclusive: Microsoft breached in suspected Russian hack using SolarWinds - sources | Reuters](https://www.reuters.com/article/global-cyber-microsoft-exclusive-int-idUSKBN28R3BW)
-
-[Hackers last year conducted a 'dry run' of SolarWinds breach](https://news.yahoo.com/hackers-last-year-conducted-a-dry-run-of-solar-winds-breach-215232815.html)
-
-[An Alternate AltaVista Search Engine History Lesson For Internet Nerds](https://tedium.co/2020/12/15/altavista-history-digital-dot-com-domain-name)
-
-[How Shopify Uses WebAssembly Outside of the Browser — Development](https://shopify.engineering/shopify-webassembly)
-
 [Why Content is King - Divinations](https://divinations.substack.com/p/why-content-is-king)
 
 [Boeing 'inappropriately coached' pilots in 737 MAX testing: U.S. Senate report | Reuters](https://www.reuters.com/article/us-boeing-737-max-idUSKBN28S314)
@@ -104,31 +80,19 @@ title = "DevOps'ish 197 Notes"
 
 [Effective Linux & Bash for Data Scientists](https://dagshub.com/blog/effective-linux-bash-data-scientists/)
 
-[Microsoft partnered with security firms to sinkhole SolarWinds hack C2Security Affairs](https://securityaffairs.co/wordpress/112342/apt/microsoft-seized-c2-solarwinds-hack.html)
-
 [StockX raises $275M Series E, valuing the retailer at $2.8B | TechCrunch](https://techcrunch.com/2020/12/16/stockx-raises-275m-series-e-valuing-the-retailer-at-2-8b/)
 
 [“I started crying”: Inside Timnit Gebru’s last days at Google | MIT Technology Review](https://www.technologyreview.com/2020/12/16/1014634/google-ai-ethics-lead-timnit-gebru-tells-story/)
 
 [The US Federal Government Needs a VP of Engineering, not a CTO | LinkedIn](https://www.linkedin.com/pulse/us-federal-government-needs-vp-engineering-cto-danah-boyd/)
 
-[Hackers used SolarWinds' dominance against it in sprawling spy campaign | Reuters](https://www.reuters.com/article/global-cyber-solarwinds-idUSKBN28Q07P)
-
-[Investors in SolarWinds sold millions in stock before Russia breach revealed - The Washington Post](https://www.washingtonpost.com/technology/2020/12/15/solarwinds-russia-breach-stock-trades/)
-
 [This Stanford professor is confronting tech’s billionaire philosophers - Protocol](https://www.protocol.com/people/adrian-daub-stanford-interview)
 
 [Unveiling Aqua Vulnerability Database, Strengthen Your K8s Clusters](https://blog.aquasec.com/unveiling-aqua-vulnerability-database)
 
-[We're not saying this is how SolarWinds was backdoored, but its FTP password 'leaked on GitHub in plaintext' • The Register](https://www.theregister.com/2020/12/16/solarwinds_github_password/)
-
-[Concerns Run High as More Details of SolarWinds ...](https://www.darkreading.com/attacks-breaches/concerns-run-high-as-more-details-of-solarwinds-hack-emerge/d/d-id/1339726)
-
 [Retail Sales Fell More Than Expected as Spending Slowed - The New York Times](https://www.nytimes.com/2020/12/16/business/us-retail-sales-november.html)
 
 [The Level Up Hour (S1E19): Containers, Data Science and Replication - YouTube](https://www.youtube.com/watch?v=OX82D8O8jxI)
-
-[SolarWinds Hack Leaves Feds Scrambling to Determine Damage](https://gizmodo.com/feds-still-trying-to-determine-how-screwed-they-are-aft-1845888076)
 
 [2020’s most popular video games were my most reliable social spaces - The Verge](https://www.theverge.com/22163356/2020-pandemic-video-games-social-animal-crossing-fall-guys-twitch)
 
@@ -136,23 +100,15 @@ title = "DevOps'ish 197 Notes"
 
 [few-shot | Exploding Topics](https://explodingtopics.com/topic/few-shot)
 
-[Hackers used SolarWinds' dominance against it in sprawling spy campaign | Reuters](https://www.reuters.com/article/global-cyber-solarwinds-idUSKBN28P2N8)
-
 [Why Burnout Happens — and How Bosses Can Help](https://hbr.org/podcast/2020/12/why-burnout-happens-and-how-bosses-can-help)
-
-[Tracing the SolarWinds exploit upstream](https://blog.sonatype.com/tracing-the-solarwinds-exploit-upstream)
 
 [How to Convince Reluctant Developers to Embrace DevOps](https://itrevolution.com/convince-reluctant-developers/)
 
 [Azure Kubernetes Service Replaces Docker with containerd – The New Stack](https://thenewstack.io/azure-kubernetes-service-replaces-docker-with-containerd/)
 
-[US government software provider SolarWinds confirms it was hacked - SiliconANGLE](https://siliconangle.com/2020/12/14/us-government-software-provider-solarwinds-confirms-hacked/)
-
 [The story of the one line fix – The acme of foolishness](https://dave.cheney.net/2020/12/15/the-story-of-the-one-line-fix)
 
 [Coordinated disclosure of XML round-trip vulnerabilities in Go library](https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/)
-
-[SolarWinds: Hey, only as many as 18,000 customers installed backdoored software linked to US govt hacks • The Register](https://www.theregister.com/2020/12/15/solar_winds_update/)
 
 [How Russian hackers infiltrated the US government for months without being spotted | MIT Technology Review](https://www.technologyreview.com/2020/12/15/1014462/how-russian-hackers-infiltrated-the-us-government-for-months-without-being-spotted/)
 
@@ -160,13 +116,7 @@ title = "DevOps'ish 197 Notes"
 
 [8 automation trends to watch in 2021 | The Enterprisers Project](https://enterprisersproject.com/article/2020/12/8-automation-trends-watch-2021)
 
-[SolarWinds confirmes 18,000 customers may have been impactedSecurity Affairs](https://securityaffairs.co/wordpress/112294/hacking/solarwinds-sec-filing.html)
-
-[US Agencies hacked with a supply chain attack on SolarWinds SoftwareSecurity Affairs](https://securityaffairs.co/wordpress/112275/apt/solarwinds-supply-chain-attack.html)
-
 [U.S. Homeland Security, thousands of businesses scramble after suspected Russian hack | Reuters](https://www.reuters.com/article/us-global-cyber-idUSKBN28O26X)
-
-[Backdoored SolarWinds software, linked to US govt hacks, in wide use throughout the British public sector • The Register](https://www.theregister.com/2020/12/14/solarwinds_public_sector/)
 
 [Suspected Russian Hackers Spied on U.S. Treasury Emails - Sources | Top News | US News](https://www.usnews.com/news/top-news/articles/2020-12-13/exclusive-us-treasury-breached-by-hackers-backed-by-foreign-government-sources)
 
@@ -181,8 +131,6 @@ title = "DevOps'ish 197 Notes"
 [5 open source Kubernetes projects to watch in 2021 | The Enterprisers Project](https://enterprisersproject.com/article/2020/12/kubernetes-5-open-source-projects-to-watch-2021)
 
 [SE Michigan Cities Develop a New Highway In the Sky – Cronicle Press](https://cronicle.press/2020/12/11/se-michigan-cities-develop-a-new-highway-in-the-sky/)
-
-[IT company SolarWinds says it may have been hit in 'highly sophisticated' hack | Reuters](https://www.reuters.com/article/us-usa-solarwinds-cyber-idUSKBN28N0Y7)
 
 [Arm at 30: A Story of Patience, Focus and Vision - Arm Blueprint](https://www.arm.com/blogs/blueprint/arm-30-years)
 
