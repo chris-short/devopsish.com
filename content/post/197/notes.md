@@ -18,53 +18,15 @@ title = "DevOps'ish 197 Notes"
 
 [Why Content is King - Divinations](https://divinations.substack.com/p/why-content-is-king)
 
-[Boeing 'inappropriately coached' pilots in 737 MAX testing: U.S. Senate report | Reuters](https://www.reuters.com/article/us-boeing-737-max-idUSKBN28S314)
-
-[China-Based Executive at U.S. Telecommunications Company Charged with Disrupting Video Meetings Commemorating Tiananmen Square Massacre | OPA | Department of Justice](https://www.justice.gov/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings)
-
-[martinvonz/jj: Jujube (an experimental VCS)](https://github.com/martinvonz/jj)
-
-[Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
-
-[Go on ARM and Beyond - The Go Blog](https://blog.golang.org/ports)
-
-[external-secrets/kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets)
-
-[timescale/tobs: tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.](https://github.com/timescale/tobs)
-
 [Release v1.0.0 · crossplane/crossplane](https://github.com/crossplane/crossplane/releases/tag/v1.0.0)
-
-[Nixi permits Net4India domain name customers to shift to other registrars | Business Standard News](https://www.business-standard.com/article/current-affairs/nixi-permits-net4india-domain-name-customers-to-shift-to-other-registrars-120092901612_1.html)
-
-[Google Cloud Status Dashboard](https://status.cloud.google.com/incident/zall/20013)
-
-[https://twitter.com/bryanl/status/1339951522092900352?s=12](https://twitter.com/bryanl/status/1339951522092900352?s=12)
 
 [2021 Predictions from Jon Toor, CMO for Cloudian | Virtual-Strategy Magazine](https://virtual-strategy.com/2020/12/17/2021-predictions-from-jon-toor-cmo-for-cloudian/)
 
-[https://twitter.com/fuzzychef/status/1339734481373024256](https://twitter.com/fuzzychef/status/1339734481373024256)
-
-[Nuclear weapons agency breached amid massive cyber onslaught - POLITICO](https://www.politico.com/news/2020/12/17/nuclear-agency-hacked-officials-inform-congress-447855)
-
 [The role of empathy in DevOps | Opensource.com](https://opensource.com/article/20/12/empathy-devops)
-
-[Update: Discord confirms raising $100M at a valuation of $7B | TechCrunch](https://techcrunch.com/2020/12/17/filing-discord-is-raising-up-to-140m-at-a-valuation-of-up-to-7b/?guccounter=1&guce_referrer=aHR0cHM6Ly9nZXRwb2NrZXQuY29tLw&guce_referrer_sig=AQAAABa0ABwbUmwN6-RaGSf1xNPca4q2_PXd1qN3FR7H7xrO-Gh-57uV9PGcQs08WAr_79p1L1glKqWcTNMUxBbTeB0u5Y80cvtoG5sM-HDVw2MpC5QQ7zgDOjFdeQeESGjVmd8QSD0zYG4xLWyzSJfk1azfsppVgABi41qhkUKEmWoq)
-
-[Biden hints at a tougher stance against state sponsors of cyberattacks](https://www.cnbc.com/2020/12/17/biden-hints-at-a-tougher-stance-against-state-sponsors-of-cyberattacks.html)
 
 [Getting started with C programming: a lightning-fast start for absolute beginners | The Not Café - Enjoy Technology](https://not.cafe/2020/10/12/getting-started-with-c-programming.html)
 
 [Token authentication requirements for Git operations - The GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
-
-[[2012.06884] AIR-FI: Generating Covert Wi-Fi Signals from Air-Gapped Computers](https://arxiv.org/abs/2012.06884)
-
-[404 - File Not Found | CISA](https://us-cert.cisa.gov/sites/default/files/publications/AA20-352A-APT_Compromise_of_Government_Agencies,_CriticalInfrastructure,_and_Private_Sector_Organizations.pdf)
-
-[Why Capable People Are Reluctant to Lead](https://hbr.org/2020/12/why-capable-people-are-reluctant-to-lead)
-
-[Deploying to OpenShift using GitHub Actions](https://www.openshift.com/blog/deploying-to-openshift-using-github-actions)
-
-[Kubernetes is Removing Docker Support, Kubernetes is Not Removing Docker Support](https://www.openshift.com/blog/kubernetes-is-removing-docker-support-kubernetes-is-not-removing-docker-support)
 
 [Amazon Interactive Video Service](https://aws.amazon.com/ivs/)
 

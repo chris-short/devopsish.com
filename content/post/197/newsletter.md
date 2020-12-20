@@ -34,17 +34,38 @@ Women Who Tech's annual report shows that half of women founders have been haras
 [Device and data access when personal safety is at risk](https://manuals.info.apple.com/MANUALS/1000/MA1976/en_US/device-and-data-access-when-personal-safety-is-at-risk.pdf)  
 Apple's 20 page guide to protecting yourself. "If you’re concerned that someone is accessing information you did not share from your Apple device, this guide will also help you identify risks, and walk you through the steps to help make the technology you rely on as private and secure as you want it to be."
 
+[China-Based Executive at U.S. Telecommunications Company Charged with Disrupting Video Meetings Commemorating Tiananmen Square Massacre](https://www.justice.gov/opa/pr/china-based-executive-us-telecommunications-company-charged-disrupting-video-meetings)  
+This is super shady behavior. Xinjiang Jin no longer works at Zoom now.
+
+[Why Capable People Are Reluctant to Lead](https://hbr.org/2020/12/why-capable-people-are-reluctant-to-lead)  
+I don't want to lead folks right now for a variety of reasons. Mainly because the last time I managed people I was brought in help transform an org, which to leadership, meant to be an axe. I don't roll like that. It's on the list of things I need to tackle through therapy, to be honest. As a matter of fact, that job likely led to an acceleration of a decline in my mental health. Leadership is brutal in some orgs.
+
 ## Process
 
 [Download today: Kubernetes security ebook - tips, tricks, best practices](https://security.stackrox.com/kubernetes-security-ebook-tips-tricks-best-practices.html?Source=DevOpsIsh&LSource=DevOpsIsh)  
 The rapid adoption of Kubernetes to manage containerized workloads is driving great efficiencies in application development, deployment, and scalability. However, when security becomes an afterthought, you risk diminishing the greatest gain of containerization - agility. [Download this ebook](https://security.stackrox.com/kubernetes-security-ebook-tips-tricks-best-practices.html?Source=DevOpsIsh&LSource=DevOpsIsh) to learn how to (1) build secure images and prevent untrusted/vulnerable code, (2) configure RBAC, network policies, and runtime privileges, (3) detect unauthorized runtime activity, and (4) secure your Kubernetes infrastructure components such as the API server. *SPONSORED*
 
 [nixcraft's NET4 India Debacle](https://threadreaderapp.com/thread/1340258493056499712.html)  
-NET4 India sounds like an awful registrar. Now they're out of business with their director in prison for fraud. Hundreds of thousands of domains now remain in limbo.
+NET4 India sounds like an awful registrar. Now they're out of business with their director in prison for fraud. Hundreds of thousands of domains now remain in limbo. The good news is, [Nixi permits Net4India domain name customers to shift to other registrars](https://www.business-standard.com/article/current-affairs/nixi-permits-net4india-domain-name-customers-to-shift-to-other-registrars-120092901612_1.html)
+
+[Boeing 'inappropriately coached' pilots in 737 MAX testing: U.S. Senate report](https://www.reuters.com/article/us-boeing-737-max-idUSKBN28S314)  
+"The committee concluded Federal Aviation Administration (FAA) and Boeing officials 'had established a pre-determined outcome to reaffirm a long-held human factor assumption related to pilot reaction time ... It appears, in this instance, FAA and Boeing were attempting to cover up important information that may have contributed to the 737 MAX tragedies.'" My God...
+
+[Google Cloud Status Dashboard](https://status.cloud.google.com/incident/zall/20013)  
+"On Monday 14 December, 2020, for a duration of 47 minutes, customer-facing Google services that required Google OAuth access were unavailable. Cloud Service accounts used by GCP workloads were not impacted and continued to function. We apologize to our customers whose services or businesses were impacted during this incident, and we are taking immediate steps to improve the platform’s performance and availability." A fascinating read into how Google accidentally broke things.
+
+[Update: Discord confirms raising $100M at a valuation of $7B](https://techcrunch.com/2020/12/17/filing-discord-is-raising-up-to-140m-at-a-valuation-of-up-to-7b/)  
+Discord is the new Slack.
+
+[[2012.06884] AIR-FI: Generating Covert Wi-Fi Signals from Air-Gapped Computers](https://arxiv.org/abs/2012.06884)  
+Oh this is good and terrifying. Researchers have figured out a way to turn the memory bus into a Wi-Fi transmitters. "Our evaluation shows that data can be exfiltrated from air-gapped computers to nearby Wi-Fi receivers located a distance of several meters away."
 
 ## Tools
 
-We need your voice!
+[Kubernetes is Removing Docker Support, Kubernetes is Not Removing Docker Support](https://www.openshift.com/blog/kubernetes-is-removing-docker-support-kubernetes-is-not-removing-docker-support)  
+Fellow Red Hatter, Scott McCarty, covers why Docker is so damn confusing to folks in detail and how to manage things going forward. Josh Berkus sums it up well in [this tweet](https://twitter.com/fuzzychef/status/1339734481373024256), "The fact that the term 'docker' refers to a CLI, a server, a container runtime, a container building tool, and an online container host has never not been confusing."
+
+**We need your voice!**
 
 In partnership with the team at ClearPath Strategies, [Honeycomb.io](https://www.honeycomb.io/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=honeycomb-homepage-devopish) is collecting insights for changes in software development and operation practices across our industry. How do you see the world and what your team is doing? 
 
@@ -55,6 +76,25 @@ In partnership with the team at ClearPath Strategies, [Honeycomb.io](https://www
 
 [How Shopify Uses WebAssembly Outside of the Browser](https://shopify.engineering/shopify-webassembly)  
 "We wrap Lucet within a Rust web service which manages the I/O and storage of modules, which we call the Wasm Engine."
+
+[Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)  
+"I believe that Git becomes understandable if we peel back the curtain and look at how Git stores your repository data. After we investigate this model, we’ll explore how this new perspective helps us understand commands like `git cherry-pick` and `git rebase`."
+
+[Go on ARM and Beyond](https://blog.golang.org/ports)  
+ARM is the future. You can run [Kubernetes on Raspberry Pis](https://chrisshort.net/raspberry-pi-kubernetes-cluster/) thanks largely to Go's early embrace of non-x86 architectures. "In the past year, several major vendors have made announcements of new ARM64 hardware for servers, laptops and developer machines. Go was well-positioned for this. For years now, Go has been powering Docker, Kubernetes, and the rest of the Go ecosystem on ARM64 Linux servers, as well as mobile apps on ARM64 Android and iOS devices."
+
+[Deploying to OpenShift using GitHub Actions](https://www.openshift.com/blog/deploying-to-openshift-using-github-actions)  
+"The OpenShift starter workflow uses the Red Hat GitHub Actions to help you get an application up and running by providing a workflow that automatically builds and deploys your application." This is a viable starting point on your GitOps journey. Perhaps this route will be easier to embrace at first than ArgoCD and Flux. I'm going to be kicking the tires on some of these soon enough. Stay tuned to [OpenShift.tv](https://openshift.tv) in 2021 for a GitOps Happy Hour on this topic.
+
+[martinvonz/jj](https://github.com/martinvonz/jj)  
+Jujube (an experimental VCS)
+
+[external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets)  
+Integrate external secret management systems with Kubernetes
+
+[timescale/tobs](https://github.com/timescale/tobs)  
+The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
+
 
 ## DevOps'ish Tweet of the Week
 

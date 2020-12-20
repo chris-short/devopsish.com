@@ -20,6 +20,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Security Advisory | SolarWinds](https://www.solarwinds.com/securityadvisory)
 * [Solarwinds US SEC 8K](https://www.sec.gov/ix?doc=/Archives/edgar/data/1739942/000162828020017451/swi-20201214.htm)
 * [Mitigate SolarWinds Orion Code Compromise - Emergency Directive 21-01](https://cyber.dhs.gov/ed/21-01/)
+* [CISA Updates Alert and Releases Supplemental Guidance on Emergency Directive for SolarWinds Orion Compromise | CISA](https://us-cert.cisa.gov/ncas/current-activity/2020/12/19/cisa-updates-alert-and-releases-supplemental-guidance-emergency)
 
 ## Press
 
@@ -31,10 +32,11 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Hackers used SolarWinds' dominance against it in sprawling spy campaign | Reuters](https://www.reuters.com/article/global-cyber-solarwinds-idUSKBN28Q07P)
 * [Hack Suggests New Scope, Sophistication for Cyberattacks - WSJ](https://www.wsj.com/articles/hack-suggests-new-scope-sophistication-for-cyberattacks-11608251360)
 * [Exclusive: Microsoft breached in suspected Russian hack using SolarWinds - sources | Reuters](https://www.reuters.com/article/global-cyber-microsoft-exclusive-int-idUSKBN28R3BW)
+* [Nuclear weapons agency breached amid massive cyber onslaught - POLITICO](https://www.politico.com/news/2020/12/17/nuclear-agency-hacked-officials-inform-congress-447855)
+* [Biden hints at a tougher stance against state sponsors of cyberattacks](https://www.cnbc.com/2020/12/17/biden-hints-at-a-tougher-stance-against-state-sponsors-of-cyberattacks.html)
 * [SolarWinds hackers broke into U.S. cable firm and Arizona county, web records show | Reuters](https://www.reuters.com/article/us-usa-cyber-idUSKBN28S2B9)
 * [Hackers last year conducted a 'dry run' of SolarWinds breach](https://news.yahoo.com/hackers-last-year-conducted-a-dry-run-of-solar-winds-breach-215232815.html)
 * [Trump contradicts Pompeo in bid to downplay massive hack of U.S. government, Russia?s role - The Washington Post](https://www.washingtonpost.com/national-security/russia-is-behind-the-broad-ongoing-cyber-spy-campaign-against-the-us-government-and-private-sector-pompeo-says/2020/12/19/8c850cf0-41b3-11eb-8bc0-ae155bee4aff_story.html)
-
 
 ## Industry
 
