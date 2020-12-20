@@ -24,7 +24,10 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 
 ## Press
 
+* [Suspected Russian hackers spied on U.S. Treasury emails - sources | Reuters](https://www.reuters.com/article/us-usa-cyber-treasury-exclsuive-idUSKBN28N0PG)
 * [IT company SolarWinds says it may have been hit in 'highly sophisticated' hack | Reuters](https://www.reuters.com/article/us-usa-solarwinds-cyber-idUSKBN28N0Y7)
+* [U.S. Homeland Security, thousands of businesses scramble after suspected Russian hack | Reuters](https://www.reuters.com/article/us-global-cyber-idUSKBN28O26X)
+* [U.S. Agencies Hacked in Foreign Cyber Espionage Campaign Linked to Russia - WSJ](https://www.wsj.com/articles/agencies-hacked-in-foreign-cyber-espionage-campaign-11607897866)
 * [Hackers used SolarWinds' dominance against it in sprawling spy campaign | Reuters](https://www.reuters.com/article/global-cyber-solarwinds-idUSKBN28P2N8)
 * [Backdoored SolarWinds software, linked to US govt hacks, in wide use throughout the British public sector • The Register](https://www.theregister.com/2020/12/14/solarwinds_public_sector/)
 * [SolarWinds: Hey, only as many as 18,000 customers installed backdoored software linked to US govt hacks • The Register](https://www.theregister.com/2020/12/15/solar_winds_update/)
@@ -42,6 +45,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 
 * [Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor | FireEye Inc](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
 * [Tracing the SolarWinds exploit upstream](https://blog.sonatype.com/tracing-the-solarwinds-exploit-upstream)
+* [How Russian hackers infiltrated the US government for months without being spotted | MIT Technology Review](https://www.technologyreview.com/2020/12/15/1014462/how-russian-hackers-infiltrated-the-us-government-for-months-without-being-spotted/)
 * [SolarWinds Hack Leaves Feds Scrambling to Determine Damage](https://gizmodo.com/feds-still-trying-to-determine-how-screwed-they-are-aft-1845888076)
 * [Concerns Run High as More Details of SolarWinds ...](https://www.darkreading.com/attacks-breaches/concerns-run-high-as-more-details-of-solarwinds-hack-emerge/d/d-id/1339726)
 * [Microsoft partnered with security firms to sinkhole SolarWinds hack C2Security Affairs](https://securityaffairs.co/wordpress/112342/apt/microsoft-seized-c2-solarwinds-hack.html)
@@ -49,7 +53,8 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 
 ## Blogs, Newsletters, Digital Media, etc.
 
-* [SolarWinds confirmes 18,000 customers may have been impacted — Security Affairs](https://securityaffairs.co/wordpress/112294/hacking/solarwinds-sec-filing.html)
+* [Suspected Russian Hackers Spied on U.S. Treasury Emails - Sources | Top News | US News](https://www.usnews.com/news/top-news/articles/2020-12-13/exclusive-us-treasury-breached-by-hackers-backed-by-foreign-government-sources)
+* [SolarWinds confirms 18,000 customers may have been impacted — Security Affairs](https://securityaffairs.co/wordpress/112294/hacking/solarwinds-sec-filing.html)
 * [US government software provider SolarWinds confirms it was hacked - SiliconANGLE](https://siliconangle.com/2020/12/14/us-government-software-provider-solarwinds-confirms-hacked/)
 
 Note: All links shared here have gone through the normal DevOps'ish editioral and curation process.
