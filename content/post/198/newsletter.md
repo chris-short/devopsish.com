@@ -15,7 +15,7 @@ Remember last week how I said things would be punchier? Well, I updated the [Dev
 
 I wrote the parts of the newsletter below, which are probably helpful. ¯\\\_(ツ)\_/¯
 
-The past few days have been incredibly challenging mentally and physically. I'm not sure if I would do it all the same way. The good news is, I get to try again next year. The holidays, especially religious based ones are challenging for me. I have a challenging relationship with religion in general. That's for a different blog though. For those celebrating holidays the past few weeks and the weeks ahead, I wish you all the best.
+The past few days have been incredibly challenging mentally and physically. I'm not sure if I would do it all the same way again. Sadly, I think I'm going to have to sideline myself a little more next year. The good news is, I get to try again next year. For that, I am truly thankful. The holidays, especially religious based ones, are challenging for me. I have a challenging relationship with religion in general. That's for a different blog though. For those celebrating holidays the past few weeks and the weeks ahead, I wish you all the best.
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=198)
 
