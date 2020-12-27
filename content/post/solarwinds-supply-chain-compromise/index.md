@@ -40,6 +40,13 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [SolarWinds hackers broke into U.S. cable firm and Arizona county, web records show | Reuters](https://www.reuters.com/article/us-usa-cyber-idUSKBN28S2B9)
 * [Hackers last year conducted a 'dry run' of SolarWinds breach](https://news.yahoo.com/hackers-last-year-conducted-a-dry-run-of-solar-winds-breach-215232815.html)
 * [Trump contradicts Pompeo in bid to downplay massive hack of U.S. government, Russia?s role - The Washington Post](https://www.washingtonpost.com/national-security/russia-is-behind-the-broad-ongoing-cyber-spy-campaign-against-the-us-government-and-private-sector-pompeo-says/2020/12/19/8c850cf0-41b3-11eb-8bc0-ae155bee4aff_story.html)
+* [Trump administration says Russia behind SolarWinds hack. Trump himself begs to differ • The Register](https://www.theregister.com/2020/12/20/solarwinds_update_trump_contradicts_pompeo_russia_attribution/)
+* [Second hacking team was targeting SolarWinds at time of big breach | Reuters](https://www.reuters.com/article/us-usa-cyber-solarwinds-idUSKBN28T0U1)
+* [Russia’s Hacking Frenzy Is a Reckoning | WIRED](https://www.wired.com/story/russia-hack-supply-chain-reckoning/)
+* [Russian hackers’ motive for SolarWinds cyberattack baffles US: mere espionage, or worse? | South China Morning Post](https://www.scmp.com/tech/policy/article/3115216/russian-hackers-motive-solarwinds-cyberattack-baffle-us-mere-espionage)
+* [Suspected Russian hackers used Microsoft vendors to breach customers | Reuters](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y1BF)
+* [Massive data breach may have been discovered due to 'unforced error' by suspected Russian hackers - CNNPolitics](https://www.cnn.com/2020/12/23/politics/hack-unforced-error-discovery/index.html)
+* [U.S. cyber agency says SolarWinds hackers are 'impacting' state, local governments | Reuters](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y09L)
 
 ## Industry
 
@@ -48,13 +55,18 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [How Russian hackers infiltrated the US government for months without being spotted | MIT Technology Review](https://www.technologyreview.com/2020/12/15/1014462/how-russian-hackers-infiltrated-the-us-government-for-months-without-being-spotted/)
 * [SolarWinds Hack Leaves Feds Scrambling to Determine Damage](https://gizmodo.com/feds-still-trying-to-determine-how-screwed-they-are-aft-1845888076)
 * [Concerns Run High as More Details of SolarWinds ...](https://www.darkreading.com/attacks-breaches/concerns-run-high-as-more-details-of-solarwinds-hack-emerge/d/d-id/1339726)
-* [Microsoft partnered with security firms to sinkhole SolarWinds hack C2Security Affairs](https://securityaffairs.co/wordpress/112342/apt/microsoft-seized-c2-solarwinds-hack.html)
 * [Microsoft president calls SolarWinds hack an “act of recklessness” | Ars Technica](https://arstechnica.com/information-technology/2020/12/only-an-elite-few-solarwinds-hack-victims-received-follow-on-attacks/)
+* [Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers - Microsoft Security](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
+* [Cisco, Intel, Deloitte Among Victims of SolarWinds ...](https://www.darkreading.com/threat-intelligence/cisco-intel-deloitte-among-victims-of-solarwinds-breach-report/d/d-id/1339780)
+* [NVIDIA and Intel affected by SolarWinds hack | Engadget](https://www.engadget.com/nvidia-intel-solarwinds-hack-002444049.html)
 
 ## Blogs, Newsletters, Digital Media, etc.
 
 * [Suspected Russian Hackers Spied on U.S. Treasury Emails - Sources | Top News | US News](https://www.usnews.com/news/top-news/articles/2020-12-13/exclusive-us-treasury-breached-by-hackers-backed-by-foreign-government-sources)
 * [SolarWinds confirms 18,000 customers may have been impacted — Security Affairs](https://securityaffairs.co/wordpress/112294/hacking/solarwinds-sec-filing.html)
 * [US government software provider SolarWinds confirms it was hacked - SiliconANGLE](https://siliconangle.com/2020/12/14/us-government-software-provider-solarwinds-confirms-hacked/)
+[Cisco targeted in SolarWinds attack as Microsoft uncovers a second hacking group - SiliconANGLE](https://siliconangle.com/2020/12/20/cisco-targeted-solarwinds-attack-microsoft-uncovers-second-hacking-group/)
+* [Microsoft partnered with security firms to sinkhole SolarWinds hack C2Security Affairs](https://securityaffairs.co/wordpress/112342/apt/microsoft-seized-c2-solarwinds-hack.html)
+* [Researchers shared the lists of victims of Solarwinds hackSecurity Affairs](https://securityaffairs.co/wordpress/112555/hacking/solarwinds-victims-lists.html)
 
 Note: All links shared here have gone through the normal DevOps'ish editioral and curation process.
