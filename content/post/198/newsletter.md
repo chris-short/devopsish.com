@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2020-12-27T07:00:00Z
-description = "Solarwinds supply chain compromise worsens, and more"
+description = "Solarwinds supply chain compromise worsens (bonus DLL deep dive), Apple outages, shady GoDaddy, GitOps improves security, ARM, diffs, streams, and more"
 draft = false
 slug = "198"
-tags = []
+tags = ["DevOps", "security", "cloud", "cloud native", "Apple", "Linux", "systems", "Solarwinds", "supply chain", "compromise", "Microsoft", "COVID-19", "Intel", "theory", "DLL", "threat", "GitOps", "Kubernetes", "ARM", "trace", "syscalls", "gopher", "namespaces", "diffs", "streams"]
 title = "DevOps'ish 198"
 
 +++
@@ -15,7 +15,7 @@ Remember last week how I said things would be punchier? Well, I updated the [Dev
 
 I wrote the parts of the newsletter below, which are probably helpful. ¯\\\_(ツ)\_/¯
 
-The past few days have been incredibly challenging mentally and physically. I'm not sure if I would do it all the same way again. Sadly, I think I'm going to have to sideline myself a little more next year. The good news is, I get to try again next year. For that, I am truly thankful. The holidays, especially religious based ones, are challenging for me. I have a challenging relationship with religion in general. That's for a different blog though. For those celebrating holidays the past few weeks and the weeks ahead, I wish you all the best.
+The past few days have been incredibly challenging mentally and physically. I'm not sure if I would do it all the same way again. Sadly, I think I'm going to have to sideline myself a little more next year. The good news is, I get to try again next year. For that, I am truly thankful. The holidays, especially religious-based ones, are challenging for me. I have a challenging relationship with religion in general. That's for a different blog though. For those celebrating holidays the past few weeks and the weeks ahead, I wish you all the best.
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=198)
 
@@ -39,16 +39,16 @@ I haven't used GoDaddy in a LONG time. You shouldn't either.
 ## Process
 
 [Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)  
-Take a deep dive into the DLL toppling security apparatus across the globe. Also, it was, "used by a different threat actor." Oh good... Multiple agencies knew about it and exploited it. Sit back and grab your popcorn and keep an eye on [the index](https://devopsish.com/solarwinds-supply-chain-compromise/).
+Take a deep dive into the DLL toppling security apparatus across the globe. Also, it was “used by a different threat actor.” Oh good… Multiple agencies knew about it and exploited it. Sit back and grab your popcorn and keep an eye on [the index](https://devopsish.com/solarwinds-supply-chain-compromise/).
 
 [How GitOps Improves the Security of Your Development Pipelines](https://www.weave.works/blog/how-gitops-improves-security-development-pipelines)  
-"GitOps is usually discussed in terms of boosting developer velocity. But another benefit – one that doesn’t always get as much attention – concerns its potential to improve security." To go fast you have to go safely and securely. Otherwise, you're introducing risk. You're human, let a computer and the knowledge of as many viable sources as possible do the safety and security for you. But that in the GitOps toolchain and maybe, you won't end up like Solarwinds (aka on the front page of news sources the world over).
+“GitOps is usually discussed in terms of boosting developer velocity. But another benefit – one that doesn’t always get as much attention – concerns its potential to improve security.” To go fast, you have to go safely and securely. Otherwise, you’re introducing risk. You’re human. Let a computer and the knowledge of as many viable sources as possible do the safety and security for you. But that in the GitOps toolchain and maybe, you won’t end up like Solarwinds (aka on the front page of news sources the world over).
 
 [Apple Setup Issues: Apple Watch Verification Failed, HomePod Stuck on Configuring](https://www.macrumors.com/2020/12/25/apple-verification-failed-stuck-configuring/)  
 How's that switch from Mesos to Kubernetes coming? Oh... Distributed systems are hard.
 
 [Executable PNGs](https://djharper.dev/post/2020/12/26/executable-pngs/)  
-Imagine this concept with a tight bit of Go or Rust logic. Large PNGs would be odd but, not something easily detected as suspicious without some actual compute looking into it.
+Imagine this concept with a tight bit of Go or Rust logic. Large PNGs would be odd but not easily detected as suspicious without some actual compute looking into it.
 
 [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)  
 I would have killed for this web site in the early 2000s. Many arguments and old ways could've been avoided.
@@ -65,7 +65,7 @@ In partnership with the team at ClearPath Strategies, [Honeycomb.io](https://www
 [Take the survey](https://clearpathstrategies.sjc1.qualtrics.com/jfe/form/SV_cMAECZ6jv5wmjrL?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_keyword=&utm_content=software-production-excellence-survey-clearpath-devopsish&utm_adgroup=) for a chance to win $500 from Apple, HelloFresh, or Fender. *SPONSORED*
 
 [How an obscure British PC maker invented ARM and changed the world](https://arstechnica.com/features/2020/12/how-an-obscure-british-pc-maker-invented-arm-and-changed-the-world/)  
-2021 is going to be an ARM filled year to say the least.
+2021 is going to be an ARM filled year, to say the least.
 
 [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)  
 "This blog post introduces perf and traceloop, two commonly used command-line tools, to help you trace system calls in a production environment." Because running strace in prod is a last resort.
