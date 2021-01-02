@@ -18,7 +18,9 @@ Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospect
 
 ## Get Started
 
-Send your event, product, or organizational details to [chris@devopsish.com](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
+Send your event, product, or organizational details to [chris@chrisshort.net](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
+
+If you're an individual looking to support DevOps'ish and Chris Short's other work, please sponsor me through [GitHub](https://github.com/sponsors/chris-short) or [Patreon](https://www.patreon.com/devopsish)!
 
 ## What's in a DevOps'ish sponsorship
 
