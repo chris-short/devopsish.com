@@ -6,7 +6,6 @@
     - [Prohibitions](#prohibitions)
       - [No Medium, No Substack](#no-medium-no-substack)
       - [Trash talking](#trash-talking)
-        - [Exceptions](#exceptions)
   - [Sections](#sections)
     - [Intro](#intro)
     - [People](#people)
@@ -65,17 +64,6 @@ It's pertinent to get down in the mud from time to time and shine a light on bad
 DO NOT trash talk competitors, brands, or other companies unless the topic itself is about bad behavior or ill will towards the DevOps'ish readership, the planet, or others in the open source software or cloud native ecosystems.
 
 One purpose of DevOps'ish is to make sure folks know about toxic organizations or people when that information becomes available and is verifiable. Remember, this exposes the writer and sources to inherit risk. Be ready for blowback.
-
-##### Exceptions
-
-DevOps'ish is not a tabloid. But, there are very clear and present dangers in our industry that need discussing from time to time.
-
-Feel free to trash talk these toxic organizations or people when **deemed relevant and necessary**:
-
-- Oracle
-- Docker
-- Richard Stallman
-- Any person or organization on my *private* Bad Actors Twitter list
 
 ## Sections
 
