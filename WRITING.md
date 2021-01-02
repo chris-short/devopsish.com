@@ -57,7 +57,7 @@ There are some exceptions here. Some brands are using Medium as a CMS only. The 
 
 #### Trash talking
 
-"Sunlight is the best disinfectant" —Louis Brandeis
+"Sunlight is the best disinfectant" —Louis Brandeis  
 "Don't punch down." —Corey Quinn
 
 It's pertinent to get down in the mud from time to time and shine a light on bad things. But, there is an inherent risk to both self and others when doing so.
