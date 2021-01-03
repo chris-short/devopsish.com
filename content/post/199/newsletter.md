@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2021-01-03T07:00:00Z
-description = ""
+description = "Women are better leaders in crisis, 97 Things Every Cloud Engineer Should Know, Merging Microservices Back Into The Monolith, Why are my tests so slow?, and more"
 draft = false
 slug = "199"
-tags = []
-title = "DevOps'ish 199"
+tags = ["DevOps", "cloud", "cloud native", "Kubernetes", "New Year", "feature flag", "sponsor", "women", "leaders", "development", "browser", "pandemic", "books", "code", "team", "vim", "security", "open source", "engineering", "science", "secure"]
+title = "DevOps'ish 199: Women are better leaders in crisis, 97 Things Every Cloud Engineer Should Know, Merging Microservices Back Into The Monolith, Why are my tests so slow?, and more"
 
 +++
 
-**Note:** If you're reading this, you're winning. You beat 2020.
+**Note:** If you're reading this, you're winning. You beat 2020. Also, the [DevOps’ish Solarwinds supply chain compromise Index](https://devopsish.com/solarwinds-supply-chain-compromise/) has been updated.
 
 I was talking to DevOps'ish readers a bit this week in the [DevOps'ish Telegram](https://t.me/devopsish) channel. One reader, in particular, has mentioned in the past that they’d be willing to help put the newsletter together when I’m recovering from surgeries or need a day off. This morning I sat down to get a headstart on the newsletter and realized I should instead work on a checklist or HOWTO or whatever it would end up getting called. Let me introduce you to DevOps'ish's **[WRITING.md](https://github.com/chris-short/devopsish.com/blob/main/WRITING.md#devopsish-writing-process)** file. It details how the newsletter is made and some of the guidelines around writing a newsletter, in general. It’s made me realize that I need to look into automating more of what I do. That’s one of the beautiful parts of checklists or good documentation; it tells you where to start looking into automation points.
 
@@ -21,29 +21,29 @@ I'm sure every reader gets some value out of [DevOps'ish](https://devopsish.com/
 
 Also, I'm running an experiment. If you use Product Hunt, [upvote DevOps'ish's Product Hunt listing](https://www.producthunt.com/posts/devops-ish). Yes, I know it's four years old, that's part of the experiment.
 
-Last but not least, if you love reading the news like I do, I would recommend you checking out [Scroll](https://scroll.com/friend/5tcafja7su632ugitrnsnbcvr9) with your extra holiday money. It's a really awesome concept and I hope it catches on like wild fire.
+Last but not least, if you love reading the news as I do, I would recommend you checking out [Scroll](https://scroll.com/friend/5tcafja7su632ugitrnsnbcvr9) with your extra holiday money. It's a really awesome concept and I hope it catches on like wildfire.
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=199)
 
 ## People
 
 [Research: Women Are Better Leaders During a Crisis](https://hbr.org/2020/12/research-women-are-better-leaders-during-a-crisis)  
-Some of my best bosses were women. The article talks about how countries led by women fared better during the pandemic. The writers posit that women have worked on interpersonal skills more than men. The hard stuff like communication, being inspiring, motivational, and collaborative are all traits needed to lead effective. These aren't "soft skills" at all; they're foundational and core ones.
+Some of my best bosses were women. The article talks about how countries led by women fared better during the pandemic. The writers posit that women have worked on interpersonal skills more than men. The hard stuff like communication, being inspiring, motivational, and collaborative are all traits needed to lead effectively. These aren't "soft skills" at all; they're foundational and core ones.
 
 [2020 Learnings, 2021 Expectations](http://chrisshort.net/2020-learnings-2021-expectations/)  
 This is my take on the year that was and the year that will be. As I explain, it's going to be a wild one.
 
 [Ars Technica’s 2021 Deathwatch—2020 was just the beginning](https://arstechnica.com/gadgets/2020/12/ars-technicas-2021-deathwatch-2020-was-just-the-beginning/)  
-While I tried to stay upbeat and positive, Ars Technica let's us all know what will struggle this year. Zoom's rapid growth has the company on the list. To be honest, I'm already seeing the growing pains there.
+While I tried to stay upbeat and positive, Ars Technica let us all know what will struggle this year. Zoom's rapid growth has the company on the list. To be honest, I'm already seeing the growing pains there.
 
 [97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://amzn.to/3n3g8iU)  
-"These concise articles explore the entire cloud computing experience, including fundamentals, architecture, and migration. You'll delve into security and compliance, operations and reliability, and software development. And examine networking, organizational culture, and more. You're sure to find 1, 2, or 97 things that inspire you to dig deeper and expand your own career." This book is by Emily Freeman and Nathen Harvey. Myself and many people like me contributed to it. Give it a read!
+"These concise articles explore the entire cloud computing experience, including fundamentals, architecture, and migration. You'll delve into security and compliance, operations and reliability, and software development. And examine networking, organizational culture, and more. You're sure to find 1, 2, or 97 things that inspire you to dig deeper and expand your own career." This book is by Emily Freeman and Nathen Harvey. Give it a read!
 
 [At Work in Pain - Reflecting on 2020: COVID, work from home, virtual events](https://youtu.be/uL2m_chyH8o)  
-Julia Ferraioli and I talk about dealing with chronic pain during the global pandemic. We also talk about how awesome it has been to be able to consistently work from home. Oh and virtual events are just not good right now.
+Julia Ferraioli and I talk about dealing with chronic pain during the global pandemic. We also talk about how awesome it has been to be able to consistently work from home. Oh, and virtual events are democratizing.
 
 [Our top 10 articles of 2020 for IT leaders](https://enterprisersproject.com/article/2020/12/it-leadership-top-10)  
-Fan favorite, The Enterprisers Project, takes us through their top 10 IT leader pieces.
+The fan favorite, The Enterprisers Project, takes us through their top 10 IT leader pieces.
 
 [Recommended Engineering Management Books](https://caitiem.com/2020/12/28/recommended-engineering-management-books/)  
 Caitie McCaffrey recommends some great books for engineering leaders.
@@ -71,7 +71,7 @@ Amdahl's law and trying to teach your friends to do what your code would do. Bot
 [Windows 7: A year after the end-of-support deadline, millions choose not to upgrade](https://www.zdnet.com/article/windows-7-a-year-after-the-end-of-support-deadline-millions-choose-not-to-upgrade/)  
 All those doctor's offices, kiosks, billboards, government offices, and who knows what else ain't getting upgraded. I always turn my head a little sideways at the often antithetical disconnect between tech and medicine.
 
-[“Why are my tests so slow?” A list of likely suspects, anti-patterns, and unresolved personal trauma.](https://charity.wtf/2020/12/31/why-are-my-tests-so-slow-a-list-of-likely-suspects-anti-patterns-and-unresolved-personal-trauma/)  
+["Why are my tests so slow?" A list of likely suspects, anti-patterns, and unresolved personal trauma.](https://charity.wtf/2020/12/31/why-are-my-tests-so-slow-a-list-of-likely-suspects-anti-patterns-and-unresolved-personal-trauma/)  
 Observability genius, Charity Majors, hits a home run with this article. If you're building software as part of your life, you should read this and see where you can improve and tune things.
 
 [Is Substack the Media Future We Want?](https://www.newyorker.com/magazine/2021/01/04/is-substack-the-media-future-we-want)  
@@ -89,7 +89,7 @@ In partnership with the team at ClearPath Strategies, [Honeycomb.io](https://www
 [Take the survey](https://clearpathstrategies.sjc1.qualtrics.com/jfe/form/SV_cMAECZ6jv5wmjrL?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_keyword=&utm_content=software-production-excellence-survey-clearpath-devopsish&utm_adgroup=) for a chance to win $500 from Apple, HelloFresh, or Fender. *SPONSORED*
 
 [What's your favorite Kubernetes feature? Hear from the experts](https://developers.redhat.com/blog/2020/12/28/whats-your-favorite-kubernetes-feature-hear-from-the-experts/)  
-"In each episode, I ask my guest: 'What is your favorite Kubernetes feature?'" Fellow Red Hatter and live streamer, Sébastien Blanc, has a regular show where he ask each guest what their fav K8s feature is. Here's the list so far.
+"In each episode, I ask my guest: 'What is your favorite Kubernetes feature?'" Fellow Red Hatter and live streamer, Sébastien Blanc, has a regular show where he asks each guest what their fav K8s feature is. Here's the list so far.
 
 [Feature Flags (Toggles) in DevOps: How These Concepts Relate](https://launchdarkly.com/blog/feature-flags-toggles-in-devops-how-these-concepts-relate/)  
 How and where to use feature flags (or feature toggles) in your pipeline. A good read that includes ***HARK!!!*** Testing in production. I love it.
