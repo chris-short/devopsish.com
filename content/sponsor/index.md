@@ -18,9 +18,13 @@ Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospect
 
 ## Get Started
 
+### Companies and Organizations
+
 Send your event, product, or organizational details to [chris@chrisshort.net](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
 
-If you're an individual looking to support DevOps'ish and Chris Short's other work, please sponsor me through [GitHub](https://github.com/sponsors/chris-short) or [Patreon](https://www.patreon.com/devopsish)!
+### Individuals
+
+If you're an individual looking to support DevOps'ish and [Chris Short's](http://chrisshort.net/) other open source work, please sponsor through [GitHub](https://github.com/sponsors/chris-short) or [Patreon](https://www.patreon.com/devopsish)!
 
 ## What's in a DevOps'ish sponsorship
 
@@ -56,6 +60,6 @@ Interested in sponsoring? Email me at [chris@chrisshort.net](mailto:chris@chriss
 [Monitor Your Container Environment in One Place](https://www.datadoghq.com/dg/monitor/containers/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=DevOpsish-Newsletter04&utm_content=Containers)  
 With Datadog's Live Container view, you can see every container's health, resource consumption, and running processes in real time. Datadog, a cloud-scale monitoring platform, allows you to easily monitor and manage your dynamic container fleet. Start today with a free 14-day trial. *SPONSORED*
 
-## How do we get started
+## Reach out to get started
 
-Email [chris@devopsish.com](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
+Email [chris@chrisshort.net](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
