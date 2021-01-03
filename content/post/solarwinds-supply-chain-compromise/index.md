@@ -6,7 +6,7 @@ date = 2020-12-20T07:00:00Z
 description = "Coverage of the Solarwinds supply chain compromise from around the web"
 draft = false
 slug = "solarwinds-supply-chain-compromise"
-tags = ["Solarwinds Orion", "Solarwinds", "supply chain", "compromise", "hack", "DevOps", "Microsoft", "security", "spied", "Russia", "hackers", "spy", "backdoored", "breach", "Orion", "CISA", ""]
+tags = ["Solarwinds Orion", "Solarwinds", "supply chain", "compromise", "hack", "DevOps", "Microsoft", "security", "spied", "Russia", "hackers", "spy", "backdoored", "breach", "Orion", "CISA", "advisory"]
 title = "DevOps'ish Solarwinds supply chain compromise Index"
 image = "/solarwinds-supply-chain-compromise/sw-logo.svg"
 imagealt = "Solarwinds"
@@ -21,6 +21,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Solarwinds US SEC 8K](https://www.sec.gov/ix?doc=/Archives/edgar/data/1739942/000162828020017451/swi-20201214.htm)
 * [Mitigate SolarWinds Orion Code Compromise - Emergency Directive 21-01](https://cyber.dhs.gov/ed/21-01/)
 * [CISA Updates Alert and Releases Supplemental Guidance on Emergency Directive for SolarWinds Orion Compromise | CISA](https://us-cert.cisa.gov/ncas/current-activity/2020/12/19/cisa-updates-alert-and-releases-supplemental-guidance-emergency)
+* [Microsoft Internal Solorigate Investigation Update – Microsoft Security Response Center](https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/)
 
 ## Press
 
@@ -59,14 +60,18 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers - Microsoft Security](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 * [Cisco, Intel, Deloitte Among Victims of SolarWinds ...](https://www.darkreading.com/threat-intelligence/cisco-intel-deloitte-among-victims-of-solarwinds-breach-report/d/d-id/1339780)
 * [NVIDIA and Intel affected by SolarWinds hack | Engadget](https://www.engadget.com/nvidia-intel-solarwinds-hack-002444049.html)
+* [National cyber director role in the spotlight after SolarWinds hack - FedScoop](https://www.fedscoop.com/national-cyber-director-solarwinds/)
 
 ## Blogs, Newsletters, Digital Media, etc.
 
 * [Suspected Russian Hackers Spied on U.S. Treasury Emails - Sources | Top News | US News](https://www.usnews.com/news/top-news/articles/2020-12-13/exclusive-us-treasury-breached-by-hackers-backed-by-foreign-government-sources)
-* [SolarWinds confirms 18,000 customers may have been impacted — Security Affairs](https://securityaffairs.co/wordpress/112294/hacking/solarwinds-sec-filing.html)
+* [SolarWinds confirms 18,000 customers may have been impacted](https://securityaffairs.co/wordpress/112294/hacking/solarwinds-sec-filing.html)
 * [US government software provider SolarWinds confirms it was hacked - SiliconANGLE](https://siliconangle.com/2020/12/14/us-government-software-provider-solarwinds-confirms-hacked/)
 [Cisco targeted in SolarWinds attack as Microsoft uncovers a second hacking group - SiliconANGLE](https://siliconangle.com/2020/12/20/cisco-targeted-solarwinds-attack-microsoft-uncovers-second-hacking-group/)
-* [Microsoft partnered with security firms to sinkhole SolarWinds hack C2Security Affairs](https://securityaffairs.co/wordpress/112342/apt/microsoft-seized-c2-solarwinds-hack.html)
-* [Researchers shared the lists of victims of Solarwinds hackSecurity Affairs](https://securityaffairs.co/wordpress/112555/hacking/solarwinds-victims-lists.html)
+* [Microsoft partnered with security firms to sinkhole SolarWinds hack C2](https://securityaffairs.co/wordpress/112342/apt/microsoft-seized-c2-solarwinds-hack.html)
+* [Researchers shared the lists of victims of Solarwinds hack](https://securityaffairs.co/wordpress/112555/hacking/solarwinds-victims-lists.html)
+* [SolarWinds hackers aimed at access to victims' cloud assets](https://securityaffairs.co/wordpress/112773/hacking/solarwinds-solorigate-attack-chain.html)
+* [SolarWinds releases updated advisory for SUPERNOVA backdoor](https://securityaffairs.co/wordpress/112668/security/solarwinds-supernova-malware-advisory.html)
+
 
 Note: All links shared here have gone through the normal DevOps'ish editioral and curation process.
