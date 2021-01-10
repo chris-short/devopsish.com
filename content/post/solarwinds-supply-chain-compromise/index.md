@@ -22,6 +22,9 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Mitigate SolarWinds Orion Code Compromise - Emergency Directive 21-01](https://cyber.dhs.gov/ed/21-01/)
 * [CISA Updates Alert and Releases Supplemental Guidance on Emergency Directive for SolarWinds Orion Compromise | CISA](https://us-cert.cisa.gov/ncas/current-activity/2020/12/19/cisa-updates-alert-and-releases-supplemental-guidance-emergency)
 * [Microsoft Internal Solorigate Investigation Update – Microsoft Security Response Center](https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/)
+* [Statement on the story from The New York Times regarding JetBrains and SolarWinds | JetBrains Blog](https://blog.jetbrains.com/blog/2021/01/06/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/)
+* [CLASS ACTION COMPLAINT FOR VIOLATION OF THE FEDERAL SECURITIES LAWS SOLARWINDS CORPORATION, KEVIN B. THOMPSON, and J. BARTON KALSU](https://www.courtlistener.com/recap/gov.uscourts.txwd.1118887/gov.uscourts.txwd.1118887.1.0.pdf)
+* [Joint Statement by the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the Office of the Director of National Intelligence (ODNI), and the National Security Agency (NSA) | CISA](https://www.cisa.gov/news/2021/01/05/joint-statement-federal-bureau-investigation-fbi-cybersecurity-and-infrastructure)
 
 ## Press
 
@@ -48,6 +51,11 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Suspected Russian hackers used Microsoft vendors to breach customers | Reuters](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y1BF)
 * [Massive data breach may have been discovered due to 'unforced error' by suspected Russian hackers - CNNPolitics](https://www.cnn.com/2020/12/23/politics/hack-unforced-error-discovery/index.html)
 * [U.S. cyber agency says SolarWinds hackers are 'impacting' state, local governments | Reuters](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y09L)
+* [SolarWinds: The more we learn, the worse it looks | ZDNet](https://www.zdnet.com/article/solarwinds-the-more-we-learn-the-worse-it-looks/)
+* [Widely Used Software Company May Be Entry Point for Huge U.S. Hacking - The New York Times](https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html)
+* [DOJ Admits Microsoft Email Accounts Were Hit In SolarWinds Attacks](https://www.forbes.com/sites/thomasbrewster/2021/01/06/doj-admits-microsoft-email-accounts-were-hit-in-solarwinds-attacks/?sh=1daec11c5a3f)
+* [SolarWinds hack may be much worse than originally feared - The Verge](https://www.theverge.com/2021/1/2/22210667/solarwinds-hack-worse-government-microsoft-cybersecurity)
+* [As Understanding of Russian Hacking Grows, So Does Alarm - The New York Times](https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html)
 
 ## Industry
 
@@ -61,6 +69,9 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Cisco, Intel, Deloitte Among Victims of SolarWinds ...](https://www.darkreading.com/threat-intelligence/cisco-intel-deloitte-among-victims-of-solarwinds-breach-report/d/d-id/1339780)
 * [NVIDIA and Intel affected by SolarWinds hack | Engadget](https://www.engadget.com/nvidia-intel-solarwinds-hack-002444049.html)
 * [National cyber director role in the spotlight after SolarWinds hack - FedScoop](https://www.fedscoop.com/national-cyber-director-solarwinds/)
+* [SolarWinds hack may have been much wider than first thought | Engadget](https://www.engadget.com/russia-solarwinds-hack-broader-than-expected-211046098.html)
+* [DoJ says SolarWinds hackers breached its Office 365 system and read email | Ars Technica](https://arstechnica.com/information-technology/2021/01/doj-says-solarwinds-hackers-breached-its-office-365-system-and-read-email/)
+* [Microsoft says Russians accessed account 'used to view source code' in Solorigate hack | VentureBeat](https://venturebeat.com/2020/12/31/microsoft-says-russians-accessed-account-used-to-view-source-code-in-solorigate-hack/)
 
 ## Blogs, Newsletters, Digital Media, etc.
 
