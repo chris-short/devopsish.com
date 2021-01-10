@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
 date = 2021-01-10T07:00:00Z
-description = ""
+description = "Solarwinds plot thickens, Women hit hard in jobless report, Red Hat acquires StackRox, Slack outage, Podman and Docker Compose, WebAssembly training, greatsuspender compromise, and more"
 draft = false
 slug = "200"
-tags = []
-title = "DevOps'ish 200: "
+tags = ["SolarWinds", "cloud", "security", "Kubernetes", "DevOps", "open source", "cloud native", "Intel", "cybersecurity", "hybrid cloud", "source code", "runtime", "infrastructure", "Red Hat", "Docker", "deprecation", "Podman", "WebAssembly", "greatsuspender extension", "development", "Slack", "StackRox", "hospitals", "health care", "outage", "Apple", "Nvidia", "Travis CI", "Cloud Native Computing Foundation", "Microsoft", "insurrection"]
+title = "DevOps'ish 200: Solarwinds plot thickens, Women hit hard in jobless report, Red Hat acquires StackRox, Slack outage, Podman and Docker Compose, WebAssembly training, greatsuspender compromise, and more"
 
 +++
 
