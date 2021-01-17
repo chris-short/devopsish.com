@@ -25,6 +25,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Statement on the story from The New York Times regarding JetBrains and SolarWinds | JetBrains Blog](https://blog.jetbrains.com/blog/2021/01/06/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/)
 * [CLASS ACTION COMPLAINT FOR VIOLATION OF THE FEDERAL SECURITIES LAWS SOLARWINDS CORPORATION, KEVIN B. THOMPSON, and J. BARTON KALSU](https://www.courtlistener.com/recap/gov.uscourts.txwd.1118887/gov.uscourts.txwd.1118887.1.0.pdf)
 * [Joint Statement by the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the Office of the Director of National Intelligence (ODNI), and the National Security Agency (NSA) | CISA](https://www.cisa.gov/news/2021/01/05/joint-statement-federal-bureau-investigation-fbi-cybersecurity-and-infrastructure)
+* [SUNSPOT Malware: A Technical Analysis | CrowdStrike](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/)
 
 ## Press
 
@@ -56,6 +57,8 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [DOJ Admits Microsoft Email Accounts Were Hit In SolarWinds Attacks](https://www.forbes.com/sites/thomasbrewster/2021/01/06/doj-admits-microsoft-email-accounts-were-hit-in-solarwinds-attacks/?sh=1daec11c5a3f)
 * [SolarWinds hack may be much worse than originally feared - The Verge](https://www.theverge.com/2021/1/2/22210667/solarwinds-hack-worse-government-microsoft-cybersecurity)
 * [As Understanding of Russian Hacking Grows, So Does Alarm - The New York Times](https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html)
+* [SolarWinds malware was sneaked out of the firm's Orion build environment 6 months before anyone realised it was there – report • The Register](https://www.theregister.com/2021/01/12/solarwinds_tech_analysis_crowdstrike/)
+
 
 ## Industry
 
@@ -72,6 +75,8 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [SolarWinds hack may have been much wider than first thought | Engadget](https://www.engadget.com/russia-solarwinds-hack-broader-than-expected-211046098.html)
 * [DoJ says SolarWinds hackers breached its Office 365 system and read email | Ars Technica](https://arstechnica.com/information-technology/2021/01/doj-says-solarwinds-hackers-breached-its-office-365-system-and-read-email/)
 * [Microsoft says Russians accessed account 'used to view source code' in Solorigate hack | VentureBeat](https://venturebeat.com/2020/12/31/microsoft-says-russians-accessed-account-used-to-view-source-code-in-solorigate-hack/)
+* [SolarWinds malware has “curious” ties to Russian-speaking hackers | Ars Technica](https://arstechnica.com/information-technology/2021/01/solarwinds-malware-has-curious-ties-to-russian-speaking-hackers/)
+* [SolarWinds hackers are tied to known Russian spying tools | VentureBeat](https://venturebeat.com/2021/01/11/solarwinds-hackers-are-tied-to-known-russian-spying-tools/)
 
 ## Blogs, Newsletters, Digital Media, etc.
 
@@ -83,6 +88,9 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Researchers shared the lists of victims of Solarwinds hack](https://securityaffairs.co/wordpress/112555/hacking/solarwinds-victims-lists.html)
 * [SolarWinds hackers aimed at access to victims' cloud assets](https://securityaffairs.co/wordpress/112773/hacking/solarwinds-solorigate-attack-chain.html)
 * [SolarWinds releases updated advisory for SUPERNOVA backdoor](https://securityaffairs.co/wordpress/112668/security/solarwinds-supernova-malware-advisory.html)
-
+* [SolarLeaks website offers source code stolen in SolarWinds hack for sale - SiliconANGLE](https://siliconangle.com/2021/01/14/solarleaks-website-offers-source-code-stolen-solarwinds-hack-sale/)
+* [SolarWinds Hack Lessons Learned: Finding the Next ...](https://www.darkreading.com/omdia/solarwinds-hack-lessons-learned-finding-the-next-supply-chain-attack/a/d-id/1339871)
+* [Connecting the dots between SolarWinds and Russia-linked Turla APTSecurity Affairs](https://securityaffairs.co/wordpress/113289/apt/solarwinds-turla-apt.html)
+* [Russia’s SolarWinds Attack and Software Security - Schneier on Security](https://www.schneier.com/blog/archives/2021/01/russias-solarwinds-attack-and-software-security.html)
 
 Note: All links shared here have gone through the normal DevOps'ish editioral and curation process.

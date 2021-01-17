@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-01-03T07:00:00Z
 description = "Women are better leaders in crisis, 97 Things Every Cloud Engineer Should Know, Merging Microservices Back Into The Monolith, Why are my tests so slow?, and more"
 draft = false
