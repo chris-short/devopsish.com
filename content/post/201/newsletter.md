@@ -1,13 +1,13 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-01-17T07:00:00Z
-description = ""
+description = "Elastic's license problem, Dropbox layoffs, CISA recommending ad blockers, KubeLinter, kube-state-metrics, awesome-limits, folks fleeing for Signal & Telegram, and more"
 draft = false
 slug = "201"
-tags = []
-title = "DevOps'ish 201: "
+tags = ["Kubernetes", "cloud", "cloud native", "Cloud Native Computing Foundation", "security", "open source", "DevOps", "Slack", "Telegram", "white managers", "racism", "license", "GitHub", "protest", "secrets", "business", "limits", "Dropbox", "employees", "tech", "runtime", "Intel", "Intel CEO", "API", "CISA", "Michigan", "Flint Water Crisis", "Apple", "system", "bash", "Jewish", "fired", "Kurt Kemple", "incarceration", "Signal", "bad governor", "Sequioa", "Zapier", "developers", "development", "Tomcat", "bypass", "NTFS", "Elastic", "elasticsearch", "Kibana", "licenses", "rights", "SSPL", "insight", "outage", "macOS", "Solarwinds Supply Chain Compromise", "quantum", ""]
+title = "DevOps'ish 201: Elastic's license problem, Dropbox layoffs, CISA recommending ad blockers, KubeLinter, kube-state-metrics, awesome-limits, folks fleeing for Signal & Telegram, and more"
 
 +++
 

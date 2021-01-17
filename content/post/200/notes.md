@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Notes", "2020"]
+categories = ["Notes", "2021"]
 date = 2021-01-10T07:00:00Z
 description = "Notes from DevOps'ish 200"
 draft = false
