@@ -97,7 +97,7 @@ Fixing this "lost tweet" problem usually involves going to the live site and cap
 
 Using your IDE of choice...
 
-1. Read the news throughout the week: I use a combination of [Inoreader](https://www.inoreader.com/) (newsreader), [Twitter](https://twitter.com/ChrisShort), the [DevOps'ish Telegram](https://t.me/devopsish), and many more sources to save the week's news to [Pocket](https://getpocket.com/).
+1. Read the news throughout the week: I use a combination of [Inoreader](https://www.inoreader.com/) (newsreader), [Twitter](https://twitter.com/ChrisShort), and many more sources to save the week's news to [Pocket](https://getpocket.com/).
 1. Scaffold the week's newsletter: Create a git branch titled as issue number, copy/pasta previous week's issue, replace instances of date and issue number as appropriate (use Find in Folder in VSCode to make this painless). Also, be sure to clear out the old content (add placeholders for the three main content blocks and the intro, as needed).
 ![Newsletter Scaffold in VSCode](static/img/newsletter-scaffold.webp)
 1. Add Ads: ***This point is critical.*** Check the [DevOps'ish Ad Calendar](https://calendar.google.com/calendar/embed?src=chrisshort.net_566j882ba29v52rsv35ac3bufs%40group.calendar.google.com&ctz=America%2FDetroit) and place ad copy from the sponsors into the appropriate sections of newsletter.md based on the ad's copy. Ad copy and format is defined by the [DevOps'ish Sponsor](https://devopsish.com/sponsor/) guidelines.

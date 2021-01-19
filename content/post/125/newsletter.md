@@ -54,8 +54,6 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [The Science Behind DevOps with Dr. Nicole Forsgren — Real World DevOps](https://share.transistor.fm/s/433ecde0)
 
-[DevOps'ish Telegram](https://devopsi.sh/telegram) — Join the over 230+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems and solutions to modern-day issues.
-
 ## Process
 
 [**Accelerate: State of DevOps 2019 Survey**](https://google.qualtrics.com/jfe/form/SV_0v2VZMeA2Eha365?sp=5):  Nicole Forsgren, PhD is conducting the State of DevOps 2019 Survey. Your input is incredibly important. On several occasions, I have referenced [the 2018 report](https://cloudplatformonline.com/2018-state-of-devops.html) since its release for real-world work that impacts real numbers. Nicole's group also wrote, [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2), which I cannot recommend enough either.

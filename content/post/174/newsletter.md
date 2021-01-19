@@ -11,7 +11,7 @@ title = "DevOps'ish 174"
 
 +++
 
-There was some discussion in the [DevOps'ish Telegram](https://t.me/devopsish) about what the topic of this intro should be this week. One suggestion was excellent; I'm probably going to run with it next week. But, I understand that there are some of you looking for something to learn while we're in this odd time. I wrote this week's newsletter with that in mind. [If you don't know `git`, **now** is the time to learn](https://youtu.be/K5qI9bTG9Ik) for sure. Please don't hesitate to reach out if you have any feedback. Thank you for subscribing and reading.
+I understand that there are some of you looking for something to learn while we're in this odd time. I wrote this week's newsletter with that in mind. [If you don't know `git`, **now** is the time to learn](https://youtu.be/K5qI9bTG9Ik) for sure. Please don't hesitate to reach out if you have any feedback. Thank you for subscribing and reading.
 
 ## People
 

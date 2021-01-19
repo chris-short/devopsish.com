@@ -38,8 +38,6 @@ Kubernetes and containers are changing how applications are built, deployed, and
 
 [Opioid rules reassessed amid outcry from patients needing painkillers](https://www.usatoday.com/story/news/health/2019/07/12/opioid-rules-reassessed-amid-outcry-patients-needing-painkillers/1705026001/) — Too often when a few people get together and think they're doing the right thing, they're harming another group of people. The changes to opioid laws of late have definitely increased the difficulty level on life for me and undoubtedly countless others. Make high impact decisions in public, please.
 
-[DevOps'ish Telegram](https://t.me/devopsish) — Join the 300+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
-
 ## Process
 
 [No Slacking: Microsoft Teams Announces 13M DAUs, Mattermost Raises At Rapid Clip](https://news.crunchbase.com/news/no-slacking-microsoft-teams-announces-13m-daus-mattermost-raises-at-rapid-clip/) — Microsoft Teams is so great that numerous teams at Microsoft flat out don't use it. The edict from on high mentioned a few weeks ago to force folks out Microsoft products? Apparently, it had no teeth. Sadly there will be no getting away from Teams if you're an Office 365 company it appears (hard to beat free). Mattermost CEO, Ian Tien, [tweeted in relation to this story](https://twitter.com/iantien/status/1150031555256913920), "Messaging Collaboration is a $30B market—as big as email and web conferencing—with 3 key segments: First mover (Slack), incumbent (Microsoft Teams), and open source (Mattermost). Open source offers trust, flexibility and innovation like no other. Let's see what happens next :)"

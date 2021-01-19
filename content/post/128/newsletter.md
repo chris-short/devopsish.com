@@ -45,8 +45,6 @@ Thank you to everyone that helped pushed the newsletter to over 3,000 subscriber
 
 [What Is It Like To Manage a 65,000-Person Slack Channel?](https://www.cronicle.press/2019/05/16/what-is-it-like-to-manage-a-65000-person-slack-channel/) — My buddy, Jeff Sica sat down with Cronicle Press to talk about what it's like managing the massive Kubernetes Slack.
 
-[DevOps'ish Telegram](https://devopsi.sh/telegram) — Join the nearly 300 DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
-
 ## Process
 
 [**2019 State of Multicloud**](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) — A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Today!](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) *SPONSORED*

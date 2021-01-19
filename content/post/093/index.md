@@ -11,8 +11,6 @@ title = "093: Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More"
 
 +++
 
-Join the DevOps'ish group on Telegram to discuss this week's latest newsletter! [https://devopsi.sh/telegram](https://devopsi.sh/telegram)
-
 This week was REALLY hard. The past two weeks are the anniversary of the worst two week span of my life. In 2001, I was working like a dog at Langley AFB, VA. It was great work but the hours were LONG. With a normal shift, training, and other fun outside of work hours military things there was a lot going on. Then my grandmother died. Not earth shattering but it was another ratcheting up of the stress levels
 
 Then I got very sick. I had to seek treatment in an ER after work one day for flu-like symptoms. September 7, 2001, the day after the ER visit, I learned one of my best friends had passed away overnight at the age of 20. I had recently seen him a couple of times the previous weeks between visits to UNC and him to Newport News, VA. On the way to the funeral, I completely broke down when passing the highway exit towards Chapel Hill, NC.
@@ -41,7 +39,7 @@ In systems based on microservices architecture, you have multiple services getti
 Learn tools and techniques for: implementing security across your Kubernetes pipeline, implementing an automated GitOps model, achieving SOC 2 compliance and gaining full observability into your production environments with workload dashboards and customizable alerts. [Register today](https://go.weave.works/webinar-9-25.html?Source=Third%20Party%20Content%20Syndication&LSD=DevOps%20Ish%20Newsletter) *SPONSORED*
 
 [**Cloud Native DevOps with Kubernetes**](https://www.safaribooksonline.com/library/view/cloud-native-devops/9781492040750/)  
-Five lucky folks who join and say hello to the new [DevOps'ish Telegram group](https://devopsi.sh/telegram) will receive a free copy of [Cloud Native DevOps with Kubernetes](https://www.safaribooksonline.com/library/view/cloud-native-devops/9781492040750/) by Justin Domingus and John Arundel. *SPONSORED*
+Five lucky folks who join and say hello to the new DevOps'ish Telegram group will receive a free copy of [Cloud Native DevOps with Kubernetes](https://www.safaribooksonline.com/library/view/cloud-native-devops/9781492040750/) by Justin Domingus and John Arundel. *SPONSORED*
 
 
 ## People

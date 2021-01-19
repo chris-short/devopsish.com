@@ -23,8 +23,6 @@ I started the DevOps'ish newsletter in 2016 with hopes of lowering the barrier t
 
 [!["If you are not subscribed to the https://devopsish.com newsletter from @ChrisShort then take a minute and subscribe now. Always an interesting quick read across the full breadth of the industry - interspersed with a little dry wit and commentary." —Martin Woodward][mwoodward]](https://twitter.com/martinwoodward/status/1038687548153978881)
 
-[!["Aspiring DevOps/Cloud peoples - great newsletter (DevOpsish) by @ChrisShort. Complete w/ Telegram group to chat." —Bashfulrobot][Bashfulrobot]](https://twitter.com/Bashfulrobot/status/1130907202594562048)
-
 ## Quotes
 
 "If you want to get the lowdown on all things DevOps, you could do a lot worse than Chris Short. He boasts outstanding credentials – he's a CNCF ambassador, has experience with Red Hat and Ansible – but more importantly is the quality of his insights.

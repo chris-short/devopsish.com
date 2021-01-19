@@ -24,7 +24,6 @@ As mentioned last week, the newsletter is going on a hiatus. I'm not sure for ho
 "Even though it is impossible to ignore how databases work, the problems that application developers foresee and experience will often be just the tip of the iceberg."
 
 [Telegram hits 400M monthly active users](https://techcrunch.com/2020/04/24/telegram-hits-400-million-monthly-active-users/)  
-The [DevOps'ish Telegram](https://t.me/devopsish) isn't going anywhere. Join it and circulate news there to stay informed.
 
 [CNCF Community Webinar: How to Conduct a GREAT Live Stream](https://zoom.us/webinar/register/5515878238126/WN_JKysQOx_S6WqCcmRzO9rdA)  
 "This webinar is intended to show CNCF Member projects how best to use technologies like YouTube, OBS, and Twitch in order to engage their communities."

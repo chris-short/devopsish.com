@@ -49,8 +49,6 @@ A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Tod
 
 [Command Line Heroes: Season 3: Python's Tale](https://www.redhat.com/en/command-line-heroes/season-3/pythons-tale) — "In this episode, Emily Morehouse makes the connection between Python's technical extensibility and its inclusive community. Michael Kennedy explains how Python is both easy to learn and powerful enough to build YouTube and Instagram. And Diane Mueller highlights how the Python community took the lead on so many inclusive practices that are spreading in tech—including the rise of community-led decision-making."
 
-[DevOps'ish Telegram](https://t.me/devopsish) — Join the 300+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist. [DevOps'ish Code of Conduct](https://github.com/chris-short/policies/blob/master/code-of-conduct.md) applies.
-
 ## Process
 
 [New Kubernetes command-line flaw discovered](https://techerati.com/news-hub/new-kubernetes-flaw-discovered-command-line/) — "Latest kubectl vulnerability linked to incomplete patch of previous flaw discovered in March." Oops... This was [discovered by Charles Holmes](https://seclists.org/oss-sec/2019/q2/194) as part of a CNCF-sponsored security audit.

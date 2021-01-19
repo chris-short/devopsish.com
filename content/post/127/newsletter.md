@@ -42,8 +42,6 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 [How I became a Technology Advocate](https://kenmugrage.com/2019/05/09/how-i-became-a-technology-advocate/) — My friend, Ken Mugrage, explains how he started doing what he does.
 
-[DevOps'ish Telegram](https://devopsi.sh/telegram) — Join the over 230+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
-
 ## Process
 
 [What is DevOps](https://devopsish.com/what-is-devops/) — "If forced to put it in one sentence, I would describe DevOps as follows: 'DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes.'" [Tell me I'm wrong](https://twitter.com/ChrisShort).
