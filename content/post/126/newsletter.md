@@ -50,8 +50,6 @@ Try LogDNA - [Start free trial](https://logdna.com/sign-up/?utm_medium=Syndicati
 
 [Gail Duval Talks Mandrake Linux and /e/ Telephone](https://fossforce.com/2019/04/gael-duval-father-of-user-friendly-linux-on-mandrake-and-e-phone/) — I loved Mandrake back in the day.
 
-[DevOps'ish Telegram](https://devopsi.sh/telegram) — Join the over 230+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
-
 ## Process
 
 [**Accelerate: State of DevOps 2019 Survey**](https://google.qualtrics.com/jfe/form/SV_0v2VZMeA2Eha365?sp=5):  Nicole Forsgren, PhD is conducting the State of DevOps 2019 Survey. Your input is incredibly important. On several occasions, I have referenced [the 2018 report](https://cloudplatformonline.com/2018-state-of-devops.html) since its release for real-world work that impacts real numbers. Nicole's group also wrote, [*Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*](https://amzn.to/2Xnc5S2), which I cannot recommend enough either.

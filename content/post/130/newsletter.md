@@ -48,8 +48,6 @@ Please take this year's survey. It is a handful of questions, will provide actio
 
 [AnsibleFest 2019 Call for Proposals](https://ansiblefest2019.eventpoint.com/cfp/?utm_source=devopsish) — Are you adding value to your organization using Ansible? Perhaps you have automated your way out of a sticky situation before with Ansible? Have you scaled an organizations automation efforts with Ansible Tower? [Submit your CFP for AnsibleFest 2019!](https://ansiblefest2019.eventpoint.com/cfp/?utm_source=devopsish)
 
-[DevOps'ish Telegram](https://devopsi.sh/telegram) — Join the 300+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
-
 ## Process
 
 {{< tweet 1134529316904153089 >}}

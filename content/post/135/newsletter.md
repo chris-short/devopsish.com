@@ -42,8 +42,6 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) — This is really great advice from Julia Evans.
 
-[DevOps'ish Telegram](https://t.me/devopsish) — Join the 300+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
-
 ## Process
 
 [If you have to ask... OpenEBS 1.0](https://medium.com/mayadata/if-you-have-to-ask-openebs-1-0-dd4a1663c8a9) — Evan Powell shares, "an entrepreneur's perspective on what achieving OpenEBS 1.0 means." This is a big deal for any project. MayaData has done some really great work. Evan and the MayaData team have a lot to be proud of.

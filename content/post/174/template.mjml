@@ -31,7 +31,7 @@
       <mj-column width="100%">
         <mj-text>
           <p style="font-weight: bold">Welcome!</p>
-          <p>There was some discussion in the <a href="https://t.me/devopsish">DevOps&rsquo;ish Telegram</a> about what the topic of this intro should be this week. One suggestion was excellent; I&rsquo;m probably going to run with it next week. But, I understand that there are some of you looking for something to learn while we&rsquo;re in this odd time. I wrote this week&rsquo;s newsletter with that in mind. <a href="https://youtu.be/K5qI9bTG9Ik">If you don&rsquo;t know <code>git</code>, <strong>now</strong> is the time to learn</a> for sure. Please don&rsquo;t hesitate to reach out if you have any feedback. Thank you for subscribing and reading.</p>
+          <p>I understand that there are some of you looking for something to learn while we&rsquo;re in this odd time. I wrote this week&rsquo;s newsletter with that in mind. <a href="https://youtu.be/K5qI9bTG9Ik">If you don&rsquo;t know <code>git</code>, <strong>now</strong> is the time to learn</a> for sure. Please don&rsquo;t hesitate to reach out if you have any feedback. Thank you for subscribing and reading.</p>
         </mj-text>
       </mj-column>
     </mj-section>

@@ -84,7 +84,7 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 [Remote SSH access with Visual Studio Code](https://code.visualstudio.com/blogs/2019/07/25/remote-ssh)
 
-[Retrotechtacular: The Floppy Disk Orphaned By Linux](https://hackaday.com/2019/07/26/retrotechtacular-the-floppy-disk-orphaned-by-linux/) — A complaint about this came up a few weeks ago in the [DevOps'ish Telegram group](https://t.me/devopsish). Folks are having issues with Packer as a result. I remember using a virtual floppy from something semi-regularly when I was at Hosted Solutions four years ago. Are you using a floppy disk or drive for anything still?
+[Retrotechtacular: The Floppy Disk Orphaned By Linux](https://hackaday.com/2019/07/26/retrotechtacular-the-floppy-disk-orphaned-by-linux/) — Folks are having issues with Packer as a result. I remember using a virtual floppy from something semi-regularly when I was at Hosted Solutions four years ago. Are you using a floppy disk or drive for anything still?
 
 [Underscoring the "private" in private key](https://koen.io/2019/07/26/underscoring-the-private-in-private-key/) — The private key should be KEPT PRIVATE. It's not to hand out, ever (with very, very few exceptions).
 

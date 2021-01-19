@@ -41,8 +41,6 @@ I'll be in Durham, NC 28-30 May and Raleigh 3-7 June. If you want to get togethe
 
 [What Anxiety Does to Us at Work](https://hbr.org/2019/05/what-anxiety-does-to-us-at-work) — My week is summed up in this one HBR article.
 
-[DevOps'ish Telegram](https://devopsi.sh/telegram) — Join the 300+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
-
 ## Process
 
 [**2019 State of Multicloud**](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) — A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Today!](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) *SPONSORED*

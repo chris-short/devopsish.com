@@ -40,8 +40,6 @@ The founder and CEO of Blue Matador, the alert automation service, will be hosti
 
 [6 Causes of Burnout, and How to Avoid Them](https://hbr.org/2019/07/6-causes-of-burnout-and-how-to-avoid-them) — Values mismatch is something I am struggling with right now in my own position. I highly value working in the Kubernetes community. One of my personal goals is to work full time on Kubernetes (or closer to the core of it). However, my job on the Ansible team doesn't directly benefit from this work. It does feel like I'm being stretched incredibly thin by the [#7 and #8 open source projects in the world](https://octoverse.github.com/projects.html). But, I also think that there are indirect benefits of this work. The problem is that it could lead to a perceived lack of fairness. I'm galavanting across the cloud native countryside some days while my co-workers are pushing the Ansible go to market strategy. Open source is weird.
 
-[DevOps'ish Telegram](https://t.me/devopsish) — Join the 300+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist.
-
 ## Process
 
 [Preventing Attacks Using HTTP Headers](https://www.twilio.com/blog/preventing-attacks-using-http-headers) — I recently  re-platformed all my web sites so I could make better use of HTTP headers and more granular caching. HTTP security headers are becoming really important. If you are not familiar with them, read this article and [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/).

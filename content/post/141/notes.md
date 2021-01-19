@@ -76,8 +76,6 @@ Featuring interviews with Developer Relations professionals from many successful
 
 [NationalSecurityAgency/ghidra-data: Supporting Data Archives for Ghidra](https://github.com/NationalSecurityAgency/ghidra-data)
 
-[Telegram: Contact @devopsish](https://t.me/devopsish)
-
 [KNOB Attack](https://knobattack.com/)
 
 [We had issues with Monzo on 29th July. Here's what happened, and what we did to fix it.](https://monzo.com/blog/2019/09/08/why-monzo-wasnt-working-on-july-29th)

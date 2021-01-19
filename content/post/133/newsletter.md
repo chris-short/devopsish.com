@@ -37,8 +37,6 @@ Referencing an issue ticket in each commit is a development best practice. It im
 
 [How my distributed team communicates so no context is left behind](https://circleci.com/blog/how-my-distributed-team-communicates-so-no-context-is-left-behind/) — If you are on a remote friendly team or manage remote employees this is a REALLY important read.
 
-[DevOps'ish Telegram](https://t.me/devopsish) — Join the 300+ DevOps, Kubernetes, SRE, and other technology professionals discussing real-world problems, breaking technology events and outages, and the occasional Spotify playlist. [DevOps'ish Code of Conduct](https://github.com/chris-short/policies/blob/master/code-of-conduct.md) applies.
-
 ## Process
 
 [TCP SACK PANIC](https://access.redhat.com/security/vulnerabilities/tcpsack) — Originally discovered by [Netflix](https://github.com/Netflix/security-bulletins/blob/master/advisories/third-party/2019-001.md), these TCP selective acknowledgment vulnerabilities impact Linux and FreeBSD kernels. "Multiple TCP-based remote denial of service vulnerabilities" (four CVEs in total) basically creating a new ping of death. Woohoo! Y'all exhausted from these mega vulns yet? [LWN](https://lwn.net/SubscriberLink/791409/d00105536e597c1c/) has a great overview.
