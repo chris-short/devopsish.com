@@ -41,9 +41,9 @@ Effective 2020-08-07
 
 *Reduced rates in effect*
 
-A one (1) week sponsorship has a fixed fee of **$200 USD**. There is a four week minimum for all sponsorships.
+A one (1) week sponsorship has a fixed fee of **$200 USD**. There is a firm four week minimum for all sponsorships.
 
-*Note: Rates will go up in 2021. Lock in lock term sponsorships now and save big.*
+*Note: Due to COVID-19 still raging, I'm postponing any rate increases for the foreseeable future*
 
 All copy and links are needed by close of business Friday to ensure it is in the newsletter.
 
