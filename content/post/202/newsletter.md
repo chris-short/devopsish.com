@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-01-24T07:00:00Z
-description = "AWS/Elastic drama, prioritize disabilty issues, ADT Peeping Tom, Software Is Your Competitive Advantage, Traefik to Caddy, No-Cost RHEL, severless with Podman and more"
+description = "AWS/Elastic drama, prioritize disability issues, ADT Peeping Tom, Software Is Your Competitive Advantage, Traefik to Caddy, No-Cost RHEL, serverless with Podman and more"
 draft = false
 slug = "202"
 tags = ["AWS", "open source", "cloud", "DevOps", "business", "code", "Elastic", "Kubernetes", "IoT", "license", "cloud native", "tech", "toxic", "security", "Red Hat", "podman", "RHEL", "SSPL", "fork", "developers", "Google", "candor and goodwill", "runtime", "Drupal", "Acquia", "programming", "system", "monitoring", "Microsoft", "Caddy", "developer", "serverless", "systemd"]
-title = "DevOps'ish 202: AWS/Elastic drama, prioritize disabilty issues, ADT Peeping Tom, Software Is Your Competitive Advantage, Traefik to Caddy, No-Cost RHEL, severless with Podman and more"
+title = "DevOps'ish 202: AWS/Elastic drama, prioritize disability issues, ADT Peeping Tom, Software Is Your Competitive Advantage, Traefik to Caddy, No-Cost RHEL, serverless with Podman and more"
 
 +++
 
