@@ -11,7 +11,7 @@ title = "DevOps'ish 202: AWS/Elastic drama, "
 
 +++
 
-Unpopular opinion alert...
+Unpopular opinion alert (and [Disclaimer](https://devopsish.com/terms/#disclaimer))...
 
 Call me old fashioned, but I thought two of the top tenets of open source were candor and goodwill. I thought it was good practice to contribute to a project before baking it into a product. This was often the case for open source friendly vendors. But, it feels like AWS came along and never got that memo. I feel like AWS has done a lot more taking and productizing (aka making AWS a trillion-dollar, with a T, business) than contributing back to open source.
 
@@ -25,20 +25,86 @@ No one is right here, and customers pretty much get hosed on the software and se
 
 ## People
 
-PEOPLE
+[5 Reasons Why Disability Issues Should Be A Higher Priority, Even Now](https://www.forbes.com/sites/andrewpulrang/2021/01/11/5-reasons-why-disability-issues-should-be-a-higher-priority-even-now/?sh=4051337342f8)  
+Yes, please.
+
+[Gigantic Asshole Ajit Pai Is Officially Gone. Good Riddance (Time of Your Life)](https://www.vice.com/en/article/bvxpja/gigantic-asshole-ajit-pai-is-officially-gone-good-riddance-time-of-your-life)  
+Headline says it all.
+
+[Home alarm tech backdoored security cameras to spy on customers having sex](https://arstechnica.com/information-technology/2021/01/home-alarm-tech-backdoored-security-cameras-to-spy-on-customers-having-sex/)  
+Holy smokes... This is an embarrassing incident from a company that usually maintains a low key and rock solid business.
+
+[Why Tech Is Still Toxic for Women (and What to Do About it)](https://thenewstack.io/why-tech-is-still-toxic-for-women-and-what-to-do-about-it/)  
+It's a start.
+
+[Why I don't use Stack Overflow‍](https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l)
+There's a lot wrong with Stack Overflow. A LOT.
+
+[Scoop: Google is investigating the actions of another top AI ethicist](https://www.axios.com/scoop-google-is-investigating-the-actions-of-another-top-ai-ethicist-50030739-ea3d-4ea2-b452-c228b4fc9773.html)  
+AGAIN?!? Sundar... Come on.
+
+[Stop Making Excuses for Toxic Bosses](https://hbr.org/2021/01/stop-making-excuses-for-toxic-bosses)  
+"If you’ve ever worked for a toxic boss, you know how damaging it can be. So should you forgive a manager who tries to make amends for their bad behavior? A new study shows that most abusive bosses care more about their social image than actually changing how they act."
+
+[Update on an employee matter](https://github.blog/2021-01-17-update-on-an-employee-matter/)  
+HR has been shaken, not stirred at GitHub.
 
 ## Process
 
-PROCESS
+[FAA Files Reveal a Surprising Threat to Airline Safety: the U.S. Military's GPS Tests](https://spectrum.ieee.org/aerospace/aviation/faa-files-reveal-a-surprising-threat-to-airline-safety-the-us-militarys-gps-tests)  
+This is a horrific accident waiting to happen.
 
 [Download today: Kubernetes security ebook - tips, tricks, best practices](https://security.stackrox.com/kubernetes-security-ebook-tips-tricks-best-practices.html?Source=DevOpsIsh&LSource=DevOpsIsh)  
 The rapid adoption of Kubernetes to manage containerized workloads is driving great efficiencies in application development, deployment, and scalability. However, when security becomes an afterthought, you risk diminishing the greatest gain of containerization - agility. [Download this ebook](https://security.stackrox.com/kubernetes-security-ebook-tips-tricks-best-practices.html?Source=DevOpsIsh&LSource=DevOpsIsh) to learn how to (1) build secure images and prevent untrusted/vulnerable code, (2) configure RBAC, network policies, and runtime privileges, (3) detect unauthorized runtime activity, and (4) secure your Kubernetes infrastructure components such as the API server. *SPONSORED*
 
-PROCESS
+[In the Digital Economy, Your Software Is Your Competitive Advantage](https://hbr.org/2021/01/in-the-digital-economy-your-software-is-your-competitive-advantage)  
+If Harvard Business Review is trying to tell you this, maybe your execs will finally listen to you.
+
+[Drupal’s journey from dorm-room project to billion-dollar exit](https://techcrunch.com/2021/01/22/drupals-journey-from-dorm-room-project-to-billion-dollar-exit/)  
+"Twenty years ago Drupal and Acquia founder Dries Buytaert was a college student at the University of Antwerp. He wanted to put his burgeoning programming skills to work by building a communications tool for his dorm. That simple idea evolved over time into the open-source Drupal web content management system, and eventually a commercial company called Acquia built on top of it."
+
+[Monitoring as Code: What It Is and Why You Need It](https://thenewstack.io/monitoring-as-code-what-it-is-and-why-you-need-it/)  
+"Integrate Observability into the CI/CD Pipeline with Monitoring as Code"
+
+[Remediation and Hardening Strategies for Microsoft 365 to Defend Against UNC2452](https://www.fireeye.com/blog/threat-research/2021/01/remediation-and-hardening-strategies-for-microsoft-365-to-defend-against-unc2452.html)  
+I got out of the Windows sysadmin business because of stuff like this.
 
 ## Tools
 
-TOOLS
+[Why I migrated from Traefik to Caddy](https://p1ngouin.com/posts/why-i-migrated-from-traefik-to-caddy)  
+The process and research behind ones choice to use Caddy. I like this article because it walks through the warts and implementation.
+
+[Red Hat Announces No-Cost RHEL For Small Production Environments](https://www.phoronix.com/scan.php?page=news_item&px=Red-Hat-RHEL-No-Cost-16-Systems)  
+"The 16 system limit handling is still done through the registration-based developer program and does include deployments to major cloud providers. These developer program changes begin on 1 February."
+
+[PostgreSQL on ARM-based AWS EC2 Instances: Is It Any Good?](https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/)  
+"We decided to take an independent look at the price/performance of the new instances from the standpoint of running PostgreSQL."
+
+[HTML and CSS still isn’t about painting with code](https://christianheilmann.com/2021/01/21/teaching-html-and-css/)  
+This article is so good. Imitating art is not programming.
+
+[Painless services: implementing serverless with rootless Podman and systemd](https://www.redhat.com/en/blog/painless-services-implementing-serverless-rootless-podman-and-systemd)  
+Title pretty much explains it all. But, it's a guide to using systemd and Podman to make serverless services. Kinda nifty if you don't want to muck with a framework and utilize closer to core abstractions.
+
+[Kubernetes Begins Year With A Bang — And You Can Expect More](https://news.crunchbase.com/news/kubernetes-begins-year-with-a-bang-and-you-can-expect-more/)  
+"'About 18 to 24 months ago, you really saw Kubernetes take over,' said Ubaid Dhiyan, a director at investment bank Union Square Advisors. 'Now companies are building on top of Kubernetes.'"
+
+[Why I like Rust - and why it's annoying](https://jrhawley.ca/2021/01/22/why-i-like-rust)  
+"They don’t approach the situation with the perspective of 'what do we stand to gain from, and what are the costs that come with, switching to Rust?'."
+
+[Dnsmasq, used in only a million or more internet-facing devices globally, patches not-so-secret seven spoofing, hijacking flaws](https://www.theregister.com/2021/01/20/dns_cache_poisoning/)  
+Patch your everything.
+
+[Introduction to eBPF](https://oswalt.dev/2021/01/introduction-to-ebpf/)  
+"[U]nlike a lot of hyped-up technology buzzwords, this one’s momentum doesn’t seem to be unwarranted, or even ahead of the curve."
+
+[fireeye/Mandiant-Azure-AD-Investigator](https://github.com/fireeye/Mandiant-Azure-AD-Investigator)
+
+[rqlite/rqlite](https://github.com/rqlite/rqlite)  
+The lightweight, distributed relational database built on SQLite.
+
+[treenotation/dumbdown](https://github.com/treenotation/dumbdown)  
+The dumb alternative to markdown. The keyword for title is title.
 
 ## DevOps'ish Tweet of the Week
 

@@ -26,6 +26,8 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [CLASS ACTION COMPLAINT FOR VIOLATION OF THE FEDERAL SECURITIES LAWS SOLARWINDS CORPORATION, KEVIN B. THOMPSON, and J. BARTON KALSU](https://www.courtlistener.com/recap/gov.uscourts.txwd.1118887/gov.uscourts.txwd.1118887.1.0.pdf)
 * [Joint Statement by the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the Office of the Director of National Intelligence (ODNI), and the National Security Agency (NSA) | CISA](https://www.cisa.gov/news/2021/01/05/joint-statement-federal-bureau-investigation-fbi-cybersecurity-and-infrastructure)
 * [SUNSPOT Malware: A Technical Analysis | CrowdStrike](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/)
+* [Deep dive into the Solorigate second-stage activation: From SUNBURST to TEARDROP and Raindrop - Microsoft Security](https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
+* [Raindrop: New Malware Discovered in SolarWinds Investigation | Symantec Blogs](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware)
 
 ## Press
 
@@ -77,6 +79,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Microsoft says Russians accessed account 'used to view source code' in Solorigate hack | VentureBeat](https://venturebeat.com/2020/12/31/microsoft-says-russians-accessed-account-used-to-view-source-code-in-solorigate-hack/)
 * [SolarWinds malware has “curious” ties to Russian-speaking hackers | Ars Technica](https://arstechnica.com/information-technology/2021/01/solarwinds-malware-has-curious-ties-to-russian-speaking-hackers/)
 * [SolarWinds hackers are tied to known Russian spying tools | VentureBeat](https://venturebeat.com/2021/01/11/solarwinds-hackers-are-tied-to-known-russian-spying-tools/)
+* [Malwarebytes targeted by Nation State Actor implicated in SolarWinds breach. Evidence suggests abuse of privileged access to Microsoft Office 365 and Azure environments](https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/)
 
 ## Blogs, Newsletters, Digital Media, etc.
 
@@ -92,5 +95,6 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [SolarWinds Hack Lessons Learned: Finding the Next ...](https://www.darkreading.com/omdia/solarwinds-hack-lessons-learned-finding-the-next-supply-chain-attack/a/d-id/1339871)
 * [Connecting the dots between SolarWinds and Russia-linked Turla APTSecurity Affairs](https://securityaffairs.co/wordpress/113289/apt/solarwinds-turla-apt.html)
 * [Russia’s SolarWinds Attack and Software Security - Schneier on Security](https://www.schneier.com/blog/archives/2021/01/russias-solarwinds-attack-and-software-security.html)
+* [Injecting a Backdoor into SolarWinds Orion - Schneier on Security](https://www.schneier.com/blog/archives/2021/01/injecting-a-backdoor-into-solarwinds-orion.html)
 
 Note: All links shared here have gone through the normal DevOps'ish editioral and curation process.
