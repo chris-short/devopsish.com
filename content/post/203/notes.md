@@ -1,8 +1,8 @@
 +++
 
 author = "Chris Short"
-categories = ["Notes", "2031"]
-date = 2031-01-31T07:00:00Z
+categories = ["Notes", "2021"]
+date = 2021-01-31T07:00:00Z
 description = "Notes from DevOps'ish 203"
 draft = false
 url = "203/notes"
@@ -16,7 +16,7 @@ title = "DevOps'ish 203 Notes"
 
 [Nmap project becomes latest victim of Google’s ‘wrongful blocking’ of cybersecurity resources | The Daily Swig](https://portswigger.net/daily-swig/nmap-project-becomes-latest-victim-of-googles-wrongful-blocking-of-cybersecurity-resources)
 
-[Open source software development is booming in Nigeria - Business Insider](https://www.businessinsider.com/open-source-booming-in-nigeria-fintech-startups-paystack-nigeria-2021-1)
+[Open source software development is booming in Nigeria - Business Insider](https://web.archive.org/web/20210126095059/https://www.businessinsider.com/open-source-booming-in-nigeria-fintech-startups-paystack-nigeria-2021-1?r=DE&IR=T) (archive.org link to get around paywall)
 
 [Kubernetes and GitOps with Flux CD V2.0 – raynix 筆記](https://raynix.info/archives/3769)
 
@@ -121,5 +121,3 @@ title = "DevOps'ish 203 Notes"
 [https://twitter.com/kamalaharris/status/1322963321994289154?s=12](https://twitter.com/kamalaharris/status/1322963321994289154?s=12)
 
 [Kubernetes Begins Year With A Bang — And You Can Expect More – Crunchbase News](https://news.crunchbase.com/news/kubernetes-begins-year-with-a-bang-and-you-can-expect-more/)
-
-[Why I migrated from Traefik to Caddy](https://p1ngouin.com/posts/why-i-migrated-from-traefik-to-caddy)

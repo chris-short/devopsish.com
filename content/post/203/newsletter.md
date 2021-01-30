@@ -1,8 +1,8 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2031"]
-date = 2031-01-31T07:00:00Z
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+date = 2021-01-31T07:00:00Z
 description = ""
 draft = false
 slug = "203"
