@@ -20,7 +20,9 @@ Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospect
 
 ### Companies and Organizations
 
-Send your event, product, or organizational details to [chris@chrisshort.net](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
+First, check the [DevOps'ish Sponsor Inventory](https://docs.google.com/spreadsheets/d/1EYmxtGdMubBOUlHgX3hoooyf7vNOGBKMallPdel0mak/edit?usp=sharing) to see if/when you want to advertise is available.
+
+Then send your event, product, or organizational details to [chris@chrisshort.net](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
 
 ### Individuals
 
