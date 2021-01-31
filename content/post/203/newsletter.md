@@ -34,7 +34,7 @@ I cannot recommend [Block Party](https://www.blockpartyapp.com/) more highly. I'
 We're doomed.
 
 [Mediacom Warns Top 0.05% of Uploaders to Cut It Out, Cites Network “Stress”](https://stopthecap.com/2021/01/27/mediacom-warns-top-0-05-of-uploaders-to-cut-it-out-cites-network-stress/)  
-We upload about 50 GB a week from here. We likely wouldn't be in this group. We're on a business plan since the pandemic because well our everything is internet based basically and we were blowing through data caps monthly. But, this story makes me feel bad for the folks being targeted.
+We upload about 50 GB a week from here. We likely wouldn't be in this group. We're on a business plan since the pandemic because well our everything is internet-based basically and we were blowing through data caps monthly. But, this story makes me feel bad for the folks being targeted.
 
 [Domain for popular programming website Perl.com stolen in ‘hack’](https://portswigger.net/daily-swig/domain-for-popular-programming-website-perl-com-stolen-in-hack)  
 Timing is everything... Renewals too. This would have really sucked if it happened to a language you were using.
@@ -86,7 +86,7 @@ This one is gnarly enough for us to mention on-air this week on [OpenShift Admin
 Everyone's favorite partition manager and disk management tool gets an update.
 
 [Remembering Windows 3.1 themes and user empowerment](https://hisham.hm/2019/07/26/remembering-windows-31-themes-and-user-empowerment/)  
-They're right. You could tune everything, little detail in Windows 3.11. You want pink windows with purple letters? TADA! Now we just get dark mode and are thrilled by it.
+They're right. You could tune everything, every little detail in Windows 3.11. Do you want pink windows with purple letters? TADA! Now we just get dark mode and are thrilled by it.
 
 [berty/berty](https://github.com/berty/berty)  
 Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
