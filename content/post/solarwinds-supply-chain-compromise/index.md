@@ -61,7 +61,6 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [As Understanding of Russian Hacking Grows, So Does Alarm - The New York Times](https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html)
 * [SolarWinds malware was sneaked out of the firm's Orion build environment 6 months before anyone realised it was there – report • The Register](https://www.theregister.com/2021/01/12/solarwinds_tech_analysis_crowdstrike/)
 
-
 ## Industry
 
 * [Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor | FireEye Inc](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
@@ -80,6 +79,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [SolarWinds malware has “curious” ties to Russian-speaking hackers | Ars Technica](https://arstechnica.com/information-technology/2021/01/solarwinds-malware-has-curious-ties-to-russian-speaking-hackers/)
 * [SolarWinds hackers are tied to known Russian spying tools | VentureBeat](https://venturebeat.com/2021/01/11/solarwinds-hackers-are-tied-to-known-russian-spying-tools/)
 * [Malwarebytes targeted by Nation State Actor implicated in SolarWinds breach. Evidence suggests abuse of privileged access to Microsoft Office 365 and Azure environments](https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/)
+* [30% of “SolarWinds hack” victims didn’t actually use SolarWinds](https://arstechnica.com/information-technology/2021/01/30-of-solarwinds-hack-victims-didnt-actually-use-solarwinds/)
 
 ## Blogs, Newsletters, Digital Media, etc.
 
