@@ -14,18 +14,6 @@ title = "DevOps'ish 203 Notes"
 
 ## Notes
 
-[Nmap project becomes latest victim of Google’s ‘wrongful blocking’ of cybersecurity resources | The Daily Swig](https://portswigger.net/daily-swig/nmap-project-becomes-latest-victim-of-googles-wrongful-blocking-of-cybersecurity-resources)
-
-[Open source software development is booming in Nigeria - Business Insider](https://web.archive.org/web/20210126095059/https://www.businessinsider.com/open-source-booming-in-nigeria-fintech-startups-paystack-nigeria-2021-1?r=DE&IR=T) (archive.org link to get around paywall)
-
-[Kubernetes and GitOps with Flux CD V2.0 – raynix 筆記](https://raynix.info/archives/3769)
-
-[The SSPL is Not an Open Source License | Open Source Initiative](https://opensource.org/node/1099)
-
-[oss-security - Baron Samedit: Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
-
-[Kubernetes - How to Debug CrashLoopBackOff in a Container | Release](https://releaseapp.io/blog/kubernetes-how-to-debug-crashloopbackoff-in-a-container)
-
 [Twitter Bots Are a Major Source of Climate Disinformation - Scientific American](https://www.scientificamerican.com/article/twitter-bots-are-a-major-source-of-climate-disinformation/)
 
 [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
