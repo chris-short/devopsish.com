@@ -86,7 +86,7 @@ This one is gnarly enough for us to mention on-air this week on [OpenShift Admin
 Everyone's favorite partition manager and disk management tool gets an update.
 
 [Remembering Windows 3.1 themes and user empowerment](https://hisham.hm/2019/07/26/remembering-windows-31-themes-and-user-empowerment/)  
-They're right. You could tune everything, little detail in Windows 3.11. Do you want pink windows with purple letters? TADA! Now we just get dark mode and are thrilled by it.
+They're right. You could tune everything, every little detail in Windows 3.11. Do you want pink windows with purple letters? TADA! Now we just get dark mode and are thrilled by it.
 
 [berty/berty](https://github.com/berty/berty)  
 Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
