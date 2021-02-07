@@ -6,7 +6,7 @@ date = 2021-02-07T07:00:00Z
 description = "Jassy's New Jam, KubeCon EU for $10, WFH? Wait for vaccine, GCP lost $5.6B in 2020, cloud shells compared, Well switch my qubits! and more"
 draft = false
 slug = "204"
-tags = []
+tags = ["Cloud", "DevOps", "Kubernetes", "Google", "Open Source", "cloud shells", "environments", "Malware", "vaccine", "KubeCon", "cloud native", "Operators", "Chromium", "DNS", "qubits", "GCP", "developers", "continuous", "vulnerability"]
 title = "DevOps'ish 204: Jassy's New Jam, KubeCon EU for $10, WFH? Wait for vaccine, GCP lost $5.6B in 2020, cloud shells compared, Well switch my qubits! and more"
 
 +++
@@ -15,10 +15,13 @@ This week's biggest stories (my opinion):
 
 [Email from Jeff Bezos to employees](https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees)  
 Jassy in charge of the juggernaut come Q3.
+
 [Deserted Island DevOps 2021: Call for Speakers/Papers @ Sessionize.com](https://sessionize.com/deserted-island-devops-2021/)  
 I gotta hype this event. It was a very well done event last year.
+
 [KubeCon EU Registration Now Open](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/)  
 $10 for a limited time.
+
 [The Next Cyberattack Is Already Under Way](https://www.newyorker.com/magazine/2021/02/08/the-next-cyberattack-is-already-under-way)  
 A few nits, but otherwise accurate.
 
@@ -59,7 +62,8 @@ Is your Kubernetes deployment at risk to the recently disclosed ExternalIP K8s v
 [Bad Pods: Kubernetes Pod Privilege Escalation](https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation)  
 "I will describe eight insecure pod configurations and the corresponding methods to perform privilege escalation."
 
-[A dedicated licence for open-source hardware: CERN OHL approved by OSI • The Register](https://www.theregister.com/2021/01/29/cern_ohl_approved/)
+[A dedicated licence for open-source hardware: CERN OHL approved by OSI](https://www.theregister.com/2021/01/29/cern_ohl_approved/)  
+"How do you license open-source hardware? Existing software licences will not do, says CERN"
 
 ## Tools
 
@@ -93,7 +97,7 @@ Never underestimate Wireshark's power.
 [How Chromium reduced Root DNS traffic](https://blog.apnic.net/2021/02/04/how-chromium-reduces-root-dns-traffic/)  
 "In August and September 2020, Verisign quantified that upwards of 45.80% of total DNS traffic to the root servers was, at the time, the result of Chromium intranet redirection detection tests. Since then, the Chromium team has redesigned its code to disable the redirection test on Android systems and introduced a multi-state DNS interception policy that supports disabling the redirection test for desktop browsers. This functionality was released mid-November of 2020 for Android systems in Chromium 87 and, quickly thereafter, the root servers experienced a rapid decline of DNS queries." Damn.
 
-[Cloud Native Computing Foundation Announces Open Policy Agent Graduation](https://www.cncf.io/announcements/2021/02/04/cloud-native-computing-foundation-announces-open-policy-agent-graduation/)
+[Cloud Native Computing Foundation Announces Open Policy Agent Graduation](https://www.cncf.io/announcements/2021/02/04/cloud-native-computing-foundation-announces-open-policy-agent-graduation/)  
 OPA!!! And Gatekeeper too.
 
 ## DevOps'ish Tweet of the Week

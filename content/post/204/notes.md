@@ -44,8 +44,6 @@ title = "DevOps'ish 204 Notes"
 
 [The Oatmeal on Twitter: "Nobody is listening https://t.co/Eqy8jnbXUU" / Twitter](https://twitter.com/oatmeal/status/1355603563943141378?s=12)
 
-[Exclusive: Suspected Chinese hackers used SolarWinds bug to spy on U.S. payroll agency – sources | Reuters](https://www.reuters.com/article/us-cyber-solarwinds-china-idUSKBN2A22K8)
-
 [Google's cloud services lost $14.6bn over three years – and CEO Sundar Pichai likes that trajectory • The Register](https://www.theregister.com/2021/02/03/google_q4_2020/)
 
 [DDoSers are abusing the Plex Media Server to make attacks more potent | Ars Technica](https://arstechnica.com/information-technology/2021/02/ddosers-are-abusing-the-plex-media-server-to-make-attacks-more-potent/)
