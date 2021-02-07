@@ -60,6 +60,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [SolarWinds hack may be much worse than originally feared - The Verge](https://www.theverge.com/2021/1/2/22210667/solarwinds-hack-worse-government-microsoft-cybersecurity)
 * [As Understanding of Russian Hacking Grows, So Does Alarm - The New York Times](https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html)
 * [SolarWinds malware was sneaked out of the firm's Orion build environment 6 months before anyone realised it was there – report • The Register](https://www.theregister.com/2021/01/12/solarwinds_tech_analysis_crowdstrike/)
+[Exclusive: Suspected Chinese hackers used SolarWinds bug to spy on U.S. payroll agency – sources | Reuters](https://www.reuters.com/article/us-cyber-solarwinds-china-idUSKBN2A22K8)
 
 ## Industry
 
