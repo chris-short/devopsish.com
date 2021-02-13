@@ -25,7 +25,7 @@ Regardless, Kubernetes Pod Security Policies are going away and folks need to pr
 
 ## People
 
-PEOPLE
+{{< tweet 1360276547018625028 >}}
 
 [Ephemeral Environments as a Service 🤯](https://releaseapp.io/?utm_source=devopsish&utm_medium=email&utm_content=get-started&utm_campaign=202102)  
 Do you find that your engineers spend too much time creating and maintaining staging environments and yet, there never seems to be enough environments to go around? A shortage of environments is a top driver of low developer productivity and often impacts an engineering team’s ability to ship features on time. With Release, you can get a full instance of your app with all of its services with every pull request. Your developers will never have to fight over staging environments again. [Get started now](https://releaseapp.io/?utm_source=devopsish&utm_medium=email&utm_content=get-started&utm_campaign=202102). *SPONSORED*
