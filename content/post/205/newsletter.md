@@ -37,7 +37,7 @@ Do you find that your engineers spend too much time creating and maintaining sta
 "Chronic illness is extremely common, and the Covid-19 pandemic has helped normalize talking about it in the workplace. It can be hard to know what to say to an employee with a chronic illness — it’s an emotional topic, and your own assumptions can get in the way of real understanding. There are three steps managers can take to ensure they approach these conversations with empathy and confidence. First, take your own emotions out of it. Second, challenge your views about what counts as great work. Third, approach with curiosity and do your research. The experiences of employees experiencing chronic illness can offer valuable lessons to all employees."
 
 [Open source expertise is now key to getting hired, says IBM](https://www.businessinsider.com/open-source-ibm-software-developers-programming-2021-2)  
-"A survey of 3,440 technologists commissioned by IBM suggests open source skills are in high demand. 87% of hiring managers say these skills are an important factor when hiring, per the survey. IBM's chief developer advocate says dedicated open source developers help shape the future of tech." Side note, I'm really, really proud of you Kylie.
+"A survey of 3,440 technologists commissioned by IBM suggests open source skills are in high demand. 87% of hiring managers say these skills are an important factor when hiring, per the survey. IBM's chief developer advocate says dedicated open source developers help shape the future of tech." Side note: I'm really, really proud of you Kylie.
 
 [OpenAI and Stanford researchers call for urgent action to address harms of large language models like GPT-3](https://venturebeat.com/2021/02/09/openai-and-stanford-researchers-call-for-urgent-action-to-address-harms-of-large-language-models-like-gpt-3/)  
 "Participants suggested that developers may only have a six- to nine-month advantage until others can reproduce their results. It was widely agreed upon that those on the cutting edge should use their position on the frontier to responsibly set norms in the emerging field,” the paper reads. “This further suggests the urgency of using the current time window, during which few actors possess very large language models, to develop appropriate norms and principles for others to follow." Just don't fuck it up.
@@ -48,7 +48,7 @@ Do you find that your engineers spend too much time creating and maintaining sta
 Welcome to the world Rust Foundation!
 
 [10 Docker Security Best Practices](https://snyk.io/blog/10-docker-image-security-best-practices/)  
-The top 10 most popular images have more than 30 known vulnerabilities. Learn best practices for choosing a secure base image and fixing container vulnerabilities. Check out the blog: <https://snyk.io/blog/10-docker-image-security-best-practices/> *SPONSORED*x
+The top 10 most popular images have more than 30 known vulnerabilities. Learn best practices for choosing a secure base image and fixing container vulnerabilities. Check out the blog: <https://snyk.io/blog/10-docker-image-security-best-practices/> *SPONSORED*
 
 [Supermicro Hack: How China Exploited a U.S. Tech Supplier Over Years](https://www.bloomberg.com/features/2021-supermicro/)  
 "For years, U.S. investigators found tampering in products made by Super Micro Computer Inc. The company says it was never told. Neither was the public." Holy shit this is intense.
@@ -79,7 +79,7 @@ The fact a distro makes it easier to install a Microsoft product shows folks a l
 "Mercurial's '[Oxidation Plan](https://www.mercurial-scm.org/wiki/OxidationPlan)' ultimately calls for the main command (hg) to become a Rust binary that embeds and uses a Python interpreter when needed while Mercurial's Python code will call into Rust code." Mercurial is lightyears friendlier than git and should be the predominant version control tool. There I said it.
 
 [Deep PostgreSQL Thoughts: The Linux Assassin](https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin)  
-OOM Killer and databases go together list water and electricity.
+OOM Killer and databases go together like water and electricity.
 
 [kubernetes-sigs/secrets-store-csi-driver: Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.](https://github.com/kubernetes-sigs/secrets-store-csi-driver)  
 Look! New shiny with Vault, Azure, and GCP providers.
