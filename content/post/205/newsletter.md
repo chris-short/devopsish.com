@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-02-14T07:00:00Z
-description = ""
+description = "Kubernetes Pod Security Policy Deprecation, open source skills are crucial, harms of large language models, Supermicro, water plant breach, VSCode repo FUD, and more"
 draft = false
 slug = "205"
-tags = []
-title = "DevOps'ish 205:"
+tags = ["Kubernetes", "K8s", "open source", "security", "hiring", "DevOps", "PSPs", "Pod Security Policy", "deprecation", "cloud native", "Microsoft", "developers", "research", "news", "IBM", "Rust", "learn", "process", "SSH tunnels", "code", "managers", "employees", "chronic illness", "Cloud Native Computing Foundation", "water supply", "Cloudflare", "LaunchDarkly", "OPA", "CSI", "healthcare", "contributors", "vulnerabilities", "marketing", "Google", "Nvidia", "Arm", "CKS", "Apple", "sudo", "VSCodium", "Mercurial", "GCP", "Python"]
+title = "DevOps'ish 205: Kubernetes Pod Security Policy Deprecation, open source skills are crucial, harms of large language models, Supermicro, water plant breach, VSCode repo FUD, and more"
 
 +++
 
@@ -37,7 +37,7 @@ Do you find that your engineers spend too much time creating and maintaining sta
 "Chronic illness is extremely common, and the Covid-19 pandemic has helped normalize talking about it in the workplace. It can be hard to know what to say to an employee with a chronic illness — it’s an emotional topic, and your own assumptions can get in the way of real understanding. There are three steps managers can take to ensure they approach these conversations with empathy and confidence. First, take your own emotions out of it. Second, challenge your views about what counts as great work. Third, approach with curiosity and do your research. The experiences of employees experiencing chronic illness can offer valuable lessons to all employees."
 
 [Open source expertise is now key to getting hired, says IBM](https://www.businessinsider.com/open-source-ibm-software-developers-programming-2021-2)  
-"A survey of 3,440 technologists commissioned by IBM suggests open source skills are in high demand. 87% of hiring managers say these skills are an important factor when hiring, per the survey. IBM's chief developer advocate says dedicated open source developers help shape the future of tech."
+"A survey of 3,440 technologists commissioned by IBM suggests open source skills are in high demand. 87% of hiring managers say these skills are an important factor when hiring, per the survey. IBM's chief developer advocate says dedicated open source developers help shape the future of tech." Side note, I'm really, really proud of you Kylie.
 
 [OpenAI and Stanford researchers call for urgent action to address harms of large language models like GPT-3](https://venturebeat.com/2021/02/09/openai-and-stanford-researchers-call-for-urgent-action-to-address-harms-of-large-language-models-like-gpt-3/)  
 "Participants suggested that developers may only have a six- to nine-month advantage until others can reproduce their results. It was widely agreed upon that those on the cutting edge should use their position on the frontier to responsibly set norms in the emerging field,” the paper reads. “This further suggests the urgency of using the current time window, during which few actors possess very large language models, to develop appropriate norms and principles for others to follow." Just don't fuck it up.
@@ -99,5 +99,7 @@ I am not sure how much I'd pay for TweetDeck in its current form. It is lacking 
 ## DevOps'ish Tweet of the Week
 
 [![Tech folx: don't install random software from the internet! Also tech folx: ooooh, let's curl this installation script! — julia ferraioli (@juliaferraioli) February 9, 2021](/images/205-devopsish-tweet-of-the-week.png)](https://twitter.com/juliaferraioli/status/1359280041624915968)
+
+Please comment on this issue of DevOps'ish on [/r/devopsish](https://www.reddit.com/r/devopsish/comments/ljfra9/comments_from_devopsish_205_kubernetes_pod/).
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/205/notes/) to see what didn't make it to the newsletter but are still worth your time.
