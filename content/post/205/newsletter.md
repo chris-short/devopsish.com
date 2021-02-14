@@ -93,8 +93,11 @@ Look! New shiny with Vault, Azure, and GCP providers.
 [Backblaze Hard Drive Stats for 2020](https://www.backblaze.com/blog/backblaze-hard-drive-stats-for-2020/)  
 If you need to add some metrics to your next big hard drive buy, this is a good start.
 
+[Twitter Mulls Subscription Product, Tipping For Generating Revenue](https://www.bloomberg.com/news/articles/2021-02-08/twitter-considers-subscription-fee-for-tweetdeck-unique-content)  
+I am not sure how much I'd pay for TweetDeck in its current form. It is lacking a number of features the mobile apps have. If Twitter does this they need to price this very low at first and as feature parity is achieved, increase pricing along the way.
+
 ## DevOps'ish Tweet of the Week
 
 [![Tech folx: don't install random software from the internet! Also tech folx: ooooh, let's curl this installation script! — julia ferraioli (@juliaferraioli) February 9, 2021](/images/205-devopsish-tweet-of-the-week.png)](https://twitter.com/juliaferraioli/status/1359280041624915968)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/205/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/205/notes/) to see what didn't make it to the newsletter but are still worth your time.

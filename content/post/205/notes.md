@@ -62,8 +62,6 @@ title = "DevOps'ish 205 Notes"
 
 [Someone tried to poison Oldsmar’s water supply during hack, sheriff says](https://www.tampabay.com/news/pinellas/2021/02/08/someone-tried-to-poison-oldsmars-water-supply-during-hack-sheriff-says/)
 
-[Twitter Mulls Subscription Product, Tipping For Generating Revenue - Bloomberg](https://www.bloomberg.com/news/articles/2021-02-08/twitter-considers-subscription-fee-for-tweetdeck-unique-content)
-
 [Kong raises $100 million for software that scales cloud infrastructure | VentureBeat](https://venturebeat.com/2021/02/08/kong-raises-100-million-for-software-that-scales-cloud-infrastructure/)
 
 [FOSDEM 2021 was the best online event ever – Marcin Juszkiewicz](https://marcin.juszkiewicz.com.pl/2021/02/08/fosdem-2021-was-the-best-online-event-ever/)
