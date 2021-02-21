@@ -71,6 +71,7 @@ What if your team could safely ship software faster than your competitors?  Lear
 [Extending applications on Kubernetes with multi-container pods](https://learnk8s.io/sidecar-containers-patterns)  
 "TL;DR: In this article you will learn how you can use the ambassador, adapter, sidecar and init containers to extend your apps in Kubernetes without changing their code."
 
+
 [Ansible Language - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=zbr.vscode-ansible)  
 "Ansible extension aims to ease life of Ansible content creators by making easier to write Ansible playbooks, roles, collections, modules and plugins."
 
