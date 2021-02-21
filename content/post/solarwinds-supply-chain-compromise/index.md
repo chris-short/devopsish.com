@@ -28,6 +28,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [SUNSPOT Malware: A Technical Analysis | CrowdStrike](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/)
 * [Deep dive into the Solorigate second-stage activation: From SUNBURST to TEARDROP and Raindrop - Microsoft Security](https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
 * [Raindrop: New Malware Discovered in SolarWinds Investigation | Symantec Blogs](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware)
+* [02/17/21: Press Briefing by Press Secretary and Deputy National Security Advisor - YouTube](https://www.youtube.com/watch?v=Ta_vatZ24Cs&feature=share)
 
 ## Press
 
@@ -60,7 +61,9 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [SolarWinds hack may be much worse than originally feared - The Verge](https://www.theverge.com/2021/1/2/22210667/solarwinds-hack-worse-government-microsoft-cybersecurity)
 * [As Understanding of Russian Hacking Grows, So Does Alarm - The New York Times](https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html)
 * [SolarWinds malware was sneaked out of the firm's Orion build environment 6 months before anyone realised it was there – report • The Register](https://www.theregister.com/2021/01/12/solarwinds_tech_analysis_crowdstrike/)
-[Exclusive: Suspected Chinese hackers used SolarWinds bug to spy on U.S. payroll agency – sources | Reuters](https://www.reuters.com/article/us-cyber-solarwinds-china-idUSKBN2A22K8)
+* [Exclusive: Suspected Chinese hackers used SolarWinds bug to spy on U.S. payroll agency – sources | Reuters](https://www.reuters.com/article/us-cyber-solarwinds-china-idUSKBN2A22K8)
+* [Suspected Russian Hackers Used U.S. Networks, Official Says - Bloomberg](https://www.bloomberg.com/news/articles/2021-02-17/solarwinds-hacks-perpetrated-from-inside-u-s-white-house-says)
+* [SolarWinds: How Russian spies hacked the Justice, State, Treasury, Energy and Commerce Departments - CBS News](https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/)
 
 ## Industry
 
@@ -81,6 +84,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [SolarWinds hackers are tied to known Russian spying tools | VentureBeat](https://venturebeat.com/2021/01/11/solarwinds-hackers-are-tied-to-known-russian-spying-tools/)
 * [Malwarebytes targeted by Nation State Actor implicated in SolarWinds breach. Evidence suggests abuse of privileged access to Microsoft Office 365 and Azure environments](https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/)
 * [30% of “SolarWinds hack” victims didn’t actually use SolarWinds](https://arstechnica.com/information-technology/2021/01/30-of-solarwinds-hack-victims-didnt-actually-use-solarwinds/)
+* [Microsoft says it found 1,000-plus developers' fingerprints on the SolarWinds attack • The Register](https://www.theregister.com/2021/02/15/solarwinds_microsoft_fireeye_analysis/)
 
 ## Blogs, Newsletters, Digital Media, etc.
 
@@ -97,5 +101,6 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Connecting the dots between SolarWinds and Russia-linked Turla APTSecurity Affairs](https://securityaffairs.co/wordpress/113289/apt/solarwinds-turla-apt.html)
 * [Russia’s SolarWinds Attack and Software Security - Schneier on Security](https://www.schneier.com/blog/archives/2021/01/russias-solarwinds-attack-and-software-security.html)
 * [Injecting a Backdoor into SolarWinds Orion - Schneier on Security](https://www.schneier.com/blog/archives/2021/01/injecting-a-backdoor-into-solarwinds-orion.html)
+* [Behind the Scenes of the SunBurst Attack – The New Stack](https://thenewstack.io/behind-the-scenes-of-the-sunburst-attack/)
 
 Note: All links shared here have gone through the normal DevOps'ish editioral and curation process.
