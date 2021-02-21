@@ -3,17 +3,17 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-02-21T07:00:00Z
-description = ""
+description = "Kubernetes README, 'I will slaughter you', Corey Quinn in NYT, 200 Million Certificates in 24 Hours, GitOps with Flux2, K8s on ISS, and more"
 draft = false
 slug = "206"
 tags = []
-title = "DevOps'ish 206: "
+title = "DevOps'ish 206: Kubernetes README, 'I will slaughter you', Corey Quinn in NYT, 200 Million Certificates in 24 Hours, GitOps with Flux2, K8s on ISS, and more"
 
 +++
 
-Sometimes you don't know what the world needs until someone tells you. On Monday this week, a friend asked if I had any additional books to point them to for Kubernetes help. I have a mile long list in my head. I said, yeah, let me punch that up for you real quick. But, instead of creating a locked down dock or dust bin email, I built a website. Behold, [**Kubernetes README**](https://kubernetesreadme.com/). It's nothing really fancy. A copy of an existing site, with a different name, and data to help folks make a selection that fits their needs.
+Sometimes you don't know what the world needs until someone tells you. On Monday this week, a friend asked if I had any additional books to point them to for Kubernetes help. I have a mile-long list in my head. I said, yeah, let me punch that up for you real quick. But, instead of creating a locked down doc or dust bin email, I built a website. Behold, [**Kubernetes README**](https://kubernetesreadme.com/). It's nothing really fancy. A copy of an existing site, with a different name, and data to help folks make a selection that fits their needs.
 
-But, this is the beauty of working in an open source environment. I didn't even think of typing them an email. It was going to be a web site the second the ask came in. There was no reason to go to the effort of creating a list of books that would live in a vacuum. Sharing knowledge helps us all. It's how folks can figure out how to grow on their own. Thanks for the idea, Justin. I hope it helps.
+But, this is the beauty of working in an open source environment. I didn't even think of typing them an email. It was going to be a website the second the ask came in. There was no reason to go to the effort of creating a list of books that would live in a vacuum. Sharing knowledge helps us all. It's how folks can figure out how to grow on their own. Thanks for the idea, Justin. I hope it helps.
 
 Please note, the [DevOps’ish Solarwinds supply chain compromise Index](https://devopsish.com/solarwinds-supply-chain-compromise/) has many updates this week. Including a White House briefing on the matter.
 
@@ -69,7 +69,7 @@ What if your team could safely ship software faster than your competitors?  Lear
 "Three quarters in a row of Chrome OS above macOS makes a trend. It’s safe to say that Chromebooks from PC makers like Acer, Asus, Dell, HP, and Lenovo now outsell Apple’s range of desktop Macs and laptop MacBooks. That said, 2020 was not a typical year."
 
 [Extending applications on Kubernetes with multi-container pods](https://learnk8s.io/sidecar-containers-patterns)  
-"TL;DR: In this article you will learn how you can use the ambassador, adapter, sidecar and init containers to extend yours apps in Kubernetes without changing their code."
+"TL;DR: In this article you will learn how you can use the ambassador, adapter, sidecar and init containers to extend your apps in Kubernetes without changing their code."
 
 [Ansible Language - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=zbr.vscode-ansible)  
 "Ansible extension aims to ease life of Ansible content creators by making easier to write Ansible playbooks, roles, collections, modules and plugins."
