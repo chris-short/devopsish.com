@@ -47,7 +47,7 @@ HUGO_ENABLEGITINFO = "true"
   compress = true
 
 [[redirects]]
-  from = "https://devopsish.netlify.com/*"
+  from = "https://devopsish.netlify.app/*"
   to = "https://devopsish.com/:splat"
   status = 301
   force = true

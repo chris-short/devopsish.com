@@ -14,25 +14,9 @@ title = "DevOps'ish 207 Notes"
 
 ## Notes
 
-[Getting up and running with multi-arch Kubernetes clusters - CableSpaghetti](https://cablespaghetti.dev/2021/02/20/managing-multi-arch-kubernetes-clusters/)
-
-[Kubernetes as a cloud services provisioner: what are custom resource definitions? | Cloud Native Computing Foundation](https://www.cncf.io/blog/2021/02/23/kubernetes-as-a-cloud-services-provisioner-what-are-custom-resource-definitions/)
-
-[CNCF Provides Insights into Secrets Management Tools with Latest End User Technology Radar | Cloud Native Computing Foundation](https://www.cncf.io/announcements/2021/02/23/cncf-provides-insights-into-secrets-management-tools-with-latest-end-user-technology-radar/?hss_channel=tw-3286770860)
-
-[🚨🚨 That's a lot of YAML 🚨🚨](https://noyaml.com/)
-
-[Boop :: OKatBest](https://boop.okat.best/)
-
-[How We Minimized the Overhead of Kubernetes in Our Job System | Datadog](https://www.datadoghq.com/blog/engineering/moving-a-jobsystem-to-kubernetes/)
-
-[Give Black Employees Time to Rest and Recover](https://hbr.org/2021/02/give-black-employees-time-to-rest-and-recover)
+[Getting up and running with multi-arch Kubernetes clusters](https://cablespaghetti.dev/2021/02/20/managing-multi-arch-kubernetes-clusters/)
 
 [How I built a telnet chat server in 2021 with WebAssembly | Lunatic Blog](https://lunatic.solutions/blog/lunatic-chat/)
-
-[How to Avoid the Most Dangerous Word in Software Development](https://pawelurbanek.com/dangerous-word-slack)
-
-[Free Windows 10 development virtual machines for HyperV, Parallels, VirtualBox, and VMWare - Scott Hanselman's Blog](https://www.hanselman.com/blog/free-windows-10-development-virtual-machines-for-hyperv-parallels-virtualbox-and-vmware)
 
 [Israeli startup Magical thinks it's time to schedule an upgrade to your calendar app](https://www.geektime.com/israeli-startup-magical-thinks-its-about-time-to-schedule-an-upgrade-to-your-calendar-app/)
 
@@ -44,12 +28,6 @@ title = "DevOps'ish 207 Notes"
 
 [https://twitter.com/jbaruch/status/1363001122668113920?s=12](https://twitter.com/jbaruch/status/1363001122668113920?s=12)
 
-[Breaking down and fixing Kubernetes | by Andrei Kvapil | Feb, 2021 | ITNEXT](https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3)
-
-[Sysdig contributes Falco's kernel module, eBPF probe, and libraries to the CNCF | Sysdig](https://sysdig.com/blog/sysdig-contributes-falco-kernel-ebpf-cncf/)
-
-[Mailchimp employees have complained about inequality for years — is anyone listening? - The Verge](https://www.theverge.com/22300931/mailchimp-company-culture-discrimination-unequal-pay?scrolla=5eb6d68b7fedc32c19ef33b4)
-
 [Tekton Hub Is Live! - CD Foundation](https://cd.foundation/blog/2021/02/24/tekton-hub-is-live/)
 
 [Facebook bans Myanmar military - The Washington Post](https://www.washingtonpost.com/technology/2021/02/24/facebook-myanmar-coup-genocide/?utm_source=reddit.com)
@@ -60,39 +38,17 @@ title = "DevOps'ish 207 Notes"
 
 [DMCA Notice Wipes Reverse-Engineered GTA Code from GitHub * TorrentFreak](https://torrentfreak.com/dmca-notice-wipes-reverse-engineered-gta-code-from-github-210221/)
 
-[Follow the CAPEX: Digital Ocean – Platformonomics](https://www.platformonomics.com/2021/02/follow-the-capex-digital-ocean/)
-
-[#hugops hope to spread empathy in tech - Protocol — The people, power and politics of tech](https://www.protocol.com/enterprise/oral-history-hugops)
-
-[Hearings | Intelligence Committee](https://www.intelligence.senate.gov/hearings/open-hearing-hearing-hack-us-networks-foreign-adversary)
-
-[ComplianceAsCode/content: Security automation content in SCAP, OSCAL, Bash, Ansible, and other formats](https://github.com/ComplianceAsCode/content)
-
 [Red Hat closes StackRox Kubernetes security acquisition | ZDNet](https://www.zdnet.com/article/red-hat-closes-stackrox-kubernetes-security-acquisition/#ftag=RSSbaffb68)
 
-[(1) New Message!](https://blog.checkpoint.com/2021/02/22/jian-the-chinese-double-edged-cyber-sword/)
-
-[Oh My Git!](https://ohmygit.org/)
+[New Message!](https://blog.checkpoint.com/2021/02/22/jian-the-chinese-double-edged-cyber-sword/)
 
 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
-[Please do not put IP addresses into DNS MX records - Hanno's blog](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)
-
 [Kind on Fedora 33](https://blog.calebwoodbine.com/kind-on-fedora-33/)
-
-[Some quick thoughts on Citi’s $900M OOPSie – Surfing Complexity](https://surfingcomplexity.blog/2021/02/19/some-quick-thoughts-on-citis-900m-oopsie/)
-
-[White House says it will hold those responsible for SolarWinds hack accountable within weeks - CNNPolitics](https://www.cnn.com/2021/02/19/politics/sullivan-solarwinds-khashoggi/index.html)
 
 [Putting on a different hat – Surfing Complexity](https://surfingcomplexity.blog/2021/02/26/putting-on-a-different-hat/)
 
 [How to Read Assembly Language - Scott Wolchok](https://wolchok.org/posts/how-to-read-assembly-language/)
-
-[Former SolarWinds CEO blames intern for "solarwinds123" password leak - CNNPolitics](https://www.cnn.com/2021/02/26/politics/solarwinds123-password-intern/index.html)
-
-[Everything is broken, and it’s okay – Increment: Reliability](https://increment.com/reliability/failure-is-okay/)
-
-[DidierRLopes/GamestonkTerminal: The next best thing after Bloomberg Terminal](https://github.com/DidierRLopes/GamestonkTerminal)
 
 [Best Buy just laid off 5,000 workers and will close more stores - CNN](https://www.cnn.com/2021/02/25/business/best-buy-store-closures-workers/)
 
@@ -106,21 +62,13 @@ title = "DevOps'ish 207 Notes"
 
 [MySQL from Below | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2021/02/25/mysql-from-below.html)
 
-[Four causes for ‘Zoom fatigue’ and their solutions | Stanford News](https://news.stanford.edu/2021/02/23/four-causes-zoom-fatigue-solutions/)
-
 [Google Translate](https://translate.google.com/translate?sl=es&tl=en&u=https://news.microsoft.com/es-es/2021/02/23/pelayo-agiliza-la-respuesta-a-sus-clientes-con-una-infraestructura-tecnologica-lider/)
 
 [OpenShift.tv: Ask an OpenShift Admin - What’s new in OpenShift 4.7](https://www.openshift.com/blog/openshift.tv-ask-an-openshift-admin-whats-new-in-openshift-4.7)
 
-[How I became a Kubernetes maintainer in 4 hours a week | Opensource.com](https://opensource.com/article/21/2/kubernetes-maintainer)
-
-[Medisafe raises $30 million for predictive AI that reminds people to take their pills | VentureBeat](https://venturebeat.com/2021/02/25/medisafe-raises-30-million-to-promote-medication-adherence-using-ai-and-big-data/)
-
 [Sweetening Your Honey | Refining Sampling Methods](https://www.honeycomb.io/blog/refining-sampling-methods/)
 
 [Fedora and fallback DNS servers [LWN.net]](https://lwn.net/SubscriberLink/847257/fbe4aee017b00996/)
-
-[Solorigate Resource Center – updated February 25, 2021 – Microsoft Security Response Center](https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/)
 
 [It’s High Time to Replace JPEG With a Next-Generation Image Codec](https://cloudinary.com/blog/time_for_next_gen_codecs_to_dethrone_jpeg)
 
@@ -133,8 +81,6 @@ title = "DevOps'ish 207 Notes"
 [Hello from GitHub’s new Chief Security Officer - The GitHub Blog](https://github.blog/2021-02-24-hello-from-githubs-new-chief-security-officer/)
 
 [The remaining Fry's Electronics stores are all shutting down | Engadget](https://www.engadget.com/frys-electronics-closes-nationwide-055027690.html)
-
-[Flux v2 is getting closer](https://www.weave.works/blog/flux-2-is-getting-closer)
 
 [Biden signs executive order to address chip shortage through a supply chain review](https://www.cnbc.com/2021/02/24/biden-signs-executive-order-to-address-chip-shortage-through-a-supply-chain-review.html?__source=iosappshare%7Cio.raindrop.ios.share)
 
@@ -156,21 +102,13 @@ title = "DevOps'ish 207 Notes"
 
 [Fixing Problems Before They Happen at NASA - IEEE Spectrum](https://spectrum.ieee.org/at-work/tech-careers/fixing-problems-before-they-happen-at-nasa)
 
-[Kubernetes Gives Us That for FREE - YouTube](https://www.youtube.com/watch?v=ZQrLinUOp3c&feature=share)
-
 [Why is it so hard to see code from 5 minutes ago? - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/yestercode.html)
 
 [China Hijacked an NSA Hacking Tool in 2014—and Used It for Years | WIRED](https://www.wired.com/story/china-nsa-hacking-tool-epme-hijack/)
 
 [cost-model/kubecost-exporter.md at develop · kubecost/cost-model](https://github.com/kubecost/cost-model/blob/develop/kubecost-exporter.md)
 
-[A little tool to make DNS queries](https://jvns.ca/blog/2021/02/24/a-little-tool-to-make-dns-queries/)
-
 [[2102.09301] The CNAME of the Game: Large-scale Analysis of DNS-based Tracking Evasion](https://arxiv.org/abs/2102.09301)
-
-[SolarWinds Attackers Lurked for 'Several Months' in ...](https://www.darkreading.com/threat-intelligence/solarwinds-attackers-lurked-for-several-months-in-fireeyes-network/d/d-id/1340239?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple)
-
-[SolarWinds, Microsoft, FireEye, and CrowdStrike defend conduct in major breach | VentureBeat](https://venturebeat.com/2021/02/24/solarwinds-microsoft-fireeye-and-crowdstrike-defend-conduct-in-major-breach/)
 
 [A step-by-step guide to Knative eventing | Opensource.com](https://opensource.com/article/21/2/knative-eventing)
 
@@ -180,10 +118,6 @@ title = "DevOps'ish 207 Notes"
 
 [Why newsletters are email not RSS – Blog FiascoBlog Fiasco](https://funnelfiasco.com/blog/2021/02/15/why-newsletters-are-email-not-rss/)
 
-[Mailchimp CEO Ben Chestnut: 'We have work to do' on pay equity](https://www.businessinsider.com/mailchimp-ceo-ben-chestnut-email-pay-equity-discrimination-kelly-ellis-2021-2)
-
 [Virtual Conferences Aren't as Accessible as You Might Think - Scientific American](https://www.scientificamerican.com/article/virtual-conferences-arent-as-accessible-as-you-might-think/)
-
-[Behind the Scenes of the SunBurst Attack – The New Stack](https://thenewstack.io/behind-the-scenes-of-the-sunburst-attack)
 
 [Introduction to GitOps on Kubernetes with Flux v2 :: Leonid Koftun — Software Engineer](https://blog.sldk.de/2021/02/introduction-to-gitops-on-kubernetes-with-flux-v2/)
