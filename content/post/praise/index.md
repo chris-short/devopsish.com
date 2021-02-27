@@ -19,6 +19,10 @@ I started the DevOps'ish newsletter in 2016 with hopes of lowering the barrier t
 
 [!["I don't read a lot of tech newsletters, but there are 3 that I do, for various reasons! Devops'ish by @ChrisShort puts so much good stuff there, that I must confess that I usually just scan the previous week's top 5, very convenient." —Jérôme Petazzoni][jpetazzo]](https://twitter.com/jpetazzo/status/1129916987545653248)
 
+[!["Shout out to the DevOps'ish newsletter (https://devopsish.com) and to @ChrisShort for its curation. I learn something noteworthy every time it hits my inbox." -Johnny Boursiquot][johnny-boursiquot]](https://twitter.com/jboursiquot/status/1364231041171550208)
+
+[!["This newsletter is in my Feedly in my very special section. ❤️" —Carlisia Thompson][carlisia-thompson]](https://twitter.com/carlisia/status/1365340098229727236)
+
 [!["I read this NL every week @ChrisShort gathers an amazing collection of tech #OpenSource #DevOps news. Worth a read and a subscription!" —Kim McMahon][kamcmahon]](https://twitter.com/kamcmahon/status/1085654763193098240)
 
 [!["If you are not subscribed to the https://devopsish.com newsletter from @ChrisShort then take a minute and subscribe now. Always an interesting quick read across the full breadth of the industry - interspersed with a little dry wit and commentary." —Martin Woodward][mwoodward]](https://twitter.com/martinwoodward/status/1038687548153978881)
@@ -47,3 +51,5 @@ Finally, thank ***you*** subscribers, friends, fans for making this project the 
 [kamcmahon]: kamcmahon-praise.png
 [mwoodward]: martin-woodward-praise.png
 [patrick-debois]: patrick-debois-praise.png
+[johnny-boursiquot]: johnny-boursiquot-praise.webp
+[carlisia-thompson]: carlisia-thompson-praise.webp
