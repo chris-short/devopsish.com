@@ -99,4 +99,3 @@ A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/180/notes/) to see what didn't make it to the newsletter.
 
-{{< amazon >}}

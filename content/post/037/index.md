@@ -82,4 +82,6 @@ A manager in an agile environment with strong technical skills. Collaborative le
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 898221551430111234 >}}
+Always be rediscovering all your why's.
+
+— Michael Coté (@cote) [August 17, 2017](https://twitter.com/cote/status/898221551430111234)

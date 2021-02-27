@@ -140,7 +140,3 @@ Next time you have some time to burn and some Kubernetes to learn.
 [![DevOps'ish Tweet of the Week from @aycabs](/images/188-devopsish-tweet-of-the-week.png)](https://twitter.com/aycabs/status/1315229327076683778)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/188/notes/) to see what didn't make it to the newsletter.
-
-{{< sib_gdpr >}}
-
-{{< amazon >}}

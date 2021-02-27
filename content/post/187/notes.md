@@ -120,4 +120,3 @@ title = "DevOps'ish 187 Notes"
 
 [DuckDuckGo, Mozilla launch privacy settings for the internet](https://www.fastcompany.com/90561555/global-privacy-control-duckduckgo-eff-mozilla)
 
-{{< amazon >}}

@@ -15,7 +15,6 @@ Want to see your organization in DevOps'ish? Review the [newsletter sponsor](htt
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/). They're cool people doing cool things with cloud native security. Check them out! [Scanning Kubernetes IaC configurations with Terrascan](https://community.accurics.com/t/scanning-kubernetes-iac-configurations-with-terrascan/51)
 
-{{< sib_gdpr >}}
 
 ## People
 
@@ -110,4 +109,3 @@ Rules engine for cloud security, cost optimization, and governance, DSL in yaml 
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/190/notes/) to see what didn't make it to the newsletter.
 
-{{< amazon >}}

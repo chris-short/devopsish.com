@@ -14,7 +14,6 @@ title = "DevOps'ish 189 Notes"
 
 ## Notes
 
-{{< sib_gdpr >}}
 
 [Who was dumb enough to invest $1.75 billion in Quibi? | The Business of Business](https://media.thinknum.com/articles/Quibi-investors-katzenberg-whitman-slim-disney-google-goldman-sachs/)
 
@@ -76,4 +75,3 @@ title = "DevOps'ish 189 Notes"
 
 [Waypoint. A couple of weeks ago, I saw a demo of… | by Cindy Sridharan | Oct, 2020 | Medium](https://copyconstruct.medium.com/waypoint-3f00b11da4a)
 
-{{< amazon >}}

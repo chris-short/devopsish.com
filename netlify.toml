@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "curl -L https://sibforms.com/forms/end-form/build/main.js -o static/js/main.js && hugo --gc --minify"
+command = "curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js -o static/js/form-recaptcha.js && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js -o static/js/form-embed.js && hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.56.3"
@@ -8,14 +8,14 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "git submodule update --rebase --remote && curl -L https://sibforms.com/forms/end-form/build/main.js -o static/js/main.js && hugo --gc --minify --enableGitInfo"
+command = "git submodule update --rebase --remote && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js -o static/js/form-recaptcha.js && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js -o static/js/form-embed.js && hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
 HUGO_VERSION = "0.56.3"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "git submodule update --rebase --remote && curl -L https://sibforms.com/forms/end-form/build/main.js -o static/js/main.js && hugo -v --gc -DF -b $DEPLOY_PRIME_URL"
+command = "git submodule update --rebase --remote && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js -o static/js/form-recaptcha.js && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js -o static/js/form-embed.js && hugo -v --gc -DF -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.56.3"
 # Skip all post processing in deploy previews,
@@ -24,7 +24,7 @@ HUGO_VERSION = "0.56.3"
   skip_processing = true
 
 [context.branch-deploy]
-command = "git submodule update --rebase --remote && curl -L https://sibforms.com/forms/end-form/build/main.js -o static/js/main.js && hugo -v --gc -DF -b $DEPLOY_PRIME_URL"
+command = "git submodule update --rebase --remote && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js -o static/js/form-recaptcha.js && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js -o static/js/form-embed.js && hugo -v --gc -DF -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.56.3"
 

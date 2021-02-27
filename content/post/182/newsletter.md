@@ -90,4 +90,3 @@ Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kube
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/182/notes/) to see what didn't make it to the newsletter.
 
-{{< amazon >}}

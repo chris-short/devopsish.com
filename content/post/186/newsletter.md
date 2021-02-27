@@ -110,4 +110,3 @@ Disk Usage/Free Utility
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/186/notes/) to see what didn't make it to the newsletter.
 
-{{< amazon >}}

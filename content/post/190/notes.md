@@ -14,7 +14,6 @@ title = "DevOps'ish 190 Notes"
 
 ## Notes
 
-{{< sib_gdpr >}}
 
 [On pronouns and corrections — Ryn Daniels](https://www.ryn.works/blog/on-pronouns-and-corrections)
 
@@ -88,4 +87,3 @@ title = "DevOps'ish 190 Notes"
 
 [Apache Kafka on Kubernetes with Strimzi - Part 3: Monitoring our Strimzi Kafka Cluster with Prometheus and Grafana - Sina Nourian](https://snourian.com/kafka-kubernetes-strimzi-part-3-monitoring-strimzi-kafka-with-prometheus-grafana/)
 
-{{< amazon >}}

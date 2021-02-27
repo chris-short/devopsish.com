@@ -113,4 +113,3 @@ V attempts to answer, "Fast compilation, Simplicity & maintainability, Great per
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/183/notes/) to see what didn't make it to the newsletter.
 
-{{< amazon >}}

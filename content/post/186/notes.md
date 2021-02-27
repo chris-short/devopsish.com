@@ -25,5 +25,3 @@ title = "DevOps'ish 186 Notes"
 [Check website privacy with Blacklight - The Washington Post](https://www.washingtonpost.com/technology/2020/09/25/privacy-check-blacklight/)
 
 [Computer Stuff They Didn't Teach You - YouTube](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr)
-
-{{< amazon >}}

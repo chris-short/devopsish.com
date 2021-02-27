@@ -106,4 +106,3 @@ Ansible automation to have a KUBErnetes cluster INITialized as soon as possible.
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/184/notes/) to see what didn't make it to the newsletter.
 
-{{< amazon >}}
