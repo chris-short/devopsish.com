@@ -19,7 +19,6 @@ Speaking of live streaming. When we look back at 2020, it seems like live stream
 
 Want to see your organization in DevOps'ish? Review the [newsletter sponsor](https://devopsish.com/sponsor/) page for all the details. Give the [DevOps'ish Sponsorship Prospectus](https://devopsi.sh/prospectus) a gander if you need help convincing your marketing team they should spend. *SPONSORED*
 
-{{< sib_gdpr >}}
 
 ## People
 
@@ -106,4 +105,3 @@ A Kubernetes operator to sync secrets from AWS Secrets Manager
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/189/notes/) to see what didn't make it to the newsletter.
 
-{{< amazon >}}

@@ -92,6 +92,4 @@ title = "DevOps'ish 188 Notes"
 
 [What I Learned from DevSecOps Leaders in a High Tech World](https://blog.sonatype.com/what-i-learned-from-devsecops-leaders-in-a-high-tech-world)
 
-{{< sib_gdpr >}}
 
-{{< amazon >}}

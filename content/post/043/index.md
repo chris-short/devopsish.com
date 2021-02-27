@@ -125,4 +125,3 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 >
 > — Jessie Frazelle (@jessfraz) September 28, 2017
 
-{{< amazon >}}

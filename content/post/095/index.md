@@ -128,4 +128,3 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 > 
 > — Jessie Frazelle (@jessfraz) September 26, 2018
 
-{{< amazon >}}

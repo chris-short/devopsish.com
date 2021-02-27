@@ -117,4 +117,3 @@ Remote shell into ephemeral environments 🐚 🦀
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/187/notes/) to see what didn't make it to the newsletter.
 
-{{< amazon >}}

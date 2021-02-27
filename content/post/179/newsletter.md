@@ -84,4 +84,3 @@ A solid start. A few more folks contributing and this is gold.
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/179/notes/) to see what didn't make it to the newsletter.
 
-{{< amazon >}}

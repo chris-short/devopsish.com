@@ -103,4 +103,3 @@ A little something for my network engineering buddies out there. You know I stil
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/181/notes/) to see what didn't make it to the newsletter.
 
-{{< amazon >}}

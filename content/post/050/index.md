@@ -120,4 +120,3 @@ This post chronicles a mobile app development team's journey to continuous deliv
 > 
 > — Jessie Frazelle (@jessfraz) November 14, 2017
 
-{{< amazon >}}

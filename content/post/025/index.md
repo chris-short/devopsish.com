@@ -70,4 +70,3 @@ Red Hat makes another open source philosophy acquisition and I love it! [Codenvy
 
 Scott McCarty shows us [how to maintain a technical background while climbing the ladder to success escalator style](https://opensource.com/article/17/5/how-stay-technical-while-becoming-business-savvy).
 
-{{< amazon >}}
