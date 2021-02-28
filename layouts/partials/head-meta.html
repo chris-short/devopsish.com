@@ -44,7 +44,7 @@
     <link href="/css/style.css" rel="stylesheet" type="text/css"{{ if not .Site.Params.disable_sri }} integrity="{{ .Site.Data.sri.style}}" crossorigin="anonymous"{{ end }}>
 
   {{- with .Site.Params.favicon }}
-    <link href="{{ . | absURL }}" rel="icon" type="image/x-icon" />
+    <link href="{{ . | relURL }}" rel="icon" type="image/x-icon" />
     <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
