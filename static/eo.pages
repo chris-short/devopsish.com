@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>EmailOctopus Landing Page for DevOps'ish</title>
+	<meta name="description" content="You won't be here long">
+	<script>
+		// Simulate an HTTP redirect:
+        window.location.replace("https://devopsish.com");
+	</script>
+</head>
+<body>
+	<p>🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️</p>
+</body>
+</html>
