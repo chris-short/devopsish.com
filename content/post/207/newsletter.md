@@ -3,19 +3,19 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-02-28T07:00:00Z
-description = ""
+description = "Solarwinds, 4 hour a week Kubernetes maintainer, mischievous Mailchimp, secrets management, Digital Ocean IPO, Sysdig, BOOP, Flux, and More"
 draft = false
 slug = "207"
-tags = []
-title = "DevOps'ish 207: "
+tags = ["Kubernetes", "cloud", "time", "DevOps", "Cloud Native", "software", "open source", "secrets management", "development", "CNCF", "DNS", "LaunchDarkly", "git", "Mailchimp", "Raindrop.io", "EmailOctopus", "Digital Ocean", "Google", "JUST", "vulnerabilities", "Citi", "Microsoft", "IBM", "Sysdig", "kernel", "eBPF", "boop", "Flux", "GitOps", "security", "automation", "hybrid cloud", "developer"]
+title = "DevOps'ish 207: Solarwinds, 4 hour a week Kubernetes maintainer, mischievous Mailchimp, secrets management, Digital Ocean IPO, Sysdig, BOOP, Flux, and More"
 
 +++
 
 DevOps'ish is in a state of spring cleaning. First, I've found a tool that I like more than Pocket to bookmark and save pages in [Raindrop.io](https://raindrop.io/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish). All the Recommended Reads automation is now pulling from Raindrop.io. Then three Zapier rules ferry everything off to the appropriate places. I made that transition midweek.
 
-Next is the newsletter service itself. I've been unhappy with the current provider ever since doing the never-easy switch from Mailchimp (how forward-thinking that was) to the current provider. I've had more tickets opened than newsletters sent; enough was enough. Last week, I discovered [EmailOctopus](https://emailoctopus.com/?urli=n6msM). I have been researching it in my spare time. Yesterday was a day off for me, so I started the switch to making DevOps'ish a Google Workplace domain and use EmailOctopus to send newsletters. It takes a lot more work than it should to get and send an email than it used to, but it'll be worth it.
+Next is the newsletter service itself. I've been unhappy with the current provider ever since doing the never-easy switch from Mailchimp (how forward-thinking that was) to the current provider. I've had more tickets opened than newsletters sent; enough was enough. Last week, I discovered [**EmailOctopus**](https://emailoctopus.com/?urli=n6msM). I have been researching it in my spare time. Yesterday was a day off for me, so I started the switch to making DevOps'ish a Google Workplace domain and use EmailOctopus to send newsletters. It takes a lot more work than it should to get and send an email than it used to, but it'll be worth it.
 
-The [DevOps'ish Solarwinds supply chain compromise Index](https://devopsish.com/solarwinds-supply-chain-compromise/) has many updates this week.
+The [DevOps'ish Solarwinds supply chain compromise Index](https://devopsish.com/solarwinds-supply-chain-compromise/) has many updates this week. Including the former Solarwinds CEO blaming an intern for the mistake and a congressional hearing on the matter.
 
 ## People
 
@@ -32,7 +32,7 @@ Do you find that your engineers spend too much time creating and maintaining sta
 "J-U-S-T. Those four characters can be significantly detrimental to a software development process. In this blog post, I'll describe how the 'just keyword' can affect team's communication and how to avoid misusing it on Slack."
 
 [Mailchimp employees have complained about inequality for years — is anyone listening?](https://www.theverge.com/22300931/mailchimp-company-culture-discrimination-unequal-pay?scrolla=5eb6d68b7fedc32c19ef33b4)  
-And the [CEO admitted they have, "work to do"](https://www.businessinsider.com/mailchimp-ceo-ben-chestnut-email-pay-equity-discrimination-kelly-ellis-2021-2). That might be an understatement.
+And the [CEO admitted they have "work to do."](https://www.businessinsider.com/mailchimp-ceo-ben-chestnut-email-pay-equity-discrimination-kelly-ellis-2021-2) That might be an understatement.
 
 [#hugops hope to spread empathy in tech](https://www.protocol.com/enterprise/oral-history-hugops)  
 "When something breaks on the internet, the people who know how to fix it just want to give their colleagues a hug — even if they're a rival."
@@ -46,13 +46,13 @@ An interesting assessment. What are you using for secrets management in your env
 Kubernetes misconfiguration is the #1 cloud vulnerability. Find and fix K8s misconfigurations and vulnerabilities with a pull request. Get started with Snyk for free.
 
 [Follow the CAPEX: Digital Ocean](https://www.platformonomics.com/2021/02/follow-the-capex-digital-ocean/)  
-Digital Ocean is going public. DO is a great cloud for a lot of use cases. I do one thing running in DO for personal use. I but a lot of other folks do too.
+Digital Ocean is going public. DO is a great cloud for many use cases. I do one thing running in DO for personal use. I bet other folks do too.
 
 [Please do not put IP addresses into DNS MX records](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)  
 Don't violate RFC 1035... Just don't.
 
 [Some quick thoughts on Citi's $900M OOPSie](https://surfingcomplexity.blog/2021/02/19/some-quick-thoughts-on-citis-900m-oopsie/)  
-"Citi accidentally transferred $900 million dollars to various hedge funds. Citi then asked the funds to reverse the mistaken transfer, and while some of the funds did, others said, “no, it's ours, and we're keeping it”, and Citi took them to court, and lost." This story is wild. It's [a checkbox away from disaster](https://www.bloomberg.com/opinion/articles/2021-02-17/citi-can-t-have-its-900-million-back) waiting to happen; which makes me wonder how it hasn't happened before.
+"Citi accidentally transferred $900 million dollars to various hedge funds. Citi then asked the funds to reverse the mistaken transfer, and while some of the funds did, others said, 'no, it's ours, and we're keeping it,' and Citi took them to court, and lost." This story is wild. It's [a checkbox away from a disaster](https://www.bloomberg.com/opinion/articles/2021-02-17/citi-can-t-have-its-900-million-back) waiting to happen; which makes me wonder how it hasn't happened before.
 
 [Everything is broken, and it's okay](https://increment.com/reliability/failure-is-okay/)  
 "Accepting that imperfect things still work is fundamental to preventing failures from becoming catastrophes."
@@ -65,13 +65,13 @@ Don't violate RFC 1035... Just don't.
 **LaunchDarkly** is a feature management platform that empowers all teams to safely deliver and control software through feature flags. By separating code deployments from feature releases, LaunchDarkly enables you to deploy faster, reduce risk, and iterate continuously. Microsoft, IBM, Atlassian, and 1500+ organizations use LaunchDarkly to build, operate, and learn from their software. [Learn more](https://launchdarkly.com/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q1-newsletter) and start your free trial today!
 
 [Sysdig contributes Falco's kernel module, eBPF probe, and libraries to the CNCF](https://sysdig.com/blog/sysdig-contributes-falco-kernel-ebpf-cncf/)  
-"I'm excited to announce the contribution of the sysdig kernel module, eBPF probe, and libraries to the Cloud Native Computing Foundation."
+"I'm excited to announce the contribution of the Sysdig kernel module, eBPF probe, and libraries to the Cloud Native Computing Foundation."
 
 [Kubernetes Gives Us That for FREE](https://youtu.be/ZQrLinUOp3c)  
 It doesn't.
 
 [Boop](https://boop.okat.best/)  
-Brian Ketelsen mentioned Boop this week. It's going to save me a lot of time. Thanks, Brian.
+Brian Ketelsen mentioned Boop this week. It's going to save me a ton of time. Thanks, Brian.
 
 [🚨🚨 That's a lot of YAML 🚨🚨](https://noyaml.com/)  
 > Made with 💖 by <https://twitter.com/geoffreyhuntley> after one too many CustomResourceDefinitions
@@ -82,7 +82,7 @@ Brian Ketelsen mentioned Boop this week. It's going to save me a lot of time. Th
 [Free Windows 10 development virtual machines for HyperV, Parallels, VirtualBox, and VMWare](https://www.hanselman.com/blog/free-windows-10-development-virtual-machines-for-hyperv-parallels-virtualbox-and-vmware)  
 These are super useful to be aware of.
 
-[Four causes for ‘Zoom fatigue’ and their solutions](https://news.stanford.edu/2021/02/23/four-causes-zoom-fatigue-solutions/)
+[Four causes for ‘Zoom fatigue’ and their solutions](https://news.stanford.edu/2021/02/23/four-causes-zoom-fatigue-solutions/)  
 Meeting software has become a tool in everyone's toolbox. Whether they wanted it or not. Some good tips in this one.
 
 [A little tool to make DNS queries](https://jvns.ca/blog/2021/02/24/a-little-tool-to-make-dns-queries/)  
