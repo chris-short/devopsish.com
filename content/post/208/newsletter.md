@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-03-07T07:00:00Z
-description = ""
+description = "KubeCon problems, tech is the easy part, Okta eats Auth0 whole, Exchange vulns, Digital Ocean IPO, #100DaysOfKubernetes, and more"
 draft = false
 slug = "208"
-tags = []
-title = "DevOps'ish 208: "
+tags = ["Kubernetes", "cloud", "cloud native", "hybrid cloud", "KubeCon", "community", "DevOps", "exploit", "open source", "Digital Ocean", "Red Hat", "Kirsten Newcomer", "CNCF Ambassador", "software engineer"]
+title = "DevOps'ish 208: KubeCon problems, tech is the easy part, Okta eats Auth0 whole, Exchange vulns, Digital Ocean IPO, #100DaysOfKubernetes, and more"
 
 +++
 
@@ -30,7 +30,7 @@ Note: The [DevOps'ish Solarwinds supply chain compromise Index](https://devopsis
 ## People
 
 [Rookie coding mistake prior to Gab hack came from site’s CTO](https://arstechnica.com/gadgets/2021/03/rookie-coding-mistake-prior-to-gab-hack-came-from-sites-cto/)  
-Former Facebook software engineer turned CTO committing faulty code exposing right wing site's entire user base. Probably no impact to his employment I'd bet. That's a secure pipeline... NOT! 🤣🤣🤣
+A former Facebook software engineer turned CTO committing faulty code exposing right wing site’s entire user base. Probably no impact to his employment, I’d bet. That’s a secure pipeline… NOT! 🤣🤣🤣
 
 Go beyond observability hype and get into the specifics of what it means to have [Observability for Developers](https://www.honeycomb.io/guide-observability-for-developers-devopsish/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=guide-observability-for-developers-devopsish). Which data is actually useful to gather? How should you approach front-end services differently? What should you log and how? We show you what matters.
 
@@ -40,17 +40,18 @@ Ready to try it? [Sign up for free](https://ui.honeycomb.io/signup/?&utm_source=
 "But in the vast majority of our projects, the technological problem is not the most challenging aspect of the problem we face. When we work on  the technical solution, we often uncover non-technical problems that need to be collaboratively solved by 18F and the partners to ensure the project will be successful." Tech is easy, people are hard —Nirmal Metha
 
 [Senators call on FCC to quadruple base high-speed internet speeds](https://www.theverge.com/2021/3/4/22312065/fcc-highspeed-broadband-service-ajit-pai-bennet-angus-king-rob-portman)  
-Long overdue. I know my European readers might grouse at me but, the providers' capabilities vs. services provided are at a very high mismatch. This new standard would make innovation and access to knowledge far greater. Opposing this is pretty close to oppression in my book. The internet changed my life. Everyone should have that same opportunity.
+Long overdue. I know my European readers might grouse at me, but the providers’ capabilities and services provided are at a very high mismatch. This new standard would make innovation and access to knowledge far greater. Opposing this is pretty close to oppression in my book. The internet changed my life. Everyone should have that same opportunity.
 
 ['Screen access technology has existed for decades': Visually impaired man sues Dell over 'inaccessible' website](https://www.theregister.com/2021/03/05/giannaros_v_dell/)  
 Get with it folks. A11y matters a whole lot.
 
 [GPS jamming around Cyprus gives our air traffic controllers a headache, says Eurocontrol](https://www.theregister.com/2021/03/05/gps_jamming_eurocontrol/)
-Unbridaled control of enourmously powerful jamming equipment is make the air space around the eastern Mediterranean rather dangerous.
+Unbridled control of enormously powerful jamming equipment makes the air space around the eastern Mediterranean rather dangerous.
 
 ## Process
 
-[Okta acquires cloud identity startup Auth0 for $6.5B](https://techcrunch.com/2021/03/03/okta-acquires-cloud-identity-startup-auth0-for-6-5b/?guccounter=1)
+[Okta acquires cloud identity startup Auth0 for $6.5B](https://techcrunch.com/2021/03/03/okta-acquires-cloud-identity-startup-auth0-for-6-5b/?guccounter=1)  
+"As Okta announced earnings today after the bell, it revealed that it’s buying cloud identity startup Auth0 for a hefty $6.5 billion. The company had a valuation of $1.92 billion when it raised $120 million led by Salesforce Ventures last July."
 
 [Never wait for a staging environment again](https://releaseapp.io/?utm_source=devopsish&utm_medium=email&utm_content=title&utm_campaign=20210228) 👩‍💻🧑‍💻👨‍💻👩‍💻  
 Do you find that your engineers spend too much time creating and maintaining staging environments and yet, there never seems to be enough environments to go around? A shortage of environments is a top driver of low developer productivity and often impacts an engineering team's ability to ship features on time. With Release, you can get a full instance of your app with all of its services with every pull request. You'll never have to wait around for staging environments again. 💡 [Get started now](https://releaseapp.io/?utm_source=devopsish&utm_medium=email&utm_content=get-started&utm_campaign=20210228) 💡 *SPONSORED*
@@ -72,7 +73,8 @@ Congrats to my Digital Ocean friends. Always one of my fav providers.
 
 ## Tools
 
-[#100DaysOfKubernetes](https://devops.anaisurl.com/kubernetes): Watch the introductory video to learn more about the goal and my idea behind #100DaysOfKubernetes
+[#100DaysOfKubernetes](https://devops.anaisurl.com/kubernetes)  
+Watch the introductory video to learn more about the goal and Anaïs Urlichs' idea behind #100DaysOfKubernetes
 
 [[Free Book]](https://launchdarkly.com/the-definitive-guide-to-feature-management/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q1-newsletter) Definitive Guide to Feature Management. Ship Fast. Rest Easy. LaunchDarkly. *SPONSORED*
 
@@ -89,7 +91,7 @@ This is the kind of knowledge that got me my first job in the real world. This s
 "Have you ever listened to what your cluster is telling you? Like, really listened?" Also, is your cluster running? Well you better go get it!
 
 [Development on Windows is Painful](https://christine.website/blog/windows-pain-2021-03-03)  
-Hell yes it is. The hoops and loops are all pretty old too which means feedback from devs isn't entering the product properly.
+Hell yes, it is. The hoops and loops are all pretty old, which means feedback from devs isn’t entering the product appropriately.
 
 [AdguardTeam/cname-trackers: This repository contains a list of popular CNAME trackers](https://github.com/AdguardTeam/cname-trackers)  
 At this point, you should setup a process to start sinkholing these domains. I should point out [EmailOctopus](https://emailoctopus.com/?urli=n6msM) (DevOps'ish's new newsletter service) requested I create a tracking domain. I did, passed their tests, then ripped it out. Your privacy is more important than this newsletter.
