@@ -14,6 +14,22 @@ title = "DevOps'ish 209 Notes"
 
 ## Notes
 
+[Amazon's AWS 15 year anniversary; S3's cloud revolution - Protocol — The people, power and politics of tech](https://www.protocol.com/enterprise/amazon-aws-s3-15-years)
+
+[Description of the security update for Microsoft Exchange Server 2019, 2016, and 2013: March 2, 2021 (KB5000871)](https://support.microsoft.com/en-us/topic/description-of-the-security-update-for-microsoft-exchange-server-2019-2016-and-2013-march-2-2021-kb5000871-9800a6bb-0a21-4ee7-b9da-fa85b3e1d23b)
+
+[No sign of Exchange-related ransomware hitting UK orgs, claims NCSC as it urges admins to scan for compromises • The Register](https://www.theregister.com/2021/03/12/no_exchange_ransomware_uk_ncsc_hafnium/)
+
+[Exchange servers first compromised by Chinese hackers hit with ransomware | Ars Technica](https://arstechnica.com/gadgets/2021/03/ransomware-gangs-hijack-7000-exchange-servers-first-hit-by-chinese-hackers/)
+
+[Hackers dropping DearCry ransomware using Exchange Server exploit](https://www.hackread.com/hackers-dearcry-ransomware-exchange-server-exploit/)
+
+[Facebook Made Playbook To Respond To Polarization Accusations](https://www.buzzfeednews.com/article/ryanmac/facebook-execs-polarization-playbook)
+
+[Rust vs. Go: Why They’re Better Together – The New Stack](https://thenewstack.io/rust-vs-go-why-theyre-better-together/)
+
+[Klustered (Part IV) | Rawkode Live - YouTube](https://www.youtube.com/watch?v=Cp6zvBIo5KM)
+
 [Researchers warn of a surge in cyber attacks against Microsoft ExchangeSecurity Affairs](https://securityaffairs.co/wordpress/115532/hacking/microsoft-exchange-servers-hacks.html?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-exchange-servers-hacks)
 
 [Google Online Security Blog: A Spectre proof-of-concept for a Spectre-proof web](https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html?m=1)

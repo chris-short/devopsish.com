@@ -39,6 +39,6 @@ TOOLS
 
 ## DevOps'ish Tweet of the Week
 
-[![stephenaugustus on Twitter: "I'm trying to say this in the nicest way possible, but seriously, what is wrong with some of you? I've seen several tweets with people being salty about getting KubeCon talks rejected and gotten multiple reports about Program Committee members being accosted in DMs or meetings."](/images/209-devopsish-tweet-of-the-week.png)](https://twitter.com/stephenaugustus/status/1366823310873436160)
+[![K8sContributors on Twitter: "Kubernetes crossed 100,000 issues/PRs a few hours ago! That is 100,000 times the project has been improved by contributors like you. Thank you all for contributing :tada:"](/images/209-devopsish-tweet-of-the-week.png)](https://twitter.com/K8sContributors/status/1369304454198071300)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/209/notes/) to see what didn't make it to the newsletter but are still worth your time.
