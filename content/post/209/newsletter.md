@@ -18,6 +18,8 @@ In a first, there are two DevOps'ish Indexes in flight right now. I did not want
 
 What a time to be alive.
 
+Also, DevOps'ish is 101 subscribers from officially passing the 5,000 subscribers mark. This is a critical point in a newsletter's life. I'd be very appreciative if you forwarded this to a friend, [tweeted](https://twitter.com/intent/tweet?text=I%20read%20DevOps'ish%20and%20you%20should%20too.%20Subscribe%20now!%20devopsish.com/subscribe%20%23devopsish%20%23DevOps%20%23Kubernetes) about the newsletter, or posted something on [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdevopsish.com%2Fsubscribe%2F&title=Subscribe%2Cto%2CDevOps'ish&summary=Subcribe%2C+to%2CDevOps'ish!&source=devopsish). Thank you!
+
 ## People
 
 [Allan McDonald, Who Refused To Approve Shuttle Challenger Launch, Dead At 83](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)  
