@@ -13,7 +13,7 @@ title = "DevOps'ish 209: Hafnium, dhcpcd needs new maintainer, Beat the Systemic
 
 In a first, there are two DevOps'ish Indexes in flight right now. I did not want this day to ever happen but here we are. Solarwinds and Microsoft both have their hands full. DevOps'ish has your back. Here's all the data points for both incidents so far.
 
-* *NEW* [DevOps'ish Microsoft Exchange Hafnium Compromise](/microsoft-exchange-hafnium-compromise/)
+* *NEW* [DevOps'ish Microsoft Exchange Hafnium Compromise Index](/microsoft-exchange-hafnium-compromise-index/)
 * [DevOps’ish Solarwinds supply chain compromise Index](/solarwinds-supply-chain-compromise/)
 
 What a time to be alive.
