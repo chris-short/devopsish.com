@@ -3,17 +3,17 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-03-14T07:00:00Z
-description = ""
+description = "Hafnium, dhcpcd needs new maintainer, Beat the Systemic Racism of IT, Google HR issues, OVH disaster, git vulnerability, sigstore and more"
 draft = false
 slug = "209"
-tags = []
-title = "DevOps'ish 209: "
+tags = ["Kubernetes", "cloud", "DevOps", "cloud native", "source control", "Git", "Hafnium", "tech", "Microsoft Exchange", "etcd", "code", "engineering", "underrepresented", "AWS", "control plane", "open source", "Hafnium compromise", "AWS", "permissions", "pandemic devastating effect", "Kim Crayton", "Amazon", "Klustered", "Challenger", "dhcpcd", "DevRel", "Antiracist", "Google", "OVH", "KubeCon", "Intel", "sigstore", "Linkerd"]
+title = "DevOps'ish 209: Hafnium, dhcpcd needs new maintainer, Beat the Systemic Racism of IT, Google HR issues, OVH disaster, git vulnerability, sigstore and more"
 
 +++
 
 In a first, there are two DevOps'ish Indexes in flight right now. I did not want this day to ever happen but here we are. Solarwinds and Microsoft both have their hands full. DevOps'ish has your back. Here's all the data points for both incidents so far.
 
-* [DevOps'ish Microsoft Exchange Hafnium Compromise](/microsoft-exchange-hafnium-compromise/)
+* *NEW* [DevOps'ish Microsoft Exchange Hafnium Compromise](/microsoft-exchange-hafnium-compromise/)
 * [DevOps’ish Solarwinds supply chain compromise Index](/solarwinds-supply-chain-compromise/)
 
 What a time to be alive.
@@ -24,6 +24,9 @@ What a time to be alive.
 "His job was to sign and submit an official form. Sign the form, he believed, and he'd risk the lives of the seven astronauts set to board the spacecraft the next morning. Refuse to sign, and he'd risk his job, his career and the good life he'd built for his wife and four children.
 
 'And I made the smartest decision I ever made in my lifetime,' McDonald told me. 'I refused to sign it. I just thought we were taking risks we shouldn't be taking.'"
+
+[dhcpcd will need a new maintainer](https://roy.marples.name/archives/dhcpcd-discuss/0003457.html)  
+"I have been dealing with cancer for some time and sadly the treatment has not worked. My life expentancy is now fairly short." I'm deeply saddened to read this news.
 
 Go beyond observability hype and get into the specifics of what it means to have [Observability for Developers](https://www.honeycomb.io/guide-observability-for-developers-devopsish/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=guide-observability-for-developers-devopsish). Which data is actually useful to gather? How should you approach front-end services differently? What should you log and how? We show you what matters.
 
@@ -64,7 +67,6 @@ Do you find that your engineers spend too much time creating and maintaining sta
 
 [Google Online Security Blog: A Spectre proof-of-concept for a Spectre-proof web](https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html)  
 Oh fun!
-
 
 [A look inside the KubeCon + CloudNativeCon schedule selection process](https://www.cncf.io/blog/2021/03/08/a-look-inside-the-kubecon-cloudnativecon-schedule-selection-process/)  
 "As part of our commitment to transparency within the cloud native community, we are providing an inside look into the work that goes on behind the scenes to bring the KubeCon + CloudNativeCon schedule to life. Note that every conference we put together has a post-event conference transparency report that includes a lot of the information we cover below. We are committed to improving the process after every conference."
