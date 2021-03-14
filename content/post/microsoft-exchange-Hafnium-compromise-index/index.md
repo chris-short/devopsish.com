@@ -5,11 +5,14 @@ categories = ["Indexes"]
 date = 2021-03-14T07:00:00Z
 description = "Coverage of the Microsoft Exchange Hafnium compromise from around the web"
 draft = false
-slug = "microsoft-exchange-hafnium-compromise"
+slug = "microsoft-exchange-hafnium-compromise-index"
 tags = ["Microsoft", "Microsoft Exchange", "Microsoft Exchange Server", "Hafnium", "compromise", "National Security Council", "security response center", "security", "compromise", "cloud", "servers", "attacks", "Chinese hackers", "vulnerabilities"]
-title = "DevOps'ish Microsoft Exchange Hafnium Compromise"
-image = "/microsoft-exchange-hafnium-compromise/Microsoft_Exchange_logo.png"
+title = "DevOps'ish Microsoft Exchange Hafnium Compromise Index"
+image = "/microsoft-exchange-hafnium-compromise-index/Microsoft_Exchange_logo.png"
 imagealt = "Microsoft Exchange"
+aliases = [
+    "/microsoft-exchange-hafnium-compromise/"
+]
 
 +++
 
