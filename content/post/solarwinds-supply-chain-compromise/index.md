@@ -15,6 +15,10 @@ imagealt = "Solarwinds"
 
 A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply chain compromise. Coverage includes official statements and filings, accredited media coverage, industry analyisis, and noteworthy blogs, digital media, and other mediums as deemed worthwhile.
 
+Note: All links shared here have gone through the normal DevOps'ish editorial and curation process.
+
+To add content for review, [issue a pull request against this file](https://github.com/chris-short/devopsish.com/blob/main/content/post/solarwinds-supply-chain-compromise/index.md) in GitHub.
+
 ## Official Statements
 
 * [Security Advisory | SolarWinds](https://www.solarwinds.com/securityadvisory)
@@ -111,5 +115,3 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Injecting a Backdoor into SolarWinds Orion - Schneier on Security](https://www.schneier.com/blog/archives/2021/01/injecting-a-backdoor-into-solarwinds-orion.html)
 * [Behind the Scenes of the SunBurst Attack – The New Stack](https://thenewstack.io/behind-the-scenes-of-the-sunburst-attack/)
 * [Sunshuttle, the fourth malware allegedly linked to SolarWinds hackSecurity Affairs](https://securityaffairs.co/wordpress/115291/malware/sunshuttle-backdoor-solarwinds-hack.html)
-
-Note: All links shared here have gone through the normal DevOps'ish editorial and curation process.

@@ -20,6 +20,8 @@ A one-stop shop for opinion, analysis, and/or coverage of the Microsoft Exchange
 
 Note: All links shared here have gone through the normal DevOps'ish editorial and curation process.
 
+To add content for review, [issue a pull request against this file](https://github.com/chris-short/devopsish.com/blob/main/content/post/microsoft-exchange-Hafnium-compromise-index/index.md) in GitHub.
+
 ## Official Statements
 
 * [Description of the security update for Microsoft Exchange Server 2019, 2016, and 2013: March 2, 2021 (KB5000871)](https://support.microsoft.com/en-us/topic/description-of-the-security-update-for-microsoft-exchange-server-2019-2016-and-2013-march-2-2021-kb5000871-9800a6bb-0a21-4ee7-b9da-fa85b3e1d23b)
