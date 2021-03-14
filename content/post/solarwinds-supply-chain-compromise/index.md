@@ -92,6 +92,7 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [SolarWinds Attackers Lurked for 'Several Months' in ...](https://www.darkreading.com/threat-intelligence/solarwinds-attackers-lurked-for-several-months-in-fireeyes-network/d/d-id/1340239?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple)
 * [SolarWinds, Microsoft, FireEye, and CrowdStrike defend conduct in major breach | VentureBeat](https://venturebeat.com/2021/02/24/solarwinds-microsoft-fireeye-and-crowdstrike-defend-conduct-in-major-breach/)
 * [Recovering from the SolarWinds hack could take 18 months | MIT Technology Review](https://www.technologyreview.com/2021/03/02/1020166/solarwinds-brandon-wales-hack-recovery-18-months/)
+* [Chinese hackers targeted SolarWinds customers in parallel with Russian op | Ars Technica](https://arstechnica.com/gadgets/2021/03/chinese-hackers-targeted-solarwinds-customers-in-parallel-with-russian-op/)
 
 ## Blogs, Newsletters, Digital Media, etc.
 
@@ -111,4 +112,4 @@ A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply 
 * [Behind the Scenes of the SunBurst Attack – The New Stack](https://thenewstack.io/behind-the-scenes-of-the-sunburst-attack/)
 * [Sunshuttle, the fourth malware allegedly linked to SolarWinds hackSecurity Affairs](https://securityaffairs.co/wordpress/115291/malware/sunshuttle-backdoor-solarwinds-hack.html)
 
-Note: All links shared here have gone through the normal DevOps'ish editioral and curation process.
+Note: All links shared here have gone through the normal DevOps'ish editorial and curation process.
