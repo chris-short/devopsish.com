@@ -6,8 +6,8 @@ date = 2021-03-21T07:00:00Z
 description = ""
 draft = false
 slug = "210"
-tags = []
-title = "DevOps'ish 210: "
+tags = ["cloud", "Cloud Native", "Kubernetes", "DevOps", "DevSecOps", "AWS", "burnout", "open source", "AWS", "feature management", "AWS cost optimization", "F5 BIG-IP", "REST API vulnerabilities", "substack"]
+title = "DevOps'ish 210: Net Neutrality, Burnout, DevSecOps, Kubernetes galore, SubStack is bull, and more"
 
 +++
 
