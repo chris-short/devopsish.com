@@ -31,6 +31,8 @@ To add content for review, [issue a pull request against this file](https://gith
 * [Multiple Security Updates Released for Exchange Server – updated March 12, 2021 – Microsoft Security Response Center](https://msrc-blog.microsoft.com/2021/03/02/multiple-security-updates-released-for-exchange-server/)
 * "[Patching and mitigation is not remediation if the servers have already been compromised. It is essential that any organization with a vulnerable server take immediate measures to determine if they were already targeted.](https://twitter.com/whnsc/status/1368275202883411975)" —National Security Council Twitter
 * [Guidance on Remediating Networks Affected by the SolarWinds and Active Directory/M365 Compromise | CISA](https://us-cert.cisa.gov/ncas/current-activity/2021/03/09/guidance-remediating-networks-affected-solarwinds-and-active)
+* [CSS-Exchange/Security at main · microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange/tree/main/Security)
+* [Background Press Call by Senior Administration Officials on the Administration's Response to the Microsoft and SolarWinds Intrusions | The White House](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/12/background-press-call-by-senior-administration-officials-on-the-administrations-response-to-the-microsoft-and-solarwinds-intrusions/)
 
 ## Press
 
@@ -44,6 +46,8 @@ To add content for review, [issue a pull request against this file](https://gith
 * [Chinese Hacking Spree Hit an ‘Astronomical’ Number of Victims | WIRED](https://www.wired.com/story/china-microsoft-exchange-server-hack-victims/)
 * [There’s a vexing mystery surrounding the 0-day attacks on Exchange servers | Ars Technica](https://arstechnica.com/gadgets/2021/03/security-unicorn-exchange-server-0-days-were-exploited-by-6-apts/)
 * [Critical 0-day that targeted security researchers gets a patch from Microsoft | Ars Technica](https://arstechnica.com/gadgets/2021/03/microsoft-patches-critical-0day-that-north-korea-used-to-target-researchers/)
+* [White House task force met with private sector to discuss Microsoft software vulnerabilities | VentureBeat](https://venturebeat.com/2021/03/18/white-house-task-force-met-with-private-sector-to-discuss-microsoft-software-vulnerabilities/)
+* [Microsoft Exchange Server hacks ‘doubling’ every two hours | ZDNet](https://www.zdnet.com/article/microsoft-exchange-server-hacks-doubling-every-two-hours/)
 
 ## Industry
 
@@ -52,9 +56,11 @@ To add content for review, [issue a pull request against this file](https://gith
 * [Microsoft was warned months ago — now, the Hafnium hack has grown to gigantic proportions - The Verge](https://www.theverge.com/2021/3/8/22319934/microsoft-hafnium-hack-exchange-server-email-flaw-white-house)
 * [US National Security Council urges review of Exchange Servers in wake of Hafnium attack • The Register](https://www.theregister.com/2021/03/08/us_national_security_council_says/)
 * [The Microsoft Exchange Server mega-hack – what you need to know – HOTforSecurity](https://hotforsecurity.bitdefender.com/blog/the-microsoft-exchange-server-mega-hack-what-you-need-to-know-25442.html)
+* [More hacking groups join Microsoft Exchange attack frenzy](https://www.bleepingcomputer.com/news/security/more-hacking-groups-join-microsoft-exchange-attack-frenzy/)
 
 ## Blogs, Newsletters, Digital Media, etc.
 
 * [Researchers warn of a surge in cyber attacks against Microsoft ExchangeSecurity Affairs](https://securityaffairs.co/wordpress/115532/hacking/microsoft-exchange-servers-hacks.html)
 * [Microsoft Exchange Server Attack Escalation Prompts Patching Panic](https://www.darkreading.com/attacks-breaches/microsoft-exchange-server-attack-escalation-prompts-patching-panic/d/d-id/1340349)
 * [Microsoft updated MSERT to detect web shells used in attacks against Microsoft Exchange installsSecurity Affairs](https://securityaffairs.co/wordpress/115388/hacking/microsoft-msert-microsoft-exchange-attacks.html)
+* [Microsoft releases one-click Exchange On-Premises Mitigation Tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-one-click-exchange-on-premises-mitigation-tool/)
