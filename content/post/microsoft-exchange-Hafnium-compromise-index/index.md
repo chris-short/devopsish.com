@@ -48,6 +48,7 @@ To add content for review, [issue a pull request against this file](https://gith
 * [Critical 0-day that targeted security researchers gets a patch from Microsoft | Ars Technica](https://arstechnica.com/gadgets/2021/03/microsoft-patches-critical-0day-that-north-korea-used-to-target-researchers/)
 * [White House task force met with private sector to discuss Microsoft software vulnerabilities | VentureBeat](https://venturebeat.com/2021/03/18/white-house-task-force-met-with-private-sector-to-discuss-microsoft-software-vulnerabilities/)
 * [Microsoft Exchange Server hacks ‘doubling’ every two hours | ZDNet](https://www.zdnet.com/article/microsoft-exchange-server-hacks-doubling-every-two-hours/)
+* [Exchange Server attacks: Microsoft shares intelligence on post-compromise activities | ZDNet](https://www.zdnet.com/article/exchange-server-attacks-microsoft-shares-intelligence-on-post-compromise-activities/)
 
 ## Industry
 
@@ -64,3 +65,4 @@ To add content for review, [issue a pull request against this file](https://gith
 * [Microsoft Exchange Server Attack Escalation Prompts Patching Panic](https://www.darkreading.com/attacks-breaches/microsoft-exchange-server-attack-escalation-prompts-patching-panic/d/d-id/1340349)
 * [Microsoft updated MSERT to detect web shells used in attacks against Microsoft Exchange installsSecurity Affairs](https://securityaffairs.co/wordpress/115388/hacking/microsoft-msert-microsoft-exchange-attacks.html)
 * [Microsoft releases one-click Exchange On-Premises Mitigation Tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-one-click-exchange-on-premises-mitigation-tool/)
+* [92% of all on-premises Microsoft Exchange servers exposed online affected by the ProxyLogon vulnerabilities are now patched](https://securityaffairs.co/wordpress/115896/security/microsoft-exchange-patched.html)
