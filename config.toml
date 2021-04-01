@@ -33,7 +33,7 @@ disableKinds = ["RSS"]
   cookie_consent_info_url = "/cookie-policy/"
 
   [params.sidebar]
-    About = "DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador [Chris Short](https://chrisshort.net/)."
+    About = "DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador [Chris Short](https://linktr.ee/TheChrisShort)."
     num_recent_posts = 8
 
   [params.stats]
