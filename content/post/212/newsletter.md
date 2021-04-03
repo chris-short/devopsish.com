@@ -11,7 +11,13 @@ title = "DevOps'ish 212: "
 
 +++
 
-INTRO
+An old headline rears its ugly head again this week. The company that now owns the remnants of [The SCO Group](https://en.wikipedia.org/wiki/SCO_Group) (whose claim to fame was [going bankrupt in suing Linux distro makers](https://en.wikipedia.org/wiki/Timeline_of_SCO%E2%80%93Linux_disputes) until their dying breath), Xinuos, has decided to try this strategy out for itself in hopes of a different outcome. [Xinuos is suing IBM and Red Hat](https://www.xinuos.com/xinuos-sues-ibm-and-red-hat/) for using Linux.
+
+Talk about bringing back ancient memories of trying to keep up with a new and essential thing to me back in the early 2000s: Linux. Back then, getting your hands on Linux was a challenge, and Linux users were easy marks, according to SCO. Back in those days, [SCO even said it would go after individual end-users](https://www.infoworld.com/article/2666717/sco-to-sue-linux-user.html). While it made Linux seem a little untrustworthy at the time to the outsider, insiders knew this was all bullshit. IBM was doubling and tripling down on Linux, and Red Hat was a public company. Yes, there felt like a potential disaster could happen with one lousy court ruling. But that day never came. It was a wilder world back then.
+
+Now Xinuos looks to walk in The SCO Group’s bankruptcy-inducing tactics or threaten and harass Linux users. We knew better and told SCO to pound sand way back then. Twenty years removed, with history repeating itself, all I can do now is laugh. Really hard too. [Xinuos](https://en.wikipedia.org/wiki/Xinuos)? Who? Lulz. Good luck on your journey to being the next “[Most Hated Company In Tech.](https://lwn.net/Articles/67886/)”
+
+#### Event Call for Papers
 
 **The GitOps Working Group** is putting together a KubeCon + CloudNativeCon Day 0 event! Come share your experiences, practices, and challenges with us at [#GitOpsConEU2021](https://twitter.com/search?q=%23GitOpsConEU2021&src=devopsish)! [**Call for papers**](https://docs.google.com/forms/d/e/1FAIpQLSeNahDbiEolx6WZmtxx4L65qmq7pZTX86nQAltq2uC12tCQYg/viewform) open through April 16, 2021.
 

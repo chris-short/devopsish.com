@@ -32,13 +32,7 @@ title = "DevOps'ish 212 Notes"
 
 [This blog is now hosted on a GPS/LTE modem](https://nns.ee/blog/2021/04/01/modem-blog.html)
 
-[​SCO's legal war against IBM and Linux comes to an end | ZDNet](https://www.zdnet.com/article/scos-legal-war-against-ibm-and-linux-comes-to-an-end/)
-
-[Timeline of SCO–Linux disputes - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_SCO%E2%80%93Linux_disputes)
-
 [Massive security breach at US universities.](https://dorper.me/articles/unileak.aspx)
-
-[Xinuos sues IBM [LWN.net]](https://lwn.net/Articles/851315/)
 
 [One Year of Graviton2 at Honeycomb: A Retrospective](https://www.honeycomb.io/blog/graviton2-one-year-retrospective)
 
