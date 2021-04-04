@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-04-04T07:00:00Z
-description = ""
+description = "Linux lawsuit, universities breached, massive Facebook breach, Amazon's horrible PR in light of conditions, Git Submodules = 👿, GitOpsCon CFP, and more"
 draft = false
 slug = "212"
-tags = []
-title = "DevOps'ish 212: "
+tags = ["Linux", "university", "DevOps", "SCO", "cloud", "cloud native", "open source", "Women of Computing LEGO", "open source", "Xinuos", "security", "git", "git submodules", "podman", "Google", "Microsoft", "Facebook", "IBM", "Amazon", "AWS", "Red Hat", "Honeycomb", "sigstore", "Kubernetes", "Multus", "CNI", "AMD", "npm", "DNS"]
+title = "DevOps'ish 212: Linux lawsuit, universities breached, massive Facebook breach, Amazon's horrible PR in light of conditions, Git Submodules = 👿, GitOpsCon CFP, and more"
 
 +++
 
@@ -28,7 +28,8 @@ See also: [SCO Linux FUD returns from the dead](https://www.zdnet.com/article/sc
 [Update on campaign targeting security researchers](https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/)  
 This is intense and a very complicated campaign designed to look increasingly convincing to someone that can't connect all the dots like Google, Microsoft, or Facebook could. Keep your cover out there.
 
-AD
+[Never wait for a staging environment again](https://releaseapp.io/?utm_source=devopsish&utm_medium=email&utm_content=title&utm_campaign=20210228) 👩‍💻🧑‍💻👨‍💻👩‍💻  
+Do you find that your engineers spend too much time creating and maintaining staging environments and yet, there never seems to be enough environments to go around? A shortage of environments is a top driver of low developer productivity and often impacts an engineering team's ability to ship features on time. With Release, you can get a full instance of your app with all of its services with every pull request. You'll never have to wait around for staging environments again. 💡 [Get started now](https://releaseapp.io/?utm_source=devopsish&utm_medium=email&utm_content=get-started&utm_campaign=20210228) 💡 *SPONSORED*
 
 [LEGO IDEAS - Women of Computing](https://ideas.lego.com/projects/3bf5b46c-6c87-4a2d-a2e1-d31ed0e2739e)  
 "This proposed set celebrates six notable women in computing and provides an educational building experience to support LEGO fans of all ages in learning about the history of women in technology. The six Women of Computing are mathematicians, computer scientists, and more"
@@ -44,10 +45,12 @@ In which AWS apologizes for acting like a really shitty company to work at but, 
 
 ## Process
 
-[Massive security breach at US universities.](https://dorper.me/articles/unileak.aspx)  
+[Massive security breach at US universities](https://dorper.me/articles/unileak.aspx)  
 "...including Stanford University, University of California, University of Miami, University of Colorado Boulder, Yeshiva University, Syracuse University, and University of Maryland, Baltimore."
 
-AD
+Observability started out as a fairly obscure technical term but has recently received a lot of attention. Our [Achieving Observability guide](https://www.honeycomb.io/guide-achieving-observability-devopsish/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_keyword=&utm_content=guide-achieving-observability-devopsish&utm_adgroup) discusses the history, concept, goals, and approaches to achieving observability in today’s software industry, with an eye to the future benefits and potential evolution of the software development practice as a whole.
+
+Observe, debug, and improve with [Honeycomb](https://ui.honeycomb.io/signup/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup). *SPONSORED*
 
 [Stolen Data of 533 Million Facebook Users Leaked Online](https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4)  
 Great... Something tells me Facebook is going to get off scott free on this one.
@@ -66,12 +69,14 @@ Someone broke into the OS of the PHP community's private Git server. Eek!
 [What’s Next for Sigstore? Project Update March 2021 — Building Trust!](https://blog.sigstore.dev/whats-next-for-sigstore-1969e7321f75)  
 "If you’re new to the Sigstore project, we officially launched on March 9th 2021 with a mission of improving the open source supply chain by making it easy to sign and verify code. We’re planning to provide free tools, APIs, and services as a public-benefit/non-profit. This post is to give a quick recap of where we are today, where we’re headed and what we’re focusing on next."
 
-AD
+[[Free Book] Definitive Guide to Feature Management](https://launchdarkly.com/the-definitive-guide-to-feature-management/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q1-newsletter)  
+Feature management is a new class of software development tools & techniques powered by feature flags. A feature management platform like LaunchDarkly fills the gaps of conventional feature toggles. Learn the ins & outs of feature management today.
+Ship Fast. Rest Easy. LaunchDarkly. *SPONSORED*
 
 [Dependencies in DevOps 2021](https://docs.google.com/forms/d/e/1FAIpQLSfYtH3zKuSK1PzBixP8XX4oMdsfjtx3kC_uYieaAbP97RNKaw/viewform)  
-"𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬 𝐢𝐧 𝐃𝐞𝐯𝐎𝐩𝐬 𝟐𝟎𝟐𝟏, which is executed jointly by researchers from both the Software Technology Group at the Technical University of Darmstadt, Germany, and the Programming Group at the University of St. Gallen, Switzerland."
+"Dependencies in DevOps 2021, which is executed jointly by researchers from both the Software Technology Group at the Technical University of Darmstadt, Germany, and the Programming Group at the University of St. Gallen, Switzerland."
 
-[One Year of Graviton2 at Honeycomb: A Retrospective?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish](https://www.honeycomb.io/blog/graviton2-one-year-retrospective)  
+[One Year of Graviton2 at Honeycomb: A Retrospective](https://www.honeycomb.io/blog/graviton2-one-year-retrospective?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish)  
 "Traffic to Honeycomb has surged in the past year, but the expense for serving and the complexity of our services hasn’t. Graviton2 is a large part of how we do it. We proactively were able to double the number of threads (and dramatically improve the performance per thread) available to our “retriever” query engine when we switched from i3.xlarge instances to m6gd.2xlarge instances, without needing to double the cost." Damn!
 
 [Ask an OpenShift Admin Office Hour - CNI plugins and Multus](https://www.openshift.com/blog/ask-an-openshift-admin-office-hour-cni-plugins-and-multus)  
@@ -90,7 +95,7 @@ Git submodules are the devil. They'll stab you multiple times and leave your ass
 "The new Podman release includes a number of exciting new features, including the podman secret command for managing secrets, support for a volume chown option to fix permissions automatically, improved support for volumes in podman generate kube, and over 60 bug fixes, many to the HTTP API."
 
 [simplenetes-io/simplenetes](https://github.com/simplenetes-io/simplenetes)  
-The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods.
+"The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods." The joke here is that it's a 17,000 line bash file and called "simple."​
 
 [magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)  
 A curated list for Awesome Kubernetes Security resources
