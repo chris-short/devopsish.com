@@ -49,6 +49,8 @@ To add content for review, [issue a pull request against this file](https://gith
 * [White House task force met with private sector to discuss Microsoft software vulnerabilities | VentureBeat](https://venturebeat.com/2021/03/18/white-house-task-force-met-with-private-sector-to-discuss-microsoft-software-vulnerabilities/)
 * [Microsoft Exchange Server hacks ‘doubling’ every two hours | ZDNet](https://www.zdnet.com/article/microsoft-exchange-server-hacks-doubling-every-two-hours/)
 * [Exchange Server attacks: Microsoft shares intelligence on post-compromise activities | ZDNet](https://www.zdnet.com/article/exchange-server-attacks-microsoft-shares-intelligence-on-post-compromise-activities/)
+* [AP sources: SolarWinds hack got emails of top DHS officials](https://apnews.com/article/solarwinds-hack-email-top-dhs-officials-8bcd4a4eb3be1f8f98244766bae70395)
+* [Exchange Server attacks: Microsoft shares intelligence on post-compromise activities | ZDNet](https://www.zdnet.com/article/exchange-server-attacks-microsoft-shares-intelligence-on-post-compromise-activities/)
 
 ## Industry
 
