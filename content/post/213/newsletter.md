@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-04-11T07:00:00Z
-description = ""
+description = "Kubernetes 1.21, ArgoCD 2.0, Supreme Court saves industry, Googlers can discuss salary, Amazon made illegal firings, former Facebook recruiter sees diversity policy flaws, and more"
 draft = false
 slug = "213"
-tags = []
-title = "DevOps'ish 213: "
+tags = ["DevOps", "cloud", "cloud native", "enhancements", "Google", "GitOps", "environments", "release", "Facebook", "software", "Kubernetes", "Linux", "open source", "LaunchDarkly", "IBM", "observability", "COBOL", "Amazon", "API", "Court", "ArgoCD", "Vault", "developers", "Apple", "Microsoft"]
+title = "DevOps'ish 213: Kubernetes 1.21, ArgoCD 2.0, Supreme Court saves industry, Googlers can discuss salary, Amazon made illegal firings, former Facebook recruiter sees diversity policy flaws, and more"
 
 +++
 
@@ -54,13 +54,10 @@ I *finally* got highly motivated to move to [Brave](https://brave.com/). Get off
 "So I can assume that Facebook isn’t sorry. It doesn’t even say that it’s going to contact the half a billion users who have had their details leaked onto the internet – not because of the users’ own fault, but because of Facebook’s incompetence and lack of care."
 
 [Update on git.php.net incident](https://externals.io/message/113981)  
-* We no longer believe the git.php.net server has been compromised.
-* However, it is possible that the master.php.net user database leaked.
-master.php.net has been migrated to a new system main.php.net.
-* All php.net passwords have been reset. Go to
-https://main.php.net/forgot.php to set a new password.
-* git.php.net and svn.php.net are both read-only now, but will remain
-available for the time being.
+* We no longer believe the git.php.net server has been compromised.  
+* However, it is possible that the master.php.net user database leaked. master.php.net has been migrated to a new system main.php.net.  
+* All php.net passwords have been reset. Go to https://main.php.net/forgot.php to set a new password.  
+* git.php.net and svn.php.net are both read-only now, but will remain available for the time being.
 
 ## Tools
 
