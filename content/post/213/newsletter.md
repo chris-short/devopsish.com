@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-04-11T07:00:00Z
-description = "Kubernetes 1.21, ArgoCD 2.0, Supreme Court saves industry, Googlers can discuss salary, Amazon made illegal firings, Facebook recruiter points out diversity policy flaws, and more"
+description = "Kubernetes 1.21, ArgoCD 2.0, Supreme Court saves industry, Googlers can discuss salary, Amazon made illegal firings, former Facebook recruiter sees diversity policy flaws, and more"
 draft = false
 slug = "213"
 tags = ["DevOps", "cloud", "cloud native", "enhancements", "Google", "GitOps", "environments", "release", "Facebook", "software", "Kubernetes", "Linux", "open source", "LaunchDarkly", "IBM", "observability", "COBOL", "Amazon", "API", "Court", "ArgoCD", "Vault", "developers", "Apple", "Microsoft"]
-title = "DevOps'ish 213: Kubernetes 1.21, ArgoCD 2.0, Supreme Court saves industry, Googlers can discuss salary, Amazon made illegal firings, Facebook recruiter points out diversity policy flaws, and more"
+title = "DevOps'ish 213: Kubernetes 1.21, ArgoCD 2.0, Supreme Court saves industry, Googlers can discuss salary, Amazon made illegal firings, former Facebook recruiter sees diversity policy flaws, and more"
 
 +++
 
@@ -57,7 +57,7 @@ I *finally* got highly motivated to move to [Brave](https://brave.com/). Get off
 * We no longer believe the git.php.net server has been compromised.  
 * However, it is possible that the master.php.net user database leaked. master.php.net has been migrated to a new system main.php.net.  
 * All php.net passwords have been reset. Go to https://main.php.net/forgot.php to set a new password.  
-* git.php.net and svn.php.net are both read-only now, but will remain available for the time being.  
+* git.php.net and svn.php.net are both read-only now, but will remain available for the time being.
 
 ## Tools
 
