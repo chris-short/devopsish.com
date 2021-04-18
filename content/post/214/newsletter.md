@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-04-17T07:00:00Z
-description = ""
+description = ["Kubernetes mentioned 26 times, Burnout, VMware spun off, Google's FloC, Kanban, chip shortage, shell operator and more"]
 draft = false
 slug = "214"
-tags = []
-title = "DevOps'ish 214: "
+tags = ["Kubernetes", "burner", "DevOps", "open source", "cloud", "cloud native", "cluster", "ingress", "burnout", "Amazon", "CNCF", "tech", "pay", "edge", "Chrome", "OpenShift", "distributed tracing", "Argo", "emissary", "Operators", "developers", "compassion", "VMware", "IBM", "security", "FLoC", "Google", "APIs", "Kanban", "Intel", "TSMC", "chip shortage"]
+title = "DevOps'ish 214: Kubernetes mentioned 26 times, Burnout, VMware spun off, Google's FloC, Kanban, chip shortage, shell operator and more"
 
 +++
 
