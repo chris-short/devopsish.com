@@ -37,7 +37,7 @@ disableKinds = ["RSS"]
     num_recent_posts = 8
 
   [params.stats]
-    subscribers = "5,033"
+    subscribers = "5,059"
 #    avg_open_rate = "48%"
 #    avg_click_rate = "21%"
 
