@@ -22,7 +22,7 @@ Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospect
 
 First, check the [DevOps'ish Sponsor Inventory](https://docs.google.com/spreadsheets/d/1EYmxtGdMubBOUlHgX3hoooyf7vNOGBKMallPdel0mak/edit?usp=sharing) to see if/when you want to advertise is available.
 
-Then send your event, product, or organizational details to [chris@chrisshort.net](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
+Then send your event, product, or organizational details to [chris@devopsish.com](mailto:chris@devopsish.com) with your ad idea to **get started today**!
 
 ### Individuals
 
@@ -55,7 +55,7 @@ It is highly encouraged to change copy and CTAs every week.
 
 Need something to present to leadership? Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospectus).
 
-Interested in sponsoring? Email me at [chris@chrisshort.net](mailto:chris@chrisshort.net).
+Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 
 ### Example Ad
 
@@ -64,4 +64,4 @@ With Datadog's Live Container view, you can see every container's health, resour
 
 ## Reach out to get started
 
-Email [chris@chrisshort.net](mailto:chris@chrisshort.net) with your ad idea to **get started today**!
+Email [chris@devopsish.com](mailto:chris@devopsish.com) with your ad idea to **get started today**!
