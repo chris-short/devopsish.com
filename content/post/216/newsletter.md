@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-05-02T07:00:00Z
-description = [""]
+description = ["KubeCon EU is here, Manager Tools, Microsoft adds a Kinvolk caboose, Feature Flags, GitOps with Argo CD, 100 Days Of Kubernetes, OSI Model, and more"]
 draft = false
 slug = "216"
-tags = []
-title = "DevOps'ish 216: "
+tags = ["Kubernetes", "DevOps", "GitHub", "Cloud Native", "cloud", "dependabot", "learn", "observability", "customers", "manager", "understand", "leaders", "lambda settlement", "Microsoft", "LaunchDarkly", "open source", "Google", "creativity", "CEOs", "migraine", "KubeCon", "Linux", "IBM", "Honeycomb", "GitOps", "CNCF", "developers", "Argo CD", "Apple", "CNI", "Amazon", ""]
+title = "DevOps'ish 216: KubeCon EU is here, Manager Tools, Microsoft adds a Kinvolk caboose, Feature Flags, GitOps with Argo CD, 100 Days Of Kubernetes, OSI Model, and more"
 
 +++
 
-A migraine is taking me down hard this weekend. Here's hoping it goes away soon. See you all at KubeCon next week. [GitOps Con](https://hopin.com/events/gitops-con) on Monday. [OpenShift Commons Gathering (also [live streamed](https://twitch.tv/redhatopenshift))](https://commons.openshift.org/gatherings/OpenShift_Commons_Gathering_at_Kubecon_EU.html) on Tuesdays. OpenShift.tv Office Hours on [Wednesday through Friday](https://red.ht/streamcal).
+A migraine is taking me down hard this weekend. Here's hoping it goes away soon. See you all at KubeCon next week. [GitOps Con](https://hopin.com/events/gitops-con) on Monday. [OpenShift Commons Gathering (also [live streamed](https://twitch.tv/redhatopenshift))](https://commons.openshift.org/gatherings/OpenShift_Commons_Gathering_at_Kubecon_EU.html) on Tuesdays. OpenShift.tv KubeCon EU Office Hours on [Wednesday through Friday](https://red.ht/streamcal).
 
 ## People
 
@@ -54,7 +54,7 @@ Kubernetes STIG for the STIG Gods.
 [How we ship code faster and safer with feature flags](https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/)  
 "At GitHub, we’re continually working to improve existing features and shipping new ones all the time. From our launch of GitHub Discussions to the release of manual approvals for GitHub Actions—in order to ship new features and improvements faster while lowering the risk in our deployments, we have a simple but powerful tool: feature flags."
 
-[Click Studios asks customers to stop tweeting about its Passwordstate data breach](https://techcrunch.com/2021/04/29/click-studios-asks-customers-to-stop-tweeting-about-its-passwordstate-data-breach/)  and
+[Click Studios asks customers to stop tweeting about its Passwordstate data breach](https://techcrunch.com/2021/04/29/click-studios-asks-customers-to-stop-tweeting-about-its-passwordstate-data-breach/)  
 Well this Click Studios story is going in here just on principle. If your security is so lax that you feel that the advisory is inside the wire still and silencing folks is the way to fix it, you've got bigger problems.
 
 [Chipmaker says it will ramp up production of older 28nm chips](https://arstechnica.com/gadgets/2021/04/chipmaker-says-it-will-ramp-up-production-of-older-28nm-chips/)  
@@ -98,7 +98,7 @@ Finally! An official website cataloging all these. Awesome!!
 A lot of people have been talking this up lately so I updated it a little for modern times.
 
 [nip.io](https://nip.io/)  
-Wildcard DNS for any IP Address (not a porn site surprisingly)
+Wildcard DNS for any IP Address
 
 ## DevOps'ish Tweet of the Week
 
