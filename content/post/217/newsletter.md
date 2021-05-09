@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-05-09T07:00:00Z
-description = ["KubeCon EU, COSI confusion, Kohl's GitOps tool, "]
+description = ["KubeCon EU 2021, COSI confusion, Kohl's GitOps tool, Colonial Pipelines attack, dev platforms, Docker dead in water, GitOps Con 2021, PodTopologySpread, and more"]
 draft = false
 slug = "217"
-tags = []
-title = "DevOps'ish 217: KubeCon EU 2021, COSI confusion, Kohl's GitOps tool, "
+tags = ["Kubernetes", "KubeCon", "cloud", "Cloud Native", "open source", "DevOps", "GitOps", "COSI", "pods", "interface", "availability", "observability", "systems", "control", "VPC", "community", "platform", "Pulumi", "Talos Systems", "pipeline", "container", "Docker", "Kohl's", "object storage", "Argo", "Twitch", "Red Hat", "learning organization", "ransomware", "IBM", "AWS", "Amazon", "CNCF", "cluster", "Honeycomb", "StackRox", "Accurics"]
+title = "DevOps'ish 217: KubeCon EU 2021, COSI confusion, Kohl's GitOps tool, Colonial Pipelines attack, dev platforms, Docker dead in water, GitOps Con 2021, PodTopologySpread, and more"
 
 +++
 
@@ -30,10 +30,10 @@ Note: All KubeCon EU 2021 talks will be available on YouTube on May 14th.
 Hosting the inaugural GitOps Con was an absolute blast. Being in charge of the playlist meant all videos were live almost as soon as the event was over.
 
 [The Next Step after DevOps and GitOps Is Cloud Engineering, Pulumi Says](https://thenewstack.io/the-next-step-after-devops-and-gitops-is-cloud-engineering-pulumi-says/)  
-Pulumi is making big waves. But, I feel like Pulumi is also addressing a fraction of who they could be. This is nonetheless an interesting prediction. We'll all be makers of clouds.
+Pulumi is making big waves. But, I feel like Pulumi is also addressing a fraction of who they could be. This is an interesting prediction. We'll all be makers of clouds.
 
 [xkcd: Vaccinated](https://xkcd.com/2460/)  
-Making friends was already hard enough. I have noticed I've become distant from almost all my friends. It's weird to talk to people not knowing if or when you'll ever see them again.
+Making friends was already hard enough. I have noticed I've become distant from almost all my friends. It's weird to talk to people, not knowing if or when you'll ever see them again.
 
 [Continuous Learning as a Tool for Adaptation](https://www.infoq.com/articles/series-enhancing-resilience-5/)  
 "Developing a learning organization is a competitive advantage, and leaders who study, encourage, and understand what it means to develop this kind of organization are well-positioned to achieve stronger collaboration and team dynamics under pressure."
