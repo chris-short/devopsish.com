@@ -28,27 +28,85 @@ This is really ugly. These schools playing fast and loose with people's lives ha
 
 [Teleport](https://goteleport.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_218) allows engineers and security professionals to unify access for SSH servers, Kubernetes clusters, web applications, and databases across all environments. I heard it was pretty cool and they reached out to be sponsors but, I don't have any ad copy this week to share, so hopefully, this works? I doubt it will. They'll probably be like, "Oh, we want an extra week." and I'll all be like, "No. Because I already have given you two." and they're going to be like, "Okay, awesome." Then I'll be like, "It might not be right now... Logistics... Physics... Space... Time..." Go check out [Teleport](https://goteleport.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_218). *SPONSORED*
 
-PEOPLE
+[Microsoft Releases Azure Static Web Pages into General Availability](https://www.infoq.com/news/2021/05/azure-static-web-apps-ga/)  
+Might this be where I land after Netlify?
+
+[97 Things Every Cloud Engineer Should Know](https://www.redhat.com/en/engage/things-every-cloud-s-202103201521)  
+Red Hat is offering this book for "free" now. It's a good book and I wrote part of it, so if you haven't gotten it yet, now you can.
+
+[Shopify Employees Say Noose Emoji Found in Slack; CEO Silenced Debate](https://www.businessinsider.com/shopify-employees-noose-emoji-slack-ceo-tobi-lutke-silenced-debate-2021-5)  
+This doesn't surprise me anymore. It's only affirming what I already know.
+
+[GitOpsCon EU 2021 - First time for everything](https://www.weave.works/blog/gitopscon-eu-2021-first-time-for-everything)  
+"Organized by the CNCF GitOps Working Group and sponsored by us and our friends at Red Hat, the event showcased an amazing panel of GitOps evangelists and practitioners who covered a range of topics for those still contemplating GitOps adoption to experienced GitOps practitioners who manage enterprise scale implementations."
+
+[How to learn and stay up to date with DevOps and Cloud Native technologies](https://itnext.io/how-to-learn-and-stay-up-to-date-with-devops-and-cloud-native-technologies-44526658a4fb)  
+"It is important to relay on proven information sources and find the ones that resonate with you the most. Here is a very abbreviated list of resources that I tend to come back to over and over to hone my practical skills."
+
+[Linus Torvalds on why desktop Linux sucks](https://www.youtube.com/watch?v=Pzl1B7nB9Kc)  
+Holy shit, I agree with Linus Torvalds. Wow! Like, not the delivery but on principle.
+
+[Image classification algorithms at Apple, Google still push racist tropes](https://algorithmwatch.org/en/apple-google-computer-vision-racist/)  
+"Automated systems from Apple and Google label characters with dark skins 'Animals'."
 
 ## Process
 
-PROCESS
+[Darkside ransomware gang says it lost control of its servers & money a day after Biden threat](https://therecord.media/darkside-ransomware-gang-says-it-lost-control-of-its-servers-money-a-day-after-biden-threat/)  
+It could be a ruse but, it's way more likely the full weight and force of the US intelligence apparatus has been applied to regain loses and identify all involved. But, it's even more likely this event becomes a kinetic one given the impact and independent operations. Also, stop hoarding if you're impacted by this.
 
 [Guide to Effective Feature Management [O'Reilly]](https://learn.launchdarkly.com/effective-feature-management/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q1-newsletter)
 Testing in production sounds scary, right? What if you could safely ship features faster?
 Adopt feature management practices to accelerate release cycles and deploy every 6 hours, instead of every 6 weeks. [Check out the new book](https://learn.launchdarkly.com/effective-feature-management/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q1-newsletter) from O'Reilly and LaunchDarkly CTO & Cofounder John Kodumal. *SPONSORED*
 
-PROCESS
+[Systemd Service Strengthening](https://www.linuxjournal.com/content/systemd-service-strengthening)  
+"[W]e are going to explain how to improve the security of a systemd service. But first, we need to step back for a moment.  With the latest releases systemd has implemented some interesting features relating to security, especially sandboxing. In this article we are going to show step-by-step how to strengthen services using specific directives, and how to check them with the provided systemd suite."
+
+[Ford will start rolling out major over-the-air software updates to its vehicles this year](https://www.theverge.com/2021/5/13/22432770/ford-ota-software-update-amazon-alexa?scrolla=5eb6d68b7fedc32c19ef33b4)  
+"The automaker says it’s prepared to rapidly increase the number of vehicles capable of receiving software updates, with the goal of producing 33 million vehicles with the capability by 2028." That's a huge scale. The future really is here.
+
+[Security keys are now supported for SSH Git operations](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/)  
+`ssh-keygen -t ecdsa-sk -C <email address>`  
+`Generating public/private ecdsa-sk key pair.`  
+`You may need to touch your authenticator to authorize key generation.`
 
 ## Tools
 
-TOOLS
+[Please fix the AWS Free Tier before somebody gets hurt](https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before)  
+It's easier and cheaper for AWS to issue a refund than to deliver cost data in real time. That's why you can have [a $2700 bill before you know anything happened](https://chrisshort.net/the-aws-bill-heard-around-the-world/).
 
 Take a deep dive into observability at [o11ycon+hnycon](https://o11ycon-hnycon.io/devopsish/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_keyword=&utm_content=devopsish&utm_adgroup), a two-day virtual conference on the future of shipping software. Happening June 9-10, this highly interactive event connects you and your peers to explore cutting-edge capabilities and unique outcomes that define observability. You’ll also hear from top Honeycomb customers and observability experts– including Corey Quinn, Chief Cloud Economist of The Duckbill Group, and Nora Jones, CEO of Jeli!
 
 Guess less and know more with [Honeycomb](https://www.honeycomb.io/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=honeycomb-homepage-devopish). *SPONSORED*
 
-TOOLS
+[Kubernetes: Apprentice Cookbook](https://dev.to/aveuiller/kubernetes-apprentice-cookbook-4j6h)  
+"The aim of this article is to explain the most used concepts of Kubernetes relying on basic system administration concepts, then use some of these to deploy a simple web server and showcase the interactions between the different resources."
+
+[Running BGP in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/)  
+"We devised this routing design for our data centers to build our network quickly and provide high availability for our services, while keeping the design itself scalable. We know failures happen in any large-scale system — hence, our routing design aims to minimize the impact of any potential failures." Which is exactly what BGP is great at.
+
+[Making eBPF work on Windows](https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/)  
+"We are announcing this now while the project is still relatively early in development because our goal is to work in collaboration with the robust eBPF community to make sure that eBPF works great on Windows, and everywhere else."
+
+[Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn)  
+The official Rust learning resource.
+
+[1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword)  
+Hashicorp Vault plugin that allows for the retrieval, creation, and deletion of items stored in a 1Password vault accessed by use of the 1Password Connect.
+
+[nodeshift/nodeshift](https://github.com/nodeshift/nodeshift)  
+CLI application for OpenShift Node.js deployment 🚀
+
+[AkihiroSuda/lima](https://github.com/AkihiroSuda/lima)  
+Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac"
+
+[predatorray/kubectl-tmux-exec](https://github.com/predatorray/kubectl-tmux-exec)  
+A kubectl plugin to control multiple pods simultaneously using Tmux
+
+[jonnylangefeld/kubectl-mc](https://github.com/jonnylangefeld/kubectl-mc)  
+Run kubectl commands against multiple clusters at once
+
+[ossrs/srs](https://github.com/ossrs/srs)  
+SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 
 ## DevOps'ish Tweet of the Week
 
