@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-05-16T07:00:00Z
-description = []
+description = ["What is DevOps eBook, Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more"]
 draft = false
 slug = "218"
-tags = []
-title = "DevOps'ish 218: "
+tags = ["DevOps", "cloud", "Cloud Native", "Kubernetes", "GitOps", "systemd", "security", "What is DevOps", "KubeCon", "OpenShift.TV", "Lambda School", "GitOps Con", "Linux on the Desktop", "security", "scale", "SSH", "open source", "Microsoft", "Red Hat", "Apple", "Google", "observability", "Windows eBPF", "Rust", "OpenShift", "CNCF", "Linus Torvalds", "AWS", "BGP", "kubectl", "AI"]
+title = "DevOps'ish 218: What is DevOps eBook, Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more"
 
 +++
 
@@ -52,7 +52,7 @@ Holy shit, I agree with Linus Torvalds. Wow! Like, not the delivery but on princ
 ## Process
 
 [Darkside ransomware gang says it lost control of its servers & money a day after Biden threat](https://therecord.media/darkside-ransomware-gang-says-it-lost-control-of-its-servers-money-a-day-after-biden-threat/)  
-It could be a ruse but, it's way more likely the full weight and force of the US intelligence apparatus has been applied to regain loses and identify all involved. But, it's even more likely this event becomes a kinetic one given the impact and independent operations. Also, stop hoarding if you're impacted by this.
+It could be a ruse but, it is way more likely the full weight and force of the US intelligence apparatus has been applied to regain loses and identify all involved. But, it's even more likely this event becomes a kinetic one given the impact and independent operations. Also, stop hoarding if you're impacted by this.
 
 [Guide to Effective Feature Management [O'Reilly]](https://learn.launchdarkly.com/effective-feature-management/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q1-newsletter)
 Testing in production sounds scary, right? What if you could safely ship features faster?
