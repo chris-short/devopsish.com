@@ -24,6 +24,9 @@ Download *What is DevOps* as an [**ePub**](/what-is-devops/What_is_DevOps_eBook.
 
 Download *What is DevOps* as an [**ePub**](/what-is-devops/What_is_DevOps_eBook.epub) or [**PDF**](/what-is-devops/What_is_DevOps_eBook.pdf)
 
+[![App Icon Apple Books](/img/standard.webp)](https://books.apple.com/us/book/what-is-devops/id1567673806?itscg=30200&amp;itsct=books_box_appicon&amp;ct=books_what_is_dev_ops&amp;ls=1)  
+Also available on [Apple Books](https://books.apple.com/us/book/what-is-devops/id1567673806?itscg=30200&amp;itsct=books_box_appicon&amp;ct=books_what_is_dev_ops&amp;ls=1)
+
 ### Where To Learn More About DevOps
 
 * [DevOps'ish](/subscribe/): DevOps, Cloud Native, Hybrid Cloud, Open Source, industry news, culture, and the ‘ish between.
