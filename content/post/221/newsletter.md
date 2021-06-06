@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-06-06T07:00:00Z
-description = []
+description = ["On the passing of Peeyush Gupta, Apple employees balk at return to office plans, 1:1 with CNCF's Priyanka Sharma, StackOverflow acquired, Flux, Argo, HTTP 3, and more"]
 draft = false
 slug = "221"
-tags = ["Peeyush Gupta", "Cloud Native", ]
-title = "DevOps'ish 221: "
+tags = ["Peeyush Gupta", "Cloud Native", "Apple", "cloud", "DevOps", "Kubernetes", "code", "employees", "observability", "community", "Red Hat", "open source", "developers", "GitOps", "kubectl", "Intel", "Jenkins", "pandemic", "debug", "Priyanka Sharma", "Cloud Native Computing Foundation", "cyberattacks", "vcenter", "IBM", "Flux", "Argo", "petabyte", "Linux", "OpenShift", "Rust"]
+title = "DevOps'ish 221: On the passing of Peeyush Gupta, Apple employees balk at return to office plans, 1:1 with CNCF's Priyanka Sharma, StackOverflow acquired, Flux, Argo, HTTP 3, and more"
 
 +++
 
@@ -21,7 +21,7 @@ I've made two public statements on Peeyush's death. Please accept my apologies f
 
 "I was gobsmacked by the news. The impact Peeyush has had in the community is a large one. It's not possible to sit down and look at GitHub to capture Peeyush's work. It extended into so much more than code."  —Chris Short, [Heartfelt Remembrance for Peeyush Gupta (pensu)](https://groups.google.com/g/kubernetes-dev/c/WpTM45LCkRY)
 
-"Peeyush made me look forward to going to the K8s Upstream Marketing meetings. I was devastated last week when I heard the news. But, he’s not gone, his work lives on through his code. He’ll be missed deeply." —Chris Short, Twitter
+"Peeyush made me look forward to going to the K8s Upstream Marketing meetings. I was devastated last week when I heard the news. But, he's not gone, his work lives on through his code. He'll be missed deeply." —Chris Short, [Twitter](https://twitter.com/ChrisShort/status/1399782389589725191)
 
 ## People
 
@@ -36,9 +36,9 @@ Observe, debug, and improve with [Honeycomb](https://www.honeycomb.io/?utm_sourc
 Deleting social media history is going to be a big thing in the near future. I assume people understand I'm not the same person I was four years ago let alone fourteen years ago when I joined Twitter. I deleted my Facebook account recently considering it had been dormant for quite some time.
 
 [Advice for Junior Developers](https://ashfurrow.com/blog/advice-for-junior-developers/)  
-"Software developers aren’t paid to code. They’re paid to build products that help the business succeed."
+"Software developers aren't paid to code. They're paid to build products that help the business succeed."
 
-[In the Clouds (S2E6) | CNCF’s Priyanka Sharma](https://www.youtube.com/watch?v=sRWl9RW5HKo&t=157s)  
+[In the Clouds (S2E6) | CNCF's Priyanka Sharma](https://www.youtube.com/watch?v=sRWl9RW5HKo&t=157s)  
 I sat down with Priyanka Sharma, General Manager, Cloud Native Computing Foundation this week for a one-on-one conversation.
 
 [What Your Future Employees Want Most](https://hbr.org/2021/05/what-your-future-employees-want-most)
@@ -65,7 +65,7 @@ We revamped the second-factor authentication in Teleport 6.0. This post provides
 As seen in the [Notes from DevOps'ish 220](https://devopsish.com/220/notes), there is a really bad vCenter vulnerability out there. "Code execution flaw in vCenter is exploited to install web shell on unpatched machines."
 
 [The M.T.A. Is Breached by Hackers as Cyberattacks Surge](https://www.nytimes.com/2021/06/02/nyregion/mta-cyber-attack.html)  
-"Hackers with suspected ties to China penetrated the New York transit agency’s computer systems in April, an M.T.A. document shows. Transit officials say the intrusion did not pose a risk to riders."
+"Hackers with suspected ties to China penetrated the New York transit agency's computer systems in April, an M.T.A. document shows. Transit officials say the intrusion did not pose a risk to riders."
 
 ## Tools
 
@@ -85,7 +85,7 @@ Fresh off the heals of QUIC being tagged as [RFC 9000](https://daniel.haxx.se/bl
 A GitOps with Flux overview.
 
 [Introducing Argo Rollouts v1.0. Progressive Delivery done right!](https://blog.argoproj.io/introducing-argo-rollouts-v1-0-803e87f76ef7)  
-Future releases will support many more ingress controllers and metric providers, as well as leveraging even more advanced traffic shaping techniques such as header-based routing, or shadow trafficking. For more on what’s next, check out our [roadmap](https://argoproj.github.io/argo-rollouts/roadmap/).
+Future releases will support many more ingress controllers and metric providers, as well as leveraging even more advanced traffic shaping techniques such as header-based routing, or shadow trafficking. For more on what's next, check out our [roadmap](https://argoproj.github.io/argo-rollouts/roadmap/).
 
 [[RFC] Protecting users of kubectl delete](https://groups.google.com/g/kubernetes-dev/c/y4Q20V3dyOk/m/vNbttyY-BgAJ)  
 This is a healthy discussion around putting some additional safeties on `kubectl delete` or `krm` if you like to live dangerously and made that alias.
@@ -103,7 +103,7 @@ ARM chips will start making Intel chips look like an energy-sucking, high-priced
 Fucking Jenkins.
 
 [Observatorium](https://observatorium.io/)  
-Observability distributution
+Observability distribution
 
 [nocodb/nocodb](https://github.com/nocodb/nocodb)  
 🔥 🔥 The Open Source Airtable alternative.
@@ -116,6 +116,6 @@ Wasm powered Jupyter running in the browser 💡
 
 ## DevOps'ish Tweet of the Week
 
-[![@Jennifer Davis @sigje on Twitter: "I wish instead of "remote work" we started talking about distributed teams." 🧵](/images/221-devopsish-tweet-of-the-week.png)](https://twitter.com/sigje/status/1401268238739120131)
+[![Jennifer Davis @sigje on Twitter: "I wish instead of "remote work" we started talking about distributed teams." 🧵](/images/221-devopsish-tweet-of-the-week.png)](https://twitter.com/sigje/status/1401268238739120131)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/221/notes/) to see what didn't make it to the newsletter but are still worth your time.
