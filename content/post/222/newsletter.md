@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-06-13T07:00:00Z
-description = []
+description = ["Industry under pressure, Holy $%^& I agree with Torvalds, US Congress begins assault on big tech, polkit vuln, ALPACA, How To Love Kubernetes and Not Wreck The Planet, and more"]
 draft = false
 slug = "222"
-tags = []
-title = "DevOps'ish 222: "
+tags = ["cloud", "DevOps", "Kubernetes","cluster", "observability", "Cloud Native", "security", "open source", "Linux", "Apple", "hackers", "Slack", "EA", "Argo", "Operators", "container", "FBI", "community", "tech", "systems", "software", "engineering", "eBPF", "Red Hat", "Linus Torvalds"]
+title = "DevOps'ish 222: Industry under pressure, Holy $%^& I agree with Torvalds, US Congress begins assault on big tech, polkit vuln, ALPACA, How To Love Kubernetes and Not Wreck The Planet, and more"
 
 +++
 
