@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-06-20T07:00:00Z
-description = [""]
+description = ["Hostile AWS Free Tier, Bye bye Bezos, InfoSec competencies, Rust in Linux Kernel, Git for Computer Scientists, secrets on the CLI, and more"]
 draft = false
 slug = "223"
-tags = []
-title = "DevOps'ish 223: "
+tags = ["cloud," "DevOps", "AWS", "Rust", "Linux", "kernel", "cloud native", "secrets", "IAM", "Google", "observability", "software", "support", "leader", "management", "Unix", "InfoSec", "free tier", "security", " development", "open source", "developer", "community"]
+title = "DevOps'ish 223: Hostile AWS Free Tier, Bye bye Bezos, InfoSec competencies, Rust in Linux Kernel, Git for Computer Scientists, secrets on the CLI, and more"
 
 +++
 
@@ -34,24 +34,6 @@ I expect thorough coverage of this in [Last Week in AWS](https://lastweekinaws.c
 [The iPhone 12 Mini Makes Me Sick (Literally)](https://spectrum.ieee.org/view-from-the-valley/consumer-electronics/audiovideo/the-iphone-12-mini-makes-me-sick-literally)  
 How a screen lights itself can cause major problems for some people.
 
-[A DNA-based storage system with files and metadata](https://arstechnica.com/science/2021/06/researchers-build-a-metadata-based-image-database-using-dna-storage/)  
-This could be game changing technology.
-
-[ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)  
-A collection of modern/faster/saner alternatives to common unix commands.
-
-[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)  
-Yet another remote desktop software
-
-[benbjohnson/litestream](https://github.com/benbjohnson/litestream)  
-Streaming replication for SQLite.
-
-[slok/sloth](https://github.com/slok/sloth)  
-🦥 Easy and simple Prometheus SLO (service level objectives) generator
-
-[How to Handle Secrets on the Command Line](https://smallstep.com/blog/command-line-secrets/)  
-"The command line really wasn’t designed for secrets. So, keeping secrets secret on the command line requires some extra care and effort..."
-
 ## Process
 
 [(Technical) Infosec Core Competencies](https://www.netmeister.org/blog/infosec-competencies.html)  
@@ -65,6 +47,9 @@ Learn about leveraging the right type of AWS IAM policy mechanisms to build the 
 
 [Hacker community jumps on hilarious Twitter meme mocking bad infosec advice from CISOs](https://portswigger.net/daily-swig/hacker-community-jumps-on-hilarious-twitter-meme-mocking-bad-infosec-advice-from-cisos)  
 Rub some WAF on it and walk it off.
+
+[How to Handle Secrets on the Command Line](https://smallstep.com/blog/command-line-secrets/)  
+"The command line really wasn’t designed for secrets. So, keeping secrets secret on the command line requires some extra care and effort..."
 
 ## Tools
 
@@ -92,6 +77,20 @@ A nerdy, useful guide.
 [Linux Commands Cheat Sheet 2021](https://linuxguidehq.com/linux-commands-cheat-sheet/)  
 "This is the ultimate guide to Linux Command Cheat Sheet in 2021." I mean... It's pretty good.
 
+[A DNA-based storage system with files and metadata](https://arstechnica.com/science/2021/06/researchers-build-a-metadata-based-image-database-using-dna-storage/)  
+This could be game changing technology.
+
+[ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)  
+A collection of modern/faster/saner alternatives to common unix commands.
+
+[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)  
+Yet another remote desktop software
+
+[benbjohnson/litestream](https://github.com/benbjohnson/litestream)  
+Streaming replication for SQLite.
+
+[slok/sloth](https://github.com/slok/sloth)  
+🦥 Easy and simple Prometheus SLO (service level objectives) generator
 
 ## DevOps'ish Tweet of the Week
 
