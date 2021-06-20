@@ -6,12 +6,12 @@ date = 2021-06-20T07:00:00Z
 description = ["Hostile AWS Free Tier, Bye bye Bezos, InfoSec competencies, Rust in Linux Kernel, Git for Computer Scientists, secrets on the CLI, and more"]
 draft = false
 slug = "223"
-tags = ["cloud," "DevOps", "AWS", "Rust", "Linux", "kernel", "cloud native", "secrets", "IAM", "Google", "observability", "software", "support", "leader", "management", "Unix", "InfoSec", "free tier", "security", " development", "open source", "developer", "community"]
+tags = ["cloud", "DevOps", "AWS", "Rust", "Linux", "kernel", "cloud native", "secrets", "IAM", "Google", "observability", "software", "support", "leader", "management", "Unix", "InfoSec", "free tier", "security", " development", "open source", "developer", "community"]
 title = "DevOps'ish 223: Hostile AWS Free Tier, Bye bye Bezos, InfoSec competencies, Rust in Linux Kernel, Git for Computer Scientists, secrets on the CLI, and more"
 
 +++
 
-In vacation mode this week. Newsletter played second fiddle to having fun.
+In vacation mode this week. News reading played second fiddle to having fun.
 
 ## People
 
@@ -23,7 +23,7 @@ Take a deep dive into observability at [o11ycon+hnycon](https://o11ycon-hnycon.i
 Guess less and know more with [Honeycomb](https://www.honeycomb.io/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=honeycomb-homepage-devopish) *SPONSORED*.
 
 [Upwards of 40% of workers are thinking about quitting their jobs](https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html)  
-I don't blame anyone for persuing jobs that fit better to their lifestyle. I also realize a 40% is a tectonic shift in the workforce. If this holds true, we're all going to be impacted in some way.
+I don't blame anyone for pursuing jobs that fit better to their lifestyle. I also realize a 40% is a tectonic shift in the workforce. If this holds true, we're all going to be impacted in some way.
 
 [Southwest Airlines cancels 500 flights after computer glitch grounds fleet](https://www.reuters.com/business/aerospace-defense/southwest-airlines-temporarily-halted-flights-over-computer-issue-2021-06-15/)  
 Southwest had a rough week.
@@ -94,6 +94,6 @@ Streaming replication for SQLite.
 
 ## DevOps'ish Tweet of the Week
 
-[![Cake is Kate. Always has been. 💫 @kefimochi: "You're not a machine. You can't be 110% productive at all times, and that's okay."](/images/223-devopsish-tweet-of-the-week.png)](https://twitter.com/sigje/status/1401268238739120131)
+[![Cake is Kate. Always has been. 💫 @kefimochi: "You're not a machine. You can't be 110% productive at all times, and that's okay."](/images/223-devopsish-tweet-of-the-week.png)](https://twitter.com/kefimochi/status/1405222523512365056)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/223/notes/) to see what didn't make it to the newsletter but are still worth your time.
