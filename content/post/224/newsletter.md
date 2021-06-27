@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-06-27T07:00:00Z
-description = []
+description = ["Take your time off, Bryan Liles on a mission, John McAfee dead, Dell SupportAssist assisting the wrong people, AWS DNS hijack, Istio 1.10, Intel to make RISC-V chips, and more"]
 draft = false
 slug = "224"
-tags = []
-title = "DevOps'ish 224: "
+tags = ["cloud", "DevOps", "cloud native", "Linux", "open source", "Kubernetes", "DNS", "release", "Microsoft", "Istio", "localhost", "Google", "John McAfee", "experimentation", "platform", "development", "Red Hat", "production", "kernel", "AWS", "VPN", "observability", "sidecar", "fzf", "Intel", "RISC-V"]
+title = "DevOps'ish 224: Take your time off, Bryan Liles on a mission, John McAfee dead, Dell SupportAssist assisting the wrong people, AWS DNS hijack, Istio 1.10, Intel to make RISC-V chips, and more"
 
 +++
 
@@ -55,7 +55,7 @@ Discover why in its first Wave report dedicated to Feature Management And Experi
 [Dell SupportAssist bugs put over 30 million PCs at risk](https://www.bleepingcomputer.com/news/security/dell-supportassist-bugs-put-over-30-million-pcs-at-risk/)  
 Holy smokes this is a big blast radius.
 
-[A Review of the Linux Kernel’s Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/)  
+[A Review of the Linux Kernel's Release Signing and Key Management Policies](https://ostif.org/a-review-of-the-linux-kernels-release-signing-and-key-management-policies/)  
 There are definitely some improvements our Linux kernel devs could make to their security practices.
 
 [A terrible, horrible, no-good, very bad day at Slack](https://leaddev.com/technical-direction-strategy/terrible-horrible-no-good-very-bad-day-slack)  
@@ -65,11 +65,11 @@ When your massive infrastructure and HAproxy servers handles configuration chang
 "Researchers found a 'novel' class of DNS vulnerabilities in AWS Route53 and other DNS-as-a-service offerings that leak sensitive information on corporate and government customers, with one simple registration step." This will make your skin crawl a little.
 
 [North Korean hackers breach South Korea's atomic research agency through VPN bug](https://therecord.media/north-korean-hackers-breach-south-koreas-atomic-research-agency-through-vpn-bug/)  
-"Thirteen different IPs were seen abusing the vulnerability and accessing the organization’s internal network." Can I recommend we prioritize VPN updates, upgrades, and 2FA.
+"Thirteen different IPs were seen abusing the vulnerability and accessing the organization's internal network." Can I recommend we prioritize VPN updates, upgrades, and 2FA.
 
 ## Tools
 
-[Last Week in Azure](https://lastweekinazure.com/)
+[Last Week in Azure](https://lastweekinazure.com/)  
 Microsoft snark incoming.
 
 In their upcoming O'Reilly book, [Honeycomb's](https://ui.honeycomb.io/signup/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup) Charity Majors, Liz Fong-Jones, and George Miranda explain what constitutes good observability and show you how to make improvements from what you're doing today. They also provide practical do's and don'ts for migrating from legacy tooling, such as metrics monitoring and log management. Check out [a preview of their book](https://info.honeycomb.io/observability-engineering-oreilly-book-preview-0?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=devopsish&utm_adgroup), which includes introductory chapters focused on how observability differs from traditional approaches to managing software in production. *SPONSORED*.
