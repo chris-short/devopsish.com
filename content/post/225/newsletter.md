@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-07-04T07:00:00Z
-description = []
+description = ["AWS Infinidash, GPT-3 via GitHub Copilot, Polywork, rainbow marketing, LinkedIn breach, VMs hiding ransomware, Kubernetes overspend, Helm, GitOps, Tailscale with Kubernetes, and more"]
 draft = false
 slug = "225"
 tags = []
-title = "DevOps'ish 225: AWS Infinidash, GPT-3 via GitHub Copilot, "
+title = "DevOps'ish 225: AWS Infinidash, GPT-3 via GitHub Copilot, Polywork, rainbow marketing, LinkedIn breach, VMs hiding ransomware, Kubernetes overspend, Helm, GitOps, Tailscale with Kubernetes, and more"
 
 +++
 
@@ -17,7 +17,7 @@ GPT-3 generated that statement about AWS Infinidash thanks to [GitHub Copilot](h
 
 But, back to the point: [**AWS Infinidash**](https://whatisinfinidash.com/). [It's not real!](https://twitter.com/jna_sh/status/1410178986978775040) [It's complete hogwash, and you shouldn't feel bad if you didn't know that](https://twitter.com/IanColdwater/status/1411291183620542467). The fake AWS Infinidash service highlights the veracity of a joke gone wrong on an industry scale as it has (there's a [Rust library for it](https://docs.rs/infinidash/0.7.42/infinidash/)). AWS was the innocent victim of the prank, too. But, instead, it's humans that are taking the blowback.
 
-People are dunking on other people on Twitter for not being "in" on the joke. Recruiters are getting shamed for asking for five years experience in a technology that doesn't exist. But, according to GPT-3, it does. If they were using GPT-3,they'd be reinforced in this thinking.
+People are dunking on other people on Twitter for not being "in" on the joke. Recruiters are getting shamed for asking for five years experience in a technology that doesn't exist. But, according to GPT-3, it does. If they were using GPT-3, they'd be reinforced in this thinking.
 
 It's truly insane that this is acceptable behavior in some people's minds. This newsletter might be the first you've heard of AWS Infinidash. Maybe that's why you [subscribe to this newsletter](https://devopsish.com/subscribe/) or [Last Week in AWS](https://lastweekinaws.com/?grsf=7h1z3x).
 
@@ -38,7 +38,7 @@ In their upcoming O'Reilly book, [Honeycomb's](https://ui.honeycomb.io/signup/?&
 You would think, "Isn't most of the LinkedIn data public already?" which might be a safe assumption. Sadly, it's not. The leaked data includes a data point called "inferred salary" which could make salary negotiation much more difficult for those impacted.
 
 [Polywork](https://polywork.chrisshort.net/)  
-Polywork is a new social network designed to bridge the gap between work and life (more accurately Twitter and LinkedIn). It's a place where people can find and connect with other people but one goal of theirs it to replace the need for a personal website. To that end, they enable folks to bring their own domains to the site to create a more personal space (like I have). If you'd like to join, I have an invite code you can use as part of the sign up process, *sunnydog*. Personal websites aren't trivially maintained after a few years ([trust me](https://chrisshort.net)) so I'm excited to see what Polywork does.
+Polywork is a new social network designed to bridge the gap between work and life (more accurately Twitter and LinkedIn). It's a place where people can find and connect with other people but one goal of theirs it to replace the need for a personal website. To that end, they enable folks to bring their own domains to the site to create a more personal space (like I have). If you'd like to join, I have an invite code you can use as part of the sign up process, *sunnydog*. Personal websites aren't trivially maintained after a few years ([trust me](https://chrisshort.net), my personal site could vote in the US if it were a person) so I'm excited to see what Polywork does.
 
 [Iranian Disinformation Effort Went Small to Stay Under Big Tech's Radar](https://www.nytimes.com/2021/06/30/technology/disinformation-message-apps.html)  
 Micro disinformation campaigns are the hot new thing apparently.
@@ -83,7 +83,7 @@ How to create a git pull request for temporary access to critical production inf
 [This Quantum Computer is Sized For Server Rooms](https://spectrum.ieee.org/tech-talk/computing/hardware/iontrap-server)  
 "A new 24-qubit trapped-ion option can fit in two server racks." Quantum computing is getting very real with this new trapped-ion option you can rack up in your own environment.
 
-[The Automation Challenge: Kubernetes Operators vs Helm Charts • Ana-Maria Mihalceanu • GOTO 2021](https://youtu.be/dGx8PjmWkyM)  
+[The Automation Challenge: Kubernetes Operators vs Helm Charts](https://youtu.be/dGx8PjmWkyM)  
 "Working with Kubernetes for some time or you just started your journey?  
 If you love automation and dislike having to perform repetitive tasks manually, you have come across concepts of Helm charts and Kubernetes Operators. Although they solve similar types of problems, they are not exactly interchangeable tools, but rather complementary."
 
@@ -114,11 +114,11 @@ Software Delivery Workflow For Kubernetes
 [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)  
 Kafka Web UI
 
-[afwu/PrintNightmare](https://github.com/afwu/PrintNightmare)
+[afwu/PrintNightmare](https://github.com/afwu/PrintNightmare)  
 The proof of concept for the [PrintNightmare](https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/printnightmare-critical-windows-print-spooler-vulnerability) vulnerability.
 
 ## DevOps'ish Tweet of the Week
 
-{{<tweet 1411073985765314560>}}
+{{< tweet 1411073985765314560 >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/225/notes/) to see what didn't make it to the newsletter but are still worth your time.
