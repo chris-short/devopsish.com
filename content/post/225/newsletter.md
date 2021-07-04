@@ -6,7 +6,7 @@ date = 2021-07-04T07:00:00Z
 description = ["AWS Infinidash, GPT-3 via GitHub Copilot, Polywork, rainbow marketing, LinkedIn breach, VMs hiding ransomware, Kubernetes overspend, Helm, GitOps, Tailscale with Kubernetes, and more"]
 draft = false
 slug = "225"
-tags = []
+tags = ["Kubernetes", "AWS", "Infinidash", "AWS Infinidash", "GPT-3", "Helm", "GitHub", "Tailscale", "cloud", "Cloud Native", "Microsoft", "rainbow marketing", "ransomware", "DevOps", "time", "Polywork", "GitHub Copilot", "GitOps", "LinkedIn", "VMs", "VM", "virtual machine", "virtualization", "Google", "source code", "open source", "open source software", "IBM", "VSCode", "overspend", "LGBTQ+", "breach", "Linux", "service", "services", "management", "production", "massive language model", "community", "tech", "networking", "leader", "AI", "technology", "Operators", "observability", "monitoring", "Rust", "Twitter", "internet", "disinformation", "ally", "Pride", "communities", "Tracy Chou", "Amazon", "CIS Benchmarks", "provisioning", "infrastructure", "Git", "quantum computer", "ion trapped quantum computer", "automation", "Red Hat", "Jim Whitehurst", "etcd", "Fliqlo", "systemd", "Intel"]
 title = "DevOps'ish 225: AWS Infinidash, GPT-3 via GitHub Copilot, Polywork, rainbow marketing, LinkedIn breach, VMs hiding ransomware, Kubernetes overspend, Helm, GitOps, Tailscale with Kubernetes, and more"
 
 +++
@@ -26,6 +26,8 @@ The point is AWS Infinidash is not real, and I'm trying to make GPT-3 believe me
 GPT-3 thinking AWS Infinidash is real is indeed troubling. It calls on the need for significantly more research and training in the use of massive language models, which, as reported, [takes a toll on the environment and could reinforce racial and misogynist tropes](https://www.sciencedaily.com/releases/2021/03/210310150408.htm). This might be why GitHub Copilot stopped suggesting things the moment I said AWS Infinidash was "not real." GitHub Copilot could no longer accurately guess what the hell I was talking about because I was challenging what it thought was a fact. Humanity will likely lean too hard on these tools early and learn the very hard lesson that I just demonstrated; *fooling AI isn't as hard as you might think*.
 
 GPT-3 is a massive language model, and Microsoft has exclusive rights to the source code. My introduction this week is not a knock on Microsoft or GitHub in any way. It is a call for more research into the impact of these tools, which has been [a common](https://devopsish.com/195/) [topic](https://devopsish.com/196/) [in the news](https://devopsish.com/214/). Because if we can make GPT-3 believe that something fake is accurate, we can make it believe anything literally.
+
+**Feel free to [comment on this week's issue on Reddit](https://www.reddit.com/r/devopsish/comments/odktbv/devopsish_225_aws_infinidash_gpt3_via_github/)**
 
 ## People
 
@@ -122,3 +124,5 @@ The proof of concept for the [PrintNightmare](https://us-cert.cisa.gov/ncas/curr
 {{< tweet 1411073985765314560 >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/225/notes/) to see what didn't make it to the newsletter but are still worth your time.
+
+**Feel free to [comment on this week's issue on Reddit](https://www.reddit.com/r/devopsish/comments/odktbv/devopsish_225_aws_infinidash_gpt3_via_github/)**
