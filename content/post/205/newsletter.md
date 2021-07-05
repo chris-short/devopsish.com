@@ -6,7 +6,7 @@ date = 2021-02-14T07:00:00Z
 description = "Kubernetes Pod Security Policy Deprecation, open source skills are crucial, harms of large language models, Supermicro, water plant breach, VSCode repo FUD, and more"
 draft = false
 slug = "205"
-tags = ["Kubernetes", "K8s", "open source", "security", "hiring", "DevOps", "PSPs", "Pod Security Policy", "deprecation", "cloud native", "Microsoft", "developers", "research", "news", "IBM", "Rust", "learn", "process", "SSH tunnels", "code", "managers", "employees", "chronic illness", "Cloud Native Computing Foundation", "water supply", "Cloudflare", "LaunchDarkly", "OPA", "CSI", "healthcare", "contributors", "vulnerabilities", "marketing", "Google", "Nvidia", "Arm", "CKS", "Apple", "sudo", "VSCodium", "Mercurial", "GCP", "Python"]
+tags = ["Kubernetes", "K8s", "open source", "security", "hiring", "DevOps", "PSPs", "Pod Security Policy", "deprecation", "cloud native", "Microsoft", "developers", "research", "news", "IBM", "Rust", "learn", "process", "SSH tunnels", "code", "managers", "employees", "chronic illness", "Cloud Native Computing Foundation", "water supply", "Cloudflare", "LaunchDarkly", "OPA", "CSI", "healthcare", "contributors", "vulnerabilities", "marketing", "Google", "Nvidia", "Arm", "CKS", "Apple", "sudo", "VSCodium", "Mercurial", "GCP", "Python", "GPT-3", "VSCode"]
 title = "DevOps'ish 205: Kubernetes Pod Security Policy Deprecation, open source skills are crucial, harms of large language models, Supermicro, water plant breach, VSCode repo FUD, and more"
 
 +++

@@ -6,7 +6,7 @@ date = 2020-03-29T07:00:00Z
 description = "For shame O'Reilly, Zoom'ing in on privacy, Kubernetes 1.18, Serverless with Knative, why you should try UBI, Dockerized Folding@Home, and more"
 draft = false
 slug = "173"
-tags = ["O'Reilly", "Kubernetes", "security", "open source", "DevOps", "Red Hat", "Cloud", "infrastructure", "AWS", "EKS", "xKS", "cluster", "Zoom", "privacy", "software", "interview", "Knative", "serverless", "CNCF", "pandemic", "Microsoft", "community", "cloud native"]
+tags = ["O'Reilly", "Kubernetes", "security", "open source", "DevOps", "Red Hat", "Cloud", "infrastructure", "AWS", "EKS", "xKS", "cluster", "Zoom", "privacy", "software", "interview", "Knative", "serverless", "CNCF", "pandemic", "Microsoft", "community", "cloud native", "VSCode"]
 title = "DevOps'ish 173"
 
 +++
