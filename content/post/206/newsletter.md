@@ -6,7 +6,7 @@ date = 2021-02-21T07:00:00Z
 description = "Kubernetes README, 'I will slaughter you', Corey Quinn in NYT, 200 Million Certificates in 24 Hours, GitOps with Flux2, K8s on ISS, and more"
 draft = false
 slug = "206"
-tags = ["Kubernetes", "cloud", "certificates", "DevOps", "Google", "Flux", "GitOps", "Corey Quinn", "open source", "ISS", "containers", "cloud native", "dependability", "systems", "Ansible", "IBM", "Kenya", "developers", "China", "Red Hat"]
+tags = ["Kubernetes", "cloud", "certificates", "DevOps", "Google", "Flux", "GitOps", "Corey Quinn", "open source", "ISS", "containers", "cloud native", "dependability", "systems", "Ansible", "IBM", "Kenya", "developers", "China", "Red Hat", "VSCode"]
 title = "DevOps'ish 206: Kubernetes README, 'I will slaughter you', Corey Quinn in NYT, 200 Million Certificates in 24 Hours, GitOps with Flux2, K8s on ISS, and more"
 
 +++

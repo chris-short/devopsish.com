@@ -6,7 +6,7 @@ date = 2021-02-07T07:00:00Z
 description = "Jassy's New Jam, KubeCon EU for $10, WFH? Wait for vaccine, GCP lost $5.6B in 2020, cloud shells compared, Well switch my qubits! and more"
 draft = false
 slug = "204"
-tags = ["Cloud", "DevOps", "Kubernetes", "Google", "Open Source", "cloud shells", "environments", "Malware", "vaccine", "KubeCon", "cloud native", "Operators", "Chromium", "DNS", "qubits", "GCP", "developers", "continuous", "vulnerability"]
+tags = ["Cloud", "DevOps", "Kubernetes", "Google", "Open Source", "cloud shells", "environments", "Malware", "vaccine", "KubeCon", "cloud native", "Operators", "Chromium", "DNS", "qubits", "GCP", "developers", "continuous", "vulnerability", "quantum computing"]
 title = "DevOps'ish 204: Jassy's New Jam, KubeCon EU for $10, WFH? Wait for vaccine, GCP lost $5.6B in 2020, cloud shells compared, Well switch my qubits! and more"
 
 +++

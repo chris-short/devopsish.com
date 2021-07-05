@@ -6,7 +6,7 @@ date = 2020-11-29T07:00:00Z
 description = "ARM is here, KubeCon recaps, racist Coinbase, security and sysadmins, Stripe funding, Salesforce to buy Slack, us-east-1 postmortem, Kubernetes Operators, and more"
 draft = false
 slug = "194"
-tags = ["ARM", "Apple", "cloud", "cloud native", "Kubernetes", "DevOps", "KubeCon", "Linux", "Tony Hsieh",  "Zappos", "Intel", "Windows", "Zoomsterbating", "Open Source", "security", "Microsoft", "market", "Coinbase", "Red Hat", "Salesforce", "Slack", "network", "supercomputers", "servers", "AWS", "capacity", "Raspberry Pi", "AMD", "Linux Torvalds", "biases", "racism", "images", "container", "Amazon", "developer", "operators", "XDP", "eBPF"]
+tags = ["ARM", "Apple", "cloud", "cloud native", "Kubernetes", "DevOps", "KubeCon", "Linux", "Tony Hsieh",  "Zappos", "Intel", "Windows", "Zoomsterbating", "Open Source", "security", "Microsoft", "market", "Coinbase", "Red Hat", "Salesforce", "Slack", "network", "supercomputers", "servers", "AWS", "capacity", "Raspberry Pi", "AMD", "Linux Torvalds", "biases", "racism", "images", "container", "Amazon", "developer", "operators", "XDP", "eBPF", "LGBTQ+"]
 title = "DevOps'ish 194"
 
 +++
