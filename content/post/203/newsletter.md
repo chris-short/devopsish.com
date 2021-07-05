@@ -6,7 +6,7 @@ date = 2021-01-31T07:00:00Z
 description = "Job hopping, Block Party, Perl.com pain, SSPL sucks, sudo vuln, cloud trends, the beauty of Windows 3.11, and more"
 draft = false
 slug = "203"
-tags = []
+tags = ["cloud", "Cloud Native", "DevOps", "open source", "Red Hat", "network", "Windows", "sudo", "Tracy Chou", "AWS", "trends", "nmap", "LaunchDarkly", "GitOps", "compensation", "culture", "impact", "community", "development", "software development", "Solarwinds", "security", "disinformation", "infrastructure", "runtime", "Microsoft", "IBM"]
 title = "DevOps'ish 203: Job hopping, Block Party, Perl.com pain, SSPL sucks, sudo vuln, cloud trends, the beauty of Windows 3.11, and more"
 
 +++
