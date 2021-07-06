@@ -60,8 +60,3 @@ HUGO_ENABLEGITINFO = "true"
     Referrer-Policy = "no-referrer, strict-origin-when-cross-origin"
     X-Content-Type-Options = "nosniff"
     Permissions-Policy = 'fullscreen=(self "https://devopsish.com"), geolocation=(), camera=(), microphone=()'
-    Content-Security-Policy-Report-Only = "report-uri https://chrisshort.report-uri.com/r/d/csp/wizard"
-    Report-To = '{"group":"default","max_age":31536000,"endpoints":[{"url":"https://chrisshort.report-uri.com/a/d/g"}],"include_subdomains":true}'
-    NEL = '{"report_to":"default","max_age":31536000,"include_subdomains":true}'
-    Cross-Origin-Embedder-Policy-Report-Only = "report-to=https://chrisshort.report-uri.com/r/d/csp/wizard"
-    Cross-Origin-Opener-Policy-Report-Only = "report-to=https://chrisshort.report-uri.com/r/d/csp/wizard"
