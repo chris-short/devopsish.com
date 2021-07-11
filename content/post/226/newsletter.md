@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-07-11T07:00:00Z
-description = []
+description = ["Kubernetes non-code contributions, don't ban politics at work, engineers waste 1 day a week on technical debt, CentOS Stream is working out, and more"]
 draft = false
 slug = "226"
-tags = []
-title = "DevOps'ish 226"
+tags = ["code", "Kubernetes", "cloud", "time", "DevOps", "observability", "git", "software", "Cloud Native", "technical debt", "AWS", "engineer", "quantum", "contributor", "community", "leader", "Pentagon", "JEDI", "open source", "China", "Jim Whitehurst", "IBM", "Red Hat", "developer", "Didi", "CentOS", "Linux", "Sourcegraph", "printnightmare", "Intel"]
+title = "DevOps'ish 226: Kubernetes non-code contributions, don't ban politics at work, engineers waste 1 day a week on technical debt, CentOS Stream is working out, and more"
 
 +++
 
@@ -26,7 +26,7 @@ Then it got worse. I won't go into details but, let's just say it was the cherry
 [How to choose a SIG as a non-code Kubernetes contributor](https://www.kubernetes.dev/blog/2021/07/09/how-to-choose-a-sig-as-a-non-code-kubernetes-contributor/)  
 "To join the Kubernetes community, I recommend finding a SIG where your skills align, doing things you want to do in your off time. There's a [list of Kubernetes SIGs](https://www.kubernetes.dev/resources/community-groups/) with a lot of great options. If you're not sure where to go, start with [Contributor Experience](https://github.com/kubernetes/community/tree/master/sig-contributor-experience). We're here to help."
 
-[LaunchDarkly Named a Leader in Feature Management and Experimentation](https://learn.launchdarkly.com/forrester-wave/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q2-newsletter&utm_content=ebook_forrester_newwave)
+[LaunchDarkly Named a Leader in Feature Management and Experimentation](https://learn.launchdarkly.com/forrester-wave/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q2-newsletter&utm_content=ebook_forrester_newwave)  
 Discover why in its first Wave report dedicated to Feature Management And Experimentation, Forrester rates LaunchDarkly's platform a Leader among vendor features that enable development teams to reduce software release headaches and enable true testing in production. [Download today](https://learn.launchdarkly.com/forrester-wave/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q2-newsletter&utm_content=ebook_forrester_newwave)! *SPONSORED*
 
 [Engineering Management for the Rest of Us](https://www.engmanagement.dev/)  
@@ -41,7 +41,7 @@ China now has the fastest quantum computer on the planet. How they did it was in
 [IBM's Jim Whitehurst Says He's Leaving to Find a New Chance to Run Something](https://www.barrons.com/articles/ibm-jim-whitehurst-51625661249)  
 Jim Whitehurst is leaving IBM to find a new chance to run something. No crazy shenanigans. [Business as usual at Red Hat](https://www.redhat.com/en/blog/red-hat-still-red-hat).
 
-[“Bad mergers” and noncompete clauses targeted in Biden executive order | Ars Technica](https://arstechnica.com/tech-policy/2021/07/biden-seeks-trustbuster-status-in-push-to-unwind-bad-mergers/)  
+['Bad mergers' and noncompete clauses targeted in Biden executive order](https://arstechnica.com/tech-policy/2021/07/biden-seeks-trustbuster-status-in-push-to-unwind-bad-mergers/)  
 Good.
 
 [SARS-CoV-2 immune evasion by the B.1.427/B.1.429 variant of concern](https://science.sciencemag.org/content/early/2021/06/30/science.abi7994)  
