@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-07-18T07:00:00Z
-description = []
+description = ["So hot right now, Sunk Cost Fallacy, Right to Repair, future of tech events, HelloKitty ransomware now targets VMware ESXi, GitHub Copilot, and more."]
 draft = false
 slug = "227"
-tags = []
-title = "DevOps'ish 227: "
+tags = ["Kubernetes", "cloud", "Cloud Native", "DevOps", "heat", "hot", "time", "code", "security", "GitHub", "GitHub Copilot", "curl", "tech", "finance", "Istio", "ransomware", "observability", "open source software", "wet bulb", "Kubernetes clusters", "learning", "Linux", "traffic", "AWS", "live streaming", "management", "experimentation", "release", "production", "legislation", "developers", "performance", "Deciduous", "serverless", "sunk cost fallacy", "Intel", ""]
+title = "DevOps'ish 227: So hot right now, Sunk Cost Fallacy, Right to Repair, future of tech events, HelloKitty ransomware now targets VMware ESXi, GitHub Copilot, and more."
 
 +++
 
@@ -50,7 +50,7 @@ I'd take this a step farther past "events" and into everyday life. All the mediu
 [LaunchDarkly Named a Leader in Feature Management and Experimentation](https://learn.launchdarkly.com/forrester-wave/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q2-newsletter&utm_content=ebook_forrester_newwave)  
 Discover why in its first Wave report dedicated to Feature Management And Experimentation, Forrester rates LaunchDarkly's platform a Leader among vendor features that enable development teams to reduce software release headaches and enable true testing in production. [Download today](https://learn.launchdarkly.com/forrester-wave/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q2-newsletter&utm_content=ebook_forrester_newwave)! *SPONSORED*
 
-[HelloKitty ransomware now targets VMware ESXi serversSecurity Affairs](https://securityaffairs.co/wordpress/120158/cyber-crime/hellokitty-ransomware-linux-variant.html)  
+[HelloKitty ransomware now targets VMware ESXi servers](https://securityaffairs.co/wordpress/120158/cyber-crime/hellokitty-ransomware-linux-variant.html)  
 Bad kitty! Down kitty! No kitty, no!
 
 [Kubernetes Security](https://kubernetes-security.info/)  
