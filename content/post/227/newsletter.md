@@ -31,7 +31,7 @@ The 2021 Observability Maturity Community Research report is the first-ever year
 "Many managers are susceptible to the famous sunk cost effect, whereby they persist investing in a money-losing project even when it makes sense to invest the new money in alternative new projects. The research-based tool presented in this article enables managers to measure that susceptibility."
 
 [Gmail embraces BIMI to authenticate emails with verified logos](https://venturebeat.com/2021/07/12/gmail-embraces-bimi-to-authenticate-emails-with-verified-logos/)  
-Brace yourselves for logos in your eamils' headers.
+Brace yourselves for logos in your emails' headers.
 
 [Cities along the Great Lakes Face Rising Water and Costs](https://www.scientificamerican.com/article/cities-along-the-great-lakes-face-rising-water-and-costs/)  
 "'High water levels, paired with severe storm events and wave action, are leading to greater erosion and flooding that threaten public and private properties, critical infrastructure, and recreation and tourism amenities in shoreline communities,' said Walter Sendzik, chair of the Great Lakes and St. Lawrence Cities Initiative and mayor of St. Catharines, Ontario."
