@@ -45,7 +45,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [SysAdvent 2019 Author/Editor Signup](https://devopsi.sh/sysadvent) — Have you ever wanted to get a big boost to your own brand while describing the work you've done? SysAdvent is the place to do it. I signed up to be an editor; give me something to edit!
 
-[AWS billing is broken and Kubernetes won't last, says irreverent economist Corey Quinn](https://www.techrepublic.com/article/aws-billing-is-broken-and-kubernetes-wont-last-says-irreverent-economist-corey-quinn/) — For a time longer than I want to admit, I thought the headline said irrelevant. I thought nothing of it because Corey would write a  headline like that. "The most consistent mistake that everyone makes when using AWS—this extends to life as well—is once people learn something, they stop keeping current on that thing." If you read this newsletter you're doing yourself a tremendous service. Corey has an amazing [AWS newsletter](https://www.lastweekinaws.com/) too.
+[AWS billing is broken and Kubernetes won't last, says irreverent economist Corey Quinn](https://www.techrepublic.com/article/aws-billing-is-broken-and-kubernetes-wont-last-says-irreverent-economist-corey-quinn/) — For a time longer than I want to admit, I thought the headline said irrelevant. I thought nothing of it because Corey would write a  headline like that. "The most consistent mistake that everyone makes when using AWS—this extends to life as well—is once people learn something, they stop keeping current on that thing." If you read this newsletter you're doing yourself a tremendous service. Corey has an amazing [AWS newsletter](https://www.ref.lastweekinaws.com/7h1z3x) too.
 
 ## Process
 

@@ -87,7 +87,7 @@ Where: From your desktop, laptop, or mobile device
 
 [You don't need that Bastion host](https://medium.com/@henriksylvesterpedersen/you-dont-need-that-bastion-host-cd1b1717a9e7): Controversial thinking to some. But, unless you don't have a VPN and have no baseline hardening automation, you probably don't need a bastion host.
 
-[Terrible Ideas in Git](https://www.linuxjournal.com/content/terrible-ideas-git) by the (in)famous [Corey Quinn](https://lastweekinaws.com/): "The unfortunate truth that's rarely discussed in detail is that git has a dark side: it makes us feel dumb."
+[Terrible Ideas in Git](https://www.linuxjournal.com/content/terrible-ideas-git) by the (in)famous [Corey Quinn](https://ref.lastweekinaws.com/7h1z3x): "The unfortunate truth that's rarely discussed in detail is that git has a dark side: it makes us feel dumb."
 
 [How Red Hat has come to dominate Kubernetes](https://www.infoworld.com/article/3285908/containers/how-red-hat-has-come-to-dominate-kubernetes.html): Kubernetes seems destined to rule enterprise infrastructure, but, oddly, only Google and Red Hat seem to be playing to win in Kubernetes
 

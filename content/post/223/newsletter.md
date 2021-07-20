@@ -29,7 +29,7 @@ I don't blame anyone for pursuing jobs that fit better to their lifestyle. I als
 Southwest had a rough week.
 
 [Petition To Not Allow Jeff Bezos Re-Entry To Earth](https://www.change.org/p/blue-origin-petition-to-not-allow-jeff-bezos-re-entry-to-earth)  
-I expect thorough coverage of this in [Last Week in AWS](https://lastweekinaws.com/?grsf=7h1z3x). But, 17,000+ people are on board with this.
+I expect thorough coverage of this in [Last Week in AWS](https://ref.lastweekinaws.com/7h1z3x). But, 17,000+ people are on board with this.
 
 [The iPhone 12 Mini Makes Me Sick (Literally)](https://spectrum.ieee.org/view-from-the-valley/consumer-electronics/audiovideo/the-iphone-12-mini-makes-me-sick-literally)  
 How a screen lights itself can cause major problems for some people.

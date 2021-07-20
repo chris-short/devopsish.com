@@ -19,8 +19,8 @@ Trying out new continuous delivery tools can take some time, so the team at GoCD
 [**The real story on container, cloud, and data adoption**](https://www.oreilly.com/pub/cpc/175842)  
 Poll results reveal where and why organizations choose to use containers, cloud platforms, and data pipelines. *SPONSORED*
 
-[**AWS re:Invent 2018 is THIS WEEK**](https://lastweekinaws.com/)  
-Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don't cover AWS much unless I feel like it's amazing news. If you want great AWS coverage and snark subscribe to [Last Week in AWS](https://lastweekinaws.com/). *SPONSORED*
+[**AWS re:Invent 2018 is THIS WEEK**](https://ref.lastweekinaws.com/7h1z3x)  
+Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don't cover AWS much unless I feel like it's amazing news. If you want great AWS coverage and snark subscribe to [Last Week in AWS](https://ref.lastweekinaws.com/7h1z3x). *SPONSORED*
 
 
 ## People

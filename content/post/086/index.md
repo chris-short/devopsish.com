@@ -102,7 +102,7 @@ As part of the DevOpsDays umbrella, we invite you to sunny (yup, even in Decembe
 
 [Amazon cloud revenue jumps 49 percent](https://www.cnbc.com/2018/07/26/aws-earnings-q2-2018.html): Amazon is huge and maybe that's a bad thing.
 
-[How to avoid cloud sticker shock](https://enterprisersproject.com/article/2018/7/how-avoid-cloud-sticker-shock): I usually call [Corey Quinn](https://lastweekinaws.com/) but, as usual, proper planning prevents piss poor performance.
+[How to avoid cloud sticker shock](https://enterprisersproject.com/article/2018/7/how-avoid-cloud-sticker-shock): I usually call [Corey Quinn](https://ref.lastweekinaws.com/7h1z3x) but, as usual, proper planning prevents piss poor performance.
 
 [Shift Happens, Why Your Software Needs To 'Shift Left'](https://www.forbes.com/sites/adrianbridgwater/2018/07/23/shift-happens-why-your-software-needs-to-shift-left/#53f9ba217f8c): Shift left testing is defined as application and wider system testing that happens earlier in the software development lifecycle. Shift left also means moving the developer, process, technology platform, device and its connections closer to the customer and end user.
 
