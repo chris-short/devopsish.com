@@ -31,4 +31,4 @@ We are looking for passionate Go developers with strong AWS skills to work with 
 
 [AWS Now Available from a Local Zone in Los Angeles](https://aws.amazon.com/blogs/aws/aws-now-available-from-a-local-zone-in-los-angeles/) — Not a region, not an availability zone. Local zones aim to put AWS resources closer to where users are and are managed under existing regions (LA is tied to us-west-2). Think of it as CDN for AWS services.
 
-For more extensive coverage of Amazon Web Services, I'd highly encourage you to subscribe to Corey Quinn's [Last Week in AWS](https://www.lastweekinaws.com/).
+For more extensive coverage of Amazon Web Services, I'd highly encourage you to subscribe to Corey Quinn's [Last Week in AWS](https://www.ref.lastweekinaws.com/7h1z3x).

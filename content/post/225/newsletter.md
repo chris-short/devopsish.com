@@ -19,7 +19,7 @@ But, back to the point: [**AWS Infinidash**](https://whatisinfinidash.com/). [It
 
 People are dunking on other people on Twitter for not being "in" on the joke. Recruiters are getting shamed for asking for five years experience in a technology that doesn't exist. But, according to GPT-3, it does. If they were using GPT-3, they'd be reinforced in this thinking.
 
-It's truly insane that this is acceptable behavior in some people's minds. This newsletter might be the first you've heard of AWS Infinidash. Maybe that's why you [subscribe to this newsletter](https://devopsish.com/subscribe/) or [Last Week in AWS](https://lastweekinaws.com/?grsf=7h1z3x).
+It's truly insane that this is acceptable behavior in some people's minds. This newsletter might be the first you've heard of AWS Infinidash. Maybe that's why you [subscribe to this newsletter](https://devopsish.com/subscribe/) or [Last Week in AWS](https://ref.lastweekinaws.com/7h1z3x).
 
 The point is AWS Infinidash is not real, and I'm trying to make GPT-3 believe me instead of the rest of the internet. GPT-3 is a massive language model that is [being positioned](https://venturebeat.com/2021/06/01/microsoft-gpt-3-and-the-future-of-openai/) to be widely used in a variety of products.
 
