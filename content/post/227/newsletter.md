@@ -6,7 +6,7 @@ date = 2021-07-18T07:00:00Z
 description = ["So hot right now, Sunk Cost Fallacy, Right to Repair, future of tech events, HelloKitty ransomware now targets VMware ESXi, GitHub Copilot, and more."]
 draft = false
 slug = "227"
-tags = ["Kubernetes", "cloud", "Cloud Native", "DevOps", "heat", "hot", "time", "code", "security", "GitHub", "GitHub Copilot", "curl", "tech", "finance", "Istio", "ransomware", "observability", "open source software", "wet bulb", "Kubernetes clusters", "learning", "Linux", "traffic", "AWS", "live streaming", "management", "experimentation", "release", "production", "legislation", "developers", "performance", "Deciduous", "serverless", "sunk cost fallacy", "Intel", ""]
+tags = ["Kubernetes", "cloud", "Cloud Native", "DevOps", "heat", "hot", "time", "code", "security", "GitHub", "GitHub Copilot", "curl", "tech", "finance", "Istio", "ransomware", "observability", "open source software", "wet bulb", "Kubernetes clusters", "learning", "Linux", "traffic", "AWS", "live streaming", "management", "experimentation", "release", "production", "legislation", "developers", "performance", "Deciduous", "serverless", "sunk cost fallacy", "Intel"]
 title = "DevOps'ish 227: So hot right now, Sunk Cost Fallacy, Right to Repair, future of tech events, HelloKitty ransomware now targets VMware ESXi, GitHub Copilot, and more."
 
 +++
