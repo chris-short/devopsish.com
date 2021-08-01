@@ -23,32 +23,77 @@ My wife said the weekend felt like three weeks on Tuesday while I nodded in vigo
 
 ## People
 
-PEOPLE
+[GitHub Hires Former NSA OSS Chief as VP of Security Operations](https://thenewstack.io/github-hires-former-nsa-oss-chief-as-vp-of-security-operations/)  
+Looks like GitHub is taking the whole secure pipeline thing to heart.
 
-Good news! [Honeycomb](https://ui.honeycomb.io/signup/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup) just published new chapters in their upcoming O’Reilly book, written by Charity Majors, Liz Fong-Jones, and George Miranda. [Read this preview today](https://info.honeycomb.io/observability-engineering-oreilly-book-preview-0?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=devopsish&utm_adgroup) to learn what constitutes good observability and how to make improvements from what you’re doing now. These chapters also provide practical do’s and don’ts for migrating from legacy tooling, such as metrics monitoring and log management.
+Good news! [Honeycomb](https://ui.honeycomb.io/signup/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup) just published new chapters in their upcoming O'Reilly book, written by Charity Majors, Liz Fong-Jones, and George Miranda. [Read this preview today](https://info.honeycomb.io/observability-engineering-oreilly-book-preview-0?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=devopsish&utm_adgroup) to learn what constitutes good observability and how to make improvements from what you're doing now. These chapters also provide practical do's and don'ts for migrating from legacy tooling, such as metrics monitoring and log management.
 
-PEOPLE
+[GitOps Guide to the Galaxy (Ep 19): GitOps with Codefresh](https://www.youtube.com/watch?v=czQlQ0z-21o)  
+Christian Hernandez and I sit down and talk to Dan Garfield about GitOps at Codefresh.
+
+[Nooses, Anger and No Answers: Inside the Uproar Over a Future Amazon Site](https://www.nytimes.com/2021/07/30/technology/amazon-nooses-warehouse.html)  
+Amazon doesn't actually own the warehouse until it's done. The town is at a loss as to what to do. Then low and behold they say only two were technically nooses. What the fuck? Cops are grading knot tying now? If I walked into any building with a noose or anything that looked like a noose, I'd be looking for the person who put it there and less worried about the quality. Racist towns are the future ghost towns.
+
+[Credit to Tech's Pandemic Leadership](https://www.nytimes.com/2021/07/30/technology/tech-companies-pandemic.html)  
+Despite everything else, "America's tech companies have been leading the way for how large employers should aid in the country's pandemic response."
+
+[Israel begins investigation into NSO Group spyware abuse](https://www.technologyreview.com/2021/07/28/1030244/israel-investigation-nso-group-pegasus-spyware/)  
+"'We want them to check everything,' says the CEO of a cybersecurity company implicated in campaigns against politicians, activists, and other notable figures."
 
 ## Process
 
-PROCESS
+[From Stolen Laptop to Inside the Company Network](https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network)  
+From trivial loss of property to holy 🤬 🤬!!!
 
 [LaunchDarkly Named a Leader in Feature Management and Experimentation](https://learn.launchdarkly.com/forrester-wave/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q2-newsletter&utm_content=ebook_forrester_newwave)  
 Discover why in its first Wave report dedicated to Feature Management And Experimentation, Forrester rates LaunchDarkly's platform a Leader among vendor features that enable development teams to reduce software release headaches and enable true testing in production. [Download today](https://learn.launchdarkly.com/forrester-wave/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q2-newsletter&utm_content=ebook_forrester_newwave)! *SPONSORED*
 
-PROCESS
+[Cut us some Slack: $27bn+ later, collab tool officially belongs to Salesforce](https://www.theregister.com/2021/07/22/salesforce_slack_acquisition_closes/)  
+If you're in the US and watched *ANY* Olympic coverage I'm sure you've been reminded excessively of the closure of this deal.
+
+[The Level Up Hour (E42): IT security jargon and lingo](https://www.youtube.com/watch?v=Y3uvNzJRExk)  
+"A lot of terms get thrown around when it comes to IT security, and sometimes it's hard to keep it all straight. So in this episode, let's go through the various security buzzwords and jargon you've likely come across as developers. We'll explain any basics you may have been missing during the last episode, and some of the deeper topics we'll cover will be: authentication, authorization, attestation, DevSecOps, SPIFFE, SPIRE and anything else you can think of. So if anything in that sentence was a new term to you, buckle up because we'll cover it in this talk. Oh, and let's not forget TLS, which is *not* SSL, but everyone thinks it is."
+
+[About Google Drive's "A security update will be applied to some of your files" message](https://www.ghacks.net/2021/07/29/about-google-drives-a-security-update-will-be-applied-to-some-of-your-files-message/)  
+I've seen this quite a few times lately but didn't really understand the why behind. Well, now I know.
+
+[MeteorExpress | Mysterious Wiper Paralyzes Iranian Trains with Epic Troll](https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/)  
+The Iranian train system was hacked, trolled, and an all new wiper was discovered in the process.
 
 ## Tools
 
-TOOLS
+[Announcing Linkerd's Graduation](https://linkerd.io/2021/07/28/announcing-cncf-graduation/)  
+Now the real service mesh war has begun.
 
 [It's time for Dev Tool Time!](https://info.sourcegraph.com/dev-tool-time?utm_source=devopsish&utm_medium=text&utm_campaign=dev-tool-time&utm_content=event-text)  
 Join Sourcegraph for our bi-monthly [virtual web series](https://info.sourcegraph.com/dev-tool-time?utm_source=devopsish&utm_medium=text&utm_campaign=dev-tool-time&utm_content=event-text) where we invite great developers to talk about their favorite dev tools, productivity hacks, and more. [Register now](https://info.sourcegraph.com/dev-tool-time?utm_source=devopsish&utm_medium=text&utm_campaign=dev-tool-time&utm_content=event-text).
 
-TOOLS
+[Kubernetes 1.22 - What's new? - New features and deprecations](https://sysdig.com/blog/kubernetes-1-22-whats-new/)  
+"This release brings 56 enhancements, an increase from 50 in Kubernetes 1.21 and 43 in Kubernetes 1.20. Of those 56 enhancements, 13 are graduating to Stable, a whopping 24 are existing features that keep improving, and 16 are completely new."
+
+[Deploying Microsoft's New Linux Distribution as a VM is Not Easy](https://thenewstack.io/deploying-microsofts-new-linux-distribution-as-a-vm-is-not-easy/)  
+Well, it was designed to be used in Azure so I'm not sure what you were expecting.
+
+[TSMC Will Start Making 2nm Chips As Intel Tries to Catch Up](https://gizmodo.com/tsmc-will-start-making-2nm-chips-as-intel-tries-to-catc-1847381091)  
+Intel being a laggard is something we might have to get used to for a year or two while Gelsinger picks up the pieces of the chip maker.
+
+[Spending On Cloud Outposts Is Climbing The Hockey Stick](https://www.nextplatform.com/2021/07/30/spending-on-cloud-outposts-is-climbing-the-hockey-stick/)  
+Yeah, the cloud doesn't solve everything. Who knew?
+
+[First ‘Time Crystal' Built Using Google's Quantum Computer](https://www.quantamagazine.org/first-time-crystal-built-using-googles-quantum-computer-20210730/)  
+"Like a perpetual motion machine, a time crystal forever cycles between states without consuming energy. Physicists claim to have built this new phase of matter inside a quantum computer."
+
+[Cosign 1.0!. And other Sigstore July Updates!](https://blog.sigstore.dev/cosign-1-0-e82f006f7bc4)
+
+[Hundreds of Ways to Get S#!+ Done—and We Still Don't](https://www.wired.com/story/to-do-apps-failed-productivity-tools/)  
+I really don't think this is a tooling problem. I used to be highly organized and a detailed note taker. Sadly, nowadays, my work and decisions have to happen in a just in time manner or otherwise I'd be the most organized person at work. The tools have to come with processes for people to use them.
+
+[backube/scribe](https://github.com/backube/scribe)  
+Asynchronous data replication for Kubernetes CSI storage
+
 
 ## DevOps'ish Tweet of the Week
 
-[![🐹 Instafluff on Twitter: "Evolution https://t.co/NMQbxpvqB1" / Twitter](/images/228-devopsish-tweet-of-the-week.png)](https://twitter.com/instaflufftv/status/1414674634440540160)
+[![amy nguyen (@amyngyn) on Twitter: "Google encouraged employees who experienced harassment/assault to use their Employee Assistance Program benefits (provided by Lyra Health), then pressured counselors to provide records of their sessions to use in court when those employees filed lawsuits https://t.co/jTy9vwws5f"](/images/228-devopsish-tweet-of-the-week.png)](https://twitter.com/instaflufftv/status/1414674634440540160)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/228/notes/) to see what didn't make it to the newsletter but are still worth your time.
