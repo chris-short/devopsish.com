@@ -25,7 +25,7 @@ My wife said the weekend felt like three weeks on Tuesday while I nodded in vigo
 
 PEOPLE
 
-AD
+Good news! [Honeycomb](https://ui.honeycomb.io/signup/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup) just published new chapters in their upcoming O’Reilly book, written by Charity Majors, Liz Fong-Jones, and George Miranda. [Read this preview today](https://info.honeycomb.io/observability-engineering-oreilly-book-preview-0?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=devopsish&utm_adgroup) to learn what constitutes good observability and how to make improvements from what you’re doing now. These chapters also provide practical do’s and don’ts for migrating from legacy tooling, such as metrics monitoring and log management.
 
 PEOPLE
 
@@ -33,7 +33,8 @@ PEOPLE
 
 PROCESS
 
-AD
+[LaunchDarkly Named a Leader in Feature Management and Experimentation](https://learn.launchdarkly.com/forrester-wave/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q2-newsletter&utm_content=ebook_forrester_newwave)  
+Discover why in its first Wave report dedicated to Feature Management And Experimentation, Forrester rates LaunchDarkly's platform a Leader among vendor features that enable development teams to reduce software release headaches and enable true testing in production. [Download today](https://learn.launchdarkly.com/forrester-wave/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=21q2-newsletter&utm_content=ebook_forrester_newwave)! *SPONSORED*
 
 PROCESS
 
@@ -41,7 +42,8 @@ PROCESS
 
 TOOLS
 
-AD
+[It's time for Dev Tool Time!](https://info.sourcegraph.com/dev-tool-time?utm_source=devopsish&utm_medium=text&utm_campaign=dev-tool-time&utm_content=event-text)  
+Join Sourcegraph for our bi-monthly [virtual web series](https://info.sourcegraph.com/dev-tool-time?utm_source=devopsish&utm_medium=text&utm_campaign=dev-tool-time&utm_content=event-text) where we invite great developers to talk about their favorite dev tools, productivity hacks, and more. [Register now](https://info.sourcegraph.com/dev-tool-time?utm_source=devopsish&utm_medium=text&utm_campaign=dev-tool-time&utm_content=event-text).
 
 TOOLS
 
