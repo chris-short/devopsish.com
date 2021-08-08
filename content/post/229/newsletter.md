@@ -66,7 +66,7 @@ All the bad things (so far) about HTTP/2.
 See how env0 automates and simplifies the provisioning of cloud deployments for Terraform, Terragrunt and GitOps workflows. Variables and Secrets granularity, Full CLI support, integration with OPA, Dymanic RBAC and quality of life features. Free Demo. *SPONSORED*
 
 [NSA, CISA release Kubernetes Hardening Guidance](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)  
-This is a big deal. What's one of the first pieces of guidance? Using non-root containers. There are good example YAMLs in the appendix as well. [PDF](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
+This is a big deal. The NSA guides are top-notch reference material. What’s one of the first pieces of guidance? Using non-root containers. There are good example YAMLs in the appendix as well. [PDF](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 
 [SolarWinds urges US judge to toss out crap infosec sueball: We got pwned by actual Russia, give us a break](https://www.theregister.com/2021/08/04/solarwinds_lawsuit_shareholders_motion_dismiss/)  
 Solarwinds is saying that they're, "the victim of the most sophisticated cyberattack in history" and shouldn't be held liable for loss in marker value by its shareholders. It's a reasonable argument, but this is a pretty big precedent to set too.
@@ -100,7 +100,7 @@ Hard drive reliability is at a new peak. This report is fascinating.
 [Postgres.app – the easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com/)  
 Neat!
 
-[A GPSD time warp [LWN.net]](https://lwn.net/SubscriberLink/865044/c7d4680c55526374/)  
+[A GPSD time warp](https://lwn.net/SubscriberLink/865044/c7d4680c55526374/)  
 If you're like me and have been a GPS consumer since before consumers got highly accurate GPS data, you probably understand how bad of a problem this is.
 
 [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)  
