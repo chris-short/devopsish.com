@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-08-08T07:00:00Z
-description = [""]
+description = ["Kubernetes 1.22, KubeCon schedule announced, security fails abound, Zoom's paltry fine, finally death to 996, NSA Kubernetes Hardening Guidance, and much more"]
 draft = false
 slug = "229"
-tags = []
-title = "DevOps'ish 229: Kubernetes 1.22, KubeCon schedule announced, "
+tags = ["Kubernetes", "code", "DevOps", "KubeCon", "tech", "news", "cloud native", "containers", "Amazon", "DNS", "security", "infrastructure", "policy", "engineering", "reliability", "time", "time", "HTTP2", "Windows", "servers", "Terraform", "pod", "controller", "release", "GitHub", "SRE", "rootless containers", "privacy", "996", "GitOps", "Solarwinds", "Intel", "Tekton", "ArgoCD", "Sourcegraph", "docker-compose", "Kompose", "Google", "Apple", "backdoor", "Microsoft", "open source", "hard drive", "GPS", "Git", "developers", "AWS", "UX", "VirtualBox", "macOS", "Linux"]
+title = "DevOps'ish 229: Kubernetes 1.22, KubeCon schedule announced, security fails abound, Zoom's paltry fine, finally death to 996, NSA Kubernetes Hardening Guidance, and much more"
 
 +++
 
