@@ -6,7 +6,11 @@ draft = false
 title = "Subscribe"
 aliases = [
 	"signup",
-	"newsletter"
+	"newsletter",
+	"get",
+	"sub",
+	"go",
+	"s"
 ]
 
 +++
