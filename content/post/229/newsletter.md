@@ -23,7 +23,7 @@ Kubernetes 1.22 shipped this week. I suggest you, at a minimum, read the [releas
 
 KubeCon NA 2021 acceptances went out this week and [the schedule is live](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/). I'm excited to say I'm teaming up with [Kaslin Fields](https://twitter.com/kaslinfields), [Bart Farrell](https://twitter.com/birthmarkbart), [Matthew Broberg](https://twitter.com/mbbroberg), and [Kunal Kushwaha](https://twitter.com/kunalstwt) for [a panel talk](https://kccncna2021.sched.com/event/lV3S) about what we've been doing in the [Kubernetes Upstream Marketing Team](https://github.com/kubernetes/community/tree/master/communication/marketing-team) (which includes the [@K8sContributors](https://twitter.com/K8sContributors/) Twitter handle and so much more).
 
-A note about KubeCon: I want everyone that might be speaking at a Day 0 event or trying to get to KubeCon to know that if anyone needs financial support, please apply for a scholarship, either diversity or needs-based here: <https://kubernetes.io/blog/2021/04/06/podsecuritypolicy-deprecation-past-present-and-future/>
+A note about KubeCon: I want everyone that might be speaking at a Day 0 event or trying to get to KubeCon to know that if anyone needs financial support, please apply for a scholarship, either diversity or needs-based here: <https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/scholarships/>
 
 ## People
 
