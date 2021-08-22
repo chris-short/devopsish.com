@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-08-22T07:00:00Z
-description = [""]
+description = ["Kubernetes 1.22 release team livestream, problems in Perl, glibc, eBPF, Pod Security Admission, secure supply chains, tools galore, and more"]
 draft = false
 slug = "231"
-tags = []
-title = "DevOps'ish 231: "
+tags = ["Kubernetes", "clusters", "security", "cloud native", "cloud", "release", "email", "hardening", "IoT", "eBPF", "Docker", "process", "Postman", "GitOps", "Linux", "pod", "CNCF", "Perl", "T-Mobile", "livestream", "Sackler family", "opioid", "glibc", "patterns", "confusing", "open source", "Google", "community", "incident management", "CIS Benchmark", "NSA", "supply chain", "DC/OS", "automate", "Red Hat", "AWS", "Samsung"]
+title = "DevOps'ish 231: Kubernetes 1.22 release team livestream, problems in Perl, glibc, eBPF, Pod Security Admission, secure supply chains, tools galore, and more"
 
 +++
 
-My military service and tech worlds collided this week. I can't say much about it yet but, I've been insanely busy with an array of things I never thought I'd need to do. More to come later. Join the [DevOps'ish subreddit](https://www.reddit.com/r/devopsish/) and talk about how bad the intro was.
+My military service and tech worlds collided this week. I can't say much about it yet but, I've been insanely busy with an array of things I never thought I'd need to do. More to come later. Join the [DevOps'ish subreddit](https://www.reddit.com/r/devopsish/) and talk about how bad the intro was. Our how dope the [notes page](https://devopsish.com/231/notes/) is for this issue.
 
 ## People
 
@@ -99,6 +99,9 @@ Put a fork in DC/OS. It's done.
 
 [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace)  
 "Schedule bpftrace programs on your kubernetes cluster using the kubectl"
+
+[armosec/kubescape](https://github.com/armosec/kubescape)  
+"kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (<https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/>)"
 
 [homeport/havener: /ˈheɪvənə/](https://github.com/homeport/havener)  
 "Think of it as a swiss army knife for Kubernetes tasks"
