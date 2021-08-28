@@ -74,8 +74,6 @@ title = "DevOps'ish 232 Notes"
 
 [GitHub - iovisor/kubectl-trace: Schedule bpftrace programs on your kubernetes cluster using the kubectl](https://github.com/iovisor/kubectl-trace)
 
-[https://twitter.com/anothercohen/status/1427753293900500997?s=12](https://twitter.com/anothercohen/status/1427753293900500997?s=12)
-
 [A Checklist of Cloud Security Orienteering · GitHub](https://gist.github.com/ramimac/823e52befba373d71bc936d1742768f4)
 
 [NES and SNES designer retires from Nintendo after nearly 40 years | Engadget](https://www.engadget.com/nes-snes-designer-lance-barr-retires-145657155.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw&guce_referrer_sig=AQAAAG-v5HTODv4Fc6HN1qCz35KasNxq1frIY3ul7TkU16tWz6ga6eN6q79jLKXXptLNQ8SqXztsxeKPPYf16680WsMwU9gLu_tdGhENk0W4Pl2OeIQ2FHuH8qjpgvEcfXL1QUiYEBjf5Idj57V7McBWWv-7viKvboPinjfAFABAKXpA)
