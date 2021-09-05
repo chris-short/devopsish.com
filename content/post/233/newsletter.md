@@ -6,7 +6,7 @@ date = 2021-09-05T07:00:00Z
 description = ["Luke Hinds of Sigstore, three REALLY bad breaches/bugs, Docker's increasing desparation, Kubernetes mTLS, update your Operators, BGP & filesystem benchmarks, and more"]
 draft = false
 slug = "233"
-tags = []
+tags = ["Kubernetes", "cloud native", "Luke Hinds", "Docker", "DevOps", "Operators", "BGP", "filesystem", "benchmarks", "mTLS", "security", "Sigstore", "systems", "infrastructure", "abstraction", "Terraform", "Ansible", "code", "CNCF", "GitOps", "IoT", "database", "nginx", "failure", "trust but verify"]
 title = "DevOps'ish 233: Luke Hinds of Sigstore, three REALLY bad breaches/bugs, Docker's increasing desparation, Kubernetes mTLS, update your Operators, BGP & filesystem benchmarks, and more"
 
 +++
@@ -87,8 +87,8 @@ Which filesystem should you use for your needs?
 [Comparing Open Source BGP stacks with internet routes](https://elegantnetwork.github.io/posts/comparing-open-source-bgp-internet-routes/)  
 I love this comparison. BGP is so handy so knowing which implementation to use is a big deal.
 
-[Release NGINX Ingress Controller - v1.0.0 · kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.0.0)
-"Ingress NGINX v1.0.0 is HERE! With support for Kubernetes v1.22 and dropping support for v1beta1!"``````
+[Release NGINX Ingress Controller - v1.0.0 · kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.0.0)  
+"Ingress NGINX v1.0.0 is HERE! With support for Kubernetes v1.22 and dropping support for v1beta1!"
 
 [run-x/awesome-kubernetes](https://github.com/run-x/awesome-kubernetes)  
 "A curated list for awesome kubernetes projects, tools and resources."
