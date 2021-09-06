@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-09-05T07:00:00Z
-description = ["Luke Hinds of Sigstore, three REALLY bad breaches/bugs, Docker's increasing desparation, Kubernetes mTLS, update your Operators, BGP & filesystem benchmarks, and more"]
+description = ["Luke Hinds of Sigstore, three REALLY bad breaches/bugs, Docker's increasing desperation, Kubernetes mTLS, update your Operators, BGP & filesystem benchmarks, and more"]
 draft = false
 slug = "233"
 tags = ["Kubernetes", "cloud native", "Luke Hinds", "Docker", "DevOps", "Operators", "BGP", "filesystem", "benchmarks", "mTLS", "security", "Sigstore", "systems", "infrastructure", "abstraction", "Terraform", "Ansible", "code", "CNCF", "GitOps", "IoT", "database", "nginx", "failure", "trust but verify"]
-title = "DevOps'ish 233: Luke Hinds of Sigstore, three REALLY bad breaches/bugs, Docker's increasing desparation, Kubernetes mTLS, update your Operators, BGP & filesystem benchmarks, and more"
+title = "DevOps'ish 233: Luke Hinds of Sigstore, three REALLY bad breaches/bugs, Docker's increasing desperation, Kubernetes mTLS, update your Operators, BGP & filesystem benchmarks, and more"
 
 +++
 
