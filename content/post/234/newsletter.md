@@ -3,15 +3,13 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-09-12T07:00:00Z
-description = [""]
+description = ["Giving up on reopen dates, containers everywhere, Epic v. Apple, OWASP Top 10 changes, Kubernetes troubleshooting, Podman, and more"]
 draft = false
 slug = "234"
-tags = []
-title = "DevOps'ish 234: "
+tags = ["Kubernetes", "DevOps", "cloud", "cloud native", "containers", "Apple", "SRE", "open source", "malware", "Linux", "Podman", "macOS", "OWASP", "reopen", "security", "GitOps", "WhatsApp", "Grafana"]
+title = "DevOps'ish 234: Giving up on reopen dates, containers everywhere, Epic v. Apple, OWASP Top 10 changes, Kubernetes troubleshooting, Podman, and more"
 
 +++
-
-{{< tweet 1436678519841595392 >}}
 
 ## People
 
