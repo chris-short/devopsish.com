@@ -3,20 +3,20 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-09-19T07:00:00Z
-description = [""]
+description = ["Data scientists shouldn't need to know Kubernetes, Pay Transparency, ever popular PHP, Crossplane, Flux, Kubernetes Network Policies, kube-vip, and more"]
 draft = false
 slug = "235"
-tags = []
-title = "DevOps'ish 235: "
+tags = ["Kubernetes", "cloud", "cloud native", "DevOps", "Microsoft", "chaos", "network policies", "access controls", "site reliability engineer", "SRE", "PHP", "filesystem", "Facebook", "CNCF", "GitOps", "open source", "programming", "deployments", "Crossplace", "Flux", "Linux", "NTFS", "Flash", "Apple"]
+title = "DevOps'ish 235: Data scientists shouldn't need to know Kubernetes, Pay Transparency, ever popular PHP, Crossplane, Flux, Kubernetes Network Policies, kube-vip, and more"
 
 +++
 
 ## People
 
-[Why data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)  
+[Why data scientists shouldn't need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)  
 I 100% agree with this. At most, a data scientist should be able to make a working Dockerfile that needs hardening and careful inspection.
 
-[Facebook aware of Instagram’s harmful effect on teenage girls, leak reveals](https://www.theguardian.com/technology/2021/sep/14/facebook-aware-instagram-harmful-effect-teenage-girls-leak-reveals)  
+[Facebook aware of Instagram's harmful effect on teenage girls, leak reveals](https://www.theguardian.com/technology/2021/sep/14/facebook-aware-instagram-harmful-effect-teenage-girls-leak-reveals)  
 Facebook isn't a good company rarely that acts in the best interests of its users. They have a market cap over $1 trillion and their stock is still soaring to new heights. We should be actively encouraging people to delete Facebook affiliated tools from their lives.
 
 [Management platform for Infrastructure as Code Automation and Collaboration](https://app.env0.com/login?utm_campaign=devopsish&utm_source=nativeads&utm_medium=newsletter)  
@@ -61,7 +61,7 @@ Congrats to the Crossplane team!
 [CNCF Promotes GitOps Tool Flux to Incubated Status](https://www.infoq.com/news/2021/04/cncf-gitops-flux/)
 Congrats to the Flux team!
 
-[Results of Kubernetes Adoption Survey Show it’s Everywhere](https://cloud.redhat.com/blog/results-of-kubernetes-adoption-survey-show-its-everywhere)  
+[Results of Kubernetes Adoption Survey Show it's Everywhere](https://cloud.redhat.com/blog/results-of-kubernetes-adoption-survey-show-its-everywhere)  
 "94% of survey participants are using Kubernetes in production." I don't think it's that high industry wide but, that's still a lot of K8s.
 
 [StackRox Office Hours (E3): Kubernetes Network Policies](https://www.youtube.com/watch?v=-ry8lB3CWHA)  
