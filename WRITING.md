@@ -42,9 +42,10 @@ I asked Corey Quinn once about including a potentially controversial piece of co
 
 - DevOps
 - Open Source Software
-- Cloud Native topics
+- Cloud Native topics or projects
 - Kubernetes specifically
 - Cloud
+- Hyperscalers
 
 ### Prohibitions
 
@@ -87,7 +88,7 @@ Stories talking about tools used in environments across the globe belong in the 
 
 ### DevOps'ish Tweet of the Week
 
-The Tweet of the Week is a unique part of DevOps'ish. When finding funny, informative, or thought-provoking tweets (or threads), add them to Pocket throughout the week. At writing time, pull them into the notes.md file while building the newsletter. It's good to have a few to choose from, so keep that in mind throughout the week.
+The Tweet of the Week is a unique part of DevOps'ish. When finding funny, informative, or thought-provoking tweets (or threads), save throughout the week. At writing time, pull them into the notes.md file while building the newsletter. It's good to have a few to choose from, so keep that in mind throughout the week.
 
 After years of running the newsletter, it is apparent that people will make their accounts temporarily private, purge tweets of a certain age, or the Twitter API (much worse) is down at build time. Using the Hugo shortcode `tweet` to embed tweets is what had been done historically. But, as folks change their minds about what tweets are available to the public, the build will ultimately break, and that sucks.
 
@@ -113,13 +114,12 @@ Using your IDE of choice...
 
 Once you've built out the web version of the newsletter in your IDE and are almost ready to publish, proceed with the following...
 
-1. Ensure the DevOps'ish Tweet of the Week is committed to main and accessible via the production URL.
 1. Use the issue number and description as the subject (testing shows putting the description in the subject improves open rates).
-1. Use the previous week's newsletter as a template for this week's newsletter
+1. Use the previous week's newsletter as a template for this week's newsletter.
 1. Using the Hugo live render and View Source in your browser, copy the relevant HTML blocks into the appropriate newsletter section. Be sure that spacing and so forth look good through the use of `<div>&nbsp;</div>` to add blank lines where appropriate.
 1. Make sure you are proofreading as you go as you're in the browser tools like [Grammarly](https://grammarly.com/) and [Hemingway Editor](http://www.hemingwayapp.com/) are vitally important at typo and grammar correction. Be sure to make those corrections to the web issue in your IDE as well. You could also do this as a separate step entirely (for more extended intros, it's best to write them then run them through the tools for corrections sooner rather than later).
-1. The DevOps'ish Tweet of the Week should link to the devopsish.com URL for the screenshot. It should link to the tweet directly. The alt tag for the image should be the contents of the tweet itself (minus pictures).
-1. Make sure you send the newsletter to the correct mailing list and schedule it to send at 0700 UTC on Sunday.
+1. Update the View in Browser​ link is updated. At the moment, update [devopsi.sh/latest](https://devopsi.sh/latest) on [Rebrandly](https://app.rebrandly.com/).
+1. Schedule it to send at 0700 UTC on Sunday.
 
 ## Publishing the web version of the newsletter
 
@@ -128,3 +128,4 @@ After you built and scheduled the newsletter, come back to the article's web ver
 1. Commit all changes and edits to the issue's branch.
 1. Go to the previously generated PR and make sure everything is good to go
 1. Hit Squash and Merge, and the entire process is complete.
+1. A cronjob is in place as a GitHub Action to merge the newsletter at the appropriate time.

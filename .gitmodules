@@ -1,3 +1,3 @@
 [submodule "themes/hugo-theme-bootstrap4-blog"]
 	path = themes/hugo-theme-bootstrap4-blog
-	url = https://gitlab.com/chrisshort/hugo-theme-bootstrap4-blog.git
+	url = https://github.com/chris-short/hugo-theme-bootstrap4-blog.git
