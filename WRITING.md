@@ -1,3 +1,5 @@
+# Table of Contents
+
 - [DevOps'ish Writing Process](#devopsish-writing-process)
   - [Guiding Principles](#guiding-principles)
     - [5-5-10 Guideline](#5-5-10-guideline)
@@ -47,15 +49,15 @@ I asked Corey Quinn once about including a potentially controversial piece of co
 - Cloud
 - Hyperscalers
 
-### Prohibitions
+## Prohibitions
 
-#### No Medium, No Substack
+### No Medium, No Substack
 
 I have a hard standing rule not to publish content from medium.com or substack.com (see [nomedium.dev](https://nomedium.dev)). The authenticity, accessibility, correctness, and page load speed are all problems on these sites. Additionally, Medium provides a terrible experience for readers.
 
 There are some exceptions here. Some brands are using Medium as a CMS only. The [Netflix Engineering blog](https://netflixtechblog.com/) is one such example. They are using Medium as a platform only, are bringing their domains, and not monetizing the content in any way. These are safer to link to, but the No Medium rule is best adhered to as often as possible.
 
-#### Trash talking
+### Trash talking
 
 "Sunlight is the best disinfectant" —Louis Brandeis  
 "Don't punch down." —Corey Quinn
