@@ -58,6 +58,24 @@ Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsi
 [Monitor Your Container Environment in One Place](https://www.datadoghq.com/dg/monitor/containers/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=DevOpsish-Newsletter04&utm_content=Containers)  
 With Datadog's Live Container view, you can see every container's health, resource consumption, and running processes in real time. Datadog, a cloud-scale monitoring platform, allows you to easily monitor and manage your dynamic container fleet. Start today with a free 14-day trial. *SPONSORED*
 
+### Example Ad Note
+
+Think of your ad in DevOps'ish as a tweet with a headline. The headline should be the call to action and where you want linked to.
+
+### A note on Privacy
+
+Please note, DevOps'ish does not track link clicks or opens to maintain the privacy of its readership. But, sponsors are free to include any campaign (utm) parameters you'd like so you can measure ROI. You can use link shorteners if you want but, in general, it's recommended to use the full URL.
+
+### How best to share ads?
+
+How best to share ads is a frequent question I get from sponsors. I suggest sharing ads in a spreadsheet of some sort. This way we can both access them and updates can be applied asynchronously.
+
+If that doesn't work, then sending an email every Friday is an option. If everything needing to be shared is known in advance, feel free to send that over in one email.
+
+Basically, I'm flexible when it comes to sharing ad copy and links. Whatever works best.
+
+Regardless of process, **all copy and links are needed by close of business Friday** to ensure it is in the newsletter.
+
 ## Reach out to get started
 
 Email [chris@devopsish.com](mailto:chris@devopsish.com) with your ad idea to **get started today**!
