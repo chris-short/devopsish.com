@@ -6,7 +6,7 @@ date = 2021-09-26T07:00:00Z
 description = ["You need a personal laptop, USB-C for all, more zero-days this year than any other, Go generics, and more"]
 draft = false
 slug = "236"
-tags = []
+tags = ["Kubernetes", "DevOps", "Cloud Native", "DevOps News", "Cloud Native News", "open source", "data", "cloud", "USB-C", "generics", "Linux", "Apple", "community", "Microsoft", "containers", "Google", "GitOps", ""]
 title = "DevOps'ish 236: You need a personal laptop, USB-C for all, more zero-days this year than any other, Go generics, and more"
 
 +++
