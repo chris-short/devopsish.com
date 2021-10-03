@@ -3,17 +3,17 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-10-03T07:00:00Z
-description = [""]
+description = ["The week before KubeCon, special announcement this week, Slack DNS issues, HTTPS is everywhere, Competitive Compatibility, PostgreSQL 14, Kube-fledged, and more"]
 draft = false
 slug = "237"
-tags = []
-title = "DevOps'ish 237: "
+tags = ["Kubernetes", "DevOps", "Cloud Native", "data", "cloud", "time", "DevOps", "news", "code", "container", "container images", "threst", "Rust", "Linux", "DNS", "Apple", "kube", "eBPF", "Linus Torvalds"]
+title = "DevOps'ish 237: The week before KubeCon, special announcement this week, Slack DNS issues, HTTPS is everywhere, Competitive Compatibility, PostgreSQL 14, Kube-fledged, and more"
 
 +++
 
 It has been a stressful and challenging past few weeks. But, it's all worth it in the end. My KubeCon schedule is taking shape. I'll be in L.A. starting Saturday, so if you're around, feel free to ping me to chat or hang out. I mentioned on the CNCF Ambassador call last week something I've noticed recently. Thanks to the pandemic, my already sometimes tough to manage anxiety around large crowds in confined spaces is WAY worse. I'll be in a corner or room during keynotes. If you have anxiety around large crowds too, feel free to come watch keynotes with me from a safe space.
 
-We're doing something a little different on [Red Hat Livestreaming](https://red.ht/livestreaming) next week. I'm going to sit in the hot seat for once and get interviewed by the esteemed Stu Miniman. There will be a special announcement during the stream, so be sure to check it out at [4 PM ET on October 6th](https://youtu.be/VLoeHoL0HdE?utm_source=newsletter&utm_medium=237&utm_campaign=devopsish).
+We're doing something a little different on [Red Hat Livestreaming](https://red.ht/livestreaming) next week. I'm going to sit in the hot seat for once and get interviewed by the esteemed [Stu Miniman](https://twitter.com/stu). There will be a special announcement during the stream, so be sure to check it out at [4 PM ET on October 6th](https://youtu.be/VLoeHoL0HdE?utm_source=newsletter&utm_medium=237&utm_campaign=devopsish).
 
 ## People
 
