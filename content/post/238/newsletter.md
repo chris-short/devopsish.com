@@ -7,23 +7,23 @@ description = [""]
 draft = false
 slug = "238"
 tags = []
-title = "DevOps'ish 238: Leaving Red Hat, KubeCon L.A. 2021, "
+title = "DevOps'ish 238: Leaving Red Hat, KubeCon L.A. 2021, Chainguard, "
 
 +++
 
 **Personal Note**: If you're reading this and you're at KubeCon in L.A. and you don't find me and say hello. I'll be sad.
 
-I had a crazy day. I flew on a freaking plane! 2300 miles no less! I'm in Los Angeles, California for [KubeCon + CloudNativeCon North America 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/). Keep your eyes peeled on [my Twitter](https://twitter.com/ChrisShort/) for the most up to date shenanigans. I already have a travel tip in the books for [folks ride sharing from LAX](https://twitter.com/ChrisShort/status/1446961447976661000).
+I had a crazy day. I flew on a freaking plane! Two thousand three hundred miles, no less! I'm in Los Angeles, California, for [KubeCon + CloudNativeCon North America 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/). Keep your eyes peeled on [my Twitter](https://twitter.com/ChrisShort/) for the most up to date shenanigans. I already have a travel tip in the books for [folks ride sharing from LAX](https://twitter.com/ChrisShort/status/1446961447976661000).
 
-Also, I [announced my resignation this week from Red Hat](https://youtu.be/VLoeHoL0HdE?t=1306). It has been an amazing three years. I finally figured out what I'm good at. Turning nothing into something. What I'm most known for at Red Hat is live streaming. But, that was something that became a massive conduit of information and knowledge sharing. The team had a challenge, we needed a solution. I was the right person, with the right gear, at the right time. Sometimes, things just work out like that.
+Also, I [announced my resignation this week from Red Hat](https://youtu.be/VLoeHoL0HdE?t=1306). It has been an incredible three years. I finally can now say I've figured out I'm good at turning a problem with nothing solving it into something that people never thought possible. What I'm most known for at Red Hat is live streaming. But, that was something that became a massive conduit of information and knowledge sharing. The team had a challenge; we needed a solution. I was the right person, with the right gear, at the right time. Sometimes, things work out like that.
 
-One thing I've learned over the years, is that a great job has three components: the people, the work, and the location. Well... I got to pick the location. I should probably come up with something new for that one. The people were great. The work became was great. But, then it became a grind. A hard one too because there were so many unitegratable parts and pieces to the puzzle (an IFTTT for streamers is still a great product idea). We learned [you can make millions on Twitch](https://www.washingtonpost.com/video-games/2021/10/06/twitch-hack-pay-xqc-pokimane-summit1g/) this week. But, Red Hat was not getting money from streaming (which in light of the Twitch hack seems like a fault in our model potentially 🤔🤔🤔).
+I've learned over the years that a great job has three components: the people, the work, and the location. I got to pick the location. I should probably come up with something new for that one. The people were great. The work became great. But then it became a grind. A hard grind because there were so many parts and pieces to the puzzle that couldn't be automated. (an IFTTT for streamers is still a great product idea). We learned [you can make millions on Twitch](https://www.washingtonpost.com/video-games/2021/10/06/twitch-hack-pay-xqc-pokimane-summit1g/) this week. But, Red Hat was not getting money from streaming (which, in light of the Twitch incident, seems like a fault in our model potentially 🤔🤔🤔).
 
-Much like live streaming fell neatly in my lap, a new opportunity fell in my lap as well.[OpenShift.tv](https://openshift.tv), as I'll fondly remember, grew to something that graduated and I feel could be handed off. But, there is no magical Chris Short part duex waiting in the wings. The one thing the job was doing was increasing my burn rate to an unsustainable trajectory. The feedback was heard and the channel is being more decentralized. I think that's a good thing for everyone. There's a standard way to do it, documented, automated to the furthest reasonable extent, and folks can do it. Believe me, if I can do it multiple times a day with minimal dumpster fires, others can too.
+Much like live streaming fell neatly in my lap, a new opportunity fell in my lap as well. I'll fondly remember it as, [OpenShift.tv](https://openshift.tv) grew to something that much like a startup, exited. But no magical Chris Short v2 is waiting in the wings. The one thing the job was doing was increasing my burn rate to an unsustainable trajectory. This feedback is being heard loud and clear. The channel is being made more autonomous. I think that's a good thing for everyone. There's a standard way to produce streams (a web-based option also). The homegrown solution is documented (video recorded even). Standing up streaming rigs in Azure has been automated to the furthest reasonable extent. Folks are doing it regularly enough to get feedback into the process. Believe me, if I can do it multiple times a day with minimal dumpster fires, others can do it too.
 
 Monday, after KubeCon, I'm shipping everything back to Red Hat. I'm going to take a few days off to hang out a little more with Max. Then start the next adventure. You'll still see me in the cloud native ecosystem. I'm not going too far.
 
-Please understand that I am overwhelmed by the response and if you don't/haven't hear/heard from me directly. Please understand that I am deeply appreciative but, also only human.
+Please understand that I am overwhelmed by the response and if you don't/haven't hear/heard from me directly. Please know that I am profoundly appreciative but also only human.
 
 ## People
 
@@ -49,10 +49,10 @@ File this under, should've happened a long time ago. But, the interesting thing 
 [Tesla Ordered To Pay Former Black Employee Millions After It Turned A Blind Eye To Racial Abuse](https://peopleofcolorintech.com/front/tesla-ordered-to-pay-former-black-employee-millions-after-it-turned-a-blind-eye-to-racial-abuse/)  
 "The firm, founded by billionaire Elon Musk, will now have to pay up after the San Francisco federal court jury awarded Diaz $130 million in punitive damages and $6.9 million (€5.9 million in damages for emotional distress, according to the New York Times." They were also quick to point out that the Tesla of today is very different. I will make a personal note here public. It has been a LONG time since I've heard anything positive about working at Tesla. That may be a different story now but, based off my limited knowledge, I would need to be thoroughly convinced real change has happened.
 
-[It’s a New Era for Mental Health at Work](https://hbr.org/2021/10/its-a-new-era-for-mental-health-at-work)  
+[It's a New Era for Mental Health at Work](https://hbr.org/2021/10/its-a-new-era-for-mental-health-at-work)  
 It has taken a while. But, I finally feel empowered at work to speak up about my mental health issues. There are certain days of the year (even an entire 10 day span in September) where, I'm just not going to be in a happy place. My thoughts will be filled with death and disaster. Then there are days like Saturday morning where I'm up early due to anxiety. Then there are days like last Wednesday where I had a full blown panic attack during therapy (this is why I schedule therapy at the end of the work day). If it's going to impact your work performance, you should feel safe telling your boss about it. It is employers responsibility to understand that their people are people. Not just resources in a Gantt chart. I hope this trend continues.
 
-[With So Many People Quitting, Don’t Overlook Those Who Stay](https://hbr.org/2021/10/with-so-many-people-quitting-dont-overlook-those-who-stay)
+[With So Many People Quitting, Don't Overlook Those Who Stay](https://hbr.org/2021/10/with-so-many-people-quitting-dont-overlook-those-who-stay)
 If you're too worried about bailing water out of the boat, you might lose people through the hole in it. Make sure you tell the people next to you bailing water that you appreciate them OFTEN.
 
 ## Process
@@ -92,7 +92,7 @@ I really kinda fell in love with this tool while I was reading the documentation
 Hide your kids, backup your configs, `yum update && yum upgrade httpd`, or `apt upgrade apache2` and move on with life. 
 
 [Trigger a Kubernetes HPA with Prometheus metrics](https://sysdig.com/blog/kubernetes-hpa-prometheus/)  
-"In this article, you’ll learn how to configure Keda to deploy a Kubernetes HPA that uses Prometheus metrics."
+"In this article, you'll learn how to configure Keda to deploy a Kubernetes HPA that uses Prometheus metrics."
 
 [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl/related)  
 Do you have a web UI that's essentially the only interface into a thing in your environment? Yeah, they're out there still and it sucks. But, also things like Zoom accounts where the account settings impact the client settings, it's grab to be able to nab all those pages and pages of options in one click. Maybe this will help you out. It helped me this week.
