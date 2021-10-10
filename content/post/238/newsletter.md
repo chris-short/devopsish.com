@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-10-10T07:00:00Z
-description = [""]
+description = ["Leaving Red Hat, KubeCon + CloudNativeCon L.A. 2021, Chainguard, BGP for you and me, Data on Kubernetes Report, and more"]
 draft = false
 slug = "238"
-tags = []
-title = "DevOps'ish 238: Leaving Red Hat, KubeCon L.A. 2021, Chainguard, "
+tags = ["Red Hat", "Kubernetes", "People", "KubeCon", "CloudNativeCon", "Data on Kubernetes", "cloud", "cloud native", "Cloudflare", "Chainguard", "DevOps", "BGP", "internet", "contributor", "Tesla", "code", "Facebook", "open source", "DNS", "HTTPS", "CloudNative.tv"]
+title = "DevOps'ish 238: Leaving Red Hat, KubeCon + CloudNativeCon L.A. 2021, Chainguard, BGP for you and me, Data on Kubernetes Report, and more"
 
 +++
 
@@ -64,7 +64,7 @@ If you're too worried about bailing water out of the boat, you might lose people
 See how env0 automates and simplifies the provisioning of cloud deployments for Terraform, Terragrunt and GitOps workflows. Variables and Secrets granularity, Full CLI support, integration with OPA, Dynamic RBAC and quality of life features. [Free Demo](https://www.env0.com/infrastructure-as-code-automation?utm_campaign=devopsish&utm_source=nativeads&utm_medium=newsletter) *SPONSORED*
 
 [Introducing: Chainguard, Inc.](https://chainguard.dev/posts/2021-10-07-introducing-chainguard)  
-This is going to be an awesome company that will invoke change forever by, "making software supply chains secure by default." Game changers. [Kylie Robison wrote a great piece about Chainguard, Inc. for Business Insider](https://www.businessinsider.com/5-developers-google-vmware-chainguard-cybersecurity-2021-10). It may be paywalled, but if you can afford it, Kylie's work alone is worth the money. Also, Dan Lorenc, cofounder of [Chainguard](https://chainguard.dev), will be joining me for the [CloudNative.tv](https://www.twitch.tv/cloudnativefdn) KubeCon Day 0 wrap up show on Tuesday.
+This is going to be an awesome company that will invoke change forever by, "making software supply chains secure by default." Game changers. [Kylie Robison wrote a great piece about Chainguard, Inc. for Business Insider](https://www.businessinsider.com/5-developers-google-vmware-chainguard-cybersecurity-2021-10). It may be paywalled, but if you can afford it, Kylie's work alone is worth the money. Also, Dan Lorenc, cofounder of [Chainguard](https://chainguard.dev), will be joining me for the [CloudNative.tv](https://www.twitch.tv/cloudnativefdn) KubeCon + CloudNativeCon Day 0 wrap up show on Tuesday.
 
 [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)  
 I don't use any Facebook services so this had no impact on me whatsoever. I generally disregard Facebook news, but it did make y'all more interested in BGP so that's a win. I will say, this Cloudflare blog post explains it from an outsiders perspective damn near perfectly: [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
@@ -104,8 +104,6 @@ Set up a personal VPN in the cloud (Ansible for WireGuard and IPsec VPNs). What 
 Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
 
 ## DevOps'ish Tweet of the Week
-
-{{< tweet 1445063232486531099 >}}
 
 [![Blažej Krajňák (@BlazejKrajnak) on Twitter: "Because of missing DNS records for http://Facebook.com, every device with FB app is now DDoSing recursive DNS resolvers. And it may cause overloading..."](/images/238-devopsish-tweet-of-the-week.png)](https://twitter.com/blazejkrajnak/status/1445063232486531099)
 
