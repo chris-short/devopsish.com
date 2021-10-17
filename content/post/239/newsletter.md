@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-10-17T07:00:00Z
-description = []
+description = ["KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more"]
 draft = false
 slug = "239"
-tags = []
-title = "DevOps'ish 239: "
+tags = ["time", "CPU", "cloud", "data", "DevOps", "code", "Cloud Native", "open source", "software", "security", "infrastructure", "namespace", "Linux", "TLS", "AWS", "Red Hat", "community", "SSH", "KubeCon", "Kubernetes"]
+title = "DevOps'ish 239: KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more"
 
 +++
 
@@ -52,9 +52,6 @@ Code, No Manual Processes. Automate Terraform tasks, reduce errors and drifts, i
 [How Rust developers are making the web safer](https://github.com/readme/featured/rust-programming)  
 "'Memory safety isn’t just a technical issue, it’s a social issue as well,' Internet Security Research Group Executive Director Joshua Aas. 'Memory safety issues don’t just produce buggy software. They can crash services that people rely on to make a living or find employment. Security flaws can rob us of our privacy. Software can and should be built in better ways.'"
 
-[LANtenna attack reveals Ethernet cable traffic contents](https://www.theregister.com/2021/10/14/lantenna_ethernet_cable_rf_emissions/)  
-"An Israeli researcher has demonstrated that LAN cables' radio frequency emissions can be read by using a $30 off-the-shelf setup, potentially opening the door to fully developed cable-sniffing attacks." Not new tech or even capability, but definitely reason to practice good EMSEC.
-
 [NSA warns of ALPACA TLS attack, use of wildcard TLS certificates](https://therecord.media/nsa-warns-of-alpaca-tls-attack-use-of-wildcard-tls-certificates/)  
 "The National Security Agency has issued a technical advisory this week warning organizations against the use of wildcard TLS certificates and the new ALPACA TLS attack."
 
@@ -63,7 +60,8 @@ Code, No Manual Processes. Automate Terraform tasks, reduce errors and drifts, i
 [Linux Patches Rewrite The Retpoline Rewrite Code - Possible Performance Benefit](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Retpoline-Rewrite-Rewrite)  
 "The Linux kernel has supported Retpolines for over three years now as part of their Spectre Variant Two mitigations while now a patch series is proposed that rewrites Retpoline's rewrite logic."
 
-[Preventing Data Exfiltration with eBPF](https://goteleport.com/blog/preventing-data-exfiltration-with-ebpf/?utm_campaign=eg&utm_medium=partner&utm_source=devopsish). Keep your data protected by developing security policies that target specific processes with eBPF.
+[Preventing Data Exfiltration with eBPF](https://goteleport.com/blog/preventing-data-exfiltration-with-ebpf/?utm_campaign=eg&utm_medium=partner&utm_source=devopsish)  
+Keep your data protected by developing security policies that target specific processes with eBPF. *SPONSORED*
 
 [Learn TypeScript in 5 minutes](https://swizec.com/blog/learn-typescript-in-5-minutes/)  
 "TypeScript is a language extension that adds static typing to JavaScript. It reached a breaking point sometime in 2020 and is fast becoming the default way to write JavaScript." I loathe JavaScript and I'm picking up some TypeScript here and there.
