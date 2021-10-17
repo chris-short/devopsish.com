@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Notes", "2021"]
-date = 2021-10-17T07:00:00Z
+date = 2021-10-10T07:00:00Z
 description = "Notes from DevOps'ish 238"
 draft = false
 url = "238/notes"
@@ -14,64 +14,38 @@ title = "DevOps'ish 238 Notes"
 
 ## Notes
 
-[3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
+[#39 DevOps Diary: Your learning journey](https://anaisurl.com/39-devops-diary/)
 
-[Software Supply Chain Landscape | zt.dev](https://zt.dev/supply-chain-landscape/)
-
-[How Time Series Databases Work—and Where They Don't - Honeycomb](https://www.honeycomb.io/blog/time-series-database/)
-
-[Cilium joins the CNCF — Cilium](https://cilium.io/blog/2021/10/13/cilium-joins-cncf)
-
-[GitHub security update: revoking weakly-generated SSH keys | The GitHub Blog](https://github.blog/2021-10-11-github-security-update-revoking-weakly-generated-ssh-keys/)
-
-[136 countries agree to minimum corporate tax rate after Ireland drops its opposition - CNN](https://www.cnn.com/2021/10/08/business/ireland-global-tax-deal-oecd/index.html)
-
-[www.washingtonpost.com](https://www.washingtonpost.com/business/2021/10/12/jolts-workers-quitting-august-pandemic/)
-
-[Update Your Windows PCs Immediately to Patch New 0-Day Under Active Attack](https://thehackernews.com/2021/10/update-your-windows-pcs-immediately-to.html)
-
-[linux-system-roles/storage: Ansible role for linux storage management](https://github.com/linux-system-roles/storage)
-
-[KubeCon + CloudNativeCon Daily Wrap up Tuesday - Twitch](https://www.twitch.tv/videos/1175143809)
-
-[Sign your Git Commits to Github with A Yubikey](https://www.keithrozario.com/2021/10/sign-you-git-commits-to-github-with-a-yubikey.html)
-
-[CoreDNS-1.8.6 Release](https://coredns.io/2021/10/07/coredns-1.8.6-release/)
-
-[Argo Rollouts v1.1. The Argo team is proud to announce the… | by Jesse Suen | Oct, 2021 | Argo Project](https://blog.argoproj.io/argo-rollouts-v1-1-fef8611a9034)
-
-[community/2021-h1.md at master · kubernetes/community](https://github.com/kubernetes/community/blob/master/committee-code-of-conduct/transparency-reports/2021-h1.md)
-
-[Why Linux HugePages are Super Important for Database Servers: A Case with PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/why-linux-hugepages-are-super-important-for-database-servers-a-case-with-postgresql/)
-
-[Nvidia and Microsoft debut 530-billion-parameter AI model • The Register](https://www.theregister.com/2021/10/12/nvidia_microsoft_mtnlg/)
-
-[Apple Releases Urgent iPhone and iPad Updates to Patch New Zero-Day Vulnerability](https://thehackernews.com/2021/10/apple-releases-urgent-iphone-and-ipad.html)
-
-[Jonathan and Diana Toebbe accused of trying to sell US nuclear secrets - CNNPolitics](https://www.cnn.com/2021/10/10/politics/fbi-nuclear-string-operation/index.html)
-
-[Expert published NMAP script for Apache CVE-2021-41773 vulnerabilitySecurity Affairs](https://securityaffairs.co/wordpress/123148/hacking/nmap-script-cve-apache-2021-41773.html?utm_source=rss&utm_medium=rss&utm_campaign=nmap-script-cve-apache-2021-41773)
-
-[Let's Encrypt Root Expiration - Post-Mortem](https://scotthelme.co.uk/lets-encrypt-root-expiration-post-mortem/)
-
-[nano-chromatic wallpapers — Basic Apple Guy](https://basicappleguy.com/basicappleblog/nanochromatic)
-
-[[Update: Mozilla Fixes Its Documentation] Firefox Now Sends Your Address Bar Keystrokes to Mozilla](https://www.howtogeek.com/760425/firefox-now-sends-your-address-bar-keystrokes-to-mozilla/)
-
-[Dive into BPF: a list of reading material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
-
-[What is eBPF? | How eBPF works | Teleport](https://goteleport.com/blog/what-is-ebpf/?utm_source=twitter&utm_medium=social)
-
-[Google’s State of DevOps 2021 Report: What SREs Need to Know | Rootly](https://rootly.com/blog/google-s-state-of-devops-2021-report-what-sres-need-to-know)
-
-[Trajectory Conference 2021 | LaunchDarkly](https://trajectoryconf.com/trajectory-2021/?utm_source=devopsish&utm_medium=news_pod&utm_campaign=22q3-newsletter&utm_content=trajectory_21)
-
-[How Jack Poulson and Tech Inquiry reveal tech-military ties](https://www.fastcompany.com/90682901/meet-the-ex-googler-whos-exposing-the-tech-military-industrial-complex?partner=rss&utm_source=twitter.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss)
-
-[America Is Choking Under an ‘Everything Shortage’ - The Atlantic](https://www.theatlantic.com/ideas/archive/2021/10/america-is-choking-under-an-everything-shortage/620322/)
-
-[Update about the October 4th outage - Facebook Engineering](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
+[Google notifies 14,000 Gmail users of targeted APT28 attacks - The Record by Recorded Future](https://therecord.media/google-notifies-14000-gmail-users-of-targeted-apt28-attacks/)
 
 [Working with container image manifest lists](https://podman.io/blogs/2021/10/11/multiarch.html)
 
-[Trigger a Kubernetes HPA with Prometheus metrics - Sysdig](https://sysdig.com/blog/kubernetes-hpa-prometheus/)
+[GitOpsCon North America Starts Next Week](https://cloud.redhat.com/blog/gitops-con-north-america-starts-next-week)
+
+[Global Load Balancer Approaches](https://cloud.redhat.com/blog/global-load-balancer-approaches)
+
+[Remediating nodes with the Poison Pill Operator - Working with nodes | Nodes | OpenShift Container Platform 4.8](https://docs.openshift.com/container-platform/4.8/nodes/nodes/eco-poison-pill-operator.html)
+
+[https://twitter.com/blazejkrajnak/status/1445063232486531099?s=12](https://twitter.com/blazejkrajnak/status/1445063232486531099?s=12)
+
+[OVH drops IPO target against figure mooted a month ago • The Register](https://www.theregister.com/2021/10/05/ovhcloud_ipo_target_trimmed/)
+
+[NASA Won't Rename the James Webb Space Telescope--and Astronomers Are Angry - Scientific American](https://www.scientificamerican.com/article/nasa-wont-rename-the-james-webb-space-telescope-and-astronomers-are-angry/)
+
+[https://twitter.com/developerguyba/status/1445473460931555335?s=12](https://twitter.com/developerguyba/status/1445473460931555335?s=12)
+
+[Monitoring NVIDIA GPU Usage in Kubernetes with Prometheus - Home](https://blog.kubecost.com/blog/nvidia-gpu-usage/)
+
+[Why This Doctor Uses the iPhone 13 Pro to Photograph Patients' Eyes | PetaPixel](https://petapixel.com/2021/10/01/why-this-doctor-uses-the-iphone-13-pro-to-photograph-patients-eyes/)
+
+[A New YAML Specification · YAML](https://yaml.com/blog/2021-10/new-yaml-spec/)
+
+[Martin Heinz | Making Kubernetes Operations Easy with kubectl Plugins](https://martinheinz.dev/blog/58?utm_source=rss&utm_medium=referral&utm_campaign=blog_post_58)
+
+[S.Korea broadband firm sues Netflix after traffic surge from 'Squid Game' | Reuters](https://www.reuters.com/business/media-telecom/skorea-broadband-firm-sues-netflix-after-traffic-surge-squid-game-2021-10-01/)
+
+[How Jack Poulson and Tech Inquiry reveal tech-military ties](https://www.fastcompany.com/90682901/meet-the-ex-googler-whos-exposing-the-tech-military-industrial-complex?partner=rss&utm_source=twitter.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss)
+
+[Facebook and Instagram are down for the second time this week | Engadget](https://www.engadget.com/facebook-and-instagram-are-down-for-the-second-time-this-week-193257623.html?src=rss&guccounter=1&guce_referrer=aHR0cHM6Ly9icmllZmFwcC5jby8&guce_referrer_sig=AQAAALxbzBUhec5AOpktWEBQ9ci6Tzan5dK8dYqiSAQQsWhuzCJzX8l2gnkJ6QTnllBK_fBFRfVHrrMCWjB08li2XWnTbGuuGQmGwXMjzwVslDIZ53uxiHUcsMFx3mCM-ZMRYzVqPqlGqsQd_-_hfmfdcXw8dPXXqgjxjLAibfbl9oXm)
+
+[America Is Choking Under an ‘Everything Shortage’ - The Atlantic](https://www.theatlantic.com/ideas/archive/2021/10/america-is-choking-under-an-everything-shortage/620322/)
