@@ -22,7 +22,7 @@ disableKinds = ["RSS"]
 
 [params]
   author = "Chris Short"
-  description = "DevOps, Cloud Native, Open Source, industry news, culture, and the 'ish between."
+  description = "Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between."
   favicon = "/favicons/favicon.ico"
   disable_sri = true
 
