@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Notes", "2021"]
 date = 2021-10-17T07:00:00Z
-description = "Notes from DevOps'ish 238"
+description = "Notes from DevOps'ish 239"
 draft = false
-url = "238/notes"
-title = "DevOps'ish 238 Notes"
+url = "239/notes"
+title = "DevOps'ish 239 Notes"
 
 +++
 
