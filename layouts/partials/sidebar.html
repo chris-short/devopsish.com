@@ -7,8 +7,8 @@
   {{ if and (.Site.Params.sidebar) (isset .Site.Params.sidebar "about") }}
   <section class="sidebar-module sidebar-module-inset">
     {{ if .Site.Params.sidebar }}
-    <strong>DevOps'ish</strong> is a weekly newsletter assembled by open source contributor, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador <a href="https://linktr.ee/TheChrisShort?utm_source=newsletter&utm_medium=web&utm_campaign=devopsish" title="Chris Short">Chris Short</a>. Join the {{ .Site.Params.stats.subscribers | markdownify }} member community and subscribe now!
-      {{ partial "eo_sidebar.html" . }}
+    <strong>DevOps'ish</strong> is a weekly newsletter assembled by open source contributor, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador <a href="https://linktr.ee/TheChrisShort?utm_source=newsletter&utm_medium=web&utm_campaign=devopsish" title="Chris Short">Chris Short</a>. Join the {{ .Site.Params.stats.subscribers | markdownify }} member community and <a href="/subscribe/" title="Subscribe to DevOps'ish for the best in Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between." onclick="fathom.trackGoal('M5EB1KOF', 0);"><strong>subscribe now</strong></a>!
+<!--      {{ partial "eo_sidebar.html" . }} -->
     {{ end }}
   </section>
   {{ end }}
