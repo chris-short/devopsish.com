@@ -15,6 +15,10 @@ aliases = [
 
 +++
 
+{{< fathom_subscribe_page >}}
+
+{{< eo_top >}}
+
 DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador [Chris Short](https://chrisshort.net/). DevOps'ish is grateful to have readers from across the globe and several Fortune 100 organizations.
 
 Every week DevOps'ish is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, and readers across the globe. [Some of the brightest minds in the industry](/praise/) are reading DevOps'ish and you should too. Subscribe today!
