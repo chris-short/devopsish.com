@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-10-24T07:00:00Z
-description = [""]
+description = ["You're probably underpaid, Karanbir Singh Steps Down, Honeycomb's cool $50 million, and more"]
 draft = false
 slug = "240"
-tags = []
-title = "DevOps'ish 240: "
+tags = ["cloud", "Cloud Native", "DevOps", "Linux", "kernel", "KubeCon", "open source", "security", "SSH", "Kubernetes", "Honeycomb"]
+title = "DevOps'ish 240: You're probably underpaid, Karanbir Singh Steps Down, Honeycomb's cool $50 million, and more"
 
 +++
 
