@@ -25,8 +25,7 @@ Except where otherwise noted, content on this site is licensed under a [Creative
 
 Views expressed on this site do not reflect the opinions or views of:
 
-* Red Hat
-* IBM
+* Amazon
 * Cloud Native Computing Foundation
 * Sponsors of DevOps'ish
 
