@@ -51,7 +51,7 @@ My government friends will appreciate this.
 [The Only Bash Scripting Cheat Sheet That You Will Ever Need](https://dev.to/bobbyiliev/the-only-bash-scripting-cheat-sheet-that-you-will-ever-need-55c7)  
 A bold statement.
 
-In modern architecture, slow is the new down. Distributed tracing shows your deeply hidden problems so you can fix the right issue the first time. It's never been easier to get started. [Use Honeycomb and OpenTelemetry](https://honeycomb.quip.com/76D4AHU5mYvF/Devopsish-ad-copy-Guide-Product-Signup) to quickly find hidden slowness–for free. *SPONSORED*
+In modern architecture, slow is the new down. Distributed tracing shows your deeply hidden problems so you can fix the right issue the first time. It's never been easier to get started. [Use Honeycomb and OpenTelemetry](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup) to quickly find hidden slowness–for free. *SPONSORED*
 
 [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)  
 A lot more than you probably realize.
