@@ -22,7 +22,7 @@ disableKinds = ["RSS"]
 
 [params]
   author = "Chris Short"
-  description = "Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between."
+  description = "Cloud Native, DevOps, Open Source, industry news, culture, and the 'ish between."
   favicon = "/favicons/favicon.ico"
   disable_sri = true
 
@@ -33,7 +33,7 @@ disableKinds = ["RSS"]
   cookie_consent_info_url = "/cookie-policy/"
 
   [params.sidebar]
-    About = "DevOps'ish is a weekly newsletter assembled by open source contributor, DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador [Chris Short](https://linktr.ee/TheChrisShort)."
+    About = "DevOps'ish is a weekly newsletter assembled by open source and [Kubernetes contributor](https://www.kubernetes.dev/), DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador [Chris Short](https://linktr.ee/TheChrisShort)."
     num_recent_posts = 8
 
   [params.stats]
