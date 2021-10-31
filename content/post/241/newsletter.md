@@ -46,7 +46,8 @@ Mark my words, your vaccination status will impact your health insurance coverag
 [American ISPs slammed for spying on their own subscribers](https://www.theregister.com/2021/10/22/ftc_isp_privacy/)  
 "Watchdog finds dubious data gathering, illusory solicitations for consent" ([FTC Report](https://www.ftc.gov/system/files/documents/public_statements/1597790/20211021_isp_privacy_6b_statement_of_chair_khan_final.pdf))
 
-AD *SPONSORED*
+[Automated provisioning of Terraform workflows and IaC](https://www.env0.com/why-env0?utm_campaign=devopsish&utm_source=nativeads&utm_medium=newsletter)  
+Automated, collaborative remote-run workflows management for cloud deployments on Terraform, Terragrunt and custom flows. env0 offers Variables and Secrets granularity, Full CLI support, integration with OPA, Dynamic RBAC and SAML. Get Started for FREE *SPONSORED*
 
 [White House names Jessica Rosenworcel to become first female chair at FCC](https://siliconangle.com/2021/10/26/white-house-names-jessica-rosenworcel-become-first-female-chair-fcc/)
 President Biden's choices tilt the balance of the FCC back towards a pro-Net Neutrality stance. I really hope this is on their immediate agenda.
