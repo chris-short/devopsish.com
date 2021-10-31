@@ -6,7 +6,7 @@ date = 2021-06-27T07:00:00Z
 description = ["Take your time off, Bryan Liles on a mission, John McAfee dead, Dell SupportAssist assisting the wrong people, AWS DNS hijack, Istio 1.10, Intel to make RISC-V chips, and more"]
 draft = false
 slug = "224"
-tags = ["cloud", "DevOps", "cloud native", "Linux", "open source", "Kubernetes", "DNS", "release", "Microsoft", "Istio", "localhost", "Google", "John McAfee", "experimentation", "platform", "development", "Red Hat", "production", "kernel", "AWS", "VPN", "observability", "sidecar", "fzf", "Intel", "RISC-V"]
+tags = ["cloud", "DevOps", "cloud native", "Linux", "open source", "Kubernetes", "DNS", "release", "Microsoft", "Istio", "localhost", "Google", "John McAfee", "experimentation", "platform", "development", "Red Hat", "production", "kernel", "AWS", "VPN", "observability", "sidecar", "fzf", "Intel", "RISC-V", "SiFive"]
 title = "DevOps'ish 224: Take your time off, Bryan Liles on a mission, John McAfee dead, Dell SupportAssist assisting the wrong people, AWS DNS hijack, Istio 1.10, Intel to make RISC-V chips, and more"
 
 +++
