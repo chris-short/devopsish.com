@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-10-31T07:00:00Z
-description = []
+description = ["REvil roasted, exfil with eBPF, stop your standups, find your coding font, VSCode in browser, and more"]
 draft = false
 slug = "241"
-tags = ["SiFive", "RISC-V"]
-title = "DevOps'ish 241: "
+tags = ["cloud", "Cloud Native", "Kubernetes", "DevOps", "newsletter", "open source", "data", "WebAssembly", "SiFive", "RISC-V", "KubeCon", "AWS", "distributed", "Apple", "tracing", "CPU", "eBPF", "FCC", "go generics", "Honeycomb", "CNCF", "coding fonts", "multicluster", "cilium", ""]
+title = "DevOps'ish 241: REvil roasted, exfil with eBPF, stop your standups, find your coding font, VSCode in browser, and more"
 
 +++
 
