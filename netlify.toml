@@ -23,7 +23,7 @@ HUGO_VERSION = "0.56.3"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "git submodule update --rebase --remote && hugo -v --gc -DF -b $DEPLOY_PRIME_URL"
+command = "git submodule update --rebase --remote && hugo -v -DF -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.56.3"
 # Skip all post processing in deploy previews,
@@ -32,7 +32,7 @@ HUGO_VERSION = "0.56.3"
   skip_processing = true
 
 [context.branch-deploy]
-command = "git submodule update --rebase --remote && hugo -v --gc -DF -b $DEPLOY_PRIME_URL"
+command = "git submodule update --rebase --remote && hugo -v -DF -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.56.3"
 
