@@ -3,15 +3,15 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-11-07T07:00:00Z
-description = [""]
+description = ["Automation transforms jobs, be directive without being a jerk, YAML strikes again, GitHub CEO change, Dell spins out VMware, Grace Hopper Explains the Nanosecond, Kubernetes tools galore, and more"]
 draft = false
 slug = "242"
-tags = []
-title = "DevOps'ish 242: "
+tags = ["Kubernetes", "Red Hat", "cloud", "Cloud Native", "open source", "process", "DevOps", "automation", "people", "Microsoft", "software", "infrastructure", "contributor", "Knative", "Intel", "jobs", "GitHub CEO", "nginx", "Amazon", "directive", "IBM", "Pulumi", "GitHub", "Linux", "VMware", "networking", "architecture", "Ubuntu", "IoT", "ingress", "cluster", "GitHub Copilot", "YAML", "AWS", "programming", "Dell", "tracing", "developer", "Google", "terminal", "Apache", "ArgoCD", "CNCF", "wages"]
+title = "DevOps'ish 242: Automation transforms jobs, be directive without being a jerk, YAML strikes again, GitHub CEO change, Dell spins out VMware, Grace Hopper Explains the Nanosecond, Kubernetes tools galore, and more"
 
 +++
 
-Note: The [Notes file this week](https://devopsish.com/242/notes/) is DEFINITELY worth looking at too.
+Note: The [Notes file this week](https://devopsish.com/242/notes/) is DEFINITELY worth looking at this week too.
 
 [The people have spoken](https://twitter.com/ChrisShort/status/1454614581981106182). **DevOps'ish** won't be changing its name any time soon. I received a lot of great feedback; thank you for that. As I'm writing this, I can feel the effects of my COVID-19 booster kicking in. The joint pain is the tell for me. Max received his first shot today too. He and I will be pretty sore in the morning. Max is genuinely excited to get his vaccinations and get back to gallivanting across the globe. It's looking like we'll be heading to San Diego at some point in Q1 2022. Having just gotten back from Los Angeles, I can definitively say I'm comfortable taking the family back to California.
 
@@ -34,7 +34,7 @@ From Lara Hogan, "Employing a directive model doesn't mean being a jerk or overl
 This is one of those terrible slide-based articles from Lifehacker but, there are a ton of my red flag phrases in here so I thought it might be helpful to some of y'all. Remember, if someone has to tell you they're good or nice, they probably aren't (or at least aren't being good or nice in that moment).
 
 [Red Hat to hire fewer senior engineers after budget frozen](https://www.theregister.com/2021/11/05/red_hat_jobs/)  
-All those people that said, "Just wait, IBM will change Red Hat somehow." are cashing in this week. But, to be honest, I was a Principal at Red Hat and that was mainly to justify my pay level (and Red Hat is already on the low end of the pay scale for just about everything technical). Red Hat needs to assess how it compensates employees commensurate to their title in the greater job market to solve these problems. It'll be interesting to see how this pans out. I can talk about this more openly with an a former insider's perspective. I know one of the reasons I left Red Hat was due to it feeling like I had to fight to do my job (which was really the job of 3+ people). Retaining high caliber talent while burning them out is next to impossible with indicators like a hiring and budget freeze. I should point out, [Amazon and AWS havex a lot of job openings](https://amazon.jobs/), if we worked together at Red Hat, the referral process is similar and I'd be happy to help.
+All those people that said, "Just wait, IBM will change Red Hat somehow." are cashing in this week. But, to be honest, I was a Principal at Red Hat and that was mainly to justify my pay level (and Red Hat is already on the low end of the pay scale for just about everything technical). Red Hat needs to assess how it compensates employees commensurate to their title in the greater job market to solve these problems. It'll be interesting to see how this pans out. I can talk about this more openly with an a former insider's perspective. I know one of the reasons I left Red Hat was due to it feeling like I had to fight to do my job (which was really the job of 3+ people). Retaining high caliber talent while burning them out is next to impossible with indicators like a hiring and budget freeze. I should point out, [Amazon and AWS have a lot of job openings](https://amazon.jobs/), if we worked together at Red Hat, the referral process is similar and I'd be happy to help.
 
 [YAML strikes again](https://www.reddit.com/r/kubernetes/comments/qlb5xd/yaml_strikes_again/)  
 I literally laughed out loud when I saw this.
@@ -48,13 +48,10 @@ I literally laughed out loud when I saw this.
 Developing on the cloud is complex. What if you could use your existing programming knowledge to build, deploy, and manage cloud infrastructure using your favorite languages and tools? Pulumi is a cloud engineering platform that lets you write infrastructure as code in any programming language and on any cloud platform. Get started for free at [pulumi.com](https://pulumi.com/) *SPONSORED*
 
 [GitHub gets a new CEO](https://techcrunch.com/2021/11/03/github-gets-a-new-ceo/)  
-"GitHub CEO [Nat Friedman](https://www.linkedin.com/in/natfriedman/) is stepping down from his role on November 15 to become the Chairman Emeritus of the Microsoft-owned service. [Thomas Dohmke](https://www.linkedin.com/in/thomas-dohmke-24855b10/), who only recently became GitHub's chief product officer, will step into the CEO role."
+"GitHub CEO [Nat Friedman](https://www.linkedin.com/in/natfriedman/) is stepping down from his role on November 15 to become the Chairman Emeritus of the Microsoft-owned service. [Thomas Dohmke](https://www.linkedin.com/in/thomas-dohmke-24855b10/), who only recently became GitHub's chief product officer, will step into the CEO role." It's Microsoft's GitHub now.
 
 [Despite having just 5.8% sales, over 38% of bug reports come from the Linux community](https://www.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)  
 A case for distributing Linux versions of your software (in short, we file bugs that benefit your software).
-
-[An Update on Our Outage (Roblox)](https://blog.roblox.com/2021/10/update-recent-service-outage/)  
-A good message from the CEO. I know Roblox's popularity has ballooned overnight it seems so there was bound to be a situation where something caught up to them. I'm curious if they'll do a public post-mortem because that's what I really want to read.
 
 [Dell spins off $64 billion VMware as it battles debt hangover](https://arstechnica.com/information-technology/2021/11/dell-spins-off-64-billion-vmware-as-it-battles-debt-hangover/)  
 And the VMware swirling of assets for Wall Street is complete.
