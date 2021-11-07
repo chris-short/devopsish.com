@@ -6,7 +6,7 @@ date = 2021-10-31T07:00:00Z
 description = ["REvil roasted, exfil with eBPF, stop your standups, find your coding font, VSCode in browser, and more"]
 draft = false
 slug = "241"
-tags = ["cloud", "Cloud Native", "Kubernetes", "DevOps", "newsletter", "open source", "data", "WebAssembly", "SiFive", "RISC-V", "KubeCon", "AWS", "distributed", "Apple", "tracing", "CPU", "eBPF", "FCC", "go generics", "Honeycomb", "CNCF", "coding fonts", "multicluster", "cilium", ""]
+tags = ["cloud", "Cloud Native", "Kubernetes", "DevOps", "newsletter", "open source", "data", "WebAssembly", "SiFive", "RISC-V", "KubeCon", "AWS", "distributed", "Apple", "tracing", "CPU", "eBPF", "FCC", "go generics", "Honeycomb", "CNCF", "coding fonts", "multicluster", "cilium"]
 title = "DevOps'ish 241: REvil roasted, exfil with eBPF, stop your standups, find your coding font, VSCode in browser, and more"
 
 +++
@@ -60,7 +60,7 @@ A note from Russ Cox. "This mail explains a bit what the inclusion of generics d
 
 [Twitter (TWTR) earnings Q3 2021](https://www.cnbc.com/2021/10/26/twitter-reports-third-quarter-revenue-growth-of-37percent-and-says-apple-changes-had-minimal-impact.html)  
 Wow... Twitter did good. Meanwhile at Meta...
-![Everything is burning](/images/burning.gif)
+![Everything is burning](/images/burning.webm)
 
 ## Tools
 
