@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-11-14T07:00:00Z
-description = [""]
+description = ["Bellwethers, changes at Red Hat, Kubernetes 2021 Steering Committee Election Results, Monstrosity Email, Bitbucket's move to AWS is complete, and more"]
 draft = false
 slug = "243"
-tags = []
-title = "DevOps'ish 243: "
+tags = ["cloud", "free", "service", "DevOps", "bellwethers", "Kubernetes", "news", "dockershim", "infrastructure", "email", "infrastructure", "code", "cloud native", "open source", "Red Hat", "programming", "kustomize", "automation", "Terraform", "Kustomize Cheat Sheet", ""]
+title = "DevOps'ish 243: Bellwethers, changes at Red Hat, Kubernetes 2021 Steering Committee Election Results, Monstrosity Email, Bitbucket's move to AWS is complete, and more"
 
 +++
 
@@ -59,7 +59,7 @@ Email is **hard**. Run a public facing mail server with multiple users and you'l
 ## Tools
 
 [How Kubernetes Validates Custom Resources](https://danielmangum.com/posts/how-kubernetes-validates-custom-resources/)  
-![Image by Daniel Mangum — 'This post is about one part of one handler in one API server in the Kubernetes API server chain.'](https://devopsish.com/images/k8s-resource-validation.webp)
+![Image by Daniel Mangum — 'This post is about one part of one handler in one API server in the Kubernetes API server chain.'](/images/k8s-resource-validation.webp)
 
 [Pulumi: Infrastructure as Code](https://www.pulumi.com/?utm_source=devopsish&utm_medium=sponsored-link&utm_campaign=iac)
 Developing on the cloud is complex. What if you could use your existing programming knowledge to build, deploy, and manage cloud infrastructure using your favorite languages and tools? Pulumi is a cloud engineering platform that lets you write infrastructure as code in any programming language and on any cloud platform. Get started for free at [pulumi.com](https://www.pulumi.com/?utm_source=devopsish&utm_medium=sponsored-link&utm_campaign=iac) *SPONSORED*
