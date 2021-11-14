@@ -107,6 +107,8 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1118816110571339778 >}}
+> This from [@tinder](https://twitter.com/Tinder) engineering is honestly a great case study in when *not* to run kubernetes (even if the post isn’t framed as such) <https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44>
+>
+> — Dan Woods 🥁 (@danveloper) [April 18, 2019](https://twitter.com/danveloper/status/1118816110571339778)
 
 Notes from this week's issue can be found [here](./notes/).
