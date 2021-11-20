@@ -3,11 +3,12 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
 date = 2021-11-21T07:00:00Z
-description = []
+description = ["Milestones, K8s Contributor Celebration, Cassidy Williams, Cloud Native Hackathon, Activision Blizzard CEO, GitOps, Fulcio, tools galore, and more"]
 draft = false
 slug = "244"
-tags = []
-title = "DevOps'ish 244: "
+tags = ["cloud", "Julie", "Kubernetes", "Michigan", "DevOps", "cloud native", "clusters", "decision", "AWS", "COVID", "GitOps", "Infrastructure", "EKS", "news", "Aubree", "building", "moving", "leader", 
+"love", "contributor", "celebration", "Git", "Fulcio", "Google", "open source", "Amazon", "Traverse City", ""]
+title = "DevOps'ish 244: Milestones, K8s Contributor Celebration, Cassidy Williams, Cloud Native Hackathon, Activision Blizzard CEO, GitOps, Fulcio, tools galore, and more"
 
 +++
 
@@ -18,8 +19,6 @@ This week has been a week of milestones. 1) My daughter turned 21. Yes, I feel o
 On #1, Aubree has been in my life for more than half of it now. In the late 00s, I said one day, “Being a father helps me be a better leader. Being a leader helps me be a better father.” During one busy summer, I had 50 people working for me at one point. Managing that many direct reports isn’t something you do easily. My trick was to manage the natural groups of friends that formed. But still, maintain team cohesion. At the same time, I was playing the role of a single father to a Kindergartner. A lot of the skills I was teaching at work were helpful at home and vice versa. I had to deliver presentations to senior leaders. This was very normal for the work I did.
 
 Aubree was asked to do a short presentation on a famous person (past or present) and why she liked this person for one assignment. Aubree picked Abraham Lincoln because he ended slavery (this was my kindergartner). So she had what she was going to say written down, and the expectation was for her to read it to the kids in class. It was a few sentences. She had some trouble reciting the words from the half-page of paper in her handwriting. So I typed it and printed it out to see if that helped. A little, but she didn’t sound confident. That’s when I realized she’s not a “from notes” presenter. She’s better at memorization right now. The typed-up piece of paper became a thing I carried around and would work with her at random intervals to help her memorize her talk. It took a couple of days, but she learned to deliver her speech with confidence from memory. When it was time, she nailed the presentation getting the highest grade in her class for that assignment. That’s just one of many memories over these 21 years that I haven’t forgotten.
-
-On #2, Julie and I are each others’ most prolonged affairs of the heart. Driving up here to [Traverse City](https://www.traversecity.com/), we were discussing how far we'd come. How we've instinctively aligned ourselves around roles and responsibilities that play to our strengths in our household. A recurring theme lately is, "How far we've come since 2010." From me having to decide to restart my life, to Julie deciding to leave her job with so many friends to take a role helping out head start families, to Julie's job in Wake Forest, to building a house in Wake Forest, to us moving up here to Michigan, to the [recent decision to join AWS](https://chrisshort.net/joining-amazon-elastic-kubernetes-service-team/)... The list goes on and on.
 
 On #2, Julie and I are each others’ most prolonged affairs of the heart. Driving up here to [Traverse City](https://www.traversecity.com/), we were discussing how far we’d come, how we’ve instinctively aligned ourselves around roles and responsibilities that play to our strengths in our household. A recurring theme lately is, “How far we’ve come since 2010.” From me having to decide to restart my life. Julie deciding to leave her job with so many friends to take a role helping out Head Start families, to Julie’s job in Wake Forest, to building a house in Wake Forest, to us moving up here to Michigan, to the [recent decision to join AWS](https://chrisshort.net/joining-amazon-elastic-kubernetes-service-team/)... The list has many more details but all outcomes appear to have been worth the work.
 
@@ -77,12 +76,6 @@ Google Cloud went down and took down parts of the web with it.
 [Why I Hate Password Rules](https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html)  
 "I don’t like them because they’re all different."
 
-[elobdog/mailhelp](https://github.com/elobdog/mailhelp)  
-mail help config and dot files for mutt with Gmail on macOS (mbsync, fdm, msmtp).
-
-[jstrieb/quickserv](https://github.com/jstrieb/quickserv)  
-Dangerously user-friendly web server for quick prototyping and hackathons
-
 ## Tools
 
 [Visualize all your Kubernetes clusters in one place with Amazon EKS Connector, now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/visualize-kubernetes-clusters-one-place-amazon-eks-connector-generally-available/)  
@@ -112,6 +105,12 @@ High-velocity, monorepo-scale workflow for Git
 [r-darwish/topgrade](https://github.com/r-darwish/topgrade)  
 Upgrade everything
 
+[elobdog/mailhelp](https://github.com/elobdog/mailhelp)  
+mail help config and dot files for mutt with Gmail on macOS (mbsync, fdm, msmtp).
+
+[jstrieb/quickserv](https://github.com/jstrieb/quickserv)  
+Dangerously user-friendly web server for quick prototyping and hackathons
+
 [dutchcoders/cloudman](https://github.com/dutchcoders/cloudman)
 Textual user interface to manage ec2 instances.
 
@@ -120,6 +119,6 @@ Useful sed scripts & patterns
 
 ## DevOps'ish Tweet of the Week
 
-[![Aeva 🖤 (@aevavoom) on Twitter) "Every time a PM says "resource" when they mean 'person', an angel dies."](/images/244-devopsish-tweet-of-the-week.png)](https://twitter.com/)
+[![Aeva 🖤 (@aevavoom) on Twitter) "Every time a PM says "resource" when they mean 'person', an angel dies."](/images/244-devopsish-tweet-of-the-week.png)](https://twitter.com/aevavoom/status/1460313375515176962)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/244/notes/) to see what didn't make it to the newsletter but are still worth your time.

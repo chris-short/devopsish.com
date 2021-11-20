@@ -14,7 +14,7 @@ title = "DevOps'ish 244 Notes"
 
 ## Notes
 
-[(3) Chris Short 💉💉💉 on Twitter: "https://t.co/hsGR8TlpNj" / Twitter](https://twitter.com/ChrisShort/status/1462098247057559560)
+[Chris Short 💉💉💉 on Twitter: "https://t.co/hsGR8TlpNj" / Twitter](https://twitter.com/ChrisShort/status/1462098247057559560)
 
 [Dev Lake - An Open Source Data Lake & Dashboard for Your Dev Tools! | Product Hunt](https://www.producthunt.com/posts/dev-lake?bc=1)
 
