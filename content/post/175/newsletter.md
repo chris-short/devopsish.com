@@ -86,6 +86,6 @@ Turn Markdown into a mind map. I'm going to have some fun with this later.
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1246599504930975744 >}}
+[![Ian Coldwater 📦💥 @IanColdwater on Twitter) "I am a person who specializes in cloud native infrastructure, not a COBOL programmer, but if you're like "lol why don't banks and governments migrate to modern systems?!" I have some news for you about the security of bleeding edge systems"](/images/175-devopsish-tweet-of-the-week.webp)](https://twitter.com/IanColdwater/status/1246599504930975744)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/175/notes/) to see what didn't make it to the newsletter.

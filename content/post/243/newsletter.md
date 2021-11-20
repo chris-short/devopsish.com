@@ -6,7 +6,7 @@ date = 2021-11-14T07:00:00Z
 description = ["Bellwethers, changes at Red Hat, Kubernetes 2021 Steering Committee Election Results, Monstrosity Email, Bitbucket's move to AWS is complete, and more"]
 draft = false
 slug = "243"
-tags = ["cloud", "free", "service", "DevOps", "bellwethers", "Kubernetes", "news", "dockershim", "infrastructure", "email", "infrastructure", "code", "cloud native", "open source", "Red Hat", "programming", "kustomize", "automation", "Terraform", "Kustomize Cheat Sheet", ""]
+tags = ["cloud", "free", "service", "DevOps", "bellwethers", "Kubernetes", "news", "dockershim", "infrastructure", "email", "infrastructure", "code", "cloud native", "open source", "Red Hat", "programming", "kustomize", "automation", "Terraform", "Kustomize Cheat Sheet"]
 title = "DevOps'ish 243: Bellwethers, changes at Red Hat, Kubernetes 2021 Steering Committee Election Results, Monstrosity Email, Bitbucket's move to AWS is complete, and more"
 
 +++
