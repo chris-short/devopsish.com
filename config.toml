@@ -11,6 +11,7 @@ relativeURLs = true
 theme = "hugo-theme-bootstrap4-blog"
 title = "DevOps'ish"
 disableKinds = ["RSS"]
+ignoreErrors = ["error-remote-getjson"]
 
 [taxonomies]
   tag = "tags"
