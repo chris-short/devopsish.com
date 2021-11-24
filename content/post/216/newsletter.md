@@ -6,7 +6,7 @@ date = 2021-05-02T07:00:00Z
 description = ["KubeCon EU is here, Manager Tools, Microsoft adds a Kinvolk caboose, Feature Flags, GitOps with Argo CD, 100 Days Of Kubernetes, OSI Model, and more"]
 draft = false
 slug = "216"
-tags = ["Kubernetes", "DevOps", "GitHub", "Cloud Native", "cloud", "dependabot", "learn", "observability", "customers", "manager", "understand", "leaders", "lambda settlement", "Microsoft", "LaunchDarkly", "open source", "Google", "creativity", "CEOs", "migraine", "KubeCon", "Linux", "IBM", "Honeycomb", "GitOps", "CNCF", "developers", "Argo CD", "Apple", "CNI", "Amazon", ""]
+tags = ["Kubernetes", "DevOps", "GitHub", "Cloud Native", "cloud", "dependabot", "learn", "observability", "customers", "manager", "understand", "leaders", "lambda settlement", "Microsoft", "LaunchDarkly", "open source", "Google", "creativity", "CEOs", "migraine", "KubeCon", "Linux", "IBM", "Honeycomb", "GitOps", "CNCF", "developers", "Argo CD", "Apple", "CNI", "Amazon"]
 title = "DevOps'ish 216: KubeCon EU is here, Manager Tools, Microsoft adds a Kinvolk caboose, Feature Flags, GitOps with Argo CD, 100 Days Of Kubernetes, OSI Model, and more"
 
 +++

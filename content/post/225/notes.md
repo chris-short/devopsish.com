@@ -52,7 +52,7 @@ title = "DevOps'ish 225 Notes"
 
 [Doximity CEO ignored Silicon Valley wisdom, built $10 billion company](https://www.cnbc.com/2021/06/27/doximity-ceo-ignored-silicon-valley-wisdom-built-10-billion-company.html#Echobox=1624798068)
 
-[(21) Brian Kahn on Twitter: ""The ocean is on fire” is one of those things that you can type and it’s true and yet it doesn’t feel believable" / Twitter](https://twitter.com/blkahn/status/1411073985765314560)
+[(21) Brian Kahn on Twitter: "The ocean is on fire” is one of those things that you can type and it's true and yet it doesn't feel believable" / Twitter](https://twitter.com/blkahn/status/1411073985765314560)
 
 [How to use Podman inside of a container | Enable Sysadmin](https://www.redhat.com/sysadmin/podman-inside-container)
 
@@ -62,10 +62,10 @@ title = "DevOps'ish 225 Notes"
 
 [Taking my data back from Eufy](https://kn100.me/taking-back-data-from-eufy/)
 
-[Leaders must realise ‘a cyberattack could sink your business’](https://www.siliconrepublic.com/enterprise/cyberattack-data-typetec-mark-fitzgerald)
+[Leaders must realise ‘a cyberattack could sink your business'](https://www.siliconrepublic.com/enterprise/cyberattack-data-typetec-mark-fitzgerald)
 
 [HPE acquires Zerto in a $374m deal to expand cloud service](https://www.siliconrepublic.com/enterprise/hpe-zerto-cloud-acquisition)
 
-[Microsoft’s Blue Screen of Death is changing to black in Windows 11 - The Verge](https://www.theverge.com/2021/7/1/22559852/microsoft-windows-11-black-blue-screen-of-death-bsod-change?scrolla=5eb6d68b7fedc32c19ef33b4)
+[Microsoft's Blue Screen of Death is changing to black in Windows 11 - The Verge](https://www.theverge.com/2021/7/1/22559852/microsoft-windows-11-black-blue-screen-of-death-bsod-change?scrolla=5eb6d68b7fedc32c19ef33b4)
 
 [Teen Makes Bank Reselling PS5s, Xbox Series X and Pokémon Cards](https://kotaku.com/wall-street-journal-praises-kid-reselling-ps5s-and-poke-1847216023/amp?__twitter_impression=true&scrollx=ct%3Daaqahakt3r3ilj3bmvf62g8ecf&scrollnoblockerrefresh=1)
