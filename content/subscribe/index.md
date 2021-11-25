@@ -10,7 +10,9 @@ aliases = [
 	"get",
 	"sub",
 	"go",
-	"s"
+	"s",
+	"jobs",
+	"events"
 ]
 
 +++

@@ -21,7 +21,7 @@ In Thomas L. Friedman's [*Thank You For Being Late: An Optimist's Guide to Thriv
 
 *Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
 
-![Technology is outpacing human adaptability](/110/Thank_You_graph_04a.9_fmt.jpg)
+![Technology is outpacing human adaptability](/images/Thank_You_graph_04a.9_fmt.jpg)
 
 Friedman goes on to explain that the roles of education and government today should be to figure out how to lift the line of human adaptability to be able to keep pace with technology.
 
@@ -34,7 +34,6 @@ Save 25% on your Gold, Silver, or Bronze pass to the O'Reilly Software Architect
 
 [**Continuous delivery on modern infrastructure - Run GoCD on Kubernetes**](https://www.gocd.org/kubernetes)  
 Model Docker-based build workflows more effectively with our GoCD Kubernetes integration. Run GoCD natively on Kubernetes, define your build workflow and let GoCD provision and scale build infrastructure on the fly. *SPONSORED*
-
 
 ## Last Week's Top Five
 
