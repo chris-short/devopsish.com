@@ -10,7 +10,6 @@ tags = ["devops", "cloud native", "open source", "continuous improvement", "chan
 title = "063: Kubernetes Tips & Tricks, Leadership, Serverless, dtrace for Linux, Azure for Go, and More!"
 image = "/063/seeing-the-light.jpg"
 imagealt = "Seeing the light"
-imagecap = ""
 
 +++
 

@@ -6,7 +6,7 @@ date = 2020-04-19T07:00:00Z
 description = "Upcoming hiatus, phishing, DevSecOps, Mars rover driving from home, Vision Fund, BGP, Kubernetes Operators, OpenTelemetry, and more!"
 draft = false
 slug = "176"
-tags = ["cloud", "Kubernetes", "DevOps", "AWS", "GitHub", "cloud native", "security", "Linux", "IDE", "eBPF", "Vision Fund", "BGP", "Operators", "container", "Microsoft", "privelege escalation", "phishing", "Verizon", "BlueJeans", "Red Hat", "EKS", "GKE", "AKS", "OpenTelemetry", "Lambda", "VSCode", ""]
+tags = ["cloud", "Kubernetes", "DevOps", "AWS", "GitHub", "cloud native", "security", "Linux", "IDE", "eBPF", "Vision Fund", "BGP", "Operators", "container", "Microsoft", "privelege escalation", "phishing", "Verizon", "BlueJeans", "Red Hat", "EKS", "GKE", "AKS", "OpenTelemetry", "Lambda", "VSCode"]
 title = "DevOps'ish 176"
 
 +++

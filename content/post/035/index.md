@@ -90,4 +90,4 @@ We are about a month away from [**DevOpsDay Raleigh**](https://www.devopsdays.or
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish 035 Tweet of the Week](/images/035-devopsish-tweet-of-the-week.jpg)](https://twitter.com/bketelsen/status/892141526213591041)
+[![DevOps'ish 035 Tweet of the Week](/images/035-devopsish-tweet-of-the-week.png)](https://twitter.com/bketelsen/status/892141526213591041)

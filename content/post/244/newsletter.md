@@ -7,7 +7,7 @@ description = ["Milestones, K8s Contributor Celebration, Cassidy Williams, Cloud
 draft = false
 slug = "244"
 tags = ["cloud", "Julie", "Kubernetes", "Michigan", "DevOps", "cloud native", "clusters", "decision", "AWS", "COVID", "GitOps", "Infrastructure", "EKS", "news", "Aubree", "building", "moving", "leader", 
-"love", "contributor", "celebration", "Git", "Fulcio", "Google", "open source", "Amazon", "Traverse City", ""]
+"love", "contributor", "celebration", "Git", "Fulcio", "Google", "open source", "Amazon", "Traverse City"]
 title = "DevOps'ish 244: Milestones, K8s Contributor Celebration, Cassidy Williams, Cloud Native Hackathon, Activision Blizzard CEO, GitOps, Fulcio, tools galore, and more"
 
 +++
