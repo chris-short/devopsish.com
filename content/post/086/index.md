@@ -9,8 +9,7 @@ slug = "086"
 tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "google", "knative", "survey", "build", "Docker"]
 title = "086: Last Chance, Kubernetes, Knative, Ansible, Google Next, and More"
 image = "/086/fox-86.jpg"
-imagealt = ""
-imagecap = ""
+imagealt = "Fox"
 
 +++
 

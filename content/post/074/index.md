@@ -9,8 +9,7 @@ slug = "074"
 tags = ["devops", "cloud native", "open source", "kubernetes", "kubecon", "docker", "aws", "cloud", "lambda", "containers", "Site Reliability Engineering", "SRE"]
 title = "074: Kubernetes' Big Week in Europe, Three-day no meetings, High-speed networking, and More"
 image = "/074/air-show.jpg"
-imagealt = ""
-imagecap = ""
+imagealt = "Air show"
 
 +++
 

@@ -6,7 +6,7 @@ date = 2019-04-21T07:00:00Z
 description = "124: Kubernetes Tools, Google Anthos and Cloud Run, Fenrir for Serverless, Five Abstractions Make an Inception, Ports on Linux, and More"
 draft = false
 slug = "124"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "system", "Google", "Cloud Run", "Anthos", "linux", "abstractions", "inception", "996"]
+tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "system", "Google", "Cloud Run", "Anthos", "linux", "abstraction", "inception", "996"]
 title = "124: Kubernetes Tools, Google Anthos and Cloud Run, Fenrir for Serverless, Five Abstractions Make an Inception, Ports on Linux, and More"
 
 +++

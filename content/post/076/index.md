@@ -9,8 +9,6 @@ slug = "076"
 tags = ["devops", "cloud native", "open source", "kubernetes", "security", "microservices", "Site Reliability Engineering", "SRE", "Docker"]
 title = "076: Hiring in DevOps, Security, Kubernetes, and More"
 image = "/076/076-web.jpg"
-imagealt = ""
-imagecap = ""
 
 +++
 
