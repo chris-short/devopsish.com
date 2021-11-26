@@ -1,5 +1,4 @@
-baseURL = "https://devopsish.com/"
-copyright = "[Some rights reserved](https://devopsish.com/cc-by-sa-4.0/) | [Terms](https://devopsish.com/terms/) | [Privacy](https://devopsish.com/privacy/) | [Partners](https://devopsish.com/partners/) | [Praise](https://devopsish.com/praise/) | [Sponsor](https://devopsish.com/sponsor/) | [Subscribe](https://devopsish.com/subscribe/)"
+baseURL = "https://devopsish.com"
 enableEmoji = true
 enableRobotsTXT = true
 # googleAnalytics = "UA-4498776-13"
