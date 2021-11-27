@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Indexes"]
+categories = ["Indexes", "2018"]
 date = 2018-11-04T07:00:00Z
 description = "Coverage of the IBM acquistion of open source software leader Red Hat from around the web"
 draft = false

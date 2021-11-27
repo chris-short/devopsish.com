@@ -56,8 +56,6 @@ Kubernetes and containers are changing how applications are built, deployed, and
 
 [A Very Cold Take on IBM, Red Hat and Their Hybrid Cloud Hyperbole](http://www.platformonomics.com/2019/07/a-very-cold-take-on-ibm-red-hat-and-their-hybrid-cloud-hyperbole/) — Maybe a somewhat hyperbolic take on hybrid cloud hyperbole.
 
-[DevOps'ish Deep Cuts 001: A bluer hue of red](https://devopsish.com/deep-cuts-001/)
-
 ## Tools
 
 [Fire Up Your VMs with Weave Ignite](https://www.weave.works/blog/fire-up-your-vms-with-weave-ignite) — "Weave Ignite is an open source VM with a container UX and built-in GitOps management. [It] combines AWS Firecracker MicroVMs with Docker / OCI images to unify containers and VMs. [It] Works in a GitOps fashion and can manage VMs declaratively and automatically like Kubernetes and Terraform."

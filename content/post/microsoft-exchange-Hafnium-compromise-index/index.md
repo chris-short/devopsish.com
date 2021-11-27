@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Indexes"]
+categories = ["Indexes", "2021"]
 date = 2021-03-14T07:00:00Z
 description = "Coverage of the Microsoft Exchange Hafnium compromise from around the web"
 draft = false
