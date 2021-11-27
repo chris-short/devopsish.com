@@ -4,10 +4,6 @@
 
   <!-- Link Preloads -->
   <link rel="preload" href="/css/style.css" as="style">
-  <link rel="preload" href="/css/cookieconsent.min.css" as="style">
-  <link rel="preload" href="/css/carbon.css" as="style">
-  <link rel="preload" as="script" href="/js/cookieconsent.min.js">
-  <link rel="preload" as="script" href="/js/script.js">
   {{- with .Title | default .Site.Title }}
     <title>{{ . }}</title>
     <meta property="og:title" content="{{ . }}" />
