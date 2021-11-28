@@ -70,7 +70,8 @@ Another reason why you shouldn't set your password policy to something shorter t
 
 Join us for [Honeycomb Developer Week](https://www.honeycomb.io/developer-week-devopsish/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=devopsish) on Dec 13–15! With free hands-on training and snackable sessions, you’ll learn leading-edge observability practices in just a few hours. Find out how to debug why exactly your apps are slow for only some users. Learn to spot patterns, anomalies, and trends with distributed tracing. Tame alert noise and focus on what matters with [Honeycomb](https://ui.honeycomb.io/signup/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup). *SPONSORED*
 
-[Busting 5 Sigstore Myths](https://chainguard.dev/posts/2021-11-19-sigstore-myths)  
+[Busting 5 Sigstore Myths](https://chainguard.dev/posts/2021-11-19-sigstore-myths)
+
 1. Short-lived certificates mean you need to re-sign your software artifacts constantly
 1. Sigstore doesn’t support revocation
 1. Sigstore is only for signing and verifying containers!
