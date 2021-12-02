@@ -6,7 +6,7 @@ date = 2020-01-06T01:15:00Z
 description = "Getting you back in the groove, hello 2020, anxiety, Y2K, AWS RDS certificates, faasd, Apache Pulsar, DENT, WebAssembly, and more"
 draft = false
 slug = "161"
-tags = ["automation imagination", "DevOps", "Kubernetes", "open source", "Y2K", "DENT", "Python", "DENT", "Apache Pulsar", "AWS", "automation", "webassembly", "RDS", "cloud", "developers", "software", "code", "google", "cloud native", "faasd", "network", "Linux", "anxiety", "GitHub", "GitHub Actions", "security", "CNCF", "community", "development", "operations", "UPS", "CI/CD", "certificates"]
+tags = ["automation imagination", "DevOps", "Kubernetes", "open source", "Y2K", "DENT", "Python", "DENT", "Apache Pulsar", "AWS", "automation", "webassembly", "RDS", "cloud", "developers", "software", "code", "google", "cloud native", "faasd", "network", "Linux", "anxiety", "GitHub", "GitHub Actions", "security", "CNCF", "community", "development", "operations", "UPS", "CI/CD", "certificates", "GitOps"]
 title = "161: Getting you back in the groove, hello 2020, anxiety, Y2K, AWS RDS certificates, faasd, Apache Pulsar, DENT, WebAssembly, and more"
 
 +++

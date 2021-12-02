@@ -6,7 +6,7 @@ date = 2021-11-07T07:00:00Z
 description = ["Automation transforms jobs, be directive without being a jerk, YAML strikes again, GitHub CEO change, Dell spins out VMware, Grace Hopper Explains the Nanosecond, Kubernetes tools galore, and more"]
 draft = false
 slug = "242"
-tags = ["Kubernetes", "Red Hat", "cloud", "Cloud Native", "open source", "process", "DevOps", "automation", "people", "Microsoft", "software", "infrastructure", "contributor", "Knative", "Intel", "jobs", "GitHub CEO", "nginx", "Amazon", "directive", "IBM", "Pulumi", "GitHub", "Linux", "VMware", "networking", "architecture", "Ubuntu", "IoT", "ingress", "cluster", "GitHub Copilot", "YAML", "AWS", "programming", "Dell", "tracing", "developer", "Google", "terminal", "Apache", "ArgoCD", "CNCF", "wages"]
+tags = ["Kubernetes", "Red Hat", "cloud", "Cloud Native", "open source", "process", "DevOps", "automation", "people", "Microsoft", "software", "infrastructure", "contributor", "Knative", "Intel", "jobs", "GitHub CEO", "nginx", "Amazon", "directive", "IBM", "Pulumi", "GitHub", "Linux", "VMware", "networking", "architecture", "Ubuntu", "IoT", "ingress", "cluster", "GitHub Copilot", "YAML", "AWS", "programming", "Dell", "tracing", "developer", "Google", "terminal", "Apache", "ArgoCD", "CNCF", "wages", "GitOps"]
 title = "DevOps'ish 242: Automation transforms jobs, be directive without being a jerk, YAML strikes again, GitHub CEO change, Dell spins out VMware, Grace Hopper Explains the Nanosecond, Kubernetes tools galore, and more"
 
 +++

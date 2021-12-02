@@ -6,7 +6,7 @@ date = 2021-04-25T07:00:00Z
 description = ["Prepping for KubeCon, we're languishing, CodeCov debacle, Signal slashes Cellebrite, not so Golden Gophers, ARM deal halted, Kubernetes Gateway API, and more"]
 draft = false
 slug = "215"
-tags = ["Kubernetes", "DevOps", "KubeCon", "cloud native", "open source", "code", "Red Hat", "Cellebrite", "University of Minnesota", "distributed", "tracing", "developers", "ARM", "NVIDIA", "LaunchDarkly", "Linux", "Clubhouse", "Gateway API", "Honeycomb", "handovers", "Operators", "Istio", "tech", "IBM", "homebrew", "languishing", "microservices", "FTP", "jq", "xargs", "COSI"]
+tags = ["Kubernetes", "DevOps", "KubeCon", "cloud native", "open source", "code", "Red Hat", "Cellebrite", "University of Minnesota", "distributed", "tracing", "developers", "ARM", "NVIDIA", "LaunchDarkly", "Linux", "Clubhouse", "Gateway API", "Honeycomb", "handovers", "Operators", "Istio", "tech", "IBM", "homebrew", "languishing", "microservices", "FTP", "jq", "xargs", "COSI", "GitOps"]
 title = "DevOps'ish 215: Prepping for KubeCon, we're languishing, CodeCov debacle, Signal slashes Cellebrite, not so Golden Gophers, ARM deal halted, Kubernetes Gateway API, and more"
 
 +++

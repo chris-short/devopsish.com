@@ -6,7 +6,7 @@ date = 2020-11-01T07:00:00Z
 description = "Flux Community, Intel CPU code leak, Pulumi raises dough, AMD acquires Xilinx, youtube-dl backlash, read the RFC, kube-linter, and more"
 draft = false
 slug = "190"
-tags = ["cloud", "cloud native", "security", "systemd", "monitoring", "DevOps", "youtube-dl", "privacy", "developers", "Intel", "open source", "Kubernetes", "Prometheus", "Iac", "Lesley Carhart", "Kelsey Hightower", "AMD", "Xilinx", "Corey Quinn", "Kafka", "Strimzi", "IFTTT", "Maddie Stone", "kube-linter"]
+tags = ["cloud", "cloud native", "security", "systemd", "monitoring", "DevOps", "youtube-dl", "privacy", "developers", "Intel", "open source", "Kubernetes", "Prometheus", "Iac", "Lesley Carhart", "Kelsey Hightower", "AMD", "Xilinx", "Corey Quinn", "Kafka", "Strimzi", "IFTTT", "Maddie Stone", "kube-linter", "GitOps"]
 title = "DevOps'ish 190"
 
 +++

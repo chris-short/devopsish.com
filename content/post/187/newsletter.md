@@ -6,7 +6,7 @@ date = 2020-10-11T07:00:00Z
 description = "Kubernetes on spy planes, @K8sContributors, Unfck the internet, Demystifying GitOps, Cilium, and more"
 draft = false
 slug = "187"
-tags = ["Kubernetes", "cloud", "cloud native", "DevOps", "internet", "IBM", "Red Hat", "GttOps", "infrastructure", "data", "security", "Wordpress", "hybrid cloud", "Mozilla", "observability", "runtime", "storage", "kernel", "GitHub", "Google", "Accurics", "Cilium"]
+tags = ["Kubernetes", "cloud", "cloud native", "DevOps", "internet", "IBM", "Red Hat", "GttOps", "infrastructure", "data", "security", "Wordpress", "hybrid cloud", "Mozilla", "observability", "runtime", "storage", "kernel", "GitHub", "Google", "Accurics", "Cilium", "GitOps"]
 title = "DevOps'ish 187"
 
 +++

@@ -6,7 +6,7 @@ date = 2021-10-17T07:00:00Z
 description = ["KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more"]
 draft = false
 slug = "239"
-tags = ["time", "CPU", "cloud", "data", "DevOps", "code", "Cloud Native", "open source", "software", "security", "infrastructure", "namespace", "Linux", "TLS", "AWS", "Red Hat", "community", "SSH", "KubeCon", "Kubernetes"]
+tags = ["time", "CPU", "cloud", "data", "DevOps", "code", "Cloud Native", "open source", "software", "security", "infrastructure", "namespace", "Linux", "TLS", "AWS", "Red Hat", "community", "SSH", "KubeCon", "Kubernetes", "GitOps"]
 title = "DevOps'ish 239: KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more"
 
 +++
