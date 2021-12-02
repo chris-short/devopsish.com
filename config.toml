@@ -5,7 +5,7 @@ enableRobotsTXT = true
 languageCode = "en-us"
 metaDataFormat = "toml"
 newContentEditor = "code"
-paginate = 10
+paginate = 9
 relativeURLs = true
 theme = "hugo-theme-bootstrap4-blog"
 title = "DevOps'ish"
@@ -22,7 +22,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params]
   author = "Chris Short"
-  description = "Cloud Native, DevOps, Open Source, industry news, culture, and the 'ish between."
+  description = "Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the 'ish between."
   favicon = "/favicons/favicon.ico"
   disable_sri = true
 
@@ -33,7 +33,7 @@ ignoreErrors = ["error-remote-getjson"]
   cookie_consent_info_url = "/cookie-policy/"
 
   [params.sidebar]
-    About = "DevOps'ish is a weekly newsletter assembled by open source and [Kubernetes contributor](https://www.kubernetes.dev/), DevOps leader, and Cloud Native Computing Foundation (CNCF) Ambassador [Chris Short](https://linktr.ee/TheChrisShort)."
+    About = "DevOps'ish is assembled by open source and [Kubernetes contributor](https://www.kubernetes.dev/), DevOps leader, [GitOps Working Group](https://opengitops.dev/) member, and [Cloud Native Computing Foundation](https://www.cncf.io/people/ambassadors/) (CNCF) Ambassador [Chris Short](https://linktr.ee/TheChrisShort)."
     num_recent_posts = 8
 
   [params.stats]

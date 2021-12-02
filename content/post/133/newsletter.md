@@ -6,7 +6,7 @@ date = 2019-06-23T07:00:00Z
 description = "TCP SACK PANIC, Kubernetes 1.15, Red Hat & IBM, Job Identity, UBI, Cognitive Load and More"
 draft = false
 slug = "133"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter"]
+tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "weekly newsletter", "GitOps"]
 title = "133: TCP SACK PANIC, Kubernetes 1.15, Red Hat & IBM, Job Identity, UBI, Cognitive Load and More"
 
 +++
