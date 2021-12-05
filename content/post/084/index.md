@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2018"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2018"]
 date = 2018-07-15T07:00:00Z
 description = "Open Offices are Evil, AWS Switches?, GitOps, BGP, Getting Started with CI/CD, OpenFaaS, and More"
 draft = false

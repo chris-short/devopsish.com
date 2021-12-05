@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2020"]
 date = 2020-03-29T07:00:00Z
 description = "For shame O'Reilly, Zoom'ing in on privacy, Kubernetes 1.18, Serverless with Knative, why you should try UBI, Dockerized Folding@Home, and more"
 draft = false

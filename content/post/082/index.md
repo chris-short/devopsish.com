@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2018"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2018"]
 date = 2018-07-01T07:00:00Z
 description = "Picking Winning Tech, Blue is Bad, Kubernetes, GCP Problems, VKE, Ansible, and More"
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-10-24T07:00:00Z
 description = ["You're probably underpaid, Karanbir Singh Steps Down, Honeycomb's cool $50 million, and more"]
 draft = false

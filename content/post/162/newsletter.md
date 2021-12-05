@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2020"]
 date = 2020-01-12T07:00:00Z
 description = "kubectl tree, SHA-1, Pulse Secure VPN vulnerability, data gravity, Falco, eBPF, Bash-my-AWS, and more"
 draft = false

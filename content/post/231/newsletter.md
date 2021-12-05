@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-08-22T07:00:00Z
 description = ["Kubernetes 1.22 release team livestream, problems in Perl, glibc, eBPF, Pod Security Admission, secure supply chains, tools galore, and more"]
 draft = false

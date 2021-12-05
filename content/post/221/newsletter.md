@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-06-06T07:00:00Z
 description = ["On the passing of Peeyush Gupta, Apple employees balk at return to office plans, 1:1 with CNCF's Priyanka Sharma, StackOverflow acquired, Flux, Argo, HTTP 3, and more"]
 draft = false

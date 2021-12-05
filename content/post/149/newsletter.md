@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2019"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2019"]
 date = 2019-10-13T07:00:00Z
 description = "Ahh-Me or Ay-Em-Eye, Don't stop learning, GitOps, open is better, iTerm2 vuln, Ansible Operators, and More"
 draft = false

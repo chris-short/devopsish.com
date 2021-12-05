@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2020"]
 date = 2020-10-18T07:00:00Z
 description = "YAML, Kubernetes Steering Committee, BleedingTooth, ContainerDrip, TrickBot, Kubernetes, Van Halen's rider, Rust, and more"
 draft = false

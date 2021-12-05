@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-05-22T07:00:00Z
 description = ["Mobile First Development, Bill Gates, your Wi-Fi are belong to us, irksome IRC, Argo with Okta, kubectl debug, and more"]
 draft = false
