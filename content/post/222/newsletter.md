@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-06-13T07:00:00Z
 description = ["Industry under pressure, Holy $%^& I agree with Torvalds, US Congress begins assault on big tech, polkit vuln, ALPACA, How To Love Kubernetes and Not Wreck The Planet, and more"]
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-05-30T07:00:00Z
 description = ["Fretting over free tier, Amazon's creepy network, NOBELIUM, Half-Double Rowhammers on sale, Istio vs. Linkerd, cost of cloud, and more"]
 draft = false

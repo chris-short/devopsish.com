@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-05-02T07:00:00Z
 description = ["KubeCon EU is here, Manager Tools, Microsoft adds a Kinvolk caboose, Feature Flags, GitOps with Argo CD, 100 Days Of Kubernetes, OSI Model, and more"]
 draft = false

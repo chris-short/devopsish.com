@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2019"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2019"]
 date = 2019-01-27T07:00:00Z
 description = "Kubernetes Any Way You Want It, Passing the CKA, GitOps, Joy Sparking Meetings, Processes, Containers, and VMs. Oh My! and More"
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-09-26T07:00:00Z
 description = ["You need a personal laptop, USB-C for all, more zero-days this year than any other, Go generics, and more"]
 draft = false

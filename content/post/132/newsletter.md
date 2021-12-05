@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2019"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2019"]
 date = 2019-06-16T07:00:00Z
 description = "Kubernetes for the impatient, VMware shopping spree continues, Burnout, SRE for you and me, Google grows in Michigan, NATS 2.0, and more"
 draft = false

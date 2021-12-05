@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2018"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2018"]
 date = 2018-09-16T07:00:00Z
 description = "Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More"
 draft = false

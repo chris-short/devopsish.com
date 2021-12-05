@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2020"]
 date = 2020-11-22T07:00:00Z
 description = "KubeCon, need to improve all virtual events, inclusive leaders, GitOps WG, DKIM, cloud native acquisitions, youtube-dl is back, big problems with Big Sur, and more"
 draft = false

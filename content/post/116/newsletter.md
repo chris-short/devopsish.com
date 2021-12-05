@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2019"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2019"]
 date = 2019-02-24T06:00:00Z
 description = "Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, Hashicorp in Wired, Ansible for Kubernetes, Knative, and More"
 draft = false

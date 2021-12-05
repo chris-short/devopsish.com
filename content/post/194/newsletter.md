@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2020"]
 date = 2020-11-29T07:00:00Z
 description = "ARM is here, KubeCon recaps, racist Coinbase, security and sysadmins, Stripe funding, Salesforce to buy Slack, us-east-1 postmortem, Kubernetes Operators, and more"
 draft = false

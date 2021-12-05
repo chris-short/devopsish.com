@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-01-31T07:00:00Z
 description = "Job hopping, Block Party, Perl.com pain, SSPL sucks, sudo vuln, cloud trends, the beauty of Windows 3.11, and more"
 draft = false

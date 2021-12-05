@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2020"]
 date = 2020-11-08T07:00:00Z
 description = "On Dan Kohn's Passing, NAT slipstreaming, Raspberry Pi 400, Python overtakes Java, container registries, Raspberry Pi 400, and more"
 draft = false

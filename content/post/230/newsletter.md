@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-08-15T07:00:00Z
 description = ["Complex Systems == No Single Root Cause, WFHers juggling two jobs, Service Reliability Math, eBPF Foundation, Dashboards, Tools from Black Hat and more"]
 draft = false

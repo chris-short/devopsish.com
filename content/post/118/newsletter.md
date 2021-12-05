@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "2019"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2019"]
 date = 2019-03-10T07:00:00Z
 description = "Kubernetes, People, Say AMI, Ghidra, Terraform, Git, OperatorHub, and More"
 draft = false
