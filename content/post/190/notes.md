@@ -14,7 +14,6 @@ title = "DevOps'ish 190 Notes"
 
 ## Notes
 
-
 [On pronouns and corrections — Ryn Daniels](https://www.ryn.works/blog/on-pronouns-and-corrections)
 
 [Fedora 33 is officially here! - Fedora Magazine](https://fedoramagazine.org/announcing-fedora-33/)
@@ -86,4 +85,3 @@ title = "DevOps'ish 190 Notes"
 [SREs: Stop Asking Your Product Managers for SLOs - DevOps.com](https://devops.com/sres-stop-asking-your-product-managers-for-slos/)
 
 [Apache Kafka on Kubernetes with Strimzi - Part 3: Monitoring our Strimzi Kafka Cluster with Prometheus and Grafana - Sina Nourian](https://snourian.com/kafka-kubernetes-strimzi-part-3-monitoring-strimzi-kafka-with-prometheus-grafana/)
-
