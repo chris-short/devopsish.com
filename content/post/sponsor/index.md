@@ -9,7 +9,8 @@ aliases = [
     "/sponsors",
     "/sponsorship",
     "/advertising",
-    "/ads"
+    "/ads",
+    "/sponsor/DevOps"
 ]
 
 +++
