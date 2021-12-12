@@ -27,7 +27,6 @@ title = "DevOps'ish 247 Notes"
 
 [Maintenance Update 12/10/2021 – Backblaze Help](https://help.backblaze.com/hc/en-us/articles/4412580603419)
 
-
 ### Other Notes
 
 [Improving GitHub code search | The GitHub Blog](https://github.blog/2021-12-08-improving-github-code-search/)

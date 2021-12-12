@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-12-12T07:00:00Z
-description = [""]
+description = ["Kubernetes 1.23, Kubernetes Contributor Celebration, DevOps'ish turns 5, Log4j vulnerability, Hashicorp IPO, and more"]
 draft = false
 slug = "247"
-tags = []
-title = "DevOps'ish 247: "
+tags = ["Kubernetes", "security", "cloud", "cloud native", "DevOps", "pod", "GitOps", "privacy", "infrastructure", "log4j", "code", "software", "employees", "stock", "Kubernetes Contributor Celebration", "Google", "IPv6", "git", "platform", "equity", "compensation", "billion", "MySQL", "Bluetooth", "open source"]
+title = "DevOps'ish 247: Kubernetes 1.23, Kubernetes Contributor Celebration, DevOps'ish turns 5, Log4j vulnerability, Hashicorp IPO, and more"
 
 +++
 
@@ -15,19 +15,19 @@ Hi all, if you thought last week was terrible, I give you this week. I'm not goi
 
 ## Happy Birthday, DevOps'ish
 
-DevOps'ish turns five years old today! Max was a year old. I told my wife I was starting a newsletter. Two-hundred forty-seven issues later, we've arrived here. This morning, I told Julie, who thought I was nuts at the launch, that DevOps'ish is one of the best things I've done for my career. This has paid off on the home front and improved our overall quality of life. I guess this shouldn't come as a surprise, but the newsletter also enabled MORE charitable giving than before too. Has DevOps'ish been a success? Yes.
+DevOps'ish turns five years old today! Max was a year old. I told my wife I was starting a newsletter. Two-hundred forty-seven issues later, we've arrived here. This morning, I told Julie, who thought I was nuts at the launch, that DevOps'ish is one of the best things I've done for my career. This has paid off on the home front and improved our overall quality of life. I guess this shouldn't come as a surprise, but the newsletter also enabled MORE charitable giving than before too. Has DevOps'ish been a success? [Yes](https://devopsish.com/praise/).
 
 ### DevOps'ish at 5
 
-Is the newsletter self-sustaining? Yes. I've optimized costs as much as possible. I've filled sponsorships as much as I want. The balance sheet is good. The newsletter has pivoted from being a metrics-focused newsletter to being very privacy aware over its five years. I don't want to know anything about the DevOps'ish readership unless they volunteer it. I don't track clicks or open rates, and I'm very upfront about that with sponsors.
+Is the newsletter self-sustaining? Yes. I've optimized costs as much as possible. I've filled sponsorships as much as I can. The balance sheet is good. The newsletter has pivoted from being a metrics-focused newsletter to being very privacy aware over its five years. I don't want to know anything about the DevOps'ish readership unless they volunteer it. I don't track clicks or open rates, and I'm very upfront about that with sponsors.
 
-Moving off Google Analytics and going to Fathom Analytics was another win for the privacy-conscious. Fathom has also added on to the excellent services they offer too. Another good move was getting off Mailchimp. It was bumpy for a little bit, but EmailOctopus provides an excellent service for newslettering. It is also privacy-conscious in that it allows me to turn off tracking features customarily enabled by default and not changeable on other platforms. I hope readers understand and appreciate the great lengths gone in the name of privacy.
+Moving off Google Analytics and going to [Fathom Analytics](https://usefathom.com/ref/Z8NTXN) was another win for the privacy-conscious. Fathom has also added on to the excellent services they offer too. Another good move was getting off Mailchimp. It was bumpy for a little bit, but [EmailOctopus](https://emailoctopus.com/?urli=n6msM) provides an excellent service for newslettering. It is also privacy-conscious in that it allows me to turn off tracking features customarily enabled by default and not changeable on other platforms. I hope readers understand and appreciate the great lengths gone in the name of privacy.
 
 After being on Netlify for years this past month, I finally had to start a paid plan. I'm buying time as I think through how to refactor the DevOps'ish website to optimize build times. I could write a whole blog post about the one dumb design decision that has created an infrastructure problem for myself (and I probably will at some point). But, I can buy time, as I said. Which is nice given how hectic life is right now.
 
 ### DevOps'ish going from 5 to 10
 
-One area where I'm not thrilled with the newsletter is in the subscriber count. Sharing how I feel or how one thing interacts with a societal structure thus, “politics” are discussed in the newsletter leads to a narrowing of the audience. This leaves me with a choice: A) don't associate anything political thing with anything in tech (like purists think it should be, which isn't reality) or B) make me more aware of their surroundings.
+One area where I'm not thrilled with the newsletter is in the subscriber count. Sharing how I feel or how one thing interacts with a societal structure thus, "politics" are discussed in the newsletter leads to a narrowing of the audience. This leaves me with a choice: A) don't associate anything political thing with anything in tech (like purists think it should be, which isn't reality) or B) make me more aware of their surroundings.
 
 I'm going to choose option B. That will rub people the wrong way. The worst thing that can happen to DevOps'ish is subscriber count stagnation. The privacy policies discussed earlier mean the only metric I can sell sponsors on is the number of subscribers. The success of this newsletter lies in its ability to get folks to subscribe to it.
 
