@@ -37,7 +37,7 @@ ignoreErrors = ["error-remote-getjson"]
     num_recent_posts = 8
 
   [params.stats]
-    subscribers = "5,500+"
+    subscribers = "5,600+"
 #    avg_open_rate = "48%"
 #    avg_click_rate = "21%"
 

@@ -2,11 +2,12 @@
 
 author = "Chris Short"
 categories = ["Notes", "2021"]
-date = 2021-12-05T07:00:00Z
-description = "Notes from DevOps'ish 246"
+date = 2021-12-12T07:00:00Z
+description = "Notes from DevOps'ish 247"
 draft = false
-url = "246/notes"
-title = "DevOps'ish 246 Notes"
+url = "247/notes"
+title = "DevOps'ish 247 Notes"
+
 
 +++
 
@@ -14,94 +15,162 @@ title = "DevOps'ish 246 Notes"
 
 ## Notes
 
-### AWS re:Invent
+[Improving GitHub code search | The GitHub Blog](https://github.blog/2021-12-08-improving-github-code-search/)
 
-[Top Announcements of AWS re:Invent 2021 | AWS News Blog](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/)
+[Apache Log4j2 Security Bulletin (CVE-2021-44228)](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/)
 
-[Amazon Virtual Private Cloud (VPC) announces IP Address Manager (IPAM) to help simplify IP address management on AWS](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-virtual-private-cloud-vpc-announces-ip-address-manager-ipam/)
+[The new American dream: getting paid to do nothing?](https://www.theverge.com/c/22820291/tech-jobs-outsourcing-infosys-bench-paid-to-do-nothing?scrolla=5eb6d68b7fedc32c19ef33b4)
 
-[Use New Amazon EC2 M1 Mac Instances to Build & Test Apps for iPhone, iPad, Mac, Apple Watch, and Apple TV | AWS News Blog](https://aws.amazon.com/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/)
+[SolarWinds hackers have a whole bag of new tricks for mass compromise attacks | Ars Technica](https://arstechnica.com/information-technology/2021/12/solarwinds-hackers-have-a-whole-bag-of-new-tricks-for-mass-compromise-attacks/)
 
-[New for AWS Compute Optimizer – Enhanced Infrastructure Metrics to Extend the Look-Back Period to Three Months | AWS News Blog](https://aws.amazon.com/blogs/aws/new-for-aws-compute-optimizer-enhanced-infrastructure-metrics-to-extend-the-look-back-period-to-three-months/)
+[Announcing the Kubernetes Contributor Celebration 2021 | Kubernetes Contributors](https://www.kubernetes.dev/blog/2021/12/07/announcing-the-kubernetes-contributor-celebration-2021/)
 
-[Docker Official Images now available on Amazon Elastic Container Registry Public | Containers](https://aws.amazon.com/blogs/containers/docker-official-images-now-available-on-amazon-elastic-container-registry-public/)
+[Better.com has mass layoffs on Zoom before holidays](https://www.sfgate.com/tech/article/Better-mortgage-firm-has-mass-layoff-Zoom-16673576.php)
 
-[New – Sustainability Pillar for AWS Well-Architected Framework | AWS News Blog](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework/)
+[The Internet’s biggest players are all affected by critical Log4Shell 0-day | Ars Technica](https://arstechnica.com/information-technology/2021/12/the-critical-log4shell-zero-day-affects-a-whos-who-of-big-cloud-services/)
 
-[New – Amazon FSx for OpenZFS | AWS News Blog](https://aws.amazon.com/blogs/aws/new-amazon-fsx-for-openzfs/)
+[Software Firm HashiCorp Tops IPO Goal to Raise $1.2 Billion - Bloomberg](https://www.bloomberg.com/news/articles/2021-12-09/hashicorp-is-said-to-price-ipo-above-range-at-80-a-share)
 
-[Now in Preview – Amazon SageMaker Studio Lab, a Free Service to Learn and Experiment with ML | AWS News Blog](https://aws.amazon.com/blogs/aws/now-in-preview-amazon-sagemaker-studio-lab-a-free-service-to-learn-and-experiment-with-ml/)
+[charmbracelet/soft-serve: A tasty, self-hostable Git server for the command line🍦](https://github.com/charmbracelet/soft-serve)
 
-[AWS re/Start](https://aws.amazon.com/training/restart/)
+[Steinar H. Gunderson](https://blog.sesse.net/blog/tech/2021-12-05-16-41_leaving_mysql.html)
 
-[Amazon EBS Snapshots introduces a new tier, Amazon EBS Snapshots Archive, to reduce the cost of long-term retention of EBS Snapshots by up to 75%](https://aws.amazon.com/about-aws/whats-new/2021/11/retention-ebs-snapshots-75-amazon-archive-tier/)
+[How To Do Canary Deployments In Kubernetes Using Flagger And Linkerd? - YouTube](https://www.youtube.com/watch?v=NrytqS43dgw)
 
-[Introducing Karpenter – An Open-Source High-Performance Kubernetes Cluster Autoscaler | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autoscaler/)
+[‘Log4Shell’ vulnerability poses critical threat to applications using ‘ubiquitous’ Java logging package Apache Log4j | The Daily Swig](https://portswigger.net/daily-swig/log4shell-vulnerability-poses-critical-threat-to-applications-using-ubiquitous-java-logging-package-apache-log4j)
 
-[Amazon ECR announces pull through cache repositories](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecr-cache-repositories/)
+[Kali Linux 2021.4 released with Samba compatibility, Apple M1 support, 9 new tools](https://www.hackread.com/kali-linux-2021-4-samba-compatibility-9-new-tools/)
 
-[AWS App Runner supports GitHub Actions to build and deploy applications](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-runner-github-actions-build-deploy-applications/)
+[Mercedes-Benz gets world’s first approval for automated driving system | Ars Technica](https://arstechnica.com/cars/2021/12/mercedes-benz-gets-worlds-first-approval-for-automated-driving-system/)
 
-[AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
+[Two Things I Practised in 2021 – More Questions Than Answers](https://unremarkabletester.com/2021/12/09/two-things-i-practised-in-2021/)
 
-### The rest of the notes
+[Pod Security Graduates to Beta | Kubernetes](https://kubernetes.io/blog/2021/12/09/pod-security-admission-beta/)
 
-[Knative applies to join CNCF project incubator • The Register](https://www.theregister.com/2021/12/01/knative_cncf/)
+[How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
 
-[willmcgugan/textual: Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.](https://github.com/willmcgugan/textual)
+[Wichita Sisters Become First Black Women In Kansas To Raise $1M For Tech Startup](https://peopleofcolorintech.com/break-into-tech/wichita-sisters-become-first-black-women-in-kansas-to-raise-1m-for-tech-startup/?utm_source=rss&utm_medium=rss&utm_campaign=wichita-sisters-become-first-black-women-in-kansas-to-raise-1m-for-tech-startup)
 
-[estruyf/vscode-front-matter: Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...](https://github.com/estruyf/vscode-front-matter)
+['Crisis mode.' Hospitals across Michigan dealing 4th COVID-19 surge](https://www.wxyz.com/news/coronavirus/crisis-mode-hospitals-across-michigan-dealing-4th-covid-19-surge)
 
-[nsacyber/RandPassGenerator: A command-line utility for generating random passwords, passphrases, and raw keys. #nsacyber](https://github.com/nsacyber/RandPassGenerator)
+[DNS "propagation" is actually caches expiring](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 
-[gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅](https://github.com/gothinkster/realworld)
+[Report: Apple CEO Tim Cook signed secret $275 billion deal with China | iMore](https://www.imore.com/report-apple-ceo-tim-cook-signed-secret-275-billion-deal-china)
 
-[Big Tech firms should pay ISPs to upgrade networks, telcos in Europe claim | Ars Technica](https://arstechnica.com/tech-policy/2021/11/big-tech-firms-should-pay-isps-to-upgrade-networks-telcos-in-europe-claim/)
+[Store Secrets in Git - Sealed Secrets - YouTube](https://www.youtube.com/watch?v=xSfNlVV40Po)
 
-[Ask Miss O11y: Tracing Is for Async, Too - Honeycomb](https://www.honeycomb.io/blog/tracing-is-for-async-too/)
+[GitOps: An implementation of DevOps | ChrisShort.net](https://chrisshort.net/gitops-an-implementation-of-devops/)
 
-[https://twitter.com/rakyll/status/1465439634700177408?s=12](https://twitter.com/rakyll/status/1465439634700177408?s=12)
+[kubeshop/kusk: Kusk makes your OpenAPI definition the source of truth for API resources in your cluster](https://github.com/kubeshop/kusk)
 
-[Amazon launches preview of new AWS Private 5G managed service | TechCrunch](https://techcrunch.com/2021/11/30/amazon-announces-the-preview-of-aws-private-5g/)
+[Did I get owned by Log4Shell? | Pixie Labs Blog](https://blog.px.dev/did-i-get-owned-by-log4shell/)
 
-[Panasonic discloses four-months-long data breach - The Record by Recorded Future](https://therecord.media/panasonic-discloses-four-months-long-data-breach/)
+[Digging deeper into Log4Shell - 0Day RCE exploit found in Log4j | Fastly](https://www.fastly.com/blog/digging-deeper-into-log4shell-0day-rce-exploit-found-in-log4j)
 
-[Interactive Vim Exercises](https://vim.is/#exercise)
+[Maintenance Update 12/10/2021 – Backblaze Help](https://help.backblaze.com/hc/en-us/articles/4412580603419)
 
-[Benchmarking Linkerd and Istio: 2021 Redux | Linkerd](https://linkerd.io/2021/11/29/linkerd-vs-istio-benchmarks-2021/?utm_source=Buoyant&utm_campaign=423df4bfa4-EMAIL_CAMPAIGN_2021_11_30_11_05&utm_medium=email&utm_term=0_8afcb1d58f-423df4bfa4-397362523)
+[ARM64 VM on macOS with libvirt + QEMU](https://www.naut.ca/blog/2021/12/09/arm64-vm-on-macos-with-libvirt-qemu/)
 
-[Vulnerability Summary for the Week of November 22, 2021 | CISA](https://us-cert.cisa.gov/ncas/bulletins/sb21-333)
+[EBS CSI driver now available in EKS add-ons in preview](https://aws.amazon.com/about-aws/whats-new/2021/12/eks-add-ons-ebs-csi-driver/)
 
-[Experts warn of attacks exploiting CVE-2021-40438 in Apache HTTP ServerSecurity Affairs](https://securityaffairs.co/wordpress/125107/hacking/cve-2021-40438-apache-http-server-attacks.html?utm_source=rss&utm_medium=rss&utm_campaign=cve-2021-40438-apache-http-server-attacks)
+[redkubes/otomi-core: A Kubernetes application deployment and configuration platform with developer self-service](https://github.com/redkubes/otomi-core)
 
-[Cloud Native Hackathon](https://www.commclassroom.org/cloudnativehack?r_done=1)
+[The vice president should not be using Bluetooth headphones - The Verge](https://www.theverge.com/2021/12/7/22822431/kamala-harris-bluetooth-security-hacking-headphones)
 
-[Weaveworks launches first enterprise Gitops platform | InfoWorld](https://www.infoworld.com/article/3642533/weaveworks-launches-first-enterprise-gitops-platform.html)
+[ArgoCon 2021 - Amazing Community Participation! | by Henrik Blixt | Dec, 2021 | Argo Project](https://blog.argoproj.io/argocon-2021-amazing-community-participation-74126f0a91d9)
 
-[Zero-friction “keyless signing” with Github Actions | Chainguard, Inc.](https://chainguard.dev/posts/2021-12-01-zero-friction-keyless-signing)
+[RISC-V Summit 2021 - High Performance Processors, Other Interesting Talks - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=RISC-V-Summit-2021)
 
-[Who Is Parag Agrawal, Twitter’s New C.E.O.? - The New York Times](https://www.nytimes.com/2021/11/29/technology/parag-agrawal-twitter.html)
+[antonmedv/llama: Terminal file manager](https://github.com/antonmedv/llama)
 
-[Progress on making eBPF work on Windows - Microsoft Open Source Blog](https://cloudblogs.microsoft.com/opensource/2021/11/29/progress-on-making-ebpf-work-on-windows/)
+[“Incident” shouldn’t be a four-letter word |> Changelog](https://changelog.com/posts/incident-shouldnt-be-a-four-letter-word)
 
-[Demystifying kube-proxy | Mayank Shah](https://mayankshah.dev/blog/demystifying-kube-proxy/)
+[Russian hackers bypass 2FA by annoying victims with repeated push notifications - The Record by Recorded Future](https://therecord.media/russian-hackers-bypass-2fa-by-annoying-victims-with-repeated-push-notifications/)
 
-[Why you need to turn off news notifications](https://www.fastcompany.com/90698823/you-need-to-turn-off-news-notifications-heres-why)
+[1.6 Million WordPress Sites Hit With 13.7 Million Attacks In 36 Hours From 16,000 IPs](https://www.wordfence.com/blog/2021/12/massive-wordpress-attack-campaign/)
 
-[Where new AWS CEO Adam Selipsky plans to take cloud computing next - SiliconANGLE](https://siliconangle.com/2021/11/28/new-aws-ceo-adam-selipsky-plans-take-cloud-computing-next/)
+[US Military's Hacking Unit to take on ransomware gangs](https://www.hackread.com/us-militarys-hacking-on-ransomware-gangs/)
 
-[Generically working with Kubernetes objects in Go | by Jason Snouffer | Nov, 2021 | ITNEXT](https://itnext.io/generically-working-with-kubernetes-resources-in-go-53bce678f887)
+[A key inflation measure rose to a 39-year high last month - CNN](https://www.cnn.com/2021/12/10/economy/consumer-price-inflation-november/index.html?utm_medium=social&utm_source=twcnnbrk&utm_term=link&utm_content=2021-12-10T13%3A34%3A58)
 
-[Raspberry Pi Plans $500m Spring Listing | Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-plans-spring-2022-listing)
+[Kubernetes 1.23: Dual-stack IPv4/IPv6 Networking Reaches GA | Kubernetes](https://kubernetes.io/blog/2021/12/08/dual-stack-networking-ga/)
 
-[Israel defense ministry slashes cyber export list, drops Saudi Arabia, UAE - CTech](https://www.calcalistech.com/ctech/articles/0,7340,L-3923361,00.html)
+[Secure end-to-end traffic on Amazon EKS using TLS certificate in ACM, ALB, and Istio | Containers](https://aws.amazon.com/blogs/containers/secure-end-to-end-traffic-on-amazon-eks-using-tls-certificate-in-acm-alb-and-istio/)
 
-[This new startup built a record-breaking 256-qubit quantum computer | MIT Technology Review](https://www.technologyreview.com/2021/11/17/1040243/quantum-computer-256-bit-startup/?utm_source=engagement_email&utm_medium=email&utm_campaign=site_visitor.unpaid.engagement&utm_content=11.28.21.subs&mc_cid=5efd418554)
+[reddec/ingress-dashboard: Kubernetes-native automatic dashboard for Ingress](https://github.com/reddec/ingress-dashboard)
 
-[The Omicron variant reveals the true global danger of ‘vaccine apartheid’ | Larry Elliott | The Guardian](https://www.theguardian.com/business/2021/nov/28/the-omicron-variant-reveals-the-true-global-danger-of-vaccine-apartheid)
+[Howie: The Post-Incident Guide - Jeli](https://www.jeli.io/howie-the-post-incident-guide/)
 
-[IKEA email systems hit by ongoing cyberattack](https://www.bleepingcomputer.com/news/security/ikea-email-systems-hit-by-ongoing-cyberattack/)
+[How WireGuard made it into Linux • The Register](https://www.theregister.com/2021/12/08/wireguard_linux/)
 
-[The rocky road to better Linux software installation • The Register](https://www.theregister.com/2021/11/26/linux_software_installation/)
+[Newly Found Authentication Flaws Highlight Dangers of Coding From Scratch](https://www.darkreading.com/application-security/authentication-flaws-highlight-dangers-of-coding-from-scratch)
 
-[Privacy Cookbook — Ch 2.4 - Domain Name System, best of 2021](https://dt.gl/privacy-cookbook-ch-2-4-2021-best-of-dns/)
+[What to Know About Equity Compensation | Future](https://future.a16z.com/equity-compensation-in-tech/)
+
+[What will happen to Arm now? | Digits to Dollars](https://digitstodollars.com/2021/12/08/what-will-happen-to-arm-now/)
+
+[Using CloudTrail to identify unexpected behaviors in individual workloads | AWS Security Blog](https://aws.amazon.com/blogs/security/using-cloudtrail-to-identify-unexpected-behaviors-in-individual-workloads/)
+
+[The Media Coverage of Kamala Harris and Bluetooth is Ridiculous](https://charlotteclymer.substack.com/p/the-media-coverage-of-kamala-harris)
+
+[https://twitter.com/todaywasawesome/status/1468670520438575106?s=12](https://twitter.com/todaywasawesome/status/1468670520438575106?s=12)
+
+[Russia Blocks TorProject.org and Begins Blocking of Wider Tor Network * TorrentFreak](https://torrentfreak.com/russia-blocks-torproject-org-and-begins-blocking-of-wider-tor-network-211208/)
+
+[[2010.08850] Against Scale: Provocations and Resistances to Scale Thinking](https://arxiv.org/abs/2010.08850)
+
+[South Korea sets reliability standards for Big Tech • The Register](https://www.theregister.com/2021/12/08/south_korea_site_reliability/)
+
+[Intel's Cloud-Hypervisor Moving To The Linux Foundation - Backed By Arm, Microsoft - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Intel-LF-Cloud-Hypervisor)
+
+[When Terrorists Govern | Foreign Affairs](https://www.foreignaffairs.com/articles/afghanistan/2021-12-08/when-terrorists-govern)
+
+[LeoLabs](https://platform.leolabs.space/visualizations/leo)
+
+[FAA Sets 5G Flight Restrictions to Avoid Possible Hazards From New Wireless Service - WSJ](https://www.wsj.com/articles/faa-sets-5g-flight-restrictions-to-avoid-possible-hazards-from-new-wireless-service-11638916886?mod=djemalertNEWS)
+
+[Branchless Git | Ben Congdon](https://benjamincongdon.me/blog/2021/12/07/Branchless-Git/)
+
+[Making Engineering Team Communication Clearer, Faster, Better | First Round Review](https://review.firstround.com/making-engineering-team-communication-clearer-faster-better?utm_source=Pointer&utm_campaign=4aeef7328c-ISSUE_274&utm_medium=email&utm_term=0_6ba2b83261-4aeef7328c-300312877)
+
+[Software development pushes us to get better as people – Jessitron](https://jessitron.com/2021/11/28/software-development-pushes-us-to-get-better-as-people/?utm_source=Pointer&utm_campaign=4aeef7328c-ISSUE_274&utm_medium=email&utm_term=0_6ba2b83261-4aeef7328c-300312877)
+
+[Linux Foundation Expects Revenues Of $177 Million This Year - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Foundation-2021-Report)
+
+[Kubernetes 1.23: The Next Frontier | Kubernetes](https://kubernetes.io/blog/2021/12/07/kubernetes-1-23-release-announcement/)
+
+[Verizon overrides users’ opt-out preferences in push to collect browsing history | Ars Technica](https://arstechnica.com/information-technology/2021/12/verizon-ignored-users-previous-opt-outs-in-latest-push-to-scan-web-browsing/)
+
+[How SpaceX's massive Starship rocket might unlock the solar system—and beyond | MIT Technology Review](https://www.technologyreview.com/2021/12/07/1041420/spacex-starship-rocket-solar-system-exploration/)
+
+[SolarWinds Hackers Targeting Government and Business Entities Worldwide](https://thehackernews.com/2021/12/solarwinds-hackers-targeting-government.html)
+
+[When Should Your Company Develop Its Own Software?](https://hbr.org/2021/12/when-should-your-company-develop-its-own-software)
+
+[Kubernetes Version 1.23: What’s New for Security?](https://blog.aquasec.com/kubernetes-version-1.23-security-features)
+
+[DARPA Funded Researchers Accidentally Discover The World's First Warp Bubble - The Debrief](https://thedebrief.org/darpa-funded-researchers-accidentally-create-the-worlds-first-warp-bubble/)
+
+[China ‘modified’ the weather to create clear skies for political celebration – study | China | The Guardian](https://www.theguardian.com/world/2021/dec/06/china-modified-the-weather-to-create-clear-skies-for-political-celebration-study)
+
+[Suspected Russian Activity Targeting Government and Business Entities Around the Globe | Mandiant](https://www.mandiant.com/resources/russian-targeting-gov-business)
+
+[Updated Rust Code For Linux Kernel Patches Posted - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-v2)
+
+[No easter eggs in curl | daniel.haxx.se](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
+
+[White House to unveil alliance to curb human rights abuse of tech | Reuters](https://www.reuters.com/technology/white-house-unveil-alliance-curb-human-rights-abuse-tech-2021-12-02/?utm_source=reddit.com)
+
+[U.S. Military Has Acted Against Ransomware Groups, General Acknowledges - The New York Times](https://www.nytimes.com/2021/12/05/us/politics/us-military-ransomware-cyber-command.html?referringSource=articleShare)
+
+[How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
+
+[Twitter's new CEO used to be CTO. That's rare. - Protocol — The people, power and politics of tech](https://www.protocol.com/workplace/cto-ceo-parag-agrawal-twitter)
+
+[Shardz · rakyll.org](https://rakyll.org/shardz/)
+
+[danielmiessler/SecLists: SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.](https://github.com/danielmiessler/SecLists)
+
+[Personal brands: embracing imperfection and staying authentic – rkulidzan](https://rkulidzan.com/2021/12/04/personal-brands-embracing-imperfection-and-staying-authentic/)
+
+[Announcing our Seed Round, and Chainguard Services! | Chainguard, Inc.](https://chainguard.dev/posts/2021-12-07-seed-funding)

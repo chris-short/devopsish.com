@@ -2,87 +2,73 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
-date = 2021-12-05T07:00:00Z
-description = ["A little terrorism, The Case of the Recursive Resolvers, Knative asks to join CNCF, Karpenter, and move"]
+date = 2021-12-12T07:00:00Z
+description = [""]
 draft = false
-slug = "246"
-tags = ["cloud", "Cloud Native", "AWS", "DevOps", "open source", "GitOps", "infrastructure", "code", "Kubernetes", "impostor syndrome", "Microsoft", "Honeycomb", "social model", "CKAD"]
-title = "DevOps'ish 246: A little terrorism, The Case of the Recursive Resolvers, Knative asks to join CNCF, Karpenter, and more"
+slug = "247"
+tags = []
+title = "DevOps'ish 247: "
 
 +++
 
-DEVOPS'ISH 5th Birthday
+Hi all, if you thought last week was bad, I give you this week. I'm not going to add on to the already well detailed list from last week. Instead, I'd like to celebrate something.
+
+## Happy Birthday, DevOps'ish
+
+DevOps'ish turns five years old today! Max was a year old. I told my wife I was starting a newsletter. Two-hundred forty-seven issues later, we've arrived here. This morning, I told Julie who, thought I was absolutely nuts at the time, that DevOps'ish is one of the best things I've done for my career. This has paid off on the home front as well in terms of improving our overall quality of life. I guess this shouldn't come as a surprise, but the newsletter also enabled [MORE charitable giving](https://chrisshort.net/causes) than before too. Has DevOps'ish been a success? [Yes](https://devopsish.com/praise/).
+
+### DevOps'ish at 5
+
+Is the newsletter self-sustaining? Yes. I've optimized costs as much as possible. I've filled sponsorships as much as I want. The balance sheet is good. The newsletter has pivoted from being a very metrics focused newsletter to being very privacy aware over its five years of existence. I don't want to know anything about the DevOps'ish readership unless they volunteer it. I don't track clicks or open rates and I'm very upfront about that with sponsors.
+
+Moving off Google Analytics and going to Fathom Analytics was another win for the privacy conscious. Fathom has also added on to the excellent services they offer too. Another good move was getting off Mailchimp. It was bumpy for a little bit, but EmailOctopus provides a great service for newslettering. It is also privacy conscious in that it allows me to turn off tracking features normally enabled by default and not changeable on other platforms. I hope readers understand and appreciate the great lengths gone to in the name of privacy.
+
+This past month, after being on Netlify for years now, I finally had to start a paid plan. I'm literally buying time as I think through how to refactor the DevOps'ish website to optimize for build times. I could write a whole blog post about the one dumb design decision that has created an infrastructure problem for myself (and I probably will at some point). But, I can buy time, as I said. Which is nice given how hectic life is right now.
+
+### DevOps'ish going from 5 to 10
+
+One area where I'm not thrilled with the newsletter is in the subscriber count. By sharing how I feel or how one thing interacts with a societal structure thus "politics" are discussed in the newsletter leads to a narrowing of the audience. This leaves me with a choice: A) don't associate anything political thing with anything in tech (like purist think it should be; which also isn't reality) or B) make me more aware of their surroundings.
+
+Needless to say, I'm going to choose option B. That will rub people the wrong way. The worst thing that can happen to DevOps'ish is subscriber count stagnation. The privacy policies discussed earlier mean the only metric I can sell sponsors on is the number of subscribers. The success of this newsletter lies with its ability to get folks to subscribe to it. I see a referral program in the future. But, I feel like that also means a swag shop for rewards too. These are all great things. But, it's work too and takes time to manage. If you know of a great swag store or agency let me know. I haven't done much research into it because I haven't had the time.
+
+An interesting fact about DevOps'ish: it isn't a marketing tool or a tool used to sell something (outside of native ads in the newsletter itself). It's used to inform people. Which puts it in a weird position for marketing to folks. I've done Twitter Ads in the past with some success. Right now I'm testing Google Ads (as gross as that sounds). Buying subscribers is a loss leader but, the native Google Ads experience is actually bringing people to the site. But, this relatively high price for a subscriber is not lost on me. But, these are small, manageable ad runs once or twice a year. I need to figure out the best way to put money back into the newsletter to keep it growing still.
+
+### DevOps'ish in 2022
+
+It's actually really wild thinking about it now. But, going into 2022, I want to make really sure this newsletter is something I want to focus on. Is it still worth the time?
+
+I read a lot (and I always will) but, I'm not necessarily reading what I want to (I used to read books). I'm burning down an unread count in Inoreader (which they are making easier to do). I think one thing I can do in 2022 is start to read less of the mainstream tech news sites (The Register, Wired, etc.) and more of the cool work y'all are putting on your blogs. This would cut down on the amount of reading significantly. I'm at a point now where if a story is big enough it will bubble up naturally for me on social media or in Inoreader. The log4j vulnerability this week is a perfect example. I was slammed all day Friday. But, when I opened news I got up to speed on it real quick.
+
+One thing is for sure, life needs to become a little more bearable in the next few weeks for a successful 2022.
 
 ## People
 
-[CKAD - free materials](https://www.reddit.com/r/kubernetes/comments/r4q1ec/ckad_free_materials/)  
-This is a pretty great list if you're interested in passing the CKAD.
+PEOPLE
 
 [Infrastructure as Code Automation for Terrafrom and GitOps workflows](https://www.env0.com/infrastructure-as-code-automation?utm_campaign=devopsish&utm_source=nativeads&utm_medium=newsletter)  
 See how env0 automates and simplifies the provisioning of cloud deployments for Terraform. We offer Variables and Secrets granularity, Full CLI support, integration with OPA, Dynamic RBAC and SAML. [Get Started for FREE](https://www.env0.com/infrastructure-as-code-automation?utm_campaign=devopsish&utm_source=nativeads&utm_medium=newsletter) *SPONSORED*
 
-[Microsoft shareholders back protest vote over sexual harassment claims](https://arstechnica.com/tech-policy/2021/11/microsoft-shareholders-back-protest-vote-over-sexual-harassment-claims/)  
-I was wondering when someone was going to say something about how maybe something might be off about how Microsoft handled sexual harassment when Bill Gates was at the helm. Yes, this should definitely be investigated.
-
-[5 Signs It's Time to Quit Your Job](https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job/)  
-"6. Bonus: You're reading this." Well there's that.
-
-[Document Detail - Property of the People](https://propertyofthepeople.org/document-detail/?doc-id=21114562)  
-Use Signal.
-
-[Ex-Googler Timnit Gebru Starts Her Own AI Research Center](https://www.wired.com/story/ex-googler-timnit-gebru-starts-ai-research-center/)  
-"The researcher, who says Google fired her a year ago, wants to ask questions about responsible use of artificial intelligence."
+PEOPLE
 
 ## Process
 
-[The Case of the Recursive Resolvers](https://slack.engineering/what-happened-during-slacks-dnssec-rollout/)  
-Absolutely fascinating deep dive into a production rollout that had fits and starts. Then when it was finally go time, things went poorly. This is a must read.
-
-Join us for [Honeycomb Developer Week](https://www.honeycomb.io/developer-week-devopsish/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=devopsish) on Dec 13–15! With free hands-on training and snackable sessions, you'll learn leading edge observability practices in just a few hours. Learn how to debug why exactly your apps are slow for only some users. Learn to spot patterns, anomalies, and trends with distributed tracing. Tame alert noise and focus on what matters with [Honeycomb](https://ui.honeycomb.io/signup/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup). *SPONSORED*
-
-[First Update on the Vizio lawsuit](https://sfconservancy.org/blog/2021/nov/30/vizio-update-0/)  
-Vizio is being shady af and violating open source licenses.
-
-[Hackers Are Spamming Businesses' Receipt Printers With ‘Antiwork' Manifestos](https://www.vice.com/en/article/qjbb9d/hackers-are-spamming-businesses-receipt-printers-with-antiwork-manifestos)  
-Hide yo kids, firewall your networked devices.
-
-[Square changes corporate name to Block](https://www.cnbc.com/2021/12/01/square-changes-corporate-name-to-block-.html)  
-Okay...
-
-[A vision for a social model of open source](https://leaddev.com/agile-other-ways-working/vision-social-model-open-source)  
-"Technical model versus social model of open source" a very interesting read from Julia Ferraioli.
-
-## Tools
-
-[Knative Has Applied to Become a CNCF Incubating Project](https://knative.dev/blog/steering/knative-cncf-donation/)  
-This was quite the course correction. I had to flat out ask [Chris Dibona what brought about this change](https://twitter.com/cdibona/status/1465754668450025473). I got an answer. I'm not sure I'm buying it just yet. Time will tell. If Knative wants in, I welcome them with open arms. I wish they would have made that decision without the WTF moment that drove good people away from the project.
+PROCESS
 
 [Pulumi: Infrastructure as Code](https://www.pulumi.com/?utm_source=devopsish&utm_medium=sponsored-link&utm_campaign=iac)  
 Developing on the cloud is complex. What if you could use your existing programming knowledge to build, deploy, and manage cloud infrastructure using your favorite languages and tools? Pulumi is a cloud engineering platform that lets you write infrastructure as code in any programming language and on any cloud platform. Get started for free at pulumi.com *SPONSORED*
 
-[Scaling Kafka at Honeycomb](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/)  
-"In this post, we’ll review the history of how we got here, why we’re so picky about Kafka software and hardware, and how we qualified and adopted the new AWS Graviton2-based storage instances. Lastly, at the end of this post, we’ll discuss the decrease in price per megabyte of throughput after the cumulative optimizations we’ve made in the past two years. Let’s dive in."
+PROCESS
 
-[Karpenter vs Kubernetes Cluster Autoscaler](https://www.youtube.com/watch?v=3QsVRHVdOnM)  
-AWS made [Karpenter](https://karpenter.sh/) generally available this week. Something wasn't quite clicking until I watched this video from Justin Garrison. Now it all makes sense and I'll be putting this in one of my work clusters soon enough.
+## Tools
 
-[A Hang In The Linux Kernel Can Happen If Trying To Read A Broken Floppy Then Ejecting It](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-Floppy)  
-I don't want to know how this was discovered. I want to know how was this discovered.
+TOOLS
 
-[Find Answers to AWS Questions | AWS re:Post](https://repost.aws/questions)  
-Got a question about an AWS service? There's a place for that.
+This week—Get started with observability at [Honeycomb Developer Week](https://www.honeycomb.io/developer-week-devopsish/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=devopsish) (Dec 13-15). With FREE snackable sessions spread across two short days, you'll learn how to quickly debug your production services. With distributed tracing, OpenTelemetry, and [Honeycomb](https://ui.honeycomb.io/signup/?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup) you can figure out exactly why performance is slow and who it's slow for. Up-level your skills. Win prizes along the way! *SPONSORED*
 
-[App Store Awards honor the best apps and games of 2021](https://www.apple.com/newsroom/2021/12/app-store-awards-honor-the-best-apps-and-games-of-2021/)  
-I always appreciate these awards. I always find something new to try.
-
-[MacBook Air M1: the best laptop?](https://michael.stapelberg.ch/posts/2021-11-28-macbook-air-m1/)  
-I've always liked the MacBook Air. I feel like the M1 is finally the power boost the form factor needed. Michael provides an honest assessment here.
-
-[waydabber/BetterDummy](https://github.com/waydabber/BetterDummy)  
-Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions. Note: I have this problem... Not sure I want to unpack that monitor again.
+TOOLS
 
 ## DevOps'ish Tweet of the Week
 
-[![Kerri Miller (with 3 Rs) (@kerrizor) on Twitter) "A junior engineer has learned things. An intermediate engineer has built things. A senior engineer has seen things. Horrible things. A staff engineer ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"](/images/246-devopsish-tweet-of-the-week.webp)](https://twitter.com/kerrizor/status/1465694154508300292)
+[![Kerri Miller (with 3 Rs) (@kerrizor) on Twitter) "A junior engineer has learned things. An intermediate engineer has built things. A senior engineer has seen things. Horrible things. A staff engineer ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"](/images/247-devopsish-tweet-of-the-week.webp)](https://twitter.com/kerrizor/status/1465694154508300292)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/246/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/247/notes/) to see what didn't make it to the newsletter but are still worth your time.
