@@ -1,2 +1,5 @@
 User-Agent: *
 Sitemap: https://devopsish.com/sitemap.xml
+Disallow: /cc-by-sa-4.0/
+Disallow: /terms/
+Disallow: /privacy/
