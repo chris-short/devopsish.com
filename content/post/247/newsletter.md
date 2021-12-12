@@ -106,7 +106,7 @@ Ephemeral containers, Windows HostProcess containers, and the aforementioned Pod
 While highlighting how MySQL has not aged well, Steinar H. Gunderson writes, "if you're using MySQL and it works for you, sure, go ahead. But perhaps consider taking a look at the other side of that fence at some point, past the 'OMG vacuum' memes."
 
 [The vice president should not be using Bluetooth headphones](https://www.theverge.com/2021/12/7/22822431/kamala-harris-bluetooth-security-hacking-headphones)  
-The US Vice President was criticized by one news outlet for having a "phobia" of Bluetooth devices. I know, it's the [most ridiculous story of the week](https://charlotteclymer.substack.com/p/the-media-coverage-of-kamala-harris), by far. I would be allergic to Bluetooth too if I had even a smidgen of national security responsibilites.
+The US Vice President was criticized by one news outlet for having a "phobia" of Bluetooth devices. I know, it's the [most ridiculous story of the week](https://charlotteclymer.substack.com/p/the-media-coverage-of-kamala-harris), by far. I would be allergic to Bluetooth too if I had even a smidgen of national security responsibilities.
 
 [Branchless Git](https://benjamincongdon.me/blog/2021/12/07/Branchless-Git/)  
 Using git like this would definitely take some getting used to. But, I wonder what pains you completely avoid by using git in this manner.
