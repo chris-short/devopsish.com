@@ -23,7 +23,9 @@ Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospect
 
 ### Companies and Organizations
 
-First, check the [DevOps'ish Sponsor Inventory](https://docs.google.com/spreadsheets/d/1EYmxtGdMubBOUlHgX3hoooyf7vNOGBKMallPdel0mak/edit?usp=sharing) to see if/when you want to advertise is available.
+First, check the [DevOps'ish Sponsor Inventory](https://docs.google.com/spreadsheets/d/1Tfe_Y0UD2nIMeXnen53-kuNkeNQoRLS4/edit?usp=sharing&ouid=105811138237117634356&rtpof=true&sd=true) to see if/when you want to advertise is available.
+
+Note: DevOps'ish is currently sold out through 2022 and a wait list has been created for 2023.
 
 Then send your event, product, or organizational details to [chris@devopsish.com](mailto:chris@devopsish.com) with your ad idea to **get started today**!
 
