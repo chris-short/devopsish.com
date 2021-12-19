@@ -7,7 +7,7 @@ description = [""]
 draft = false
 slug = "248"
 tags = []
-title = "DevOps'ish 248: "
+title = "DevOps'ish 248: Log4j every day, the groping metaverse, e-waste, Deciding Between Argo CD and Flux, what happens when you upgrade to Kubernetes 1.24, and more"
 
 +++
 
