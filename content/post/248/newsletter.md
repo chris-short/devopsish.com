@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
 date = 2021-12-19T07:00:00Z
-description = [""]
+description = ["Log4j every day, the groping metaverse, e-waste, Deciding Between Argo CD and Flux, what happens when you upgrade to Kubernetes 1.24, and more"]
 draft = false
 slug = "248"
-tags = []
+tags = ["log4j", "cloud", "Kubernetes", "open source", "GitOps", "DevOps", "developers", "server", "cloud native", "GRPC", "infrastructure", "vulnerability", "API"]
 title = "DevOps'ish 248: Log4j every day, the groping metaverse, e-waste, Deciding Between Argo CD and Flux, what happens when you upgrade to Kubernetes 1.24, and more"
 
 +++
