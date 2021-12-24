@@ -30,7 +30,7 @@ ignoreErrors = ["error-remote-getjson"]
   # required for your site in the European Union. Set the parameter below to a
   # page where the user can get more information about cookies, either on your
   # site or externally, for example:
-  cookie_consent_info_url = "/cookie-policy/"
+  # cookie_consent_info_url = "/cookie-policy/"
 
   [params.sidebar]
     About = "DevOps'ish is assembled by open source and [Kubernetes contributor](https://www.kubernetes.dev/), DevOps leader, [GitOps Working Group](https://opengitops.dev/) member, and [Cloud Native Computing Foundation](https://www.cncf.io/people/ambassadors/) (CNCF) Ambassador [Chris Short](https://linktr.ee/TheChrisShort)."
