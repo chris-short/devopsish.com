@@ -64,7 +64,7 @@ This post on Go garbage collection tuning is fascinating.
 "Since then, the landscape has changed significantly as “open source” continues to receive top-down attention from the central government. Recently, the Ministry of Industry and Information Technology (MIIT, China's main regulator of its tech industry) released a new set of development planning guidance. “Open source” is prominently featured; the term was used 27 times."
 
 [Links to cross-origin destinations are unsafe](https://web.dev/external-anchors-use-rel-noopener/?utm_source=lighthouse&utm_medium=devtools)  
-I did not know this until this week while I was doing so web site building for [EKS News](https://eks.news)
+I did not know this until this week while I was doing web site building for [EKS News](https://eks.news)
 
 ## Tools
 
