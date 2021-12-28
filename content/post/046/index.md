@@ -10,7 +10,7 @@ tags = ["devops", "cloud native", "open source", "kubernetes", "detroit", "docke
 title = "046: Docker Reverses Course on Kubernetes, Scoble is Terrible, HQ2, Happy HTTPS, Lambda..."
 image = "/046/mountains-by-kris-nova.jpg"
 imagealt = "Mountains by Kris Nova"
-imagecap = "Mountains by [Kris Nova](https://novasummits.com)"
+imagecap = "Mountains by Kris Nova"
 aliases = [
     "devopsish-046-docker-reverses-course-on-kubernetes-scoble-sucks-hq2-happy-https-lambda-13519b308810"
 ]

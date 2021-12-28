@@ -1,48 +1,73 @@
-baseURL = "https://devopsish.com"
-enableEmoji = true
-enableRobotsTXT = true
-# googleAnalytics = "UA-4498776-13"
-languageCode = "en-us"
+baseURL = "/"
+title = "DevOps'ish"
+author = "Chris Short"
+theme = "paper"
+paginate = 5
 metaDataFormat = "toml"
 newContentEditor = "code"
-paginate = 9
-relativeURLs = false
-theme = "hugo-theme-bootstrap4-blog"
-title = "DevOps'ish"
-disableKinds = ["RSS"]
+languageCode = "en"
+DefaultContentLanguage = "en"
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+# Works for missing Tweets as well
 ignoreErrors = ["error-remote-getjson"]
+disableKinds = ["RSS"]
+enableEmoji = true
+enableRobotsTXT = true
+enableInlineShortcodes = true
 
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-
-[permalinks]
-  post = ":slug/"
-  page = ":slug/"
+# ------------------------------
+[outputs]
+   home = [ "HTML", "JSON" ]
 
 [params]
   author = "Chris Short"
   description = "Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the 'ish between."
-  favicon = "/favicons/favicon.ico"
-  disable_sri = true
-
-  # Optionally display a message about the site's use of cookies, which may be
-  # required for your site in the European Union. Set the parameter below to a
-  # page where the user can get more information about cookies, either on your
-  # site or externally, for example:
-  # cookie_consent_info_url = "/cookie-policy/"
-
-  [params.sidebar]
-    About = "DevOps'ish is assembled by open source and [Kubernetes contributor](https://www.kubernetes.dev/), DevOps leader, [GitOps Working Group](https://opengitops.dev/) member, and [Cloud Native Computing Foundation](https://www.cncf.io/people/ambassadors/) (CNCF) Ambassador [Chris Short](https://linktr.ee/TheChrisShort)."
-    num_recent_posts = 8
+  reddit = "/r/devopsish/"
+  twitter = "ChrisShort"
+  github = "chrisshort"
+  linkedin = "/in/thechrisshort/"
+  disableHLJS = "true"
 
   [params.stats]
     subscribers = "5,600+"
 #    avg_open_rate = "48%"
 #    avg_click_rate = "21%"
+# ------------------------------
 
-[Author]
-  name = "Chris Short"
+[menu]
+
+  [[menu.main]]
+    identifier = "subscribe"
+    name = "Subscribe"
+    url = "/subscribe/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "praise"
+    name = "Praise"
+    url = "/praise/"
+    weight = 98
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 99
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[permalinks]
+  post = ":slug/"
+  page = ":slug/"
 
 [privacy]
   [privacy.disqus]
@@ -62,3 +87,9 @@ ignoreErrors = ["error-remote-getjson"]
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+  [services.twitter]
+    disableInlineCSS = true

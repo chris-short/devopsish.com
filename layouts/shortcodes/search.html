@@ -1,0 +1,53 @@
+<form id="custom-search" name="custom-search" method="post" action="" onsubmit="customSearchResults(); return false;">
+    <p>
+        <input id="custom-search-field" type="text" name="search" value="" title="Search String" placeholder="Search...">
+    </p>
+    <!-- <p><em>Search Section:</em><br>
+        <input type="checkbox"name="section[]" value="site" checked="checked"> all<br>
+        <input type="checkbox" name="section[]" value="post"> Issues<br>
+        <input type="checkbox" name="section[]" value="other-section"> Other Section
+    </p> -->
+</form>
+
+<div id="custom-search-results"></div>
+
+<script>
+// CUSTOM AREA
+let params = {
+    json_src       : '/index.json', // for multiple sources: comma separated list of JSONarrays
+    minlength      : 3,
+    defaultsearch  : 'AND',
+    sort_date      : 'DESC',
+    autocomplete   : 1, // 0: form needs a submit button
+    section_search : 0, // 1: needs checkboxes with name="section[]"
+    badwords       : 'and,there,the,this,that,you', //ignore this words
+    json_wait      : '<p><em>loading...</em></p>',
+    json_ready     : '<p><em>Please enter a search term. Results will auto populate.</em></p>',
+    extern_icon    : ' (external link)', // marker for external links (optional)
+    err_badstring  : '<p>To short!</p>',
+    err_noresult   : '<p>Unfortunately no search result. Please try again.</p>',
+    err_norequest  : '<p style="text-align: center; color:red;">The full text search is currently not available.</p>',
+    err_filefailed : '<p style="text-align: center;color: red;">Search file could not be retrieved.</p>',
+    res_one_item   : '<p><em>[CNT] RESULT</em></p>',
+    res_more_items : '<p><em>[CNT] RESULTS</em></p>',
+    res_out_top    : '<ul>',
+    res_out_bottom : '</ul>',
+    res_item_tpl   : '<li><a href="[URL]">[TITLE]</a><br>[DATE]:[SUMMARY]<br><em>[SECTION][TAGS]</em></li>',
+    add_searchlink : '<p><a href="https://duckduckgo.com/?q=site:devopsish.com [QUERY]" target="_blank" rel="noopener"><i>Not satisfied with the search results? External search provided by DuckDuckGo.</i></a></p>'
+};
+
+// Translation of section name (optional)
+let section_trans = {
+    "post" : "Issue",
+    // "other-section" : "Other Section"
+};
+
+let searchfield_weight = {
+    "title"   : 5,
+    "tags"    : 5,
+    "summary" : 1,
+    "content" : 2
+};
+// CUSTOM AREA END
+</script>
+<script type="text/javascript" src="/js/search.js"></script>

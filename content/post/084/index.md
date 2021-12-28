@@ -173,4 +173,4 @@ The Red Hat Ansible Consulting team is looking for a Network Automation Senior C
 
 ## DevOps'ish Tweet of the Week
 
-{{ tweet 1017790702703595520 }}
+{{< tweet 1017790702703595520 >}}

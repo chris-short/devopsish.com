@@ -9,6 +9,8 @@ title = "Praise"
 
 I started the DevOps'ish newsletter in 2016 with hopes of lowering the barrier to entry into the DevOps and Cloud Native world while keeping seasoned professionals informed on the latest news, tools, and trends. Every now and then I hear from readers who have turned into fans. It's a great motivator for what can be a thankless job at times. Here are some of their remarks, because sometimes it's important to toot your own horn.
 
+{{< eo_top >}}
+
 > "Self-promotion is a leadership and political skill that is critical to master in order to navigate the realities of the workplace and position you for success." ― Bonnie Marcus
 
 ## Tweets
