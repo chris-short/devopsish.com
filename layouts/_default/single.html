@@ -1,107 +1,56 @@
-{{ define "title" }}{{ .Title | markdownify }} | {{ .Site.Title }}{{ end }}
-
-{{ define "schema-dot-org" }}
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  {{- /* Google recommends the headline be no more than 110 characters */}}
-  "headline": "{{ substr .Title 0 110 }}",
-  {{- with .Params.images -}}{{ range first 1 . }}
-  "image": {
-    "@type": "ImageObject",
-    "url": "{{ . | absURL }}"
-    {{- /* Don't try to get imageConfig if image param is not local */ -}}
-    {{- if not (or (hasPrefix . "http://") (hasPrefix . "https://")) -}}
-    {{- with (imageConfig (printf "/static/%s" .)) -}}
-    ,
-    "height": "{{ .Height }}",
-    "width": "{{ .Width }}"
-    {{- end -}}
-    {{ end }}
-  },
-  {{- end -}}{{ end }}
-  "url": "{{ printf "%s" .Permalink }}",
-  "wordCount": "{{ .WordCount }}",
-  {{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
-  {{- if not .PublishDate.IsZero }}
-  "datePublished": "{{ .PublishDate.Format $ISO8601 }}",
-  {{- else }}
-  "datePublished": "{{ .Date.Format $ISO8601 }}",
-  {{- end }}
-  {{- if not .Lastmod.IsZero }}
-  "dateModified": "{{ .Lastmod.Format $ISO8601 }}",
-  {{- end }}
-  {{- with .Site.Social.GooglePlus }}
-  "publisher": "{{ printf "%s" . }}",
-  {{- end }}
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Params.author | default .Site.Params.author }}"
-  }
-  {{- if or (.Params.keywords) (or (.Params.categories) (.Params.tags)) -}}
-  ,
-  "keywords": "{{ delimit (union .Params.keywords (union .Params.categories .Params.tags)) ", " }}"
-  {{- end }}
-
-  {{- with .Params.description -}}
-  ,
-  "description": "{{ . }}"
-  {{- end }}
-}
-</script>
-
-{{ end }}
-
 {{ define "main" }}
-{{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
 
-<article class="blog-post">
-  <header>
-    {{ if .Params.image }}<p><img loading="lazy" src="{{ .Params.image }}" alt="{{ .Params.imagealt }}" />
-      {{ if .Params.imagecap }}<br />{{ .Params.imagecap | markdownify }}{{ end }}
+<article class="post-single">
+  <header class="post-title">
+    <p>
+      <time>{{ .Date | time.Format ":date_medium" }}</time>
+      {{ if or .Params.Author site.Author.name }}
+      <span>{{ .Params.Author | default site.Author.name }}</span>
+      {{ if .Params.image }}
+        <p><a href="{{ .Permalink }}"><img loading="lazy" src="{{ .Params.image }}" alt="{{ .Params.imagealt | markdownify }}" /></a>
+        {{ if .Params.imagecap }}
+        <p>{{ .Params.imagecap | markdownify }}</p>
+        {{ end }}
     </p>{{ end }}
-    <h2 class="blog-post-title">{{ .Title | markdownify }}</h2>
-    <p class="blog-post-meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> by {{ .Params.author | default .Site.Params.author }}<br />
-    {{ if or (.Params.categories) (.Params.tags) }}{{ partial "meta-terms.html" . }}{{ end }}</p>
+      {{ end }}
+
+    </p>
+    <h1>{{ .Title }}</h1>
   </header>
+  <section class="post-content">{{ .Content }}</section>
 
-  {{ partial "carbon_ads_partial.html" . }}
-  {{ partial "eo_top.html" . }}
-  
-  {{ .Content }}
-
-  {{ if .IsTranslated }}
-  <h4>{{ i18n "translations" }}</h4>
-  <ul>
-    {{ range .Translations }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Lang }}: {{ .Title }}{{ if .IsPage }}{{ end }}</a>
-    </li>
+  <!-- Post Tags -->
+  {{ if .Params.tags }}
+  <footer class="post-tags">
+    {{ range .Params.tags }} {{ $href := print (absURL "tags/") (urlize .) }}
+    <a href="{{ $href }}">{{ . }}</a>
     {{ end }}
-  </ul>
-  {{ end }}
-
-  <hr />
-
-  {{ partial "sponsor.html" . }}
-
-  {{ partial "whoami.html" . }}
-
-  {{ if or (ne ($.Param "sharingicons") false) (.Site.DisqusShortname) }}
-  <hr>
-  <footer>
-
-  {{ if (ne ($.Param "sharingicons") false) }}
-  {{ partial "sharing-icons.html" . }}
-  {{ end }}
-
-  {{ if and (.Site.DisqusShortname) (ne .Params.comments false) }}
-  {{ template "_internal/disqus.html" . }}
-  {{ end }}
   </footer>
   {{ end }}
 
-</article> <!-- /.blog-post -->
+  <!-- Post Nav -->
+  {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
+  {{ if and (gt (len $pages) 1) (in $pages . ) }}
+  <nav class="post-nav">
+    {{ with $pages.Next . }}
+    <a class="prev" href="{{ .Permalink }}"><span>←</span><span>{{ .Name }}</span></a>
+    {{ end }} {{ with $pages.Prev . }}
+    <a class="next" href="{{ .Permalink }}"><span>{{ .Name }}</span><span>→</span></a>
+    {{ end }}
+  </nav>
+  {{ end }}
+
+  <!-- Disqus -->
+  {{ if and site.DisqusShortname (not (eq .Params.comments false)) }}
+  <div id="disqus_thread" class="post-comments"></div>
+  <script>
+    var disqusShortname = '{{ site.DisqusShortname }}';
+    var script = document.createElement('script');
+    script.src = 'https://' + disqusShortname + '.disqus.com/embed.js';
+    script.setAttribute('data-timestamp', +new Date());
+    document.head.appendChild(script);
+  </script>
+  {{ end }}
+</article>
 
 {{ end }}

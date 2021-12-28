@@ -1,5 +1,6 @@
 .vscode/settings.json
 .DS_Store
-# Local Netlify folder
 .netlify
 .hugo_build.lock
+*.log
+/node_modules

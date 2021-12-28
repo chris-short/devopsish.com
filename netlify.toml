@@ -11,7 +11,7 @@ command = "hugo --minify --enableGitInfo"
 	sitemapPath = "/sitemap.xml"
 
 [context.production.environment]
-HUGO_VERSION = "0.56.3"
+HUGO_VERSION = "0.91.2"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -19,22 +19,22 @@ HUGO_ENABLEGITINFO = "true"
 command = "git submodule update --rebase --remote && hugo --minify --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.56.3"
+HUGO_VERSION = "0.91.2"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "git submodule update --rebase --remote && hugo -v -DF -b $DEPLOY_PRIME_URL"
+command = "git submodule update --rebase --remote && hugo -DF --enableGitInfo --verbose -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.56.3"
+HUGO_VERSION = "0.91.2"
 # Skip all post processing in deploy previews,
 # ignoring any other settings
 [context.deploy-preview.processing]
   skip_processing = true
 
 [context.branch-deploy]
-command = "git submodule update --rebase --remote && hugo -v -DF -b $DEPLOY_PRIME_URL"
+command = "git submodule update --rebase --remote && hugo -DF --enableGitInfo --verbose -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.56.3"
+HUGO_VERSION = "0.91.2"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
@@ -42,7 +42,7 @@ HUGO_ENABLEGITINFO = "true"
 # https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing
 # If skip_processing = true, all other settings are ignored
 [build.processing]
-  skip_processing = false
+  skip_processing = true
 [build.processing.css]
   bundle = true
   minify = true
