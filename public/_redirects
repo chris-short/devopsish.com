@@ -65,9 +65,9 @@
 /rss /index.xml 301
 /tagged/* /tags/:splat/ 301
 /tags/weekly/ / 301
-/tags/newsletter/ / 301
+/tags/newsletter/ /categories/newsletter/ 301
 /@chrisshort /about/ 301
-/archive/* / 301
+/archive/* /:splat/ 301
 /latest / 301
 /all / 301
 /trending* / 301
