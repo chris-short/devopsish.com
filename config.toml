@@ -13,7 +13,6 @@ DefaultContentLanguage = "en"
 ignoreErrors = ["error-remote-getjson"]
 disableKinds = ["RSS"]
 enableEmoji = true
-enableRobotsTXT = true
 enableInlineShortcodes = true
 
 # ------------------------------
