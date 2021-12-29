@@ -14,7 +14,8 @@
   <body class="not-ready" data-menu="{{ isset site.Menus `main` }}">
     {{ partial "header.html" . }}
 
-    <main class="main">{{ block "main" . }}{{ end }}</main>
+    
+    <main class="main">{{ partial "carbon_ads_partial.html" . }}{{ block "main" . }}{{ end }}</main>
 
     {{ partial "footer.html" . }}
   </body>
