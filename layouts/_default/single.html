@@ -18,7 +18,10 @@
     <h1>{{ .Title }}</h1>
   </header>
 
-  <section class="post-content">{{ .Content }}</section>
+  <section class="post-content">
+    {{ partial "carbon_ads_partial.html" . }}
+    {{ .Content }}
+  </section>
 
   <!-- Post Tags -->
   {{ if .Params.tags }}
