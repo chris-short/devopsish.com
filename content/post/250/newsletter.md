@@ -3,21 +3,21 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-01-02T07:00:00Z
-description = []
+description = ["2021 is so 2020, It's not you, it's them, US 5G rollout issues, P2E gaming, Log4j (still), Microsoft Exchange year 2022 bug, privacy's big year, has serverless peaked, youki, and more"]
 draft = false
 slug = "250"
-tags = []
-title = "DevOps'ish 250:"
+tags = ["2021", "year", "Kubernetes", "privacy", "DevOps", "Honeycomb", "code", "tech", "search", "Blackberry", "AWS", "Apple", "speed", "serverless", "transistor", "keycloak", "software", "CLI", "time", "tax", "internet", "engineering", "safety", "aircraft", "United States", "Google", "Log4j", "CVE", "Microsoft", "AWS", "encrypted", "developers", "LastPass", "intelligence", "secure", "performance", "kubectl"]
+title = "DevOps'ish 250: 2021 be gone, It's not you, it's them, US 5G rollout issues, P2E gaming, Log4j (still), Microsoft Exchange year 2022 bug, privacy's big year, has serverless peaked, youki, and more"
 
 +++
 
 Happy New Year! 🎉🥳🎊 I wish you the absolute best in 2022.
 
-I'm still in the process of writing my annual learnings and expectations blog post. Please keep your eyes peeled for that to drop on [ChrisShort.net](https://chrisshort.net/) in the coming days. Feel free to subscribe to the [RSS feed](https://chrisshort.net/index.xml), if you'd like. Also, if you're not reading this on the web, check out the new coat of paint applied to [DevOps'ish.com](https://devopsish.com/). I like the [search functionality](https://devopsish.com/search/) I implemented as that was sorely missing previously. The site is very lightweight and performant now. Let me know if you see any problems.
+I'm still in the process of writing my annual learnings and expectations blog post. Please keep your eyes peeled for that to drop on [ChrisShort.net](https://chrisshort.net/) in the coming days. Feel free to subscribe to the [RSS feed](https://chrisshort.net/index.xml) if you'd like. Also, if you're not reading this on the web, check out the new coat of paint applied to [DevOps'ish.com](https://devopsish.com/). I like the [search functionality](https://devopsish.com/search/) I implemented which was sorely missing previously. The site is very lightweight and performant now. Let me know if you see any problems.
 
 In great news for the newsletter, [**Honeycomb**](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup) will be the *sole* sponsor of DevOps'ish in 2022. Working with Honeycomb has been an absolute joy and their leadership team 100% supports the work being done here. Do me a favor and give [Honeycomb](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup) serious consideration for your observability and telemetry needs in the future. "Guess less. Know more."
 
-As it is a new year and there are likely many new subscribers unaware, I maintain a number of what I call "helper sites" designed to get you up to speed and keep you informed (pull requests welcomed). I'll list them here for your benefit:
+As it is a new year and there are likely many new subscribers unaware, I maintain many what I call "helper sites" designed to get you up to speed and keep you informed (pull requests welcomed). I'll list them here for your benefit:
 
 * [DevOps Newsletters](https://devopsnewsletters.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish&utm_id=250)
 * [Kubernetes News](https://kubenews.net/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish&utm_id=250)
@@ -28,7 +28,7 @@ As it is a new year and there are likely many new subscribers unaware, I maintai
 ## People
 
 [SOFTWARE ENGINEER INTERVIEWS BE LIKE | A Maya Bello Short Film](https://www.youtube.com/watch?v=qEjT7MOiifE)  
-The interview process is kinda broken. I've flat out rejected doing whiteboard and homework during interviews because you're just wasting my time at that point trying to prove that I know how to do X without any context as to the why behind the question (oh let me pull that out of you by asking a bunch of questions you never considered). It's annoying and superfluous. I don't want to do work for a company I don't work for (there's no way to create passion or pride for that kind of work (even if compensated)). Can we just stop all this nonsense somehow in 2022? Remember, it's not the person's being interviewed job to prove out your interview processes. You have to do that on your own by looking at the outputs of that process. Be better.
+The interview process is broken. I've flat out rejected doing whiteboard and homework during interviews because you're just wasting my time at that point trying to prove that I know how to do X without any context as to the why behind the question (oh let me pull that out of you by asking a bunch of questions you never considered). It's annoying and superfluous. I don't want to do work for a company I don't work for (there's no way to create passion or pride for that kind of work (even if compensated)). Can we just stop all this nonsense somehow in 2022? Remember, it's not the person's being interviewed job to prove out your interview processes. You have to do that on your own by looking at the outputs of that process. Be better.
 
 [A Lavish Tax Dodge for the Ultrawealthy Is Easily Multiplied](https://www.nytimes.com/2021/12/28/business/tax-break-qualified-small-business-stock.html)  
 I've gotta figure out a way to take advantage of this and you should too. But, the right thing to do would be to simplify the US tax code tremendously.
@@ -54,7 +54,7 @@ It's just a game (until it's a job). [Paul Butler has a well informed take](http
 ## Process
 
 [Apache Log4j 2.17.1 fixes remote code execution flaw (CVE-2021-44832)](https://securityaffairs.co/wordpress/126135/hacking/new-apache-log4j-cve-2021-44832.html)  
-At what point in time do we replace Log4j? It's a CVE factory at the moment and that's scary af for big Java shops trying to go about their business. Security teams have been scrambling for weeks and there isn't a real end in sight at the moment due to enormous uncertainty. I'm not saying rewrite your whole stack, but if you're not contemplating alternatives at this point, I kinda want to know why.
+At what point in time do we replace Log4j? It's a CVE factory at the moment and that's scary af for big Java shops trying to go about their business. Security teams have been scrambling for weeks and there isn't a real end in sight at the moment due to enormous uncertainty. I'm not saying rewrite your whole stack, but if you're not contemplating alternatives at this point, I want to know why.
 
 [Microsoft Exchange year 2022 bug in FIP-FS breaks email delivery](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-year-2022-bug-in-fip-fs-breaks-email-delivery/)  
 I'm sure this is causing a lot of work to happen that could have been avoided. [Microsoft says it has a fix](https://techcommunity.microsoft.com/t5/exchange-team-blog/email-stuck-in-transport-queues/ba-p/3049447). But, after Y2K, how are big software companies not testing their software for year changes???
@@ -63,7 +63,7 @@ I'm sure this is causing a lot of work to happen that could have been avoided. [
 That is a LOT of ways to crack or bypass 2FA.
 
 [Privacy-focused search engine DuckDuckGo grew by 46% in 2021](https://www.bleepingcomputer.com/news/technology/privacy-focused-search-engine-duckduckgo-grew-by-46-percent-in-2021/)  
-Privacy had a BIG year in 2021 (I deleted all my Facebook owned profiles and switched to [DDG](https://duckduckgo.com/) as my default search engine). I kinda saw this coming given the [privacy practices](https://devopsish.com/privacy/) in use for this newsletter (y'all really appreciate your privacy and I do too). I don't track your activity aside from web site analytics ([which are public](https://app.usefathom.com/share/acmuyzfw/devopsish.com)). I legit wish I could send you an email without you giving me ANYTHING. But, that's going to require a psychic, which doesn't fit into the double opt-in workflow.
+Privacy had a BIG year in 2021 (I deleted all my Facebook owned profiles and switched to [DDG](https://duckduckgo.com/) as my default search engine). I saw this coming given the [privacy practices](https://devopsish.com/privacy/) in use for this newsletter since 2018 (y'all really appreciate your privacy and I do too). I don't track your activity aside from web site analytics ([which are public](https://app.usefathom.com/share/acmuyzfw/devopsish.com)). I legit wish I could send you an email without you giving me ANYTHING. But, that's going to require a psychic, which doesn't fit into the double opt-in workflow.
 
 [Apple ditched Intel, and it paid off](https://www.cnbc.com/2021/12/29/apple-ditched-intel-and-it-paid-off.html)  
 Yeah it did. `arm64` is the future of compute, and at least for Apple consumers, it has been the reality for a year now.
@@ -77,7 +77,7 @@ Both are generally considered invasive and one is tied to a government. Not usin
 ## Tools
 
 [Kubernetes adoption up, serverless down, developer survey says](https://www.infoworld.com/article/3645374/kubernetes-up-serverless-down-report.html)  
-I think we've reached peak serverless. "The proportion of developers involved in serverless architecture fell from 27 percent to 24 percent, the survey found."
+Has serverless peaked? "The proportion of developers involved in serverless architecture fell from 27 percent to 24 percent, the survey found."
 
 [LastPass confirms credential stuffing attack against some of its users](https://therecord.media/lastpass-confirms-credential-stuffing-attack-against-some-of-its-users/)  
 Got off LastPass, folks. That ship looks like it is in a bad state.
@@ -129,6 +129,6 @@ The AWS Copilot CLI is a tool for developers to build, release and operate produ
 
 ## DevOps'ish Tweet of the Week
 
-[![Ari Paparo Dot Eth (@aripap on Twitter) "This web3 shit is starting to annoy me, so here’s a thread with my opinions on the relevance to media and advertising. 1/21 🧵"](/images/250-devopsish-tweet-of-the-week.webp)](https://twitter.com/aripap/status/1474039478671003652)
+[![Ari Paparo Dot Eth (@aripap on Twitter) "This web3 shit is starting to annoy me, so here’s a thread with my opinions on the relevance to media and advertising. 1/21 🧵"](https://devopsish.com/images/250-devopsish-tweet-of-the-week.webp)](https://twitter.com/aripap/status/1474039478671003652)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/250/notes/) to see what didn't make it to the newsletter but are still worth your time.
