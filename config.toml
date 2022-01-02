@@ -14,6 +14,8 @@ ignoreErrors = ["error-remote-getjson"]
 disableKinds = ["RSS"]
 enableEmoji = true
 enableInlineShortcodes = true
+enableGitInfo = true
+summaryLength = 160
 
 # ------------------------------
 [outputs]
@@ -32,6 +34,27 @@ enableInlineShortcodes = true
     subscribers = "5,600+"
 #    avg_open_rate = "48%"
 #    avg_click_rate = "21%"
+
+[imaging]
+resampleFilter = "box"
+anchor = "smart"
+# Hugo will preserve transparency for target formats that supports it,
+# but will fall back to this color for JPEG.
+# Expects a standard HEX color string with 3 or 6 digits.
+# See https://www.google.com/search?q=color+picker
+bgColor = "#ffffff"
+# Hugo extracts the "photo taken where" (GPS latitude and longitude) into
+# .Long and .Lat. Set this to true to turn it off.
+# Default background color.
+disableLatLong = true
+  [imaging.exif]
+  # Regexp matching the fields you want to Exclude from the (massive) set of Exif info
+  # available. As we cache this info to disk, this is for performance and
+  # disk space reasons more than anything.
+  # If you want it all, put ".*" in this config setting.
+  # Note that if neither this or ExcludeFields is set, Hugo will return a small
+  # default set.
+  includeFields = ""
 # ------------------------------
 
 [menu]
