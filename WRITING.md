@@ -1,13 +1,14 @@
 # Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [DevOps'ish Writing Process](#devopsish-writing-process)
   - [Guiding Principles](#guiding-principles)
     - [5-5-10 Guideline](#5-5-10-guideline)
     - [Work work](#work-work)
     - [Choosing content for the newsletter](#choosing-content-for-the-newsletter)
-    - [Prohibitions](#prohibitions)
-      - [No Medium, No Substack](#no-medium-no-substack)
-      - [Trash talking](#trash-talking)
+  - [Prohibitions](#prohibitions)
+    - [No Medium, No Substack](#no-medium-no-substack)
+    - [Trash talking](#trash-talking)
   - [Sections](#sections)
     - [Intro](#intro)
     - [People](#people)
@@ -47,7 +48,6 @@ I asked Corey Quinn once about including a potentially controversial piece of co
 - Cloud Native topics or projects
 - Kubernetes specifically
 - Cloud
-- Hyperscalers
 
 ## Prohibitions
 
@@ -90,9 +90,9 @@ Stories talking about tools used in environments across the globe belong in the 
 
 ### DevOps'ish Tweet of the Week
 
-The Tweet of the Week is a unique part of DevOps'ish. When finding funny, informative, or thought-provoking tweets (or threads), save throughout the week. At writing time, pull them into the notes.md file while building the newsletter. It's good to have a few to choose from, so keep that in mind throughout the week.
+The Tweet of the Week is a unique part of DevOps'ish. When finding funny, informative, or thought-provoking tweets (or threads), I save them throughout the week. At writing time, pull them into the notes.md file while building the newsletter. It's good to have a few to choose from, so keep that in mind throughout the week.
 
-After years of running the newsletter, it is apparent that people will make their accounts temporarily private, purge tweets of a certain age, or the Twitter API (much worse) is down at build time. Using the Hugo shortcode `tweet` to embed tweets is what had been done historically. But, as folks change their minds about what tweets are available to the public, the build will ultimately break, and that sucks.
+After years of running the newsletter, it is apparent that people will make their accounts temporarily private, purge tweets of a certain age, or the Twitter API (much worse) is down at build time. A workaround for this is implemented in the Hugo `config.toml` Using the Hugo shortcode `tweet` to embed tweets is what had been done historically. But, as folks change their minds about what tweets are available to the public, the tweets won't build (maybe at all).
 
 Fixing this "lost tweet" problem usually involves going to the live site and capturing the text version of the tweet that the Hugo shortcode embeds as a screenshot and save that in the site's repo.
 
@@ -105,7 +105,7 @@ Using your IDE of choice...
 ![Newsletter Scaffold in VSCode](static/img/newsletter-scaffold.webp)
 1. Add Ads: ***This point is critical.*** Check the [DevOps'ish Sponsor Inventory](https://docs.google.com/spreadsheets/d/1EYmxtGdMubBOUlHgX3hoooyf7vNOGBKMallPdel0mak/edit?usp=sharing) and place ad copy from the sponsors into the appropriate sections of newsletter.md based on the ad's copy. Ad copy and format is defined by the [DevOps'ish Sponsor](https://devopsish.com/sponsor/#example-ad) guidelines.
 1. Create notes.md: Open a new browser window, go to the various newsletter sources, and begin the process of finding eligible articles related to topics covered in DevOps'ish. Open all the stories in a new window and use the [TabCopy extension](http://tabcopy.com/) to pull all the tabs into the notes.md file as Markdown links. Highlight the selection of recently pasted links and do a s/$/\n/g so the notes.md file is more readable.
-1. DevOps'ish Tweet of the Week: This should be embedded using the Hugo tweet shortcode. Then screenshot the rendered tweet in preview. Optimize the screenshot using a service like [ShortPixel](https://shortpixel.com/online-image-compression) (online) or [ImageOptim](https://imageoptim.com/) (offline). Remove the shortcode version of the tweet and embed the screenshot of it, and link to it accordingly.
+1. DevOps'ish Tweet of the Week: This SHOULD NOT be embedded using the Hugo tweet shortcode. But, it's safe to use the shortcode to screenshot the rendered tweet in preview. Optimize the screenshot using a service like [ShortPixel](https://shortpixel.com/online-image-compression) (online) or [ImageOptim](https://imageoptim.com/) (offline). Remove the shortcode version of the tweet and embed the screenshot of it, and use an absolute link to it. Next, merge the Tweet of the Week to `main` before sending the newsletter so the image can be used in the newsletter itself.
 1. Use the --Force-- analytics, Luke: Use [Twitter Analytics](https://analytics.twitter.com/user/ChrisShort/home), [/r/devopsish](https://www.reddit.com/r/devopsish/), [LinkedIn](https://www.linkedin.com/in/thechrisshort), [Buffer](https://buffer.com/), [Raindrop](https://raindrop.io/), and, most importantly, your gut to find "must discuss" topics for the newsletter. Cut those links from notes.md into the appropriate section of the newsletter.md file.
 1. Write the damn thing: As you cut links from notes.md into the main newsletter.md file be sure to add a thought to each one. The link should be on its own line followed by a line break. A quote from the article is a bare minimum, but it's always best to add your spin to the linked article.
 1. Create a Pull Request (PR): Netlify is setup to render pull requests as preview pages automatically. This gives you a usable URL to analyze the newsletter, share rough drafts with others, or anything else needed in the writing process. When you've created your PR head over to the Netlify Builds page to see how things are going and to get the preview link itself.
