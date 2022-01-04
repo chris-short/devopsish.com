@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://devopsish.com"
 title = "DevOps'ish"
 author = "Chris Short"
 theme = "paper"
