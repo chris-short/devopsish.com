@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-01-09T07:00:00Z
-description = [""]
+description = ["About last week, 5G shenanigans, Dockershim deprecation, FTC warns companies about Log4j, GitOpsCon EU 2022 CFP open, EKS News, and more"]
 draft = false
 slug = "251"
-tags = []
-title = "DevOps'ish 251: "
+tags = ["internet", "Kubernetes", "Intel", "dockershim", "Linux", "open source", "Log4j", "IBM Watson Health", "EKS", "security", "coding", "learnings", "deprecation", "vulnerability", "expectations", "5G", "FAA", "Brave", "privacy", "IPv6", "Apple", "developer", "HTTP QUERY", "JED"]
+title = "DevOps'ish 251: About last week, 5G shenanigans, Dockershim deprecation, FTC warns companies about Log4j, GitOpsCon EU 2022 CFP open, EKS News, and more"
 
 +++
 
@@ -97,8 +97,6 @@ K8s Airgap Buddy
 Kubernetes controller for synchronizing secrets & config maps across namespaces
 
 ## DevOps'ish Tweet of the Week
-
-{{< tweet 1479643564728532993 >}}
 
 [![KEATS 🚀 (@keatsdidit on Twitter) "How social media apps been acting recently"](https://devopsish.com/images/251-devopsish-tweet-of-the-week.webp)](https://twitter.com/keatsdidit/status/1479643564728532993)
 
