@@ -3,17 +3,17 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-01-16T07:00:00Z
-description = [""]
+description = ["5G update, pink slips for the unvaccinated, Apache stifled by out of date software still in use, Canon's eWaste, Security Obstructionism (SecObs) Market, tracing traffic in Kubernetes, and more"]
 draft = false
 slug = "252"
-tags = []
-title = "DevOps'ish 252: 5G update, "
+tags = ["security", "Kubernetes", "5G", "data", "practices", "time", "Lastpass", "platform", "obstructionism", "SecObs", "market", "API", "C-band", "cluster", "unvaccinated", "Google", "Apache", "Canon", "ink", "Honeycomb", "diagnosis", "remediation", "workloads", "AWS", "GitOps", "Flux"]
+title = "DevOps'ish 252: 5G update, pink slips for the unvaccinated, Apache stifled by out of date software still in use, Canon's eWaste, Security Obstructionism (SecObs) Market, tracing traffic in Kubernetes, and more"
 
 +++
 
 DevOps'ish is brought to you by [**Honeycomb**](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup).  
 "Stop Letting Complexity Slow You Down"  
-[**Honeycomb**](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup) makes it easy to understand and troubleshoot complex relationships within your distributed services. Solve problems faster. Ship reliable and performant features.
+[**Honeycomb**](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup) makes it easy to understand and troubleshoot complex relationships within your distributed services. Solve problems faster. Ship reliable and performant features. *SPONSORED*
 
 [Last week](https://devopsish.com/251), I reported the back and forth with Verizon's and AT&T's 5G efforts on the old C-band spectrum. This frequency band is also used to tell airplanes where the ground is as they're on final approaches and landings, and [the FAA has been frantically working](https://www.bloomberg.com/news/articles/2022-01-14/u-s-faa-issues-first-aircraft-specific-limits-due-to-5g-signals) to prevent a delay in the 5G rollouts of two of the US's largest carriers.
 
