@@ -26,7 +26,7 @@ summaryLength = 160
   description = "Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the 'ish between."
   reddit = "/r/devopsish/"
   twitter = "ChrisShort"
-  github = "chrisshort"
+  github = "chris-short"
   linkedin = "/in/thechrisshort/"
   disableHLJS = "true"
 
