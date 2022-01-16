@@ -2,7 +2,8 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
-date = 2022-01-16T07:00:00Z
+
+date = 2022-01-16T03:00:00Z
 description = ["5G update, pink slips for the unvaccinated, Apache stifled by out of date software still in use, Canon's eWaste, Security Obstructionism (SecObs) Market, tracing traffic in Kubernetes, and more"]
 draft = false
 slug = "252"
