@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-01-23T07:00:00Z
-description = [""]
+description = ["5G — It's all good, Measuring open source, Intel coming to Ohio, MoonBounce, GitOps in 2021, Google SRE hellscape, and more"]
 draft = false
 slug = "253"
-tags = []
-title = "DevOps'ish 253: "
+tags = ["open source", "Intel", "5G", "MoonBounce", "security", "firmware", "environment", "Ohio", "Merck", "FAA", "malware", "Roblox", "SimCity", "Honeycomb", "upstream", "Solarwinds", "Linux", "GitOps"]
+title = "DevOps'ish 253: 5G — It's all good, Measuring open source, Intel coming to Ohio, MoonBounce, GitOps in 2021, Google SRE hellscape, and more"
 
 +++
 
