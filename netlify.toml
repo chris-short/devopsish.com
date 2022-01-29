@@ -11,7 +11,7 @@ command = "hugo --minify --enableGitInfo"
 	sitemapPath = "/sitemap.xml"
 
 [context.production.environment]
-HUGO_VERSION = "0.92.0"
+HUGO_VERSION = "0.92.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -19,13 +19,13 @@ HUGO_ENABLEGITINFO = "true"
 command = "git submodule update --rebase --remote && hugo --minify"
 
 [context.split1.environment]
-HUGO_VERSION = "0.92.0"
+HUGO_VERSION = "0.92.1"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "git submodule update --rebase --remote && hugo -DF --verbose"
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.92.0"
+HUGO_VERSION = "0.92.1"
 # Skip all post processing in deploy previews,
 # ignoring any other settings
 [context.deploy-preview.processing]
@@ -34,7 +34,7 @@ HUGO_VERSION = "0.92.0"
 [context.branch-deploy]
 command = "git submodule update --rebase --remote && hugo -DF --verbose"
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.92.0"
+HUGO_VERSION = "0.92.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
