@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-01-30T03:30:00Z
-description = [""]
+description = ["Mired in many migrations, No Substack, Kubernetes security, Nvidia's Arm deal is really dead, big Kubernetes cluster, systemd playground, and more"]
 draft = false
 slug = "254"
-tags = []
-title = "DevOps'ish 254: "
+tags = ["Kubernetes", "Google", "Docker", "Apple", "macOS", "Kubernetes clusters", "GSuite", "security", "policy", "podman", "validation", "systemd", "remote", "Fedora", "minikube", "open source", "Honeycomb", "AWS", "service discovery", "DNS"]
+title = "DevOps'ish 254: Mired in many migrations, No Substack, Kubernetes security, Nvidia's Arm deal is really dead, big Kubernetes cluster, systemd playground, and more"
 
 +++
 
