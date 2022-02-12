@@ -321,7 +321,7 @@ function customSearchResults() {
 
       if ((extern == 1) && (params['extern_icon'])) {
         title += ' '+params['extern_icon'];
-        url = url + '" target="_blank"';
+        url = url + '" target="_blank" rel="noopener"';
       }
 
       if (section != '') {
