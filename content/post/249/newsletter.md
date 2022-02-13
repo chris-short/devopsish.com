@@ -117,6 +117,6 @@ jq for binary formats
 
 ## DevOps'ish Tweet of the Week
 
-[![commandasaurus 🦦 (@amcasari) on Twitter) "We can *already* give you one example of where this falls short — attribution in open source. Receipts: https://arxiv.org/abs/2103.11007"]([https://shortcdn.com/file/devopsish/249-devopsish-tweet-of-the-week.webp)](https://twitter.com/amcasari/status/1473321726226452483)
+[![commandasaurus 🦦 (@amcasari) on Twitter) "We can *already* give you one example of where this falls short — attribution in open source. Receipts: https://arxiv.org/abs/2103.11007"](https://shortcdn.com/file/devopsish/249-devopsish-tweet-of-the-week.webp)](https://twitter.com/amcasari/status/1473321726226452483)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/249/notes/) to see what didn't make it to the newsletter but are still worth your time.
