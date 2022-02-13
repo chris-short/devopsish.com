@@ -8,7 +8,7 @@ draft = false
 slug = "051"
 tags = ["devops", "cloud native", "open source", "kubernetes", "detroit", "google", "uber", "containers"]
 title = "051: Highs and Lows, Thankfulness, Kubernetes, tmux, and More"
-image = "/051/cloudy-mountain.jpg"
+image ="https://shortcdn.com/file/devopsish/cloudy-mountain.jpg"
 imagealt = "Highs and Lows"
 aliases = [
     "devopsish-051-highs-and-lows-thankfulness-kubernetes-tmux-and-more-bedac4bd6e11"

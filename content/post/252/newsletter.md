@@ -91,6 +91,6 @@ Bash script to check if a domain or list of domains can be spoofed based in DMAR
 
 ## DevOps'ish Tweet of the Week
 
-[![Ian Coldwater 📦💥 (@IanColdwater on Twitter) "It's frankly miraculous that the Internet works at all"](https://devopsish.com/images/252-devopsish-tweet-of-the-week.webp)](https://twitter.com/IanColdwater/status/1480595046449700864)
+[![Ian Coldwater 📦💥 (@IanColdwater on Twitter) "It's frankly miraculous that the Internet works at all"](https://shortcdn.com/file/devopsish/252-devopsish-tweet-of-the-week.webp)](https://twitter.com/IanColdwater/status/1480595046449700864)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/252/notes/) to see what didn't make it to the newsletter but are still worth your time.

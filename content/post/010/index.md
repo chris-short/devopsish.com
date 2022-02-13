@@ -8,7 +8,7 @@ draft = false
 slug = "010"
 tags = ["devops", "cloud native", "open source", "database", "containers"]
 title = "010: Week of 1486857600"
-image = "/010/edinburgh-scotland-feb-2017.jpg"
+image ="https://shortcdn.com/file/devopsish/edinburgh-scotland-feb-2017.jpg"
 imagealt = "Edinburgh, Scotland, United Kingdom — 11 Feb 2017"
 aliases = [
     "devopsish-weekly-010-week-of-1486857600-28889c38fd68"

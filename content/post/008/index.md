@@ -8,7 +8,7 @@ draft = false
 slug = "008"
 tags = ["devops", "cloud native", "open source", "observability", "linux", "Docker"]
 title = "DevOps'ish 008: Week of 1485666000"
-image = "/008/gopherize-yourself-fools.png"
+image ="https://shortcdn.com/file/devopsish/gopherize-yourself-fools.png"
 imagealt = "Gopherize Yourself, Fool"
 aliases = [
     "devopsish-weekly-008-week-of-1485666000-c7e6d9a9790a"

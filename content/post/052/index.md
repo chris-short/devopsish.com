@@ -8,7 +8,7 @@ draft = false
 slug = "052"
 tags = ["devops", "cloud native", "open source", "kubernetes", "observability", "infrastructure", "docker", "moby", "containers", "Docker Inc"]
 title = "052: 1 Year 🎉, CNI Book Giveaway, AWS re:Invent, Kubernetes, and More!"
-image = "/052/sharks-circling.jpg"
+image ="https://shortcdn.com/file/devopsish/sharks-circling.jpg"
 imagealt = "The sharks are circling"
 imagecap = "[Flight of the Hammerheads](http://digitalblasphemy.com/preview.shtml?i=hammerheads2k62) by Digital Blasphemy"
 aliases = [

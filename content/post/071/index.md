@@ -8,7 +8,7 @@ draft = false
 slug = "071"
 tags = ["devops", "cloud native", "open source", "tech debt", "technical debt", "kubernetes", "open offices", "Susan Fowler", "containers"]
 title = "071: Susan Fowler, Open Offices, Tech Debt, Cloud Native Serverless, Kubernetes, and More"
-image = "/071/patience.jpg"
+image ="https://shortcdn.com/file/devopsish/patience.jpg"
 imagealt = "Stacked rocks symbolizing patience"
 
 +++

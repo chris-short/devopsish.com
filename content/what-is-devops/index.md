@@ -10,7 +10,7 @@ title = "What is DevOps (free eBook)"
 
 +++
 
-![DevOps Toolchain graphic is provided under the CC BY-SA 4.0 via Wikimedia Commons ](/what-is-devops/devops.svg)  
+![DevOps Toolchain graphic is provided under the CC BY-SA 4.0 via Wikimedia Commons ]https://shortcdn.com/file/devopsish/devops.svg)  
 DevOps Toolchain graphic is provided under the CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Devops-toolchain.svg)
 
 **DevOps** was intentionally left undefined (or loosely defined) at the first DevOpsDays event held in Ghent, Belgium. There are many good reasons for leaving it undefined. Back in 2009 in Ghent, no one could be sure how DevOps would impact the industry. But, the lack of a definition has left it available to be defined by anyone (myself included). This means a product can be DevOps and a business process can be DevOps. Neither of these is "wrong" but, one adheres to the spirit of DevOps more than the other. Allow me to attempt to define and scope DevOps.
@@ -19,13 +19,13 @@ DevOps Toolchain graphic is provided under the CC BY-SA 4.0 via [Wikimedia Commo
 
 Free. No strings attached to this download. DevOps'ish is offering this eBook for free. One option would've been to ask you to [subscribe to the newsletter](/subscribe/) first. But, it's a free eBook about DevOps, why put hurdles in front of it? You having the information is more important.
 
-Download *What is DevOps* as an [**ePub**](/what-is-devops/What_is_DevOps_eBook.epub) or [**PDF**](/what-is-devops/What_is_DevOps_eBook.pdf)
+Download *What is DevOps* as an [**ePub**]https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.epub) or [**PDF**]https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.pdf)
 
-[![Free "What is DevOps" eBook by Chris Short](/what-is-devops/What-is-DevOps-eBook_landing-page.webp)](/what-is-devops/What_is_DevOps_eBook.pdf)
+[![Free "What is DevOps" eBook by Chris Short]https://shortcdn.com/file/devopsish/What-is-DevOps-eBook_landing-page.webp)]https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.pdf)
 
-Download *What is DevOps* as an [**ePub**](/what-is-devops/What_is_DevOps_eBook.epub) or [**PDF**](/what-is-devops/What_is_DevOps_eBook.pdf)
+Download *What is DevOps* as an [**ePub**]https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.epub) or [**PDF**]https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.pdf)
 
-[![App Icon Apple Books](/img/standard.webp)](https://books.apple.com/us/book/what-is-devops/id1567673806?itscg=30200&amp;itsct=books_box_appicon&amp;ct=books_what_is_dev_ops&amp;ls=1)  
+[![App Icon Apple Books](https://shortcdn.com/file/devopsish/standard.webp)](https://books.apple.com/us/book/what-is-devops/id1567673806?itscg=30200&amp;itsct=books_box_appicon&amp;ct=books_what_is_dev_ops&amp;ls=1)  
 Also available on [Apple Books](https://books.apple.com/us/book/what-is-devops/id1567673806?itscg=30200&amp;itsct=books_box_appicon&amp;ct=books_what_is_dev_ops&amp;ls=1)
 
 ### Where To Learn More About DevOps

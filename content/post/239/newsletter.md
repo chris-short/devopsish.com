@@ -86,6 +86,6 @@ Benchmark for interactive zsh
 
 ## DevOps'ish Tweet of the Week
 
-[![Laura is at #KubeCon NA (@nimbinatus) on Twitter: "We had a great time at the @K8sContributors SIG Meet and Greet at #kubecon2021! I bring you the folks that made it happen, on their way to the event itself, in epic video form (and I may have had too much fun making this video)."](/images/239-devopsish-tweet-of-the-week.png)](https://twitter.com/nimbinatus/status/1448666894815297536)
+[![Laura is at #KubeCon NA (@nimbinatus) on Twitter: "We had a great time at the @K8sContributors SIG Meet and Greet at #kubecon2021! I bring you the folks that made it happen, on their way to the event itself, in epic video form (and I may have had too much fun making this video)."](["https://shortcdn.com/file/devopsish/239-devopsish-tweet-of-the-week.png)](https://twitter.com/nimbinatus/status/1448666894815297536)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/239/notes/) to see what didn't make it to the newsletter but are still worth your time.

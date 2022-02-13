@@ -19,7 +19,7 @@ Y'all... I can't. I can't. I can't.
 
 Then it got worse. I won't go into details but, let's just say it was the cherry on top of a shit week for tech but otherwise good week here at home.
 
-[![Because you know I have to have a real GIF now](/images/big-bang-theory-guy-throwing-papers.gif)]
+[![Because you know I have to have a real GIF now](["https://shortcdn.com/file/devopsish/big-bang-theory-guy-throwing-papers.gif)]
 
 ## People
 
@@ -108,6 +108,6 @@ visualise your iptables chains
 
 ## DevOps'ish Tweet of the Week
 
-[![svbl @svblxyz on Twitter: "This is very accurate 😅"](/images/226-devopsish-tweet-of-the-week.png)](https://twitter.com/svblxyz/status/1413276163859001345)
+[![svbl @svblxyz on Twitter: "This is very accurate 😅"](["https://shortcdn.com/file/devopsish/226-devopsish-tweet-of-the-week.png)](https://twitter.com/svblxyz/status/1413276163859001345)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/226/notes/) to see what didn't make it to the newsletter but are still worth your time.

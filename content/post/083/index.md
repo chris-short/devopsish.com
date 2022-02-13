@@ -8,7 +8,7 @@ draft = false
 slug = "083"
 tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "survey", "automation", "CI/CD"]
 title = "083: DevOps'ish Survey, Career Advice Galore, 🚫 Bastions, Kubernetes, Ansible, HTTP/2, Etcd, and More"
-image = "/083/statue-of-liberty-shrouded.jpg"
+image ="https://shortcdn.com/file/devopsish/statue-of-liberty-shrouded.jpg"
 imagealt = "Statue of Liberty surrounded by fog"
 
 +++

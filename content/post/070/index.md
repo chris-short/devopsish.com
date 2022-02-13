@@ -8,7 +8,7 @@ draft = false
 slug = "070"
 tags = ["devops", "cloud native", "open source", "youtube shooting", "devsecops", "kubernetes", "diveristy", "containers", "Docker"]
 title = "070: Not the Postmortem We Wanted to Run"
-image = "/070/070.jpg"
+image ="https://shortcdn.com/file/devopsish/070.jpg"
 imagealt = "Not the Postmortem We Wanted to Run"
 imagecap = "What should happen in the wake of the YouTube Shooting?"
 

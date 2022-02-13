@@ -27,7 +27,7 @@ Now you can wear your inside joke on your chest, and your heart on your sleeve a
 1. [Terraform at Starbucks: Infrastructure as Code for Software Engineers](https://www.hashicorp.com/resources/terraform-at-starbucks-infrastructure-as-code-for-software-engineers)
 1. [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
 1. [Ansible Crash Course](https://www.thecloud.coach/ansible-crash-course)
-1. [Detecting Agile BS](https://devopsish.com/pdf/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+1. [Detecting Agile BS](https://shortcdn.com/file/devopsish/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 
 [See the top ten →](https://devopsish.com/149/notes/)
 

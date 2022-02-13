@@ -8,7 +8,7 @@ draft = false
 slug = "029"
 tags = ["devops", "cloud native", "open source", "serverless", "detroit", "containers", "Linus Torvalds", "Docker"]
 title = "029: Week of 1498363200"
-image = "/029/downtown-detroit-from-bankrate-office.jpg"
+image ="https://shortcdn.com/file/devopsish/downtown-detroit-from-bankrate-office.jpg"
 imagealt = "View from my office in Downtown Detroit"
 aliases = [
     "devopsish-029-week-of-1498363200-56ad15adce32"

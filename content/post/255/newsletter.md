@@ -88,6 +88,6 @@ Rub a little Ansible on it and 💥Minecraft server💥
 
 ## DevOps'ish Tweet of the Week
 
-[![OpenGitOps (@OpenGitOps on Twitter) "#GitOpsCon CFP is still open! Come share your experiences with GitOps at our Co-located event at #KubeConEU! CFP Closes February 14th!"](https://devopsish.com/images/255-devopsish-tweet-of-the-week.webp)](https://twitter.com/OpenGitOps/status/1488958489711943690)
+[![OpenGitOps (@OpenGitOps on Twitter) "#GitOpsCon CFP is still open! Come share your experiences with GitOps at our Co-located event at #KubeConEU! CFP Closes February 14th!"](https://shortcdn.com/file/devopsish/255-devopsish-tweet-of-the-week.webp)](https://twitter.com/OpenGitOps/status/1488958489711943690)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/255/notes/) to see what didn't make it to the newsletter but are still worth your time.

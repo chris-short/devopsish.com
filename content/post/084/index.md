@@ -8,7 +8,7 @@ draft = false
 slug = "084"
 tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "survey", "JEDI", "CI/CD", "Docker"]
 title = "084: Open Offices are Evil, AWS Switches?, GitOps, BGP, Getting Started with CI/CD, OpenFaaS, and More"
-image = "/084/dbap.jpg"
+image ="https://shortcdn.com/file/devopsish/dbap.jpg"
 imagealt = "Durham Bulls Athletic Park"
 imagecap = "Durham Bulls Athletic Park"
 

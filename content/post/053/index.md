@@ -8,7 +8,7 @@ draft = false
 slug = "053"
 tags = ["devops", "cloud native", "open source", "kubernetes", "infrastructure", "containers", "Site Reliability Engineering", "SRE"]
 title = "053: KubeCon, CloudNativeCon, Kubernetes, Looking to 2018, and MORE!"
-image = "/053/dan-romlein-sketch-notes.jpg"
+image ="https://shortcdn.com/file/devopsish/dan-romlein-sketch-notes.jpg"
 imagealt = "Dan Romlein's KubeCon + CloudNativeCon 2017 Sketch Notes"
 aliases = [
     "devopsish-053-kubecon-cloudnativecon-kubernetes-looking-to-2018-and-more-3b9aaa484baa"

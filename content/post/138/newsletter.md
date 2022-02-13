@@ -62,7 +62,7 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 [How a Production Outage Was Caused Using Kubernetes Pod Priorities](https://grafana.com/blog/2019/07/24/how-a-production-outage-was-caused-using-kubernetes-pod-priorities/) — Resource limits are EVERYTHING. If you don't use them, WHY!?!
 
-[6 Tech Giants Located in Detroit](https://blog.repurpose.co/6-tech-giants-located-in-detroit) — Don't sleep on Detroit, y'all. When I'm doing non-work speaking, I put [pictures from Detroit](https://devopsish.com/images/awesome-detroit.jpg) at the beginning of the slides. I want to show people it's not what they hear and see in the news. Detroit is an amazing city!
+[6 Tech Giants Located in Detroit](https://blog.repurpose.co/6-tech-giants-located-in-detroit) — Don't sleep on Detroit, y'all. When I'm doing non-work speaking, I put [pictures from Detroit](https://shortcdn.com/file/devopsish/awesome-detroit.jpg) at the beginning of the slides. I want to show people it's not what they hear and see in the news. Detroit is an amazing city!
 
 ## Tools
 

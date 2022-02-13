@@ -8,7 +8,7 @@ draft = false
 slug = "011"
 tags = ["devops", "cloud native", "open source", "database", "linux", "google", "CAP Theorem", "Linus Torvalds", "Docker"]
 title = "011: Week of 1487480400"
-image = "/011/alexander-graham-bell-birthplace.jpg"
+image ="https://shortcdn.com/file/devopsish/alexander-graham-bell-birthplace.jpg"
 imagealt = "Alexander Graham Bell Birthplace, Edinburgh, Scotland, United Kingdom"
 aliases = [
     "devopsish-weekly-011-week-of-1487480400-952ca358aec1"

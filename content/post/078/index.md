@@ -8,7 +8,7 @@ draft = false
 slug = "078"
 tags = ["devops", "cloud native", "open source", "kubernetes", "GitOps", "cloud", "security", "git", "Docker"]
 title = "078: Microsoft ❤️ GitHub, Security, Project Maven, Ansible, Kubernetes, and More"
-image = "/078/mindseye-what-the-military-taught-me-about-devops.jpg"
+image ="https://shortcdn.com/file/devopsish/mindseye-what-the-military-taught-me-about-devops.jpg"
 imagealt = "Graphic Recording of What The Military Taught Me About DevOps"
 imagecap = "Graphic Recording by [Mind's Eye Creative](http://www.mindseyecreative.ca/)"
 
@@ -116,4 +116,4 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish Tweet of the Week from @editingemily](/images/078-devopsish-tweet-of-the-week.jpg)](https://twitter.com/editingemily/status/1001855561963581446)
+[![DevOps'ish Tweet of the Week from @editingemily](["https://shortcdn.com/file/devopsish/078-devopsish-tweet-of-the-week.jpg)](https://twitter.com/editingemily/status/1001855561963581446)

@@ -8,7 +8,7 @@ draft = false
 slug = "049"
 tags = ["devops", "cloud native", "open source", "kubernetes", "golang", "intel", "linux", "Docker"]
 title = "049: Basics, Kubernetes, Intel is Blowing It, IDEs, Go, and More"
-image = "/049/air-force-drill-instructor.jpg"
+image ="https://shortcdn.com/file/devopsish/air-force-drill-instructor.jpg"
 imagealt = "Happy Veteran's Day"
 aliases = [
     "devopsish-049-basics-kubernetes-intel-is-blowing-it-ides-go-and-more-8ca711f9d832"

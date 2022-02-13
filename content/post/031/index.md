@@ -8,7 +8,7 @@ draft = false
 slug = "031"
 tags = ["devops", "cloud native", "open source", "kubernetes", "interview", "mental health", "hiring", "gophercon"]
 title = "031: Let's Encrypt, Go, Kubernetes, zinc, Mental Health, Interviewing"
-image = "/031/cheeseman-park.jpg"
+image ="https://shortcdn.com/file/devopsish/cheeseman-park.jpg"
 imagealt = "Cheesman Park in Denver, Colorado (I went ghost hunting here once)"
 aliases = [
     "devopsish-031-let-s-encrypt-go-kubernetes-zinc-mental-health-interviewing-400a4f11fdf7"

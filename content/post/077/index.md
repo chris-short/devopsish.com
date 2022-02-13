@@ -8,7 +8,7 @@ draft = false
 slug = "077"
 tags = ["devops", "cloud native", "open source", "kubernetes", "go", "golang", "ChefConf", "security", "gdpr", "vgo", "community", "dep", "containers", "veteran", "containers", "CI/CD", "Docker"]
 title = "077: ChefConf 2018, GDPR, Go CoC 🙌, Go vgo 😞, Kubernetes, Laptop Giveaway, Security, and More"
-image = "/077/chicago-river-chefconf-2018.jpg"
+image ="https://shortcdn.com/file/devopsish/chicago-river-chefconf-2018.jpg"
 imagealt = "Chicago River from Michigan Ave Bridge after ChefConf"
 imagecap = "Chicago River from Michigan Ave Bridge after ChefConf"
 

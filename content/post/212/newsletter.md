@@ -104,6 +104,6 @@ A curated list for Awesome Kubernetes Security resources
 
 This is crazy y'all. The level of devastation, the cleanup effort, and putting it all back together again will be an enormous triumph for OVH.
 
-[![@olesovhcom on Twitter: "Update March,24 6:30pm The cleaning takes time. We have 80 people (SBG3) + 20 people (Croix). On the left, a motherboard with the smoke pollution on the CPU socket. It’s very corrosive ! If we power up, it’s dead. Same the disk. On the right, the same device 24h after cleaned up"](/images/212-devopsish-tweet-of-the-week.png)](https://twitter.com/olesovhcom/status/1374775109148368901)
+[![@olesovhcom on Twitter: "Update March,24 6:30pm The cleaning takes time. We have 80 people (SBG3) + 20 people (Croix). On the left, a motherboard with the smoke pollution on the CPU socket. It’s very corrosive ! If we power up, it’s dead. Same the disk. On the right, the same device 24h after cleaned up"](["https://shortcdn.com/file/devopsish/212-devopsish-tweet-of-the-week.png)](https://twitter.com/olesovhcom/status/1374775109148368901)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/212/notes/) to see what didn't make it to the newsletter but are still worth your time.

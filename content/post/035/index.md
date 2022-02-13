@@ -8,7 +8,7 @@ draft = false
 slug = "035"
 tags = ["devops", "cloud native", "open source", "kubernetes", "detroit", "google", "password management", "microservices", "Site Reliability Engineering", "SRE", "Docker"]
 title = "035: Google's Toxicity, Security, SRE, Kubernetes, and More!"
-image = "/035/woodward-ave-downtown-detroit.jpg"
+image ="https://shortcdn.com/file/devopsish/woodward-ave-downtown-detroit.jpg"
 imagealt = "Woodward Avenue in Downtown Detroit"
 aliases = [
     "devopsish-035-google-s-toxicity-security-sre-kubernetes-and-more-f4bfadd192c7"
@@ -90,4 +90,4 @@ We are about a month away from [**DevOpsDay Raleigh**](https://www.devopsdays.or
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish 035 Tweet of the Week](/images/035-devopsish-tweet-of-the-week.png)](https://twitter.com/bketelsen/status/892141526213591041)
+[![DevOps'ish 035 Tweet of the Week](["https://shortcdn.com/file/devopsish/035-devopsish-tweet-of-the-week.png)](https://twitter.com/bketelsen/status/892141526213591041)

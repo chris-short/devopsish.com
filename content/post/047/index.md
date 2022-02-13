@@ -8,7 +8,7 @@ draft = false
 slug = "047"
 tags = ["devops", "cloud native", "open source", "kubernetes", "intel", "linux", "google", "hashicorp", "nodejs", "containers", "Docker"]
 title = "047: DevOps Team, Kubernetes Everywhere, Scoble Still Awful, Intel Did Something Right..."
-image = "/047/chris-short-jason-hibbets-announcing-osdc-devops-team.jpg"
+image ="https://shortcdn.com/file/devopsish/chris-short-jason-hibbets-announcing-osdc-devops-team.jpg"
 imagealt = "Jason Hibbets and Chris Short announcing the Opensource.com DevOps Team at All Things Open 2017"
 aliases = [
     "devopsish-047-devops-team-kubernetes-everywhere-scoble-still-awful-intel-did-something-right-fa4dd75bc9b5"

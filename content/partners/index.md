@@ -16,11 +16,11 @@ DevOps'ish is a weekly newsletter covering DevOps, Cloud Native, Hybrid Cloud, O
 
 ## Media Partners
 
-[![Cronicle Press](cronicle-press.png)](https://cronicle.press/)
+[![Cronicle Press](https://shortcdn.com/file/devopsish/cronicle-press.png)](https://cronicle.press/)
 
-[![O'Reilly](oreilly.jpg)](https://www.oreilly.com/pub/cpc/295836)
+[![O'Reilly](https://shortcdn.com/file/devopsish/oreilly.jpg)](https://www.oreilly.com/pub/cpc/295836)
 
-[![All Day DevOps](ADDO_Logo_2019_Black.svg)](https://www.alldaydevops.com/)
+[![All Day DevOps](https://shortcdn.com/file/devopsish/ADDO_Logo_2019_Black.svg)](https://www.alldaydevops.com/)
 
 Thank you for your continued support!
 

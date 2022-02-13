@@ -8,7 +8,7 @@ draft = false
 slug = "060"
 tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "intel", "google", "Site Reliability Engineering", "SRE"]
 title = "060: WTF Google, SRE in a Serverless World, DevOps Requires Rethinking Norms, Kubernetes..."
-image = "/060/right-in-the-kisser.jpg"
+image ="https://shortcdn.com/file/devopsish/right-in-the-kisser.jpg"
 imagealt = "Pow! Right in the Kisser!"
 aliases = [
     "devopsish-060-wtf-google-sre-in-a-serverless-world-devops-requires-rethinking-norms-kubernetes-163ab5eaef53"
