@@ -30,7 +30,7 @@ Please take this year's survey. It is a handful of questions, will provide actio
 
 ## People
 
-[Twitter Takes Down Accounts of China Dissidents Ahead of Tiananmen Anniversary](https://www.nytimes.com/2019/06/01/business/twitter-china-tiananmen.html) — "Three days before [the most sensitive political anniversary](/104/china-89.pdf) on the Chinese calendar, Twitter suspended the accounts of Chinese political commentators in what it said was an accident."
+[Twitter Takes Down Accounts of China Dissidents Ahead of Tiananmen Anniversary](https://www.nytimes.com/2019/06/01/business/twitter-china-tiananmen.html) — "Three days before [the most sensitive political anniversary](https://shortcdn.com/file/devopsish/china-89.pdf) on the Chinese calendar, Twitter suspended the accounts of Chinese political commentators in what it said was an accident."
 
 [Kubernetes jobs: 11 salary stats to see](https://enterprisersproject.com/article/2019/5/kubernetes-jobs-11-salary-statistics) — "Kubernetes jobs go by many titles, which makes it hard to unearth reliable compensation data. We've done some salary statistics homework for you"
 
