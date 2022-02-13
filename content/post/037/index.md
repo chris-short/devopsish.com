@@ -33,7 +33,7 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 [Database provider MongoDB has filed confidentially for IPO](https://techcrunch.com/2017/08/15/database-provider-mongodb-has-filed-confidentially-for-ipo/): The company has submitted an S-1 filing in the past few weeks and is aiming to go public before the end of the year.
 
-![I think I'm going to start lobbying hard for less midday meetings](/037/developer-meetings.png)  
+![I think I'm going to start lobbying hard for less midday meetings](https://shortcdn.com/file/devopsish/developer-meetings.png)  
 *I think I'm going to start lobbying hard for less midday meetings*
 
 ## Process

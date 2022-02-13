@@ -49,7 +49,7 @@ Where: From your desktop, laptop, or mobile device
 
 ## People
 
-[![Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities](/081/kim-crayton-unintended-consequences.jpg "Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities")
+[![Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities](https://shortcdn.com/file/devopsish/kim-crayton-unintended-consequences.jpg "Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities")
 Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities](https://youtu.be/t8F12gZJ4AQ)
 
 [Let's actually talk about Diversity](https://blog.heptio.com/lets-actually-talk-about-diversity-b882cb74c2a7): Shanis Windland of Heptio talks about real life diversity issues. Her perspective as a military brat in tech is especially refreshing to me.

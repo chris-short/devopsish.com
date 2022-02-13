@@ -84,5 +84,5 @@ A utility company made a horrific mistake this week by letting a lesser experien
 
 ## DevOps'ish One-Liner of the Week
 
-![This is so great! Thank you, David Neal](/016/melts-in-production-not-in-development.jpg)  
+![This is so great! Thank you, David Neal](https://shortcdn.com/file/devopsish/melts-in-production-not-in-development.jpg)  
 *This is so great! Thank you, David Neal*

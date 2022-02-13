@@ -25,4 +25,4 @@ On November 6th, we will be supporting the live online All Day DevOps conference
 [**KubeCon + CloudNativeCon North America 2019**](https://cshort.co/kcna19)  
 The Cloud Native Computing Foundation's flagship conference gathers adopters and technologists from leading open source and cloud native communities in San Diego, California from November 18-21, 2019. Join Kubernetes, Prometheus, Envoy, CoreDNS, containerd, Fluentd, OpenTracing, gRPC, CNI, Jaeger, Notary, TUF, Vitess, NATS, Linkerd, Helm, Rook, Harbor, etcd, Open Policy Agent, CRI-O, and TiKV as the community gathers for four days to further the education and advancement of cloud native computing. Use code *KCNACSN10* at checkout for a 10% discount on KubeCon Corporate Registration.
 
-[![Yosemite National Park Tunnel View](/150/tunnel-view-500.jpg)](/150/tunnel-view.jpg)
+[![Yosemite National Park Tunnel View](https://shortcdn.com/file/devopsish/tunnel-view-500.jpg)](https://shortcdn.com/file/devopsish/tunnel-view.jpg)

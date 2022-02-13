@@ -24,7 +24,7 @@ Oh look! There's a 666 in the epoch this week... Great! But, as one of my co-wor
 
 [Brendan Gregg](https://twitter.com/brendangregg) built out a very simple page containing ALL his works on [Linux Performance](http://www.brendangregg.com/linuxperf.html). I do not think you could bookmark this page enough.
 
-![[Linux Performance](http://www.brendangregg.com/linuxperf.html) by [Brendan Gregg](https://twitter.com/brendangregg)](/008/linux-observability-tools.png)  *[Linux Performance](http://www.brendangregg.com/linuxperf.html) by [Brendan Gregg](https://twitter.com/brendangregg)*
+![[Linux Performance](http://www.brendangregg.com/linuxperf.html) by [Brendan Gregg](https://twitter.com/brendangregg)](https://shortcdn.com/file/devopsish/linux-observability-tools.png)  *[Linux Performance](http://www.brendangregg.com/linuxperf.html) by [Brendan Gregg](https://twitter.com/brendangregg)*
 
 ## Department of Data Defense
 

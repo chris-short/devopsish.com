@@ -106,7 +106,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest): Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 
-[![XKCD: Containers](/074/containers.png)](https://xkcd.com/1988/)
+[![XKCD: Containers](https://shortcdn.com/file/devopsish/containers.png)](https://xkcd.com/1988/)
 
 ## Jobs
 
