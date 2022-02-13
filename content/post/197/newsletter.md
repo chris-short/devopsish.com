@@ -115,6 +115,6 @@ K8Spin multi-tenant operator
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish 197 Tweet of the Week](["https://shortcdn.com/file/devopsish/197-devopsish-tweet-of-the-week.png)](https://twitter.com/bryanl/status/1339951522092900352)
+[![DevOps'ish 197 Tweet of the Week](https://shortcdn.com/file/devopsish/197-devopsish-tweet-of-the-week.png)](https://twitter.com/bryanl/status/1339951522092900352)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/197/notes/) to see what didn't make it to the newsletter.

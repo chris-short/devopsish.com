@@ -91,4 +91,4 @@ Sunday, I flew back to NC to help close and move out of our house. It has turned
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish 033 Tweet of the Week](["https://shortcdn.com/file/devopsish/033-devopsish-tweet-of-the-week.png)](https://twitter.com/krisnova/status/888751291802898433)
+[![DevOps'ish 033 Tweet of the Week](https://shortcdn.com/file/devopsish/033-devopsish-tweet-of-the-week.png)](https://twitter.com/krisnova/status/888751291802898433)

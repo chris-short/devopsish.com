@@ -59,7 +59,7 @@ Email is **hard**. Run a public facing mail server with multiple users and you'l
 ## Tools
 
 [How Kubernetes Validates Custom Resources](https://danielmangum.com/posts/how-kubernetes-validates-custom-resources/)  
-![Image by Daniel Mangum — 'This post is about one part of one handler in one API server in the Kubernetes API server chain.'](["https://shortcdn.com/file/devopsish/k8s-resource-validation.webp)
+![Image by Daniel Mangum — 'This post is about one part of one handler in one API server in the Kubernetes API server chain.'](https://shortcdn.com/file/devopsish/k8s-resource-validation.webp)
 
 [Pulumi: Infrastructure as Code](https://www.pulumi.com/?utm_source=devopsish&utm_medium=sponsored-link&utm_campaign=iac)
 Developing on the cloud is complex. What if you could use your existing programming knowledge to build, deploy, and manage cloud infrastructure using your favorite languages and tools? Pulumi is a cloud engineering platform that lets you write infrastructure as code in any programming language and on any cloud platform. Get started for free at [pulumi.com](https://www.pulumi.com/?utm_source=devopsish&utm_medium=sponsored-link&utm_campaign=iac) *SPONSORED*
@@ -90,6 +90,6 @@ A curated list of awesome console services (reachable via HTTP, HTTPS and other 
 
 ## DevOps'ish Tweet of the Week
 
-[![Liz Fong-Jones (方禮真) (@lizthegrey) on Twitter) "Dear event organizers, until rapid test+antiviral is a thing, your event is not accessible to immunocompromised unless you have: (1) mandatory mask/vaxx/rapid test for entry, (2) physical distancing in seating _and_ lines/pickup, (3) distancing preference wristbands for mingling"](["https://shortcdn.com/file/devopsish/243-devopsish-tweet-of-the-week.webp)](https://twitter.com/lizthegrey/status/1458491938319974403)
+[![Liz Fong-Jones (方禮真) (@lizthegrey) on Twitter) "Dear event organizers, until rapid test+antiviral is a thing, your event is not accessible to immunocompromised unless you have: (1) mandatory mask/vaxx/rapid test for entry, (2) physical distancing in seating _and_ lines/pickup, (3) distancing preference wristbands for mingling"](https://shortcdn.com/file/devopsish/243-devopsish-tweet-of-the-week.webp)](https://twitter.com/lizthegrey/status/1458491938319974403)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/243/notes/) to see what didn't make it to the newsletter but are still worth your time.

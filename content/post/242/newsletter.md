@@ -124,6 +124,6 @@ Neovim plugin for GitHub Copilot. For what it's worth, I've stopped using Copilo
 
 I cannot stress enough how a Dilbert cartoon will immediately disqualify whatever it is you're trying to accomplish.
 
-[![matty stratton, charismatic grifter (@mattstratton) on Twitter) "Reminder to remove all Dilbert references / comics from your slides, decks, and everything. It's not even that funny anymore, but the creator is one of the worst people in existence."](["https://shortcdn.com/file/devopsish/242-devopsish-tweet-of-the-week.webp)](https://twitter.com/mattstratton/status/1456137519645483011)
+[![matty stratton, charismatic grifter (@mattstratton) on Twitter) "Reminder to remove all Dilbert references / comics from your slides, decks, and everything. It's not even that funny anymore, but the creator is one of the worst people in existence."](https://shortcdn.com/file/devopsish/242-devopsish-tweet-of-the-week.webp)](https://twitter.com/mattstratton/status/1456137519645483011)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/242/notes/) to see what didn't make it to the newsletter but are still worth your time.

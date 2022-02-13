@@ -79,4 +79,4 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 ## DevOps'ish Tweet of the Week
 
-[![Ian Coldwater 📦💥 @IanColdwater on Twitter) "Stop Using /v1beta1/"](["https://shortcdn.com/file/devopsish/162-devopsish-tweet-of-the-week.webp)](https://twitter.com/IanColdwater/status/1213607102595424258)
+[![Ian Coldwater 📦💥 @IanColdwater on Twitter) "Stop Using /v1beta1/"](https://shortcdn.com/file/devopsish/162-devopsish-tweet-of-the-week.webp)](https://twitter.com/IanColdwater/status/1213607102595424258)

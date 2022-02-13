@@ -97,6 +97,6 @@ A time traveling resource monitor for modern Linux systems
 
 ## DevOps'ish Tweet of the Week
 
-[![Alyssa Miller 👑 Duchess of Hackington (@AlyssaM_InfoSec) on Twitter: "OWASP Top 10:2024 A10: Meatbags, A9: Meat Popsicles, A8: Carbon and Water Based Oxygen Suckers, A7: Personage, A6: Intelligent Bipeds, A5: Mortals, A4: Hominids, A3: Homo sapiens, A2: People, A1: Humans"](["https://shortcdn.com/file/devopsish/237-devopsish-tweet-of-the-week.png)](https://twitter.com/AlyssaM_InfoSec/status/1442566442755440644)
+[![Alyssa Miller 👑 Duchess of Hackington (@AlyssaM_InfoSec) on Twitter: "OWASP Top 10:2024 A10: Meatbags, A9: Meat Popsicles, A8: Carbon and Water Based Oxygen Suckers, A7: Personage, A6: Intelligent Bipeds, A5: Mortals, A4: Hominids, A3: Homo sapiens, A2: People, A1: Humans"](https://shortcdn.com/file/devopsish/237-devopsish-tweet-of-the-week.png)](https://twitter.com/AlyssaM_InfoSec/status/1442566442755440644)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/237/notes/) to see what didn't make it to the newsletter but are still worth your time.

@@ -21,7 +21,7 @@ In Thomas L. Friedman's [*Thank You For Being Late: An Optimist's Guide to Thriv
 
 *Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
 
-![Technology is outpacing human adaptability](["https://shortcdn.com/file/devopsish/Thank_You_graph_04a.9_fmt.jpg)
+![Technology is outpacing human adaptability](https://shortcdn.com/file/devopsish/Thank_You_graph_04a.9_fmt.jpg)
 
 Friedman goes on to explain that the roles of education and government today should be to figure out how to lift the line of human adaptability to be able to keep pace with technology.
 

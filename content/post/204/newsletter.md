@@ -102,6 +102,6 @@ OPA!!! And Gatekeeper too.
 
 ## DevOps'ish Tweet of the Week
 
-[![reminder - 'i like to make money' is a good enough reason to want to be paid fairly. — jill wohlner (@JillWohlner) February 3, 2021](["https://shortcdn.com/file/devopsish/204-devopsish-tweet-of-the-week.png)](https://twitter.com/JillWohlner/status/1357082152094040064)
+[![reminder - 'i like to make money' is a good enough reason to want to be paid fairly. — jill wohlner (@JillWohlner) February 3, 2021](https://shortcdn.com/file/devopsish/204-devopsish-tweet-of-the-week.png)](https://twitter.com/JillWohlner/status/1357082152094040064)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/204/notes/) to see what didn't make it to the newsletter.

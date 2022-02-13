@@ -91,6 +91,6 @@ Top-like interface for container metrics
 
 ## DevOps'ish Tweet of the Week
 
-[![@__apf__ on Twitter: "My 9 book picks for engineering leaders 👇"](["https://shortcdn.com/file/devopsish/213-devopsish-tweet-of-the-week.png)](https://twitter.com/__apf__/status/1379973544759582725)
+[![@__apf__ on Twitter: "My 9 book picks for engineering leaders 👇"](https://shortcdn.com/file/devopsish/213-devopsish-tweet-of-the-week.png)](https://twitter.com/__apf__/status/1379973544759582725)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/213/notes/) to see what didn't make it to the newsletter but are still worth your time.

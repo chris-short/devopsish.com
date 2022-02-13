@@ -105,7 +105,7 @@ Rules engine for cloud security, cost optimization, and governance, DSL in yaml 
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish Tweet of the Week from @ChrisShort](["https://shortcdn.com/file/devopsish/190-devopsish-tweet-of-the-week.png)](https://twitter.com/ChrisShort/status/1322191857187721217)
+[![DevOps'ish Tweet of the Week from @ChrisShort](https://shortcdn.com/file/devopsish/190-devopsish-tweet-of-the-week.png)](https://twitter.com/ChrisShort/status/1322191857187721217)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/190/notes/) to see what didn't make it to the newsletter.
 

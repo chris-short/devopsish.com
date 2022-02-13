@@ -122,6 +122,6 @@ An interactive TLS-capable intercepting HTTP proxy for penetration testers and s
 
 I know AWS has a UX team. I don't know if AWS listens to their UX team though.
 
-[![C:\hristina (@divinetechygirl) on Twitter: "Does AWS make AWS confusing on purpose or ¯\_(ツ)_/¯¯¯? Like you shouldn't have to study for a cert just to figure out how to do things in the UI 🤦🏽‍♀️ Please note: I do not need help and figured out how to do what I needed to do but it was definitely not straight forward."](["https://shortcdn.com/file/devopsish/229-devopsish-tweet-of-the-week.png)](https://twitter.com/divinetechygirl/status/1422954646918864905)
+[![C:\hristina (@divinetechygirl) on Twitter: "Does AWS make AWS confusing on purpose or ¯\_(ツ)_/¯¯¯? Like you shouldn't have to study for a cert just to figure out how to do things in the UI 🤦🏽‍♀️ Please note: I do not need help and figured out how to do what I needed to do but it was definitely not straight forward."](https://shortcdn.com/file/devopsish/229-devopsish-tweet-of-the-week.png)](https://twitter.com/divinetechygirl/status/1422954646918864905)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/229/notes/) to see what didn't make it to the newsletter but are still worth your time.

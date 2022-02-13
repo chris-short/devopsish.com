@@ -24,7 +24,7 @@ Let's begin the new year with the top ten stories from the past three issues of 
 1. [Operations Anti-Patterns: DevOps Solutions](https://www.manning.com/books/operations-anti-patterns-devops-solutions)
 1. [Top CI/CD resources to set you up for success](https://opensource.com/article/19/12/cicd-resources)
 
-A [CSV](https://devopsish.com(["https://shortcdn.com/file/devopsish/devopsish-2020-new-year-catch-up.csv) is available with all the links sorted by total clicks if you want to get completely up to speed.
+A [CSV](https://devopsish.com(https://shortcdn.com/file/devopsish/devopsish-2020-new-year-catch-up.csv) is available with all the links sorted by total clicks if you want to get completely up to speed.
 
 Thank you to each and every one of you. The fact you subscribe to something I write and hopefully gain something from fuels my fire. In 2020, expect some changes, like always, as DevOps'ish is iterated on more and more. I hope to continue to provide the right information, to the right people at the right time. I have a question for all DevOps'ish readers though. If I were to choose a charity to donate a portion of all proceeds from sponsorships to, what would it be? Please [use this form to make a suggestion](https://devopsi.sh/charity_suggest?utm_source=devopsish&utm_medium=email&utm_campaign=161). Thank you very much!
 

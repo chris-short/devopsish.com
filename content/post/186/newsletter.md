@@ -106,7 +106,7 @@ Disk Usage/Free Utility
 
 ## DevOps'ish Tweet of the Week
 
-[![Can we have a break between clusterfucks](["https://shortcdn.com/file/devopsish/186-devopsish-tweet-of-the-week.png)](https://twitter.com/EffinBirds/status/1312527916060737536)
+[![Can we have a break between clusterfucks](https://shortcdn.com/file/devopsish/186-devopsish-tweet-of-the-week.png)](https://twitter.com/EffinBirds/status/1312527916060737536)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/186/notes/) to see what didn't make it to the newsletter.
 

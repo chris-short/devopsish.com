@@ -105,6 +105,6 @@ Continuous profiling for analysis of CPU, memory usage over time, and down to th
 
 ## DevOps'ish Tweet of the Week
 
-[![Blažej Krajňák (@BlazejKrajnak) on Twitter: "Because of missing DNS records for Facebook.com, every device with FB app is now DDoSing recursive DNS resolvers. And it may cause overloading..."](["https://shortcdn.com/file/devopsish/238-devopsish-tweet-of-the-week.png)](https://twitter.com/blazejkrajnak/status/1445063232486531099)
+[![Blažej Krajňák (@BlazejKrajnak) on Twitter: "Because of missing DNS records for Facebook.com, every device with FB app is now DDoSing recursive DNS resolvers. And it may cause overloading..."](https://shortcdn.com/file/devopsish/238-devopsish-tweet-of-the-week.png)](https://twitter.com/blazejkrajnak/status/1445063232486531099)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/238/notes/) to see what didn't make it to the newsletter but are still worth your time.

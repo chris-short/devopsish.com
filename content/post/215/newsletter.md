@@ -94,6 +94,6 @@ Monitor your network and internet speed with Docker & Prometheus
 
 ## DevOps'ish Tweet of the Week
 
-[![@skamille on Twitter: "I genuinely love seeing work that involves taking important but unglamorous largely manual processes and adding automation as well as product-minded process improvements to turn them into something that no one minds doing anymore. It's just so beautiful"](["https://shortcdn.com/file/devopsish/215-devopsish-tweet-of-the-week.png)](https://twitter.com/skamille/status/1384910084745084930)
+[![@skamille on Twitter: "I genuinely love seeing work that involves taking important but unglamorous largely manual processes and adding automation as well as product-minded process improvements to turn them into something that no one minds doing anymore. It's just so beautiful"](https://shortcdn.com/file/devopsish/215-devopsish-tweet-of-the-week.png)](https://twitter.com/skamille/status/1384910084745084930)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/215/notes/) to see what didn't make it to the newsletter but are still worth your time.

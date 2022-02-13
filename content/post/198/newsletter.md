@@ -93,6 +93,6 @@ Monitor for the CPU Frequency Scaling under Linux.
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish 198 Tweet of the Week](["https://shortcdn.com/file/devopsish/198-devopsish-tweet-of-the-week.png)](https://twitter.com/askvirginia/status/1340431843422855172)
+[![DevOps'ish 198 Tweet of the Week](https://shortcdn.com/file/devopsish/198-devopsish-tweet-of-the-week.png)](https://twitter.com/askvirginia/status/1340431843422855172)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/198/notes/) to see what didn't make it to the newsletter.
