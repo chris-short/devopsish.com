@@ -70,7 +70,7 @@ In partnership with the team at ClearPath Strategies, [Honeycomb.io](https://www
 [Sysdig 2021 container security and usage report: Shifting left is not enough](https://sysdig.com/blog/sysdig-2021-container-security-usage-report/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201)  
 Now I need to update my Security at Cloud Native speed talk. I haven't had time to read it yet but, this report gave me a ton of ideas and insight last year. I hope for the same this year.
 
-[The Final Report on the Slack Outage](https://devopsish.com/pdf/Slack-Incident-Jan-04-2021-RCA-Final.pdf?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201)  
+[The Final Report on the Slack Outage](https://shortcdn.com/file/devopsish/Slack-Incident-Jan-04-2021-RCA-Final.pdf?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201)  
 This one jumped out at me, "We have increased the open filehandle limit on our provisioning service workers." That's a tough pill to swallow. I wouldn't imagine this NOT causing a problem of some sort frequently. Mainly capacity issues too.
 
 [Apple removes feature that allowed its apps to bypass macOS firewalls and VPNs](https://www.zdnet.com/article/apple-removes-feature-that-allowed-its-apps-to-bypass-macos-firewalls-and-vpns/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201)  
@@ -105,6 +105,6 @@ Sandstorm Kubernetes Client - Convenience tools to interact with Kubernetes
 
 ## DevOps'ish Tweet of the Week
 
-[![Meanwhile in the "lies @elastic told us" department... How it started: vs. How it's going:](/images/201-devopsish-tweet-of-the-week.png)](https://twitter.com/QuinnyPig/status/1350205491750662146?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201)
+[![Meanwhile in the "lies @elastic told us" department... How it started: vs. How it's going:](["https://shortcdn.com/file/devopsish/201-devopsish-tweet-of-the-week.png)](https://twitter.com/QuinnyPig/status/1350205491750662146?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/201/notes/) to see what didn't make it to the newsletter.

@@ -8,7 +8,7 @@ draft = false
 slug = "080"
 tags = ["devops", "cloud native", "open source", "kubernetes", "ansible", "CI/CD", "Docker"]
 title = "080: Improving the Workforce, Programming Myths, Kubernetes, New Books, and More"
-image = "/080/popping-smoke.jpg"
+image ="https://shortcdn.com/file/devopsish/popping-smoke.jpg"
 imagealt = "Popping Smoke"
 imagecap = ""
 

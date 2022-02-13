@@ -8,7 +8,7 @@ draft = false
 slug = "048"
 tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "programming", "golang", "hiring", "Docker"]
 title = "048: On Opinions, MySQL, Kubernetes and Go Tools, Much DevOps, Very More"
-image = "/048/hot-air-balloon.jpg"
+image ="https://shortcdn.com/file/devopsish/hot-air-balloon.jpg"
 imagealt = "Hot Air Balloon"
 aliases = [
     "devopsish-048-on-opinions-mysql-kubernetes-and-go-tools-much-devops-very-more-1a566c4a796d"

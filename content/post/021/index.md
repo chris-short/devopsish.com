@@ -8,7 +8,7 @@ draft = false
 slug = "021"
 tags = ["devops", "cloud native", "open source", "docker", "golang", "linux", "google", "uber", "lambda", "Docker Inc"]
 title = "021: Week of 1493524800"
-image = "/021/tranquil-lake.jpg"
+image ="https://shortcdn.com/file/devopsish/tranquil-lake.jpg"
 imagealt = "April Showers Better Bring a TON of May Flowers"
 aliases = [
     "devopsish-weekly-021-week-of-1493524800-c976f19e5099"

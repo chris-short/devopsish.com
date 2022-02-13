@@ -102,6 +102,6 @@ At this point, you should setup a process to start sinkholing these domains. I s
 
 ## DevOps'ish Tweet of the Week
 
-[![stephenaugustus on Twitter: "I'm trying to say this in the nicest way possible, but seriously, what is wrong with some of you? I've seen several tweets with people being salty about getting KubeCon talks rejected and gotten multiple reports about Program Committee members being accosted in DMs or meetings."](/images/208-devopsish-tweet-of-the-week.png)](https://twitter.com/stephenaugustus/status/1366823310873436160)
+[![stephenaugustus on Twitter: "I'm trying to say this in the nicest way possible, but seriously, what is wrong with some of you? I've seen several tweets with people being salty about getting KubeCon talks rejected and gotten multiple reports about Program Committee members being accosted in DMs or meetings."](["https://shortcdn.com/file/devopsish/208-devopsish-tweet-of-the-week.png)](https://twitter.com/stephenaugustus/status/1366823310873436160)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/208/notes/) to see what didn't make it to the newsletter but are still worth your time.

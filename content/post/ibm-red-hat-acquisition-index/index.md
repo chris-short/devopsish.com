@@ -8,7 +8,7 @@ draft = false
 slug = "ibm-red-hat-acquisition-index"
 tags = ["open source", "IBM", "Red Hat"]
 title = "DevOps'ish IBM Red Hat Acquisition Index"
-image = "/ibm-red-hat-acquisition-index/red-hat-ibm.png"
+image = "https://shortcdn.com/file/devopsish/red-hat-ibm.png"
 imagealt = "Red Hat | IBM"
 
 +++

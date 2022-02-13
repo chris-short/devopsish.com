@@ -33,7 +33,7 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 [Why I love Kubernetes Failure Stories and You Should Too by Henning Jacobs](https://youtu.be/E0GBU8Q-VFY) — "In this talk, I will walk you through our horror stories of operating 100+ clusters and share the insights we gained from incidents, failures, user reports and general observations."
 
-[DoD Enterprise DevSecOps Initiative (Software Factory)](https://devopsish.com/pdf/DoD-Enterprise-DevSecOps-Initiative-Keynote-v1.7.pdf) — Nicolas Chaillan's presentation on how the US Air Force is fielding cutting edge technologies in its operations. This is a laundry list of good tips and practices on cloud native and DevOps.
+[DoD Enterprise DevSecOps Initiative (Software Factory)](https://shortcdn.com/file/devopsish/DoD-Enterprise-DevSecOps-Initiative-Keynote-v1.7.pdf) — Nicolas Chaillan's presentation on how the US Air Force is fielding cutting edge technologies in its operations. This is a laundry list of good tips and practices on cloud native and DevOps.
 
 [4 lessons for sysadmins from The Unicorn Project](https://www.redhat.com/sysadmin/unicorn-project) — This piece by Jason Hibbets is a sysadmin's guide to getting things done well.
 
@@ -79,4 +79,4 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 ## DevOps'ish Tweet of the Week
 
-[![Ian Coldwater 📦💥 @IanColdwater on Twitter) "Stop Using /v1beta1/"](/images/162-devopsish-tweet-of-the-week.webp)](https://twitter.com/IanColdwater/status/1213607102595424258)
+[![Ian Coldwater 📦💥 @IanColdwater on Twitter) "Stop Using /v1beta1/"](["https://shortcdn.com/file/devopsish/162-devopsish-tweet-of-the-week.webp)](https://twitter.com/IanColdwater/status/1213607102595424258)

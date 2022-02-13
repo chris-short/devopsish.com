@@ -8,7 +8,7 @@ draft = false
 slug = "082"
 tags = ["devops", "cloud native", "open source", "kubernetes", "ansible", "microservices", "google", "github", "microsoft", "cloud", "Docker"]
 title = "082: Picking Winning Tech, Blue is Bad, Kubernetes, GCP Problems, VKE, Ansible, and More"
-image = "/082/IMG_4318.jpg"
+image ="https://shortcdn.com/file/devopsish/IMG_4318.jpg"
 imagealt = "Petosky State Park overlooking Lake Michigan"
 imagecap = "Petosky State Park overlooking Lake Michigan"
 

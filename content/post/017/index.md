@@ -8,7 +8,7 @@ draft = false
 slug = "017"
 tags = ["devops", "cloud native", "open source", "kubernetes", "linux", "github", "google", "containers", "Docker"]
 title = "017: Week of 1491105600"
-image = "/017/Unicorn-Farting-Rainbow-DevOps.gif"
+image ="https://shortcdn.com/file/devopsish/Unicorn-Farting-Rainbow-DevOps.gif"
 imagealt = "This Glorious GIF is Courtesy of Josh Atwell from his talk at this week's Triangle DevOps Meetup"
 aliases = [
     "devopsish-weekly-017-week-of-1491105600-9b15368745fb"

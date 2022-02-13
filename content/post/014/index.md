@@ -8,7 +8,7 @@ draft = false
 slug = "014"
 tags = ["devops", "cloud native", "open source", "detroit", "linux", "selinux", "women in tech", "google", "containers", "Docker"]
 title = "014: Week of 1489294800"
-image = "/014/my-2017-tech-influencers.png"
+image ="https://shortcdn.com/file/devopsish/my-2017-tech-influencers.png"
 imagealt = "My Tech Influencers"
 aliases = [
     "devopsish-weekly-014-week-of-1489294800-ca73bd9bd25e"

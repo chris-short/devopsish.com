@@ -47,11 +47,11 @@ Finally, thank ***you*** subscribers, friends, fans for making this project the 
 
 {{< what-is-devops >}}
 
-[nicolefv]: nicolefv-praise.png
-[jpetazzo]: jpetazzo-praise.png
-[Bashfulrobot]: Bashfulrobot-praise.png
-[kamcmahon]: kamcmahon-praise.png
-[mwoodward]: martin-woodward-praise.png
-[patrick-debois]: patrick-debois-praise.png
-[johnny-boursiquot]: johnny-boursiquot-praise.webp
-[carlisia-thompson]: carlisia-thompson-praise.webp
+[nicolefv]: https://shortcdn.com/file/devopsish/nicolefv-praise.png
+[jpetazzo]: https://shortcdn.com/file/devopsish/jpetazzo-praise.png
+[Bashfulrobot]: https://shortcdn.com/file/devopsish/Bashfulrobot-praise.png
+[kamcmahon]: https://shortcdn.com/file/devopsish/kamcmahon-praise.png
+[mwoodward]: https://shortcdn.com/file/devopsish/martin-woodward-praise.png
+[patrick-debois]: https://shortcdn.com/file/devopsish/patrick-debois-praise.png
+[johnny-boursiquot]: https://shortcdn.com/file/devopsish/johnny-boursiquot-praise.webp
+[carlisia-thompson]: https://shortcdn.com/file/devopsish/carlisia-thompson-praise.webp

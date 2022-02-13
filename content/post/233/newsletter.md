@@ -104,6 +104,6 @@ Low level HTTP server library in Rust
 
 ## DevOps'ish Tweet of the Week
 
-[![Corey Quinn (@QuinnyPig) on Twitter: "So @docker has a new monetization strategy that's definitely innovative. "Docker Desktop requires you pay them if you're at a large company," which they define as over $10 million in revenue or 250 employees."](/images/233-devopsish-tweet-of-the-week.png)](https://twitter.com/QuinnyPig/status/1432720164169076755)
+[![Corey Quinn (@QuinnyPig) on Twitter: "So @docker has a new monetization strategy that's definitely innovative. "Docker Desktop requires you pay them if you're at a large company," which they define as over $10 million in revenue or 250 employees."](["https://shortcdn.com/file/devopsish/233-devopsish-tweet-of-the-week.png)](https://twitter.com/QuinnyPig/status/1432720164169076755)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/233/notes/) to see what didn't make it to the newsletter but are still worth your time.

@@ -13,7 +13,7 @@ title = "DevOps'ish 177: The Hiatus Edition"
 
 "We should take comfort that while we may have more still to endure, better days will return. We will be with our friends again. We will be with our families again. We will meet again. But for now, I send my thanks and warmest good wishes to you all." -Queen Elizabeth II
 
-As mentioned last week, the newsletter is going on a hiatus. I'm not sure for how long, but it will be a while. Fear not, as a bonus this week, I am including my RSS reader's [OPML file](/DevOps'ish-Inoreader-Subscriptions-20200426.xml) for you to be bombarded by news constantly. I look forward to merging this with the new one I start building tomorrow.
+As mentioned last week, the newsletter is going on a hiatus. I'm not sure for how long, but it will be a while. Fear not, as a bonus this week, I am including my RSS reader's [OPML file](https://shortcdn.com/file/devopsish/DevOps'ish-Inoreader-Subscriptions-20200426.xml) for you to be bombarded by news constantly. I look forward to merging this with the new one I start building tomorrow.
 
 ## People
 

@@ -34,7 +34,7 @@ Next time salary comes up in a job interview, ask them to answer some questions 
 "When engaging internally with employees, Danfoss, a global manufacturing company, has branded its innovation process around the simple, manageable word 'idea.' While not everyone think they can be innovative, nearly everyone has at least one idea."
 
 [U.S. agency that handles Trump's secure communication suffered data breach](https://www.reuters.com/article/us-usa-defense-breach-idUSKBN20E27A)  
-Having done an enormous amount of work with DISA in the past, I'm patiently waiting for my copy of [this letter](https://devopsish.com/images/disa-pii-breach.jpg) and the next round of free, US government-issued credit monitoring service.
+Having done an enormous amount of work with DISA in the past, I'm patiently waiting for my copy of [this letter](https://shortcdn.com/file/devopsish/disa-pii-breach.jpg) and the next round of free, US government-issued credit monitoring service.
 
 ## Process
 
@@ -73,7 +73,7 @@ Monitor and manage your dynamic Kubernetes container fleet with Datadog. Use the
 [Stop making data scientists manage Kubernetes clusters](https://towardsdatascience.com/stop-making-data-scientists-manage-kubernetes-clusters-53c3b584cb08)  
 The case for a career trajectory that has job titles like, Machine learning infrastructure engineer, Data science platform engineer, and ML production engineer. I could definitely get down with this line of work.
 
-[Census II](https://devopsish.com/pdf/census_ii_vulnerabilities_in_the_core.pdf)  
+[Census II](https://shortcdn.com/file/devopsish/census_ii_vulnerabilities_in_the_core.pdf)  
 "Census II identifies the most commonly used free and open source software (FOSS) components in production applications and begins to examine them for potential vulnerabilities, which can inform actions to sustain the long-term security and health of FOSS." I'm actually a little surprised at this list. I figured there would be things like NTP and DNS knowledge.
 
 [COBOL stays top of mind for businesses in 2020](https://www.techradar.com/news/cobol-remains-an-important-programming-priority)  

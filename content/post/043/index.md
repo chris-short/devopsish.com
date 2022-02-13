@@ -8,7 +8,7 @@ draft = false
 slug = "043"
 tags = ["devops", "cloud native", "open source", "kubernetes", "cloud computing", "linux", "google", "ntp", "containers", "Docker", "rootless containers"]
 title = "043: Sleep, DevOps README.md, Microsoft, Kubernetes, and More!"
-image = "/043/fence-dog.jpg"
+image ="https://shortcdn.com/file/devopsish/fence-dog.jpg"
 imagealt = "Is your organization a learning organization?"
 aliases = [
     "devopsish-043-sleep-devops-readme-md-microsoft-kubernetes-and-more-ea520659e5d5"

@@ -8,7 +8,7 @@ draft = false
 slug = "solarwinds-supply-chain-compromise"
 tags = ["Solarwinds Orion", "Solarwinds", "supply chain", "compromise", "hack", "DevOps", "Microsoft", "security", "spied", "Russia", "hackers", "spy", "backdoor", "breach", "Orion", "CISA", "advisory"]
 title = "DevOps'ish Solarwinds supply chain compromise Index"
-image = "/solarwinds-supply-chain-compromise/sw-logo.svg"
+image = "https://shortcdn.com/file/devopsish/sw-logo.svg"
 imagealt = "Solarwinds"
 
 +++

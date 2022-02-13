@@ -116,6 +116,6 @@ Wasm powered Jupyter running in the browser 💡
 
 ## DevOps'ish Tweet of the Week
 
-[![Jennifer Davis @sigje on Twitter: "I wish instead of "remote work" we started talking about distributed teams." 🧵](/images/221-devopsish-tweet-of-the-week.png)](https://twitter.com/sigje/status/1401268238739120131)
+[![Jennifer Davis @sigje on Twitter: "I wish instead of "remote work" we started talking about distributed teams." 🧵](["https://shortcdn.com/file/devopsish/221-devopsish-tweet-of-the-week.png)](https://twitter.com/sigje/status/1401268238739120131)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/221/notes/) to see what didn't make it to the newsletter but are still worth your time.

@@ -8,7 +8,7 @@ draft = false
 slug = "042"
 tags = ["devops", "cloud native", "open source", "interview", "infrastructure", "cloud storage", "patents", "intel", "hashicorp", "Docker"]
 title = "042: Build vs. Buy, AWS Per-Second Billing, Hashicorp, Red Hat's Patent Promise and More"
-image = "/042/chroma-macbook.jpg"
+image ="https://shortcdn.com/file/devopsish/chroma-macbook.jpg"
 imagealt = "Chroma lit Macbook"
 aliases = [
     "devopsish-042-build-vs-buy-aws-per-second-billing-hashicorp-red-hat-s-patent-promise-and-more-a65dbf6fcbaf"

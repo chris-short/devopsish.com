@@ -8,7 +8,7 @@ draft = false
 slug = "061"
 tags = ["devops", "cloud native", "open source", "kubernetes", "detroit", "observability", "spectre", "password management", "containers"]
 title = "061: 🔥 Week, CoreOS Acquisition, 20 Years of Open Source, Heptio's Undistribution, and..."
-image = "/061/devopsish-061.png"
+image ="https://shortcdn.com/file/devopsish/devopsish-061.png"
 imagealt = "My Life is Dope and I Do Dope Shit"
 aliases = [
     "devopsish-061-week-coreos-acquisition-20-years-of-open-source-heptio-s-undistribution-and-4f63428fc1b1"

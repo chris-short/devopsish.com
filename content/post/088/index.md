@@ -103,4 +103,4 @@ The expanding role that business leaders expect from IT comes with many challeng
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish 088 Tweet of the Week](/images/088-devopsish-tweet-of-the-week.png)](https://twitter.com/davecheney/status/1028142599750578176)
+[![DevOps'ish 088 Tweet of the Week](["https://shortcdn.com/file/devopsish/088-devopsish-tweet-of-the-week.png)](https://twitter.com/davecheney/status/1028142599750578176)

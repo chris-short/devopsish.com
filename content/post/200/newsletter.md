@@ -86,6 +86,6 @@ A fast TCP/UDP tunnel over HTTP
 
 ## DevOps'ish Tweet of the Week
 
-[![I was at Amzn in 2000 when the internet bubble popped. Capital markets dried up & we were burning $1B/yr. Our biggest expense was datacenter -> expensive Sun servers. We spent a year ripping out Sun & replacing with HP/Linux, which formed the foundation for AWS. The backstory:](/images/200-devopsish-tweet-of-the-week.png)](https://twitter.com/DanRose999/status/1347677573900242944)
+[![I was at Amzn in 2000 when the internet bubble popped. Capital markets dried up & we were burning $1B/yr. Our biggest expense was datacenter -> expensive Sun servers. We spent a year ripping out Sun & replacing with HP/Linux, which formed the foundation for AWS. The backstory:](["https://shortcdn.com/file/devopsish/200-devopsish-tweet-of-the-week.png)](https://twitter.com/DanRose999/status/1347677573900242944)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/198/notes/) to see what didn't make it to the newsletter.

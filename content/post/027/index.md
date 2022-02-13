@@ -8,7 +8,7 @@ draft = false
 slug = "027"
 tags = ["devops", "cloud native", "open source", "patents", "intel", "linux", "uber"]
 title = "027: Week of 1497153600"
-image = "/027/grinder-sparks.jpg"
+image ="https://shortcdn.com/file/devopsish/grinder-sparks.jpg"
 imagealt = "There is no such thing as a completed DevOps transition."
 aliases = [
     "devopsish-027-week-of-1497153600-5997c150660"

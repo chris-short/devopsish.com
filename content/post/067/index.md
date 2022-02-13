@@ -8,7 +8,7 @@ draft = false
 slug = "067"
 tags = ["devops", "cloud native", "open source", "google cloud", "azure", "cncf", "kubernetes", "microsoft", "security", "Docker"]
 title = "067: Microsoft Blowing It, Kubernetes security, NATS, skaffold, and More!"
-image = "/067/view-from-gke-office.jpg"
+image ="https://shortcdn.com/file/devopsish/view-from-gke-office.jpg"
 imagealt = "View of Bay Area from GKE Office in Sunnyvale"
 imagecap = "View of Bay Area from GKE Office in Sunnyvale"
 

@@ -8,7 +8,7 @@ draft = false
 slug = "037"
 tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "detroit", "linux", "github", "google", "Docker"]
 title = "037: Google, Debian, MongoDB, Kubernetes, and More!"
-image = "/037/raspberry-pi-boards.jpg"
+image ="https://shortcdn.com/file/devopsish/raspberry-pi-boards.jpg"
 imagealt = "Raspberry Pi Boards"
 aliases = [
     "devopsish-037-google-debian-mongodb-kubernetes-and-more-ce2f96fa004c"

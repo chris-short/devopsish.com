@@ -11,7 +11,7 @@ title = "DevOps'ish 184"
 
 +++
 
-[![LAMBDA - A Serverless Musical (Hamilton "My Shot" Parody)](/images/LAMBDA-A-Serverless-Musical-Hamilton-My-Shot-Parody.png)](https://youtu.be/zMua0cuhFnc?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_184)
+[![LAMBDA - A Serverless Musical (Hamilton "My Shot" Parody)](["https://shortcdn.com/file/devopsish/LAMBDA-A-Serverless-Musical-Hamilton-My-Shot-Parody.png)](https://youtu.be/zMua0cuhFnc?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_184)
 
 This is quite clever.
 

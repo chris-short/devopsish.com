@@ -110,6 +110,6 @@ A powerful testing tool for Kubernetes clusters.
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish 192 Tweet of the Week](/images/192-devopsish-tweet-of-the-week.png)](https://twitter.com/gvanrossum/status/1326932991566700549)
+[![DevOps'ish 192 Tweet of the Week](["https://shortcdn.com/file/devopsish/192-devopsish-tweet-of-the-week.png)](https://twitter.com/gvanrossum/status/1326932991566700549)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/192/notes/) to see what didn't make it to the newsletter.
