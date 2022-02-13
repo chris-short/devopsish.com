@@ -21,9 +21,9 @@ Free. No strings attached to this download. DevOps'ish is offering this eBook fo
 
 Download *What is DevOps* as an [**ePub**](https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.epub) or [**PDF**](https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.pdf)
 
-[![Free "What is DevOps" eBook by Chris Short](https://shortcdn.com/file/devopsish/What-is-DevOps-eBook_landing-page.webp)]https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.pdf)
+[![Free "What is DevOps" eBook by Chris Short](https://shortcdn.com/file/devopsish/What-is-DevOps-eBook_landing-page.webp)](https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.pdf)
 
-Download *What is DevOps* as an [**ePub**](https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.epub) or [**PDF**]https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.pdf)
+Download *What is DevOps* as an [**ePub**](https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.epub) or [**PDF**](https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.pdf)
 
 [![App Icon Apple Books](https://shortcdn.com/file/devopsish/standard.webp)](https://books.apple.com/us/book/what-is-devops/id1567673806?itscg=30200&amp;itsct=books_box_appicon&amp;ct=books_what_is_dev_ops&amp;ls=1)  
 Also available on [Apple Books](https://books.apple.com/us/book/what-is-devops/id1567673806?itscg=30200&amp;itsct=books_box_appicon&amp;ct=books_what_is_dev_ops&amp;ls=1)
