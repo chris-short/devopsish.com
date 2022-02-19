@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2018"]
 date = 2018-04-08T07:00:00Z
-description = ""
+description = "Not the Postmortem We Wanted to Run"
 draft = false
 slug = "070"
-tags = ["devops", "cloud native", "open source", "youtube shooting", "devsecops", "kubernetes", "diveristy", "containers", "Docker"]
+tags = ["Kubernetes", "DevOps", "open source", "cloud", "cloud native", "security", "containers", "people", "work", "DevOpsDays", "Google", "application", "postmortem", "Arm", "Docker", "Mac", "diversity", "deploy", "shooting", "practice", "performance", "Apple", "compute", "data", "Atlanta", "infrastructure", "ChefConf", "Toronto", "code", "AWS", "DevSecOps", "GitHub", "git", "Intel"]
 title = "070: Not the Postmortem We Wanted to Run"
 image ="https://shortcdn.com/file/devopsish/070.jpg"
 imagealt = "Not the Postmortem We Wanted to Run"
