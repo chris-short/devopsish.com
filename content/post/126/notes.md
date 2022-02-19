@@ -56,5 +56,3 @@ title = "DevOps'ish 126 Notes"
 [How to Stop Worrying About What Other People Think of You](https://hbr.org/2019/05/how-to-stop-worrying-about-what-other-people-think-of-you)
 
 [GitLab's journey from Azure to GCP | GitLab](https://about.gitlab.com/2019/05/02/gitlab-journey-from-azure-to-gcp/)
-
-[Docker - Docker Hub Maintenance - May 2019](https://success.docker.com/article/docker-hub-maintenance)

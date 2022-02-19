@@ -49,7 +49,7 @@ The rapid adoption of Kubernetes for business-critical operations is driving new
 [How Local Fonts Can Save The Environment](https://kevq.uk/how-local-fonts-can-save-the-environment/)  
 This article talks about how creators of web sites have a responsibility to the planet too. The [Website Carbon Calculator](https://www.websitecarbon.com/) is pretty dope too.
 
-[Docker Hub Image Retention Policy Delayed, Subscription Updates](https://www.docker.com/blog/docker-hub-image-retention-policy-delayed-and-subscription-updates/)  
+[Docker Hub Image Retention Policy Delayed, Subscription Updates](https://petty.company/blog/docker-hub-image-retention-policy-delayed-and-subscription-updates/)  
 Docker's gonna Docker.
 
 [Startups, It’s Time to Think Like Camels — Not Unicorns](https://hbr.org/2020/10/startups-its-time-to-think-like-camels-not-unicorns)  

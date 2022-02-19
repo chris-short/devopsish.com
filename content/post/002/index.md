@@ -26,7 +26,7 @@ Linus' gift to the DevOps world came in the form of [Kernel 4.9](http://www.mail
 
 [Kubernetes 1.5 is out](http://blog.kubernetes.io/2016/12/kubernetes-1.5-supporting-production-workloads.html)! PetSet is now called StatefulSet (beta), Windows server containers are available, and a slew of other features are now available.
 
-[Docker spun out containerd](https://blog.docker.com/2016/12/introducing-containerd/), its core container runtime, into a standalone product, "and will be donating it to a neutral foundation early next year". This is big news especially when you consider [Alibaba, AWS, Google, IBM and Microsoft are all onboard the containerd train](https://blog.docker.com/2016/12/containerd-core-runtime-component/).
+[Docker spun out containerd](https://petty.company/blog/introducing-containerd/), its core container runtime, into a standalone product, "and will be donating it to a neutral foundation early next year". This is big news especially when you consider [Alibaba, AWS, Google, IBM and Microsoft are all onboard the containerd train](https://petty.company/blog/containerd-core-runtime-component/).
 
 [CoreOS Linux has rebranded itself to Container Linux](https://coreos.com/blog/tectonic-self-driving.html). The CoreOS team can do what they want as far as branding but I honestly think this is going to create some confusion in the marketplace. Think about explaining to an overzealous CTO who wants to use containers that Container Linux might not be the best option.
 

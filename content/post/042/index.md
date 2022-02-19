@@ -63,7 +63,7 @@ As mentioned in [DevOps'ish 037](/037/), MongoDB, a database software company ba
 
 [Per-Second Billing for EC2 Instances and EBS Volumes](https://aws.amazon.com/blogs/aws/new-per-second-billing-for-ec2-instances-and-ebs-volumes/): **Huge** news for those of us starting to do medium length, CPU intensive workloads for our data science teams.
 
-[Docker Official Images are now Multi-platform](https://blog.docker.com/2017/09/docker-official-images-now-multi-platform/): Docker CE and EE will pull and run the correct hello-world image whether that's for x86–64 Linux, Windows, ARM, IBM Z mainframes or any other system where Docker runs.
+[Docker Official Images are now Multi-platform](https://blog.petty.company/2017/09/docker-official-images-now-multi-platform/): Docker CE and EE will pull and run the correct hello-world image whether that's for x86–64 Linux, Windows, ARM, IBM Z mainframes or any other system where Docker runs.
 
 [kris-nova/terraformctl](https://github.com/kris-nova/terraformctl): Running Terraform in Kubernetes as a controller
 

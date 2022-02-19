@@ -87,7 +87,7 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [Ubuntu 17.10 (Artful Aardvark) Released](http://releases.ubuntu.com/17.10/)
 
-[Docker Platform and Moby Project add Kubernetes](https://blog.docker.com/2017/10/kubernetes-docker-platform-and-moby-project/)
+[Docker Platform and Moby Project add Kubernetes](https://petty.company/blog/kubernetes-docker-platform-and-moby-project/)
 
 ["Docker doesn't want to be replaced as the container runtime of choice"](https://jaxenter.com/docker-captain-coleman-interview-138098.html)
 

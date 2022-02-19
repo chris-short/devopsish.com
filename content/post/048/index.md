@@ -95,8 +95,6 @@ Ashley McNamara led Microsoft Azure OpenDev and [the entire event is available f
 
 [Docker: Useful Command Line Stuff](http://www.revsys.com/tidbits/docker-useful-command-line-stuff/)
 
-[Tips and Tricks of the Docker Captains](https://blog.docker.com/2017/11/tips-tricks-docker-captains/): "The motivation for the talk was to enable users to quickly gain a higher level of proficiency and understanding in Docker."
-
 [Go Funcs — Baby-Gopher's Visual Guide](https://blog.learngoprogramming.com/golang-funcs-params-named-result-values-types-pass-by-value-67f4374d9c0a): Easily understand Go funcs with visuals.
 
 [Fastly Varnish](http://www.integralist.co.uk/posts/fastly-varnish/) by [Mark McDonnell](http://www.integralist.co.uk/): "This post is about Varnish and explaining a couple of specific features (such as hit-for-pass and serving stale) and how they work in relation to Fastly's implementation of Varnish."

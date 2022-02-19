@@ -38,7 +38,7 @@ A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for
 
 ## Process
 
-[Dockerize a .NET Core application](https://docs.docker.com/engine/examples/dotnetcore/): Develop and run your ASP.NET Core apps cross-platform on Windows, MacOS and Linux. ASP.NET Core apps can run on .NET Core or on the full .NET Framework.
+[Dockerize a .NET Core application](https://docs.petty.company/samples/dotnetcore/): Develop and run your ASP.NET Core apps cross-platform on Windows, MacOS and Linux. ASP.NET Core apps can run on .NET Core or on the full .NET Framework.
 
 [How Microsoft brought SQL Server to Linux](https://techcrunch.com/2017/07/17/how-microsoft-brought-sql-server-to-linux/): "Talking to enterprises, it became clear that doing this was necessary. We were forcing customers to use Windows as their platform of choice."
 

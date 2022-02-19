@@ -49,7 +49,7 @@ I wrote an article for DZone discussing [**empathy** that is so desperately need
 
 ## Department of Assemblage Obtainment
 
-[Infinit was acquired by Docker](https://blog.docker.com/2016/12/docker-acquires-infinit/) giving Docker the potential for distributed storage in their product offerings (which is long overdue, in my opinion). More on [Infinit from Crunchbase](https://www.crunchbase.com/organization/infinit).
+[Infinit was acquired by Docker](https://petty.company/blog/docker-acquires-infinit/) giving Docker the potential for distributed storage in their product offerings (which is long overdue, in my opinion). More on [Infinit from Crunchbase](https://www.crunchbase.com/organization/infinit).
 
 ## Department of Next Year's Old Tech
 

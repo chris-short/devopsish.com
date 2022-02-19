@@ -51,8 +51,6 @@ I'm speaking at the O'Reilly Infrastructure & Ops Conference this year. But, did
 
 [Saying 'No' to burnout as an open source maintainer | Jeff Geerling](https://www.jeffgeerling.com/blog/2020/saying-no-burnout-open-source-maintainer)
 
-[Docker Donates the cnab-to-oci Library to cnab.io - Docker Blog](https://www.docker.com/blog/docker-donates-cnab-to-oci-library/)
-
 [curl is 8000 days old | daniel.haxx.se](https://daniel.haxx.se/blog/2020/02/13/curl-is-8000-days-old/)
 
 [Urgent Patch: Istio Authentication Vulnerability Could Leave Sensitive Data Exposed - The New Stack](https://thenewstack.io/urgent-patch-istio-authentication-vulnerability-could-leave-sensitive-data-exposed/)

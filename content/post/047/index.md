@@ -104,7 +104,7 @@ Corey Quinn's [**Last Week in AWS**](https://ref.lastweekinaws.com/7h1z3x): You 
 
 [Journaling Kafka messages with S3 connector and Minio](https://blog.minio.io/journaling-kafka-messages-with-s3-connector-and-minio-83651a51045d)
 
-[What is Notary and why is it important to CNCF?](https://blog.docker.com/2017/10/notary-important-cncf/)
+[What is Notary and why is it important to CNCF?](https://petty.company/blog/notary-important-cncf/)
 
 [Build a Kubernetes Cluster on Google Cloud Platform with Terraform](http://blog.adron.me/articles/terraform-kubernetes-gcp/)
 

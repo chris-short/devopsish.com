@@ -16,7 +16,7 @@ aliases = [
 
 +++
 
-Not quite sure what Docker is doing? Few people are. Docker is still Docker except when it's [Moby](https://mobyproject.org/). Moby is open source and Docker isn't (kind of). According to the [official Moby Project announcement](https://blog.docker.com/2017/04/introducing-the-moby-project/), Moby Project is **NEW**! But, Moby Project is actually the new [upstream](https://chrisshort.net/upstream-vs-downstream/) for the Docker project. Interestingly enough, the Moby Project exists to create "An open framework to assemble specialized container systems without reinventing the wheel." (Emphasis added.) The best analysis of the whole S.N.A.F.U. [fittingly comes from The Register](https://www.theregister.co.uk/2017/04/21/docker_renames_open_source_code_moby/).
+Not quite sure what Docker is doing? Few people are. Docker is still Docker except when it's [Moby](https://mobyproject.org/). Moby is open source and Docker isn't (kind of). According to the [official Moby Project announcement](https://petty.company/blog/introducing-the-moby-project/), Moby Project is **NEW**! But, Moby Project is actually the new [upstream](https://chrisshort.net/upstream-vs-downstream/) for the Docker project. Interestingly enough, the Moby Project exists to create "An open framework to assemble specialized container systems without reinventing the wheel." (Emphasis added.) The best analysis of the whole S.N.A.F.U. [fittingly comes from The Register](https://www.theregister.co.uk/2017/04/21/docker_renames_open_source_code_moby/).
 
 I used [Comic Sans](https://en.wikipedia.org/wiki/Comic_Sans) in the above image because this is a PR fustercluck. The worst part of the announcement was that it was timed REALLY poorly (or not at all). I learned of it when I click a GitHub issue for Docker and it took me to [github.com/moby/moby/issues/4717](https://github.com/moby/moby/issues/4717). I legitimately thought something was horribly wrong with GitHub. Nope! All the branding shenanigans appeared to happen all at once during DockerCon.
 
@@ -32,7 +32,7 @@ Containers are hard to explain to people because [containers aren't really a thi
 
 ## Department of Refreshment and Refurbishment
 
-[Announcing LinuxKit: A Toolkit for Building Secure, Lean AND Portable Linux Subsystems](https://blog.docker.com/2017/04/introducing-linuxkit-container-os-toolkit/) ([GitHub](https://github.com/linuxkit/linuxkit))
+[Announcing LinuxKit: A Toolkit for Building Secure, Lean AND Portable Linux Subsystems](https://petty.company/blog/introducing-linuxkit-container-os-toolkit/) ([GitHub](https://github.com/linuxkit/linuxkit))
 
 [Digitial Rebar Provision](https://github.com/digitalrebar/provision) looks to be an awesome replacement to the venerable Cobbler.
 

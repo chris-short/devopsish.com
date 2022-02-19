@@ -56,7 +56,7 @@ Try LogDNA - [Start free trial](https://logdna.com/sign-up/?utm_medium=Syndicati
 
 *Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
 
-[A Week Later, Docker Offers Scant Details on Hub Attack](https://thenewstack.io/a-week-later-docker-offers-scant-details-on-hub-attack/) — Docker did conduct [a very long maintenance](https://success.docker.com/article/docker-hub-maintenance) this week. But, it hasn't offered much in terms of additional details regarding the [Docker Hub Breach](https://devopsish.com/125/) last week. There will likely be more to this story in the future.
+[A Week Later, Docker Offers Scant Details on Hub Attack](https://thenewstack.io/a-week-later-docker-offers-scant-details-on-hub-attack/) — Docker did conduct a very long maintenance this week. But, it hasn't offered much in terms of additional details regarding the [Docker Hub Breach](https://devopsish.com/125/) last week. There will likely be more to this story in the future.
 
 [Compilation of public failure/horror stories related to Kubernetes](https://github.com/hjacobs/kubernetes-failure-stories)
 

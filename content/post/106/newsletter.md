@@ -131,7 +131,7 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 
 [Kubernetes on the Edge](https://rancher.com/blog/2018/2018-12-11-kubernetes-on-the-edge/) — The Edge is going to get more and more interesting as it becomes ever increasingly important to put compute closer to users.
 
-[Introducing the New Docker Hub](https://blog.docker.com/2018/12/the-new-docker-hub/) — You mean having seventeen repositories, one for every use case, isn't sustainable? I'm shocked!
+[Introducing the New Docker Hub](https://petty.company/blog/the-new-docker-hub/) — You mean having seventeen repositories, one for every use case, isn't sustainable? I'm shocked!
 
 ## DevOps'ish Tweet of the Week
 

@@ -18,11 +18,9 @@ title = "DevOps'ish 106 Notes"
 
 [Introducing Crossplane: Open Source Multicloud Control Plane](https://blog.upbound.io/introducing-crossplane-open-source-multicloud-control-plane/)
 
-[Mesosphere Announces Appointment of  Mike Fey as Chief Executive Officer - Mesosphere](https://mesosphere.com/blog/mesosphere-announces-mike-fey-as-chief-executive-officer/)
+[Mesosphere Announces Appointment of Mike Fey as Chief Executive Officer - Mesosphere](https://mesosphere.com/blog/mesosphere-announces-mike-fey-as-chief-executive-officer/)
 
 [Loki: Prometheus-inspired, open source logging for cloud natives | Grafana Labs Blog](https://grafana.com/blog/2018/12/12/loki-prometheus-inspired-open-source-logging-for-cloud-natives/)
-
-[Introducing the New Docker Hub - Docker Blog](https://blog.docker.com/2018/12/the-new-docker-hub/)
 
 [In annual ranking of worst passwords, ‘donald' makes its debut - The Washington Post](https://www.washingtonpost.com/technology/2018/12/13/annual-ranking-worst-passwords-donald-makes-its-debut/?utm_term=.f17b6aeda043)
 
