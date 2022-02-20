@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-02-20T07:00:00Z
-description = [""]
+description = ["Kubernetes dockershim removal work, shades of DevOps, signal jamming is still illegal (in most places), CKA tips, PostgreSQL horrors, Kubernetes on a PS4, and more"]
 draft = false
 slug = "257"
-tags = []
-title = "DevOps'ish 257: "
+tags = ["Kubernetes", "Docker", "time", "SSH", "security", "containerd", "CRI", "DevOps", "CNCF", "git", "Honeycomb", "Plaid", "dockershim", "CKA", "PostgreSQL"]
+title = "DevOps'ish 257: Kubernetes dockershim removal work, shades of DevOps, signal jamming is still illegal (in most places), CKA tips, PostgreSQL horrors, Kubernetes on a PS4, and more"
 
 +++
 
