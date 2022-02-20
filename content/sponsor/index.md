@@ -50,7 +50,7 @@ Effective 2022-02-20
 
 A one (1) week sponsorship has a fixed fee of **$300 USD**. There is a non-negotiable four-week minimum for all sponsorships.
 
-Discounts of up to 10% are available dependent on length of sponsorships.
+Discounts of **up to 10%** are available dependent on length of sponsorships.
 
 All copy and links are needed by close of business Friday to ensure it is in the newsletter.
 
