@@ -11,7 +11,6 @@ DefaultContentLanguage = "en"
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 # Works for missing Tweets as well
 ignoreErrors = ["error-remote-getjson"]
-disableKinds = ["RSS"]
 enableEmoji = true
 enableInlineShortcodes = true
 enableGitInfo = true
@@ -19,7 +18,7 @@ summaryLength = 160
 
 # ------------------------------
 [outputs]
-   home = [ "HTML", "JSON" ]
+   home = [ "HTML", "JSON", "RSS" ]
 
 [params]
   author = "Chris Short"
