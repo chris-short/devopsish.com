@@ -48,7 +48,9 @@ If you're an individual looking to support DevOps'ish and [Chris Short's](http:/
 
 Effective 2020-08-07
 
-A one (1) week sponsorship has a fixed fee of **$250 USD**. There is a firm four-week minimum for all sponsorships.
+A one (1) week sponsorship has a fixed fee of **$300 USD**. There is a non-negotiable four-week minimum for all sponsorships.
+
+Discounts of up to 10% are available dependent on length of sponsorships.
 
 All copy and links are needed by close of business Friday to ensure it is in the newsletter.
 
