@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-03-13T07:00:00Z
-description = [""]
+description = ["Organizational skills a key to productivity, don't spy on employees, Elmentary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more"]
 draft = false
 slug = "260"
-tags = []
-title = "DevOps'ish 260:"
+tags = ["GitOps", "ArgoCD", "Kubernetes", "DevOps", "security", "security incident", "attack", "cloud", "Cloud Native", "Linkerd", "practitioners", "cybersecurity", "vulnerability", "community", "collaboration", "avoid pitfalls", "Flux", "infrastructure", "DDoS", "developers", "CNCF", "OpenGitOps", "Elementary OS", "Honeycomb"]
+title = "DevOps'ish 260: Organizational skills a key to productivity, don't spy on employees, Elmentary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more"
 
 +++
 
@@ -15,11 +15,11 @@ We are very fortunate. I remind myself of that every day. Our household's collec
 
 It was funny, the other day, when I got a knock on the door and two of my nephews rolled in with Max and Julie. "Wow, Uncle Chris! I didn't realize you were down here!" "Oh wow, Uncle Chris! I love your office!" Even the kids think it's cool. Like I said, very fortunate.
 
-This weekend I live tweeted cleaning out two bins FULL of cables. Lots of old memories brought up. All normal and some great memories. Now, I'm in a space that is just for *me*. Julie has a space just for herself as well. Both getting improved upon a little bit more every day.
+This weekend, I [live tweeted cleaning out two bins FULL of cables](https://twitter.com/ChrisShort/status/1502649910415474688?utm_campaign=devopsish&utm_source=newsletter&utm_medium=text). Lots of old memories brought up. All normal and some great memories. Now, I'm in a space that is just for *me*. Julie has a space just for herself as well. Both getting improved upon a little bit more every day.
 
-I'm iterating on a consistent theme, "Optimize storage space (create as much as possible and use it as effectively as possible), recycle, right-size, or dispose. Do not keep anything unless you think you might need it based off what's *in this house*." It is an incredibly wonderful feeling to be organized. It is how I maintain a usually high level of productivity. I will admit, when my workspace is chaotic, I'm chaotic. Maximizing and optimizing every little thing to your desired state of eventual balance requires not overthinking things. What's the dead simplest way to achieve X? Will you appreciate seeing this every day?
+I’m iterating on a consistent theme, “Optimize storage space (create as much as possible and use it as best as possible), recycle, right-size, or dispose. Do not keep anything unless you think you might need it based off what’s *in this house*.” It is an wonderful feeling to be organized. It is how I maintain a usually high level of productivity. I will admit, when my workspace is chaotic, I’m chaotic. Optimizing every thing to your desired state of balance requires not overthinking things. What’s the dead simplest way to achieve X? Will you appreciate seeing this every day? Will this function as you desired?
 
-Some pictures still need to be hung. But, I've been operational down here for a couple weeks now. I can genuinely say I've fulfilled a long time dream of working from home, in an office that has been made to optimize my productivity and comfort. Flexible yet reliable. With an awesome play space for the kids when they want to come over. It's a balance of the best of both worlds in what is now my third and hopefully last office in this house.
+Some pictures still need to be hung. But, I’ve been operational down here for a couple weeks now. I can say I’ve fulfilled a long time dream of working from home, in an office that has been custom built to optimize my productivity and comfort. Flexible yet reliable. It’s a balance of the best of both worlds in what is now my third and hopefully last office in this house.
 
 DevOps'ish is brought to you our friends at [**Honeycomb**](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup).  
 ***"Stop Letting Complexity Slow You Down"***  
@@ -104,7 +104,6 @@ Oh this is really sad because elementary OS is what I default to for new to Linu
 
 [estafette/estafette-vulnerability-scanner](https://github.com/estafette/estafette-vulnerability-scanner)  
 "An application that regularly scans all containers in a Kubernetes cluster for vulnerabilities"
-
 
 ## DevOps'ish Tweet of the Week
 
