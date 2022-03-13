@@ -3,11 +3,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-03-13T07:00:00Z
-description = ["Organizational skills a key to productivity, don't spy on employees, Elmentary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more"]
+description = ["Organizational skills a key to productivity, don't spy on employees, Elementary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more"]
 draft = false
 slug = "260"
 tags = ["GitOps", "ArgoCD", "Kubernetes", "DevOps", "security", "security incident", "attack", "cloud", "Cloud Native", "Linkerd", "practitioners", "cybersecurity", "vulnerability", "community", "collaboration", "avoid pitfalls", "Flux", "infrastructure", "DDoS", "developers", "CNCF", "OpenGitOps", "Elementary OS", "Honeycomb"]
-title = "DevOps'ish 260: Organizational skills a key to productivity, don't spy on employees, Elmentary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more"
+title = "DevOps'ish 260: Organizational skills a key to productivity, don't spy on employees, Elementary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more"
 aliases = [
     "/latest"
 ]
