@@ -45,7 +45,19 @@ ArgoCon is designed to foster collaboration, discussion, and knowledge sharing o
 [Amazon announces 20-for-1 stock split, $10 billion buyback](https://www.cnbc.com/2022/03/09/amazon-announces-20-for-1-stock-split-10-billion-buyback.html)  
 I don't think this helps or hurts me as a new employee. But, a lot of my coworkers are about to get happier.
 
+[Flux for Helm Users](https://youtu.be/r_vKf5l1D1M)  
+Use Helm? Want to use Flux? Here you go!
+
+[U.S. Senate Passes Cybersecurity Bill to Strengthen Critical Infrastructure Security](https://thehackernews.com/2022/03/us-senate-passes-cybersecurity-bill-to.html)  
+"The U.S. Senate unanimously passed the 'Strengthening American Cybersecurity Act'... The new bipartisan legislation, among other things, stipulates entities that experience a cyber incident to report the attacks within 72 hours to the U.S. Cybersecurity and Infrastructure Security Agency (CISA), in addition to alerting the agency about ransomware payments within 24 hours." This is going to make a big impact once signed into law. We're going to see a ***huge*** uptick in reported compromises too I suspect.
+
+[Spy on Your Employees, Make The Great Resignation Worse](https://news.crunchbase.com/news/great-resignation-worse-employee-retention/)  
+Don't spy on your employees. Just don't.
+
 ## Process
+
+[Linux has been bitten by its most high-severity vulnerability in years](https://arstechnica.com/information-technology/2022/03/linux-has-been-bitten-by-its-most-high-severity-vulnerability-in-years/)  
+Dirty Pipe needs a theme song at this point.
 
 [Multiple Security Flaws Discovered in Popular Software Package Managers](https://thehackernews.com/2022/03/multiple-security-flaws-discovered-in.html)  
 "But the newly discovered issues in various package managers highlight that they could be weaponized by attackers to trick victims into executing malicious code."
@@ -53,16 +65,42 @@ I don't think this helps or hurts me as a new employee. But, a lot of my coworke
 [Privilege Escalation Vulnerability CVE-2022-0492 and its impact on Kubernetes](https://www.armosec.io/blog/privilege-escalation-vulnerability-cve-2022-0492-kubernetes/)  
 "Until you upgraded the base kernel image to the fixed version or applied a specific temporary patch, your node is vulnerable."
 
+[Leaked stolen Nvidia key can code-sign Windows malware](https://www.theregister.com/2022/03/05/nvidia_stolen_certificate/)
+
+[CVE-2022-26143: TP240PhoneHome Reflection/Amplification DDoS Attack Vector](https://www.akamai.com/blog/security/phone-home-ddos-attack-vector)  
+This is bad. A "potential amplification ratio of 4,294,967,296:1" combined with, "This particular attack vector differs from most UDP reflection/amplification attack methodologies in that the exposed system test facility can be abused to launch a sustained DDoS attack of up to 14 hours in duration by means of a single spoofed attack initiation packet." This is a bad time waiting to happen to literally anyone. All because of 2,600 poorly configured devices. The numbers in this report are eye-watering.
+
+[Google to Acquire Mandiant](https://www.mandiant.com/company/press-release/mgc)  
+Interesting move by Google. One would think they'd have enough security folks on staff to manage customer needs but, here's another way to make sure of that.
+
 ## Tools
 
 [The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://www.cncf.io/blog/2022/03/04/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022/)  
 "As summarized above, the majority of the traditional Kubernetes resources may have better alternatives for developers. Using alternatives will improve how we develop and operate cloud-native applications in the years to come. After all, Kubernetes is a platform for building platforms. It’s not the end-game!"
 
-[Scripting with Go](https://bitfieldconsulting.com/golang/scripting)  
-"I'm not saying shell scripting is obsolete. I still use a lot of shell scripts myself. There is a large problem domain where shell is absolutely the right answer. But small programs tend to grow into large ones, and when that happens, it's nice to be able to use the facilities of a language that was designed for programming at scale."
+[Kubernetes at Scale without GitOps Is a Bad Idea](https://thenewstack.io/kubernetes-at-scale-without-gitops-is-a-bad-idea/)  
+"In this article, we describe the issues and challenges that enterprises face when deploying Kubernetes clusters at scale. We also describe how GitOps processes and tools can allow organizations to gain proper control of these highly distributed environments while improving security and compliance best practices."
+
+[A deep dive to Canary Deployments with Flagger, NGINX and Linkerd on Kubernetes](https://devopsian.net/posts/kubernetes-canary-deployments/)  
+A cloud native good time that I'm here for.
+
+[Is Linkerd Winning the Service Mesh Race?](https://thenewstack.io/is-linkerd-winning-the-service-mesh-race/)  
+"Independent of the CNCF survey, analyst firm Enterprise Management Associates (EMA) noted a 'strong momentum of the Linkerd platform,' Torsten Volk, an analyst at EMA, said. 'Its growing user base is raving about its simplicity and its targeted addition of more enterprise-grade features.'"
 
 [Announcing automated multi-cluster failover for Kubernetes](https://linkerd.io/2022/03/09/announcing-automated-multi-cluster-failover-for-kubernetes/)  
 "This feature gives Linkerd the ability to automatically redirect all traffic from a failing or inaccessible service to one or more replicas of that service—including replicas on other clusters."
+
+[Apple Announces M1 Ultra: Combining Two M1 Maxes For Workstation Performance](https://www.anandtech.com/show/17306/apple-announces-m1-ultra-combining-two-m1-maxes-for-even-more-performance)  
+This is a deep dive into how the M1 Ultra Arm processor formed from two M1 Max's. "M1 Max has a very high speed interface along one of its edges." This is a novel approach.
+
+[6 CNCF Projects for CI/CD](https://containerjournal.com/features/6-cncf-projects-for-ci-cd/)  
+[OpenGitOps](https://opengitops.dev/) is shouted out here. Please join our [fortnightly meetings](https://tockify.com/cncf.public.events/detail/401/1647453600000) if you'd like to help contribute to what GitOps is and isn't. Note: I'm a co-chair of the OpenGitOps project.
+
+[Scripting with Go](https://bitfieldconsulting.com/golang/scripting)  
+"I'm not saying shell scripting is obsolete. I still use a lot of shell scripts myself. There is a large problem domain where shell is absolutely the right answer. But small programs tend to grow into large ones, and when that happens, it's nice to be able to use the facilities of a language that was designed for programming at scale."
+
+[elementary OS is imploding](https://lunduke.substack.com/p/elementary-os-is-imploding)  
+Oh this is really sad because elementary OS is what I default to for new to Linux users. Clearly the company has a lot of issues. But, I hope the community can keep this distro going. 🤞🤞🤞
 
 [estafette/estafette-vulnerability-scanner](https://github.com/estafette/estafette-vulnerability-scanner)  
 "An application that regularly scans all containers in a Kubernetes cluster for vulnerabilities"
