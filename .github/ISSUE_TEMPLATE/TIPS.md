@@ -1,6 +1,6 @@
 ---
 name: 'Tips '
-about: Suggest something for the EKS News newsletter
+about: Suggest something for the DevOps'ish newsletter
 title: "[Tips]: "
 labels: "tips"
 assignees: 'chris-short'
