@@ -25,18 +25,18 @@ If you think you’ve found a potential security issue, please do not post it in
 
 -->
 
-**Please provide the URL and Title of the thing you'd like linked in the newsletter**
-URL: 
-Title: 
+**Please provide the URL and Title of the thing you'd like linked in the newsletter**  
+URL:  
+Title:  
 
-**Which service(s) is this request for?**
+**Which service(s) is this request for?**  
 Note: If this is a product, you must link the open source code for it. Not open source at all? That's a problem.
 
-**Tell us about what you're submitting**
+**Tell us about what you're submitting**  
 What are some of the key points or benefits being suggested?
 
-**Additional context**
+**Additional context**  
 Anything else we should know?
 
-**Attachments**
+**Attachments**  
 If you think you might have additional information that you'd like to include via an attachment, please do - we'll take a look. (Remember to remove any personally-identifiable information.)
