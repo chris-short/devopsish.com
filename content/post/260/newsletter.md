@@ -8,9 +8,6 @@ draft = false
 slug = "260"
 tags = ["GitOps", "ArgoCD", "Kubernetes", "DevOps", "security", "security incident", "attack", "cloud", "Cloud Native", "Linkerd", "practitioners", "cybersecurity", "vulnerability", "community", "collaboration", "avoid pitfalls", "Flux", "infrastructure", "DDoS", "developers", "CNCF", "OpenGitOps", "Elementary OS", "Honeycomb"]
 title = "DevOps'ish 260: Organizational skills a key to productivity, don't spy on employees, Elementary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more"
-aliases = [
-    "/latest"
-]
 +++
 
 We are very fortunate. I remind myself of that every day. Our household's collective efforts have put us where we are today (being some random dude from a town called Hickory; this is far further than I'd ever imagined). I have been posting pictures from my new office that we custom built in our basement. I'm very fortunate to have a room, with a solid door and some soundproofing, to work from in these times. The only thing to bother me are the things I let into my day.
