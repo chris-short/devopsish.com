@@ -6,7 +6,7 @@ date = 2022-03-20T07:00:00Z
 description = ["Secrets with GitOps, cr8escape, B1txor20, npm sabotage (again), updated Kubernetes Hardening Guide, ArgoCD and Starboard, scripting with Go, and more"]
 draft = false
 slug = "261"
-tags = []
+tags = ["GitOps", "secrets", "ArgoCD", "Kubernetes", "git", "service", "hardening", "cluster", "Honeycomb", "cloud", "scripting", "math", "CDN"]
 title = "DevOps'ish 261: Secrets with GitOps, cr8escape, B1txor20, npm sabotage (again), updated Kubernetes Hardening Guide, ArgoCD and Starboard, scripting with Go, and more"
 aliases = [
     "/latest"
