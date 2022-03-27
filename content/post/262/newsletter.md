@@ -10,7 +10,7 @@ tags = []
 title = "DevOps'ish 262:"
 +++
 
-INTRO
+{{< tweet user="ChrisShort" id="1507816647217790982" >}}
 
 DevOps'ish is brought to you our friends at [**Honeycomb**](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup).  
 ***"Stop Letting Complexity Slow You Down"***  
