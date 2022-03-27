@@ -2,16 +2,8 @@
 publish = "public"
 command = "hugo --minify --enableGitInfo"
 
-[[plugins]]
-  package = "netlify-plugin-submit-sitemap"
-	[plugins.inputs]
-	# The base url of your site (optional, default = main URL set in Netlify)
-	baseUrl = "https://devopsish.com"
-	# Path to the sitemap URL (optional, default = /sitemap.xml)
-	sitemapPath = "/sitemap.xml"
-
 [context.production.environment]
-HUGO_VERSION = "0.94.2"
+HUGO_VERSION = "0.96.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -19,13 +11,13 @@ HUGO_ENABLEGITINFO = "true"
 command = "git submodule update --rebase --remote && hugo --minify"
 
 [context.split1.environment]
-HUGO_VERSION = "0.94.2"
+HUGO_VERSION = "0.96.0"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "git submodule update --rebase --remote && hugo -DF --verbose"
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.94.2"
+HUGO_VERSION = "0.96.0"
 # Skip all post processing in deploy previews,
 # ignoring any other settings
 [context.deploy-preview.processing]
@@ -34,7 +26,7 @@ HUGO_VERSION = "0.94.2"
 [context.branch-deploy]
 command = "git submodule update --rebase --remote && hugo -DF --verbose"
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.94.2"
+HUGO_VERSION = "0.96.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
