@@ -6,7 +6,7 @@ date = 2022-03-27T07:00:00Z
 description = ["Docker whales, Okta and Lapsus$ galore, Apple Outage, Kubernetes storage, using mtr, Kubernetes events in Slack, and more"]
 draft = false
 slug = "262"
-tags = []
+tags = ["Kubernetes", "Argo", "Okta", "Apple", "SLOs", "Lapsus$", "GitOps", "mtr", "reliability", "incident", "Microsoft", "Russia", "Pulumi", "DevOps", "engineering", "Docker"]
 title = "DevOps'ish 262: Docker whales, Okta and Lapsus$ galore, Apple Outage, Kubernetes storage, using mtr, Kubernetes events in Slack, and more"
 +++
 
