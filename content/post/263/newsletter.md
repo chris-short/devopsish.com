@@ -6,7 +6,7 @@ date = 2022-04-03T07:00:00Z
 description = ["TSMC says demand slowing, yet another BGP mishap, Pulumiverse, Spring4Shell, etcd corruption issue, kaar, kubectl-detector-for-docker-socket, and more"]
 draft = false
 slug = "263"
-tags = []
+tags = ["Kubernetes", "etcd data corruption issue", "SLOs", "GitOps", "etcd", "Detector for Docker Socket", "supply chain", "attacks", "hackers", "MFA", "reliability", "BGP", "Linux", "kaar", "kubectl", "community", "pulumiverse", "TSMC", "cluster", "cloud", "process", "backups", "Amazon"]
 title = "DevOps'ish 263: TSMC says demand slowing, yet another BGP mishap, Pulumiverse, Spring4Shell, etcd data corruption issue, kaar, kubectl-detector-for-docker-socket, and more"
 +++
 
