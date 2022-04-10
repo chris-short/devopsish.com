@@ -31,7 +31,7 @@ summaryLength = 160
   disableHLJS = "true"
 
   [params.stats]
-    subscribers = "5,900+"
+    subscribers = "6,000+"
 #    avg_open_rate = "48%"
 #    avg_click_rate = "21%"
 
