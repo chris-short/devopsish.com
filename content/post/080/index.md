@@ -55,7 +55,7 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 
 [Documentation for DevOps: A DevOpsDays Open Space Writeup](https://medium.com/@wiredferret/documentation-for-devops-a-devopsdays-open-space-writeup-76f088ca2c3c): Docs in DevOps are a big deal but, we're always terrible about writing them and/or reading them. Heidi helps us fix that.
 
-[Kubernetes Day 2 Operations: AuthN/AuthZ with OIDC and a Little Help From Keycloak](https://medium.com/@mrbobbytables/kubernetes-day-2-operations-authn-authz-with-oidc-and-a-little-help-from-keycloak-de4ea1bdbbe): Authentication and Authorization explained by CNCF Ambassador, Bob Killen.
+[Kubernetes Day 2 Operations: AuthN/AuthZ with OIDC and a Little Help From Keycloak](https://medium.com/@mrbobbytables/kubernetes-day-2-operations-authn-authz-with-oidc-and-a-little-help-from-keycloak-de4ea1bdbbe): Authentication and Authorization explained by Bob Killen.
 
 [The Practice of System and Network Administration with Tom Limoncelli](http://runasradio.com/Shows/Show/577): "The conversation dives into providing value to the organization, both in the form of keeping the employees productive, as well as safe and secure."
 

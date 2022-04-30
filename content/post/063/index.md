@@ -88,7 +88,7 @@ Want to write for opensource.com and can't come up with a good topic? Reach out 
 
 [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222): Not sure how I missed this but these tips are very important to be mindful of when running Kubernetes.
 
-[Kubernetes - A Comprehensive Overview](https://www.slideshare.net/BobKillen/kubernetes-a-comprehensive-overview-updated): Fellow CNCF Ambassador, Bob Killen, recently presented an in-depth overview of Kubernetes and it's various components. Definitely worth a bookmark for folks being introduced to Kubernetes.
+[Kubernetes - A Comprehensive Overview](https://www.slideshare.net/BobKillen/kubernetes-a-comprehensive-overview-updated): Bob Killen, recently presented an in-depth overview of Kubernetes and it's various components. Definitely worth a bookmark for folks being introduced to Kubernetes.
 
 [Rainbow Deploys with Kubernetes](http://brandon.dimcheff.com/2018/02/rainbow-deploys-with-kubernetes/): My friend, Brandon Dimcheff of Olark, walks through how using git SHAs as hex color codes bends the blue/green concept towards something much better IMHO.
 
