@@ -33,7 +33,7 @@ Click link, get news. DevOps'ish XXX — DESC https://devopsish.com/XXX #DevOps
 
 ### Wednesday PM (Influencer Social)
 
-DevOps'ish is a newsletter built by me, Chris Short, open source & #Kubernetes contributor, #DevOps leader, #GitOps Working Group co-chair, Cloud Native Computing Foundation Ambassador, and Continuous Delivery Foundation Ambassador. Subscribe today! https://devopsish.com/subscribe
+DevOps'ish is a newsletter built by me, Chris Short, open source & #Kubernetes contributor, #DevOps leader, and #GitOps Working Group co-chair. Subscribe today! https://devopsish.com/subscribe
 
 ### Thursday PM (1-2 PM, Random Subscribe Giphy)
 
