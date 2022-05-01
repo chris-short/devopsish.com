@@ -6,7 +6,7 @@ date = 2022-05-01T07:00:00Z
 description = ["DevOps'ish 265"]
 draft = false
 slug = "265"
-tags = []
+tags = ["Argo", "Kubernetes", "GitOps", "CNCF", "cloud", "reliability", "data", "security", "open source", "AWS", "Honeycomb", "Cancer"]
 title = "DevOps'ish 265"
 +++
 
@@ -55,7 +55,6 @@ ArgoCon is designed to foster collaboration, discussion, and knowledge sharing o
 [I'm a security engineer and I still almost got scammed](https://robertheaton.com/almost-scammed/)  
 Robert Heaton  
 This cat almost got got. These attacks are getting way more sophisticated. But, basically, never take a phone call directly from your bank. You call them at a known good number.
-
 
 [US Army could 'waste' up to $22b on Microsoft HoloLens](https://www.theregister.com/2022/04/26/army_microsoft_headset/)  
 Katyanna Quach, The Register
