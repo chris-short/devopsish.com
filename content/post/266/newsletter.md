@@ -5,7 +5,7 @@ date = 2022-05-08T07:00:00Z
 description = ["We did some good in the world, Kubernetes 1.24, Netflix downward slide, critical F5 vuln, RFC 9116, Kubernetes Goat, Pulumi YAML, and more"]
 draft = false
 slug = "266"
-tags = []
+tags = ["Kubernetes", "Argo", "YAML", "Pulumi", "Pulumi YAML", "DevOps'ish", "team", "SLOs", "Amazon EKS", "Elastic Kubernetes Service", "Netflix", "GitOps", "AWS", "environment", "Site Reliability Engineer", "SRE", "Kubernetes Goat", "practices", "vulnerability", "security", "enhancements", "cloud", "DevOps", "asshole test", "dockershim", "pod", "progressive delivery", "cloud native", "Lucy"]
 title = "DevOps'ish 266: We did some good in the world, Kubernetes 1.24, Netflix downward slide, critical F5 vuln, RFC 9116, Kubernetes Goat, Pulumi YAML, and more"
 +++
 
@@ -23,6 +23,8 @@ There is hope for you yet, Internet... Maybe.
 
 **Side Note**: I joined Mastodon in earnest this week. Follow me here: <https://mastodon.technology/@ChrisShort>.  
 I'm finding it quite nice. I enjoy it as a non-distracting interface to Twitter with the [Mastodon Twitter Crossposter](https://crossposter.masto.donte.com.br/).
+
+Also, [Kubernetes News](https://kubenews.net) is out there to help you discover more Kubernetes newsletters. Submit a PR if I'm missing a one, please.
 
 ## DevOps'ish is brought to you by...
 
