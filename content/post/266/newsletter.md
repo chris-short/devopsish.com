@@ -1,5 +1,4 @@
 +++
-
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-05-08T07:00:00Z
@@ -10,7 +9,7 @@ tags = []
 title = "DevOps'ish 266: We did some good in the world, Kubernetes 1.24, Netflix downward slide, critical F5 vuln, RFC 9116, Kubernetes Goat, Pulumi YAML, and more"
 +++
 
-Thank you to everyone that donated to to my sister's [Walk for Wishes](https://secure2.wish.org/site/TR/;jsessionid=00000000.app202a?px=7065476&pg=personal&fr_id=4096&NONCE_TOKEN=CAB8CE6B5E882373D563373C7D9D2285) for Make-A-Wish® Michigan this week. We kinda crushed it for Lucy. Here's how the tally adds up as of 7 PM Saturday:
+Thank you to everyone that donated to my sister's [Walk for Wishes](https://secure2.wish.org/site/TR/;jsessionid=00000000.app202a?px=7065476&pg=personal&fr_id=4096&NONCE_TOKEN=CAB8CE6B5E882373D563373C7D9D2285) for Make-A-Wish® Michigan this week. We kinda crushed it for Lucy. Here's how the tally adds up as of 7 PM Saturday:
 
 [![2022 Walk For Wishes - Michigan(Make-A-Wish® Michigan)](https://shortcdn.com/file/devopsish/Make-a-Wish-Michigan-Walk-for-Wishes-2022.webp)](https://secure2.wish.org/site/TR?fr_id=4096&pg=entry)
 
@@ -18,7 +17,7 @@ First, we helped push the event over its goal ($366K raised, $360K goal; pat you
 
 **None of this would've been possible without you, the reader.** DevOps'ish alone donated $1,000 to spur others to donate and donate you did. I'm so thankful.
 
-It felt really good to get that hug yesterday morning. She sends a very special thank you to every, single one of you who donated this week. My personal thanks as well. You didn't have to make an impact on our family, but you did. For that, I am forever grateful.
+It felt really good to get that hug yesterday morning. She sends a very special thank you to every single one of you who donated this week. My personal thanks as well. You didn't have to make an impact on our family, but you did. For that, I am forever grateful.
 
 There is hope for you yet, Internet... Maybe.
 
@@ -57,6 +56,13 @@ In the closing keynote on May 17th, Nate Taber, Principal Product Manager, AWS w
 MAY 17, 2022
 
 Designed to foster collaboration, discussion, and knowledge sharing on GitOps. This event is aimed at audiences that are new to GitOps as well as those currently using GitOps within their organization. Get connected with others that are passionate about GitOps. Learn from practitioners about pitfalls to avoid, hurdles to jump, and how to adopt GitOps in your cloud native environment. *Schedule release this week*
+
+[**DevOpsDays Ukraine: DevOps in Crisis**](https://devopsdays.com.ua/)
+
+May 17-18th, 2022, Virtual
+
+DevOpsDays Ukraine is a part of the global DevOpsDays family.  
+This May we are running a virtual charity event to discuss DevOps during crisis, incident, and business continuity management and collect donations to support Ukrainians.
 
 [**ArgoCon**](https://events.linuxfoundation.org/argocon/)
 
@@ -155,7 +161,7 @@ Madhu Akula
 
 [Contributor Cheatsheet](https://www.kubernetes.dev/docs/contributor-cheatsheet/#squashing-commits)  
 Kubernetes Contributors  
-This cheat sheet isn't old but, the [Kubernetes Contributors site](https://www.kubernetes.dev/) (maintained by SIG-Contributor Experience) is full of help nuggets of info like this.
+This cheat sheet isn't new but the [Kubernetes Contributors site](https://www.kubernetes.dev/) (maintained by SIG-Contributor Experience) is full of helpful nuggets of info like this.
 
 [Continuous Load Testing](https://slack.engineering/continuous-load-testing/)  
 Shreya Ramesh and Melissa Khuat, Slack  
@@ -199,7 +205,7 @@ Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe ener
 
 ## DevOps'ish Social Media of the Week
 
-Tweets, toots, reddit posts, etc. will now fill this section. I want to open it open to all social media platforms.
+Tweets, toots, reddit posts, etc. will now fill this section.  I want to open it to all social media platforms. If you see something, send it my way, please.
 
 [![Yo... This GitOps to Modern Practices Map from @williamcaban is amazing! #GitOps #IaC #DevOps (Chris Short @ChrisShort on Twitter)](https://shortcdn.com/file/devopsish/266-devopsish-tweet-of-the-week.webp)](https://twitter.com/ChrisShort/status/1522666771588788226)
 
