@@ -2,10 +2,10 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-05-15T07:00:00Z
-description = [""]
+description = ["KubeCon EU is here, SUSE discriminates, Windows vulns, scammer footgun, git, GitOps and so much more"]
 draft = false
 slug = "267"
-tags = []
+tags = ["GitOps", "AWS", "Amazon", "open source", "KubeCon", "Kubernetes", "cloud native", "Storage Capacity", "cloud", "DevOps", "EKS", "Honeycomb", "OpenSSL", "git", "squash", "iPod", "SUSE", "Google", "Apple", "policy", "Windows", "attack", "security", "malware", "resolvers", "HashiCorp", "HashiCorp Vault", "drift detection", "Flux", "Argo", "Observability", "DevOpsDays"]
 title = "DevOps'ish 267: "
 +++
 
@@ -144,7 +144,7 @@ Charity Majors, Liz Fong-Jones, George Miranda, Honeycomb
 
 [The iPod is dead](https://techcrunch.com/2022/05/10/the-ipod-is-dead/)  
 Brian Heater, TechCrunch  
-It's a little sad when an iconic piece of technology goes the way of the Dodo. But, why am I mentioning this here? Because it was recommended to me by a friend to nabbed a high-capacity iPod Touch for a work "phone." The iPod showed up literally as the discontinuation announcement dropped. The iPod has been returned. In talking to Apple Store folks, they suggest the iPhone SE or the iPad. Sigh... Nevermind that idea. I'll just keep one phone and put it under employer management.
+It's a little sad when an iconic piece of technology goes the way of the Dodo. But, why am I mentioning this here? Because it was recommended to me by a friend to nabbed a high-capacity iPod Touch for a work "phone." The iPod showed up literally as the discontinuation announcement dropped. The iPod has been returned. If it's EOL'd updates are the next thing to go. In talking to Apple Store folks, they suggest the iPhone SE or the iPad. Sigh... Nevermind that idea. I'll just keep one phone and put it under employer management.
 
 [NVIDIA Releases Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)  
 Ram Cherukuri, Shirish Baskaran, Andy Ritger, Fred Oh and Dwayne Swoboda, NVIDIA  
