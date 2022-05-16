@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-05-15T07:00:00Z
-description = ["KubeCon EU is here, SUSE discriminates, Windows vulns, scammer footgun, git, GitOps and so much more"]
+description = ["KubeCon EU is here, SUSE discriminates, Windows vulns, scammer footgun, git, GitOps, and so much more"]
 draft = false
 slug = "267"
 tags = ["GitOps", "AWS", "Amazon", "open source", "KubeCon", "Kubernetes", "cloud native", "Storage Capacity", "cloud", "DevOps", "EKS", "Honeycomb", "OpenSSL", "git", "squash", "iPod", "SUSE", "Google", "Apple", "policy", "Windows", "attack", "security", "malware", "resolvers", "HashiCorp", "HashiCorp Vault", "drift detection", "Flux", "Argo", "Observability", "DevOpsDays"]
-title = "DevOps'ish 267: KubeCon EU is here, SUSE discriminates, Windows vulns, scammer footgun, git, GitOps and so much more"
+title = "DevOps'ish 267: KubeCon EU is here, SUSE discriminates, Windows vulns, scammer footgun, git, GitOps,  and so much more"
 +++
 
 This week was the run up to KubeCon. The mad dash turned into peace and quiet by Friday. I feel really bad about Spain not approving quite a few visas for folks I wanted to meet. I had to help coordinate a few last minute switches from physical to virtual talks. I took part in a few [AWS Container Days sessions](https://www.twitch.tv/videos/1481899649) and an impromptu, during the stream invite to [Anaïs Urlichs and Matty Straton's live stream all about attending KubeCon](https://www.youtube.com/watch?v=fZGNdpVICQU). I'll have those up on [my web site](https://chrisshort.net/) for preservation soon enough.
