@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-05-22T07:00:00Z
-description = ["KubeCon EU 2022, GitOpsCon EU 2022, and so much more"]
+description = ["KubeCon EU 2022, GitOpsCon EU 2022, China locks down Gitee, 380K publicly accessible K8s API Servers, Observability Engineering (free eBook), and more"]
 draft = false
 slug = "268"
-tags = []
-title = "DevOps'ish 268: "
+tags = ["Kubernetes", "KubeCon", "KubeCon EU 2022", "Argo", "GitOps", "GitOpsCon", "GitOpsCon EU 2022", "CNCF", "COVID", "COVID-19", "open source", "Gitee", "China", "Kubernetes API server", "open API servers", "API server", "security", "observability", "EU", "career", "keynote", "friends", "Van Jones", "mask mandate", "environment", "videos", "monitoring", "Microsoft", "community", "Flux", "Detroit", "Observability Engineering"]
+title = "DevOps'ish 268: KubeCon EU 2022, GitOpsCon EU 2022, China locks down Gitee, 380K publicly accessible K8s API Servers, Observability Engineering (free eBook), and more"
 +++
 
 This past week was KubeCon EU 2022. I attended only part of it (more on that later). The Kubernetes Contributor Summit looked like it went off okay. I will admit I showed up quite late due to jet lag. But, I was able to sit down with Kaslin and schedule the rest of the tweets for KubeCon EU 2022 as part of our duties for the [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/marketing-team) team (please follow [K8sContributors on Twitter](https://twitter.com/k8scontributors)). I was also able to say hello to many friends I had not seen in ages. Including my good friend, Vincent Batts. He seemed to want me to know that there is a reason to celebrate (and often is in certain cultures) when someone is taken from us so soon.
@@ -20,7 +20,7 @@ GitOpsCon was nothing short of a fantastic event ([videos available here](https:
 
 Things went downhill after Tuesday. Let me preface this by saying I'm at a higher risk of catching COVID than the average attendee (disabilities suck). I ended up coming home from KubeCon three days earlier than planned. Combined with travel, the time change, hosting GitOpsCon, and the discipline and rigor needed to maintain my promise to my family, "I'm coming home in a week." I got shoved beyond my limits. I was under a lot of stress managing all that already. Then word came out [that 5 to 11-year-olds should get a COVID vaccine booster](https://www.cdc.gov/vaccines/covid-19/planning/children.html) (this increased Max's risk, in my mind). When friends started catching COVID, the riskier situation was staying in Spain and attending KubeCon than flying home.
 
-What you're about to read could end up in me being sanctioned by the CNCF. But, I would rather you all know _my truth_ than get in line like a good little Ambassador. There was a time when I could write freely about the CNCF and they'd take my views into consideration. I'm not sure that's still the case.
+What you're about to read could end up in me being sanctioned by the CNCF. But, I would rather you all know _my truth_ than get in line like a good little Ambassador. There was a time when I could write freely about the CNCF and they'd take my views into consideration as feedback. I'm not sure that's still the case.
 
 I intentionally did not go to the keynotes on Wednesday to conserve resources and to help mitigate some of the perceived risks knowing I could watch/listen online while getting ready for the day. One keynote, in particular, felt more like [tone policing](https://en.wikipedia.org/wiki/Tone_policing) than actually helping the community. I am pretty frustrated with the CNCF's lack of ownership of the problem they created after their masking flip-flop _past_ their self-imposed 11th hour (that fact is one they've routinely brushed off every time I've mentioned it). But, intention or not, it sent a message and set a precedent of bending the rules and getting away with it (which I know was not the intention, but that's the environment we're in these days, sadly).
 
@@ -94,7 +94,7 @@ I never like having to update devices on the road. But, this made me do it anywa
 
 ## Tools
 
-Tetragon - eBPF-based Security Observability & Runtime Enforcement  
+[Tetragon - eBPF-based Security Observability & Runtime Enforcement](https://isovalent.com/blog/post/2022-05-16-tetragon)  
 [Isovalent](https://isovalent.com/)  
 "Tetragon is a powerful eBPF-based security observability and runtime enforcement platform that has been part of Isovalent Cilium Enterprise for several years. Today, [we are open sourcing major parts as project Tetragon](https://github.com/cilium/tetragon) and open it up for collaboration with the entire community."
 
