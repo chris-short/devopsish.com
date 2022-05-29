@@ -2,18 +2,18 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
 date = 2022-05-29T07:00:00Z
-description = []
+description = ["On Vacation, Layoff and Freezes, Unlimited PTO, Broadcom offers to buy VMware, and much more"]
 draft = false
 slug = "269"
-tags = []
-title = "DevOps'ish 269:"
+tags = ["Argo", "security", "containerd", "Detroit", "cloud", "layoffs", "hiring", "Google", "open source", "cloud native", "code", "runc", "CRI", "HCL", "Kubernetes", "tech news", "VMware"]
+title = "DevOps'ish 269: On Vacation, Layoff and Freezes, Unlimited PTO, Broadcom offers to buy VMware, and much more"
 +++
 
 On a much-needed vacation this weekend. Enjoying Traverse City's finer local haunts. Amazingly, this city is in the same state that Detroit is. Speaking of, I can't wait until KubeCon NA 2022 in Detroit. As we get closer to an event, I'll be sharing some more local news and info (like the Aloft will be under construction during KubeCon NA). I know there's a large contingent of Michiganders that read this newsletter. What's one fantastic thing folks in downtown Detroit can't miss (hit reply, yes, I filter out-of-office messages in 40+ languages)?
 
 I'll start with Campus Martius Park. You'll be shocked by this excellent little happening spot in the city's heart.
 
-## O'Reilly Book on Observability Engineering—Get Yours Free from Honeycomb! 
+## O'Reilly Book on Observability Engineering—Get Yours Free from Honeycomb!
 
 Manage complex cloud-native systems, improve customer experiences, and build & run better software using Honeycomb. Get your FREE copy of [our new O'Reilly book](https://info.honeycomb.io/observability-engineering-oreilly-book-2022?utm_source=devopsish&utm_medium=newsletter&utm_campaign=oreilly_book_observability_engineering_2022&utm_id=oreillybook2022&utm_content=2113) and register for our [Authors' Cut Series](https://www.honeycomb.io/oreilly-observability-engineering/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=oreilly_authors_cut_series_2022&utm_id=oreillyauthorscut&utm_content=2112) to discuss key concepts.
 
