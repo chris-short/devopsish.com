@@ -27,9 +27,9 @@ Hot off the presses! DevOps'ish XXX — DESC https://devopsish.com/XXX/ #DevOps 
 
 Get a jump start on your workweek with DevOps'ish XXX — DESC https://devopsish.com/XXX #DevOps #GitOps #Cloud #Kubernetes #Tech #News #Newsletter
 
-### Tuesday PM (Click)
+### Tuesday 9 AM (Click)
 
-Click link, get news. DevOps'ish XXX — DESC https://devopsish.com/XXX #DevOps #GitOps #Cloud #Kubernetes #Tech #News #Newsletter
+The latest in Cloud Native, DevOps, GitOps, Open Source, industry news, culture, & the 'ish between. DevOps'ish XXX — DESC https://devopsish.com/XXX #DevOps #GitOps #Cloud #Kubernetes #Tech #News #Newsletter
 
 ### Wednesday PM (Influencer Social)
 
