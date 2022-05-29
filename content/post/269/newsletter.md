@@ -6,7 +6,7 @@ description = ["On Vacation, Layoff and Freezes, Unlimited PTO, Broadcom offers 
 draft = false
 slug = "269"
 tags = ["Argo", "security", "containerd", "Detroit", "cloud", "layoffs", "hiring", "Google", "open source", "cloud native", "code", "runc", "CRI", "HCL", "Kubernetes", "tech news", "VMware"]
-title = "DevOps'ish 269: On Vacation, Layoff and Freezes, Unlimited PTO, Broadcom offers to buy VMware, and much more"
+title = "DevOps'ish 269: On Vacation, Layoffs and Freezes, Unlimited PTO, Broadcom offers to buy VMware, and much more"
 +++
 
 On a much-needed vacation this weekend. Enjoying Traverse City's finer local haunts. Amazingly, this city is in the same state that Detroit is. Speaking of, I can't wait until KubeCon NA 2022 in Detroit. As we get closer to an event, I'll be sharing some more local news and info (like the Aloft will be under construction during KubeCon NA). I know there's a large contingent of Michiganders that read this newsletter. What's one fantastic thing folks in downtown Detroit can't miss (hit reply, yes, I filter out-of-office messages in 40+ languages)?
