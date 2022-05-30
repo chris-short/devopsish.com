@@ -29,6 +29,10 @@ summaryLength = 160
   github = "chris-short"
   linkedin = "/in/thechrisshort/"
   disableHLJS = "true"
+  ShowCodeCopyButtons = "true"
+# User feedback: https://twitter.com/skwashd/status/1531142957377593345
+  defaultTheme = "light"
+  disableThemeToggle = "true"
 
   [params.stats]
     subscribers = "6,100+"
