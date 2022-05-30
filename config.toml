@@ -33,9 +33,6 @@ summaryLength = 160
 # User feedback: https://twitter.com/skwashd/status/1531142957377593345
   defaultTheme = "light"
   disableThemeToggle = "true"
-  disableScrollToTop = "true"
-  ShowWordCount = "true" 
-  ShowRssButtonInSectionTermList= "true"
 
   [params.stats]
     subscribers = "6,100+"
