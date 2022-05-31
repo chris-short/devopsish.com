@@ -32,7 +32,9 @@ summaryLength = 160
   ShowCodeCopyButtons = "true"
   defaultTheme = "light"
   disableThemeToggle = "true"
-
+  ShowWordCount = "true"
+  ShowRssButtonInSectionTermList = "true"
+  ShowShareButtons = "true"
 
   [params.stats]
     subscribers = "6,100+"
