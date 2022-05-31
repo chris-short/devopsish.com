@@ -30,9 +30,9 @@ summaryLength = 160
   linkedin = "/in/thechrisshort/"
   disableHLJS = "true"
   ShowCodeCopyButtons = "true"
-# User feedback: https://twitter.com/skwashd/status/1531142957377593345
   defaultTheme = "light"
   disableThemeToggle = true
+
 
 
   [params.stats]
