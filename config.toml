@@ -31,9 +31,10 @@ summaryLength = 160
   disableHLJS = "true"
   ShowCodeCopyButtons = "true"
   defaultTheme = "light"
-  disableThemeToggle = true
-
-
+  disableThemeToggle = "true"
+  ShowWordCount = "true"
+  ShowRssButtonInSectionTermList = "true"
+  ShowShareButtons = "true"
 
   [params.stats]
     subscribers = "6,100+"
