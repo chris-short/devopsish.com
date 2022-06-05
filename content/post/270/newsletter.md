@@ -49,7 +49,7 @@ Each year the [DevOps Research and Assessment (DORA)](https://www.devops-researc
 
 > This report documents both quantitative measures of community health (project milestones and snapshot) as well as qualitative measures of the community as reported by community leaders and contributors to the project.
 > 
-> Authors: The Kubernetes Steering Committee
+> Authors: The Kubernetes Steering Committee  
 > Editor: Tim Bannister, @sftim, SIG Docs Tech Lead
 
 ## Events
