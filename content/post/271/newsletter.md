@@ -106,14 +106,6 @@ An open source, markdown-based, self-hosted note taking webapp
 [Lissy93/dashy](https://github.com/Lissy93/dashy)  
 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
-## DevOps'ish Post of the Week
-
-[![I would have thought you already had at least 10,000! For what it's worth you doing the no-tracking, privacy-friendly thing is a big selling point for me tbh Kai (@KaiPMDH) on Twitter)](https://shortcdn.com/file/devopsish/271-devopsish-post-of-the-week.webp)](https://twitter.com/KaiPMDH/status/1531269812596391938)
-
 ### Got a newsletter worthy post?
 
 Have a story for the newsletter? Getting exposure via this newsletter is [a pull request](https://github.com/chris-short/devopsish.com/issues/new/choose) away. Tips is the very first option, click "[Get Started](https://github.com/chris-short/devopsish.com/issues/new?assignees=chris-short&labels=tips&template=TIPS.md&title=%5BTips%5D%3A+)", and off you go.
-
-### There's another newsletter these days
-
-If you're not aware, I'm also writing a newsletter for work. [EKS News](https://eks.news/?source=devopish) is a newsletter curated by the Amazon Elastic Kubernetes Service (Amazon EKS) Developer Advocates. It aims to bring the latest and greatest on all things AWS Elastic Kubernetes Service, Kubernetes, and Cloud Native. Keeping up with what's happening so you can stay on top of this evolving space. [Subscribe today](https://eks.news/?source=devopish)!
