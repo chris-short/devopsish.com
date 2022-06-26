@@ -16,4 +16,4 @@ aliases = [
 
 Thank you for subscribing!
 
-Check out the the [latest edition](/).
+Check out the the [latest edition](https://devopsi.sh/latest).
