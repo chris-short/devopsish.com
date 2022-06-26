@@ -9,7 +9,15 @@ tags = []
 title = "DevOps'ish 273: "
 +++
 
-This week is I was in Austin, Texas (where it was hotter than the hinges of hell) at Open Source Summit.
+This week I was in Austin, Texas (where it was hotter than the hinges of hell) at Open Source Summit. I staffed the AWS booth, attended a few talks, met with friends I hadn't seen in long, and became generally reinvigorated about open source. It's my last event on the Amazon EKS team. I'm moving inside the Containers organization at AWS to work on a new and different project.
+
+AWS was a leading sponsor. I had great conversations with folks. Undergrads, customers, partners, and others had questions about Kubernetes, EKS, or GitOps. I gave a booth demo on Multi-Cluster GitOps, a solution we intend to open source soon.
+
+I was impressed by quite a few sponsors there. [Camunda](https://camunda.com), [Coder](https://coder.com) (thanks for the Caddy config), [KubeCost](https://www.kubecost.com/), [Solo](https://www.solo.io/), and [Capital One](https://www.capitalone.com/tech/) all had great presences at the conference. But two newer companies melted my brain with how excellent their products were: **Fermyon** and **Clockwork**.
+
+[Fermyon](https://www.fermyon.com) ventured out to start a company for all you WebAssembly fans (closet fan, still need to learn it). Fermyon is making a batteries included WebAssembly platform. I feel Fermyon will soon make its way into the mainstream WebAssembly developers' workflows. My friend Michelle Dhanani and others from Microsoft are there, so I'm certain they'll be doing some fantastic things. Be sure to checkout their `spin` repo in the [Tools](#tools) section.
+
+[Clockwork](https://www.clockwork.io/) is another company that caught my eye. Their premise is that their time service is highly available AND highly accurate. Using this in your Kubernetes cluster will provide very precise time stamps. If you've ever noticed an event in your cluster before the resource was created, you need a better timing solution, and Clockwork is here to provide it. They are so accurate and highly available that they compare themselves to Google Spanner's TrueTime system, which helps that database solution overcome the CAP Theorem. They demonstrated microsecond accuracy even when they lose significant resources and time stays accurate to the microsecond.
 
 ## Observability Leader Honeycomb Releases O’Reilly Book on Observability
 
@@ -39,7 +47,9 @@ PROCESS
 
 ## Tools
 
-TOOLS
+[fermyon/spin](https://github.com/fermyon/spin)  
+"Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly"
+
 
 ### Got a newsletter worthy post?
 

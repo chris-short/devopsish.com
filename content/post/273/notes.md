@@ -16,3 +16,116 @@ Each year the [DevOps Research and Assessment (DORA)](https://www.devops-researc
 
 ## Notes
 
+[CNCF's Interim CNCF Code of Conduct Committee has launched | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/06/23/cncfs-interim-cncf-code-of-conduct-committee-has-launched/)
+
+[Ubuntu Developers Have An Idea For Handling The Over-Eager Systemd OOMD App Killing - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Systemd-OOMD-Ubuntu-RFC)
+
+[2022 Open Source Summit – Day 2 | Adventures in Open Source](https://www.adventuresinoss.com/2022/06/23/2022-open-source-summit-day-2/)
+
+[Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
+
+[https://twitter.com/hasheddan/status/1540016556184305672?s=12&t=F_WZT7AK5umqIqBLXIM0cw](https://twitter.com/hasheddan/status/1540016556184305672?s=12&t=F_WZT7AK5umqIqBLXIM0cw)
+
+[Deploying a HA Kubernetes cluster on Raspberry Pi using Kubeadm](https://sayakm.me/deploying-a-ha-kubernetes-cluster-on-raspberry-pi-using-kubeadm/)
+
+[Russian Hackers Exploiting Microsoft Follina Vulnerability Against Ukraine](https://thehackernews.com/2022/06/russian-hackers-exploiting-microsoft.html)
+
+[SpaceX Starlink Internet Experience & Performance (US Midwest, Mid 2022) Review - Phoronix](https://www.phoronix.com/scan.php?page=article&item=spacex-starlink&num=1)
+
+[Hired Releases Annual State of Wage Inequality in Tech Data Report 2022](https://hired.com/blog/highlights/hired-releases-annual-state-wage-inequality-tech-data-report-2022/?cookie_consent=true)
+
+[Introducing 1Password for Visual Studio Code | 1Password](https://blog.1password.com/1password-visual-studio-code/)
+
+[CSI_KEEPING_POWERSHELL_SECURITY_MEASURES_TO_USE_AND_EMBRACE_20220622.PDF](https://media.defense.gov/2022/Jun/22/2003021689/-1/-1/1/CSI_KEEPING_POWERSHELL_SECURITY_MEASURES_TO_USE_AND_EMBRACE_20220622.PDF)
+
+[Introducing Tailscale SSH · Tailscale](https://tailscale.com/blog/tailscale-ssh/)
+
+[ondat/discoblocks: Open Source declarative disk configuration system for Kubernetes](https://github.com/ondat/discoblocks)
+
+[nyph-infosec/daggerboard](https://github.com/nyph-infosec/daggerboard)
+
+[GitBOM](https://gitbom.dev/)
+
+[Tips for passing the Certified Kubernetes Administrator (CKA) Exam | The Cloud On My Mind](https://www.thecloudonmymind.com/Tips-for-passing-the-Certified-Kubernetes-Administrator-CKA-Exam/)
+
+[Linus Torvalds: Rust For The Kernel Could Possibly Be Merged For Linux 5.20 - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
+
+[Micron introduces the first 1.5 TB microSD card - Liliputing](https://liliputing.com/2022/06/micron-introduces-the-first-1-5-tb-microsd-card.html)
+
+[New NTLM Relay Attack Lets Attackers Take Control Over Windows Domain](https://thehackernews.com/2022/06/new-ntlm-relay-attack-lets-attackers.html)
+
+[Tiger Global: ‘Poster Child' of the Tech Meltdown](https://nymag.com/intelligencer/2022/06/tiger-global-poster-child-of-the-tech-meltdown.html)
+
+[A closer look at CVSS scores :: Theory of Predictable Software](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
+
+[DocuSign CEO Dan Springer steps down](https://www.cnbc.com/2022/06/21/docusign-ceo-dan-springer-steps-down.html?__source=iosappshare%7Cio.raindrop.ios.share)
+
+[https://twitter.com/Akash_2106/status/1537125138449063937?utm_campaign=DevRel%2BWeekly&utm_medium=email&utm_source=DevRel_Weekly_193](https://twitter.com/Akash_2106/status/1537125138449063937?utm_campaign=DevRel%2BWeekly&utm_medium=email&utm_source=DevRel_Weekly_193)
+
+[Introduction | netboot.xyz](https://netboot.xyz/docs/)
+
+[In Israel, hurdles remain in hiring displaced Ukrainians for Tech](https://www.geektime.com/world-refugee-day-2022/)
+
+[GitHub Bug Allowed Third-Party Apps to Gain Elevated Permissions](https://blog.aquasec.com/github-app-tokens)
+
+[Going On Call for the First Time - Honeycomb](https://www.honeycomb.io/blog/going-on-call-first-time/)
+
+[Compress Images in Linux Easily With Curtail GUI App - It's FOSS](https://itsfoss.com/curtail-image-compress/)
+
+[The State of WebAssembly 2022](https://blog.scottlogic.com/2022/06/20/state-of-wasm-2022.html)
+
+[Conway's Law and GitOps | ChrisShort.net](https://chrisshort.net/conways-law-and-gitops/)
+
+[A Quick Look at QUIC Censorship | OONI](https://ooni.org/post/2022-quick-look-quic-censorship/)
+
+[Taking VSCodium for a spin](https://blog.frankel.ch/take-vscode-spin/)
+
+[Using Vim as Your MySQL Shell Editor | Thomas Stringer](https://trstringer.com/vim-mysqlsh/)
+
+[Apple Workers at Maryland Store Vote to Unionize, a First in the U.S. - The New York Times](https://www.nytimes.com/2022/06/18/technology/apple-union-maryland.html?referringSource=articleShare)
+
+[EPEL Statistics Show Recent Surge In Rocky Linux Usage Past AlmaLinux, CentOS Stream - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=EPEL-Stats-Rocky-Linux-Surge)
+
+[Mythra/typeish: A runtime type checker for bash.... in bash. I'm not sorry.](https://github.com/Mythra/typeish)
+
+[errata-ai/vale: A syntax-aware linter for prose built with speed and extensibility in mind.](https://github.com/errata-ai/vale)
+
+[Undo your last git mistake with ugit](https://bhupesh.me/undo-your-last-git-mistake-with-ugit/)
+
+[Ex-Amazon Worker Convicted in Capital One Hacking - The New York Times](https://www.nytimes.com/2022/06/17/technology/paige-thompson-capital-one-hack.html)
+
+[The Fallacy of Splitting Time - Ben Northrop](https://www.bennorthrop.com/Essays/2022/fallacy-of-splitting-time.php)
+
+[Writing like a pro with vale & neovim](https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/)
+
+[ARMO: Misconfiguration Is Number 1 Kubernetes Security Risk – The New Stack](https://thenewstack.io/armo-misconfiguration-is-number-1-kubernetes-security-risk/)
+
+[Troubleshooting Amazon EKS API servers with Prometheus | Containers](https://aws.amazon.com/blogs/containers/troubleshooting-amazon-eks-api-servers-with-prometheus/)
+
+[What is DevRel? · Tessa Kriesel](https://www.tessakriesel.com/what-is-devrel/)
+
+[https://twitter.com/ChrisShort/status/1540391736970821642](https://twitter.com/ChrisShort/status/1540391736970821642)
+
+[KubeCon + CloudNativeCon Europe 2022 Transparency Report | Cloud Native Computing Foundation](https://www.cncf.io/reports/kubecon-cloudnativecon-europe-2022/)
+
+[HashiCorp Vault 1.11 Adds Kubernetes Secrets Engine, PKI Updates, and More](https://www.hashicorp.com/blog/vault-1-11)
+
+[Local RaspberryPi Kubernetes - accessed anywhere with Tailscale - YouTube](https://www.youtube.com/watch?v=dXDcXO5LVY4)
+
+[Intel puts Ohio factory groundbreaking on hold while Congress sits on CHIPS Act | ZDNet](https://www.zdnet.com/article/intel-puts-ohio-factory-groundbreaking-on-hold-while-congress-sits-on-chips-act/)
+
+[Cryptographic Signing for Containers | Containers](https://aws.amazon.com/blogs/containers/cryptographic-signing-for-containers/)
+
+[rxyhn/dotfiles: My awesomewm dotfiles for awesome people! ✨](https://github.com/rxyhn/dotfiles)
+
+[LCD vs. LED vs. Mini LED vs. OLED: A quick guide | Ars Technica](https://arstechnica.com/gadgets/2022/06/lcd-vs-led-vs-mini-led-vs-oled-a-quick-guide/)
+
+[Zendesk to be acquired for $10.2B by investor consortium - SiliconANGLE](https://siliconangle.com/2022/06/24/zendesk-acquired-10-2b-investor-consortium/)
+
+[Microsoft Internet Explorer Tombstone](https://www.seroundtable.com/photos/microsoft-internet-explorer-tombstone-33610.html)
+
+[sigstore/gitsign: Keyless Git signing using Sigstore](https://github.com/sigstore/gitsign)
+
+[Understanding data transfer costs for AWS container services | Containers](https://aws.amazon.com/blogs/containers/understanding-data-transfer-costs-for-aws-container-services/)
+
+[Kubernetes security scanning with Trivy CLI and Trivy Operator - YouTube](https://www.youtube.com/watch?v=bgYrhQ6rTXA)
