@@ -59,6 +59,7 @@ The community took control of the CNCF Code of Conduct process. I have the faint
 Bhupesh Varshney  
 "It’s just a simple shell script with guided programmatic steps to undo your last git command, powered by FZF built for people who live and work with terminals every day."
 
+{{< tweet id="1540016556184305672" user="hasheddan" >}}
 
 
 [fermyon/spin](https://github.com/fermyon/spin)  
@@ -66,7 +67,7 @@ Bhupesh Varshney
 
 ## DevOps'ish Post of the Week
 
-{{ tweet id="1540016556184305672" user="hasheddan" }}
+
 
 ### Got a newsletter worthy post?
 
