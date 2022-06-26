@@ -14,6 +14,6 @@ aliases = [
 
 +++
 
-Thank you for subscribing!
+Thank you so much for subscribing!
 
 Check out the the [latest edition](/).
