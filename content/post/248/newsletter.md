@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-12-19T07:00:00Z
 description = ["Log4j every day, the groping metaverse, e-waste, Deciding Between Argo CD and Flux, what happens when you upgrade to Kubernetes 1.24, and more"]
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-10-31T07:00:00Z
 description = ["REvil roasted, exfil with eBPF, stop your standups, find your coding font, VSCode in browser, and more"]
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-03-28T07:00:00Z
 description = "He who was mentioned in DevOps'ish 145, OpenSSL updates, New AWS CEO, Apple linked to Chinese tracking apps, 92% of all on-premises Microsoft Exchange servers patched, TSMC, coffee shortage, and more"
 draft = false

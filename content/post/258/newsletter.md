@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-02-27T07:00:00Z
 description = ["Agile fails without psychological safety, Intel and Snyk acquire companies, Nvidia gets hit and punches back, GitOps with Flux, OrioleDB, and more"]
 draft = false

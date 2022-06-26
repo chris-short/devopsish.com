@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-02-06T07:00:00Z
 description = ["Open source operational transparency, npm security, Blackberry sells off patents, Samba vuln, Minecraft server in 10, GitOps Terraform controller for Kubernetes, and more"]
 draft = false

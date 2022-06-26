@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-12-05T07:00:00Z
 description = ["A little terrorism, The Case of the Recursive Resolvers, Knative asks to join CNCF, Karpenter, and move"]
 draft = false
