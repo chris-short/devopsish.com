@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-01-17T07:00:00Z
 description = "Elastic's license problem, Dropbox layoffs, CISA recommending ad blockers, KubeLinter, kube-state-metrics, awesome-limits, folks fleeing for Signal & Telegram, and more"
 draft = false

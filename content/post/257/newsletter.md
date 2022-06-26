@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-02-20T07:00:00Z
 description = ["Kubernetes dockershim removal work, shades of DevOps, signal jamming is still illegal (in most places), CKA tips, PostgreSQL horrors, Kubernetes on a PS4, and more"]
 draft = false

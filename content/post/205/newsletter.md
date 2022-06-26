@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-02-14T07:00:00Z
 description = "Kubernetes Pod Security Policy Deprecation, open source skills are crucial, harms of large language models, Supermicro, water plant breach, VSCode repo FUD, and more"
 draft = false

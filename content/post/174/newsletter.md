@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
 date = 2020-04-05T07:00:00Z
 description = "Free Ansible & Kubernetes books, migrating to Kubernetes, Ansible GitOps, OpenShift Virtualization, Ingress API tweaks in Kubernetes 1.18, and more"
 draft = false

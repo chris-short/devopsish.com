@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
 date = 2020-01-26T07:00:00Z
 description = "Your why, DevOps engineer interview questions, Managing the Hidden Costs of Coordination, kube-scan, funding rounds, and more"
 draft = false

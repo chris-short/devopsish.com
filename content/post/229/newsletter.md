@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-08-08T07:00:00Z
 description = ["Kubernetes 1.22, KubeCon schedule announced, security fails abound, Zoom's paltry fine, finally death to 996, NSA Kubernetes Hardening Guidance, and much more"]
 draft = false

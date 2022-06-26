@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-01-02T07:00:00Z
 description = ["2021 is so 2020, It's not you, it's them, US 5G rollout issues, P2E gaming, Log4j (still), Microsoft Exchange year 2022 bug, privacy's big year, has serverless peaked, youki, and more"]
 draft = false

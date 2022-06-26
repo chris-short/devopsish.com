@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2019"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2019"]
 date = 2019-02-03T07:00:00Z
 description = "Ansible Operator, Groundhog Day, DevOps Team Topologies, OSS CS Degree, Multi-Arch Home Kubernetes Cluster, OpenFaaS Cloud, and More"
 draft = false

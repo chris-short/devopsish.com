@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-02-13T07:00:00Z
 description = ["EARN IT Act is back and worse than ever, SSD chip contamination, technical debt, SBOMs, Tools for Securing Your Kubernetes Cluster, ValidKube, and more"]
 draft = false
