@@ -20,23 +20,11 @@ Each year the [DevOps Research and Assessment (DORA)](https://www.devops-researc
 
 [2022 Open Source Summit – Day 2 | Adventures in Open Source](https://www.adventuresinoss.com/2022/06/23/2022-open-source-summit-day-2/)
 
-[https://twitter.com/hasheddan/status/1540016556184305672?s=12&t=F_WZT7AK5umqIqBLXIM0cw](https://twitter.com/hasheddan/status/1540016556184305672?s=12&t=F_WZT7AK5umqIqBLXIM0cw)
-
-[Deploying a HA Kubernetes cluster on Raspberry Pi using Kubeadm](https://sayakm.me/deploying-a-ha-kubernetes-cluster-on-raspberry-pi-using-kubeadm/)
-
 [Russian Hackers Exploiting Microsoft Follina Vulnerability Against Ukraine](https://thehackernews.com/2022/06/russian-hackers-exploiting-microsoft.html)
-
-[SpaceX Starlink Internet Experience & Performance (US Midwest, Mid 2022) Review - Phoronix](https://www.phoronix.com/scan.php?page=article&item=spacex-starlink&num=1)
-
-[Hired Releases Annual State of Wage Inequality in Tech Data Report 2022](https://hired.com/blog/highlights/hired-releases-annual-state-wage-inequality-tech-data-report-2022/?cookie_consent=true)
 
 [Introducing 1Password for Visual Studio Code | 1Password](https://blog.1password.com/1password-visual-studio-code/)
 
 [CSI_KEEPING_POWERSHELL_SECURITY_MEASURES_TO_USE_AND_EMBRACE_20220622.PDF](https://media.defense.gov/2022/Jun/22/2003021689/-1/-1/1/CSI_KEEPING_POWERSHELL_SECURITY_MEASURES_TO_USE_AND_EMBRACE_20220622.PDF)
-
-[Introducing Tailscale SSH · Tailscale](https://tailscale.com/blog/tailscale-ssh/)
-
-[ondat/discoblocks: Open Source declarative disk configuration system for Kubernetes](https://github.com/ondat/discoblocks)
 
 [nyph-infosec/daggerboard](https://github.com/nyph-infosec/daggerboard)
 

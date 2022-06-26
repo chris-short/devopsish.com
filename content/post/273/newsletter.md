@@ -51,7 +51,10 @@ It's as if Steve Ballmer is walking out on a stage, sweaty af, yelling, "Contain
 
 [CNCF's Interim CNCF Code of Conduct Committee has launched](https://www.cncf.io/blog/2022/06/23/cncfs-interim-cncf-code-of-conduct-committee-has-launched/)  
 CNCF Staff  
-The community took control of the CNCF Code of Conduct process. I have the faintest of hopes for the right things to be done. But, from the looks of things. I might not be a KubeCon Detroit unless work really wants me to be.
+The community took control of the CNCF Code of Conduct process. I have the faintest of hopes for the right things to be done. But, from the looks of things, I might not be a KubeCon Detroit if cards fall a certain way.
+
+[Hired Releases Annual State of Wage Inequality in Tech Data Report 2022](https://hired.com/blog/highlights/hired-releases-annual-state-wage-inequality-tech-data-report-2022/?cookie_consent=true)
+
 
 ## Tools
 
@@ -59,15 +62,29 @@ The community took control of the CNCF Code of Conduct process. I have the faint
 Bhupesh Varshney  
 "It’s just a simple shell script with guided programmatic steps to undo your last git command, powered by FZF built for people who live and work with terminals every day."
 
-{{< tweet id="1540016556184305672" user="hasheddan" >}}
+[Deploying a HA Kubernetes cluster on Raspberry Pi using Kubeadm](https://sayakm.me/deploying-a-ha-kubernetes-cluster-on-raspberry-pi-using-kubeadm/)  
+Sayak Mukhopadhyay  
+"I hadn't had the opportunity to set up a cluster by myself. But, I always wanted to setup a bare metal cluster one day." Bare Metal Kubernetes is the future for a lot of folks.
 
+[SpaceX Starlink Internet Experience & Performance (US Midwest, Mid 2022) Review](https://www.phoronix.com/scan.php?page=article&item=spacex-starlink&num=1)  
+Michael Larabel, Phoronix  
+If these are the speeds over Chicago, I do not feel bad at all about not rushing out to get on the Starlink bandwagon.
+
+[Introducing Tailscale SSH](https://tailscale.com/blog/tailscale-ssh/)  
+Brad Fitzpatrick, Maisem Ali, Maya Kaczorowski and Ross Zurowski, Tailscale  
+"Tailscale SSH allows you to establish SSH connections between devices in your Tailscale network, as authorized by your access controls, without managing SSH keys, and authenticates your SSH connection using WireGuard®."
+
+[![If your GitHub workflows use the Ubuntu image, interact with AWS, and started breaking today, it is likely due to the fact that the AWS CLI has been updated to v2.7.9, which includes breaking changes. @hasheddan on Twitter)](https://shortcdn.com/file/devopsish/hasheddan-github-actions.webp)](https://twitter.com/hasheddan/status/1540016556184305672)
+
+[ondat/discoblocks](https://github.com/ondat/discoblocks)  
+"Open Source declarative disk configuration system for Kubernetes" We need more projects like this to help simplify storage for cluster admins.
 
 [fermyon/spin](https://github.com/fermyon/spin)  
 "Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly"
 
 ## DevOps'ish Post of the Week
 
-
+{{< tweet user="YourAnonNews" id="1540526828603015169" >}}
 
 ### Got a newsletter worthy post?
 
