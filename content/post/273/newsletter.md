@@ -66,7 +66,7 @@ Bhupesh Varshney
 
 ## DevOps'ish Post of the Week
 
-{{ twitter id="1540016556184305672" user="hasheddan" }}
+{{ tweet id="1540016556184305672" user="hasheddan" }}
 
 ### Got a newsletter worthy post?
 
