@@ -39,17 +39,34 @@ SCALE is the largest community-run open-source and free software conference in N
 
 ## People
 
-PEOPLE
+[KubeCon + CloudNativeCon Europe 2022 Transparency Report](https://www.cncf.io/reports/kubecon-cloudnativecon-europe-2022/)  
+CNCF Staff  
+As I mentioned [on Twitter](https://twitter.com/ChrisShort/status/1540391736970821642), I am very disappointed in our diversity stats. CNCF senior leadership needs to look inwardly and realize this isn't what we want as a community.
+
+[Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)  
+Stack Overflow Staff  
+It's as if Steve Ballmer is walking out on a stage, sweaty af, yelling, "Containers, containers, containers."
 
 ## Process
 
-PROCESS
+[CNCF's Interim CNCF Code of Conduct Committee has launched](https://www.cncf.io/blog/2022/06/23/cncfs-interim-cncf-code-of-conduct-committee-has-launched/)  
+CNCF Staff  
+The community took control of the CNCF Code of Conduct process. I have the faintest of hopes for the right things to be done. But, from the looks of things. I might not be a KubeCon Detroit unless work really wants me to be.
 
 ## Tools
+
+[Undo your last git mistake with ugit](https://bhupesh.me/undo-your-last-git-mistake-with-ugit/)  
+Bhupesh Varshney  
+"It’s just a simple shell script with guided programmatic steps to undo your last git command, powered by FZF built for people who live and work with terminals every day."
+
+
 
 [fermyon/spin](https://github.com/fermyon/spin)  
 "Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly"
 
+## DevOps'ish Post of the Week
+
+{{ twitter id="1540016556184305672" user="hasheddan" }}
 
 ### Got a newsletter worthy post?
 

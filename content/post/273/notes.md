@@ -16,13 +16,9 @@ Each year the [DevOps Research and Assessment (DORA)](https://www.devops-researc
 
 ## Notes
 
-[CNCF's Interim CNCF Code of Conduct Committee has launched | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/06/23/cncfs-interim-cncf-code-of-conduct-committee-has-launched/)
-
 [Ubuntu Developers Have An Idea For Handling The Over-Eager Systemd OOMD App Killing - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Systemd-OOMD-Ubuntu-RFC)
 
 [2022 Open Source Summit – Day 2 | Adventures in Open Source](https://www.adventuresinoss.com/2022/06/23/2022-open-source-summit-day-2/)
-
-[Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/)
 
 [https://twitter.com/hasheddan/status/1540016556184305672?s=12&t=F_WZT7AK5umqIqBLXIM0cw](https://twitter.com/hasheddan/status/1540016556184305672?s=12&t=F_WZT7AK5umqIqBLXIM0cw)
 
@@ -90,8 +86,6 @@ Each year the [DevOps Research and Assessment (DORA)](https://www.devops-researc
 
 [errata-ai/vale: A syntax-aware linter for prose built with speed and extensibility in mind.](https://github.com/errata-ai/vale)
 
-[Undo your last git mistake with ugit](https://bhupesh.me/undo-your-last-git-mistake-with-ugit/)
-
 [Ex-Amazon Worker Convicted in Capital One Hacking - The New York Times](https://www.nytimes.com/2022/06/17/technology/paige-thompson-capital-one-hack.html)
 
 [The Fallacy of Splitting Time - Ben Northrop](https://www.bennorthrop.com/Essays/2022/fallacy-of-splitting-time.php)
@@ -105,8 +99,6 @@ Each year the [DevOps Research and Assessment (DORA)](https://www.devops-researc
 [What is DevRel? · Tessa Kriesel](https://www.tessakriesel.com/what-is-devrel/)
 
 [https://twitter.com/ChrisShort/status/1540391736970821642](https://twitter.com/ChrisShort/status/1540391736970821642)
-
-[KubeCon + CloudNativeCon Europe 2022 Transparency Report | Cloud Native Computing Foundation](https://www.cncf.io/reports/kubecon-cloudnativecon-europe-2022/)
 
 [HashiCorp Vault 1.11 Adds Kubernetes Secrets Engine, PKI Updates, and More](https://www.hashicorp.com/blog/vault-1-11)
 
