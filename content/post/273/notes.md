@@ -28,8 +28,6 @@ Each year the [DevOps Research and Assessment (DORA)](https://www.devops-researc
 
 [nyph-infosec/daggerboard](https://github.com/nyph-infosec/daggerboard)
 
-[GitBOM](https://gitbom.dev/)
-
 [Tips for passing the Certified Kubernetes Administrator (CKA) Exam | The Cloud On My Mind](https://www.thecloudonmymind.com/Tips-for-passing-the-Certified-Kubernetes-Administrator-CKA-Exam/)
 
 [Linus Torvalds: Rust For The Kernel Could Possibly Be Merged For Linux 5.20 - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)

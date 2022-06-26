@@ -76,6 +76,12 @@ Brad Fitzpatrick, Maisem Ali, Maya Kaczorowski and Ross Zurowski, Tailscale
 
 [![If your GitHub workflows use the Ubuntu image, interact with AWS, and started breaking today, it is likely due to the fact that the AWS CLI has been updated to v2.7.9, which includes breaking changes. @hasheddan on Twitter)](https://shortcdn.com/file/devopsish/hasheddan-github-actions.webp)](https://twitter.com/hasheddan/status/1540016556184305672)
 
+[GitBOM](https://gitbom.dev/)  
+"GitBOM is a minimalistic scheme for build tools to:
+
+1. Build a compact Artifact Dependency Graph (ADG), tracking every source code file incorporated into each built artifact.
+1. Embed a unique, content-addressable reference for that Artifact Dependency Graph (ADG), the GitBOM identifier, into the artifact at build time."
+
 [ondat/discoblocks](https://github.com/ondat/discoblocks)  
 "Open Source declarative disk configuration system for Kubernetes" We need more projects like this to help simplify storage for cluster admins.
 
@@ -84,7 +90,9 @@ Brad Fitzpatrick, Maisem Ali, Maya Kaczorowski and Ross Zurowski, Tailscale
 
 ## DevOps'ish Post of the Week
 
-{{< tweet user="YourAnonNews" id="1540526828603015169" >}}
+Friday was a "where were you when" kind of day.
+
+[![@YourAnonNews on Twitter)](https://shortcdn.com/file/devopsish/273-devopsish-post-of-the-week.webp)](https://twitter.com/YourAnonNews/status/1540526828603015169)
 
 ### Got a newsletter worthy post?
 
