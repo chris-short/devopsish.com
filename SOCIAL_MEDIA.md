@@ -33,7 +33,7 @@ The latest in Cloud Native, DevOps, GitOps, Open Source, industry news, culture,
 
 ### Wednesday PM (Influencer Social)
 
-DevOps'ish is built by open source leader, #Kubernetes contributor, #DevOps practitioner, and OpenGitOps co-chair, Chris Short. Subscribe today! https://devopsish.com/subscribe #GitOps
+DevOps'ish is built by open source leader, #Kubernetes contributor, #DevOps practitioner, and GitOps enthusiast Chris Short. Subscribe today! https://devopsish.com/subscribe #GitOps
 
 ### Thursday PM (1-2 PM, Random Subscribe Giphy)
 
