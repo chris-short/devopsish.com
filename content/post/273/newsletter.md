@@ -39,6 +39,14 @@ SCALE is the largest community-run open-source and free software conference in N
 
 ## People
 
+[Tiger Global: 'Poster Child' of the Tech Meltdown](https://nymag.com/intelligencer/2022/06/tiger-global-poster-child-of-the-tech-meltdown.html)  
+Michelle Celarier, Intelligencer  
+"The guy who started as a shy analyst would put up impressive gains for years, then suffer mind-boggling losses: $25 billion (and counting) as of June, a record figure even in the lofty world of hedge funds." What goes up, must come down.
+
+[DocuSign CEO Dan Springer steps down](https://www.cnbc.com/2022/06/21/docusign-ceo-dan-springer-steps-down.html)  
+Jessica Bursztynsky, CNBC  
+"DocuSign CEO Dan Springer is stepping down in his role after the e-signature software maker lost more than 60% of its value year to date."
+
 [KubeCon + CloudNativeCon Europe 2022 Transparency Report](https://www.cncf.io/reports/kubecon-cloudnativecon-europe-2022/)  
 CNCF Staff  
 As I mentioned [on Twitter](https://twitter.com/ChrisShort/status/1540391736970821642), I am very disappointed in our diversity stats. CNCF senior leadership needs to look inwardly and realize this isn't what we want as a community.
@@ -47,14 +55,23 @@ As I mentioned [on Twitter](https://twitter.com/ChrisShort/status/15403917369708
 Stack Overflow Staff  
 It's as if Steve Ballmer is walking out on a stage, sweaty af, yelling, "Containers, containers, containers."
 
+[Tips for passing the Certified Kubernetes Administrator (CKA) Exam](https://www.thecloudonmymind.com/Tips-for-passing-the-Certified-Kubernetes-Administrator-CKA-Exam/)  
+The Cloud On My Mind
+"I was extremely nervous before writing the CKA exam, but with the right strategy this exam can be less stressful to take and you too can enjoy the sweet certificate and badge provided by the Linux Foundation when you pass 😄"
+
 ## Process
 
 [CNCF's Interim CNCF Code of Conduct Committee has launched](https://www.cncf.io/blog/2022/06/23/cncfs-interim-cncf-code-of-conduct-committee-has-launched/)  
 CNCF Staff  
 The community took control of the CNCF Code of Conduct process. I have the faintest of hopes for the right things to be done. But, from the looks of things, I might not be a KubeCon Detroit if cards fall a certain way.
 
-[Hired Releases Annual State of Wage Inequality in Tech Data Report 2022](https://hired.com/blog/highlights/hired-releases-annual-state-wage-inequality-tech-data-report-2022/?cookie_consent=true)
+[Hired Releases Annual State of Wage Inequality in Tech Data Report 2022](https://hired.com/blog/highlights/hired-releases-annual-state-wage-inequality-tech-data-report-2022/)  
+Hired Staff  
+"The gender and race wage gap is narrowing, but access to opportunity and discrepancies in salaries persist for underrepresented tech talent." We have to do better as an industry.
 
+[New NTLM Relay Attack Lets Attackers Take Control Over Windows Domain](https://thehackernews.com/2022/06/new-ntlm-relay-attack-lets-attackers.html)  
+Ravie Lakshmanan, The Hacker News  
+"Spooler service disabled, RPC filters installed to prevent PetitPotam and File Server VSS Agent Service not installed but you still want to relay [Domain Controller authentication to [Active Directory Certificate Services]? Don't worry MS-DFSNM have (sic) your back," security researcher Filip Dragovic said in a tweet." When are we ridding the world of NTLM?
 
 ## Tools
 
@@ -74,6 +91,10 @@ If these are the speeds over Chicago, I do not feel bad at all about not rushing
 Brad Fitzpatrick, Maisem Ali, Maya Kaczorowski and Ross Zurowski, Tailscale  
 "Tailscale SSH allows you to establish SSH connections between devices in your Tailscale network, as authorized by your access controls, without managing SSH keys, and authenticates your SSH connection using WireGuard®."
 
+[Using Vim as Your MySQL Shell Editor](https://trstringer.com/vim-mysqlsh/)  
+Thomas Stringer  
+I thought this was a pretty nifty vim use case.
+
 [![If your GitHub workflows use the Ubuntu image, interact with AWS, and started breaking today, it is likely due to the fact that the AWS CLI has been updated to v2.7.9, which includes breaking changes. @hasheddan on Twitter)](https://shortcdn.com/file/devopsish/hasheddan-github-actions.webp)](https://twitter.com/hasheddan/status/1540016556184305672)
 
 [GitBOM](https://gitbom.dev/)  
@@ -87,6 +108,9 @@ Brad Fitzpatrick, Maisem Ali, Maya Kaczorowski and Ross Zurowski, Tailscale
 
 [fermyon/spin](https://github.com/fermyon/spin)  
 "Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly"
+
+[nyph-infosec/daggerboard](https://github.com/nyph-infosec/daggerboard)  
+"DaggerBoard is a vulnerability scanning tool that ingests Software Bill of Material (SBOM) files (CycloneDX,SPDX) and outputs results in a human-readable format. This tool evaluates software dependencies outlined within the SBOM file for package vulnerabilities."
 
 ## DevOps'ish Post of the Week
 

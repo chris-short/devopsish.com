@@ -26,29 +26,17 @@ Each year the [DevOps Research and Assessment (DORA)](https://www.devops-researc
 
 [CSI_KEEPING_POWERSHELL_SECURITY_MEASURES_TO_USE_AND_EMBRACE_20220622.PDF](https://media.defense.gov/2022/Jun/22/2003021689/-1/-1/1/CSI_KEEPING_POWERSHELL_SECURITY_MEASURES_TO_USE_AND_EMBRACE_20220622.PDF)
 
-[nyph-infosec/daggerboard](https://github.com/nyph-infosec/daggerboard)
-
-[Tips for passing the Certified Kubernetes Administrator (CKA) Exam | The Cloud On My Mind](https://www.thecloudonmymind.com/Tips-for-passing-the-Certified-Kubernetes-Administrator-CKA-Exam/)
-
 [Linus Torvalds: Rust For The Kernel Could Possibly Be Merged For Linux 5.20 - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible)
 
 [Micron introduces the first 1.5 TB microSD card - Liliputing](https://liliputing.com/2022/06/micron-introduces-the-first-1-5-tb-microsd-card.html)
 
-[New NTLM Relay Attack Lets Attackers Take Control Over Windows Domain](https://thehackernews.com/2022/06/new-ntlm-relay-attack-lets-attackers.html)
-
-[Tiger Global: ‘Poster Child' of the Tech Meltdown](https://nymag.com/intelligencer/2022/06/tiger-global-poster-child-of-the-tech-meltdown.html)
-
 [A closer look at CVSS scores :: Theory of Predictable Software](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/)
-
-[DocuSign CEO Dan Springer steps down](https://www.cnbc.com/2022/06/21/docusign-ceo-dan-springer-steps-down.html?__source=iosappshare%7Cio.raindrop.ios.share)
 
 [https://twitter.com/Akash_2106/status/1537125138449063937?utm_campaign=DevRel%2BWeekly&utm_medium=email&utm_source=DevRel_Weekly_193](https://twitter.com/Akash_2106/status/1537125138449063937?utm_campaign=DevRel%2BWeekly&utm_medium=email&utm_source=DevRel_Weekly_193)
 
 [Introduction | netboot.xyz](https://netboot.xyz/docs/)
 
 [In Israel, hurdles remain in hiring displaced Ukrainians for Tech](https://www.geektime.com/world-refugee-day-2022/)
-
-[GitHub Bug Allowed Third-Party Apps to Gain Elevated Permissions](https://blog.aquasec.com/github-app-tokens)
 
 [Going On Call for the First Time - Honeycomb](https://www.honeycomb.io/blog/going-on-call-first-time/)
 
@@ -61,8 +49,6 @@ Each year the [DevOps Research and Assessment (DORA)](https://www.devops-researc
 [A Quick Look at QUIC Censorship | OONI](https://ooni.org/post/2022-quick-look-quic-censorship/)
 
 [Taking VSCodium for a spin](https://blog.frankel.ch/take-vscode-spin/)
-
-[Using Vim as Your MySQL Shell Editor | Thomas Stringer](https://trstringer.com/vim-mysqlsh/)
 
 [Apple Workers at Maryland Store Vote to Unionize, a First in the U.S. - The New York Times](https://www.nytimes.com/2022/06/18/technology/apple-union-maryland.html?referringSource=articleShare)
 
