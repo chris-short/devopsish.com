@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-06-26T07:00:00Z
-description = [""]
+description = ["Open Source Summit, Tiger Global, KubeCon's Lack of Diversity, Interim CNCF Code of Conduct Committee, ugit, GitBOM, Fermyon, Clockwork, and more"]
 draft = false
 slug = "273"
-tags = []
-title = "DevOps'ish 273: "
+tags = ["Argo", "Kubernetes cluster", "Kubernetes", "cluster", "open source", "CNCF", "SSH", "Fermyon", "artifact", "Clowckwork", "AWS", "cloud", "community", "Tailscale", "WebAssembly", "system", "observability"]
+title = "DevOps'ish 273: Open Source Summit, Tiger Global, KubeCon's Lack of Diversity, Interim CNCF Code of Conduct Committee, ugit, GitBOM, Fermyon, Clockwork, and more"
 +++
 
 This week I was in Austin, Texas (where it was hotter than the hinges of hell) at Open Source Summit. I staffed the AWS booth, attended a few talks, met with friends I hadn't seen in long, and became generally reinvigorated about open source. It's my last event on the Amazon EKS team. I'm moving inside the Containers organization at AWS to work on a new and different project.
@@ -25,17 +25,17 @@ Honeycomb helps you sift through billions of events to see your application’s 
 
 ## Events
 
-[**ArgoCon**](https://events.linuxfoundation.org/argocon/?source=devopsish)
-
-SEPTEMBER 19 – 21, 2022
-
-ArgoCon is designed to foster collaboration, discussion, and knowledge sharing on the Argo Project, which consists of four projects: Argo CD, Argo Workflows, Argo Rollouts, and Argo Events. This event is aimed at audiences that are new to Argo as well as providing depth to those currently using Argo within their organization. Connect with others that are passionate about Argo and interact with project maintainers. Learn from practitioners about pitfalls to avoid and best practices on how to adopt Argo in your cloud native environment. Get inspired by and provide input to Argo leads on project roadmaps.
-
 [**SCALE 19x**](http://www.socallinuxexpo.org/?source=devopsish)
 
 JULY 28-31, 2022
 
 SCALE is the largest community-run open-source and free software conference in North America. It is held annually in the greater Los Angeles area. This summer it returns to an in person show at the LAX Hilton.
+
+[**ArgoCon**](https://events.linuxfoundation.org/argocon/?source=devopsish)
+
+SEPTEMBER 19 – 21, 2022
+
+ArgoCon is designed to foster collaboration, discussion, and knowledge sharing on the Argo Project, which consists of four projects: Argo CD, Argo Workflows, Argo Rollouts, and Argo Events. This event is aimed at audiences that are new to Argo as well as providing depth to those currently using Argo within their organization. Connect with others that are passionate about Argo and interact with project maintainers. Learn from practitioners about pitfalls to avoid and best practices on how to adopt Argo in your cloud native environment. Get inspired by and provide input to Argo leads on project roadmaps.
 
 ## People
 
