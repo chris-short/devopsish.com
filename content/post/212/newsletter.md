@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-04-04T07:00:00Z
 description = "Linux lawsuit, universities breached, massive Facebook breach, Amazon's horrible PR in light of conditions, Git Submodules = 👿, GitOpsCon CFP, and more"
 draft = false

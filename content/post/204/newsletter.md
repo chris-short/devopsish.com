@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-02-07T07:00:00Z
 description = "Jassy's New Jam, KubeCon EU for $10, WFH? Wait for vaccine, GCP lost $5.6B in 2020, cloud shells compared, Well switch my qubits! and more"
 draft = false

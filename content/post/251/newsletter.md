@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-01-09T07:00:00Z
 description = ["About last week, 5G shenanigans, Dockershim deprecation, FTC warns companies about Log4j, GitOpsCon EU 2022 CFP open, EKS News, and more"]
 draft = false

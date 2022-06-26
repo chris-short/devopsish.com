@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
 date = 2020-02-23T16:00:00Z
 description = "Two universes of IBM and Red Hat, Impact of Istio and Knative not going to a foundation, compensation questions, technical debt, and more"
 draft = false

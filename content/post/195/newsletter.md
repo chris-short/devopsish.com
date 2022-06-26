@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
 date = 2020-12-06T07:00:00Z
 description = "Google's firing of Timnit Gebru, Slack acquired by Salesforce, Kubernetes dockershim Deprecation, embracing failure, NightWare, GitOps, more ACME CAs, and more"
 draft = false

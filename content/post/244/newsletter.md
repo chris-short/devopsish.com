@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-11-21T07:00:00Z
 description = ["Milestones, K8s Contributor Celebration, Cassidy Williams, Cloud Native Hackathon, Activision Blizzard CEO, GitOps, Fulcio, tools galore, and more"]
 draft = false

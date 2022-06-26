@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2018"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2018"]
 date = 2018-08-26T07:00:00Z
 description ="DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!"
 draft = false

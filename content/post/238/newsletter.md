@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-10-10T07:00:00Z
 description = ["Leaving Red Hat, KubeCon + CloudNativeCon L.A. 2021, Chainguard, BGP for you and me, Data on Kubernetes Report, and more"]
 draft = false

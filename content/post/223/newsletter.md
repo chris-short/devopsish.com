@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
 date = 2021-06-20T07:00:00Z
 description = ["Hostile AWS Free Tier, Bye bye Bezos, InfoSec competencies, Rust in Linux Kernel, Git for Computer Scientists, secrets on the CLI, and more"]
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-03-13T07:00:00Z
 description = ["Organizational skills a key to productivity, don't spy on employees, Elementary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more"]
 draft = false

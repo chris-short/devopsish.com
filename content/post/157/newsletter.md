@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2019"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2019"]
 date = 2019-12-09T07:00:00Z
 description = "Kubernetes, BPF, container security, re:Invent, PagerDuty, .org debacle, and more"
 draft = false

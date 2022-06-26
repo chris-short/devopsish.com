@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-04-03T07:00:00Z
 description = ["TSMC says demand slowing, yet another BGP mishap, Pulumiverse, Spring4Shell, etcd corruption issue, kaar, kubectl-detector-for-docker-socket, and more"]
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-03-20T07:00:00Z
 description = ["Secrets with GitOps, cr8escape, B1txor20, npm sabotage (again), updated Kubernetes Hardening Guide, ArgoCD and Starboard, scripting with Go, and more"]
 draft = false

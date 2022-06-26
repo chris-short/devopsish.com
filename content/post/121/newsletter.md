@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "2019"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2019"]
 date = 2019-03-31T07:00:00Z
 description = "Kubernetes 1.14, Cloudy with a Chance of Complexity, Accelerate State of DevOps survey, and More"
 draft = false
