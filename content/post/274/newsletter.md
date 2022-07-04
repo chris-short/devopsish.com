@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-07-04T07:00:00Z
-description = [""]
+description = ["Changing roles, drunk worker nearly creates privacy disaster, more layoffs, Kubernetes scanning with Trivy, OpemSSL 3.0.4 vuln, my ultimate dev environment, IE tombstone, and more"]
 draft = false
 slug = "274"
-tags = []
-title = "DevOps'ish 274: "
+tags = ["Kubernetes", "open source", "development environment", "OpenSSL", "Independence Day", "community", "code", "AWS", "Trivy", "cluster", "code-server", "Caddy", "Tailscale", "Hugo", "MacBook", "GitOps", "dockershim", "upstream", "cloud native"]
+title = "DevOps'ish 274: Changing roles, drunk worker nearly creates privacy disaster, more layoffs, Kubernetes scanning with Trivy, OpemSSL 3.0.4 vuln, my ultimate dev environment, IE tombstone, and more"
 +++
 
 ## Independence Day
