@@ -118,10 +118,11 @@ Once you've built out the web version of the newsletter in your IDE and are almo
 
 1. Use the issue number and description as the subject (testing shows putting the description in the subject improves open rates).
 1. Use the previous week's newsletter as a template for this week's newsletter.
-1. Using the Hugo live render and View Source in your browser, copy the relevant HTML blocks into the appropriate newsletter section. Be sure that spacing and so forth look good through the use of `<div>&nbsp;</div>` to add blank lines where appropriate.
-1. Make sure you are proofreading as you go as you're in the browser tools like [Grammarly](https://grammarly.com/) and [Hemingway Editor](http://www.hemingwayapp.com/) are vitally important at typo and grammar correction. Be sure to make those corrections to the web issue in your IDE as well. You could also do this as a separate step entirely (for more extended intros, it's best to write them then run them through the tools for corrections sooner rather than later).
-1. Update the View in Browser​ link is updated. At the moment, update [devopsi.sh/latest](https://devopsi.sh/latest) on [Rebrandly](https://app.rebrandly.com/).
-1. Schedule it to send at 0700 UTC on Sunday.
+1. Iterate all numbers, titles, subjects, etc. as needed.
+3. Using a [Markdown to HTML converter](https://codebeautify.org/markdown-to-html), copy and paste the HTML into the body of the newsletter.
+4. Make sure you are proofreading as you go as you're in the browser tools like [Grammarly](https://grammarly.com/) or [Hemingway Editor](http://www.hemingwayapp.com/) are vitally important at typo and grammar correction. Be sure to make those corrections to the web issue in your IDE as well. You could also do this as a separate step entirely (for more extended intros, it's best to write them then run them through the tools for corrections sooner rather than later).
+5. Update the View in Browser​ link is updated. At the moment, update [devopsi.sh/latest](https://devopsi.sh/latest) [devopsi.sh/notes](https://devopsi.sh/notes) on [Rebrandly](https://app.rebrandly.com/).
+6. Schedule it to send at 0700 UTC on Sunday.
 
 ## Publishing the web version of the newsletter
 
