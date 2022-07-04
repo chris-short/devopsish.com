@@ -59,21 +59,96 @@ ArgoCon is designed to foster collaboration, discussion, and knowledge sharing o
 
 ## People
 
-PEOPLE
+[Drunk worker loses USB stick containing details of every resident of his city](https://www.bitdefender.com/blog/hotforsecurity/drunk-worker-loses-usb-stick-containing-details-of-every-resident-of-his-city/)  
+Graham Cluley, Bitdefender  
+If you read one article this week, this one *has* is it. "At a press conference, the authorities reported that the flash drive had been encrypted — reducing the chances of the data leaking into the wrong hands.  Nonetheless, the city's mayor and other officials bowed in apology to residents."
+
+[Celebrating Pride Month is great, but LGBTQ+ representation in high-tech leadership matters more](https://www.geektime.com/celebrating-pride-month-is-great-but-lgbtq-representation-in-high-tech-leadership-matters-more/)  
+Toby Stein, Datagen  
+"We accept as a fact that people work better in an environment of openness, respect, and mutual understanding. But, for many LGBTQ+ people, as well as members of other marginalized or underrepresented groups, this message can run up against learned habits of being less queer-presenting or keeping sexual orientation a private matter."
+
+[Tesla lays off nearly 200 Autopilot workers, shutters San Mateo office](https://techcrunch.com/2022/06/28/tesla-layoffs-autopilot-workers-san-mateo/)  
+Rebecca Bellan, TechCrunch  
+"Tesla has gutted the data annotation team working on Autopilot, laying off nearly 200 employees and shutting down the San Mateo, California office where they worked"
+
+[Substack Is Laying Off 14% of Its Staff](https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html)  
+Benjamin Mullin, The New York Times  
+"The newsletter start-up discussed raising funding last year but abandoned the plan after the market for venture investments cooled."
+
+[Sources: Unity Laying Off Hundreds Of Staffers](https://kotaku.com/sources-unity-laying-off-hundreds-of-staffers-1849125482)  
+Ari Notis, Kotaku  
+"Management at the company behind the free game development engine has been a 'shit show' recently, sources say"
 
 ## Process
 
-PROCESS
+[What have we learned from scanning over 10K Kubernetes Clusters?](https://www.armosec.io/blog/what-we-learned-from-scanning-over-10k-kubernetes-clusters/)  
+Jonathan Kaftzan, Armo  
+A lot of good lessons in this post.
+
+[Kubernetes security scanning with Trivy CLI and Trivy Operator](https://youtu.be/bgYrhQ6rTXA)  
+Anais Urlichs  
+"In this video, we are going to look at Kubernetes cluster scanning. Specifically, we are going to use first the Trivy CLI and then the Trivy Operator to scan our cluster for security issues including vulnerabilities and misconfiguration."
+
+[ZuoRAT Hijacks SOHO Routers to Silently Stalk Networks](https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/)  
+Black Lotus Labs, Lumen
+"ZuoRAT is a MIPS file compiled for SOHO routers that can enumerate a host and internal LAN, capture packets being transmitted over the infected device and perform person-in-the-middle attacks (DNS and HTTPS hijacking based on predefined rules)."
+
+[OpenSSL to Release Security Patch for Remote Memory Corruption Vulnerability](https://thehackernews.com/2022/06/openssh-to-release-security-patch-for.html)  
+Ravie Lakshmanan, The Hacker News  
+"The latest version of the OpenSSL library has been discovered as susceptible to a remote memory-corruption vulnerability on select systems. The issue has been identified in OpenSSL [version 3.0.4](https://github.com/openssl/openssl/releases/tag/openssl-3.0.4), which was released on June 21, 2022, and impacts x64 systems with the [AVX-512](https://en.wikipedia.org/wiki/AVX-512) instruction set. OpenSSL 1.1.1 as well as OpenSSL forks BoringSSL and LibreSSL are not affected."
+
+[Exposed Kubernetes clusters](https://blog.cyble.com/2022/06/27/exposed-kubernetes-clusters/)  
+Bill Toulas, Cyble  
+"Organizations At Risk Of Data Breaches Via Misconfigured Kubernetes"
 
 ## Tools
 
-TOOLS
+[code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment](https://chrisshort.net/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment/)  
+Chris Short  
+"I think I've discovered my development environment equivalent to nirvana: code-server, Caddy, Tailscale, and Hugo"
+
+[Fast Feedback Loop for Kubernetes Product Development in a Production Environment](https://doordash.engineering/2022/06/23/fast-feedback-loop-for-kubernetes-product-development-in-a-production-environment/)  
+Santosh Banda & Misa Gohara, Doordash  
+Doordash Engineering seems to like [Signadot](https://docs.signadot.com/docs/overview/): A Kubernetes based platform that scales testing for engineering teams building Microservices based applications.
+
+[Remote Development at Slack](https://slack.engineering/remote-development-at-slack/)  
+Sylvestor George, Slack Engineering  
+"In this article, “remote development environments” refer to AWS EC2 instances where engineers make code changes and can see a running Slack application with those changes."
+
+[Best Linux Commands For Advanced Hardware and System Info](https://nixsanctuary.com/best-linux-hardware-system-info-commands/)  
+Paul, Nix Sanctuary  
+A good page to bookmark for whenever you to poke around the hardware you're working on.
+
+[ripgrep-all Command in Linux: One grep to Rule Them All](https://itsfoss.com/ripgrep-all/)  
+Pratham Patel, It's FOSS  
+"[rga](https://github.com/phiresky/ripgrep-all), called ripgrep-all, is an excellent tool that allows you to search almost all files for a text pattern. While the OG grep command is limited to plaintext files, rga can search for text in a wide range of file types such as PDF, e-Books, Word documents, zip, tar, and even embedded subtitles."
+
+[Rufus lets you install Windows 11 22H2 without a Microsoft account](https://liliputing.com/2022/06/rufus-lets-you-install-windows-11-22h2-without-a-microsoft-account.html)  
+Brad Linder, Liliputing  
+"Windows 11 22H2, which is set to roll out later this year, removes the option to set up a device using just a local account (that’s not tied to a Microsoft account)... But the developers of an open source tool for creating bootable USB flash drives already has a workaround."
+
+[Internet Explorer is shutting down after 27 years, and someone in South Korea built a real tombstone for it!](https://twitter.com/DataChaz/status/1537337984604848128)  
+Charly Wargnier  
+"He was a good tool to download other browsers."
+
+[Apple’s entry-level MacBook Pro M2 has slower SSD speeds than its M1 counterpart](https://www.theverge.com/2022/6/27/23184515/apple-macbook-pro-m2-slow-ssd-speeds)  
+Tom Warren, The Verge  
+"If SSD speeds are an issue for you on the base 13-inch MacBook Pro, you’ll need to stump up an extra $200 for the faster 512GB model. But if you’re willing to do that, you might want to wait and see what’s inside the new MacBook Air."
+
+[elesiuta/picosnitch](https://github.com/elesiuta/picosnitch)  
+Monitor network traffic per executable using BPF
+
+[ray-project/ray](https://github.com/ray-project/ray)  
+An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+
+[containers/bubblewrap](https://github.com/containers/bubblewrap)  
+Unprivileged sandboxing tool
 
 ## DevOps'ish Post of the Week
 
-Friday was a "where were you when" kind of day.
+[![@marinavance on Twitter)](https://shortcdn.com/file/devopsish/274-devopsish-post-of-the-week-001.webp)](https://twitter.com/marinavance/status/1541835993115856896)
 
-[![@YourAnonNews on Twitter)](https://shortcdn.com/file/devopsish/274-devopsish-post-of-the-week.webp)](https://twitter.com/YourAnonNews/status/1540526828603015169)
+[![@marinavance on Twitter)](https://shortcdn.com/file/devopsish/274-devopsish-post-of-the-week-002.webp)](https://twitter.com/AlexJonesax/status/1543678834100297730)
 
 ### Got a newsletter worthy post?
 
