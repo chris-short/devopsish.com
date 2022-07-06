@@ -23,7 +23,7 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 **DevOpsDays Raleigh 2017**  
 September 7 and 8, Raleigh, NC USA
-What do [Ashley McNamara](http://ashleymcnamara.github.io/learn_to_code/), [Nimal Mehta](https://www.linkedin.com/in/nirmalkmehta/), [Chris Short](https://chrisshort.net), and the legendary [John Willis](https://github.com/botchagalupe/my-presentations) all have in common? They will all be speaking at DevOpsDays Raleigh this year! Receive $5 off with discount code ***MEETUP5*** when registering. [Website](https://www.devopsdays.org/events/2017-raleigh/welcome/) | [Registration](https://www.eventbrite.com/e/devopsdays-raleigh-2017-tickets-34044332515?aff=es2)
+What do [Ashley McNamara](http://ashleymcnamara.github.io/learn_to_code/), [Nimal Mehta](https://www.linkedin.com/in/nirmalkmehta/), [Chris Short](https://chrisshort.me), and the legendary [John Willis](https://github.com/botchagalupe/my-presentations) all have in common? They will all be speaking at DevOpsDays Raleigh this year! Receive $5 off with discount code ***MEETUP5*** when registering. [Website](https://www.devopsdays.org/events/2017-raleigh/welcome/) | [Registration](https://www.eventbrite.com/e/devopsdays-raleigh-2017-tickets-34044332515?aff=es2)
 
 **All Things Open 2017**  
 October 23 and 24, Raleigh, NC USA

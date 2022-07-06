@@ -11,7 +11,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdevopsish.com)
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m781812229-c71af32b561915c8c6cc6667)
 
-[**DevOps'ish**](https://devopsish.com) is authored by [Chris Short](https://chrisshort.net/) and Made in [Michigan](https://www.michigan.org/).
+[**DevOps'ish**](https://devopsish.com) is authored by [Chris Short](https://chrisshort.me/) and Made in [Michigan](https://www.michigan.org/).
 
 [What is DevOps?](https://devopsish.com/what-is-devops/) I'm glad you asked.
 

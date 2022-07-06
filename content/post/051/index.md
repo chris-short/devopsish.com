@@ -15,11 +15,10 @@ aliases = [
 ]
 +++
 
-I have been through the highest of highs and lowest of lows this week. But, Thanksgiving is an interesting time to reflect. What are you thankful for? How do you want to finish out the year? I am beyond thankful for an incredibly supportive family. Through all the ups and downs of this past week, there has been a steadfast source of support and happiness springing eternal from those we moved to Michigan to be closer to. I want to finish out the year by finding a great job that I will truly enjoy. I have a few calls lined up early next week on that front. If you're looking for a [DevOps-minded person](https://chrisshort.net/resume-cv) to add to your team, let me know.
+I have been through the highest of highs and lowest of lows this week. But, Thanksgiving is an interesting time to reflect. What are you thankful for? How do you want to finish out the year? I am beyond thankful for an incredibly supportive family. Through all the ups and downs of this past week, there has been a steadfast source of support and happiness springing eternal from those we moved to Michigan to be closer to. I want to finish out the year by finding a great job that I will truly enjoy. I have a few calls lined up early next week on that front. If you're looking for a [DevOps-minded person](https://chrisshort.net/curriculum-vitae/) to add to your team, let me know.
 
 [**Continuous Delivery: GoCD VS Spinnaker**](https://www.gocd.org/2017/07/10/gocd-vs-spinnaker/?utm_campaign=gocd_vs_spinnaker&utm_medium=email&utm_source=devopsish_newsletter&utm_content=gocd_vs_spinnaker&utm_term=)  
 GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are different from each other and which problems you should use them to solve. [Check it out](https://www.gocd.org/2017/07/10/gocd-vs-spinnaker/?utm_campaign=gocd_vs_spinnaker&utm_medium=email&utm_source=devopsish_newsletter&utm_content=gocd_vs_spinnaker&utm_term=). *SPONSORED*
-
 
 ## People
 
