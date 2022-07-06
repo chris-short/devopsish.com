@@ -93,7 +93,7 @@ DORA released [*Cloud Infrastructure in the Federal Government: Modern Practices
 
 [Welcoming AWS to the Kubernetes ecosystem, and introducing a new open source project for Kubernetes authentication](https://blog.heptio.com/welcoming-aws-to-the-kubernetes-ecosystem-and-introducing-a-new-open-source-project-for-kubernetes-200a6085ca6c) by Craig McLuckie
 
-[Kubernetes: Getting Started](https://chrisshort.net/kubernetes-getting-started/) by [Chris Short](https://chrisshort.net/): How do you get started with "an open-source system for automating deployment, scaling, and management of containerized applications"?
+[Kubernetes: Getting Started](https://chrisshort.net/kubernetes-getting-started/) by [Chris Short](https://chrisshort.me/): How do you get started with "an open-source system for automating deployment, scaling, and management of containerized applications"?
 
 [Containers and the Battle for the Iron Throne](https://blog.thecodeteam.com/2017/11/30/containers-battle-iron-throne/) by Josh Bernstein: "Instead, Docker launched Moby and confused everyone with the company's business vision."
 

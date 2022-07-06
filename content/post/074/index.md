@@ -110,7 +110,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 ## Jobs
 
-[**SJ Technologies**](http://sjtechcorp.com/) is looking to bring someone on board to work in our DevOps and Digital Transformation practice. If you want to help some big-time companies eager to implement change [*let me know*](mailto:chris.short@sjtechcorp.com). Plus, you get to work for great team of folks including [Karen Lawton](https://twitter.com/sjtech_karen?lang=en), [John Willis](https://twitter.com/botchagalupe/), [Barbara Bouldin](https://twitter.com/bbouldin711), and [ME](https://chrisshort.net/).
+[**SJ Technologies**](http://sjtechcorp.com/) is looking to bring someone on board to work in our DevOps and Digital Transformation practice. If you want to help some big-time companies eager to implement change [*let me know*](mailto:chris.short@sjtechcorp.com). Plus, you get to work for great team of folks including [Karen Lawton](https://twitter.com/sjtech_karen?lang=en), [John Willis](https://twitter.com/botchagalupe/), [Barbara Bouldin](https://twitter.com/bbouldin711), and [ME](https://chrisshort.me/).
 
 [DZone](http://careers.dzone.com/apply/DBWe0hiNCN/Site-Reliability-Engineer) is looking for a Site Reliability Engineer in Cary, NC. Based off my experiences with DZone, this is a cool place to work. To quote a decision maker at DZone, "We need strong cloud, automation, security [experience]." Check them out.
 
