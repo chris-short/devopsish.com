@@ -52,6 +52,12 @@ SEPTEMBER 19 – 21, 2022
 
 ArgoCon is designed to foster collaboration, discussion, and knowledge sharing on the Argo Project, which consists of four projects: Argo CD, Argo Workflows, Argo Rollouts, and Argo Events. This event is aimed at audiences that are new to Argo as well as providing depth to those currently using Argo within their organization. Connect with others that are passionate about Argo and interact with project maintainers. Learn from practitioners about pitfalls to avoid and best practices on how to adopt Argo in your cloud native environment. Get inspired by and provide input to Argo leads on project roadmaps.
 
+[**eBPF Summit**](https://ebpf.io/summit-2022/?source=devopsish)
+
+SEPTEMBER 28 - 29, 2022
+
+eBPF Summit is a virtual event, targeted at DevOps, SecOps, platform architects, security engineers, and developers. Register to save the date and stay updated on event information.
+
 ## People
 
 [You Belong Here](https://jpetazzo.github.io/2022/06/30/you-belong-here/)  
