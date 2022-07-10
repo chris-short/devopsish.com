@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-07-10T07:00:00Z
-description = [""]
+description = ["Snakebit, You Belong Here, lots more layoffs, MI5 and FBI heads issue joint statement, 10 Awesome Kubernetes Projects for Beginners, and more"]
 draft = false
 slug = "275"
-tags = []
-title = "DevOps'ish 275: "
+tags = ["open source", "cloud", "server", "git", "software", "Apple", "Kubernetes", "infrastructure", "service", "platform", "build", "code", "cloud native", "development", "Detroit", "Linux", "developer", " caching	", ""]
+title = "DevOps'ish 275: Snakebit, You Belong Here, lots more layoffs, MI5 and FBI heads issue joint statement, 10 Awesome Kubernetes Projects for Beginners, and more"
 +++
 
 Have you ever felt like you're [snakebit][1]? When whatever you do in a particular discipline, nothing goes as planned.
