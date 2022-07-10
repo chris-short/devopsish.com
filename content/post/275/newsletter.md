@@ -54,21 +54,95 @@ ArgoCon is designed to foster collaboration, discussion, and knowledge sharing o
 
 ## People
 
-PEOPLE
+[You Belong Here](https://jpetazzo.github.io/2022/06/30/you-belong-here/)  
+Jérôme Petazzoni  
+"To all my LGBT+ friends, peers, and fellow members of the Kubernetes and Cloud Native communities: you do belong here. No matter what others think or say; privately or publicly; you played (and are still playing) a major role in the success of this community."
+
+[Start-Up Funding Falls the Most It Has Since 2019](https://www.nytimes.com/2022/07/07/technology/tech-start-up-funding.html)  
+Erin Griffith, The New York Times  
+"The drop was another fallout of rising inflation and widespread economic uncertainty, and a retreat after years of a funding boom."
+
+[Highflying Cyber Firms Cut Staff After Raising Hundreds of Millions of Dollars](https://www.wsj.com/articles/highflying-cyber-firms-cut-staff-after-raising-hundreds-of-millions-of-dollars-11657099801)  
+David Uberti, WSJ  
+"Security startups hunker down and stockpile cash as they prepare for a bear market."
+
+[Sources: Unity Laying Off Hundreds Of Staffers [Update]](https://kotaku.com/sources-unity-laying-off-hundreds-of-staffers-1849125482)  
+Ari Notis, Kotaku  
+"Unity, the company behind the popular game development engine of the same name, has recently laid off hundreds of staffers"
+
+[Man set up fake ISP to scam low-income people seeking gov't discounts, FCC says](https://arstechnica.com/tech-policy/2022/07/man-set-up-fake-isp-to-scam-low-income-people-seeking-govt-discounts-fcc-says/)  
+Jon Brodkin, Ars Technica  
+"[Kyle] Traxler created an entity called Cleo Communications that sought authorization to be a provider in the FCC's Emergency Broadband Benefit (EBB) program, which provided $50 monthly discounts on Internet service and discounts for devices."
+
+[Meet the first graduating class of Apple's developer academy in Detroit](https://www.clickondetroit.com/news/local/2022/06/30/meet-the-first-graduating-class-of-apples-developer-academy-in-detroit/)  
+Click On Detroit, Evrod Cassimy
+"'This is the first time Apple is doing this in North America. To be a part of the first graduating class is really is a great accomplishment,' graduate Aaron Preston said." That's right, Apple did it in Detroit first.
+
+[Systemd Creator Lands At Microsoft](https://www.phoronix.com/scan.php?page=news_item&px=Systemd-Creator-Microsoft)  
+Michael Larabel, Phoronix  
+"Yesterday's surprise was that [Lennart Poettering quietly had left Red Hat](https://www.phoronix.com/scan.php?page=news_item&px=Lennart-Poettering-Out-Red-Hat) following a decade and a half there leading PulseAudio among other projects and ultimately going on to start systemd that has fundamentally reshaped modern Linux distributions. It turns out he had joined Microsoft and continuing his work on systemd."
 
 ## Process
 
-PROCESS
+[The Social Model of Open Source](https://thenewstack.io/the-social-model-of-open-source/)  
+Emily Omier, The New Stack  
+"The social model of open source, Ferraioli says, is about understanding the different use cases for open source, as well as providing a framework for determining what appropriate success metrics could be depending on what the project's motivations are."
+
+[OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow](https://www.intezer.com/blog/incident-response/orbit-new-undetected-linux-threat/)  
+Nicole Fishbein, Intezer  
+"Unlike other threats that hijack shared libraries by modifying the environment variable LD_PRELOAD, this malware uses 2 different ways to load the malicious library."
+
+[China: MI5 and FBI heads warn of 'immense' threat](https://www.bbc.com/news/world-asia-china-62064506)  
+Gordon Corera, BBC News  
+"The heads of UK and US security services have made an unprecedented joint appearance to warn of the threat from China."
+
+[Why Lockdown mode from Apple is one of the coolest security ideas ever](https://arstechnica.com/information-technology/2022/07/introducing-lockdown-from-apple-the-coolest-defense-youll-probably-never-use/)  
+Dan Goodin, Ars Technica  
+"Apple intros 'extreme' optional protection against the scourge of mercenary spyware."
+
+[IDC expects cloud spending to surpass noncloud infrastructure for first time this year](https://siliconangle.com/2022/07/04/idc-expects-cloud-infrastructure-spending-surpass-non-cloud-first-time-year/)  
+Mike Wheatley, SiliconANGLE  
+"In its latest Worldwide Quarterly Enterprise Infrastructure Tracker: Buyer and Cloud Deployment, IDC said such spending rose 17.2% in the first quarter from a year ago, to $18.3 billion."
 
 ## Tools
 
-TOOLS
+[10 Awesome Kubernetes Projects for Beginners](https://www.containiq.com/post/kubernetes-projects-for-beginners)  
+Vyom Srivastava, ContainIQ  
+This went wild on social media this week. I can see why.
 
-## DevOps'ish Post of the Week
+[The trouble with symbolic links](https://lwn.net/SubscriberLink/899303/3affe7bdef85706c/)  
+Jonathan Corbet, LWN.net  
+A fascinating discussion about symlinks, scheduling, and energy consumption.
 
-[![@marinavance on Twitter)](https://shortcdn.com/file/devopsish/275-devopsish-post-of-the-week-001.webp)](https://twitter.com/marinavance/status/1541835993115856896)
+[Is it time to look past Git?](https://dev.to/yonkeltron/is-it-time-to-look-past-git-ah4)  
+Jonathan E. Magen, DEV Community
+I can't fault any of these reasons for yearning for something better, easier, and friendlier than git. Hell, I down right don't like git but literally started using it because I couldn't keep up with changes in the git-mercurial plugin. Yes, I think [Mercurial](https://www.mercurial-scm.org/) is better than git. I'm sad it didn't take off.
 
-[![@marinavance on Twitter)](https://shortcdn.com/file/devopsish/275-devopsish-post-of-the-week-002.webp)](https://twitter.com/AlexJonesax/status/1543678834100297730)
+[The Latin of Software Code Is Thriving](https://www.nytimes.com/2022/07/06/technology/cobol-jobs.html)  
+Shira Ovide, The New York Times  
+"Latin is dead, but old computer programming languages like COBOL live on."
+
+[Infrastructure Self-Service with Crossplane](https://www.innoq.com/en/articles/2022/07/infrastructure-self-service-with-crossplane/)  
+Sascha Selzer, INNOQ  
+"Introducing container technology and Kubernetes to the development and deployment process allows developers to independently manage deployments of their services without needing to interact with the platform team. This is true for applications but not necessarily for external resources like databases which are probably still in the hands of the platform team because the access management and tooling differs. Crossplane could fill this gap towards a full self-service capability."
+
+[Private Web based IDE](https://blog.shalman.org/private-web-based-ide/)  
+Nahum Shalman
+A riff on [my dev environment](https://devopsi.sh/env) using fewer components, complete with code.
+
+[Cubernetes](https://www.justingarrison.com/blog/2022-07-06-cubernetes/)  
+Justin Garrison  
+It's so pretty.
+
+[How We Built a Cross-Region Caching Library](https://www.wix.engineering/post/how-we-built-a-cross-region-caching-library)  
+Wix Engineering  
+"Because of Wix's massive growth over a short period of time, several different developers created different caching solutions to help them reduce the number of HTTP requests and fancy DB queries. But these libraries didn't cover all the needed features and were more of a "halfway" solution. On top of that, different groups used different libraries so it became unhealthy for the organization to keep going like this - we needed an internal caching solution as part of our server infrastructure. "
+
+[h3xduck/TripleCross](https://github.com/h3xduck/TripleCross)  
+A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities
+
+[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)  
+Open Source realtime backend in 1 file
 
 ### Got a newsletter worthy post?
 
