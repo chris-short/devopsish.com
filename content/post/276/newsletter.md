@@ -29,7 +29,7 @@ I'm using nothing but open source solutions to manage my VMs and storage (with s
 
 Even though I'm not fond of Chrome these days, I find that with proper [DNS filtering][10], [Privacy Badger][11], and [DuckDuckGo's browser extension][12] and [search engine][13], I'm sidestepping as much as possible from Google's data slurping ecosystem. But, like [Kevin Mitnick][14] once said (paraphrasing), "If I have physical access, it's only a matter of time." Well, I gave Google physical access, so there's that.
 
-[Chrome OS Flex][8] is the Chrome OS I want when I beta tested the Cr-48 way back in the day. A lightweight OS optimized to run on damn near anything. I've got the Linux dev environment up and running, too. I get a decent Linux CLI experience. But, the one (for me, major) drawback is that while the Linux dev environment can have Tailscale running on it, it's inside its happy little sandbox. But, right now, Chrome OS Flex can't install Android apps yet. I'll wait for that to develop more as that is the current default method. Then it has a real shot at being a laptop I could use daily.
+[Chrome OS Flex][8] is the Chrome OS I wanted when I beta tested the Cr-48 way back in the day. A lightweight OS optimized to run on damn near anything. I've got the Linux dev environment up and running, too. I get a decent Linux CLI experience. But, the one (for me, major) drawback is that while the Linux dev environment can have Tailscale running on it, it's inside its happy little sandbox. But, right now, Chrome OS Flex can't install Android apps yet. I'll wait for that to develop more as that is the current default way of installing Tailscale on a ChromeOS machine. Then it has a real shot at being a laptop I could use daily.
 
 ### The week ahead
 
