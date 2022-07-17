@@ -5,7 +5,7 @@ date = 2022-07-10T07:00:00Z
 description = ["Snakebit, You Belong Here, lots more layoffs, MI5 and FBI heads issue joint statement, 10 Awesome Kubernetes Projects for Beginners, and more"]
 draft = false
 slug = "275"
-tags = ["open source", "cloud", "server", "git", "software", "Apple", "Kubernetes", "infrastructure", "service", "platform", "build", "code", "cloud native", "development", "Detroit", "Linux", "developer", " caching	", ""]
+tags = ["open source", "cloud", "server", "git", "software", "Apple", "Kubernetes", "infrastructure", "service", "platform", "build", "code", "cloud native", "development", "Detroit", "Linux", "developer", " caching	"]
 title = "DevOps'ish 275: Snakebit, You Belong Here, lots more layoffs, MI5 and FBI heads issue joint statement, 10 Awesome Kubernetes Projects for Beginners, and more"
 +++
 
