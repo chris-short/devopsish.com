@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-07-17T07:00:00Z
-description = []
+description = ["Packed with projects, Chrome OS Flex, DevOpsDays Seattle, Screaming in the Cloud, 'critical' projects maintained by volunteers, OSS Insight, and more"]
 draft = false
 slug = "276"
 tags = []
-title = "DevOps'ish 276: "
+title = "DevOps'ish 276: Packed with projects, Chrome OS Flex, DevOpsDays Seattle, Screaming in the Cloud, 'critical' projects maintained by volunteers, OSS Insight, and more"
 +++
 
 ### A note about Detroit
@@ -69,15 +69,98 @@ eBPF Summit is a virtual event, targeted at DevOps, SecOps, platform architects,
 
 ## People
 
-PEOPLE
+[What Can the Tech Community Do to Protect Its Trans Members?](https://thenewstack.io/what-can-the-tech-community-do-to-protect-its-trans-members/)  
+Heather Joslyn, The New Stack  
+"[Aeva] Black, whose keynote alerted the conference attendees about how the rights of transgender individuals are under attack around the United States, and the role tech can play, currently works in Microsoft Azure's Office of the Chief Technology Officer and holds seats on the boards of the Open Source Initiative and on the OpenSSF's Technical Advisory Council."
+
+[Kubernetes and OpenGitOps with Chris Short](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/kubernetes-and-opengitops-with-chris-short/)  
+Last Week in AWS Podcast  
+"It's how much does your team want to manage? That's the customer obsession part of AWS coming through when it comes to containers is because there's so many different ways to run those workloads, but there's so many different ways to make sure that your team is right-sized, based off the services you're using."
+
+["Critical" projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)  
+Jake Edge, LWN  
+"As Luis Villa noted last year, FOSS maintainers are being asked to do more and more things; often they are being asked to do so without any compensation, though perhaps "doors opening" counts to a limited extent. As more critical projects are identified, it is likely we will see more conflicts of this nature. What happens when a maintainer does not want to follow the recommendations of OpenSSF (or some other similar effort) on changes? Forks are generally seen as a hostile move, but one suspects that may ultimately happen for projects that find themselves at odds with sponsoring organizations. That is a rather different world than the one FOSS grew up in."
+
+[A Bored Chinese Housewife Spent Years Falsifying Russian History on Wikipedia](https://www.vice.com/en/article/pkgbwm/chinese-woman-fake-russian-history-wikipedia)  
+Rachel Cheung, Vice  
+"What's mom doing on the computer?"  
+"Contributing nearly 300 articles on Russian history that are all ficticious."  
+"Oh... Well I guess that's more exciting than crocheting, huh?"
+
+[Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)  
+Aaron Francis, GitHub  
+When your project gets picked up by a major vendor and contributions start coming in. When your blog post takes off. When your newsletter has a great week. You have to be your own best agent to total strangers on the internet.
 
 ## Process
 
-PROCESS
+[Retbleed: Arbitrary Speculative Code Execution with Return Instructions](https://comsec.ethz.ch/research/microarch/retbleed/)  
+Computer Security Group  
+Maybe speculative execution is a big mistake. It's gotta be hard to defend these days. The hits just keep coming. If someone has seen a light at the end of the tunnel, please pass that along. I could write a blog post on corporate responsibility and ethics in our modern world on this topic alone.
+
+[First Cyber Safety Review Board report finds Log4j has become an 'endemic vulnerability'](https://therecord.media/first-cyber-safety-review-board-report-finds-log4j-has-become-an-endemic-vulnerability/)  
+The Record by Recorded Future  
+Log4j is in a close second to speculative execution on being a critical flaw worldwide, over and over again. This goes to the fact that a lot of this is built and maintained by volunteers that SHOULD be compensated for their globally acknowledge as wildly popular works. Software is The Renaissance's art. We should insure it similarly.
+
+[$9.99/Month](https://basicappleguy.com/basicappleblog/999month)  
+Basic Apple Guy  
+I need to do this myself. My problem is I'll buy a year of something for the savings then end up replacing it with something better a few months later. We should all take stock of our subs in this subscription economy. Your sources of truths are varied and numerous here. Good luck!
+
+[Lessons in Frugality: Why Pay for Linktree?](https://chrisshort.net/lessons-in-frugality-why-pay-for-linktree/)  
+Chris Short, chrisshort.net  
+Speaking of things I buy for a year and replace in a few months with something else... Following the "own your platform" mantra, I've rolled out <chrisshort.me> as a replacement for Linktree. Believe me, you can do this and you can usually do it for free.
+
+[AWS is quietly getting better at open source](https://www.techrepublic.com/article/aws-getting-better-at-open-source/)  
+Matt Asay, TechRepublic  
+There are a group of us pushing very hard towards helping open source helps our customers. We've embodied that in our work by doing work upstream as well as downstream. It is working. Please see my [disclaimer](https://devopsish.com/terms/#disclaimer).
+
+[What Is Delaware's Court of Chancery and Its Role in Elon Musk's Twitter Deal?](https://www.nytimes.com/article/musk-twitter-delaware-court-chancery.html?referringSource=devopsish)  
+Kalley Huang, The New York Times  
+"Twitter has sued Mr. Musk to force a sale of the company, and the case will be determined by a 230-year-old court in Delaware." This was a fascinating read.
 
 ## Tools
 
-TOOLS
+[Kubernetes Gateway API Graduates to Beta](https://kubernetes.io/blog/2022/07/13/gateway-api-graduates-to-beta/)  
+Shane Utt (Kong), Rob Scott (Google), Nick Young (VMware), Jeff Apple (HashiCorp), Kubernetes  
+"Gateway API is a collection of resources centered around Gateway resources (which represent the underlying network gateways / proxy servers) to enable robust Kubernetes service networking through expressive, extensible and role-oriented interfaces that are implemented by many vendors and have broad industry support."
+
+[Twitter now lets all users 'unmention' themselves in tweets](https://techcrunch.com/2022/07/11/twitter-now-lets-all-users-unmention-tweets/)  
+Aisha Malik, TechCrunch  
+Finally! I can duck out of conversations after they've gone from good to horse kicking. Also, I immediately texted [VM Brasseur](https://www.vmbrasseur.com/) when I heard the news.
+
+[OSS Insight](https://ossinsight.io/analyze/chris-short)  
+"OSS Insight, short for open source software insights, is a powerful insight tool that can help you analyze in depth any single GitHub repository, compare any two repositories using the same metrics, and provide comprehensive, valuable, and trending open source insights." Now this shows how active someone is in open source on GitHub in a whole new way.
+
+[Samsung QVO vs. EVO: SSD differences explained](https://www.digitaltrends.com/computing/samsung-qvo-vs-evo-guide/)  
+Monica J. White, Digital Trends  
+I was confused based off pricing from different sites which Samsung drive had the better performance. I share this with you for when you go to upgrade your NAS/lab/etc.
+
+[weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools)  
+"GitOps Visual Studio Code Extension" I'm kinda surprised they aren't available on code-server but I guess that is part of the sacrifice I made. Friends from [Coder](https://coder.com/) feel free to educate me here.
+
+[pulumi/registry](https://github.com/pulumi/registry)  
+"The global index of everything you can do with Pulumi"
+
+[LyonSyonII/hunt-rs](https://github.com/LyonSyonII/hunt-rs)  
+"Simplified Find command made with Rust." You had me at Simplified Find.
+
+[containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter)  
+"Fast container image distribution plugin with lazy pulling"
+
+[innobead/kubefire](https://github.com/innobead/kubefire)  
+"KubeFire 🔥, creates and manages Kubernetes Clusters using Firecracker microVMs" Remember kids, fire and Kubernetes mix well.
+
+[servian/aws-auto-cleanup](https://github.com/servian/aws-auto-cleanup)  
+"Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings"
+
+[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)  
+"Master programming by recreating your favorite technologies from scratch."
+
+[codesenberg/bombardier](https://github.com/codesenberg/bombardier)  
+"Fast cross-platform HTTP benchmarking tool written in Go"
+
+## DevOps'ish Post of the Week
+
+[![Lily Ray 😏 on Twitter: "My jaw actually dropped. @wilreynolds showed 3 examples of black doctors/nurses where Google's Vision AI rated the image as 70%+ "Street Fashion" despite them literally wearing scrubs When he painted the nurses white, it switched to "Formal wear" Truly unbelievable #mozcon https://t.co/hgM3gA9uvO" / Twitter)](https://shortcdn.com/file/devopsish/275-devopsish-post-of-the-week.webp)](https://twitter.com/lilyraynyc/status/1547361484144984065?s=12&t=Uxd6qd18SoDoQq1c473hkA)
 
 ### Got a newsletter worthy post?
 
