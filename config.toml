@@ -16,6 +16,7 @@ enableEmoji = true
 enableInlineShortcodes = true
 enableGitInfo = true
 summaryLength = 160
+ignoreFiles = ['notes.md']
 
 # ------------------------------
 [outputs]
