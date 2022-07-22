@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-02-20T07:00:00Z
-description = "Notes from DevOps'ish 257"
-draft = false
-url = "257/notes"
-title = "DevOps'ish 257 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Intel buys Tower Semiconductor for $5.4 billion to diversify foundry business | Ars Technica](https://arstechnica.com/tech-policy/2022/02/intel-buys-tower-semiconductor-for-5-4-billion-to-diversify-foundry-business/)

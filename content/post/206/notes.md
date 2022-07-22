@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-02-21T07:00:00Z
-description = "Notes from DevOps'ish 206"
-draft = false
-url = "206/notes"
-title = "DevOps'ish 206 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [How NASA Designed a Helicopter That Could Fly Autonomously on Mars - IEEE Spectrum](https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars)

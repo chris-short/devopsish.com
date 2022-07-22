@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-05-29T07:00:00Z
-description = "Notes from DevOps'ish 269"
-draft = false
-url = "269/notes"
-title = "DevOps'ish 269 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [The scandal at Nigerian unicorn Flutterwave is the tip of a toxic iceberg - Rest of World](https://restofworld.org/2022/the-scandal-at-nigerian-unicorn-flutterwave-is-the-tip-of-a-toxic-iceberg/)

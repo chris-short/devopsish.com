@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2018-12-16T00:07:00Z
-description = "Notes from DevOps'ish 106"
-draft = false
-url = "106/notes"
-title = "DevOps'ish 106 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Three things I learn after fighting with Google PageSpeed - DEV Community 👩‍💻👨‍💻](https://dev.to/snowleo208/three-things-i-learn-after-fighting-with-google-pagespeed-3jk9)

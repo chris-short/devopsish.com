@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-09-05T07:00:00Z
-description = "Notes from DevOps'ish 233"
-draft = false
-url = "233/notes"
-title = "DevOps'ish 233 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Oh My Fucking God, Get the Fucking Vaccine Already, You Fucking Fucks - McSweeney’s Internet Tendency](https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks)

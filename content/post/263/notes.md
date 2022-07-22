@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-04-03T07:00:00Z
-description = "Notes from DevOps'ish 263"
-draft = false
-url = "263/notes"
-title = "DevOps'ish 263 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [URI spoofing flaw could phish WhatsApp, Signal, Instagram, and iMessage users | Malwarebytes Labs](https://blog.malwarebytes.com/social-engineering/2022/03/uri-spoofing-flaw-could-phish-whatsapp-signal-instagram-and-imessage-users/)

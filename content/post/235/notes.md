@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-09-19T07:00:00Z
-description = "Notes from DevOps'ish 235"
-draft = false
-url = "235/notes"
-title = "DevOps'ish 235 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [(8) Emma Bostian 🐞 on Twitter: "When applying for a role in a U.S. company try to keep your resume to 1 page (2 max if you have 10+ years experience). A CV is a comprehensive overview of your work history. Resumes are preferred in the US and aren't comprehensive 💁‍♀️ Anything on page 2+ probably won't be read." / Twitter](https://twitter.com/EmmaBostian/status/1437425438914142213)

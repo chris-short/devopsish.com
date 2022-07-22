@@ -1,16 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-02-17T16:15:00Z
-description = "Notes from DevOps'ish 115"
-draft = false
-url = "115/notes"
-
-title = "DevOps'ish 115 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Simplify and Automate Deployments Using GitOps with IBM Multicloud Manager 3.1.2 - IBM Cloud Blog](https://www.ibm.com/blogs/bluemix/2019/02/simplify-and-automate-deployments-using-gitops-with-ibm-multicloud-manager-3-1-2/)

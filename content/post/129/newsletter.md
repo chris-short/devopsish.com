@@ -103,4 +103,4 @@ I'll be in Durham, NC 28-30 May and Raleigh 3-7 June. If you want to get togethe
 
 {{< tweet 1131584970194018304 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

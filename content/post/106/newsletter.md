@@ -137,4 +137,4 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 
 {{< tweet 1073688115066347520 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

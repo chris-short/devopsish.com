@@ -1,16 +1,4 @@
-+++
 
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-12-15T07:00:00Z
-description = "Notes from DevOps'ish 158"
-draft = false
-url = "158/notes"
-title = "DevOps'ish 158 Notes"
-
-+++
-
-{{< notes-note >}}
 
 ## Notes
 

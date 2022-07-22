@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-04-03T07:00:00Z
-description = "Notes from DevOps'ish 264"
-draft = false
-url = "264/notes"
-title = "DevOps'ish 264 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Red Coat Development / CDN Manager · GitLab](https://gitlab.com/redcoat/cdn-manager/)

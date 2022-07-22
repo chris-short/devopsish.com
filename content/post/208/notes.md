@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-03-07T07:00:00Z
-description = "Notes from DevOps'ish 208"
-draft = false
-url = "208/notes"
-title = "DevOps'ish 208 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Ask an OpenShift Admin (Ep 20): VMs in Kubernetes? - YouTube](https://www.youtube.com/watch?v=QKufA4UDKG0)

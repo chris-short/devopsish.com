@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-08-11T07:00:00Z
-description = "Notes from DevOps'ish 140"
-draft = false
-url = "140/notes"
-title = "DevOps'ish 140 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Storage on Kubernetes: OpenEBS vs Rook (Ceph) vs Rancher Longhorn vs StorageOS vs Robin vs Portworx : kubernetes](https://www.reddit.com/r/kubernetes/comments/cmqd7s/storage_on_kubernetes_openebs_vs_rook_ceph_vs/)

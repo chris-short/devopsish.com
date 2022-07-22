@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-01-20T07:00:00Z
-description = "Notes from DevOps'ish 111"
-draft = false
-url = "111/notes"
-title = "DevOps'ish 111 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Burnout as small task paralysis](https://funnelfiasco.com/blog/2019/01/14/burnout-as-small-task-paralysis/)

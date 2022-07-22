@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-03-20T07:00:00Z
-description = "Notes from DevOps'ish 261"
-draft = false
-url = "261/notes"
-title = "DevOps'ish 261 Notes"
-
-+++
-
-{{< notes-note >}}
-
 **Editor's note**: I cannot ignore Putin's war being waged in Europe. But, this newsletter is a tech newsletter. However, as I've discovered I cannot unlearn my previous life's skills. I have been thanked for providing another perspective to coverage of the war in Ukraine. One person's politics, is another person's life. All the [Ukraine news](#ukraine) is moving to the [UkraineNoCap](https://twitter.com/ukrainenocap) Twitter account.
 
 ## Notes

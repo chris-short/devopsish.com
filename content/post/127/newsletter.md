@@ -96,4 +96,4 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 {{< tweet 1127295228854063104 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

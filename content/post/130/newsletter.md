@@ -106,4 +106,4 @@ Please take this year's survey. It is a handful of questions, will provide actio
 
 {{< tweet 1133820760617836550 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

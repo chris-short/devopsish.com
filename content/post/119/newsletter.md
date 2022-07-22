@@ -137,4 +137,4 @@ Keeping up with the avalanche of new features, blog posts, industry news, and al
 
 {{< tweet 1106012106950770693 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

@@ -1,15 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-08-18T07:00:00Z
-description = "Notes from DevOps'ish 141"
-draft = false
-url = "141/notes"
-title = "DevOps'ish 141 Notes"
-
-+++
-
 ## Sponsors
 
 [**X-Team Is Hiring a Team of DevOps Engineers (Remote)**](https://x-team.com/remote-devops-engineer-jobs/?utm_source=devopsish&utm_medium=email-ad)  
@@ -20,7 +8,7 @@ We are looking for passionate DevOps engineers to work with the world's leading 
 [**DevRel is a Force Multiplier**](https://cshort.co/2K9XsgV)  
 Featuring interviews with Developer Relations professionals from many successful companies including Red Hat, Google, Chef, Docker, Mozilla, SparkPost, Heroku, Twilio, CoreOS, and more, and with a foreword by Jono Bacon, *The Business Value of Developer Relations* is the perfect book for anyone who is working in the tech industry and wants to understand where DevRel is now and how to get involved. Don't get left behind — join the community today. *SPONSORED*
 
-{{< notes-note >}}
+
 
 ## Notes
 

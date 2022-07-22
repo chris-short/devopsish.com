@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-06-06T07:00:00Z
-description = "Notes from DevOps'ish 221"
-draft = false
-url = "221/notes"
-title = "DevOps'ish 221 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Tiananmen Square Tank Man vanishes from Microsoft Bing, DuckDuckGo, other search engines – even in America • The Register](https://www.theregister.com/2021/06/04/search_engine_tiananmen/)

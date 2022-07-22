@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-06-16T07:00:00Z
-description = "Notes from DevOps'ish 132"
-draft = false
-url = "132/notes"
-title = "DevOps'ish 132 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Alternatives to Google Products (Complete List) | Restore Privacy](https://restoreprivacy.com/google-alternatives/)

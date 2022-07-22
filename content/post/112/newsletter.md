@@ -131,4 +131,4 @@ I found out about this first thing Friday morning when I e-mailed Jess asking ab
 >
 > — Jessie Frazelle (@jessfraz) January 25, 2019
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

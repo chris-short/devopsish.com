@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-11-14T07:00:00Z
-description = "Notes from DevOps'ish 243"
-draft = false
-url = "243/notes"
-title = "DevOps'ish 243 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [simonw/s3-credentials: A tool for creating credentials for accessing S3 buckets](https://github.com/simonw/s3-credentials)

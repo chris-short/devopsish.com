@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-10-31T07:00:00Z
-description = "Notes from DevOps'ish 241"
-draft = false
-url = "241/notes"
-title = "DevOps'ish 241 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Watch this wooden knife cut effortlessly through juicy, medium-well-done steak | Ars Technica](https://arstechnica.com/science/2021/10/watch-this-wooden-knife-cut-effortlessly-through-juicy-medium-well-done-steak/)

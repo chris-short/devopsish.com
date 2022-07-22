@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2018-12-23T12:45:00Z
-description = "Notes from DevOps'ish 107"
-draft = false
-url = "107/notes"
-title = "DevOps'ish 107 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Kubernetes in 2019: 6 developments to expect | The Enterprisers Project](https://enterprisersproject.com/article/2018/12/kubernetes-2019-6-developments-expect)

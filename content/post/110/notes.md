@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-01-13T07:00:00Z
-description = "Notes from DevOps'ish 110"
-draft = false
-url = "110/notes"
-title = "DevOps'ish 110 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Say "no" to advance your career – Blog FiascoBlog Fiasco](https://funnelfiasco.com/blog/2019/01/10/say-no-to-advance-your-career/)

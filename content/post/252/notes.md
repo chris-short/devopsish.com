@@ -1,19 +1,3 @@
-+++
-
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-01-16T07:00:00Z
-description = "Notes from DevOps'ish 252"
-draft = false
-url = "252/notes"
-title = "DevOps'ish 252 Notes"
-
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Mermaid diagrams can be displayed within Markdown · Issue #372 · github/roadmap](https://github.com/github/roadmap/issues/372)

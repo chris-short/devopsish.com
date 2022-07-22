@@ -1,16 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-03-17T07:00:00Z
-description = "Notes from DevOps'ish 119"
-draft = false
-url = "119/notes"
-
-title = "DevOps'ish 119 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Week Ending March 10, 2019 | Last Week in Kubernetes Development](http://lwkd.info/2019/20190312)

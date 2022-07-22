@@ -97,4 +97,4 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 {{< tweet 1139679107485032448 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

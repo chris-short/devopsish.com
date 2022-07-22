@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-05-01T07:00:00Z
-description = "Notes from DevOps'ish 265"
-draft = false
-url = "265/notes"
-title = "DevOps'ish 265 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Netflix’s Big Power Clash and Rivalries Behind the Crash – The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/netflixs-big-wake-up-call-the-power-clash-behind-the-crash-1235136004/)

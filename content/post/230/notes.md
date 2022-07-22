@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-08-15T07:00:00Z
-description = "Notes from DevOps'ish 230"
-draft = false
-url = "230/notes"
-title = "DevOps'ish 230 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Moving my blog to Oracle cloud – Ariadne's Space](https://ariadne.space/2021/07/18/moving-my-blog-to-oracle-cloud/)

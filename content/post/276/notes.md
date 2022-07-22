@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-07-17T07:00:00Z
-description = "Notes from DevOps'ish 276"
-draft = false
-url = "276/notes"
-title = "DevOps'ish 276 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Report: Microsoft will return to releasing new Windows versions once every 3 years | Ars Technica](https://arstechnica.com/gadgets/2022/07/report-microsoft-will-return-to-releasing-new-windows-versions-once-every-3-years/)

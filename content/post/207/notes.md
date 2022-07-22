@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-02-28T07:00:00Z
-description = "Notes from DevOps'ish 207"
-draft = false
-url = "207/notes"
-title = "DevOps'ish 207 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Getting up and running with multi-arch Kubernetes clusters](https://cablespaghetti.dev/2021/02/20/managing-multi-arch-kubernetes-clusters/)

@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-03-21T07:00:00Z
-description = "Notes from DevOps'ish 210"
-draft = false
-url = "210/notes"
-title = "DevOps'ish 210 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk)

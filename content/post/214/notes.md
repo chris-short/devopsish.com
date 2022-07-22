@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-04-17T07:00:00Z
-description = "Notes from DevOps'ish 214"
-draft = false
-url = "214/notes"
-title = "DevOps'ish 214 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [US government strikes back at Kremlin for SolarWinds hack campaign | Ars Technica](https://arstechnica.com/tech-policy/2021/04/us-government-strikes-back-at-kremlin-for-solarwinds-hack-campaign/)

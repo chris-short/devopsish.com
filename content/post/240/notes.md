@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-10-24T07:00:00Z
-description = "Notes from DevOps'ish 240"
-draft = false
-url = "240/notes"
-title = "DevOps'ish 240 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [I Am Devloper on Twitter: "At every company, there’s always that one person who knows how the whole system works…and they left 4 months ago" / Twitter](https://twitter.com/iamdevloper/status/1449309388993347585)

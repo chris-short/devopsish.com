@@ -105,4 +105,4 @@ A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Tod
 
 {{< tweet 1145090529371275264 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

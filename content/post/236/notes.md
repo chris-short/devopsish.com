@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-09-26T07:00:00Z
-description = "Notes from DevOps'ish 236"
-draft = false
-url = "236/notes"
-title = "DevOps'ish 236 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Kubernetes Podcast from Google: Episode 164 - Podman, with Daniel Walsh and Brent Baude](https://kubernetespodcast.com/episode/164-podman/)

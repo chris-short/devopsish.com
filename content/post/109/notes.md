@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-01-06T07:00:00Z
-description = "Notes from DevOps'ish 109"
-draft = false
-url = "109/notes"
-title = "DevOps'ish 109 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Top Takeaways of 2018 from the NGINX Blog - NGINX](https://www.nginx.com/blog/top-takeaways-2018-nginx-blog/)

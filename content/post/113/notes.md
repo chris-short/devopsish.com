@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-02-03T07:00:00Z
-description = "Notes from DevOps'ish 113"
-draft = false
-url = "113/notes"
-title = "DevOps'ish 113 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [WOA Issue 80 - Armv8 Collaboration](https://www.worksonarm.com/blog/woa-issue-80/)

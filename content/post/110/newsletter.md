@@ -125,4 +125,4 @@ I'm going to add this new top five from the previous newsletter. Hit reply and t
 
 {{< tweet 1083415010913775617 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

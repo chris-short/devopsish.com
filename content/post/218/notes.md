@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-05-16T07:00:00Z
-description = "Notes from DevOps'ish 218"
-draft = false
-url = "218/notes"
-title = "DevOps'ish 218 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Istio multi-cluster on Red Hat OpenShift with Gloo Mesh - Solo.io](https://www.solo.io/blog/istio-multi-cluster-on-red-hat-openshift-with-gloo-mesh/)

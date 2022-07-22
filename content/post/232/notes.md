@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-08-29T07:00:00Z
-description = "Notes from DevOps'ish 232"
-draft = false
-url = "232/notes"
-title = "DevOps'ish 232 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Implications of the Alleged State Department Breach](https://www.cybereason.com/blog/implications-of-the-alleged-state-department-breach)

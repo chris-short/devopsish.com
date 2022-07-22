@@ -1,16 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-03-10T07:00:00Z
-description = "Notes from DevOps'ish 118"
-draft = false
-url = "118/notes"
-
-title = "DevOps'ish 118 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Kubernetes Events Explained](https://www.bluematador.com/blog/kubernetes-events-explained)

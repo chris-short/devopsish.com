@@ -118,4 +118,4 @@ This thread from Justin Garrison is everything.
 
 {{< tweet 1124698927997960192 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

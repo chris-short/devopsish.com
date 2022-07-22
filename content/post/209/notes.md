@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-03-14T07:00:00Z
-description = "Notes from DevOps'ish 209"
-draft = false
-url = "209/notes"
-title = "DevOps'ish 209 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Facebook Made Playbook To Respond To Polarization Accusations](https://www.buzzfeednews.com/article/ryanmac/facebook-execs-polarization-playbook)

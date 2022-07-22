@@ -106,4 +106,4 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 [![Rebecca Fernandez (@ruhbehka) on Twitter][/138/138-tweet-of-the-week.png]](https://twitter.com/ruhbehka/status/1154142091620102150)
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

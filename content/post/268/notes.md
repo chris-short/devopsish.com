@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-05-22T07:00:00Z
-description = "Notes from DevOps'ish 268"
-draft = false
-url = "268/notes"
-title = "DevOps'ish 268 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Europe Agrees to Adopt New NIS2 Directive Aimed at Hardening Cybersecurity](https://thehackernews.com/2022/05/europe-agrees-to-adopt-new-nis2.html)
