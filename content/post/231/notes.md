@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-08-22T07:00:00Z
-description = "Notes from DevOps'ish 231"
-draft = false
-url = "231/notes"
-title = "DevOps'ish 231 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Rubenerd: The 1Password Electron debate is good news for the industry](https://rubenerd.com/1password-electron-flareup-is-good-news/)

@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-11-21T07:00:00Z
-description = "Notes from DevOps'ish 244"
-draft = false
-url = "244/notes"
-title = "DevOps'ish 244 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Chris Short 💉💉💉 on Twitter: "https://t.co/hsGR8TlpNj" / Twitter](https://twitter.com/ChrisShort/status/1462098247057559560)

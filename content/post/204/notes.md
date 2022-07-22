@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-02-07T07:00:00Z
-description = "Notes from DevOps'ish 204"
-draft = false
-url = "204/notes"
-title = "DevOps'ish 204 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Creating my awesome Windows 10 dev setup | Chimerical](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup)

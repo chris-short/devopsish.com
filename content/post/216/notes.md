@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-05-02T07:00:00Z
-description = "Notes from DevOps'ish 216"
-draft = false
-url = "216/notes"
-title = "DevOps'ish 216 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [The Road to Flux v2 - May Update](https://www.weave.works/blog/the-road-to-flux-v2-may)

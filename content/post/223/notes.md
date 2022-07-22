@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-06-20T07:00:00Z
-description = "Notes from DevOps'ish 223"
-draft = false
-url = "223/notes"
-title = "DevOps'ish 223 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [What Happens When A Founder Is Too Sick To Work? | by JulieFredrickson | Medium](https://medium.com/@almostmedia/what-happens-when-a-founder-is-too-sick-to-work-8c7d2bd06564)

@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-11-28T07:00:00Z
-description = "Notes from DevOps'ish 245"
-draft = false
-url = "245/notes"
-title = "DevOps'ish 245 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Implementing zip archiving in Golang: unzipping | notes.eatonphil.com](https://notes.eatonphil.com/implementing-zip-in-go-unzipping.html)

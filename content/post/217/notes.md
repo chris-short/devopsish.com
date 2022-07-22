@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-05-09T07:00:00Z
-description = "Notes from DevOps'ish 217"
-draft = false
-url = "217/notes"
-title = "DevOps'ish 217 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Kubernetes configuration patterns, Part 2: Patterns for Kubernetes controllers - Red Hat Developer](https://developers.redhat.com/blog/2021/05/05/kubernetes-configuration-patterns-part-2-patterns-for-kubernetes-controllers/)

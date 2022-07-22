@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-10-17T07:00:00Z
-description = "Notes from DevOps'ish 239"
-draft = false
-url = "239/notes"
-title = "DevOps'ish 239 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)

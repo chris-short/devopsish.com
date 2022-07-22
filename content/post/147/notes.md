@@ -1,21 +1,9 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-09-30T07:00:00Z
-description = "Notes from DevOps'ish 147"
-draft = false
-url = "147/notes"
-title = "DevOps'ish 147 Notes"
-
-+++
-
 ## Sponsors
 
 [**Full Alerting Coverage Without the Toil**](https://www.bluematador.com/devopsish)  
 Balance rapid feature development and production stability with alert automation for your cloud infrastructure from Blue Matador. Activate alert automation in your cloud infrastructure today with our free trial. *SPONSORED*
 
-{{< notes-note >}}
+
 
 ## DevOps'ish Last Week's Top Ten
 

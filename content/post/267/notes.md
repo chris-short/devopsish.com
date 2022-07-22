@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-05-15T07:00:00Z
-description = "Notes from DevOps'ish 267"
-draft = false
-url = "267/notes"
-title = "DevOps'ish 267 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [DuckDuckGo Chrome Extension Blocks Google Topics and FLEDGE](https://spreadprivacy.com/topics-and-fledge-blocked/)

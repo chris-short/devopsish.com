@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-10-10T07:00:00Z
-description = "Notes from DevOps'ish 238"
-draft = false
-url = "238/notes"
-title = "DevOps'ish 238 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [#39 DevOps Diary: Your learning journey](https://anaisurl.com/39-devops-diary/)

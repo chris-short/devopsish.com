@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-04-04T07:00:00Z
-description = "Notes from DevOps'ish 212"
-draft = false
-url = "212/notes"
-title = "DevOps'ish 212 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 **The GitOps Working Group** is putting together a KubeCon + CloudNativeCon Day 0 event! Come share your experiences, practices, and challenges with us at [#GitOpsConEU2021](https://twitter.com/search?q=%23GitOpsConEU2021&src=devopsish)! [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSeNahDbiEolx6WZmtxx4L65qmq7pZTX86nQAltq2uC12tCQYg/viewform) open through April 16, 2021.

@@ -1,19 +1,3 @@
-+++
-
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-01-02T07:00:00Z
-description = "Notes from DevOps'ish 250"
-draft = false
-url = "250/notes"
-title = "DevOps'ish 250 Notes"
-
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 ### Log4j

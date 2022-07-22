@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-01-30T07:00:00Z
-description = "Notes from DevOps'ish 254"
-draft = false
-url = "254/notes"
-title = "DevOps'ish 254 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Chris Short (He/Him/His) on Twitter: "So what's everyone moving to after Google Suite pulling the free tier?" / Twitter](https://twitter.com/ChrisShort/status/1485266352281694208)

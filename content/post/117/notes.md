@@ -1,16 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-03-02T07:00:00Z
-description = "Notes from DevOps'ish 117"
-draft = false
-url = "117/notes"
-
-title = "DevOps'ish 117 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Amazon Prime Air flight crashes in Texas after 6,000ft nosedive • The Register](https://www.theregister.co.uk/2019/02/25/amazon_prime_air_boeing_767_crash_titan_air/)

@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-06-13T07:00:00Z
-description = "Notes from DevOps'ish 222"
-draft = false
-url = "222/notes"
-title = "DevOps'ish 222 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Several macOS Monterey Features Unavailable on Intel-Based Macs - MacRumors](https://www.macrumors.com/2021/06/09/macos-monterey-features-for-m1-macs-only/)

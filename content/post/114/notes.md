@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-02-11T06:55:00Z
-description = "Notes from DevOps'ish 114"
-draft = false
-url = "114/notes"
-title = "DevOps'ish 114 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Red Hat Introduces the Industry's First Kubernetes-Native Integrated Developer Environment with Red Hat CodeReady Workspaces](https://www.redhat.com/en/about/press-releases/red-hat-introduces-industrys-first-kubernetes-native-integrated-developer-environment-red-hat-codeready-workspaces)

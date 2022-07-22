@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-01-27T07:00:00Z
-description = "Notes from DevOps'ish 112"
-draft = false
-url = "112/notes"
-title = "DevOps'ish 112 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [What learning kube could mean for some people : kubernetes](https://www.reddit.com/r/kubernetes/comments/ajwa2r/what_learning_kube_could_mean_for_some_people/)

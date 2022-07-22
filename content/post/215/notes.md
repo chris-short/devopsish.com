@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-04-25T07:00:00Z
-description = "Notes from DevOps'ish 215"
-draft = false
-url = "215/notes"
-title = "DevOps'ish 215 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [YouTube is now building its own video-transcoding chips | Ars Technica](https://arstechnica.com/gadgets/2021/04/youtube-is-now-building-its-own-video-transcoding-chips/)

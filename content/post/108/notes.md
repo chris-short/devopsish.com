@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2018-12-30T07:00:00Z
-description = "Notes from DevOps'ish 108"
-draft = false
-url = "108/notes"
-title = "DevOps'ish 108 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [PiHole DNS Server running in Kubernetes](https://medium.com/@cminion/pihole-dns-server-running-in-kubernetes-holiday-project-part-1-b0e3d01657f5) — 

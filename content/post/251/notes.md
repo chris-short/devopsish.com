@@ -1,19 +1,3 @@
-+++
-
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-01-09T07:00:00Z
-description = "Notes from DevOps'ish 251"
-draft = false
-url = "251/notes"
-title = "DevOps'ish 251 Notes"
-
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [People Are Increasingly Choosing Private Web Search - Schneier on Security](https://www.schneier.com/blog/archives/2022/01/people-are-increasingly-choosing-private-web-search.html)

@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-05-22T07:00:00Z
-description = "Notes from DevOps'ish 219"
-draft = false
-url = "219/notes"
-title = "DevOps'ish 219 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [How to Use OBS Studio: Quick Guide – Restream Blog](https://restream.io/blog/how-to-use-obs-studio/)

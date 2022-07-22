@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-01-23T07:00:00Z
-description = "Notes from DevOps'ish 253"
-draft = false
-url = "253/notes"
-title = "DevOps'ish 253 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Celeste Horgan on Twitter: "@ChrisShort @MrBobbyTables I have a "selected talks" section on my website but I also keep a full youtube playlist of everything else." / Twitter](https://twitter.com/celeste_horgan/status/1483491349684908032)

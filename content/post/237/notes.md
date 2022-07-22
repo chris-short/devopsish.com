@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-10-03T07:00:00Z
-description = "Notes from DevOps'ish 237"
-draft = false
-url = "237/notes"
-title = "DevOps'ish 237 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [How to avoid bad assumptions during incidents | incident.io | incident.io](https://incident.io/blog/how-to-avoid-bad-assumptions-during-incidents)

@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-05-08T07:00:00Z
-description = "Notes from DevOps'ish 266"
-draft = false
-url = "266/notes"
-title = "DevOps'ish 266 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [DuckDuckGo Stays Fully Remote As Googlers Return to the Office](https://www.businessinsider.com/duckduckgo-stays-fully-remote-as-googlers-return-to-the-office-2022-4)

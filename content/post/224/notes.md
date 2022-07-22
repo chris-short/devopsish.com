@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-06-27T07:00:00Z
-description = "Notes from DevOps'ish 224"
-draft = false
-url = "224/notes"
-title = "DevOps'ish 224 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [5 GitHub Projects to make you a better DevOps Engineer ⚡ - DEV Community](https://dev.to/ankit01oss/5-github-projects-to-make-you-a-better-devops-engineer-2fkl)

@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-09-12T07:00:00Z
-description = "Notes from DevOps'ish 234"
-draft = false
-url = "234/notes"
-title = "DevOps'ish 234 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [The inevitable decline of fully open platforms | Seth's Blog](https://seths.blog/2021/08/the-inevitable-decline-of-fully-open-platforms/)

@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-05-30T07:00:00Z
-description = "Notes from DevOps'ish 220"
-draft = false
-url = "220/notes"
-title = "DevOps'ish 220 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [GitOps Days 2021 – conference for DevOps, Kubernetes, and Microservices](https://www.gitopsdays.com/)

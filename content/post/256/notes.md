@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-02-13T07:00:00Z
-description = "Notes from DevOps'ish 256"
-draft = false
-url = "256/notes"
-title = "DevOps'ish 256 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [(3) K8sContributors on Twitter: "If you're contributing to Kubernetes, make sure to add/update your affiliation here (https://t.co/XNIDonJbgO) to make the Devstats for k8s dashboard accurate and up-to-date as well as get necessary credit for your contributions to the project!" / Twitter](https://twitter.com/k8scontributors/status/1490687347033362437)

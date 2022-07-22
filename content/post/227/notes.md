@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-07-18T07:00:00Z
-description = "Notes from DevOps'ish 227"
-draft = false
-url = "227/notes"
-title = "DevOps'ish 227 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Web Scraping using Selenium and Python](https://www.scrapingbee.com/blog/selenium-python/)

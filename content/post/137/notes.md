@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-07-21T07:00:00Z
-description = "Notes from DevOps'ish 137"
-draft = false
-url = "137/notes"
-title = "DevOps'ish 137 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [What's in a Name? The Various Titles Within Developer Relations](http://communitypulse.io/37-whats-in-name/)

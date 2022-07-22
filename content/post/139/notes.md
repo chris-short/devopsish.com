@@ -1,15 +1,3 @@
-+++
-author = "Chris Short"
-categories = ["Notes"]
-date = 2019-08-04T07:00:00Z
-description = "Notes from DevOps'ish 139"
-draft = false
-url = "139/notes"
-title = "DevOps'ish 139 Notes"
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [AWS' new text-to-speech engine sounds like a newscaster](https://techcrunch.com/2019/07/30/aws-new-text-to-speech-engine-sounds-like-a-newscaster/) — At some point, folks will be able to autogenerate great sounding recordings and speeches from nothing but text.

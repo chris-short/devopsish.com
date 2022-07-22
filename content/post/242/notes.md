@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2021"]
-date = 2021-11-07T07:00:00Z
-description = "Notes from DevOps'ish 242"
-draft = false
-url = "242/notes"
-title = "DevOps'ish 242 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Chris Short (3x COVID-19 Vaccine Champion) on Twitter: "I’ve always said #DevOps should act more like a hospital than an auto manufacturer… https://t.co/ADfGO4BysF" / Twitter](https://twitter.com/ChrisShort/status/1455892090051874821)

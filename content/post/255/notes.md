@@ -1,17 +1,3 @@
-+++
-
-author = "Chris Short"
-categories = ["Notes", "2022"]
-date = 2022-02-06T07:00:00Z
-description = "Notes from DevOps'ish 255"
-draft = false
-url = "255/notes"
-title = "DevOps'ish 255 Notes"
-
-+++
-
-{{< notes-note >}}
-
 ## Notes
 
 [Ukraine Continues to Face Cyber Espionage Attacks from Russian Hackers](https://thehackernews.com/2022/02/ukraine-continues-to-face-cyber.html)
