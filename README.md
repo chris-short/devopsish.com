@@ -1,6 +1,6 @@
 # DevOps'ish
 
-![DevOps'ish](https://shortcdn.com/file/devopsish/DevOpsish-Wide.png)
+![DevOps'ish](https://shortcdn.com/file/devopsish/DevOpsish.png)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChrisShort?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/chris-short?style=social)
