@@ -128,4 +128,4 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 {{< tweet 1122117406372057090 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

@@ -112,4 +112,4 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 {{< tweet 1103746792850669568 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

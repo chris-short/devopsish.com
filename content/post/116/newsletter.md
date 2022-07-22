@@ -114,4 +114,4 @@ When my biological mother left my father in the late 1980s, she joined a [cult](
 
 {{< tweet 1098892705873022976 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

@@ -102,4 +102,4 @@ Kubernetes and containers are changing how applications are built, deployed, and
 
 [poseidon/typhoon](https://github.com/poseidon/typhoon) — Minimal and free Kubernetes distribution
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

@@ -109,4 +109,4 @@ Featuring interviews with Developer Relations professionals from many successful
 
 {{< tweet 1162371826401460224 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

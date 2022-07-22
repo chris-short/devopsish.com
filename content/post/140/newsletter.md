@@ -102,4 +102,4 @@ Blue Matador is alert automation for AWS and Kubernetes environments. Our proact
 
 {{< tweet 1158432433324187650 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

@@ -99,4 +99,4 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 {{< tweet 1078750833410375680 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

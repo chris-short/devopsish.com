@@ -141,4 +141,4 @@ Over the past 500 years, there have been 16 cases of a rising power threatening 
 
 {{< tweet 1095273479887310848 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

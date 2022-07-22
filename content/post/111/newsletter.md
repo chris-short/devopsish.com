@@ -116,4 +116,4 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 {{< tweet 1085291025143382017 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

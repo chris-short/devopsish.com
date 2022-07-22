@@ -109,4 +109,4 @@ Remember the ransom attacks that hit Git repos (see [DevOps'ish 126](https://dev
 
 {{< tweet 1128403226678587393 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

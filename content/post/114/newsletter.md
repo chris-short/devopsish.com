@@ -118,4 +118,4 @@ Two tweets of the week because both were too good not too share.
 
 {{< tweet 1093664596341211136 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

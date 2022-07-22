@@ -111,4 +111,4 @@ Get hands-on training in machine learning, AWS, Kubernetes, Python, Java, and ma
 >
 > — Dan Woods 🥁 (@danveloper) [April 18, 2019](https://twitter.com/danveloper/status/1118816110571339778)
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

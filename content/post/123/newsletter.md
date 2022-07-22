@@ -125,4 +125,4 @@ How well does your organization respond to changing market conditions, customer 
 
 {{< tweet 1115593200184377346 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

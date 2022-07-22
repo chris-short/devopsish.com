@@ -113,4 +113,4 @@ A pair of Kubernetes security issues this week. #shoutout to the Kubernetes Prod
 
 {{< tweet 1081418769849700352 >}}
 
-Notes from this week's issue can be found [here](./notes/).
+Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).
