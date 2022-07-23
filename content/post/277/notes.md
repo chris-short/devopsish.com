@@ -24,7 +24,7 @@ The following links and/or notes accompany the [corresponding issue of DevOps'is
 
 [NTPsec / ntpsec · GitLab](https://gitlab.com/NTPsec/ntpsec)
 
-[71 cities and towns are paying tech workers to abandon Silicon Valley. It’s work | Mint](https://www.livemint.com/industry/human-resource/71-cities-and-towns-are-paying-tech-workers-to-abandon-silicon-valley-it-s-work-11657984562179.html)
+[71 cities and towns are paying tech workers to abandon Silicon Valley. It's work | Mint](https://www.livemint.com/industry/human-resource/71-cities-and-towns-are-paying-tech-workers-to-abandon-silicon-valley-it-s-work-11657984562179.html)
 
 [spurin/cncf-psi-k8s-linux-simulator: CNCF PSI Kubernetes Exam Linux Environment Simulator](https://github.com/spurin/cncf-psi-k8s-linux-simulator)
 
@@ -38,40 +38,22 @@ The following links and/or notes accompany the [corresponding issue of DevOps'is
 
 [Using Fluent Bit and OpenSearch with Bottlerocket and Kubelet logs · OpenSearch](https://opensearch.org/blog/technical-post/2022/07/bottlerocket-k8s-fluent-bit/)
 
-[CoffeeOps](http://www.coffeeops.org/)
-
 [JamesIves/github-pages-deploy-action: Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.](https://github.com/JamesIves/github-pages-deploy-action)
-
-[AppFlowy-IO/AppFlowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.](https://github.com/AppFlowy-IO/AppFlowy)
-
-[Cilium 1.12 - Ingress, Multi-Cluster, Service Mesh, External Workloads, and much more](https://isovalent.com/blog/post/cilium-release-112/)
 
 [Apple reaches $50 mln settlement over defective MacBook keyboards | Reuters](https://www.reuters.com/legal/litigation/apple-reaches-50-mln-settlement-over-defective-macbook-keyboards-2022-07-19/)
 
-[E-Commerce Startup Fabric Pulled Employee Stock-Buyback Program](https://www.businessinsider.com/e-commerce-startup-fabric-pulled-employee-stock-buyback-program-2022-7)
-
-[Application security startups follow Snyk’s developer model - Protocol](https://www.protocol.com/enterprise/application-security-startups-developer-snyk)
+[Application security startups follow Snyk's developer model - Protocol](https://www.protocol.com/enterprise/application-security-startups-developer-snyk)
 
 [Release v0.22.0 · containerd/nerdctl](https://github.com/containerd/nerdctl/releases/tag/v0.22.0)
 
-[Using vcluster with Gloo Mesh for fast k8s Dev Environments](https://loft.sh/blog/development-environments-with-vcluster-a/)
-
-[Ondat cuts headcount amid market pressures – Blocks and Files](https://blocksandfiles.com/2022/07/18/ondat-layoffs/)
-
 [rqlite 7.6.0 released - now with ARM builds - Vallified](https://www.philipotoole.com/rqlite-7-6-0-released/)
-
-[How Kubernetes Broke Git](https://matt-rickard.com/how-kubernetes-broke-git/)
 
 [Keep calm and trust A/B testing with Flux, Flagger, and Linkerd | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/07/21/keep-calm-and-trust-a-b-testing-with-flux-flagger-and-linkerd/)
 
 [Biden administration pushes to close the growing cybersecurity workforce gap - CNN](https://www.cnn.com/2022/07/19/tech/biden-cyber-workforce-gap/index.html)
 
-[Nutanix Objects Violates MinIO’s Open Source License](https://blog.min.io/nutanix-objects-violates-minios-open-source-license/)
-
 [FCC chair proposes raising broadband standard to 100Mbps | Engadget](https://www.engadget.com/fcc-chairwoman-proposes-100mbps-broadband-standard-181617127.html)
 
 [2nd generation Samsung SmartSSD gets smarter – Blocks and Files](https://blocksandfiles.com/2022/07/21/gen-2-samsung-smartssd-gets-smarter/)
-
-[Google to slow hiring as Pichai calls for 'consolidating' - 9to5Google](https://9to5google.com/2022/07/20/google-hiring-slow-down/)
 
 [Analyzing Penetration-Testing Tools That Threat Actors Use to Breach Systems and Steal Data](https://www.trendmicro.com/en_us/research/22/g/analyzing-penetration-testing-tools-that-threat-actors-use-to-br.html)

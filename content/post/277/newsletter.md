@@ -49,6 +49,13 @@ I did hear murmurs like, "Do we have to run Kubernetes?" The answer is no. But, 
 
 Manage complex cloud-native systems, improve customer experiences, and build & run better software using Honeycomb. Get your FREE copy of [our new O'Reilly book](https://info.honeycomb.io/observability-engineering-oreilly-book-2022?utm_source=devopsish&utm_medium=newsletter&utm_campaign=oreilly_book_observability_engineering_2022&utm_id=oreillybook2022&utm_content=2113) and register for our [Authors' Cut Series](https://www.honeycomb.io/oreilly-observability-engineering/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=oreilly_authors_cut_series_2022&utm_id=oreillyauthorscut&utm_content=2112) to discuss key concepts.
 
+### Jobs
+
+Now Hiring: [Developer Advocacy Manager](https://camunda.com/jobs/?gh_jid=5224679003)  
+[Camunda](https://camunda.com/) is the leader in process orchestration software. Our software helps orchestrate complex business processes that span people, systems, and devices. With Camunda, business users collaborate with developers to model and automate end-to-end processes using BPMN-powered flowcharts that run with the speed, scale, and resiliency required to compete in today's digital-first world.
+
+As the [Developer Advocacy Manager](https://camunda.com/jobs/?gh_jid=5224679003), you'll be the direct people manager for a team of 4 Developer Advocates, responsible for career growth, performance evaluations, setting of priorities, and overall strategic guidance. You'll also be responsible for strategic planning for the Developer Advocacy function, including quarterly OKRs and annual goals as well as documentation of team responsibilities, goals, and success metrics.
+
 ### Events
 
 **Editor's note:** If your event would suit the DevOps'ish audience, please let me know!
@@ -79,15 +86,34 @@ eBPF Summit is a virtual event, targeted at DevOps, SecOps, platform architects,
 
 ## People
 
-[The Path to GitOps](https://developers.redhat.com/e-books/path-gitops)  
-Christian Hernandez, Codefresh  
-In his final Red Hat act, Christian Hernandez has released an ebook titled, "The Path to GitOps" I was fortunate enough to be asked to write the foreword for this book. So two ex-Red Hatters wrote this one. If you don't have a Red Hat Developers login, and trust me, [here's the PDF](https://shortcdn.com/file/devopsish/Path-to-GitOps-Red-Hat-Developer-e-book.pdf).
+[Google to slow hiring, Pichai calls for 'consolidating where investments overlap' [U: Pause]](https://9to5google.com/2022/07/20/google-hiring-slow-down/)  
+Abner Li, 9 to 5 Google  
+Temporary freezes are an interesting slow down model. On the one hand you're not hiring for two weeks which simply pushes the costs a couple weeks down the road. It's like saying you need another two weeks to get your books *just* right.
 
 [Spf13 google](https://spf13.com/p/spf13-google/)  
 Steve Francia (spf13)  
 After six years directly on the Go team at Google, Steve Francia is changing jobs. No one is immune from the Great Resignation.
 
+[Ondat cuts headcount amid market pressures](https://blocksandfiles.com/2022/07/18/ondat-layoffs/)  
+Chris Mellor, Blocks and Files  
+"Kubernetes storage startup [Ondat](https://www.ondat.io/) has gone through a layoff exercise as market conditions make business life much harder."
+
+[E-Commerce Startup Fabric Pulled Employee Stock-Buyback Program](https://www.businessinsider.com/e-commerce-startup-fabric-pulled-employee-stock-buyback-program-2022-7)  
+Kylie Robison, Business Insider  
+"Any employee who had been there for 12 months or more would be eligible, the email explained. Ten days later, the tender offer was abruptly scuttled before it even began."
+
+[CoffeeOps](http://www.coffeeops.org/)  
+I heard about this group at DevOpsDays Seattle. If anyone wants to start a Midwest one, let me know.
+
 ## Process
+
+[The Path to GitOps](https://developers.redhat.com/e-books/path-gitops)  
+Christian Hernandez, Codefresh  
+In his final Red Hat act, Christian Hernandez has released an ebook titled, "The Path to GitOps" I was fortunate enough to be asked to write the foreword for this book. So two ex-Red Hatters wrote this one. If you don't have a Red Hat Developers login, and trust me, [here's the PDF](https://shortcdn.com/file/devopsish/Path-to-GitOps-Red-Hat-Developer-e-book.pdf).
+
+[Nutanix Objects Violates MinIO's Open Source License](https://blog.min.io/nutanix-objects-violates-minios-open-source-license/)  
+Garima Kapoor, MinIO  
+"If you are a customer of Nutanix Objects, there may be legal and security risks you should be aware of as a consequence of these license violations. You may not be on the latest version of the MinIO Object Storage Software, and you may not be receiving adequate IP licenses from Nutanix." It would appear that Nutanixbadger don't give a fuck ([here's their response](https://www.nutanix.com/blog/open-source-statement)).
 
 [Apple Releases Security Patches for all Devices Fixing Dozens of New Vulnerabilities](https://thehackernews.com/2022/07/apple-releases-security-patches-for-all.html)  
 Ravie Lakshmanan, The Hacker News  
@@ -107,6 +133,10 @@ Rachel Potvin, VP Engineering at GitHub, alphalist Podcast
 
 ## Tools
 
+[How Kubernetes Broke Git](https://matt-rickard.com/how-kubernetes-broke-git/)  
+Matt Rickard  
+"How did Kubernetes push git to its limit? Some stories from my time (2016-2019) working on Kubernetes."
+
 [K8s Gateway API is here - what's in it for you?](https://www.groundcover.com/blog/k8s-gateway-api)  
 Noam Levy, groundcover  
 "Enabling Kubernetes users to build expertise in universal apis instead of becoming vendor-specific experts will help build more mature products, focus on creating value and apply our skills more easily and in different environments."
@@ -115,9 +145,17 @@ Noam Levy, groundcover
 Mehul Arora , MetalBear 🐻  
 "Ephemeral containers let us run a container with a specific image in the context of an already running container in a Pod. This comes in handy when debugging/troubleshooting distroless images or images that lack certain utilities, where `kubectl exec` won't be helpful." After seeing how this worked in practice at DevOpsDays Seattle, my containers doing work on Kubernetes are about to lose some layers.
 
+[Using vcluster with Gloo Mesh for fast k8s Dev Environments](https://loft.sh/blog/development-environments-with-vcluster-a/)  
+Antonio Berben, Loft  
+Here's how you can test your prod environment more locally.
+
 [1 Billion Flux Downloads Show GitOps Gaining Ground](https://containerjournal.com/features/1-billion-flux-downloads-show-gitops-gaining-ground/)  
 Mike Vizard, Container Journal  
 "Weaveworks today says container images of its open source Flux version control software have now been downloaded more than one billion times. Flux is at the core of Weaveworks' GitOps platform. In addition, the company claims that its enterprise customer base doubled in the first half of 2022, which led to a corresponding increase in revenue for the same period."
+
+[Cilium 1.12 - Ingress, Multi-Cluster, Service Mesh, External Workloads, and much more](https://isovalent.com/blog/post/cilium-release-112/)  
+Isovalent  
+A lot of extra bits being launched in this release.
 
 [Scaling Kubernetes with Karpenter: Advanced Scheduling with Pod Affinity and Volume Topology Awareness](https://aws.amazon.com/blogs/containers/scaling-kubernetes-with-karpenter-advanced-scheduling-with-pod-affinity-and-volume-topology-awareness/)  
 Lukonde Mwila, Principal Technical Evangelist, SUSE, AWS Containers Blog  
@@ -132,7 +170,7 @@ A Helm chart templating CLI, kustomize plugin and containerized kustomize/kpt KR
 CLI for building OPA policies into OCI images
 
 [Exein-io/pulsar](https://github.com/Exein-io/pulsar)  
-⭐️ 89
+⭐️ 89  
 A highly modular and blazing fast runtime security framework for the IoT, powered by eBPF.
 
 [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal)  
@@ -147,9 +185,13 @@ Open specification for defining and expressing service level objectives (SLO)
 ⭐️ 14.4K  
 "An experimental successor to C++" Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 
+[AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)  
+⭐️ 24.6K  
+AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+
 ## DevOps'ish Post of the Week
 
-[![u/Ordinary-March on r/kubernetes: "Is the Universe a giant Kubernetes cluster where galaxies are namespaces, stars are pods, planets sidecar containers and gravity a well designed service mesh!" / Twitter)](https://shortcdn.com/file/devopsish/277-devopsish-post-of-the-week.webp)](https://www.reddit.com/r/kubernetes/comments/w2h7bz/is_the_universe_a_giant_kubernetes_cluster_where/?utm_source=devopsish)
+[![u/Ordinary-March on r/kubernetes: "Is the Universe a giant Kubernetes cluster where galaxies are namespaces, stars are pods, planets sidecar containers and gravity a well designed service mesh!" / Reddit)](https://shortcdn.com/file/devopsish/277-devopsish-post-of-the-week.webp)](https://www.reddit.com/r/kubernetes/comments/w2h7bz/is_the_universe_a_giant_kubernetes_cluster_where/?utm_source=devopsish)
 
 ### Got a newsletter worthy post?
 
