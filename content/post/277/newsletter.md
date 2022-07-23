@@ -19,7 +19,7 @@ One thing that stood out to me the most as I wandered around Seattle this week. 
 
 ### DevOpsDays Seattle
 
-I attended DevOpsDays Seattle this week too. It was great to be back at DevOpsDays in person again. Seeing so many of my friends after so long ended up breathing new life into what I'm doing. My friend Kat Cosgrove gave a great talk about the history of configuration management. There have been a lot of tools to help with this along the way. The big ones; Make, cfengine, Puppet, Ansible (and many more); I've touched them all. I know I'm old because my body tells me that, but I'm experienced because I changed jobs enough to avoid getting too stuck on one tool. This was my first grand realization. I got fortunate that I had the opportunity to learn Puppet when it was new and complicated. To learn Ansible back in the late 1.x days. These experiences gave me foresight into what to look for in the following tooling setups. This led me to Kubernetes and what I'm doing today.
+I attended [DevOpsDays Seattle](https://devopsdays.org/events/2022-seattle/welcome/) this week too. It was great to be back at DevOpsDays in person again. Seeing so many of my friends after so long ended up breathing new life into what I'm doing. My friend Kat Cosgrove gave a great talk about the history of configuration management. There have been a lot of tools to help with this along the way. The big ones; Make, cfengine, Puppet, Ansible (and many more); I've touched them all. I know I'm old because my body tells me that, but I'm experienced because I changed jobs enough to avoid getting too stuck on one tool. This was my first grand realization. I got fortunate that I had the opportunity to learn Puppet when it was new and complicated. To learn Ansible back in the late 1.x days. These experiences gave me foresight into what to look for in the following tooling setups. This led me to Kubernetes and what I'm doing today.
 
 I met a few new people at DevOpsDays and people I've followed on Twitter forever but haven't met in person and had open and honest discussions. I got to see my Marine friends Ken Mugrage and Trip Longworth (for what might have been the longest, hardest hug I've had all year; I needed it). I saw Laura Santamaria of Kubernetes Community fame, former Red Hatter, and fellow Detroiter Rain Leander.
 
@@ -53,7 +53,7 @@ Manage complex cloud-native systems, improve customer experiences, and build & r
 
 **Editor's note:** If your event would suit the DevOps'ish audience, please let me know!
 
-[**SCALE 19x**](http://www.socallinuxexpo.org/?source=devopsish)
+[**SCALE 19x**](http://www.socallinuxexpo.org/?utm_source=devopsish)
 
 JULY 28-31, 2022
 
@@ -63,15 +63,15 @@ SCALE is the largest community-run open-source and free software conference in N
 
 SEPTEMBER 14-15, Live on Twitch from Mackinac Island, Michigan
 
-This year we’re expanding our schedule to two days of streaming, and bringing our speakers together to deliver their talks. What does that mean to you? More great talks, with better production values, and new talk types! We’re excited to welcome you back to our Deserted Island this September 14th and 15th!
+This year we're expanding our schedule to two days of streaming, and bringing our speakers together to deliver their talks. What does that mean to you? More great talks, with better production values, and new talk types! We're excited to welcome you back to our Deserted Island this September 14th and 15th!
 
-[**ArgoCon**](https://events.linuxfoundation.org/argocon/?source=devopsish)
+[**ArgoCon**](https://events.linuxfoundation.org/argocon/?utm_source=devopsish)
 
 SEPTEMBER 19 – 21, 2022
 
 ArgoCon is designed to foster collaboration, discussion, and knowledge sharing on the Argo Project, which consists of four projects: Argo CD, Argo Workflows, Argo Rollouts, and Argo Events. This event is aimed at audiences that are new to Argo as well as providing depth to those currently using Argo within their organization. Connect with others that are passionate about Argo and interact with project maintainers. Learn from practitioners about pitfalls to avoid and best practices on how to adopt Argo in your cloud native environment. Get inspired by and provide input to Argo leads on project roadmaps.
 
-[**eBPF Summit**](https://ebpf.io/summit-2022/?source=devopsish)
+[**eBPF Summit**](https://ebpf.io/summit-2022/?utm_source=devopsish)
 
 SEPTEMBER 28 - 29, 2022
 
@@ -79,19 +79,77 @@ eBPF Summit is a virtual event, targeted at DevOps, SecOps, platform architects,
 
 ## People
 
-PEOPLE
+[The Path to GitOps](https://developers.redhat.com/e-books/path-gitops)  
+Christian Hernandez, Codefresh  
+In his final Red Hat act, Christian Hernandez has released an ebook titled, "The Path to GitOps" I was fortunate enough to be asked to write the foreword for this book. So two ex-Red Hatters wrote this one. If you don't have a Red Hat Developers login, and trust me, [here's the PDF](https://shortcdn.com/file/devopsish/Path-to-GitOps-Red-Hat-Developer-e-book.pdf).
+
+[Spf13 google](https://spf13.com/p/spf13-google/)  
+Steve Francia (spf13)  
+After six years directly on the Go team at Google, Steve Francia is changing jobs. No one is immune from the Great Resignation.
 
 ## Process
 
-PROCESS
+[Apple Releases Security Patches for all Devices Fixing Dozens of New Vulnerabilities](https://thehackernews.com/2022/07/apple-releases-security-patches-for-all.html)  
+Ravie Lakshmanan, The Hacker News  
+Sorry, I have to stay home and update my Apple devices is 2022's lowest rejection line ever.
+
+[Digital security giant Entrust breached by ransomware gang](https://www.bleepingcomputer.com/news/security/digital-security-giant-entrust-breached-by-ransomware-gang/)  
+Lawrence Abrams, Bleeping Computer  
+"Approximately two weeks ago, a source told BleepingComputer that Entrust was breached on June 18th and that the hackers stole corporate data during the cyberattack. However, it wasn't until yesterday that the breach was publicly confirmed when security researcher Dominic Alvieri [tweeted a screenshot](https://twitter.com/AlvieriD/status/1550119202287013891) of a security notice sent to Entrust's customers on July 6th."
+
+[TeamViewer installs suspicious font only useful for web fingerprinting](https://www.ctrl.blog/entry/teamviewer-font-privacy.html)  
+Daniel Aleksandersen, Ctrl blog  
+tl;dr After some digging someone did find a very thin but, legit use case. After all the hullabaloo, TeamViewer is going to remove the font in a future release.
+
+[6 Tips to Overcome Scaling Challenges Like Design Decisions, Tech Debt, and Developer Satisfaction](https://alphalist.com/blog/6-tips-to-overcome-scaling-challenges-like-design-decisions-tech-debt-and-developer-satisfaction)  
+Rachel Potvin, VP Engineering at GitHub, alphalist Podcast  
+"What worked when your company was founded will no longer work now that you are scaling and hiring at a rapid pace. How will people communicate? How will tech debt be tackled? The choices one engineer makes affect many more people so now it's time for you to strategize on how your increased workforce works together.  Rachel tackled many scaling challenges when the team she led grew threefold - to 500 people! This is what she shared on the alphalist CTO podcast on how she had to adapt as the team grew."
 
 ## Tools
 
-TOOLS
+[K8s Gateway API is here - what's in it for you?](https://www.groundcover.com/blog/k8s-gateway-api)  
+Noam Levy, groundcover  
+"Enabling Kubernetes users to build expertise in universal apis instead of becoming vendor-specific experts will help build more mature products, focus on creating value and apply our skills more easily and in different environments."
+
+[Getting Started With Ephemeral Containers](https://metalbear.co/blog/getting-started-with-ephemeral-containers/)  
+Mehul Arora , MetalBear 🐻  
+"Ephemeral containers let us run a container with a specific image in the context of an already running container in a Pod. This comes in handy when debugging/troubleshooting distroless images or images that lack certain utilities, where `kubectl exec` won't be helpful." After seeing how this worked in practice at DevOpsDays Seattle, my containers doing work on Kubernetes are about to lose some layers.
+
+[1 Billion Flux Downloads Show GitOps Gaining Ground](https://containerjournal.com/features/1-billion-flux-downloads-show-gitops-gaining-ground/)  
+Mike Vizard, Container Journal  
+"Weaveworks today says container images of its open source Flux version control software have now been downloaded more than one billion times. Flux is at the core of Weaveworks' GitOps platform. In addition, the company claims that its enterprise customer base doubled in the first half of 2022, which led to a corresponding increase in revenue for the same period."
+
+[Scaling Kubernetes with Karpenter: Advanced Scheduling with Pod Affinity and Volume Topology Awareness](https://aws.amazon.com/blogs/containers/scaling-kubernetes-with-karpenter-advanced-scheduling-with-pod-affinity-and-volume-topology-awareness/)  
+Lukonde Mwila, Principal Technical Evangelist, SUSE, AWS Containers Blog  
+"A hands-on approach to scaling Kubernetes with [Karpenter](https://karpenter.sh/) specifically for supporting advanced scheduling techniques with inter-pod affinity and volume topology awareness." Karpenter implements what autoscalers should do, look the the spec file and figure out the best compute to put it on.
+
+[mgoltzsche/khelm](https://github.com/mgoltzsche/khelm)  
+⭐️ 57  
+A Helm chart templating CLI, kustomize plugin and containerized kustomize/kpt KRM function
+
+[opcr-io/policy](https://github.com/opcr-io/policy)  
+⭐️ 84  
+CLI for building OPA policies into OCI images
+
+[Exein-io/pulsar](https://github.com/Exein-io/pulsar)  
+⭐️ 89
+A highly modular and blazing fast runtime security framework for the IoT, powered by eBPF.
+
+[SpatiumPortae/portal](https://github.com/SpatiumPortae/portal)  
+⭐️ 166  
+Portal is a quick and easy command-line file transfer utility from any computer to another 🖥️ 🌌 💻
+
+[OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO)  
+⭐️ 837  
+Open specification for defining and expressing service level objectives (SLO)
+
+[carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)  
+⭐️ 14.4K  
+"An experimental successor to C++" Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 
 ## DevOps'ish Post of the Week
 
-[![Lily Ray 😏 on Twitter: "My jaw actually dropped. @wilreynolds showed 3 examples of black doctors/nurses where Google's Vision AI rated the image as 70%+ "Street Fashion" despite them literally wearing scrubs When he painted the nurses white, it switched to "Formal wear" Truly unbelievable #mozcon https://t.co/hgM3gA9uvO" / Twitter)](https://shortcdn.com/file/devopsish/275-devopsish-post-of-the-week.webp)](https://twitter.com/lilyraynyc/status/1547361484144984065?s=12&t=Uxd6qd18SoDoQq1c473hkA)
+[![u/Ordinary-March on r/kubernetes: "Is the Universe a giant Kubernetes cluster where galaxies are namespaces, stars are pods, planets sidecar containers and gravity a well designed service mesh!" / Twitter)](https://shortcdn.com/file/devopsish/277-devopsish-post-of-the-week.webp)](https://www.reddit.com/r/kubernetes/comments/w2h7bz/is_the_universe_a_giant_kubernetes_cluster_where/?utm_source=devopsish)
 
 ### Got a newsletter worthy post?
 
