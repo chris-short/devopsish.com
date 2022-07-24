@@ -1,4 +1,4 @@
-/*/notes/ https://github.com/chris-short/devopsish.com/blob/main/content/post/:splat:/notes.md 301
+/*/notes/ https://github.com/chris-short/devopsish.com/blob/main/content/post/:splat/notes.md 301
 /tagged/* /tags/:splat/ 301
 /archive/* /:splat/ 301
 /trending* / 301
