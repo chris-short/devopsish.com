@@ -69,7 +69,7 @@
 /feed /index.xml 301
 /icons/favicon-hatch-editor.ico /favicons/favicon.ico 301
 /icons/favicon-medium-editor.ico /favicons/favicon.ico 301
-/latest / 301
+/latest https://devopsi.sh/latest 301
 /rss /index.xml 301
 /tags/aws-lambda/ /tags/lambda/ 301
 /tags/development/ /tags/ 301
