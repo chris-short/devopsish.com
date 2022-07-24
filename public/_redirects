@@ -1,10 +1,3 @@
-/*/notes/ https://github.com/chris-short/devopsish.com/blob/main/content/post/:splat/notes.md 301
-/tagged/* /tags/:splat/ 301
-/archive/* /:splat/ 301
-/trending* / 301
-/media/* https://medium.com/media/:splat 301
-/icons/favicon-*-editor.ico /favicons/favicon.ico 301
-/*/Comments /:splat/ 301
 /001-week-of-1481432400-696c2c8043f1 /001/ 301
 /002-week-of-1482037200-51127c20054b /002/ 301
 /003-week-of-1482642000-885ce5d0fee1 /003/ 301
@@ -73,11 +66,17 @@
 /tags/weekly/ / 301
 /tags/newsletter/ /categories/newsletter/ 301
 /@chrisshort https://chrisshort.me 301
-/latest / 301
+/latest https://devopsi.sh/latest 301
 /all / 301
 /tags/tech/ /tags/ 301
 /tags/development/ /tags/ 301
 /tags/software-development/ /tags/ 301
 /tags/aws-lambda/ /tags/lambda/ 301
-
 /browserconfig.xml /favicons/browserconfig.xml 302
+/*/notes/ https://github.com/chris-short/devopsish.com/blob/main/content/post/:splat/notes.md 301
+/tagged/* /tags/:splat/ 301
+/archive/* /:splat/ 301
+/trending* / 301
+/media/* https://medium.com/media/:splat 301
+/icons/favicon-*-editor.ico /favicons/favicon.ico 301
+/*/Comments /:splat/ 301
