@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-07-24T07:00:00Z
-description = [""]
+description = ["DevOpsDays Seattle, Google freezes hiring; spf13 out, The Path to GitOps, MinIO calls foul on Nutanix, Ephemeral Containers, K8s Gateway API, and more"]
 draft = false
 slug = "277"
-tags = []
-title = "DevOps'ish 277: "
+tags = ["people", "Kubernetes", "open source", "DevOpsDays", "DevOpsDays Seattle", "security", "infosec", "DevOps", "software", "Kat Cosgrove", "IoT", "Netflix", "Google", "images", "developer", "OCI", "scaling", "AWS", "systems", "Steve Francia", "GitOps", "scale", "hiring", "compliant", "developers", "container", "containers", "customers", "processes"]
+title = "DevOps'ish 277: DevOpsDays Seattle, Google freezes hiring; spf13 out, The Path to GitOps, MinIO calls foul on Nutanix, Ephemeral Containers, K8s Gateway API, and more"
 +++
 
 **A note about notes**: I will no longer publish the weekly notes file on the website. They are still [made available on GitHub][1] as they have been for the past 170 issues. If you're curious about the why: spam emails that came as a result. Yeah, funny how that works.
@@ -19,9 +19,11 @@ One thing that stood out to me the most as I wandered around Seattle this week. 
 
 ### DevOpsDays Seattle
 
-I attended [DevOpsDays Seattle](https://devopsdays.org/events/2022-seattle/welcome/) this week too. It was great to be back at DevOpsDays in person again. Seeing so many of my friends after so long ended up breathing new life into what I'm doing. My friend Kat Cosgrove gave a great talk about the history of configuration management. There have been a lot of tools to help with this along the way. The big ones; Make, cfengine, Puppet, Ansible (and many more); I've touched them all. I know I'm old because my body tells me that, but I'm experienced because I changed jobs enough to avoid getting too stuck on one tool. This was my first grand realization. I got fortunate that I had the opportunity to learn Puppet when it was new and complicated. To learn Ansible back in the late 1.x days. These experiences gave me foresight into what to look for in the following tooling setups. This led me to Kubernetes and what I'm doing today.
+I attended [DevOpsDays Seattle](https://devopsdays.org/events/2022-seattle/welcome/) this week too. It was exciting to be back at DevOpsDays in person again. Seeing so many of my friends after so long ended up breathing new life into what I'm doing. My friend Kat Cosgrove gave a great talk about the history of configuration management (which was Kat's first keynote; she nailed it). There have been a lot of tools to help with this along the way. The big ones; Make, cfengine, Puppet, Ansible (and many more); I've touched them all. I know I'm old because my body tells me that, but I'm experienced because I changed jobs enough to avoid getting too stuck on one tool. This was my first grand realization. I got fortunate that I had the opportunity to learn Puppet when it was new and complicated. To learn Ansible back in the late 1.x days. These experiences gave me foresight into what to look for in the following tooling setups. This led me to Kubernetes and what I'm doing today.
 
 I met a few new people at DevOpsDays and people I've followed on Twitter forever but haven't met in person and had open and honest discussions. I got to see my Marine friends Ken Mugrage and Trip Longworth (for what might have been the longest, hardest hug I've had all year; I needed it). I saw Laura Santamaria of Kubernetes Community fame, former Red Hatter, and fellow Detroiter Rain Leander.
+
+See the [live tweets of the event here](https://twitter.com/search?q=from%3AChrisShort%20%23DevOpsDays&src=typeahead_click&f=live).
 
 #### OCI Compliant Registries
 
