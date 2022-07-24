@@ -61,26 +61,22 @@
 /devopsish-059-dodnyc-hawaii-missile-ui-intel-kubernetes-and-more-485f6663c0d7 /059/ 301
 /devopsish-060-wtf-google-sre-in-a-serverless-world-devops-requires-rethinking-norms-kubernetes-163ab5eaef53 /060/ 301
 /devopsish-061-week-coreos-acquisition-20-years-of-open-source-heptio-s-undistribution-and-4f63428fc1b1 /061/ 301
-/feed /index.xml 301
-/rss /index.xml 301
-/tagged/* /tags/:splat/ 301
-/tags/weekly/ / 301
-/tags/newsletter/ /categories/newsletter/ 301
-/@chrisshort https://chrisshort.me 301
-/archive/* /:splat/ 301
-/latest / 301
-/all / 301
-/trending* / 301
-/icons/favicon-hatch-editor.ico /favicons/favicon.ico 301
-/icons/favicon-medium-editor.ico /favicons/favicon.ico 301
-/media/* https://medium.com/media/:splat 301
-/*/Comments /:splat/ 301
-/tags/tech/ /tags/ 301
-/tags/development/ /tags/ 301
-/tags/software-development/ /tags/ 301
-/tags/aws-lambda/ /tags/lambda/ 301
 
 /browserconfig.xml /favicons/browserconfig.xml 302
+
+/@chrisshort https://chrisshort.me 301
+/all / 301
+/feed /index.xml 301
+/icons/favicon-hatch-editor.ico /favicons/favicon.ico 301
+/icons/favicon-medium-editor.ico /favicons/favicon.ico 301
+/latest / 301
+/rss /index.xml 301
+/tags/aws-lambda/ /tags/lambda/ 301
+/tags/development/ /tags/ 301
+/tags/newsletter/ /categories/newsletter/ 301
+/tags/software-development/ /tags/ 301
+/tags/tech/ /tags/ 301
+/tags/weekly/ / 301
 
 /106/notes/ https://github.com/chris-short/devopsish.com/blob/main/content/post/106/notes.md 301
 /107/notes/ https://github.com/chris-short/devopsish.com/blob/main/content/post/107/notes.md 301
@@ -253,3 +249,9 @@
 /274/notes/ https://github.com/chris-short/devopsish.com/blob/main/content/post/274/notes.md 301
 /275/notes/ https://github.com/chris-short/devopsish.com/blob/main/content/post/275/notes.md 301
 /276/notes/ https://github.com/chris-short/devopsish.com/blob/main/content/post/276/notes.md 301
+
+/*/Comments /:splat/ 301
+/archive/* /:splat/ 301
+/media/* https://medium.com/media/:splat 301
+/tagged/* /tags/:splat/ 301
+/trending* / 301
