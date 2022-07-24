@@ -1,5 +1,5 @@
 ---
-name: Scheduled Netlify site build
+name: Scheduled site build
 on:
   schedule:
   - cron: '0 3,4,5,6,7,8 * * 0,1,5,6'
@@ -7,8 +7,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Trigger build on Netlify
+    - name: Trigger build
       env:
-        TOKEN: ${{ secrets.NETLIFY_BUILD_HOOK_KEY }}
+        TOKEN: ${{ secrets.HOOK }}
       run: >-
-          curl -s -H "Accept: application/json" -H "Content-Type: application/json" -X POST -d "{}" "https://api.netlify.com/build_hooks/${TOKEN}"
+          curl -X POST "${HOOK}"
