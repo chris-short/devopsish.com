@@ -77,6 +77,4 @@ This is the THIRD time this has appeared in DevOps'ish
 
 [rapiz1/catp: Print the output of a running process](https://github.com/rapiz1/catp)
 
-[Intel Cuts Fab Buildout by $4B To Pay Billions In Dividends](https://semianalysis.substack.com/p/intel-cuts-fab-buildout-by-4b-to)
-
 [On "Wasting disk space"](https://www.ypsidanger.com/wasting-disk-space/)
