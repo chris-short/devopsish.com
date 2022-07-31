@@ -11,4 +11,4 @@ jobs:
       env:
         TOKEN: ${{ secrets.HOOK }}
       run: >-
-          curl -X POST ${HOOK}
+          curl -X POST -d '{}' ${HOOK}
