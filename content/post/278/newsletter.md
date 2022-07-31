@@ -96,7 +96,7 @@ As the [Developer Advocacy Manager](https://camunda.com/jobs/?gh_jid=5224679003)
 
 AUGUST 25 - 26, 2022
 
-DevOpsDays Detroit is thinking about cancelling if registrations don't pick up. Let's not let our local DevOpsDays go down in flames. I take selfies with you if you want. Show up, it'll be awesome! Come see Detroit before KubeCon shows up. They're offering folks $50 off. Register by Aug 3rd (Wednesday) when the organizers will make a decision, please: <https://www.eventbrite.com/e/336097074397/?discount=WELCOMEBACK>
+DevOpsDays Detroit is thinking about cancelling if registrations don't pick up. Let's not let our local DevOpsDays go down in flames. I'll take selfies with you if you want. Show up, it'll be awesome! Come see Detroit before KubeCon shows up. They're offering folks $50 off. Register by Aug 3rd (Wednesday) when the organizers will make a decision, please: <https://www.eventbrite.com/e/336097074397/?discount=WELCOMEBACK>
 
 [**Deserted Island DevOps 2022**](https://desertedislanddevops.com/)
 
