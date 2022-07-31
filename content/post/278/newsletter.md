@@ -5,8 +5,8 @@ date = 2022-07-31T07:00:00Z
 description = [""]
 draft = false
 slug = "278"
-tags = ["eBPF"]
-title = "DevOps'ish 278:"
+tags = ["eBPF", "open source"]
+title = "DevOps'ish 278: Intro to eBPF, "
 +++
 
 **ICYMI on Notes**: In [DevOps'ish 277](https://devopsish.com/277/) I stated I will no longer publish the weekly notes file on the website. They are still [made available on GitHub][1] as they have been for the past 170 issues. If you're curious about the why: spam emails that came as a result. Yeah, funny how that works.
