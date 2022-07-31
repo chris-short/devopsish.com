@@ -125,7 +125,7 @@ A vulnerability scanner for container images and filesystems
 
 ## DevOps'ish Post of the Week
 
-[![http://operationdvoretskyi.org #KubeConEU (Chris Lentricchia 🤙, @IAmCippino on Twitter)](https://shortcdn.com/file/devopsish/268-devopsish-tweet-of-the-week-2x.webp)](https://twitter.com/IAmCippino/status/1526827726635732994)
+[![https://www.operationdvoretskyi.org #KubeConEU (Chris Lentricchia 🤙, @IAmCippino on Twitter)](https://shortcdn.com/file/devopsish/268-devopsish-tweet-of-the-week-2x.webp)](https://twitter.com/IAmCippino/status/1526827726635732994)
 
 ### Got a newsletter worthy post?
 
