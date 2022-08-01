@@ -192,7 +192,7 @@ Bria Jones, InfluxData
 Michael Larabel, Phoronix  
 "GNOME and Red Hat developers are working on integrating firmware security tips and recommendations into the desktop for warning users about platform/firmware security issues like if UEFI Secure Boot is disabled and other possible avenues their system could be exploited."
 
-[Kubernetes Network Policies: An Actionable Guide & Tutorial](https://www.containiq.com/post/kubernetes-network-policies)
+[Kubernetes Network Policies: An Actionable Guide & Tutorial](https://www.containiq.com/post/kubernetes-network-policies)  
 Kasper Siig, ContainIQ  
 "In this guide, you'll learn about Kubernetes Network Policies, including what they do, why they're needed, and how to configure and work with them effectively."
 
