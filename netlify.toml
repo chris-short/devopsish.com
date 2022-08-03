@@ -64,6 +64,7 @@ HUGO_ENABLEGITINFO = "true"
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "DENY"
+    X-Robots-Tag = "all"
     X-XSS-Protection = "1; mode=block"
 
 [[headers]]
@@ -77,13 +78,3 @@ HUGO_ENABLEGITINFO = "true"
   [headers.values]
     Cache-Control = "public"
     Cache-Control = "max-age=14400"
-
-[[headers]]
-  for = "https://:devopsish-com.pages.dev/*"
-  [headers.values]
-    X-Robots-Tag = "noindex"
-
-[[headers]]
-  for = "https://:devopsish.netlify.app/*"
-  [headers.values]
-    X-Robots-Tag = "noindex"
