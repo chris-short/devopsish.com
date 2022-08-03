@@ -66,15 +66,3 @@ HUGO_ENABLEGITINFO = "true"
     X-Frame-Options = "DENY"
     X-Robots-Tag = "all"
     X-XSS-Protection = "1; mode=block"
-
-[[headers]]
-  for = "https://devopsish.com/js/search.js"
-  [headers.values]
-    Cache-Control = "public"
-    Cache-Control = "max-age=2629800"
-
-[[headers]]
-  for = "https://devopsish.com/css/carbon.css"
-  [headers.values]
-    Cache-Control = "public"
-    Cache-Control = "max-age=14400"
