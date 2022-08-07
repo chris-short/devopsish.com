@@ -11,4 +11,4 @@ jobs:
       env:
         TOKEN: ${{ secrets.NETLIFY_BUILD_HOOK_KEY }}
       run: >-
-          curl -s -H "Accept: application/json" -H "Content-Type: application/json" -X POST -d "{}" "https://api.netlify.com/build_hooks/${TOKEN}"
+          curl -X POST -d {} https://api.netlify.com/build_hooks/${TOKEN}
