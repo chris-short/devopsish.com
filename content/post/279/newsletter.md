@@ -9,7 +9,7 @@ tags = ["Kubernetes", "project", "key", "open source", "cosign", "kernel", "host
 title = "DevOps'ish 279: The little things, dafuq Apple, tech layoffs continue, MinIO and Nutanix, iRobot and Amazon, Kubernetes Removals and Major Changes In 1.25 and more"
 +++
 
-Not going to lie. The GitHub Action cron job that builds the website automatically for me has not worked for weeks. I moved some sites to various services, and DevOps'ish returned to Netlify because of the branch build command granularity. I use Hugo and future dated articles built when the `-F` flag is passed. This is very helpful in ensuring the newsletter is done just how I like it.
+Not going to lie. The GitHub Action cron job that builds the website automatically for me has not worked for weeks. I moved some sites to various services, and DevOps'ish returned to Netlify because of the branch build command granularity. I use Hugo and future dated articles are built when the `-F` flag is passed. This is very helpful in ensuring the newsletter is done just how I like it.
 
 But, since returning to Netlify, the cron job to build the site at the right time of day has been busted. I finally had to go back in the commit history and copy/pasta all that and replace everything I was doing. It *should* work. This shows that no matter what, if you know you can look it up, your brain won't prioritize memorizing it. But, COME ON!!!
 
