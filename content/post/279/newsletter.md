@@ -2,16 +2,16 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-08-07T07:00:00Z
-description = []
+description = ["The little things, dafuq Apple, tech layoffs continue, MinIO and Nutanix, iRobot and Amazon, Kubernetes Removals and Major Changes In 1.25 and more"]
 draft = false
 slug = "279"
-tags = []
-title = "DevOps'ish 279: "
+tags = ["Kubernetes", "project", "key", "open source", "cosign", "kernel", "host", "time", "cloud native", "developer", "manager", "Amazon", "password", "AWS", "Linux", "container", "eBPF", "virtual", "security", "observability", "DevOps", "sigstore", ""]
+title = "DevOps'ish 279: The little things, dafuq Apple, tech layoffs continue, MinIO and Nutanix, iRobot and Amazon, Kubernetes Removals and Major Changes In 1.25 and more"
 +++
 
-Not gonna lie. The GitHub Action cron job that builds the web site automatically for me has not worked for weeks. I moved some sites around to various services and DevOps'ish ended up coming back to Netlify because of the branch build command granularity. I use Hugo and future dated articles build when the `-F` flag is passed. This is very helpful to make sure the newsletter is done just how I like it.
+Not going to lie. The GitHub Action cron job that builds the website automatically for me has not worked for weeks. I moved some sites to various services, and DevOps'ish returned to Netlify because of the branch build command granularity. I use Hugo and future dated articles built when the `-F` flag is passed. This is very helpful in ensuring the newsletter is done just how I like it.
 
-But, ever since coming back to Netlify, the cron job to build the site at the right time of day has been busted. I finally had to go back in the commit history and copy/pasta all that and replace everything I was doing. It *should* work. This just shows that no matter what, if you know you can look it up, your brain won't prioritize memorizing it. But, COME ON!!!
+But, since returning to Netlify, the cron job to build the site at the right time of day has been busted. I finally had to go back in the commit history and copy/pasta all that and replace everything I was doing. It *should* work. This shows that no matter what, if you know you can look it up, your brain won't prioritize memorizing it. But, COME ON!!!
 
 ## Free Copy of Honeycomb's O'Reilly Book: Observability Engineering
 
@@ -62,7 +62,7 @@ I expect better out of Apple. But, at the same time, I'm not surprised.
 
 [Tech layoffs continue across the board: Here's the latest](https://www.fastcompany.com/90774924/tech-companies-continue-to-cut-costs-resulting-in-massive-layoffs)  
 Fast Company  
-"The layoffs in the sector are happening for a variety reasons. But it’s clear that the market is in an entirely different place than it was in 2021, when dealmaking was happening at a rapid pace, and investors were jumping head first into funding rounds with sky-high valuations."
+"The layoffs in the sector are happening for a variety reasons. But it's clear that the market is in an entirely different place than it was in 2021, when dealmaking was happening at a rapid pace, and investors were jumping head first into funding rounds with sky-high valuations."
 
 [Google CEO Sundar Pichai says productivity is “not where it needs to be”](https://arstechnica.com/gadgets/2022/08/google-ceo-calls-for-a-more-focused-and-efficient-google/)  
 , Ars Technica  
@@ -153,8 +153,6 @@ Jonathan Corbet, LWN
 'This contains the data for our story "Who Is Collecting Data from Your Car?".'
 
 ## DevOps'ish Post of the Week
-
-{{< tweet user="christianh814" id="1555641036713578498">}}
 
 [![Christian Hernandez on Twitter: "Okay, been working at this for a bit; but I'm excited to announce that I'll be #streaming about #GitOps again! Join @jjasghar and I on August 15th at 1pm Eastern as we kickoff the series: GitOps The Planet")](https://shortcdn.com/file/devopsish/279-devopsish-post-of-the-week.webp)](https://twitter.com/christianh814/status/1555641036713578498?utm_source=devopsish)
 
