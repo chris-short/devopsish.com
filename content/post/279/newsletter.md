@@ -5,7 +5,7 @@ date = 2022-08-07T07:00:00Z
 description = ["The little things, dafuq Apple, tech layoffs continue, MinIO and Nutanix, iRobot and Amazon, Kubernetes Removals and Major Changes In 1.25 and more"]
 draft = false
 slug = "279"
-tags = ["Kubernetes", "project", "key", "open source", "cosign", "kernel", "host", "time", "cloud native", "developer", "manager", "Amazon", "password", "AWS", "Linux", "container", "eBPF", "virtual", "security", "observability", "DevOps", "sigstore", ""]
+tags = ["Kubernetes", "project", "key", "open source", "cosign", "kernel", "host", "time", "cloud native", "developer", "manager", "Amazon", "password", "AWS", "Linux", "container", "eBPF", "virtual", "security", "observability", "DevOps", "sigstore"]
 title = "DevOps'ish 279: The little things, dafuq Apple, tech layoffs continue, MinIO and Nutanix, iRobot and Amazon, Kubernetes Removals and Major Changes In 1.25 and more"
 +++
 
