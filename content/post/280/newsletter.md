@@ -69,7 +69,7 @@ The [Cloud Native Computing Foundation](http://cncf.io/)'s flagship conference g
 
 [What ultra-successful people who practice DevRel know and do](https://www.youtube.com/watch?v=3O-hbh1FbpI)  
 Wesley Faulkner and Chris Short, AWS  
-Join Wesley Faulkner, Sr, Community Manager at AWS and Chris Short, Sr. Developer Advocate for a discussion about getting decision makers to buy-in in the #DevRel space. Watch live on ** 16 August at 11 AM ET / 15:00 UTC**. Also streaming to [Twitch](https://twitch.com/thechrisshort) and [LinkedIn](https://www.linkedin.com/video/event/urn:li:ugcPost:6963548758777200640/).
+Join Wesley Faulkner, Sr. Community Manager at AWS and Chris Short, Sr. Developer Advocate for a discussion about getting decision makers to buy-in in the #DevRel space. Watch live on ** 16 August at 11 AM ET / 15:00 UTC**. Also streaming to [Twitch](https://twitch.com/thechrisshort) and [LinkedIn](https://www.linkedin.com/video/event/urn:li:ugcPost:6963548758777200640/).
 
 [Nutanix to layoff 270 employees](https://blocksandfiles.com/2022/08/10/nutanix-layoffs/)  
 Chris Mellor, Blocks and Files  
