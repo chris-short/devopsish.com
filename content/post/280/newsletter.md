@@ -133,9 +133,7 @@ A Damn Vulnerable AWS Infrastructure
 
 ## DevOps'ish Post of the Week
 
-{{< tweet user="karleia" id="1557091779702190080" >}}
-
-[![Christian Hernandez on Twitter: "Okay, been working at this for a bit; but I'm excited to announce that I'll be #streaming about #GitOps again! Join @jjasghar and I on August 15th at 1pm Eastern as we kickoff the series: GitOps The Planet")](https://shortcdn.com/file/devopsish/280-devopsish-post-of-the-week.webp)](https://twitter.com/christianh814/status/1555641036713578498?utm_source=devopsish)
+[![Karli Drew on Twitter: "Please understand: advances towards "back to normal" largely involve the reversal of accessibility measures. Telehealth appointments? Accessibility. Remote work? Accessibility. Widespread delivery and curbside pickup options? Accessibility. "Normal" isn't good enough.")](https://shortcdn.com/file/devopsish/280-devopsish-post-of-the-week.webp)](https://twitter.com/christianh814/status/1555641036713578498?utm_source=devopsish)
 
 ### Got a newsletter worthy post?
 
