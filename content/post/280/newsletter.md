@@ -22,7 +22,7 @@ dependencies listed. *At a minimum, all top-level dependencies must be listed wi
 
 THAT is not in the spirit of the Executive Order.
 
-THAT is not going to help us find Log4j in our dependencies unless we put it there. GitBOM hopes to answer that without having to burn tens of thousands of dollars trying to find all the dependencies in your environment. This is important to me because I don't want anyone to have to get hacked because a random device had a transitive dependency their SBOM didn't tell them about due to lax standards. [As I said](https://twitter.com/aevavoom/status/1557173213490081792?utm_source=devopsish) at the table with Aeva, "If your supplier is meeting the NTIA's minimum standard for SBOMs, you need to be prepared for maximal effort."
+THAT is not in the spirit of the Executive Order. THAT will not help us find Log4j in our dependencies unless we put it there. GitBOM hopes to answer that without burning tens of thousands of dollars trying to find all the dependencies in your environment. This is important to me because I don't want anyone to get hacked because a random device had a transitive dependency their SBOM didn't tell them about due to lax regulatory standards. [Like I said](https://twitter.com/aevavoom/status/1557173213490081792?utm_source=devopsish) at the table with Aeva, "If your supplier is meeting the NTIA's minimum standard for SBOMs, you need to be prepared for maximal effort."
 
 ## O'Reilly Book on Observability Engineering—Get Yours Free from Honeycomb!
 
@@ -67,17 +67,73 @@ The [Cloud Native Computing Foundation](http://cncf.io/)'s flagship conference g
 
 ## People
 
-PEOPLE
+[Nutanix to layoff 270 employees](https://blocksandfiles.com/2022/08/10/nutanix-layoffs/)  
+Chris Mellor, Blocks and Files  
+"A Nutanix 8-K SEC filing reveals it's planning to chop 270 employees, 4 percent of its workforce."
+
+[Hackers Behind Twilio Breach Also Targeted Cloudflare Employees](https://thehackernews.com/2022/08/hackers-behind-twilio-breach-also_10.html)  
+Ravie Lakshmanan, The Hacker News  
+"The wave of over 100 smishing messages commenced less than 40 minutes after the rogue domain was registered via Porkbun, the company noted, adding the phishing page was designed to relay the credentials entered by unsuspecting users to the attacker via Telegram in real-time."
+
+[How to pick a starter project that'll make someone quit](https://amir.rachum.com/blog/2022/08/07/starter-project/)  
+Amir Rachum  
+Cheeky but a lot of stories I've heard before.
 
 ## Process
 
-PROCESS
+[Tech, Cyber Companies Launch Security Standard to Monitor Hacking Attempts](https://www.wsj.com/articles/tech-cyber-companies-launch-security-standard-to-monitor-hacking-attempts-11660123802)  
+Kim S. Nash, WSJ  
+"A group of 18 tech and cyber companies said Wednesday they are building a common data standard for sharing cybersecurity information. They aim to fix a problem for corporate security chiefs who say that cyber products often don't integrate, making it hard to fully assess hacking threats."
+
+[Over 100K Cars Cut From North American Production This Week Due to Chip Shortage](https://www.cnet.com/roadshow/news/north-american-production-chip-shortage/)  
+Steven Ewing, CNET  
+"Industry experts expect more than 3.8 million vehicles to be cut by the end of the year."
 
 ## Tools
 
-TOOLS
+[GitOps: A Simple Approach to using AWS Secrets Manager with Kubernetes](https://opssorry.substack.com/p/gitops-a-simple-approach-to-using)  
+Marco Lau, Ops Sorry  
+"AWS Secrets Manager and Config Provider for Secret Store CSI Driver" provides an effective secrets management solution.
+
+[Amazon EKS now supports Kubernetes 1.23](https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-kubernetes-1-23/)  
+Sai Vennam and Chris Short, AWS Containers  
+The last blog post I helped with on the EKS team. There are important changes for workloads with Amazon EBS volumes and the inevitable `dockershim` removal is in the 1.24 release so make sure you're ready for that. As well as many new features.
+
+[Winter Soldier: Scale down your Infrastructure in the easiest possible way](https://devtron.ai/blog/winter-soldier-scale-down-your-infrastructure-in-the-easiest-possible-way/)  
+Anugrah Chaturvedi, devtron  
+"In this post, we'll focus on how to remove or scale down the orphaned (unused resources)" by making use of a tool called, "[Winter Soldier](https://github.com/devtron-labs/winter-soldier)"
+
+[Cloud Platform Teams Are Everywhere — Here's Why](https://www.hashicorp.com/blog/cloud-platform-teams-are-everywhere-heres-why)  
+Jared Ruckle, Hashicorp  
+"In HashiCorp's new State of Cloud Strategy survey, 86% of respondents said they rely on cloud platform teams — for a wide variety of very good reasons."
+
+[Manage Secrets on Kubernetes with ArgoCD and Vault](https://piotrminkowski.com/2022/08/08/manage-secrets-on-kubernetes-with-argocd-and-vault/)  
+Piotr Minkowski  
+"In this article, you will learn how to integrate ArgoCD with HashiCorp Vault to manage secrets on Kubernetes."
+
+[Why we have containers](https://jessitron.com/2022/08/07/why-we-have-containers/)  
+Jessitron  
+"or, How a young program grew a little bit closer to software."
+
+[All the Ways to Check If a Port is Open in Linux](https://adamtheautomator.com/check-if-a-port-is-open-in-linux/)  
+Nicholas Xuan Nguyen, ATA Learning  
+"In this article, you will learn several ways to check if a port is open in Linux so you may choose which ones work best for you. Ready? Read on!"
+
+[Scaling Kubernetes to Thousands of CRDs](https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/)  
+Nic Cope, Upbound  
+"Over the past few months Crossplane has pushed the boundaries of Kubernetes with the number of Custom Resources it supports. In this post we'll explore the limitations Upbound engineers have discovered and how we've helped to overcome them."
+
+[aws-samples/eks-multi-cluster-gitops](https://github.com/aws-samples/eks-multi-cluster-gitops)  
+⭐️ 56  
+This is the multi-cluster EKS GitOps code I showed off at Open Source Summit.
+
+[ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat)  
+⭐️ 342  
+A Damn Vulnerable AWS Infrastructure
 
 ## DevOps'ish Post of the Week
+
+{{< tweet user="karleia" id="1557091779702190080" >}}
 
 [![Christian Hernandez on Twitter: "Okay, been working at this for a bit; but I'm excited to announce that I'll be #streaming about #GitOps again! Join @jjasghar and I on August 15th at 1pm Eastern as we kickoff the series: GitOps The Planet")](https://shortcdn.com/file/devopsish/280-devopsish-post-of-the-week.webp)](https://twitter.com/christianh814/status/1555641036713578498?utm_source=devopsish)
 
