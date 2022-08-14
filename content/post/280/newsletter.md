@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-08-14T07:00:00Z
-description = ["GitBOM, Nutanix layoffs, Winter Soldier, cloud platform teams, EKS Multi-cluster GitOps, and more"]
+description = ["SBOMs aren't enough, Nutanix layoffs, Winter Soldier, cloud platform teams, EKS Multi-cluster GitOps, and more"]
 draft = false
 slug = "280"
 tags = ["dependencies", "SBOM", "cloud", "Kubernetes", "software", "cloud native", "GitBOM", "developer", "open source", "secrets", "minimum standard", "AWS", "security", "accessibility", "Detroit", "DevOps", "code", "platform", "Nutanix", "GitOps", "Amazon", "EKS"]
-title = "DevOps'ish 280: GitBOM, Nutanix layoffs, Winter Soldier, cloud platform teams, EKS Multi-cluster GitOps, and more"
+title = "DevOps'ish 280: SBOMs aren't enough, Nutanix layoffs, Winter Soldier, cloud platform teams, EKS Multi-cluster GitOps, and more"
 +++
 
 I spent the week in Seattle. I'm writing this in SeaTac waiting for my flight back to Detroit because we're going to a friend's birthday party tomorrow night. Work is good, but I had a meeting this week to start working on a blog post for a new project I'm contributing to; [GitBOM](https://gitbom.dev/?utm_source=devopsish).
