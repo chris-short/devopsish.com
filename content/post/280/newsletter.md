@@ -137,7 +137,7 @@ A Damn Vulnerable AWS Infrastructure
 
 ## DevOps'ish Post of the Week
 
-[![Karli Drew on Twitter: "Please understand: advances towards "back to normal" largely involve the reversal of accessibility measures. Telehealth appointments? Accessibility. Remote work? Accessibility. Widespread delivery and curbside pickup options? Accessibility. "Normal" isn't good enough.")](https://shortcdn.com/file/devopsish/280-devopsish-post-of-the-week.webp)](https://twitter.com/christianh814/status/1555641036713578498?utm_source=devopsish)
+[![Karli Drew on Twitter: "Please understand: advances towards "back to normal" largely involve the reversal of accessibility measures. Telehealth appointments? Accessibility. Remote work? Accessibility. Widespread delivery and curbside pickup options? Accessibility. "Normal" isn't good enough.")](https://shortcdn.com/file/devopsish/280-devopsish-post-of-the-week.webp)](https://twitter.com/karleia/status/1557091779702190080?utm_source=devopsish)
 
 ### Got a newsletter worthy post?
 
