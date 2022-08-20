@@ -40,7 +40,7 @@ ignoreFiles = ['notes.md']
   ShowShareButtons = "true"
 
   [params.stats]
-    subscribers = "6,200+"
+    subscribers = "6,300+"
 #    avg_open_rate = "48%"
 #    avg_click_rate = "21%"
 
