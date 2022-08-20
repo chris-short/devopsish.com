@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --minify --enableGitInfo"
+command = "hugo --minify --verbose --enableGitInfo"
 
 [context.production.environment]
 HUGO_VERSION = "0.101.0"
@@ -8,14 +8,14 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "git submodule update --rebase --remote && hugo --minify"
+command = "git submodule update --rebase --remote && hugo --verbose --minify --enableGitInfo"
 
 [context.split1.environment]
 HUGO_VERSION = "0.101.0"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "git submodule update --rebase --remote && hugo -DF --verbose"
+command = "git submodule update --rebase --remote && hugo -DF --verbose --enableGitInfo"
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.101.0"
 # Skip all post processing in deploy previews,
@@ -24,7 +24,7 @@ HUGO_VERSION = "0.101.0"
   skip_processing = true
 
 [context.branch-deploy]
-command = "git submodule update --rebase --remote && hugo -DF --verbose"
+command = "git submodule update --rebase --remote && hugo -DF --verbose --enableGitInfo"
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.101.0"
 
