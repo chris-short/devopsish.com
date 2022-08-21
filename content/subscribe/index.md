@@ -23,7 +23,7 @@ DevOps'ish is one of the most popular newsletters in tech. [Some of the brightes
 
 It's a weekly newsletter assembled by open source contributor, DevOps leader, and Kubernetes Contributor [Chris Short](https://chrisshort.me/). DevOps'ish is grateful to have readers from across the globe and several Fortune 100 organizations.
 
-Every week DevOps'ish is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, and technologists across the globe.
+Every week DevOps'ish is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, and technologists across the globe. [Learn more about DevOps'ish](/about/).
 
 Subscribe today!
 

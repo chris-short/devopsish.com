@@ -18,4 +18,15 @@ I strive, every week, to put together the best newsletter covering DevOps, Cloud
 
 Don't take my word for it. See what [people way smarter than me are saying about DevOps'ish](/praise/).
 
+## Social Media
+
+Feel free to connect or subscribe to any of these social media sites for more DevOps'ish and other conversations:
+
+* GitHub: <https://github.com/chris-short/devopsish.com>
+* LinkedIn: <https://linkedin.com//in/thechrisshort/>
+* Reddit: <https://reddit.com//r/devopsish/>
+* Twitch: <https://twitch.com/thechrisshort>
+* Twitter: <https://twitter.com/ChrisShort>
+* YouTube: <https://youtube.com/c/ChrisShort>
+
 {{< what-is-devops >}}
