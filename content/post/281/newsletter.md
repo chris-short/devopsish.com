@@ -76,15 +76,101 @@ The [Cloud Native Computing Foundation](http://cncf.io/)'s flagship conference g
 
 ## People
 
-PEOPLE
+[What ultra-successful people who practice DevRel know and do (YouTube)](https://www.youtube.com/watch?v=3O-hbh1FbpI&t=54s)  
+Wesley Faulkner and Chris Short, AWS  
+I know there are DevRel'iens, as I call them, that read this newsletter. Here Wesley and I sit down and talk about how we connect with people like ourselves in previous positions.
+
+[A New Jailbreak for John Deere Tractors Rides the Right-to-Repair Wave](https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/)  
+Lily Hay Newman, WIRED  
+"A hacker has formulated an exploit that provides root access to two popular models of the company’s farm equipment."
+
+[She Had an AirTag in Her Lost Luggage. It Led Police to a Baggage Handler’s Home.](https://www.nytimes.com/2022/08/19/us/airtags-luggage-theft.html)  
+Daniel Victor, The New York Times  
+"An airport worker in Florida was charged with two counts of grand theft after a tracking device aided a sheriff’s investigation." I will forever AirTag my luggage. I used to use Tile but, switched to AirTags when they came out.
+
+[Apple to workers: It’s back to the office 3 days a week starting in September](https://wraltechwire.com/2022/08/16/apple-to-workers-its-back-to-the-office-3-days-a-week-starting-in-september/)  
+Juli Clover, WRAL TechWire  
+"Apple on Monday informed corporate employees that they must return to the office for three days starting the week of Monday, September 5"
+
+[Caste in California: Tech giants confront ancient Indian hierarchy](https://www.reuters.com/business/sustainable-business/caste-california-tech-giants-confront-ancient-indian-hierarchy-2022-08-15/)  
+Paresh Dave, Reuters  
+"The update came after the tech sector - which counts India as its top source of skilled foreign workers - received a wake-up call in June 2020 when California's employment regulator sued Cisco Systems on behalf of a low-caste engineer who accused two higher-caste bosses of blocking his career."
 
 ## Process
 
-PROCESS
+[Defensive Computing Checklist](https://defensivecomputingchecklist.com/)  
+Michael Horowitz  
+"People need a new perspective on computing. Much of the advice offered to the public is flatly wrong. Even when people mean well, they are often mis-informed or merely parroting back an accepted principal. Perhaps the most famous advice that turned out to be wrong, was the suggestion to periodically change your passwords. Ugh. Then too, advice from techies is often right for other techies, but wrong for the general public."
+
+[The Hacking of Starlink Terminals Has Begun](https://www.wired.com/story/starlink-internet-dish-hack/)  
+Matt Burgess, WIRED  
+"It cost a researcher only $25 worth of parts to create a tool that allows custom code to run on the satellite dishes." Surprising no one who regularly reads this newsletter.
+
+[Creating an SBOM Attestation with Trivy and Cosign from Sigstore (YouTube)](https://www.youtube.com/watch?v=nF15vzo5Gts)  
+Aqua Security Open Source  
+"In this video, we are going to showcase:
+
+1. What are attestations, and why do we need them?
+2. How to generate an SBOM with Trivy (either in SPDX or CycloneDX)
+3. Using Cosign to generate a key pair, create and then verify an attestation"
+
+[The entanglement of two quantum memory systems 12.5 km apart from each other](https://phys.org/news/2022-08-entanglement-quantum-memory-km.html)  
+Ingrid Fadelli, Phys.org  
+"Researchers at the University of Science and Technology of China and Jinan Institute of Quantum Technology have recently demonstrated quantum entanglement between two memory devices located at 12.5 km apart from each other within an urban environment." Come on quantum internet!
 
 ## Tools
 
-TOOLS
+[The Ultimate Guide to a Kubernetes Service vs. LoadBalancer vs. Ingress](https://home.robusta.dev/blog/kubernetes-service-vs-loadbalancer-vs-ingress/)  
+Robusta  
+"In this article, we will show how to expose the applications running in Kubernetes Pods to other applications inside the cluster and in the external world. We will discuss the three most common ways of doing so which are Kubernetes Services, LoadBalancers, and Ingress. We will show how they differ from one another and which one to choose according to  your application’s requirements."
+
+[Stargazing, solutions and staycations: the Kubernetes 1.24 release interview](https://kubernetes.io/blog/2022/08/18/stargazing-solutions-and-staycations-the-kubernetes-1.24-release-interview/)  
+Craig Box, Google  
+"With every new Kubernetes release comes an interview with the release team lead, telling the story of that release, but also their own personal story."
+
+[Slowing Down to Speed Up - Circuit Breakers for Slack's CI/CD](https://slack.engineering/circuit-breakers/)  
+Frank Chen, Slack  
+"What happens when your distributed service has challenges with stampeding herds of internal requests? How do you prevent cascading failures between internal services? How might you re-architect your workflows when naive horizontal or vertical scaling reaches their respective limits? These were the challenges facing Slack engineers during their day-to-day development workflows in 2020."
+
+[New macOS 12.5.1 and iOS 15.6.1 updates patch “actively exploited” vulnerabilities [Updated]](https://arstechnica.com/gadgets/2022/08/apple-releases-macos-12-5-1-and-ios-15-6-1-for-actively-exploited-vulnerabilities/)  
+Andrew Cunningham, Ars Technica  
+"Kernel and WebKit bugs can allow arbitrary code execution on Apple's devices."
+
+[Scanning for AWS Security Issues With Trivy](https://lia.mg/posts/trivy-aws/)  
+Liam Galvin  
+"In short, Trivy can find a bunch of different types of security issue in pretty much anything you point it at, for free."
+
+[Google blocks third record-breaking HTTPS DDoS attack](https://www.theregister.com/2022/08/18/google_record_ddos/)  
+Jessica Lyons Hardcastle, The Register  
+"46 million requests per second network flood comes as attacks increase by more than 200% compared to last year"
+
+[How Discord Supercharges Network Disks for Extreme Low Latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)  
+Glen Oakley, Discord  
+"To provide this enormous amount of data, we run a set of NoSQL database clusters (powered by ScyllaDB), each one the source of truth for their respective data set. As a real-time chat platform, we want our databases to respond to the high frequency of queries as fast as possible."
+
+[How to Handle Kubernetes Health Checks](https://doordash.engineering/2022/08/09/how-to-handle-kubernetes-health-checks/)  
+Andres Ivanov, DoorDash  
+"What we found was that health check endpoints were excluded from the reporting tracing data. This meant that the tracing data was not going to help us find what caused the health check to fail and we would need to check the logs as the next logical step."
+
+[Windows 11: How to Install WSL2 and Linux Distros](https://chrisshort.net/windows-11-how-to-install-wsl2-and-linux-distros/)  
+Chris Short  
+"Installing WSL2 on Windows 11 is a real pain in the ass. It's not as simple as going to the Microsoft Store and installing a Linux distro."
+
+[owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy)  
+⭐️ 57  
+Secure images, for lazy people
+
+[scribe-public/gitgat](https://github.com/scribe-public/gitgat)  
+⭐️ 148  
+Evaluate source control (GitHub) security posture
+
+[kubeshop/tracetest](https://github.com/kubeshop/tracetest)  
+⭐️ 183  
+Tracetest - Trace-based testing. End-to-end tests powered by your OpenTelemetry Traces.
+
+[Granulate/gprofiler](https://github.com/Granulate/gprofiler)  
+⭐️ 514  
+gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
 
 ## DevOps'ish Post of the Week
 
