@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-08-21T07:00:00Z
-description = [""]
+description = ["AirTags lead to bag handler's home, Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more"]
 draft = false
 slug = "281"
-tags = []
-title = "DevOps'ish 281: "
+tags = ["home", "work", "Kubernetes", "cloud", "cloud native", "security", "open source", "systems", "developer", "manager", "wage", "Trivy", "Quantum", "AWS", "software", "DevOps", "ingress", "code", "caste", "Michigan", ""]
+title = "DevOps'ish 281: AirTags lead to bag handler's home, Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more"
 +++
 
 *Dear reader, please share this newsletter with a friend. Continued growth is a neccessary thing in the newsletter writing business. I am looking for ways to incentivize this without costing and arm and a leg.*
@@ -82,13 +82,13 @@ I know there are DevRel'iens, as I call them, that read this newsletter. Here We
 
 [A New Jailbreak for John Deere Tractors Rides the Right-to-Repair Wave](https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/)  
 Lily Hay Newman, WIRED  
-"A hacker has formulated an exploit that provides root access to two popular models of the company’s farm equipment."
+"A hacker has formulated an exploit that provides root access to two popular models of the company's farm equipment."
 
-[She Had an AirTag in Her Lost Luggage. It Led Police to a Baggage Handler’s Home.](https://www.nytimes.com/2022/08/19/us/airtags-luggage-theft.html)  
+[She Had an AirTag in Her Lost Luggage. It Led Police to a Baggage Handler's Home.](https://www.nytimes.com/2022/08/19/us/airtags-luggage-theft.html)  
 Daniel Victor, The New York Times  
-"An airport worker in Florida was charged with two counts of grand theft after a tracking device aided a sheriff’s investigation." I will forever AirTag my luggage. I used to use Tile but, switched to AirTags when they came out.
+"An airport worker in Florida was charged with two counts of grand theft after a tracking device aided a sheriff's investigation." I will forever AirTag my luggage. I used to use Tile but, switched to AirTags when they came out.
 
-[Apple to workers: It’s back to the office 3 days a week starting in September](https://wraltechwire.com/2022/08/16/apple-to-workers-its-back-to-the-office-3-days-a-week-starting-in-september/)  
+[Apple to workers: It's back to the office 3 days a week starting in September](https://wraltechwire.com/2022/08/16/apple-to-workers-its-back-to-the-office-3-days-a-week-starting-in-september/)  
 Juli Clover, WRAL TechWire  
 "Apple on Monday informed corporate employees that they must return to the office for three days starting the week of Monday, September 5"
 
@@ -122,7 +122,7 @@ Ingrid Fadelli, Phys.org
 
 [The Ultimate Guide to a Kubernetes Service vs. LoadBalancer vs. Ingress](https://home.robusta.dev/blog/kubernetes-service-vs-loadbalancer-vs-ingress/)  
 Robusta  
-"In this article, we will show how to expose the applications running in Kubernetes Pods to other applications inside the cluster and in the external world. We will discuss the three most common ways of doing so which are Kubernetes Services, LoadBalancers, and Ingress. We will show how they differ from one another and which one to choose according to  your application’s requirements."
+"In this article, we will show how to expose the applications running in Kubernetes Pods to other applications inside the cluster and in the external world. We will discuss the three most common ways of doing so which are Kubernetes Services, LoadBalancers, and Ingress. We will show how they differ from one another and which one to choose according to  your application's requirements."
 
 [Stargazing, solutions and staycations: the Kubernetes 1.24 release interview](https://kubernetes.io/blog/2022/08/18/stargazing-solutions-and-staycations-the-kubernetes-1.24-release-interview/)  
 Craig Box, Google  
