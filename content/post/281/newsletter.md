@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-08-21T07:00:00Z
-description = ["AirTags lead to bag handler's home, Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more"]
+description = ["Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more"]
 draft = false
 slug = "281"
 tags = ["home", "work", "Kubernetes", "cloud", "cloud native", "security", "open source", "systems", "developer", "manager", "wage", "Trivy", "Quantum", "AWS", "software", "DevOps", "ingress", "code", "caste", "Michigan", ""]
-title = "DevOps'ish 281: AirTags lead to bag handler's home, Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more"
+title = "DevOps'ish 281: Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more"
 +++
 
 *Dear reader, please share this newsletter with a friend. Continued growth is a neccessary thing in the newsletter writing business. I am looking for ways to incentivize this without costing and arm and a leg.*
