@@ -31,7 +31,7 @@ Also available on [Apple Books](https://books.apple.com/us/book/what-is-devops/i
 ### Where To Learn More About DevOps
 
 * [DevOps'ish](/subscribe/): DevOps, Cloud Native, Hybrid Cloud, Open Source, industry news, culture, and the ‘ish between.
-* [DevOps README](https://devopsreadme.xyz/)
+* [DevOps README](https://devopsreadme.com/)
 * [*DevOps For Dummies*](https://amzn.to/2TFOQFe)
 * [*The Phoenix Project*](https://amzn.to/2WxnsdZ): A Novel about IT, DevOps, and Helping Your Business Win
 * [*Accelerate: The Science of Lean Software and DevOps*](https://amzn.to/2Xnc5S2): Building and Scaling High Performing Technology Organizations

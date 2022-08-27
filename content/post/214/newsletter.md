@@ -15,7 +15,7 @@ We've had [another rough week](https://twitter.com/ChrisShort/status/13813655084
 
 I always try to provide some value in the intro but, I have to say, I almost skipped this week due to everything. Some valuable nuggets live on a few other sites I run. New and old subscribers alike can get some benefit from these:
 
-* [DevOps README.md](https://devopsreadme.xyz/): What books 📚 to read to learn more about DevOps.
+* [DevOps README.md](https://devopsreadme.com/): What books 📚 to read to learn more about DevOps.
 * [DevOps Newsletters](https://devopsnewsletters.com/) intends to be a one stop shop for the best DevOps content from around the world.
 * [Kubernetes README](https://kubernetesreadme.com/): What books 📚 to read to learn more about Kubernetes.
 * [Kubernetes News](https://kubenews.net/) intends to be a resource to help keep up with the wide ranging and rapidly evolving world of Kubernetes.

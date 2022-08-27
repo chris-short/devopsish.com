@@ -20,4 +20,4 @@
 
 [We've reached the endgame: Bezos 'in talks' to turn shuttered department stores into Amazon warehouses • The Register](https://www.theregister.com/2020/08/10/amazon_retail_the_endgame/)
 
-[DevOps README](https://devopsreadme.xyz/)
+[DevOps README](https://devopsreadme.com/)

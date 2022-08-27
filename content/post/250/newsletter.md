@@ -21,7 +21,7 @@ As it is a new year and there are likely many new subscribers unaware, I maintai
 
 * [DevOps Newsletters](https://devopsnewsletters.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish&utm_id=250)
 * [Kubernetes News](https://kubenews.net/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish&utm_id=250)
-* [DevOps README.md](https://devopsreadme.xyz/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish&utm_id=250)
+* [DevOps README.md](https://devopsreadme.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish&utm_id=250)
 * [Kubernetes README](https://kubereadme.com/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish&utm_id=250)
 * [What is DevOps](https://devopsish.com/what-is-devops/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish&utm_id=250) (free ebook)
 
