@@ -54,19 +54,92 @@ The [Cloud Native Computing Foundation](http://cncf.io/)'s flagship conference g
 
 ## People
 
-PEOPLE
+[Erik Prince wants to sell you a "secure" smartphone that's too good to be true](https://www.technologyreview.com/2022/08/19/1058243/erik-prince-wants-to-sell-you-a-secure-smartphone-thats-too-good-to-be-true/)  
+Patrick Howell O'Neill, MIT Technology Review  
+"MIT Technology Review obtained Prince's investor presentation for the 'RedPill Phone,' which promises more than it could possibly deliver."
+
+[What if I vanished?](https://daniel.haxx.se/blog/2022/08/24/what-if-i-vanished/)  
+Daniel Stenberg, curl  
+The creator of curl talks succession plans. The best time to make and test one of these plans is while you're still alive.
+
+[Sleepless nights make people more selfish and asocial](https://www.theguardian.com/lifeandstyle/2022/aug/23/sleepless-nights-make-people-more-selfish-and-asocial-study)  
+Sascha Pare, The Guardian  
+"Losing even one hour of rest reduces ‘innate desire of humans to help one another', US research finds"
+
+[People with disagreeable personalities (selfish, combative, and manipulative) do not have an advantage in pursuing power at work](https://pubmed.ncbi.nlm.nih.gov/32868412/)  
+Cameron Anderson, Daron L Sharps, Christopher J Soto, Oliver P John, PubMed  
+"A close examination of behavior patterns in the workplace found that disagreeable individuals engaged in two distinct patterns of behavior that offset each other's effects on power attainment: They engaged in more dominant-aggressive behavior, which positively predicted attaining higher power, but also engaged in less communal and generous behavior, which predicted attaining less power. These two effects, when combined, appeared to cancel each other out and led to a null correlation between disagreeableness and power."
+
+[Wanted: 7,000 construction workers for Intel chip plants](https://apnews.com/article/intel-ohio-construction-workers-f5b7b4a083eb3142870a9654f43b438b)  
+Andrew Welsh-Huggins, AP News  
+"Ohio's largest-ever economic development project comes with a big employment challenge: how to find 7,000 construction workers in an already booming building environment when there's also a national shortage of people working in the trades."
 
 ## Process
 
-PROCESS
+[Kubernetes v1.25: Pod Security Admission Controller in Stable](https://kubernetes.io/blog/2022/08/25/pod-security-admission-stable/)  
+Tim Allclair (Google), Sam Stoelinga (Google), Kubernetes  
+Kubernetes 1.25 came out this week and along with it the replacement for PSPs; Pod Security Admission Controllers. Here's the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.25.md#v1250).
+
+[Why the Twilio Breach Cuts So Deep](https://www.wired.com/story/twilio-breach-phishing-supply-chain-attacks/)  
+Lily Hay Newman, WIRED  
+"The phishing attack on the SMS giant exposes the dangers of B2B companies to the entire tech ecosystem."
+
+[Update now! GitLab issues critical security release for RCE vulnerability](https://www.malwarebytes.com/blog/news/2022/08/update-now-gitlab-issues-critical-security-release-for-rce-vulnerability)  
+Pieter Arntz, Malwarebytes Labs  
+"GitLab has released versions 15.3.1, 15.2.3, 15.1.5 for GitLab Community Edition (CE) and Enterprise Edition (EE). These versions contain important security fixes, and it's recommended that all GitLab installations be upgraded to one of these versions immediately."
+
+[SolarWinds Hackers Using New Post-Exploitation Backdoor 'MagicWeb'](https://www.hackread.com/solarwinds-hackers-exploit-backdoor-magicweb/)  
+Deeba Ahmed, HackRead  
+"Microsoft has warned that the new post-compromise backdoor MagicWeb lets hackers 'authenticate as anyone.'"
+
+[Vulnerability in Linux containers – investigation and mitigation](https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/)  
+Steven J. Murdoch  
+"The good news is that the vulnerability affects a feature of Linux access control permissions that is not widely used – negative group permissions."
+
+["As Nasty as Dirty Pipe" — 8 Year Old Linux Kernel Vulnerability Uncovered](https://thehackernews.com/2022/08/as-nasty-as-dirty-pipe-8-year-old-linux.html)  
+Ravie Lakshmanan, The Hacker News  
+"'DirtyCred is a kernel exploitation concept that swaps unprivileged kernel credentials with privileged ones to escalate privilege," researchers Zhenpeng Lin, Yuhang Wu, and Xinyu Xing noted. 'Instead of overwriting any critical data fields on kernel heap, DirtyCred abuses the heap memory reuse mechanism to get privileged.'"
 
 ## Tools
 
-TOOLS
+[Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)  
+Nathaniel  
+TCP's slow start creates this weird phenomenom, "What is surprising is that a 14kB page can load much faster than a 15kB page — maybe 612ms faster — while the difference between a 15kB and a 16kB page is trivial."
 
-## DevOps'ish Post of the Week
+[AWS and Kubecost collaborate to deliver cost monitoring for EKS customers](https://aws.amazon.com/blogs/containers/aws-and-kubecost-collaborate-to-deliver-cost-monitoring-for-eks-customers/)  
+Mike Stefaniak and Vipin Mohan, AWS  
+"Amazon EKS customers can deploy an EKS optimized bundle of Kubecost for cluster cost visibility. This is available free of charge, and customers can get Kubecost support from AWS as part of their existing AWS support agreements. Kubecost enables users to view costs broken down by Kubernetes resources including pods, nodes, namespaces, labels, and more."
 
-[![den on Twitter: "Kubernetes. (and a GIF)"](https://shortcdn.com/file/devopsish/282-devopsish-post-of-the-week.webp)](https://twitter.com/DennisCode/status/1560079800252764163?utm_source=devopsish)
+[AdGuard DNS v2.0 goes open source](https://adguard.com/en/blog/adguard-dns-2-0-goes-open-source.html)  
+Andrey Meshkov, AdGuard DNS  
+Released under an AGPL license, AdGuard DNS is going open source, again.
+
+[Is it time to migrate from Lens to OpenLens to manage your Kubernetes clusters?](https://blog.devgenius.io/is-it-time-to-migrate-from-lens-to-openlens-75496e5758d8)  
+Armin Nikdel, Dev Genius  
+"tl;dr; OpenLens is same as Lens IDE without proprietary components and its free of charge based on MIT license. However currently there is no signed binary available for OpenLens. This article discusses crowdfunding regarding code signature for the community, and it shows how to compile OpenLens ourselves for macOS, Linux, and Windows."
+
+[Heroku announces plans to eliminate free plans, blaming 'fraud and abuse'](https://techcrunch.com/2022/08/25/heroku-announces-plans-to-eliminate-free-plans-blaming-fraud-and-abuse/)  
+Kyle Wiggers, TechCrunch  
+I'm super curious if anyone reading this is still using Heroku. "Starting November 28, the Salesforce-owned cloud platform as a service will stop providing free product plans and shut down free data services and soon (on October 26) will begin deleting inactive accounts and associated storage for accounts that have been inactive for over a year."
+
+[The Surprisingly High Table Stakes of Modern Blogs](https://www.swyx.io/the-surprisingly-high-table-stakes-of-modern-blogs/)  
+Modern day blogs are hard work. Really hard work.
+
+[Turning SQLite into a distributed database](https://univalence.me/posts/mvsqlite)  
+Heyang Zhou  
+"mvSQLite is the open-source, SQLite-compatible distributed database. We decoupled SQLite's storage layer onto FoundationDB to offer massive yet 'bottomless' scalability, point-in-time reads, and the strictest level of consistency."
+
+[zinclabs/zinc: ZincSearch](https://github.com/zinclabs/zinc)  
+⭐️ 11.4K
+A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+
+[runsidekick/sidekick](https://github.com/runsidekick/sidekick)  
+⭐️ 692  
+Free and open-source live application debugger. Like chrome dev tools but for your backend
+
+[k8spacket/k8spacket](https://github.com/k8spacket/k8spacket)  
+⭐️ 173  
+Packets traffic visualization for kubernetes
 
 ### Notes
 
