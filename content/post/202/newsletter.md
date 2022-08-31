@@ -108,6 +108,6 @@ The dumb alternative to markdown. The keyword for title is title.
 
 ## DevOps'ish Tweet of the Week
 
-[![Just remember, at heart: this is two giant companies fighting to put their hand in your pocket. That one of them (AWS) is *also* fighting for open source is a side effect. I'm glad they're doing it. But their motivations aren't exactly pure either. Nobody's a hero here.](https://shortcdn.com/file/devopsish/202-devopsish-tweet-of-the-week.png)](https://twitter.com/adamhjk/status/1352394137018847233)
+[![Just remember, at heart: this is two giant companies fighting to put their hand in your pocket. That one of them (AWS) is *also* fighting for open source is a side effect. I'm glad they're doing it. But their motivations aren't exactly pure either. Nobody's a hero here.](https://shortcdn.com/devopsish/202-devopsish-tweet-of-the-week.png)](https://twitter.com/adamhjk/status/1352394137018847233)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/202/notes/) to see what didn't make it to the newsletter.

@@ -8,7 +8,7 @@ draft = false
 slug = "131"
 tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "IBM layoffs", "licenses", "Linus Torvalds"]
 title = "131: DevOps tools, Kubernetes ≠ rocket science, IBM layoffs, Open Source licenses aren't broken, small Kubernetes clusters, and more"
-image = "https://shortcdn.com/file/devopsish/kubernetes-what-if-i-told-you.jpg"
+image = "https://shortcdn.com/devopsish/kubernetes-what-if-i-told-you.jpg"
 imagealt = "What if I told you... You don't have to be a Kubernetes expert to use it."
 
 +++

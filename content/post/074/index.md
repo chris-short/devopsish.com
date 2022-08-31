@@ -8,7 +8,7 @@ draft = false
 slug = "074"
 tags = ["devops", "cloud native", "open source", "kubernetes", "kubecon", "docker", "aws", "cloud", "lambda", "containers", "Site Reliability Engineering", "SRE"]
 title = "074: Kubernetes' Big Week in Europe, Three-day no meetings, High-speed networking, and More"
-image ="https://shortcdn.com/file/devopsish/air-show.jpg"
+image ="https://shortcdn.com/devopsish/air-show.jpg"
 imagealt = "Air show"
 
 +++
@@ -106,7 +106,7 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest): Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 
-[![XKCD: Containers](https://shortcdn.com/file/devopsish/containers.png)](https://xkcd.com/1988/)
+[![XKCD: Containers](https://shortcdn.com/devopsish/containers.png)](https://xkcd.com/1988/)
 
 ## Jobs
 

@@ -8,7 +8,7 @@ draft = false
 slug = "041"
 tags = ["devops", "cloud native", "open source", "kubernetes", "infrastructure", "linux", "nodejs", "Docker"]
 title = "041: Book Suggestions, Serverless, Value Stream Mapping, and More"
-image ="https://shortcdn.com/file/devopsish/the-forest-through-the-trees.jpg"
+image ="https://shortcdn.com/devopsish/the-forest-through-the-trees.jpg"
 imagealt = "Lost in the Woods"
 aliases = [
     "devopsish-041-book-suggestions-serverless-value-stream-mapping-and-more-cb691887dde2"

@@ -160,7 +160,7 @@ I was confused based off pricing from different sites which Samsung drive had th
 
 ## DevOps'ish Post of the Week
 
-[![Lily Ray 😏 on Twitter: "My jaw actually dropped. @wilreynolds showed 3 examples of black doctors/nurses where Google's Vision AI rated the image as 70%+ "Street Fashion" despite them literally wearing scrubs When he painted the nurses white, it switched to "Formal wear" Truly unbelievable #mozcon https://t.co/hgM3gA9uvO" / Twitter)](https://shortcdn.com/file/devopsish/275-devopsish-post-of-the-week.webp)](https://twitter.com/lilyraynyc/status/1547361484144984065?s=12&t=Uxd6qd18SoDoQq1c473hkA)
+[![Lily Ray 😏 on Twitter: "My jaw actually dropped. @wilreynolds showed 3 examples of black doctors/nurses where Google's Vision AI rated the image as 70%+ "Street Fashion" despite them literally wearing scrubs When he painted the nurses white, it switched to "Formal wear" Truly unbelievable #mozcon https://t.co/hgM3gA9uvO" / Twitter)](https://shortcdn.com/devopsish/275-devopsish-post-of-the-week.webp)](https://twitter.com/lilyraynyc/status/1547361484144984065?s=12&t=Uxd6qd18SoDoQq1c473hkA)
 
 ### Got a newsletter worthy post?
 

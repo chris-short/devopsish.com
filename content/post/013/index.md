@@ -8,7 +8,7 @@ draft = false
 slug = "013"
 tags = ["devops", "cloud native", "open source", "kubernetes", "Site Reliability Engineering", "SRE"]
 title = "013: Week of 1488690000"
-image ="https://shortcdn.com/file/devopsish/macbook-code-editor.jpg"
+image ="https://shortcdn.com/devopsish/macbook-code-editor.jpg"
 imagealt = "MacBook Running an IDE"
 
 +++

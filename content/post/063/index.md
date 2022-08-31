@@ -8,7 +8,7 @@ draft = false
 slug = "063"
 tags = ["devops", "cloud native", "open source", "continuous improvement", "change", "Kubernetes", "serverless", "leadership", "culture", "go", "golang", "linux", "google", "containers", "Kubernetes Operators", "Docker"]
 title = "063: Kubernetes Tips & Tricks, Leadership, Serverless, dtrace for Linux, Azure for Go, and More!"
-image ="https://shortcdn.com/file/devopsish/seeing-the-light.jpg"
+image ="https://shortcdn.com/devopsish/seeing-the-light.jpg"
 imagealt = "Seeing the light"
 
 +++

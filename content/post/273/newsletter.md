@@ -95,7 +95,7 @@ Brad Fitzpatrick, Maisem Ali, Maya Kaczorowski and Ross Zurowski, Tailscale
 Thomas Stringer  
 I thought this was a pretty nifty vim use case.
 
-[![If your GitHub workflows use the Ubuntu image, interact with AWS, and started breaking today, it is likely due to the fact that the AWS CLI has been updated to v2.7.9, which includes breaking changes. @hasheddan on Twitter)](https://shortcdn.com/file/devopsish/hasheddan-github-actions.webp)](https://twitter.com/hasheddan/status/1540016556184305672)
+[![If your GitHub workflows use the Ubuntu image, interact with AWS, and started breaking today, it is likely due to the fact that the AWS CLI has been updated to v2.7.9, which includes breaking changes. @hasheddan on Twitter)](https://shortcdn.com/devopsish/hasheddan-github-actions.webp)](https://twitter.com/hasheddan/status/1540016556184305672)
 
 [GitBOM](https://gitbom.dev/)  
 "GitBOM is a minimalistic scheme for build tools to:
@@ -116,7 +116,7 @@ I thought this was a pretty nifty vim use case.
 
 Friday was a "where were you when" kind of day.
 
-[![@YourAnonNews on Twitter)](https://shortcdn.com/file/devopsish/273-devopsish-post-of-the-week.webp)](https://twitter.com/YourAnonNews/status/1540526828603015169)
+[![@YourAnonNews on Twitter)](https://shortcdn.com/devopsish/273-devopsish-post-of-the-week.webp)](https://twitter.com/YourAnonNews/status/1540526828603015169)
 
 ### Got a newsletter worthy post?
 

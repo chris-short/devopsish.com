@@ -46,7 +46,7 @@ I'm speaking at the O'Reilly Infrastructure & Ops Conference this year. But, did
 
 [cdpwn - Millions of devices at risk due to flaws in implementations of Cisco Discovery Protocol (CDP)](https://securityaffairs.co/wordpress/97407/hacking/cdpwn-cdp-flaws.html) — Back in my day, the first thing we did when configuring a Cisco device was turning off CDP.
 
-[Knative 2019 Annual Report (PDF)](https://shortcdn.com/file/devopsish/Knative-2019-Annual-Report.pdf) — Some interesting information in the Knative 2019 Annual Report: Contributions from 43 countries, 20% of committers identify as female, and contributions from "~29" companies.
+[Knative 2019 Annual Report (PDF)](https://shortcdn.com/devopsish/Knative-2019-Annual-Report.pdf) — Some interesting information in the Knative 2019 Annual Report: Contributions from 43 countries, 20% of committers identify as female, and contributions from "~29" companies.
 
 [End-of-life announcement for CoreOS Container Linux](https://coreos.com/os/eol/) — End of an era.
 

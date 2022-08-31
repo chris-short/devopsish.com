@@ -8,7 +8,7 @@ draft = false
 slug = "038"
 tags = ["devops", "cloud native", "open source", "kubernetes", "linux", "containers"]
 title = "038: Failure, Linux, Save Your Eyes, Alibaba, and MORE!"
-image ="https://shortcdn.com/file/devopsish/l-b-king-and-company-building-eclipse.jpg"
+image ="https://shortcdn.com/devopsish/l-b-king-and-company-building-eclipse.jpg"
 imagealt = "L.B. King and Company Building in Downtown Detroit during the Eclipse"
 aliases = [
     "devopsish-038-failure-linux-save-your-eyes-alibaba-and-more-315fcf916bd9"

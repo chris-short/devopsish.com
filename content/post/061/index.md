@@ -8,7 +8,7 @@ draft = false
 slug = "061"
 tags = ["devops", "cloud native", "open source", "kubernetes", "detroit", "observability", "spectre", "password management", "containers"]
 title = "061: 🔥 Week, CoreOS Acquisition, 20 Years of Open Source, Heptio's Undistribution, and..."
-image ="https://shortcdn.com/file/devopsish/devopsish-061.png"
+image ="https://shortcdn.com/devopsish/devopsish-061.png"
 imagealt = "My Life is Dope and I Do Dope Shit"
 aliases = [
     "devopsish-061-week-coreos-acquisition-20-years-of-open-source-heptio-s-undistribution-and-4f63428fc1b1"
@@ -34,7 +34,7 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 
 [CoreOS](https://coreos.com/blog/coreos-agrees-to-join-red-hat/) is being acquired by [Red Hat](https://www.redhat.com/en/about/press-releases/red-hat-acquire-coreos-expanding-its-kubernetes-and-containers-leadership) for $250 million! However, people in the community are holding judgment on if this is a good thing. [Container Linux will stick around](https://groups.google.com/forum/#!topic/coreos-user/GR4YlF2c1dM). But, the Openshift team fired off [an ill-advised tweet that was later removed](http://web.archive.org/web/20180131115004/https://twitter.com/openshift/status/958454802605846528). The tweet stated, "With the acquisition of CoreOS, Red Hat engineers now Lead or Co-Lead 15 Kubernetes SIGs." As [Joseph Jacks pointed out](https://twitter.com/i/web/status/958494559347986433), "This should be a call for broader community participation to avoid single-vendor concentration." I couldn't agree more. I now believe Google and Red Hat have WAY too much power in the Kubernetes ecosystem. But, It's better than just Google OR Red Hat having too much power.
 
-!["With the acquisition of CoreOS, Red Hat engineers now Lead or Co-Lead 15 Kubernetes SIGs"](https://shortcdn.com/file/devopsish/openshift-poorly-made-graphic.jpg)  
+!["With the acquisition of CoreOS, Red Hat engineers now Lead or Co-Lead 15 Kubernetes SIGs"](https://shortcdn.com/devopsish/openshift-poorly-made-graphic.jpg)  
 *"With the acquisition of CoreOS, Red Hat engineers now Lead or Co-Lead 15 Kubernetes SIGs"*
 
 [Celebrate 20 years of Open Source](https://opensource.net/): The Open Source Initiative is celebrating its 20th Anniversary in 2018.

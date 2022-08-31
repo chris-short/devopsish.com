@@ -8,7 +8,7 @@ draft = false
 slug = "059"
 tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "interview", "intel", "spectre", "lambda", "GitOps"]
 title = "059: DODNYC, Hawaii Missile UI, Intel, Kubernetes, and More"
-image ="https://shortcdn.com/file/devopsish/times-square-nyc.jpg"
+image ="https://shortcdn.com/devopsish/times-square-nyc.jpg"
 imagealt = "Times Square, New York City"
 aliases = [
     "devopsish-059-dodnyc-hawaii-missile-ui-intel-kubernetes-and-more-485f6663c0d7"

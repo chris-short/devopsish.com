@@ -13,7 +13,7 @@ I've written this newsletter from a lot of places over a variety of internet ser
 
 Oh and this was my most popular tweet this week.
 
-[![1550 CFP submissions for KubeCon Detroit and 3 hotels are already sold out. (@ChrisShort) on Twitter)](https://shortcdn.com/file/devopsish/kubecon-detroit-is-going-to-be-packed.webp)](https://twitter.com/ChrisShort/status/1534570893564862464)
+[![1550 CFP submissions for KubeCon Detroit and 3 hotels are already sold out. (@ChrisShort) on Twitter)](https://shortcdn.com/devopsish/kubecon-detroit-is-going-to-be-packed.webp)](https://twitter.com/ChrisShort/status/1534570893564862464)
 
 ## O'Reilly Book on Observability Engineering—Get Yours Free from Honeycomb!
 

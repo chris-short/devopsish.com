@@ -89,6 +89,6 @@ Knative on Kind (KonK)
 
 ## DevOps'ish Tweet of the Week
 
-[![Yes. A lot of people tell me it would be easier if I didn’t ruffle feathers. If I was a little less myself. If I was just a bit more quiet. Or well behaved. If I didn’t fight back. I refuse. If people want me to stop kicking down doors, they should start opening them. — Emily Freeman (@editingemily) February 17, 2021](https://shortcdn.com/file/devopsish/206-devopsish-tweet-of-the-week.png)](https://twitter.com/editingemily/status/1362206428140687363)
+[![Yes. A lot of people tell me it would be easier if I didn’t ruffle feathers. If I was a little less myself. If I was just a bit more quiet. Or well behaved. If I didn’t fight back. I refuse. If people want me to stop kicking down doors, they should start opening them. — Emily Freeman (@editingemily) February 17, 2021](https://shortcdn.com/devopsish/206-devopsish-tweet-of-the-week.png)](https://twitter.com/editingemily/status/1362206428140687363)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/206/notes/) to see what didn't make it to the newsletter but are still worth your time.

@@ -92,7 +92,7 @@ Jai Vijayan, Dark Reading
 
 [Deception at a scale](https://blog.virustotal.com/2022/08/deception-at-scale.html)  
 Vicente Díaz, VirusTotal Blog  
-![How Malware Abuses Trust](https://shortcdn.com/file/devopsish/decepcion.webp)
+![How Malware Abuses Trust](https://shortcdn.com/devopsish/decepcion.webp)
 
 ## Tools
 
@@ -154,7 +154,7 @@ Jonathan Corbet, LWN
 
 ## DevOps'ish Post of the Week
 
-[![Christian Hernandez on Twitter: "Okay, been working at this for a bit; but I'm excited to announce that I'll be #streaming about #GitOps again! Join @jjasghar and I on August 15th at 1pm Eastern as we kickoff the series: GitOps The Planet")](https://shortcdn.com/file/devopsish/279-devopsish-post-of-the-week.webp)](https://twitter.com/christianh814/status/1555641036713578498?utm_source=devopsish)
+[![Christian Hernandez on Twitter: "Okay, been working at this for a bit; but I'm excited to announce that I'll be #streaming about #GitOps again! Join @jjasghar and I on August 15th at 1pm Eastern as we kickoff the series: GitOps The Planet")](https://shortcdn.com/devopsish/279-devopsish-post-of-the-week.webp)](https://twitter.com/christianh814/status/1555641036713578498?utm_source=devopsish)
 
 ### Got a newsletter worthy post?
 

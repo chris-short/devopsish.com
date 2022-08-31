@@ -114,6 +114,6 @@ Put a fork in DC/OS. It's done.
 
 ## DevOps'ish Tweet of the Week
 
-[![Alex Cohen (@anothercohen) on Twitter: "Congrats on your $2m seed round. Your small team now only has 3 months of runway after paying for..."](https://shortcdn.com/file/devopsish/231-devopsish-tweet-of-the-week.png)](https://twitter.com/anothercohen/status/1427753293900500997)
+[![Alex Cohen (@anothercohen) on Twitter: "Congrats on your $2m seed round. Your small team now only has 3 months of runway after paying for..."](https://shortcdn.com/devopsish/231-devopsish-tweet-of-the-week.png)](https://twitter.com/anothercohen/status/1427753293900500997)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/231/notes/) to see what didn't make it to the newsletter but are still worth your time.

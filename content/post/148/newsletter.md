@@ -57,7 +57,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [Testing in Production: the hard parts](https://medium.com/@copyconstruct/testing-in-production-the-hard-parts-3f06cefaf592) — "Two of the hardest problems of testing in production are curtailing blast radius and dealing with state. In this post, I aim to explore the topic of curtailing blast radius in more detail."
 
-[Detecting Agile BS](https://shortcdn.com/file/devopsish/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) — "The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing ("agile-scrum-fall")."
+[Detecting Agile BS](https://shortcdn.com/devopsish/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) — "The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing ("agile-scrum-fall")."
 
 ## Tools
 

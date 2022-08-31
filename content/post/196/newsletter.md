@@ -105,6 +105,6 @@ Oblivious DNS-over-HTTPS... Huh.
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish 196 Tweet of the Week](https://shortcdn.com/file/devopsish/196-devopsish-tweet-of-the-week.png)](https://twitter.com/adamhjk/status/1336892243131518978)
+[![DevOps'ish 196 Tweet of the Week](https://shortcdn.com/devopsish/196-devopsish-tweet-of-the-week.png)](https://twitter.com/adamhjk/status/1336892243131518978)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/196/notes/) to see what didn't make it to the newsletter.

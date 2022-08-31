@@ -8,7 +8,7 @@ draft = false
 slug = "064"
 tags = ["devops", "cloud native", "open source", "Kubernetes", "leadership", "culture", "go", "golang", "linux", "google", "docker", "password management", "containers"]
 title = "064: DODCLT, {code} death knell, Leadership, Kubernetes Good and Bad, Docker and moving on from it, and More!"
-image ="https://shortcdn.com/file/devopsish/jet-engine.jpg"
+image ="https://shortcdn.com/devopsish/jet-engine.jpg"
 imagealt = "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. —Mark Twain"
 imagecap = "\"Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. —Mark Twain\""
 

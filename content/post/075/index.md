@@ -8,7 +8,7 @@ draft = false
 slug = "075"
 tags = ["devops", "cloud native", "open source", "kubernetes", "delivery", "microservices", "container", "security", "Ansible", "assholes", "containers", "Site Reliability Engineering", "SRE"]
 title = "075: Assholes, SRE, Container and Kubernetes Security, Ansible for Windows, and More"
-image ="https://shortcdn.com/file/devopsish/075-web.jpg"
+image ="https://shortcdn.com/devopsish/075-web.jpg"
 
 +++
 

@@ -60,7 +60,7 @@ A note from Russ Cox. "This mail explains a bit what the inclusion of generics d
 
 [Twitter (TWTR) earnings Q3 2021](https://www.cnbc.com/2021/10/26/twitter-reports-third-quarter-revenue-growth-of-37percent-and-says-apple-changes-had-minimal-impact.html)  
 Wow... Twitter did good. Meanwhile at Meta...
-![Everything is burning](https://shortcdn.com/file/devopsish/burning.webm)
+![Everything is burning](https://shortcdn.com/devopsish/burning.webm)
 
 ## Tools
 
@@ -101,6 +101,6 @@ Do you think you are safe using private browsing or incognito mode?. This will p
 
 ## DevOps'ish Tweet of the Week
 
-[![GitHub @github on Twitter) "What is DevOps? @editingemily gives us the skinny at #GitHubUniverse. You dig? http://GitHubUniverse.com](https://shortcdn.com/file/devopsish/241-devopsish-tweet-of-the-week.webp)](https://twitter.com/github/status/1453760137005518848)
+[![GitHub @github on Twitter) "What is DevOps? @editingemily gives us the skinny at #GitHubUniverse. You dig? http://GitHubUniverse.com](https://shortcdn.com/devopsish/241-devopsish-tweet-of-the-week.webp)](https://twitter.com/github/status/1453760137005518848)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/241/notes/) to see what didn't make it to the newsletter but are still worth your time.

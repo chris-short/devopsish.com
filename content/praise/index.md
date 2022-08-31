@@ -47,11 +47,11 @@ Finally, thank ***you*** subscribers, friends, fans for making this project the 
 
 {{< what-is-devops >}}
 
-[nicolefv]: https://shortcdn.com/file/devopsish/nicolefv-praise.webp
-[jpetazzo]: https://shortcdn.com/file/devopsish/jpetazzo-praise.webp
-[Bashfulrobot]: https://shortcdn.com/file/devopsish/Bashfulrobot-praise.webp
-[kamcmahon]: https://shortcdn.com/file/devopsish/kamcmahon-praise.webp
-[mwoodward]: https://shortcdn.com/file/devopsish/martin-woodward-praise.webp
-[patrick-debois]: https://shortcdn.com/file/devopsish/patrick-debois-praise.webp
-[johnny-boursiquot]: https://shortcdn.com/file/devopsish/johnny-boursiquot-praise.webp
-[carlisia-thompson]: https://shortcdn.com/file/devopsish/carlisia-thompson-praise.webp
+[nicolefv]: https://shortcdn.com/devopsish/nicolefv-praise.webp
+[jpetazzo]: https://shortcdn.com/devopsish/jpetazzo-praise.webp
+[Bashfulrobot]: https://shortcdn.com/devopsish/Bashfulrobot-praise.webp
+[kamcmahon]: https://shortcdn.com/devopsish/kamcmahon-praise.webp
+[mwoodward]: https://shortcdn.com/devopsish/martin-woodward-praise.webp
+[patrick-debois]: https://shortcdn.com/devopsish/patrick-debois-praise.webp
+[johnny-boursiquot]: https://shortcdn.com/devopsish/johnny-boursiquot-praise.webp
+[carlisia-thompson]: https://shortcdn.com/devopsish/carlisia-thompson-praise.webp

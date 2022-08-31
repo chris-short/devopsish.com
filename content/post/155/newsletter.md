@@ -88,4 +88,4 @@ We are looking for passionate Go developers with strong AWS skills to work with 
 
 ## Tweet of the Week
 
-[![Ian Coldwater 📦💥 @IanColdwater on Twitter) "Stop Using /v1beta1/"](https://shortcdn.com/file/devopsish/155-devopsish-tweet-of-the-week.webp)](https://twitter.com/IanColdwater/status/1213607102595424258)
+[![Ian Coldwater 📦💥 @IanColdwater on Twitter) "Stop Using /v1beta1/"](https://shortcdn.com/devopsish/155-devopsish-tweet-of-the-week.webp)](https://twitter.com/IanColdwater/status/1213607102595424258)

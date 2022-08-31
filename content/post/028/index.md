@@ -8,7 +8,7 @@ draft = false
 slug = "028"
 tags = ["devops", "cloud native", "open source", "kubernetes", "database", "infrastructure", "detroit", "microservices", "Y2K"]
 title = "028: Week of 1497758400"
-image ="https://shortcdn.com/file/devopsish/detroit-pride.jpg"
+image ="https://shortcdn.com/devopsish/detroit-pride.jpg"
 imagealt = "GM RenCen Gay Pride"
 aliases = [
     "devopsish-028-week-of-1497758400-e82b184e967a"

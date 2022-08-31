@@ -8,7 +8,7 @@ draft = false
 slug = "006"
 tags = ["devops", "cloud native", "open source", "kubernetes", "linux", "containers", "Docker"]
 title = "006: Week of 1484456400"
-image ="https://shortcdn.com/file/devopsish/snowy-mountain-lake.jpg"
+image ="https://shortcdn.com/devopsish/snowy-mountain-lake.jpg"
 imagealt = "Snowy Mountain Lake"
 aliases = [
     "006-week-of-1484456400-ceb344fd9ab0"
@@ -38,7 +38,7 @@ I don't know how I missed this last week but Flickr (yes, Flickr) has a great po
 
 [LinkedIn has a vending machine for IT equipment](https://theagileadmin.com/2017/01/10/but-how-can-it-do-devops/) much like factories have vending of parts and PPE. That's one way to automate IT functions.
 
-![Photo Courtesy [the agile admin](https://theagileadmin.com/2017/01/10/but-how-can-it-do-devops/)](https://shortcdn.com/file/devopsish/linkedin-vending-machine.jpg)  
+![Photo Courtesy [the agile admin](https://theagileadmin.com/2017/01/10/but-how-can-it-do-devops/)](https://shortcdn.com/devopsish/linkedin-vending-machine.jpg)  
 *Photo Courtesy [the agile admin](https://theagileadmin.com/2017/01/10/but-how-can-it-do-devops/)*
 
 Tom Croucher of Uber brings us a "I've seen the light!" moment in [*Don't gamble when it comes to reliability*](https://www.oreilly.com/ideas/dont-gamble-when-it-comes-to-reliability)
@@ -58,7 +58,7 @@ filesystem with its current privilege set." [Red Hat demonstrated that SELinux c
 
 There was a great crowd at the [Triangle Kubernetes and OpenShift Meetup](https://www.meetup.com/Triangle-Kubernetes-Meetup/) this past week. I got some helpful tips from Thomas Wiest about running Kubernetes in AWS. I have made [my notes from the Meetup available](https://www.evernote.com/l/AAV9Qz3Q7IhLCqRM05VZbis3oJm6duhVdi0).
 
-![Photo courtesy of [Red Hat OpenShift](https://twitter.com/openshift/status/819690494393520131)](https://shortcdn.com/file/devopsish/triangle-openshift-meetup.jpg)  
+![Photo courtesy of [Red Hat OpenShift](https://twitter.com/openshift/status/819690494393520131)](https://shortcdn.com/devopsish/triangle-openshift-meetup.jpg)  
 *Photo courtesy of [Red Hat OpenShift](https://twitter.com/openshift/status/819690494393520131)*
 
 ## Department of Refreshment and Refurbishment

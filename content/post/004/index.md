@@ -8,7 +8,7 @@ draft = false
 slug = "004"
 tags = ["devops", "cloud native", "open source", "linux", "ansible", "hashicorp"]
 title = "004: Week of 1483246800"
-image ="https://shortcdn.com/file/devopsish/fireworks-over-downtown.jpg"
+image ="https://shortcdn.com/devopsish/fireworks-over-downtown.jpg"
 imagealt = "2016 has come to an end. For auld lang syne, my dear!"
 aliases = [
     "004-week-of-1483246800-f780b9b00f3"
@@ -52,7 +52,7 @@ CVE Details has a run down for the [Top 50 Vendors By Total Number Of "Distinct"
 
 ## Department of Refreshment and Refurbishment
 
-[![As of tomorrow, PHP 5.6 will no longer get bugfixes, only security fixes for 1 more year. Time to move to PHP 7.1. — Mattias Geniar](https://shortcdn.com/file/devopsish/2020-01-01_09-24-32.png)](https://twitter.com/ChrisShort/status/1212378883837829126)
+[![As of tomorrow, PHP 5.6 will no longer get bugfixes, only security fixes for 1 more year. Time to move to PHP 7.1. — Mattias Geniar](https://shortcdn.com/devopsish/2020-01-01_09-24-32.png)](https://twitter.com/ChrisShort/status/1212378883837829126)
 
 Joel Sing pointed out this week that [migrating to OpenSSL 1.1 is really (unnecessarily) hard](https://www.mail-archive.com/tech@openbsd.org/msg36437.html). I have to agree, it should not be as hard as he describes. Want a good example? Compile nmap configured to use OpenSSL 1.1.
 

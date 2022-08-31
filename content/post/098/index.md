@@ -8,7 +8,7 @@ draft = false
 slug = "098"
 tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security", "serverless", "hq2", "Docker", "Site Reliability Engineering", "SRE", "Ansible Operators"]
 title = "098: Open Source, Kubernetes, Vote, Ansible, Serverless, Amazon HQ2 and More"
-image ="https://shortcdn.com/file/devopsish/ashley-mcnamara-voter-koala.png"
+image ="https://shortcdn.com/devopsish/ashley-mcnamara-voter-koala.png"
 imagealt = "Please. Vote."
 imagecap = "I really don't care what your stance is. I want you to vote. Art by Ashley McNamara."
 

@@ -174,7 +174,7 @@ gProfiler is a system-wide profiler, combining multiple sampling profilers to pr
 
 ## DevOps'ish Post of the Week
 
-[![den on Twitter: "Kubernetes. (and a GIF)"](https://shortcdn.com/file/devopsish/281-devopsish-post-of-the-week.webp)](https://twitter.com/DennisCode/status/1560079800252764163?utm_source=devopsish)
+[![den on Twitter: "Kubernetes. (and a GIF)"](https://shortcdn.com/devopsish/281-devopsish-post-of-the-week.webp)](https://twitter.com/DennisCode/status/1560079800252764163?utm_source=devopsish)
 
 ### Got a newsletter worthy post?
 

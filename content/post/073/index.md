@@ -8,7 +8,7 @@ draft = false
 slug = "073"
 tags = ["devops", "cloud native", "open source", "rtfm", "hiring", "bgp", "dns", "kubernetes", "gitlab", "containers", "Site Reliability Engineering", "SRE", "Docker"]
 title = "073: DevOps Hiring Guide, RIP RTFM, BGP & DNS, Kubernetes, GitLab, and More"
-image ="https://shortcdn.com/file/devopsish/balance.jpg"
+image ="https://shortcdn.com/devopsish/balance.jpg"
 imagealt = "Life is about balance. The struggle is achieving it."
 imagecap = "Life is about balance. The struggle is achieving it."
 

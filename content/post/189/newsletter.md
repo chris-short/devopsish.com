@@ -101,7 +101,7 @@ A Kubernetes operator to sync secrets from AWS Secrets Manager
 
 ## DevOps'ish Tweet of the Week
 
-[![DevOps'ish Tweet of the Week from @jbaruch](https://shortcdn.com/file/devopsish/189-devopsish-tweet-of-the-week.png)](https://twitter.com/jbaruch/status/1318589106725687297)
+[![DevOps'ish Tweet of the Week from @jbaruch](https://shortcdn.com/devopsish/189-devopsish-tweet-of-the-week.png)](https://twitter.com/jbaruch/status/1318589106725687297)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/189/notes/) to see what didn't make it to the newsletter.
 

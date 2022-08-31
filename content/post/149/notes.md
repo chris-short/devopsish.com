@@ -6,7 +6,7 @@
 1. [Terraform at Starbucks: Infrastructure as Code for Software Engineers](https://www.hashicorp.com/resources/terraform-at-starbucks-infrastructure-as-code-for-software-engineers)
 1. [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
 1. [Ansible Crash Course](https://www.thecloud.coach/ansible-crash-course)
-1. [Detecting Agile BS](https://shortcdn.com/file/devopsish/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+1. [Detecting Agile BS](https://shortcdn.com/devopsish/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 1. [Essential Tmux for CKAD or CKA Exam](https://blog.codonomics.com/2019/09/essential-tmux-for-ckad-or-cka-exam.html)
 1. [Testing in Production: the hard parts](https://medium.com/@copyconstruct/testing-in-production-the-hard-parts-3f06cefaf592)
 1. [Inside of Kubernetes Controller](https://speakerdeck.com/govargo/inside-of-kubernetes-controller)

@@ -8,7 +8,7 @@ draft = false
 slug = "034"
 tags = ["devops", "cloud native", "open source", "kubernetes", "linux", "google", "gophercon", "containers", "Docker"]
 title = "034: The 6Ps, Ops, Microsoft, Kubernetes, Terraform, and More"
-image ="https://shortcdn.com/file/devopsish/wip.jpg"
+image ="https://shortcdn.com/devopsish/wip.jpg"
 imagealt = "Trying to juggle too many tasks will kill your productivity. Focus on one thing at a time. —David Neal"
 aliases = [
     "devopsish-034-the-6ps-ops-microsoft-kubernetes-terraform-and-more-d1fb397ad762"

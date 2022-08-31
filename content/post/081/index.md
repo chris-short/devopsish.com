@@ -8,7 +8,7 @@ draft = false
 slug = "081"
 tags = ["devops", "cloud native", "open source", "kubernetes", "ansible", "docker", "meetings", "serverless", "diversity", "security", "linux", "digitalocean", "silicon valley", "devsecops"]
 title = "081: Diversity, Silicon Valley v. US, Ansible, Kubernetes, Meetings, DevSecOps, Serverless, and More"
-image ="https://shortcdn.com/file/devopsish/penguins.jpg"
+image ="https://shortcdn.com/devopsish/penguins.jpg"
 imagealt = "Penguins on the March"
 imagecap = "Shout out to all the penguins and southern hemisphere folks that went through their winter solstice this week."
 
@@ -49,7 +49,7 @@ Where: From your desktop, laptop, or mobile device
 
 ## People
 
-[![Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities](https://shortcdn.com/file/devopsish/kim-crayton-unintended-consequences.jpg "Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities")
+[![Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities](https://shortcdn.com/devopsish/kim-crayton-unintended-consequences.jpg "Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities")
 Kim Crayton: Unintended Consequences: How to Reduce Exclusionary Practices In Our Organizations and Communities](https://youtu.be/t8F12gZJ4AQ)
 
 [Let's actually talk about Diversity](https://blog.heptio.com/lets-actually-talk-about-diversity-b882cb74c2a7): Shanis Windland of Heptio talks about real life diversity issues. Her perspective as a military brat in tech is especially refreshing to me.

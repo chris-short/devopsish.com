@@ -8,7 +8,7 @@ draft = false
 slug = "044"
 tags = ["devops", "cloud native", "open source", "kubernetes", "infrastructure", "github", "CI/CD"]
 title = "044: Kubernetes, Go, AWS, and Much More"
-image ="https://shortcdn.com/file/devopsish/paper-boat-fleet.jpg"
+image ="https://shortcdn.com/devopsish/paper-boat-fleet.jpg"
 imagealt = "Paper Boats Afloat"
 aliases = [
     "devopsish-044-kubernetes-go-aws-and-much-more-5966422e27c"

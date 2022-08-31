@@ -20,8 +20,8 @@ DevOps'ish is proud to call these fine organizations Partners. Thank you for you
 
 ## Media Partners
 
-[![Cronicle Press](https://shortcdn.com/file/devopsish/cronicle-press.png)](https://cronicle.press/)
+[![Cronicle Press](https://shortcdn.com/devopsish/cronicle-press.png)](https://cronicle.press/)
 
-[![O'Reilly](https://shortcdn.com/file/devopsish/oreilly.jpg)](https://www.oreilly.com/pub/cpc/295836)
+[![O'Reilly](https://shortcdn.com/devopsish/oreilly.jpg)](https://www.oreilly.com/pub/cpc/295836)
 
 {{< what-is-devops >}}

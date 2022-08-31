@@ -6,7 +6,7 @@ description = "Thank You for Subscribing to DevOps'ish"
 draft = false
 slug = "thank-you"
 title = "Thank You"
-image = "https://shortcdn.com/file/devopsish/thank-you.jpg"
+image = "https://shortcdn.com/devopsish/thank-you.jpg"
 imagealt = "Thank You for Subscribing to DevOps'ish"
 aliases = [
     "thanks"

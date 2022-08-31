@@ -49,7 +49,7 @@ In case you weren't aware, I maintain a newsletter for $job now called [EKS News
 Put things in the businesses context when you're explaining them. Leadership knows about dollar, cents, and time. We know about pain, time, and tooling. The time overlap is a great place to start. Compute density is another great place to find business interest. If you could hire three engineers and cut your cloud spend by more than a percentage point, that's the right way to get the business to let you pay off some debt. Go in with a well researched plan and tailor the explanation of it to your audience.
 
 [Security: The Value of SBOMs](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/)  
-Software Bill of Materials (SBOMs) can sound daunting at first when you start to spider out from the things you know you depend on (above the line) and realize the underlying dependencies you still have (below the line). This article details how GitOps tool, [Flux](https://fluxcd.io/), approached their v2 rewrite and reducing their attack surface at the same time. All the while, their SBOM was kept up to date with a tool from Anchore called [Syft](https://github.com/anchore/syft). If you've never heard of the above/below the line concept, read the paper [Above the Line, Below the Line by Richard I. Cook, M.D.](https://shortcdn.com/file/devopsish/above-the-line-below-the-line.pdf)
+Software Bill of Materials (SBOMs) can sound daunting at first when you start to spider out from the things you know you depend on (above the line) and realize the underlying dependencies you still have (below the line). This article details how GitOps tool, [Flux](https://fluxcd.io/), approached their v2 rewrite and reducing their attack surface at the same time. All the while, their SBOM was kept up to date with a tool from Anchore called [Syft](https://github.com/anchore/syft). If you've never heard of the above/below the line concept, read the paper [Above the Line, Below the Line by Richard I. Cook, M.D.](https://shortcdn.com/devopsish/above-the-line-below-the-line.pdf)
 
 [Kubernetes Policy Management White Paper (PDF)](https://github.com/kubernetes/sig-security/blob/main/sig-security-docs/papers/policy/CNCF_Kubernetes_Policy_Management_WhitePaper_v1.pdf)  
 "This paper aims to provide a clear understanding of why Kubernetes
@@ -96,6 +96,6 @@ Learn how the new 64-bit OS handles work compared to 32-bit.
 
 ## DevOps'ish Tweet of the Week
 
-[![Jason H. Moore, PhD (@moorejh on Twitter) "#sciencetwitter"](https://shortcdn.com/file/devopsish/256-devopsish-tweet-of-the-week.webp)](https://twitter.com/moorejh/status/1491495889809993728)
+[![Jason H. Moore, PhD (@moorejh on Twitter) "#sciencetwitter"](https://shortcdn.com/devopsish/256-devopsish-tweet-of-the-week.webp)](https://twitter.com/moorejh/status/1491495889809993728)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/256/notes/) to see what didn't make it to the newsletter but are still worth your time.

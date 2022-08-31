@@ -8,7 +8,7 @@ draft = false
 slug = "085"
 tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "survey", "prime day", "developer", "engineer", "amazon", "container", "openfaas", "Docker Inc", "Site Reliability Engineering", "SRE", "CI/CD", "CAP Theorem", "GitOps"]
 title = "085: Ansible ❤️ Kubernetes, Spotting Fakes, Junior Engineers, Prime Disaster, Kubernetes, Awesome TUIs, and More"
-image ="https://shortcdn.com/file/devopsish/you-are-here.jpg"
+image ="https://shortcdn.com/devopsish/you-are-here.jpg"
 imagealt = "You Are Here"
 imagecap = ""
 

@@ -8,7 +8,7 @@ draft = false
 slug = "050"
 tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "observability", "mental health", "linux", "google", "docker", "moby", "lambda", "containers", "Site Reliability Engineering", "SRE", "Linus Torvalds"]
 title = "050: Healing, Move Slowly and Fix Things, Observability, Serverless, Kubernetes, and..."
-image ="https://shortcdn.com/file/devopsish/apothecary.jpg"
+image ="https://shortcdn.com/devopsish/apothecary.jpg"
 imagealt = "Healing is Hard"
 aliases = [
     "devopsish-050-healing-move-slowly-and-fix-things-observability-serverless-kubernetes-and-99b8a5618673"

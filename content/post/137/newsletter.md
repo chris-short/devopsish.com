@@ -108,4 +108,4 @@ The founder and CEO of Blue Matador, the alert automation service, will be hosti
 
 ## DevOps'ish Tweet of the Week
 
-![Jill Jubs on Twitter](https://shortcdn.com/file/devopsish/137-tweet-of-the-week.png)
+![Jill Jubs on Twitter](https://shortcdn.com/devopsish/137-tweet-of-the-week.png)

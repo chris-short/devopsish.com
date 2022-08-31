@@ -8,7 +8,7 @@ draft = false
 slug = "029"
 tags = ["devops", "cloud native", "open source", "serverless", "detroit", "containers", "Linus Torvalds", "Docker"]
 title = "029: Week of 1498363200"
-image ="https://shortcdn.com/file/devopsish/downtown-detroit-from-bankrate-office.jpg"
+image ="https://shortcdn.com/devopsish/downtown-detroit-from-bankrate-office.jpg"
 imagealt = "View from my office in Downtown Detroit"
 aliases = [
     "devopsish-029-week-of-1498363200-56ad15adce32"
@@ -66,4 +66,4 @@ I studied Buddhism as a child ([long story](https://chrisshort.net/center-for-pu
 
 ## DevOps'ish Tweet of the Week
 
-[![It's really hard for people to internalize that there are other sides to their friends and colleagues that *they may never see*. —Charity Majors](https://shortcdn.com/file/devopsish/029-tweet-of-the-week.png)](https://twitter.com/mipsytipsy/status/878748980125069313)
+[![It's really hard for people to internalize that there are other sides to their friends and colleagues that *they may never see*. —Charity Majors](https://shortcdn.com/devopsish/029-tweet-of-the-week.png)](https://twitter.com/mipsytipsy/status/878748980125069313)

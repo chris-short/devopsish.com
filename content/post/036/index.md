@@ -8,7 +8,7 @@ draft = false
 slug = "036"
 tags = ["devops", "cloud native", "open source", "kubernetes", "cloud computing", "infrastructure", "linux", "github", "google", "password management", "open offices"]
 title = "036: Google, #WITBragDay, npm Security, AWS, and more!"
-image ="https://shortcdn.com/file/devopsish/heart-balloon-release.jpg"
+image ="https://shortcdn.com/devopsish/heart-balloon-release.jpg"
 imagealt = "Love and compassion are necessities, not luxuries. Without them humanity cannot survive. —Dalai Lama"
 aliases = [
     "devopsish-036-google-witbragday-npm-security-aws-and-more-4a3fc6a2f3bd"

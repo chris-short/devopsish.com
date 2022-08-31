@@ -6,7 +6,7 @@ description = "Thank You for Confirming Your Subscription to DevOps'ish"
 draft = false
 slug = "confirmation"
 title = "Signup Confirmation"
-image = "https://shortcdn.com/file/devopsish/welcome.jpg"
+image = "https://shortcdn.com/devopsish/welcome.jpg"
 imagealt = "Welcome!"
 aliases = [
     "welcome"

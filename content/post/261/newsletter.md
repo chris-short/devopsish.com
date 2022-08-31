@@ -111,6 +111,6 @@ This thing looks wild. "Nvidia and IBM propose a new GPU-SSD interoperability fr
 
 ## DevOps'ish Tweet of the Week
 
-[![CyclingTips (@cyclingtips on Twitter) "This is everything 😍"](https://shortcdn.com/file/devopsish/261-devopsish-tweet-of-the-week.webp)](https://twitter.com/cyclingtips/status/1503446251148230656)
+[![CyclingTips (@cyclingtips on Twitter) "This is everything 😍"](https://shortcdn.com/devopsish/261-devopsish-tweet-of-the-week.webp)](https://twitter.com/cyclingtips/status/1503446251148230656)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/261/notes/) to see what didn't make it to the newsletter but are still worth your time.

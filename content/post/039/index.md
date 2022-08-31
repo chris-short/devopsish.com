@@ -8,7 +8,7 @@ draft = false
 slug = "039"
 tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "infrastructure", "microservices", "hashicorp", "nodejs", "containers", "Docker Inc"]
 title = "039: Cloud Native, Football, Kubernetes, Serverless, and More"
-image ="https://shortcdn.com/file/devopsish/footballs.jpg"
+image ="https://shortcdn.com/devopsish/footballs.jpg"
 imagealt = "Football is BACK!"
 aliases = [
     "devopsish-039-cloud-native-football-kubernetes-serverless-and-more-a92efc6911aa"

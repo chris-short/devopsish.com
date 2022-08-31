@@ -8,7 +8,7 @@ draft = false
 slug = "056"
 tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "Docker"]
 title = "056: Is Docker Dead, Tech Bros, Kubernetes, Tools Galore, and More!"
-image ="https://shortcdn.com/file/devopsish/macbook-hour-glass.jpg"
+image ="https://shortcdn.com/devopsish/macbook-hour-glass.jpg"
 imagealt = "The sand is almost at the bottom of 2017's hourglass"
 aliases = [
     "devopsish-056-is-docker-dead-tech-bros-kubernetes-tools-galore-and-more-89edb0cc703e"

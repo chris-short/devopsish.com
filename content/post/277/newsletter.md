@@ -111,7 +111,7 @@ I heard about this group at DevOpsDays Seattle. If anyone wants to start a Midwe
 
 [The Path to GitOps](https://developers.redhat.com/e-books/path-gitops)  
 Christian Hernandez, Codefresh  
-In his final Red Hat act, Christian Hernandez has released an ebook titled, "The Path to GitOps" I was fortunate enough to be asked to write the foreword for this book. So two ex-Red Hatters wrote this one. If you don't have a Red Hat Developers login, and trust me, [here's the PDF](https://shortcdn.com/file/devopsish/Path-to-GitOps-Red-Hat-Developer-e-book.pdf).
+In his final Red Hat act, Christian Hernandez has released an ebook titled, "The Path to GitOps" I was fortunate enough to be asked to write the foreword for this book. So two ex-Red Hatters wrote this one. If you don't have a Red Hat Developers login, and trust me, [here's the PDF](https://shortcdn.com/devopsish/Path-to-GitOps-Red-Hat-Developer-e-book.pdf).
 
 [Nutanix Objects Violates MinIO's Open Source License](https://blog.min.io/nutanix-objects-violates-minios-open-source-license/)  
 Garima Kapoor, MinIO  
@@ -193,7 +193,7 @@ AppFlowy is an open-source alternative to Notion. You are in charge of your data
 
 ## DevOps'ish Post of the Week
 
-[![u/Ordinary-March on r/kubernetes: "Is the Universe a giant Kubernetes cluster where galaxies are namespaces, stars are pods, planets sidecar containers and gravity a well designed service mesh!" / Reddit)](https://shortcdn.com/file/devopsish/277-devopsish-post-of-the-week.webp)](https://www.reddit.com/r/kubernetes/comments/w2h7bz/is_the_universe_a_giant_kubernetes_cluster_where/?utm_source=devopsish)
+[![u/Ordinary-March on r/kubernetes: "Is the Universe a giant Kubernetes cluster where galaxies are namespaces, stars are pods, planets sidecar containers and gravity a well designed service mesh!" / Reddit)](https://shortcdn.com/devopsish/277-devopsish-post-of-the-week.webp)](https://www.reddit.com/r/kubernetes/comments/w2h7bz/is_the_universe_a_giant_kubernetes_cluster_where/?utm_source=devopsish)
 
 ### Got a newsletter worthy post?
 

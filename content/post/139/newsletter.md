@@ -90,6 +90,6 @@ Blue Matador is alert automation for AWS and Kubernetes environments. Our proact
 
 ## DevOps'ish Tweet of the Week
 
-[![Ian Coldwater is no longer on Twitter](https://shortcdn.com/file/devopsish/139-tweet-of-the-week.png)](https://twitter.com/ChrisShort/status/1172851064862887936)
+[![Ian Coldwater is no longer on Twitter](https://shortcdn.com/devopsish/139-tweet-of-the-week.png)](https://twitter.com/ChrisShort/status/1172851064862887936)
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

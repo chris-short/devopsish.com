@@ -154,7 +154,7 @@ Rejoice fellow Linux users, soon we'll have the same ability to play REALLY pret
 
 Tweets, toots, reddit posts, etc. will now fill this section.  I want to open it to all social media platforms. If you see something, send it my way, please.
 
-[![As an industry we need more self-reflection and less copy-pasting of other people's engineering culture. (Kelsey Hightower @kelseyhightower on Twitter)](https://shortcdn.com/file/devopsish/267-devopsish-tweet-of-the-week.webp)](https://twitter.com/kelseyhightower/status/1525112570595536896)
+[![As an industry we need more self-reflection and less copy-pasting of other people's engineering culture. (Kelsey Hightower @kelseyhightower on Twitter)](https://shortcdn.com/devopsish/267-devopsish-tweet-of-the-week.webp)](https://twitter.com/kelseyhightower/status/1525112570595536896)
 
 ### Got a newsletter worthy post?
 

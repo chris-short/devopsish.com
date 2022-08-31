@@ -20,7 +20,7 @@ I've had a rough week, please forgive me for not laboring over an intro.
 ## People
 
 [The woman who took on Google and won](https://www.bbc.com/news/technology-56659212)  
-"[Google signed a document](https://shortcdn.com/file/devopsish/20210331_nlrbsettlement_alphabet_modis.pdf) saying its employees 'have the right to discuss wage rates, bonuses, and working conditions.'"
+"[Google signed a document](https://shortcdn.com/devopsish/20210331_nlrbsettlement_alphabet_modis.pdf) saying its employees 'have the right to discuss wage rates, bonuses, and working conditions.'"
 
 [Never wait for a staging environment again](https://releaseapp.io/?utm_source=devopsish&utm_medium=email&utm_content=title&utm_campaign=20210228) 👩‍💻🧑‍💻👨‍💻👩‍💻  
 Do you find that your engineers spend too much time creating and maintaining staging environments and yet, there never seems to be enough environments to go around? A shortage of environments is a top driver of low developer productivity and often impacts an engineering team's ability to ship features on time. With Release, you can get a full instance of your app with all of its services with every pull request. You'll never have to wait around for staging environments again. 💡 [Get started now](https://releaseapp.io/?utm_source=devopsish&utm_medium=email&utm_content=get-started&utm_campaign=20210228) 💡 *SPONSORED*
@@ -91,6 +91,6 @@ Top-like interface for container metrics
 
 ## DevOps'ish Tweet of the Week
 
-[![@__apf__ on Twitter: "My 9 book picks for engineering leaders 👇"](https://shortcdn.com/file/devopsish/213-devopsish-tweet-of-the-week.png)](https://twitter.com/__apf__/status/1379973544759582725)
+[![@__apf__ on Twitter: "My 9 book picks for engineering leaders 👇"](https://shortcdn.com/devopsish/213-devopsish-tweet-of-the-week.png)](https://twitter.com/__apf__/status/1379973544759582725)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/213/notes/) to see what didn't make it to the newsletter but are still worth your time.

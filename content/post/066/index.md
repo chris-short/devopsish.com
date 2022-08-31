@@ -8,7 +8,7 @@ draft = false
 slug = "066"
 tags = ["devops", "cloud native", "open source", "kubernetes", "cncf", "containers"]
 title = "066: Kubernetes 🎓, Awesome People, Rogue Satellites, IDGAF About Your IDE, and More!"
-image ="https://shortcdn.com/file/devopsish/petty-whale.jpg"
+image ="https://shortcdn.com/devopsish/petty-whale.jpg"
 imagealt = "Petty, petty whale"
 imagecap = "\"When dealing with people, remember you are not dealing with creatures of logic, but with creatures bristling with prejudice and motivated by pride and vanity.\" — Dale Carnegie"
 

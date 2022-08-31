@@ -8,7 +8,7 @@ draft = false
 slug = "062"
 tags = ["devops", "cloud native", "open source", "kubernetes", "go", "golang", "18f", "meltdown", "chaos engineering", "ansible", "database", "detroit", "spectre", "Docker"]
 title = "062: Saddling Up, Mergers, Deaths, What's Up with 18F, Chaos Engineering, Performance Impact of Meltdown and More!"
-image ="https://shortcdn.com/file/devopsish/kris-nova-cascades-mt-rainier.jpg"
+image ="https://shortcdn.com/devopsish/kris-nova-cascades-mt-rainier.jpg"
 imagealt = "Cascades from Mt. Rainier by Kris Nova"
 imagecap = "Cascades from Mt. Rainier by [Kris Nova](https://novasummits.com/)"
 

@@ -97,6 +97,6 @@ list/copy/sync/compare S3 buckets 5x-50x faster than aws-cli
 
 ## DevOps'ish Tweet of the Week
 
-[![Git. It was designed with actual gatekeeping in mind, and it is far more destructive than CSS. Git is like your high school self's "shit the computer crashed and last I saved my paper hours ago" on STEROIDS.](https://shortcdn.com/file/devopsish/203-devopsish-tweet-of-the-week.png)](https://twitter.com/guincodes/status/1355023910509502470)
+[![Git. It was designed with actual gatekeeping in mind, and it is far more destructive than CSS. Git is like your high school self's "shit the computer crashed and last I saved my paper hours ago" on STEROIDS.](https://shortcdn.com/devopsish/203-devopsish-tweet-of-the-week.png)](https://twitter.com/guincodes/status/1355023910509502470)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/203/notes/) to see what didn't make it to the newsletter.

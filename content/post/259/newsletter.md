@@ -108,6 +108,6 @@ I'm actually kinda excited about these. I could see myself using an OS that supp
 
 ## DevOps'ish Tweet of the Week
 
-[![Sasha Rosenbaum 🇺🇦 (@DivineOps on Twitter) "Razom for Ukraine Registered 501(c)(3) organization, tax-exempt in the US, check if your company offers a donation match https://razomforukraine.org/donate/"](https://shortcdn.com/file/devopsish/259-devopsish-tweet-of-the-week.webp)](https://twitter.com/DivineOps/status/1497941828527538179)
+[![Sasha Rosenbaum 🇺🇦 (@DivineOps on Twitter) "Razom for Ukraine Registered 501(c)(3) organization, tax-exempt in the US, check if your company offers a donation match https://razomforukraine.org/donate/"](https://shortcdn.com/devopsish/259-devopsish-tweet-of-the-week.webp)](https://twitter.com/DivineOps/status/1497941828527538179)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/259/notes/) to see what didn't make it to the newsletter but are still worth your time.

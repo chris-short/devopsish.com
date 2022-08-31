@@ -8,7 +8,7 @@ draft = false
 slug = "020"
 tags = ["devops", "cloud native", "open source", "linux", "google", "go", "docker", "moby", "lambda"]
 title = "020: Week of 1492920000"
-image ="https://shortcdn.com/file/devopsish/docker-moby-wtf.png"
+image ="https://shortcdn.com/devopsish/docker-moby-wtf.png"
 imagealt = "Docker, Moby, Captain Ahab, Huh?"
 aliases = [
     "devopsish-weekly-020-week-of-1492920000-65abf362f4f0"
@@ -56,7 +56,7 @@ According to Akamai, [Connectionless LDAP is being exploited in a new breed of D
 
 [AWS CodeStar](https://aws.amazon.com/codestar/) is a [cloud service designed to make it easier to develop, build, and deploy applications on AWS by simplifying the setup of your entire development project](https://aws.amazon.com/blogs/aws/new-aws-codestar/).
 
-![Get this awesome shirt at [runk8s.io](https://runk8s.io/)](https://shortcdn.com/file/devopsish/run-k8s-tshirt.jpg)  
+![Get this awesome shirt at [runk8s.io](https://runk8s.io/)](https://shortcdn.com/devopsish/run-k8s-tshirt.jpg)  
 *Get this awesome shirt at [runk8s.io](https://runk8s.io/)*
 
 [Ubuntu on AWS gets serious performance boost with AWS-tuned kernel](https://insights.ubuntu.com/2017/04/05/ubuntu-on-aws-gets-serious-performance-boost-with-aws-tuned-kernel/)

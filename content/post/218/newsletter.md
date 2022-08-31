@@ -17,7 +17,7 @@ But, this week was the week of, "What are you going to do when things go back to
 
 I’m going to enjoy this moment before we have to change it all up. We stood it all up in three weeks and iterated on it as we went. Embracing the DevOps principles I’ve learned from my work in the past has probably been the greatest joy in running it all. It’ll be the same routine when things start going back to what becomes whatever the new normal becomes. We’ll start where we think it’s going to go and land on what it becomes. That is the beauty of this industry; change is constant.
 
-Speaking of change, the [**What is DevOps**](https://devopsish.com/what-is-devops/) page now features a free eBook for you to download. Grab a copy of What is DevOps; send it to your executive team if you think you’re not heading in the right direction. You can blame me; please blame me for maybe nudging folks towards hopefully positive change. The [**ePub**](https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.epub?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_218) and [**PDF**](https://shortcdn.com/file/devopsish/What_is_DevOps_eBook.pdf?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_218) editions are available NOW!
+Speaking of change, the [**What is DevOps**](https://devopsish.com/what-is-devops/) page now features a free eBook for you to download. Grab a copy of What is DevOps; send it to your executive team if you think you’re not heading in the right direction. You can blame me; please blame me for maybe nudging folks towards hopefully positive change. The [**ePub**](https://shortcdn.com/devopsish/What_is_DevOps_eBook.epub?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_218) and [**PDF**](https://shortcdn.com/devopsish/What_is_DevOps_eBook.pdf?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_218) editions are available NOW!
 
 Note: All [KubeCon EU 2021 talks are available on YouTube](https://youtube.com/playlist?list=PLj6h78yzYM2MqBm19mRz9SYLsw4kfQBrC&utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_218)
 
@@ -110,6 +110,6 @@ SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC
 
 ## DevOps'ish Tweet of the Week
 
-[![@nicolefv on Twitter: Why do we listen to people who have notably scammed people out of billions of dollars and ::checks notes:: whose entire business model relies on people returning to an office? My dude your passive aggressive hot take is bad](https://shortcdn.com/file/devopsish/218-devopsish-tweet-of-the-week.png)](https://twitter.com/nicolefv/status/1392851719797673992)
+[![@nicolefv on Twitter: Why do we listen to people who have notably scammed people out of billions of dollars and ::checks notes:: whose entire business model relies on people returning to an office? My dude your passive aggressive hot take is bad](https://shortcdn.com/devopsish/218-devopsish-tweet-of-the-week.png)](https://twitter.com/nicolefv/status/1392851719797673992)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/218/notes/) to see what didn't make it to the newsletter but are still worth your time.

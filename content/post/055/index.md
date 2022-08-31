@@ -8,7 +8,7 @@ draft = false
 slug = "055"
 tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "golang", "detroit", "observability", "women in tech", "uber", "Susan Fowler", "Docker"]
 title = "055: Rough Week, DevOps Culture, Kubernetes, and More!"
-image ="https://shortcdn.com/file/devopsish/merry-christmas.jpg"
+image ="https://shortcdn.com/devopsish/merry-christmas.jpg"
 imagealt = "Merry Christmas!"
 aliases = [
     "devopsish-054-kubernetes-docker-is-dead-friend-in-need-kubecon-videos-and-more-1011d4dd5cf0"

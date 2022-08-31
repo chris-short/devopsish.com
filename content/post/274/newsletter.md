@@ -146,9 +146,9 @@ Unprivileged sandboxing tool
 
 ## DevOps'ish Post of the Week
 
-[![@marinavance on Twitter)](https://shortcdn.com/file/devopsish/274-devopsish-post-of-the-week-001.webp)](https://twitter.com/marinavance/status/1541835993115856896)
+[![@marinavance on Twitter)](https://shortcdn.com/devopsish/274-devopsish-post-of-the-week-001.webp)](https://twitter.com/marinavance/status/1541835993115856896)
 
-[![@marinavance on Twitter)](https://shortcdn.com/file/devopsish/274-devopsish-post-of-the-week-002.webp)](https://twitter.com/AlexJonesax/status/1543678834100297730)
+[![@marinavance on Twitter)](https://shortcdn.com/devopsish/274-devopsish-post-of-the-week-002.webp)](https://twitter.com/AlexJonesax/status/1543678834100297730)
 
 ### Got a newsletter worthy post?
 

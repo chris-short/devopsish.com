@@ -8,7 +8,7 @@ draft = false
 slug = "047"
 tags = ["devops", "cloud native", "open source", "kubernetes", "intel", "linux", "google", "hashicorp", "nodejs", "containers", "Docker"]
 title = "047: DevOps Team, Kubernetes Everywhere, Scoble Still Awful, Intel Did Something Right..."
-image ="https://shortcdn.com/file/devopsish/chris-short-jason-hibbets-announcing-osdc-devops-team.jpg"
+image ="https://shortcdn.com/devopsish/chris-short-jason-hibbets-announcing-osdc-devops-team.jpg"
 imagealt = "Jason Hibbets and Chris Short announcing the Opensource.com DevOps Team at All Things Open 2017"
 aliases = [
     "devopsish-047-devops-team-kubernetes-everywhere-scoble-still-awful-intel-did-something-right-fa4dd75bc9b5"
@@ -21,7 +21,7 @@ If you [follow me on Twitter](https://twitter.com/ChrisShort), you know I spent 
 [**[Video] Continuous Delivery 101 from GoCD**](https://www.gocd.org/2017/07/13/introduction-continuous-delivery-101/?utm_campaign=CD_101_video&utm_medium=email&utm_source=devopsish&utm_content=cd_101_video&utm_term=)  
 This video series covers the history of CD, concepts, best practices, how to get started, and popular tools. You'll gain a holistic view of continuous delivery and a deeper understanding and appreciation of critical concepts. *SPONSORED*
 
-![I read [Last Week in AWS](https://ref.lastweekinaws.com/7h1z3x) religiously and you should too](https://shortcdn.com/file/devopsish/last-week-in-aws.png)  
+![I read [Last Week in AWS](https://ref.lastweekinaws.com/7h1z3x) religiously and you should too](https://shortcdn.com/devopsish/last-week-in-aws.png)  
 *I read [Last Week in AWS](https://ref.lastweekinaws.com/7h1z3x) religiously and you should too*  
 Corey Quinn's [**Last Week in AWS**](https://ref.lastweekinaws.com/7h1z3x): You Had Me at Free (Tier)
 *SPONSORED*

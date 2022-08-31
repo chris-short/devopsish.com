@@ -8,7 +8,7 @@ draft = false
 slug = "068"
 tags = ["devops", "cloud native", "open source", "kubernetes", "gdpr", "security", "infosec", "containers", "Docker"]
 title = "068: Screaming in the Cloud, GDPR, Kubernetes PoCs, InfoSec, and More"
-image ="https://shortcdn.com/file/devopsish/tiger-parrot.jpg"
+image ="https://shortcdn.com/devopsish/tiger-parrot.jpg"
 imagealt = "I'm not even sure what's going on here"
 imagecap = "I find some weird images when I'm making slides"
 

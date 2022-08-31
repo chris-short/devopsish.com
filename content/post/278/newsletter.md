@@ -13,7 +13,7 @@ title = "DevOps'ish 278: Intro to eBPF, Lawfare looks at open source, Sextortion
 
 I occasionally ask for writing prompts from folks on Twitter. Sometimes asking on social media works well. Other times it's giving someone a good URL. But this week, the people have spoken. They want to learn more about **eBPF**.
 
-![eBPF](https://shortcdn.com/file/devopsish/ebpf-logo.webp)
+![eBPF](https://shortcdn.com/devopsish/ebpf-logo.webp)
 
 ### What is eBPF?
 
@@ -214,7 +214,7 @@ Automatic Reliability Testing for Kubernetes Controllers
 
 ## DevOps'ish Post of the Week
 
-[![Sarah Drasner on Twitter: "I bet the things in your apps that don't work well have direct correspondence to people/teams not collaborating well. Stop separating team health from technical expertise/efficiency.")](https://shortcdn.com/file/devopsish/278-devopsish-post-of-the-week.webp)](https://twitter.com/sarah_edo/status/1551318133029236736/?utm_source=devopsish)
+[![Sarah Drasner on Twitter: "I bet the things in your apps that don't work well have direct correspondence to people/teams not collaborating well. Stop separating team health from technical expertise/efficiency.")](https://shortcdn.com/devopsish/278-devopsish-post-of-the-week.webp)](https://twitter.com/sarah_edo/status/1551318133029236736/?utm_source=devopsish)
 
 ### Got a newsletter worthy post?
 

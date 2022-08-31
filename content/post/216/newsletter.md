@@ -102,7 +102,7 @@ Wildcard DNS for any IP Address
 
 ## DevOps'ish Tweet of the Week
 
-[![@abbyfuller on Twitter](https://shortcdn.com/file/devopsish/216-devopsish-tweet-of-the-week.png)](https://twitter.com/abbyfuller/status/1388231403297406978)
+[![@abbyfuller on Twitter](https://shortcdn.com/devopsish/216-devopsish-tweet-of-the-week.png)](https://twitter.com/abbyfuller/status/1388231403297406978)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/216/notes/) to see what didn't make it to the newsletter but are still worth your time.
 

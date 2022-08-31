@@ -95,6 +95,6 @@ Flux CNCF webinar about Flux
 
 ## DevOps'ish Tweet of the Week
 
-[![Kelsey Hightower (@kelseyhightower on Twitter) "Let's say the bitcoin dream comes true, and we all get the 'freedom to transact', does racism, oppression, and the abuse of power disappear, or does it simply use bitcoin to fund it?"](https://shortcdn.com/file/devopsish/258-devopsish-tweet-of-the-week.webp)](https://twitter.com/kelseyhightower/status/1495809055088345088)
+[![Kelsey Hightower (@kelseyhightower on Twitter) "Let's say the bitcoin dream comes true, and we all get the 'freedom to transact', does racism, oppression, and the abuse of power disappear, or does it simply use bitcoin to fund it?"](https://shortcdn.com/devopsish/258-devopsish-tweet-of-the-week.webp)](https://twitter.com/kelseyhightower/status/1495809055088345088)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/258/notes/) to see what didn't make it to the newsletter but are still worth your time.

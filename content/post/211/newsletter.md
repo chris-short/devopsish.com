@@ -107,6 +107,6 @@ Automatic container image update for Argo CD
 
 ## DevOps'ish Tweet of the Week
 
-[![@thelongshanx on Twitter: "Shared this photo with my mostly-tech-industry pandemic-bubble and my non-tech sweetie replied: I'm gonna assume this is what you all mean by 'Ship it.'"](https://shortcdn.com/file/devopsish/211-devopsish-tweet-of-the-week.png)](https://twitter.com/thelongshanx/status/1375685164836134919)
+[![@thelongshanx on Twitter: "Shared this photo with my mostly-tech-industry pandemic-bubble and my non-tech sweetie replied: I'm gonna assume this is what you all mean by 'Ship it.'"](https://shortcdn.com/devopsish/211-devopsish-tweet-of-the-week.png)](https://twitter.com/thelongshanx/status/1375685164836134919)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/211/notes/) to see what didn't make it to the newsletter but are still worth your time.

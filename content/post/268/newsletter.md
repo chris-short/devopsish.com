@@ -100,7 +100,7 @@ I never like having to update devices on the road. But, this made me do it anywa
 
 [Demystifying the Kubernetes Iceberg: Part 1](https://asankov.dev/blog/2022/05/15/demystifying-the-kubernetes-iceberg-part-1/)  
 Anton Sankov  
-"**NOTE**: Even though I have been working with Kubernetes for almost three years at the time of this writing, I still don’t consider myself a Kubernetes expert. In fact, I was also not familiar with some of the more advanced concepts here, so I had to do some learning myself. And this is one of the reasons for writing this series of articles. So that we can learn and grow together, both my readers and me." That's an important thing to point out. I don't consider myself a Kubernetes expert either. While I'm probably more versed in it than I know (that's true because I learned so making all those bespoke configs for the dockershim removal docs team). Kubernetes is for distributed systems. Remember [above the line, below the line](https://shortcdn.com/file/devopsish/3380774.3380777.pdf). Like most things, you need to know the basics to build on additional concepts that get introduced further down the line. If you understand TCP/IP or HTTP, for example, there's a whole host of things you are now knowledgeable of that you don't realize at first.
+"**NOTE**: Even though I have been working with Kubernetes for almost three years at the time of this writing, I still don’t consider myself a Kubernetes expert. In fact, I was also not familiar with some of the more advanced concepts here, so I had to do some learning myself. And this is one of the reasons for writing this series of articles. So that we can learn and grow together, both my readers and me." That's an important thing to point out. I don't consider myself a Kubernetes expert either. While I'm probably more versed in it than I know (that's true because I learned so making all those bespoke configs for the dockershim removal docs team). Kubernetes is for distributed systems. Remember [above the line, below the line](https://shortcdn.com/devopsish/3380774.3380777.pdf). Like most things, you need to know the basics to build on additional concepts that get introduced further down the line. If you understand TCP/IP or HTTP, for example, there's a whole host of things you are now knowledgeable of that you don't realize at first.
 
 [Flux from End-to-End](https://fluxcd.io/docs/flux-e2e/)  
 Flux  
@@ -125,7 +125,7 @@ A vulnerability scanner for container images and filesystems
 
 ## DevOps'ish Post of the Week
 
-[![https://www.operationdvoretskyi.org #KubeConEU (Chris Lentricchia 🤙, @IAmCippino on Twitter)](https://shortcdn.com/file/devopsish/268-devopsish-tweet-of-the-week-2x.webp)](https://twitter.com/IAmCippino/status/1526827726635732994)
+[![https://www.operationdvoretskyi.org #KubeConEU (Chris Lentricchia 🤙, @IAmCippino on Twitter)](https://shortcdn.com/devopsish/268-devopsish-tweet-of-the-week-2x.webp)](https://twitter.com/IAmCippino/status/1526827726635732994)
 
 ### Got a newsletter worthy post?
 

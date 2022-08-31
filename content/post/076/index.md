@@ -8,7 +8,7 @@ draft = false
 slug = "076"
 tags = ["devops", "cloud native", "open source", "kubernetes", "security", "microservices", "Site Reliability Engineering", "SRE", "Docker"]
 title = "076: Hiring in DevOps, Security, Kubernetes, and More"
-image ="https://shortcdn.com/file/devopsish/076-web.jpg"
+image ="https://shortcdn.com/devopsish/076-web.jpg"
 
 +++
 

@@ -8,7 +8,7 @@ draft = false
 slug = "058"
 tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "intel", "spectre", "containers", "Site Reliability Engineering", "SRE", "Docker"]
 title = "058: It's Raining Kubernetes, Everything's Turning Up Serverless, and More!"
-image ="https://shortcdn.com/file/devopsish/sailboat-at-sunset.jpg"
+image ="https://shortcdn.com/devopsish/sailboat-at-sunset.jpg"
 imagealt = "Smooth Seas Ahead"
 aliases = [
     "devopsish-057-it-s-raining-kubernetes-everything-s-turning-up-serverless-and-more-8b8577bc3053",
@@ -89,4 +89,4 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 ## DevOps'ish Tweet of the Week
 
-![DevOps'ish 058 Tweet of the Week](https://shortcdn.com/file/devopsish/058-devopsish-tweet-of-the-week.png)]
+![DevOps'ish 058 Tweet of the Week](https://shortcdn.com/devopsish/058-devopsish-tweet-of-the-week.png)]

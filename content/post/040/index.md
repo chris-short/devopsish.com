@@ -8,7 +8,7 @@ draft = false
 slug = "040"
 tags = ["devops", "cloud native", "open source", "observability", "detroit", "solaris", "containers"]
 title = "040: Solaris, Observability, Shift Left, Ansible, and More"
-image ="https://shortcdn.com/file/devopsish/gonza-tacos-y-tequila.jpg"
+image ="https://shortcdn.com/devopsish/gonza-tacos-y-tequila.jpg"
 imagealt = "Live and Direct from Gonza Tacos y Tequila on Hillsborough St. in Raleigh, NC"
 aliases = [
     "devopsish-040-solaris-observability-shift-left-ansible-and-more-105ad2da1a4c"

@@ -84,7 +84,7 @@ Tom Simonite, WIRED
 Ernesto Van der Sar, TorrentFreak  
 *Literal record scratch* "I'm sorry what did you just ask me you racist 🤬 🤬🤬🤬 🤬? And yes! [I do support the EFF](https://chrisshort.net/causes#electronic-frontier-foundation), because of 🤬🤬 like this!"
 
-[Ableism And Disability Discrimination in New Surveillance Technologies (PDF)](https://shortcdn.com/file/devopsish/2022_05_23_CDT_Ableism_and_Disability_Discrimination_in_New_Surveillance_Technologies_report_final_r.pdf)  
+[Ableism And Disability Discrimination in New Surveillance Technologies (PDF)](https://shortcdn.com/devopsish/2022_05_23_CDT_Ableism_and_Disability_Discrimination_in_New_Surveillance_Technologies_report_final_r.pdf)  
 Center for Democracy & Technology  
 Something weird happened when I bookmarked this so I'm sharing the PDF from my own CDN. "How new surveillance technologies in education, policing, health care, and the workplace disproportionately harm disabled people"
 
@@ -159,7 +159,7 @@ A modern replacement for Redis and Memcached
 
 ## DevOps'ish Post of the Week
 
-[![I would have thought you already had at least 10,000! For what it's worth you doing the no-tracking, privacy-friendly thing is a big selling point for me tbh Kai (@KaiPMDH) on Twitter)](https://shortcdn.com/file/devopsish/270-devopsish-post-of-the-week.webp)](https://twitter.com/KaiPMDH/status/1531269812596391938)
+[![I would have thought you already had at least 10,000! For what it's worth you doing the no-tracking, privacy-friendly thing is a big selling point for me tbh Kai (@KaiPMDH) on Twitter)](https://shortcdn.com/devopsish/270-devopsish-post-of-the-week.webp)](https://twitter.com/KaiPMDH/status/1531269812596391938)
 
 ### Got a newsletter worthy post?
 

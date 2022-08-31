@@ -33,7 +33,7 @@ ArgoCon is designed to foster collaboration, discussion, and knowledge sharing o
 
 ## People
 
-![Fast cofounder and CEO Domm Holland. Picture via Fast](https://shortcdn.com/file/devopsish/Fast-cofounder-and-CEO-Domm-Holland.webp)  
+![Fast cofounder and CEO Domm Holland. Picture via Fast](https://shortcdn.com/devopsish/Fast-cofounder-and-CEO-Domm-Holland.webp)  
 [CEO of Failed Startup Fast Leaves Staff Hanging in Companywide Meeting](https://www.businessinsider.com/ceo-of-failed-startup-fast-leaves-staff-hanging-companywide-meeting-2022-4) ([archive.org](https://web.archive.org/web/20220408100743/https://www.businessinsider.com/ceo-of-failed-startup-fast-leaves-staff-hanging-companywide-meeting-2022-4))  
 [Leaked Screenshots and Audio Reveal the Implosion Inside Fast](https://www.businessinsider.com/leaked-screenshots-audio-stripe-fast-layoffs-2022-3) ([archive.org](https://web.archive.org/web/20220409102738/https://www.businessinsider.com/leaked-screenshots-audio-stripe-fast-layoffs-2022-3))  
 "CEO of Fast Domm Holland left employees hanging by a thread during an all-hands meeting that took place Tuesday, shortly after the company announced it would be closing its doors." Remember this face. Do yourself a favor and avoid this serial failure.
@@ -95,7 +95,7 @@ My first ever blog post at AWS.
 
 ## DevOps'ish Tweet of the Week
 
-[![Thinking this today .... (Berkubernetus @fuzzychef on Twitter)](https://shortcdn.com/file/devopsish/264-devopsish-tweet-of-the-week.webp)](https://twitter.com/fuzzychef/status/1512137902477627423)
+[![Thinking this today .... (Berkubernetus @fuzzychef on Twitter)](https://shortcdn.com/devopsish/264-devopsish-tweet-of-the-week.webp)](https://twitter.com/fuzzychef/status/1512137902477627423)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/264/notes/) to see what didn't make it to the newsletter but are still worth your time.
 

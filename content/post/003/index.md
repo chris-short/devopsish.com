@@ -8,7 +8,7 @@ draft = false
 slug = "003"
 tags = ["devops", "cloud native", "open source", "containers"]
 title = "003: Week of 1482642000"
-image ="https://shortcdn.com/file/devopsish/wrapping-paper.jpg"
+image ="https://shortcdn.com/devopsish/wrapping-paper.jpg"
 imagealt = "Merry Christmas and Happy DevOps! 🎅 🎄 🤶"
 aliases = [
     "003-week-of-1482642000-885ce5d0fee1"

@@ -11,7 +11,7 @@ title = "DevOps'ish 266: We did some good in the world, Kubernetes 1.24, Netflix
 
 Thank you to everyone that donated to my sister's [Walk for Wishes](https://secure2.wish.org/site/TR/;jsessionid=00000000.app202a?px=7065476&pg=personal&fr_id=4096&NONCE_TOKEN=CAB8CE6B5E882373D563373C7D9D2285) for Make-A-Wish® Michigan this week. We kinda crushed it for Lucy. Here's how the tally adds up as of 7 PM Saturday:
 
-[![2022 Walk For Wishes - Michigan(Make-A-Wish® Michigan)](https://shortcdn.com/file/devopsish/Make-a-Wish-Michigan-Walk-for-Wishes-2022.webp)](https://secure2.wish.org/site/TR?fr_id=4096&pg=entry)
+[![2022 Walk For Wishes - Michigan(Make-A-Wish® Michigan)](https://shortcdn.com/devopsish/Make-a-Wish-Michigan-Walk-for-Wishes-2022.webp)](https://secure2.wish.org/site/TR?fr_id=4096&pg=entry)
 
 First, we helped push the event over its goal ($366K raised, $360K goal; pat yourselves on the back, that's huge). Second, our "We Love Lucy" team raised the **third** highest amount of money ($16.5K) for the event. Third, your donations made my sister the **#4 individual fundraiser**. Fourth, the "We Love Lucy" team raised so much that we eclipsed all but the two major event sponsors as far as company's participating.
 
@@ -209,9 +209,9 @@ Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe ener
 
 Tweets, toots, reddit posts, etc. will now fill this section.  I want to open it to all social media platforms. If you see something, send it my way, please.
 
-[![Yo... This GitOps to Modern Practices Map from @williamcaban is amazing! #GitOps #IaC #DevOps (Chris Short @ChrisShort on Twitter)](https://shortcdn.com/file/devopsish/266-devopsish-tweet-of-the-week.webp)](https://twitter.com/ChrisShort/status/1522666771588788226)
+[![Yo... This GitOps to Modern Practices Map from @williamcaban is amazing! #GitOps #IaC #DevOps (Chris Short @ChrisShort on Twitter)](https://shortcdn.com/devopsish/266-devopsish-tweet-of-the-week.webp)](https://twitter.com/ChrisShort/status/1522666771588788226)
 
-The original graphic is spot on and available [here](https://shortcdn.com/file/devopsish/gitops-to-moden-practices.png): ![GitOps to Modern Practices](https://shortcdn.com/file/devopsish/gitops-to-moden-practices.png)
+The original graphic is spot on and available [here](https://shortcdn.com/devopsish/gitops-to-moden-practices.png): ![GitOps to Modern Practices](https://shortcdn.com/devopsish/gitops-to-moden-practices.png)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/266/notes/) to see what didn't make it to the newsletter but are still worth your time.
 

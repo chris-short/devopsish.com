@@ -8,7 +8,7 @@ draft = false
 slug = "086"
 tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "google", "knative", "survey", "build", "Docker"]
 title = "086: Last Chance, Kubernetes, Knative, Ansible, Google Next, and More"
-image ="https://shortcdn.com/file/devopsish/fox-86.jpg"
+image ="https://shortcdn.com/devopsish/fox-86.jpg"
 imagealt = "Fox"
 
 +++

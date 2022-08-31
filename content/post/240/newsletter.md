@@ -88,6 +88,6 @@ Now open source.
 
 ## DevOps'ish Tweet of the Week
 
-[![julia ferraioli @juliaferraioli on Twitter) "Mastodon founder Eugen Rochko told The Post on Thursday that Trump's site may violate Mastodon's licensing rules, which require developers to share any modifications and link to the original source code." *laughs in open source*](https://shortcdn.com/file/devopsish/240-devopsish-tweet-of-the-week.png)](https://twitter.com/juliaferraioli/status/1451381022013079553)
+[![julia ferraioli @juliaferraioli on Twitter) "Mastodon founder Eugen Rochko told The Post on Thursday that Trump's site may violate Mastodon's licensing rules, which require developers to share any modifications and link to the original source code." *laughs in open source*](https://shortcdn.com/devopsish/240-devopsish-tweet-of-the-week.png)](https://twitter.com/juliaferraioli/status/1451381022013079553)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/240/notes/) to see what didn't make it to the newsletter but are still worth your time.

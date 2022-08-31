@@ -98,7 +98,7 @@ I am not sure how much I'd pay for TweetDeck in its current form. It is lacking 
 
 ## DevOps'ish Tweet of the Week
 
-[![Tech folx: don't install random software from the internet! Also tech folx: ooooh, let's curl this installation script! — julia ferraioli (@juliaferraioli) February 9, 2021](https://shortcdn.com/file/devopsish/205-devopsish-tweet-of-the-week.png)](https://twitter.com/juliaferraioli/status/1359280041624915968)
+[![Tech folx: don't install random software from the internet! Also tech folx: ooooh, let's curl this installation script! — julia ferraioli (@juliaferraioli) February 9, 2021](https://shortcdn.com/devopsish/205-devopsish-tweet-of-the-week.png)](https://twitter.com/juliaferraioli/status/1359280041624915968)
 
 Please comment on this issue of DevOps'ish on [/r/devopsish](https://www.reddit.com/r/devopsish/comments/ljfra9/comments_from_devopsish_205_kubernetes_pod/).
 

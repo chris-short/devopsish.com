@@ -8,7 +8,7 @@ draft = false
 slug = "021"
 tags = ["devops", "cloud native", "open source", "docker", "golang", "linux", "google", "uber", "lambda", "Docker Inc"]
 title = "021: Week of 1493524800"
-image ="https://shortcdn.com/file/devopsish/tranquil-lake.jpg"
+image ="https://shortcdn.com/devopsish/tranquil-lake.jpg"
 imagealt = "April Showers Better Bring a TON of May Flowers"
 aliases = [
     "devopsish-weekly-021-week-of-1493524800-c976f19e5099"
@@ -30,7 +30,7 @@ Meanwhile, back on the [**DevOps**](https://devopsish.com/) ranch, it was a VERY
 
 [Going multi-cloud with Google Cloud Endpoints and AWS Lambda](https://cloudplatform.googleblog.com/2017/04/going-multi-cloud-with-Google-Cloud-Endpoints-and-AWS-Lambda.html): This is what cloud *should* be! You want to use them for some things? Fine. You want to use us for other things? Great! You want to use us both to make your product more awesome, resilient, and cost-effective? **FANTASTIC**!
 
-![Brian Grant's Kubernetes Simplified Architectural Summary](https://shortcdn.com/file/devopsish/kubernetes-simplified-architecture.png)  
+![Brian Grant's Kubernetes Simplified Architectural Summary](https://shortcdn.com/devopsish/kubernetes-simplified-architecture.png)  
 *Brian Grant's Kubernetes Simplified Architectural Summary*
 
 Brian Grant has laid out the [Kubernetes Architecture in a way that is very consumable](https://groups.google.com/forum/#!topic/kubernetes-dev/yXMjoMAZRN4) yet sufficiently detailed.
@@ -69,7 +69,7 @@ Still trying to figure out CAA records? Check out [J. Edward Durrett's SANS ISC 
 
 ## Department of Next Year's Old Tech
 
-![Docker Project Map](https://shortcdn.com/file/devopsish/docker-project-map.jpg)
+![Docker Project Map](https://shortcdn.com/devopsish/docker-project-map.jpg)
 
 How do you look at this graphic from Docker and not think Docker is killing it's branding for some reason? [Docker's recent rebranding efforts offer a lesson in public decision-making](https://opensource.com/open-organization/17/4/how-branding-decisions-open).
 

@@ -8,7 +8,7 @@ draft = false
 slug = "016"
 tags = ["devops", "cloud native", "open source", "github", "women in tech", "google", "open floor plans", "ntp", "Susan Fowler"]
 title = "016: Week of 1490500800"
-image ="https://shortcdn.com/file/devopsish/hard-at-work.jpg"
+image ="https://shortcdn.com/devopsish/hard-at-work.jpg"
 imagealt = "Hard at Work"
 
 +++
@@ -84,5 +84,5 @@ A utility company made a horrific mistake this week by letting a lesser experien
 
 ## DevOps'ish One-Liner of the Week
 
-![This is so great! Thank you, David Neal](https://shortcdn.com/file/devopsish/melts-in-production-not-in-development.jpg)  
+![This is so great! Thank you, David Neal](https://shortcdn.com/devopsish/melts-in-production-not-in-development.jpg)  
 *This is so great! Thank you, David Neal*

@@ -8,7 +8,7 @@ draft = false
 slug = "045"
 tags = ["devops", "cloud native", "open source", "kubernetes", "mental health", "github", "women in tech", "containers", "Docker"]
 title = "045: Sick Days, Kubernetes, Kaspersky, Go, AWS, and More!"
-image ="https://shortcdn.com/file/devopsish/alligator.jpg"
+image ="https://shortcdn.com/devopsish/alligator.jpg"
 imagealt = "Watch Out! Them Gators will bite ya!"
 aliases = [
     "devopsish-045-sick-days-kubernetes-kaspersky-go-aws-and-more-c1dba1d87313"

@@ -8,7 +8,7 @@ draft = false
 slug = "031"
 tags = ["devops", "cloud native", "open source", "kubernetes", "interview", "mental health", "hiring", "gophercon"]
 title = "031: Let's Encrypt, Go, Kubernetes, zinc, Mental Health, Interviewing"
-image ="https://shortcdn.com/file/devopsish/cheeseman-park.jpg"
+image ="https://shortcdn.com/devopsish/cheeseman-park.jpg"
 imagealt = "Cheesman Park in Denver, Colorado (I went ghost hunting here once)"
 aliases = [
     "devopsish-031-let-s-encrypt-go-kubernetes-zinc-mental-health-interviewing-400a4f11fdf7"
@@ -80,4 +80,4 @@ Are you a curious mind? [Full Stack Fest](https://2017.fullstackfest.com) is a w
 
 ## DevOps'ish Tweet of the Week
 
-[![031 Tweet of the Week](https://shortcdn.com/file/devopsish/031-tweet-of-the-week.png)](https://twitter.com/chrisshort/status/882960128445747202)
+[![031 Tweet of the Week](https://shortcdn.com/devopsish/031-tweet-of-the-week.png)](https://twitter.com/chrisshort/status/882960128445747202)

@@ -8,7 +8,7 @@ draft = false
 slug = "devopsdays-raleigh-2017-book-club"
 tags = ["devops", "cloud native", "open source", "books", "infrastructure"]
 title = "DevOpsDays Raleigh 2017 Book Club"
-image = "https://shortcdn.com/file/devopsish/DevOpsDays-Raleigh-2017-Book-Club.jpg"
+image = "https://shortcdn.com/devopsish/DevOpsDays-Raleigh-2017-Book-Club.jpg"
 imagealt = "DevOpsDays Raleigh 2017 Speakers and Attendees During the Book Club Open Space"
 aliases = [
     "devopsdays-raleigh-2017-book-club-e5dccc8f7943"

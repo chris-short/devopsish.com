@@ -10,7 +10,7 @@ tags = ["Kubernetes", "Argo", "Okta", "Apple", "SLOs", "Lapsus$", "GitOps", "mtr
 title = "DevOps'ish 262: Docker whales, Okta and Lapsus$ galore, Apple Outage, Kubernetes storage, using mtr, Kubernetes events in Slack, and more"
 +++
 
-[![ChrisShort (@ChrisShort on Twitter) "Going through some of Max’s stuff today... (picture of Docker whale stuffed toys) Should I tell them???"](https://shortcdn.com/file/devopsish/262-Intro.webp)](https://twitter.com/ChrisShort/status/1507816647217790982)
+[![ChrisShort (@ChrisShort on Twitter) "Going through some of Max’s stuff today... (picture of Docker whale stuffed toys) Should I tell them???"](https://shortcdn.com/devopsish/262-Intro.webp)](https://twitter.com/ChrisShort/status/1507816647217790982)
 
 DevOps'ish is brought to you our friends at [**Honeycomb**](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup).  
 ***"Stop Letting Complexity Slow You Down"***  
@@ -91,6 +91,6 @@ GitHub management with Pulumi sounds like it'd be fun enough to try.
 
 ## DevOps'ish Tweet of the Week
 
-[![やすなり工業 (@ysnr_ysd on Twitter) "I can't..."](https://shortcdn.com/file/devopsish/262-devopsish-tweet-of-the-week.webp)](https://twitter.com/ysnr_ysd/status/1505006506957176837)
+[![やすなり工業 (@ysnr_ysd on Twitter) "I can't..."](https://shortcdn.com/devopsish/262-devopsish-tweet-of-the-week.webp)](https://twitter.com/ysnr_ysd/status/1505006506957176837)
 
 Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/262/notes/) to see what didn't make it to the newsletter but are still worth your time.

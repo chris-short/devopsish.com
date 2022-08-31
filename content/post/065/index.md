@@ -8,7 +8,7 @@ draft = false
 slug = "065"
 tags = ["devops", "cloud native", "open source", "change", "kubernetes", "docker", "dropbox", "ddos", "Docker Inc", "Site Reliability Engineering", "SRE"]
 title = "065: Change, Dropbox, GitHub DDoS, Kubernetes, Docker, and More!"
-image ="https://shortcdn.com/file/devopsish/montgomery-alabama.jpg"
+image ="https://shortcdn.com/devopsish/montgomery-alabama.jpg"
 imagealt = "Downtown Montgomery, Alabama"
 imagecap = "Downtown Montgomery, Alabama"
 
