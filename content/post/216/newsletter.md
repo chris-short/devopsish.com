@@ -104,6 +104,6 @@ Wildcard DNS for any IP Address
 
 [![@abbyfuller on Twitter](https://shortcdn.com/devopsish/216-devopsish-tweet-of-the-week.png)](https://twitter.com/abbyfuller/status/1388231403297406978)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/216/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/216/notes.md) to see what didn't make it to the newsletter but are still worth your time.
 
 Yes, I just wrote a newsletter with a migraine.

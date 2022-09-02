@@ -115,5 +115,5 @@ Remote shell into ephemeral environments 🐚 🦀
 
 [!["Japanese textbooks: cute, 'programming is fun!' vibe. American textbooks: eldritch horrors, chronicles of riddick cosplay."](https://shortcdn.com/devopsish/187-devopsish-tweet-of-the-week.png)](https://twitter.com/gl4cierblue/status/1313994061745975297)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/187/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/187/notes.md) to see what didn't make it to the newsletter.
 

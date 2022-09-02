@@ -19,7 +19,7 @@ title = "143: Fresh caught Pacific Tanzu, Cluster API, good God Google, JavaScri
 1. [It's not always true, but sometimes it is true.](https://www.reddit.com/r/kubernetes/comments/ctn93i/its_not_always_true_but_sometimes_it_is_true/)
 1. [walmartlabs/kubeman](https://github.com/walmartlabs/kubeman)
 
-[See the top ten →](https://devopsish.com/143/notes/)
+[See the top ten →](https://github.com/chris-short/devopsish.com/blob/main/content/post/143/notes.md)
 
 ## Events
 
@@ -81,4 +81,4 @@ Please do the open source community a favor and read the whole thread.
 
 {{< tweet 1166100939792474112 >}}
 
-Notes from this week's issue can be found [here](https://devopsish.com/143/notes/).
+Notes from this week's issue can be found [here](https://github.com/chris-short/devopsish.com/blob/main/content/post/143/notes.md).

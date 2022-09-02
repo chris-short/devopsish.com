@@ -23,7 +23,7 @@ Just when you thought a toxic, old, white guy with lousy hygiene was going to do
 
 * [Alert Automation for your Cloud Infrastructure](https://www.bluematador.com/devopsish) *SPONSORED*
 
-[See the top ten →](https://devopsish.com/146/notes/)
+[See the top ten →](https://github.com/chris-short/devopsish.com/blob/main/content/post/146/notes.md)
 
 ## Events
 
@@ -105,4 +105,4 @@ Balance rapid feature development and production stability with alert automation
 
 {{< tweet 1174116297468252160 >}}
 
-[See Notes →](https://devopsish.com/146/notes/)
+[See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/146/notes.md)

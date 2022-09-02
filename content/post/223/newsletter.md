@@ -96,4 +96,4 @@ Streaming replication for SQLite.
 
 [![Cake is Kate. Always has been. 💫 @kefimochi: "You're not a machine. You can't be 110% productive at all times, and that's okay."](https://shortcdn.com/devopsish/223-devopsish-tweet-of-the-week.png)](https://twitter.com/kefimochi/status/1405222523512365056)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/223/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/223/notes.md) to see what didn't make it to the newsletter but are still worth your time.

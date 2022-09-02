@@ -112,4 +112,4 @@ SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC
 
 [![@nicolefv on Twitter: Why do we listen to people who have notably scammed people out of billions of dollars and ::checks notes:: whose entire business model relies on people returning to an office? My dude your passive aggressive hot take is bad](https://shortcdn.com/devopsish/218-devopsish-tweet-of-the-week.png)](https://twitter.com/nicolefv/status/1392851719797673992)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/218/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/218/notes.md) to see what didn't make it to the newsletter but are still worth your time.

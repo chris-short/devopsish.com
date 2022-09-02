@@ -123,6 +123,6 @@ The proof of concept for the [PrintNightmare](https://us-cert.cisa.gov/ncas/curr
 
 {{< tweet 1411073985765314560 >}}
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/225/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/225/notes.md) to see what didn't make it to the newsletter but are still worth your time.
 
 **Feel free to [comment on this week's issue on Reddit](https://www.reddit.com/r/devopsish/comments/odktbv/devopsish_225_aws_infinidash_gpt3_via_github/)**

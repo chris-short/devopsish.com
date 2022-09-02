@@ -92,4 +92,4 @@ A curated list of awesome console services (reachable via HTTP, HTTPS and other 
 
 [![Liz Fong-Jones (方禮真) (@lizthegrey) on Twitter) "Dear event organizers, until rapid test+antiviral is a thing, your event is not accessible to immunocompromised unless you have: (1) mandatory mask/vaxx/rapid test for entry, (2) physical distancing in seating _and_ lines/pickup, (3) distancing preference wristbands for mingling"](https://shortcdn.com/devopsish/243-devopsish-tweet-of-the-week.webp)](https://twitter.com/lizthegrey/status/1458491938319974403)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/243/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/243/notes.md) to see what didn't make it to the newsletter but are still worth your time.

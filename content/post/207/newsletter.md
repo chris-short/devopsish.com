@@ -104,4 +104,4 @@ The next best thing after Bloomberg Terminal
 
 [![amye on Twitter: "Ok, so everyone is just a little weird this week, right? Yes. This is because there is such a thing as 'ambiguous loss', and we are all coming up on the year anniversaries of 'how the world turned upside down'. So. That is why everything is weird."](https://shortcdn.com/devopsish/207-devopsish-tweet-of-the-week.png)](https://twitter.com/amye/status/1364685306646028288)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/207/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/207/notes.md) to see what didn't make it to the newsletter but are still worth your time.

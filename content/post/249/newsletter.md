@@ -15,7 +15,7 @@ Happy Holidays everyone! This is the last DevOps'ish of the year 2021. This mont
 
 [DevOps'ish](https://devopsish.com/) for a fresh theme. I'm considering a VERY simplistic version of the website (one designed on this side of the century). It's a work in progress, but I hope to roll it out over the next week. I want to point out this is in an MVP stage. The final product will look different. But, at its core, I like this theme because it keeps things clean and simple (visually and from a maintainers perspective). Would you mind hitting reply and telling me what you think?
 
-If you're wondering why I haven't built an [Index](https://devopsish.com/categories/indexes/) for the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) vulnerability, trust me, I've wanted to but, I have not had the time or have been in too much pain over the last few weeks to dedicate time to it. This coming week, I intend to assemble it. For now, check the [notes from this week's newsletter](https://devopsish.com/249/notes/) as well as the [past](https://devopsish.com/248/notes/) [two](https://devopsish.com/247/notes/).
+If you're wondering why I haven't built an [Index](https://devopsish.com/categories/indexes/) for the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) vulnerability, trust me, I've wanted to but, I have not had the time or have been in too much pain over the last few weeks to dedicate time to it. This coming week, I intend to assemble it. For now, check the [notes from this week's newsletter](https://github.com/chris-short/devopsish.com/blob/main/content/post/249/notes.md) as well as the [past](https://github.com/chris-short/devopsish.com/blob/main/content/post/248/notes.md) [two](https://github.com/chris-short/devopsish.com/blob/main/content/post/247/notes.md).
 
 ## People
 
@@ -119,4 +119,4 @@ jq for binary formats
 
 [![commandasaurus 🦦 (@amcasari) on Twitter) "We can *already* give you one example of where this falls short — attribution in open source. Receipts: https://arxiv.org/abs/2103.11007"](https://shortcdn.com/devopsish/249-devopsish-tweet-of-the-week.webp)](https://twitter.com/amcasari/status/1473321726226452483)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/249/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/XXX/notes.md) to see what didn't make it to the newsletter but are still worth your time.

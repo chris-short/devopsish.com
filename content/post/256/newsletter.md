@@ -98,4 +98,4 @@ Learn how the new 64-bit OS handles work compared to 32-bit.
 
 [![Jason H. Moore, PhD (@moorejh on Twitter) "#sciencetwitter"](https://shortcdn.com/devopsish/256-devopsish-tweet-of-the-week.webp)](https://twitter.com/moorejh/status/1491495889809993728)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/256/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/256/notes.md) to see what didn't make it to the newsletter but are still worth your time.

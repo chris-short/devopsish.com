@@ -123,4 +123,4 @@ ripgrep recursively searches directories for a regex pattern while respecting yo
 
 [![DevOps'ish Tweet of the Week from @JoeBiden](https://shortcdn.com/devopsish/191-devopsish-tweet-of-the-week.png)](https://twitter.com/JoeBiden/status/1325118992785223682)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/191/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/191/notes.md) to see what didn't make it to the newsletter.

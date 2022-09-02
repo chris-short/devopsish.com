@@ -11,7 +11,7 @@ title = "DevOps'ish 231: Kubernetes 1.22 release team livestream, problems in Pe
 
 +++
 
-My military service and tech worlds collided this week. I can't say much about it yet but, I've been insanely busy with an array of things I never thought I'd need to do. More to come later. Join the [DevOps'ish subreddit](https://www.reddit.com/r/devopsish/) and talk about how bad the intro was. Our how dope the [notes page](https://devopsish.com/231/notes/) is for this issue.
+My military service and tech worlds collided this week. I can't say much about it yet but, I've been insanely busy with an array of things I never thought I'd need to do. More to come later. Join the [DevOps'ish subreddit](https://www.reddit.com/r/devopsish/) and talk about how bad the intro was. Or how dope the [notes page](https://github.com/chris-short/devopsish.com/blob/main/content/post/231/notes.md) is for this issue.
 
 ## People
 
@@ -116,4 +116,4 @@ Put a fork in DC/OS. It's done.
 
 [![Alex Cohen (@anothercohen) on Twitter: "Congrats on your $2m seed round. Your small team now only has 3 months of runway after paying for..."](https://shortcdn.com/devopsish/231-devopsish-tweet-of-the-week.png)](https://twitter.com/anothercohen/status/1427753293900500997)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/231/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/231/notes.md) to see what didn't make it to the newsletter but are still worth your time.

@@ -89,4 +89,4 @@ Like jq, but for HTML.
 
 [![Adam Grant on Twitter: "63 studies: women who assert their ideas, make direct requests, and advocate for themselves are liked less. They're also less likely to get hired—and it hasn't improved over time. It's 2021. When will we stop punishing dominant women for violating outdated gender stereotypes? https://t.co/7tlyIQxW9E" / Twitter](https://shortcdn.com/devopsish/234-devopsish-tweet-of-the-week.png)](https://twitter.com/adammgrant/status/1418920379708489734)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/234/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/234/notes.md) to see what didn't make it to the newsletter but are still worth your time.

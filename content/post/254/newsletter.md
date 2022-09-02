@@ -94,4 +94,4 @@ Kubernetes admission webhook that uses cosign verify to check the subject and is
 
 [![jill wohlner (@JillWohlner on Twitter) "Okay, but actually starting your career remote _does_ sound difficult to me (and I say this having worked remotely for like 6 years). I'm not saying it's not doable, but I am saying that it sounds hard!"](https://shortcdn.com/devopsish/254-devopsish-tweet-of-the-week.webp)](https://twitter.com/JillWohlner/status/1486370807009873924)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/254/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/254/notes.md) to see what didn't make it to the newsletter but are still worth your time.

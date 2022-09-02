@@ -113,4 +113,4 @@ This thing looks wild. "Nvidia and IBM propose a new GPU-SSD interoperability fr
 
 [![CyclingTips (@cyclingtips on Twitter) "This is everything 😍"](https://shortcdn.com/devopsish/261-devopsish-tweet-of-the-week.webp)](https://twitter.com/cyclingtips/status/1503446251148230656)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/261/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/261/notes.md) to see what didn't make it to the newsletter but are still worth your time.

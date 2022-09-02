@@ -90,4 +90,4 @@ Kubernetes deployment visibility like a pro
 
 {{< tweet 1237387483987374083 >}}
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/171/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/171/notes.md) to see what didn't make it to the newsletter.

@@ -93,4 +93,4 @@ Bash script to check if a domain or list of domains can be spoofed based in DMAR
 
 [![Ian Coldwater 📦💥 (@IanColdwater on Twitter) "It's frankly miraculous that the Internet works at all"](https://shortcdn.com/devopsish/252-devopsish-tweet-of-the-week.webp)](https://twitter.com/IanColdwater/status/1480595046449700864)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/252/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/252/notes.md) to see what didn't make it to the newsletter but are still worth your time.

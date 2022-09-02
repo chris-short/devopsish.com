@@ -122,4 +122,4 @@ If CSAIL does it like this, I'm putting in too much effort.
 
 [![MIT CSAIL (@MIT_CSAIL) on Twitter) "How to regex. (comic v/@garabatokid)"](https://shortcdn.com/devopsish/245-devopsish-tweet-of-the-week.png)](https://twitter.com/MIT_CSAIL/status/1463587220841910272)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/245/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/245/notes.md) to see what didn't make it to the newsletter but are still worth your time.

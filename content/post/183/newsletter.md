@@ -111,5 +111,5 @@ V attempts to answer, "Fast compilation, Simplicity & maintainability, Great per
 
 {{< tweet 1303529884862431232 >}}
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/183/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/183/notes.md) to see what didn't make it to the newsletter.
 

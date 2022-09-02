@@ -119,4 +119,4 @@ Open source Firebase + Heroku to develop, scale and secure serverless apps on Ku
 
 [![🐹 Instafluff on Twitter: "Evolution https://t.co/NMQbxpvqB1" / Twitter](https://shortcdn.com/devopsish/227-devopsish-tweet-of-the-week.png)](https://twitter.com/instaflufftv/status/1414674634440540160)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/227/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/227/notes.md) to see what didn't make it to the newsletter but are still worth your time.

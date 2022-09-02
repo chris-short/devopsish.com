@@ -108,4 +108,4 @@ A curated list of replacements for existing software written in Rust
 
 [![@holly_cummins on Twitter: "Maybe ... it depends how generous your definition of 'picture of' is :)"](https://shortcdn.com/devopsish/220-devopsish-tweet-of-the-week.png)](https://twitter.com/holly_cummins/status/1397951970502119431)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/220/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/220/notes.md) to see what didn't make it to the newsletter but are still worth your time.

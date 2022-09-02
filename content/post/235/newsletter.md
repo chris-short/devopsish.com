@@ -85,4 +85,4 @@ What a time to be alive. An in-kernel SMB3 server AND an NTFS driver. 1998 me is
 
 [![🌈 Andrew Bennett ☄️ (@TheRealBnut) on Twitter: "It is decided. Instead of internal wikis/confluence/etc, big business will now hire bards who wander from team to team to teach the lore."](https://shortcdn.com/devopsish/235-devopsish-tweet-of-the-week.png)](https://twitter.com/TheRealBnut/status/1437655865570430984)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/235/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/235/notes.md) to see what didn't make it to the newsletter but are still worth your time.

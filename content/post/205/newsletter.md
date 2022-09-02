@@ -102,4 +102,4 @@ I am not sure how much I'd pay for TweetDeck in its current form. It is lacking 
 
 Please comment on this issue of DevOps'ish on [/r/devopsish](https://www.reddit.com/r/devopsish/comments/ljfra9/comments_from_devopsish_205_kubernetes_pod/).
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/205/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/205/notes.md) to see what didn't make it to the newsletter but are still worth your time.

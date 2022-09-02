@@ -96,4 +96,4 @@ Asynchronous data replication for Kubernetes CSI storage
 
 [![amy nguyen (@amyngyn) on Twitter: "Google encouraged employees who experienced harassment/assault to use their Employee Assistance Program benefits (provided by Lyra Health), then pressured counselors to provide records of their sessions to use in court when those employees filed lawsuits https://t.co/jTy9vwws5f"](https://shortcdn.com/devopsish/228-devopsish-tweet-of-the-week.png)](https://twitter.com/instaflufftv/status/1414674634440540160)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/228/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/228/notes.md) to see what didn't make it to the newsletter but are still worth your time.

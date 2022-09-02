@@ -27,7 +27,7 @@ Take it a step further and consider everything outside of that 39 bits per secon
 1. [Dell announces new Linux XPS 13 developer edition 7390 laptop](https://www.cyberciti.biz/linux-news/dell-announces-new-linux-xps-13-developer-edition-7390-laptop/)
 1. [Female-free speaker list causes PHP show to collapse when diversity-oriented devs jump ship](https://www.theregister.co.uk/2019/08/27/php_europe_cancelled/)
 
-[See the top ten →](https://devopsish.com/144/notes/)
+[See the top ten →](https://github.com/chris-short/devopsish.com/blob/main/content/post/144/notes.md)
 
 ## Events
 
@@ -98,4 +98,4 @@ Balance rapid feature development and production stability with alert automation
 
 {{< tweet 1169713613088722944 >}}
 
-[See Notes →](https://devopsish.com/144/notes/)
+[See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/144/notes.md)

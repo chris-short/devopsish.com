@@ -160,4 +160,4 @@ CLI Epub Reader
 
 [![DevOps'ish 195 Tweet of the Week](https://shortcdn.com/devopsish/195-devopsish-tweet-of-the-week.png)](https://twitter.com/Dixie3Flatline/status/1333549755952087040)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/195/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/195/notes.md) to see what didn't make it to the newsletter.

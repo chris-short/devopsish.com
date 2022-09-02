@@ -85,4 +85,4 @@ I like to remind people in 1994 I paid $300 for a 1.6 GB hard drive one summer. 
 
 [![Nicole Holliday (@mixedlinguist on Twitter) "I am once again begging companies with computer scientists to actually hire social scientists instead of reading a summary of their ideas and then sloppily applying them to massive million-dollar applications. A lot of y'all have never studied humans and it shows!"](https://shortcdn.com/devopsish/257-devopsish-tweet-of-the-week.webp)](https://twitter.com/mixedlinguist/status/1493213892620832776)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/257/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/257/notes.md) to see what didn't make it to the newsletter but are still worth your time.

@@ -86,4 +86,4 @@ Thundra allows you to natively debug your serverless applications on the cloud w
 
 {{< tweet 1248953443361918977 >}}
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/176/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/176/notes.md) to see what didn't make it to the newsletter.

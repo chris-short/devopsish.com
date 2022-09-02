@@ -29,7 +29,7 @@ Now you can wear your inside joke on your chest, and your heart on your sleeve a
 1. [Ansible Crash Course](https://www.thecloud.coach/ansible-crash-course)
 1. [Detecting Agile BS](https://shortcdn.com/devopsish/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 
-[See the top ten →](https://devopsish.com/149/notes/)
+[See the top ten →](https://github.com/chris-short/devopsish.com/blob/main/content/post/149/notes.md)
 
 ## Events
 
@@ -97,4 +97,4 @@ woah. @SlackHQ TIL, and i ❤️ you! pic.twitter.com/vLJphX0Vxe
 
 - mo (@usrdev) [October 8, 2019](https://twitter.com/usrdev/status/1181695563743539201?ref_src=twsrc%5Etfw)
 
-[See Notes →](https://devopsish.com/149/notes/)
+[See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/149/notes.md)

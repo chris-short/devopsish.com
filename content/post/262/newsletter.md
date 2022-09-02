@@ -93,4 +93,4 @@ GitHub management with Pulumi sounds like it'd be fun enough to try.
 
 [![やすなり工業 (@ysnr_ysd on Twitter) "I can't..."](https://shortcdn.com/devopsish/262-devopsish-tweet-of-the-week.webp)](https://twitter.com/ysnr_ysd/status/1505006506957176837)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/262/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/262/notes.md) to see what didn't make it to the newsletter but are still worth your time.

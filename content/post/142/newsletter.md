@@ -93,4 +93,4 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 {{< tweet 1165383130812833794 >}}
 
-Notes from this week's issue can be found [here](https://devopsish.com/142/notes/).
+Notes from this week's issue can be found [here](https://github.com/chris-short/devopsish.com/blob/main/content/post/142/notes.md).

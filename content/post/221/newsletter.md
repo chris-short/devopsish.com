@@ -62,7 +62,7 @@ We revamped the second-factor authentication in Teleport 6.0. This post provides
 "The Biden administration is taking steps to counter the growing threat of cyberattacks on U.S. businesses, and encouraging companies to do more to protect themselves." Probably the appropriate response as US organizations are being laid waste by ransomeware of late.
 
 [This is not a drill: VMware vuln with 9.8 severity rating is under attack](https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/)  
-As seen in the [Notes from DevOps'ish 220](https://devopsish.com/220/notes), there is a really bad vCenter vulnerability out there. "Code execution flaw in vCenter is exploited to install web shell on unpatched machines."
+As seen in the [Notes from DevOps'ish 220](https://github.com/chris-short/devopsish.com/blob/main/content/post/221/notes.md), there is a really bad vCenter vulnerability out there. "Code execution flaw in vCenter is exploited to install web shell on unpatched machines."
 
 [The M.T.A. Is Breached by Hackers as Cyberattacks Surge](https://www.nytimes.com/2021/06/02/nyregion/mta-cyber-attack.html)  
 "Hackers with suspected ties to China penetrated the New York transit agency's computer systems in April, an M.T.A. document shows. Transit officials say the intrusion did not pose a risk to riders."
@@ -118,4 +118,4 @@ Wasm powered Jupyter running in the browser 💡
 
 [![Jennifer Davis @sigje on Twitter: "I wish instead of "remote work" we started talking about distributed teams." 🧵](https://shortcdn.com/devopsish/221-devopsish-tweet-of-the-week.png)](https://twitter.com/sigje/status/1401268238739120131)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/221/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/221/notes.md) to see what didn't make it to the newsletter but are still worth your time.

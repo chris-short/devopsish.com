@@ -83,4 +83,4 @@ Through this simple analogy by 451 Research, get a better understanding of virtu
 
 [![Kylie RoBOOson 👻 (@kyliebytes) on Twitter: "LOL — Tim Cook says employees who leak memos do not belong at Apple, according to leaked memo https://www.theverge.com/2021/9/22/22687747/tim-cook-employee-leak-memos-do-not-belong-at-apple"](https://shortcdn.com/devopsish/236-devopsish-tweet-of-the-week.png)](https://twitter.com/kyliebytes/status/1440731799714369536)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/236/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/236/notes.md) to see what didn't make it to the newsletter but are still worth your time.

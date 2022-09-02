@@ -105,4 +105,4 @@ DNS benchmarking tool
 
 [![Jaana Dogan ヤナ ドガン (@rakyll) on Twitter: "Hard skills are hard, soft skills are harder."](https://shortcdn.com/devopsish/232-devopsish-tweet-of-the-week.png)](https://twitter.com/rakyll/status/1430696443044532228)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/232/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/232/notes.md) to see what didn't make it to the newsletter but are still worth your time.
