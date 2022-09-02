@@ -89,4 +89,4 @@ The `TopologyManager` feature enables NUMA alignment of CPUs and peripheral devi
 
 {{< tweet 1245365381746704391 >}}
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/174/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/174/notes.md) to see what didn't make it to the newsletter.

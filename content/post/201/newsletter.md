@@ -107,4 +107,4 @@ Sandstorm Kubernetes Client - Convenience tools to interact with Kubernetes
 
 [![Meanwhile in the "lies @elastic told us" department... How it started: vs. How it's going:](https://shortcdn.com/devopsish/201-devopsish-tweet-of-the-week.png)](https://twitter.com/QuinnyPig/status/1350205491750662146?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/201/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/201/notes.md) to see what didn't make it to the newsletter.

@@ -15,7 +15,7 @@ If you follow me on Twitter you know it has been a [roller](https://twitter.com/
 
 Also, if you use Amazon EKS, I have a new newsletter called [**EKS News**](https://eks.news/?utm_source=newsletter&utm_medium=258&utm_campaign=devopsish).
 
-**Editor's note**: I cannot ignore the war being waged in Europe. But, this newsletter is a tech newsletter. Generally, the audience responds negatively to "political" news. But, one person's politics, is another person's life. All the [Ukraine news](https://devopsish.com/259/notes/#ukraine) is here in the notes. Don't if you don't want to see it. [**Skip it**](https://devopsish.com/259/notes/#notes)!
+**Editor's note**: I cannot ignore the war being waged in Europe. But, this newsletter is a tech newsletter. Generally, the audience responds negatively to "political" news. But, one person's politics, is another person's life. All the [Ukraine news](https://github.com/chris-short/devopsish.com/blob/main/content/post/259/notes.md#ukraine) is here in the notes. Don't if you don't want to see it. [**Skip it**](https://github.com/chris-short/devopsish.com/blob/main/content/post/259/notes.md#notes)!
 
 DevOps'ish is brought to you our friends at [**Honeycomb**](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup).  
 ***"Stop Letting Complexity Slow You Down"***  
@@ -110,4 +110,4 @@ I'm actually kinda excited about these. I could see myself using an OS that supp
 
 [![Sasha Rosenbaum 🇺🇦 (@DivineOps on Twitter) "Razom for Ukraine Registered 501(c)(3) organization, tax-exempt in the US, check if your company offers a donation match https://razomforukraine.org/donate/"](https://shortcdn.com/devopsish/259-devopsish-tweet-of-the-week.webp)](https://twitter.com/DivineOps/status/1497941828527538179)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/259/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/259/notes.md) to see what didn't make it to the newsletter but are still worth your time.

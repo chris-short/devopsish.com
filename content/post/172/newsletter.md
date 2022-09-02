@@ -91,4 +91,4 @@ Order Domino's with Kubernetes
 
 {{< tweet 1239714843352903680 >}}
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/172/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/172/notes.md) to see what didn't make it to the newsletter.

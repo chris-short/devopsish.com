@@ -106,4 +106,4 @@ Persistent volume migration plugin for Kubernetes
 
 [![@birthmarkbart on Twitter: After seeing the panel with @mbbroberg @kaslinfields @_inductor_ and @Dixie3Flatline's panel in @kubecon about non-code contributors in the #k8s community, I wanted to share this as a huge thank you to the #k8s marketing folks who welcomed me from day one! Thx @CloudNativeFdn!](https://shortcdn.com/devopsish/217-devopsish-tweet-of-the-week.png)](https://twitter.com/birthmarkbart/status/1389960932395294725)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/217/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/217/notes.md) to see what didn't make it to the newsletter but are still worth your time.

@@ -100,4 +100,4 @@ Kubernetes controller for synchronizing secrets & config maps across namespaces
 
 [![KEATS 🚀 (@keatsdidit on Twitter) "How social media apps been acting recently"](https://shortcdn.com/devopsish/251-devopsish-tweet-of-the-week.webp)](https://twitter.com/keatsdidit/status/1479643564728532993)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/251/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/251/notes.md) to see what didn't make it to the newsletter but are still worth your time.

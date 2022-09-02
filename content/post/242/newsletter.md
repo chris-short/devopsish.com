@@ -11,7 +11,7 @@ title = "DevOps'ish 242: Automation transforms jobs, be directive without being 
 
 +++
 
-Note: The [Notes file this week](https://devopsish.com/242/notes/) is DEFINITELY worth looking at this week too.
+Note: The [Notes file this week](https://github.com/chris-short/devopsish.com/blob/main/content/post/242/notes.md) is DEFINITELY worth looking at this week too.
 
 [The people have spoken](https://twitter.com/ChrisShort/status/1454614581981106182). **DevOps'ish** won't be changing its name any time soon. I received a lot of great feedback; thank you for that. As I'm writing this, I can feel the effects of my COVID-19 booster kicking in. The joint pain is the tell for me. Max received his first shot today too. He and I will be pretty sore in the morning. Max is genuinely excited to get his vaccinations and get back to gallivanting across the globe. It's looking like we'll be heading to San Diego at some point in Q1 2022. Having just gotten back from Los Angeles, I can definitively say I'm comfortable taking the family back to California.
 
@@ -126,4 +126,4 @@ I cannot stress enough how a Dilbert cartoon will immediately disqualify whateve
 
 [![matty stratton, charismatic grifter (@mattstratton) on Twitter) "Reminder to remove all Dilbert references / comics from your slides, decks, and everything. It's not even that funny anymore, but the creator is one of the worst people in existence."](https://shortcdn.com/devopsish/242-devopsish-tweet-of-the-week.webp)](https://twitter.com/mattstratton/status/1456137519645483011)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/242/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/242/notes.md) to see what didn't make it to the newsletter but are still worth your time.

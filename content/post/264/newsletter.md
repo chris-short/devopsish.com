@@ -97,5 +97,5 @@ My first ever blog post at AWS.
 
 [![Thinking this today .... (Berkubernetus @fuzzychef on Twitter)](https://shortcdn.com/devopsish/264-devopsish-tweet-of-the-week.webp)](https://twitter.com/fuzzychef/status/1512137902477627423)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/264/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/264/notes.md) to see what didn't make it to the newsletter but are still worth your time.
 

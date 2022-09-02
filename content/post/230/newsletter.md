@@ -112,4 +112,4 @@ Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Wind
 
 [![Jaana Dogan ヤナ ドガン (@rakyll) on Twitter: "A picture is worth a thousand words. An architectural diagram is worth ten meetings."](https://shortcdn.com/devopsish/230-devopsish-tweet-of-the-week.png)](https://twitter.com/rakyll/status/1425249619450023936)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/230/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/230/notes.md) to see what didn't make it to the newsletter but are still worth your time.

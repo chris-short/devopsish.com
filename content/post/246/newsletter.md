@@ -87,4 +87,4 @@ Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI
 
 [![Kerri Miller (with 3 Rs) (@kerrizor) on Twitter) "A junior engineer has learned things. An intermediate engineer has built things. A senior engineer has seen things. Horrible things. A staff engineer ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"](https://shortcdn.com/devopsish/246-devopsish-tweet-of-the-week.webp)](https://twitter.com/kerrizor/status/1465694154508300292)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/246/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/246/notes.md) to see what didn't make it to the newsletter but are still worth your time.

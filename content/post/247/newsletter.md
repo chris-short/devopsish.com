@@ -120,4 +120,4 @@ Terminal file manager
 [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)  
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/247/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/247/notes.md) to see what didn't make it to the newsletter but are still worth your time.

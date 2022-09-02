@@ -95,4 +95,4 @@ I don't know. Maybe. I think my days of being able to spend Saturday night produ
 
 {{< tweet 1290330630576840710 >}}
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/178/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/178/notes.md) to see what didn't make it to the newsletter.

@@ -121,4 +121,4 @@ Useful sed scripts & patterns
 
 [![Aeva 🖤 (@aevavoom) on Twitter) "Every time a PM says "resource" when they mean 'person', an angel dies."](https://shortcdn.com/devopsish/244-devopsish-tweet-of-the-week.png)](https://twitter.com/aevavoom/status/1460313375515176962)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/244/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/244/notes.md) to see what didn't make it to the newsletter but are still worth your time.

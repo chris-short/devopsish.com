@@ -110,5 +110,5 @@ Machine Learning Platform for Kubernetes
 
 {{< tweet 1306585313586761729 >}}
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/185/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/185/notes.md) to see what didn't make it to the newsletter.
 

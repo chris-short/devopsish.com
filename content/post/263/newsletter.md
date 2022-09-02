@@ -110,4 +110,4 @@ I found this and showed it off to a fellow GitOps co-chair this week and we both
 [kris-nova/kaar](https://github.com/kris-nova/kaar)  
 "Kubernetes Application Archive: Bundle up a Kubernetes application 📦 into a single static OCI compliant archive."
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/263/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/263/notes.md) to see what didn't make it to the newsletter but are still worth your time.

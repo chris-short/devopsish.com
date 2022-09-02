@@ -133,4 +133,4 @@ A GitHub action that scans the Azure resources for policy violations.
 
 [![K8sContributors on Twitter: "Kubernetes crossed 100,000 issues/PRs a few hours ago! That is 100,000 times the project has been improved by contributors like you. Thank you all for contributing :tada:"](https://shortcdn.com/devopsish/209-devopsish-tweet-of-the-week.png)](https://twitter.com/K8sContributors/status/1369304454198071300)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/209/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/209/notes.md) to see what didn't make it to the newsletter but are still worth your time.

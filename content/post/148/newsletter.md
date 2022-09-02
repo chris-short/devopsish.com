@@ -23,7 +23,7 @@ The ever-shifting sands of newsletter writing, these are the days of our DevOps'
 1. [What's the difference between a console, a terminal, and a shell?](https://www.hanselman.com/blog/WhatsTheDifferenceBetweenAConsoleATerminalAndAShell.aspx)
 1. [Tools That Make Work Faster](https://blog.softwaremill.com/tools-that-make-work-faster-2c089ac902c9)
 
-[See the top ten →](https://devopsish.com/148/notes/)
+[See the top ten →](https://github.com/chris-short/devopsish.com/blob/main/content/post/148/notes.md)
 
 ## Events
 
@@ -92,4 +92,4 @@ Our editorial team has curated all the resources you need for a comprehensive ov
 
 {{< tweet 1179492578908991488 >}}
 
-[See Notes →](https://devopsish.com/148/notes/)
+[See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/148/notes.md)

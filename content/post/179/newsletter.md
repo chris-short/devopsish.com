@@ -82,5 +82,5 @@ A solid start. A few more folks contributing and this is gold.
 
 {{< tweet 1294374245791825922 >}}
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/179/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/179/notes.md) to see what didn't make it to the newsletter.
 

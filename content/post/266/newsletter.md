@@ -213,7 +213,7 @@ Tweets, toots, reddit posts, etc. will now fill this section.  I want to open it
 
 The original graphic is spot on and available [here](https://shortcdn.com/devopsish/gitops-to-moden-practices.png): ![GitOps to Modern Practices](https://shortcdn.com/devopsish/gitops-to-moden-practices.png)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/266/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/266/notes.md) to see what didn't make it to the newsletter but are still worth your time.
 
 ### Got a newsletter worthy post?
 

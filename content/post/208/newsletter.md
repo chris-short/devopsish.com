@@ -104,4 +104,4 @@ At this point, you should setup a process to start sinkholing these domains. I s
 
 [![stephenaugustus on Twitter: "I'm trying to say this in the nicest way possible, but seriously, what is wrong with some of you? I've seen several tweets with people being salty about getting KubeCon talks rejected and gotten multiple reports about Program Committee members being accosted in DMs or meetings."](https://shortcdn.com/devopsish/208-devopsish-tweet-of-the-week.png)](https://twitter.com/stephenaugustus/status/1366823310873436160)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/208/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/208/notes.md) to see what didn't make it to the newsletter but are still worth your time.

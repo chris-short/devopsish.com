@@ -88,5 +88,5 @@ Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kube
 
 [![DevOps'ish Tweet of the Week from @annamv10](https://shortcdn.com/devopsish/182-devopsish-tweet-of-the-week.png)](https://twitter.com/annamv10/status/1298032639396294657)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/182/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/182/notes.md) to see what didn't make it to the newsletter.
 

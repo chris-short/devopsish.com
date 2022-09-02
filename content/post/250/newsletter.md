@@ -131,4 +131,4 @@ The AWS Copilot CLI is a tool for developers to build, release and operate produ
 
 [![Ari Paparo Dot Eth (@aripap on Twitter) "This web3 shit is starting to annoy me, so here’s a thread with my opinions on the relevance to media and advertising. 1/21 🧵"](https://shortcdn.com/devopsish/250-devopsish-tweet-of-the-week.webp)](https://twitter.com/aripap/status/1474039478671003652)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/250/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/250/notes.md) to see what didn't make it to the newsletter but are still worth your time.

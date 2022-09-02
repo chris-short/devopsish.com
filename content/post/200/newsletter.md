@@ -88,4 +88,4 @@ A fast TCP/UDP tunnel over HTTP
 
 [![I was at Amzn in 2000 when the internet bubble popped. Capital markets dried up & we were burning $1B/yr. Our biggest expense was datacenter -> expensive Sun servers. We spent a year ripping out Sun & replacing with HP/Linux, which formed the foundation for AWS. The backstory:](https://shortcdn.com/devopsish/200-devopsish-tweet-of-the-week.png)](https://twitter.com/DanRose999/status/1347677573900242944)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/198/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/200/notes.md) to see what didn't make it to the newsletter.

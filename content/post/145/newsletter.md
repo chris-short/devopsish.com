@@ -21,7 +21,7 @@ There's a lot in the newsletter this week; from Istio to intelligence gathering 
 1. [3 Ways to Motivate Yourself When You Don't Have a Deadline](https://hbr.org/2019/09/how-to-motivate-yourself-when-you-dont-have-a-deadline)
 1. [Curl Cookbook](https://catonmat.net/cookbooks/curl)
 
-[See the top ten →](https://devopsish.com/145/notes/)
+[See the top ten →](https://github.com/chris-short/devopsish.com/blob/main/content/post/145/notes.md)
 
 ## Events
 
@@ -96,4 +96,4 @@ mkdir -p /mnt/SC2i && mount -v -t cifs //HOSTNAME/OFFICE/private/SC2i /mnt/SC2i 
 
 {{< tweet 1172639048323567618 >}}
 
-[See Notes →](https://devopsish.com/145/notes/)
+[See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/145/notes.md)

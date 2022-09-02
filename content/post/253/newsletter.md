@@ -83,4 +83,4 @@ I always find these solutions interesting. "My self-hosting infrastructure, full
 
 [![Angie Jones (@techgirl1908 on Twitter) "If they ask, you ask for a range. Or answer with your salary expectations. *Option 1* Them: How much do you currently make? You: What's the salary range for this position? *Option 2* Them: How much do you currently make? You: I'm looking for something between $X - $Y"](https://shortcdn.com/devopsish/253-devopsish-tweet-of-the-week.webp)](https://twitter.com/techgirl1908/status/1483668538372075530)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/253/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/253/notes.md) to see what didn't make it to the newsletter but are still worth your time.

@@ -143,4 +143,4 @@ Gatus - Automated service health dashboard
 
 [![DevOps'ish 193 Tweet of the Week](https://shortcdn.com/devopsish/193-devopsish-tweet-of-the-week.jpg)](https://twitter.com/dims/status/1329400522890219520)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/193/notes/) to see what didn't make it to the newsletter.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/193/notes.md) to see what didn't make it to the newsletter.

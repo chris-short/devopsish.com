@@ -102,4 +102,4 @@ If you can't beat 'em, join 'em.
 
 {{<tweet 1408528711830454293>}}
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/224/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/224/notes.md) to see what didn't make it to the newsletter but are still worth your time.

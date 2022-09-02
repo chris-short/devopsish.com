@@ -93,4 +93,4 @@ Top-like interface for container metrics
 
 [![@__apf__ on Twitter: "My 9 book picks for engineering leaders 👇"](https://shortcdn.com/devopsish/213-devopsish-tweet-of-the-week.png)](https://twitter.com/__apf__/status/1379973544759582725)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/213/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/213/notes.md) to see what didn't make it to the newsletter but are still worth your time.

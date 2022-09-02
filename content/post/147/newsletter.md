@@ -23,7 +23,7 @@ I used to think of industry analysts as 100% worthless to the broader technology
 
 * [Alert Automation for your Cloud Infrastructure](https://www.bluematador.com/devopsish) *SPONSORED*
 
-[See the top ten →](https://devopsish.com/147/notes/)
+[See the top ten →](https://github.com/chris-short/devopsish.com/blob/main/content/post/147/notes.md)
 
 ## Events
 
@@ -94,4 +94,4 @@ Balance rapid feature development and production stability with alert automation
 
 {{< tweet 1176478273691443201 >}}
 
-[See Notes →](https://devopsish.com/147/notes/)
+[See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/147/notes.md)

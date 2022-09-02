@@ -125,4 +125,4 @@ A simple and fast dashboard for Kubernetes
 
 [![@eanakashima on Twitter: "We went through the whole 'no more heroes' arc for ops/engineers in the early days of DevOps. Some days it feels like we need to figure out the variant of that for managers & leaders."](https://shortcdn.com/devopsish/214-devopsish-tweet-of-the-week.png)](https://twitter.com/eanakashima/status/1382065119400583169)
 
-Want more? Be sure to check out the [notes from this week's issue](https://devopsish.com/214/notes/) to see what didn't make it to the newsletter but are still worth your time.
+Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/214/notes.md) to see what didn't make it to the newsletter but are still worth your time.
