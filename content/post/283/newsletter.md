@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-09-04T07:00:00Z
-description = [""]
+description = ["Cloudflare's demise, Fog Data Science, Privileged Ports Must Die, OpenTelemetry, COSI, and more"]
 draft = false
 slug = "283"
-tags = []
-title = "DevOps'ish 283: "
+tags = ["Kubernetes", "cloud native", "USB 4", "Detroit", "Developers", "DevOps", "SRE", "software", "security", "OpenTelemetry", "object storage"]
+title = "DevOps'ish 283: Cloudflare's demise, Fog Data Science, Privileged Ports Must Die, OpenTelemetry, COSI, and more"
 +++
 
 It's a holiday weekend here in the US. We spent Saturday afternoon soaking in some of the best Detroit has to offer: Eastern Market, the Detroit Jazz festival, river walk, Renaissance Center, Hart Plaza, Woodward Ave, and Campus Martius. It was cool that most of downtown was blocked off so we could walk more freely than usual. Downtown was alive thanks to the Jazz festival. I can't wait for folks to see this magnificent city during KubeCon.
