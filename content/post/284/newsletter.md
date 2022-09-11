@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-09-11T07:00:00Z
-description = [""]
+description = ["9/11/01, Cloudflare drops KiwiFarms, Seekable OCI, A Sequel to SQL, SSD Pricing Could Tumble, and so much more"]
 draft = false
 slug = "284"
-tags = []
-title = "DevOps'ish 284: "
+tags = ["http", "argo", "cloud", "cloud native", "open source", "service", "Kubernetes", "Apple", "computing", "container", "Cloudflare", "SOCI", "internet", "DevOps", "globalstar", "git", "iPhone", "eBPF"]
+title = "DevOps'ish 284: 9/11/01, Cloudflare drops KiwiFarms, Seekable OCI, A Sequel to SQL, SSD Pricing Could Tumble, and so much more"
 +++
 
 9/11/01... 21 years later, it's still not easy. I still get goosebumps at the thought of it. The sight of the date at the US Open women's final was a jarring reminder I wasn't going to get through this weekend without the utmost mental focus. Today is hard for a lot of people for a lot of reasons. I'm not going to let it ruin my day. This is the first 9/11 that all the perpetrators have been either captured or killed. We've reached this critical point in history where I feel things easing, just a little, around this day. My heart goes out to the families of those lost on 9/11 and the US-led wars afterward. Today especially, be kind.
