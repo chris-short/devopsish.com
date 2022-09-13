@@ -33,7 +33,7 @@ Then send your event, product, or organizational details to [chris@devopsish.com
 
 ### Individuals
 
-If you're an individual looking to support DevOps'ish and [Chris Short's](http://chrisshort.net/) other open source work, please sponsor through [GitHub](https://github.com/sponsors/chris-short) or [Patreon](https://www.patreon.com/devopsish)!
+If you're an individual looking to support DevOps'ish and [Chris Short's](http://chrisshort.net/) other open source work, please sponsor through [GitHub](https://github.com/sponsors/chris-short) or [PayPal](https://paypal.me/devopsish)! 
 
 ## What's in a DevOps'ish sponsorship
 

@@ -19,8 +19,6 @@
 
 [Continuous Chaos with Spinnaker](https://www.gremlin.com/blog/continuous-chaos-with-spinnaker/)
 
-[You are featured on page 43 of the April issue of Linux Journal | Linux Journal on Patreon](https://www.patreon.com/posts/you-are-featured-25817694?utm_medium=post_notification_email&utm_source=post_link&utm_campaign=patron_engagement&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWRpc19rZXkiOiJpbnN0YW50LWFjY2Vzczo0MWRkZmY2ZC1kYTM5LTQ1MzItYWM4YS04MmE5YzI5Y2ZkNjUifQ.z7a7SeAX_ZwAhEYyDntikSdbF8Ymu3Moq7T8f8QFn2M)
-
 [RSS Is Better Than Twitter](https://gizmodo.com/rss-is-better-than-twitter-1833624929)
 
 [Google employees petition to oust Kay Coles James from AI ethics board - Business Insider](https://www.businessinsider.com/google-employees-petition-against-kay-coles-james-ai-ethics-board-2019-4)

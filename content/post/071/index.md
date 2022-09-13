@@ -64,8 +64,6 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 [Google is Pursuing the Pentagon's Giant Cloud Contract Quietly, Fearing An Employee Revolt](https://www.defenseone.com/technology/2018/04/google-pursuing-pentagons-giant-cloud-contract-quietly-fearing-employee-revolt/147407/): All is fair in love and war. Or is it?
 
-[Patreon Engineering Levels](https://levels.patreon.com/)
-
 [Making cloud-native computing universal and sustainable](https://opensource.com/article/18/4/what-is-cloud-native-computing-foundation-cncf): What is the Cloud Native Computing Foundation and why does it matter?
 
 ## Process

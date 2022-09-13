@@ -37,8 +37,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 ## People
 
-[Ashley McNamara created a Patreon](https://www.patreon.com/ashleymcnamara) (finally) — Y'all know what to do.
-
 [On Leading Engineering Teams](https://medium.com/@simonyoung_uk/on-leading-engineering-teams-39d20d4e8a56) — Balancing a few key things mentioned in this article can go a long way.
 
 [Mesosphere Announces Appointment of Mike Fey as Chief Executive Officer](https://mesosphere.com/blog/mesosphere-announces-mike-fey-as-chief-executive-officer/)
