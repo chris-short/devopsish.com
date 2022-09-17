@@ -75,6 +75,12 @@ disableLatLong = true
     weight = 1
 
   [[menu.main]]
+    identifier = "podcast"
+    name = "Podcast"
+    url = "/podcast/"
+    weight = 2
+
+  [[menu.main]]
     identifier = "praise"
     name = "Praise"
     url = "/praise/"
