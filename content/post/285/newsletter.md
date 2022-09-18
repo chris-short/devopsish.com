@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-09-18T07:00:00Z
-description = []
+description = ["Twitter Space and Podcast, Richard I. Cook, Patreon Participating in Pedophilia?, intruders inside LastPass systems for 4 days, Caddy vs. Nginx, and more"]
 draft = false
 slug = "285"
-tags = []
-title = "DevOps'ish 285:"
+tags = ["Argo", "Kubernetes", "Twitter", "Twitter Space", "Cloud Native", "AWS", "podcast", "security", "community", "Gppgle", "Linux", "eBPF", "DevOps", "Detroit", "open source software", "Richard I. Cook", "privacy", "GitOps", "dig"]
+title = "DevOps'ish 285: Twitter Space and Podcast, Richard I. Cook, Patreon Participating in Pedophilia?, intruders inside LastPass systems for 4 days, Caddy vs. Nginx, and more"
 +++
 
 I held my [first Twitter Space](https://twitter.com/i/spaces/1lDxLndplWvGm) on Friday. I wanted an engaged audience driven AMA but, the idea was to have a look at the news of the week. It went well enough that, I'm hosting [Twitter Spaces on Mondays at 10 AM ET](https://twitter.com/i/spaces/1YqGoANpZQjxv) going forward.
@@ -97,7 +97,6 @@ Anton Shilov, Tom's Hardware
 [Securing the Supply Chain of Nothing](https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/)  
 Kelly Shortridge  
 "There is a collective ignis fatuus in the information security community that it is the “job” of an organization’s employees to prioritize security above all else. This fallacy holds us back from achieving better defense outcomes. Unfortunately, 'Securing the Software Supply Chain' calcifies this falsehood."
-
 
 ## Tools
 
