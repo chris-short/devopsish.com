@@ -1,0 +1,87 @@
+- [DevOps'ish Podcast](#devopsish-podcast)
+  - [Purpose](#purpose)
+  - [Twitter Space](#twitter-space)
+    - [Title](#title)
+  - [Share on Social Media](#share-on-social-media)
+    - [Record](#record)
+    - [Downloading](#downloading)
+      - [Alternate Method](#alternate-method)
+    - [Editing](#editing)
+    - [Distribution (aka Anchor.fm)](#distribution-aka-anchorfm)
+  - [Newsletter](#newsletter)
+  - [Future Considerations](#future-considerations)
+
+# DevOps'ish Podcast
+
+This document seeks to give a HOWTO and Why for the DevOps'ish Podcast creation process.
+
+## Purpose
+
+- Go over inputs only (not the newsletter itself)
+- Have a live audience somehow (live streaming or [Twitter Space](https://help.twitter.com/en/using-twitter/spaces))
+- Another advertising outlet for [Sponsors](https://devopsish.com/sponsor)
+
+## Twitter Space
+
+- Create a Twitter Space for Monday AM ET
+- Set it to be **recorded** or you're screwed
+
+### Title
+
+Title the Twitter Space:  
+*This week in DevOps'ish: 2022-09-26*
+
+## Share on Social Media
+
+Share the new link ASAP, as a sticky post on [/r/devopsish](https://www.reddit.com/r/devopsish/): 
+
+- Sticky Post
+- Mark it as Moderator
+- Mark as OC
+- Mark as Spoiler
+- Example: <https://www.reddit.com/r/devopsish/comments/xij6rf/this_week_in_devopsish_20220926_next_devopsish/>
+
+- Create additional Social Media
+
+### Record
+
+- **Make sure you configure the Twitter Space to be recorded BEFORE you start it**
+- Capture five seconds of dead air somewhere for the noise floor
+
+### Downloading
+
+Make use of [sw-yx/mech fork](https://github.com/chris-short/mech) to download the Twitter Space. This won't work if you forgot to record it). Dysfunctional example (note, it's not the URL, just the Space ID):
+
+``` bash
+twitter -c 1lDxLndplWvGm
+```
+
+Remember you'll have to make the `twitter` download executable and place it in your `$PATH` and it will only work if you recorded it.
+
+#### Alternate Method
+
+The alternate method is to pull it from your [Twitter data archive](https://twitter.com/settings/download_your_data) (which takes hours to be generated; and a week to expire).
+
+### Editing
+
+- Capture five seconds of dead air somewhere for the noise floor
+- Keep it light and simple
+- Edit out any long pauses
+- Edit out anything before "Good Morning" (that's an incentive to join the Twitter Space early)
+- Trim the outro
+- Upload to [Anchor](https://anchor.fm/devopsish)
+
+### Distribution (aka Anchor.fm)
+
+All distribution is done via Anchor. The web site has a [Podcast page](https://devopsish.com/podcast) that makes use of the `podcast` Hugo shortcode.
+
+## Newsletter
+
+Under the intro there is a subsection for the Twitter Space and Podcast. Be sure to update this weekly.
+
+## Future Considerations
+
+- Clean up other services pages (old URLs in Anchor) (DevOps'ish Deep Cuts to plain DevOps'ish Podcast)
+- Add to Sponsor Prospectus and Sponsor page after 10 episodes
+- Feature the podcast Hugo shortcode in more places
+- Bring Anchor page under devopsish.com (somehow: podcast.devopsish.com could have its own RSS feed?)
