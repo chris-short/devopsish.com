@@ -76,7 +76,9 @@ Think of your ad in DevOps'ish as a tweet with a headline. The headline should b
 
 ## A note on privacy
 
-Please note, DevOps'ish does not track link clicks or opens to maintain the privacy of its readership. But, sponsors are free to include any campaign (UTM) parameters you'd like so you can measure ROI. You can use link shorteners if you want, but, in general, I encourage using the full URL.
+Please note, DevOps'ish does not track link clicks or open rate to maintain the privacy of its readership.
+
+Sponsors are free to include any campaign (UTM) parameters you'd like so you can measure ROI. You can use link shorteners if you want, but, in general, I encourage using the full URL.
 
 ## How best to share ads?
 
