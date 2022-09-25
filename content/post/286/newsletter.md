@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-09-25T07:00:00Z
-description = [""]
+description = ["Torvalds' M2 MacBook Air, LastPass had enemy inside the wire for four days, Last Floppy-Disk Seller, Backstage, Graceful Shutdown with Lifecycle preStop Hook and more"]
 draft = false
 slug = "286"
-tags = []
-title = "DevOps'ish 286: "
+tags = ["Kubernetes", "Linux", "Twitter", "podcast", "cloud", "cloud native", "security", "DevOps", "developers", "open source", "GitOps", "container", "OCI", "systems", "virtual", "engineers", "Detroit", "Argo", "Flux", "Linus Torvalds"]
+title = "DevOps'ish 286: Torvalds' M2 MacBook Air, LastPass had enemy inside the wire for four days, Last Floppy-Disk Seller, Backstage, Graceful Shutdown with Lifecycle preStop Hook and more"
 +++
 
 The bivalent booster is kicking me hard today. I got it around noon and my joints were hurting by 3 PM. My neck and both shoulders are sore and tight. Compounding existing injuries. I also just watched my Florida Gators lose to Tennessee. I'm gonna take the a break from writing an intro this week.
@@ -121,8 +121,6 @@ Tool to automate build instructions generation
 ## DevOps'ish Post of the Week
 
 This should **never, ever** be okay. Putin is a monster.
-
-{{< tweet user="maksymeristavi" id="1573356436091969536" >}}
 
 [![максим.еріставі on Twitter: "my family was just forced to vote at gunpoint in russian cosplay of a 'referendum' in southern ukraine: they come to your house, you have to openly tick the box for being annexed by russia (or for staying with ukraine if you feel suicidal), all while armed gunmen watch you")](https://shortcdn.com/devopsish/286-devopsish-post-of-the-week.webp)](https://twitter.com/maksymeristavi/status/1573356436091969536?utm_source=devopsish)
 
