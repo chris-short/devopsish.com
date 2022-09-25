@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-09-25T07:00:00Z
-description = ["Torvalds' M2 MacBook Air, LastPass had enemy inside the wire for four days, Last Floppy-Disk Seller, Backstage, Graceful Shutdown with Lifecycle preStop Hook and more"]
+description = ["Torvalds' M2 MacBook Air, LastPass had guests over for four days, Last Floppy-Disk Seller, Backstage, Graceful Shutdown with Lifecycle preStop Hook and more"]
 draft = false
 slug = "286"
 tags = ["Kubernetes", "Linux", "Twitter", "podcast", "cloud", "cloud native", "security", "DevOps", "developers", "open source", "GitOps", "container", "OCI", "systems", "virtual", "engineers", "Detroit", "Argo", "Flux", "Linus Torvalds"]
-title = "DevOps'ish 286: Torvalds' M2 MacBook Air, LastPass had enemy inside the wire for four days, Last Floppy-Disk Seller, Backstage, Graceful Shutdown with Lifecycle preStop Hook and more"
+title = "DevOps'ish 286: Torvalds' M2 MacBook Air, LastPass had guests over for four days, Last Floppy-Disk Seller, Backstage, Graceful Shutdown with Lifecycle preStop Hook and more"
 +++
 
 The bivalent booster is kicking me hard today. I got it around noon and my joints were hurting by 3 PM. My neck and both shoulders are sore and tight. Compounding existing injuries. I also just watched my Florida Gators lose to Tennessee. I'm gonna take the a break from writing an intro this week.
