@@ -17,9 +17,10 @@ This document seeks to give a HOWTO and Why for the DevOps'ish Podcast creation 
 
 ## Purpose
 
-- Go over inputs only (not the newsletter itself)
+- Go over the inputs into the newsletter (not neccesarily the newsletter itself)
 - Have a live audience somehow (live streaming or [Twitter Space](https://help.twitter.com/en/using-twitter/spaces))
 - Another advertising outlet for [Sponsors](https://devopsish.com/sponsor)
+- Twitter Spaces isn't fully functional on desktop yet but, be sure to have it open on your laptop so you can paste links easily
 
 ## Twitter Space
 
@@ -42,6 +43,10 @@ Share the new link ASAP, as a sticky post on [/r/devopsish](https://www.reddit.c
 - Example: <https://www.reddit.com/r/devopsish/comments/xij6rf/this_week_in_devopsish_20220926_next_devopsish/>
 
 - Create additional Social Media
+  - Day before
+  - One hour before
+  - 15 minutes before
+  - Go live
 
 ### Record
 
@@ -60,15 +65,15 @@ Remember you'll have to make the `twitter` download executable and place it in y
 
 #### Alternate Method
 
-The alternate method is to pull it from your [Twitter data archive](https://twitter.com/settings/download_your_data) (which takes hours to be generated; and a week to expire).
+The alternate method is to pull it from your [Twitter data archive](https://twitter.com/settings/download_your_data) (which takes hours/days to be generated; and a week to expire).
 
 ### Editing
 
-- Capture five seconds of dead air somewhere for the noise floor
+- Remove noise floor
 - Keep it light and simple
 - Edit out any long pauses
 - Edit out anything before "Good Morning" (that's an incentive to join the Twitter Space early)
-- Trim the outro
+- Trim up the outro
 - Upload to [Anchor](https://anchor.fm/devopsish)
 
 ### Distribution (aka Anchor.fm)
