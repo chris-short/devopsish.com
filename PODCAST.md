@@ -18,7 +18,8 @@ This document seeks to give a HOWTO and Why for the DevOps'ish Podcast creation 
 
 ## Purpose
 
-- Go over the inputs into the newsletter (not neccesarily the newsletter itself)
+- Go over the inputs into the newsletter (not neccesarily the newsletter itself) to give users a different look at the news
+- Not a reguritation of the newsletter itself (unless asked)
 - Have a live audience somehow (live streaming or [Twitter Space](https://help.twitter.com/en/using-twitter/spaces))
 - Another advertising outlet for [Sponsors](https://devopsish.com/sponsor)
 - Twitter Spaces isn't fully functional on desktop yet but, be sure to have it open on your laptop so you can paste links easily
