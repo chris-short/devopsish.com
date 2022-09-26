@@ -1,5 +1,6 @@
 - [DevOps'ish Podcast](#devopsish-podcast)
   - [Purpose](#purpose)
+  - [Sources](#sources)
   - [Twitter Space](#twitter-space)
     - [Title](#title)
   - [Share on Social Media](#share-on-social-media)
@@ -21,6 +22,20 @@ This document seeks to give a HOWTO and Why for the DevOps'ish Podcast creation 
 - Have a live audience somehow (live streaming or [Twitter Space](https://help.twitter.com/en/using-twitter/spaces))
 - Another advertising outlet for [Sponsors](https://devopsish.com/sponsor)
 - Twitter Spaces isn't fully functional on desktop yet but, be sure to have it open on your laptop so you can paste links easily
+
+## Sources
+
+These all probably require my login to get the most accurate data, but they are definitely worth documenting for consistency:
+
+- [Twitter Analytics](https://analytics.twitter.com/user/chrisshort/tweets)
+  - Top Tweets
+  - Last 7 days + 1-2
+- [/r/devopsish](https://www.reddit.com/r/devopsish/top/?t=week)
+  - 2-3+ upvotes depending on time
+- [LinkedIn Recent Activity](https://www.linkedin.com/in/thechrisshort/recent-activity/)
+  - 100+ impressions is worth mentioning
+  - This is an awful way to get analytics but, I don't think there's another way.
+
 
 ## Twitter Space
 
