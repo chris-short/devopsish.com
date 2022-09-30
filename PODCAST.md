@@ -100,7 +100,7 @@ The alternate method is to pull it from your [Twitter data archive](https://twit
 
 ### Distribution (aka Anchor.fm)
 
-All distribution is done via Anchor. The web site has a [Podcast page](https://devopsish.com/podcast) that makes use of the `podcast` Hugo shortcode.
+All distribution is done via Anchor. The web site has a [Podcast page](https://devopsish.com/podcast) that makes use of the [`podcast` Hugo shortcode](https://github.com/chris-short/devopsish.com/blob/main/layouts/shortcodes/podcast.html) in the code base.
 
 ## Newsletter
 
@@ -109,6 +109,8 @@ Under the intro there is a subsection for the Twitter Space and Podcast. Be sure
 ## Future Considerations
 
 - Clean up other services pages (old URLs in Anchor) (DevOps'ish Deep Cuts to plain DevOps'ish Podcast)
-- Add to Sponsor Prospectus and Sponsor page after 10 episodes
-- Feature the podcast Hugo shortcode in more places
+  - It's not clear to me how this is done
+  - Should open ticket with Anchor
+- Add to Sponsor Prospectus and Sponsor page after 5 episodes
+- Feature the podcast Hugo shortcode in more places?
 - Bring Anchor page under devopsish.com (somehow: podcast.devopsish.com could have its own RSS feed?)
