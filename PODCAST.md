@@ -5,6 +5,7 @@
     - [Title](#title)
   - [Share on Social Media](#share-on-social-media)
     - [Record](#record)
+    - [Go Live](#go-live)
     - [Downloading](#downloading)
       - [Alternate Method](#alternate-method)
     - [Editing](#editing)
@@ -67,6 +68,12 @@ Share the new link ASAP, as a sticky post on [/r/devopsish](https://www.reddit.c
 
 - **Make sure you configure the Twitter Space to be recorded BEFORE you start it**
 - Capture five seconds of dead air somewhere for the noise floor
+
+### Go Live
+
+To utilize my fancy mic hardware I'm using the following setup:
+
+[Shure SM7B](https://amzn.to/3Rv9EZ3) -> [Cloudlifter](https://amzn.to/3SGsr5r) -> [Scarlett 2i2](https://amzn.to/3E68Wib) -> [Lightning Dongle (w/ power)](https://amzn.to/3LW2qMT) -> [iPhone](https://amzn.to/3E5LXUc)
 
 ### Downloading
 
