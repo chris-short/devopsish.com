@@ -20,7 +20,7 @@ This document seeks to give a HOWTO and Why for the DevOps'ish Podcast creation 
 
 - Go over the inputs into the newsletter (not neccesarily the newsletter itself) to give users a different look at the news
 - Not a reguritation of the newsletter itself (unless asked)
-- Have a live audience somehow (live streaming or [Twitter Space](https://help.twitter.com/en/using-twitter/spaces))
+- Have a live audience ([Twitter Spaces](https://help.twitter.com/en/using-twitter/spaces))
 - Another advertising outlet for [Sponsors](https://devopsish.com/sponsor)
 - Twitter Spaces isn't fully functional on desktop yet but, be sure to have it open on your laptop so you can paste links easily
 
@@ -36,7 +36,6 @@ These all probably require my login to get the most accurate data, but they are 
 - [LinkedIn Recent Activity](https://www.linkedin.com/in/thechrisshort/recent-activity/)
   - 100+ impressions is worth mentioning
   - This is an awful way to get analytics but, I don't think there's another way.
-
 
 ## Twitter Space
 
@@ -87,9 +86,9 @@ The alternate method is to pull it from your [Twitter data archive](https://twit
 
 - Remove noise floor
 - Keep it light and simple
-- Edit out any long pauses
+- Trim beginning and ends
 - Edit out anything before "Good Morning" (that's an incentive to join the Twitter Space early)
-- Trim up the outro
+- Sponsor Pitch?
 - Upload to [Anchor](https://anchor.fm/devopsish)
 
 ### Distribution (aka Anchor.fm)
