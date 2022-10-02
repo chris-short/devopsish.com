@@ -26,5 +26,3 @@ It's a weekly newsletter assembled by open source contributor, DevOps leader, an
 Every week DevOps'ish is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, and technologists across the globe. [Learn more about DevOps'ish](/about/).
 
 Subscribe today!
-
-{{< fathom_subscribe_page >}}
