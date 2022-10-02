@@ -36,7 +36,3 @@ Also available on [Apple Books](https://books.apple.com/us/book/what-is-devops/i
 * [*The Phoenix Project*](https://amzn.to/2WxnsdZ): A Novel about IT, DevOps, and Helping Your Business Win
 * [*Accelerate: The Science of Lean Software and DevOps*](https://amzn.to/2Xnc5S2): Building and Scaling High Performing Technology Organizations
 * [DevOps Newsletters](https://devopsnewsletters.com/): "Continuous learning is a critical part of DevOps. Staying current is imperative. These are DevOps newsletters of note from several well regarded DevOps leaders."
-
-#### Credits
-
-[DevOps Toolchain](https://commons.wikimedia.org/wiki/File:Devops-toolchain.svg) graphic is provided under the CC BY-SA 4.0 via Wikimedia Commons
