@@ -22,7 +22,7 @@ We will be doing a memorial at KubeCon for Cody. I will put those event details 
 
 I know in these times we all want to do something to help. For the moment, check out the links mentioned here and stand by for further information as it becomes available.
 
-Remember, any news that **I** add to my info sharing "Firehouse" will land in the [/r/devopsish](https://www.reddit.com/r/devopsish/) subreddit almost immediately, then [Twitter](https://twitter.com/ChrisShort) and [LinkedIn](https://www.linkedin.com/in/thechrisshort/) eventually.
+Remember, any news that **I** add to my info sharing "Firehose" will land in the [/r/devopsish](https://www.reddit.com/r/devopsish/) subreddit almost immediately, then [Twitter](https://twitter.com/ChrisShort) and [LinkedIn](https://www.linkedin.com/in/thechrisshort/) eventually.
 
 ### The DevOps'ish Podcast
 
