@@ -2,7 +2,7 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-10-02T07:00:00Z
-description = ["DevOps'ish 287 is dedicate to a wonderful community member we lost this week, Cody Crudgington"]
+description = ["DevOps'ish 287 is dedicated to a wonderful community member we lost this week, Cody Crudgington"]
 draft = false
 slug = "287"
 tags = ["open source", "Kubernetes", "Cody Crudgington", "podcast", "Twitter", "code", "contributor", "Cloud Native", "community", "Iran", "Signal", "Istio", "KubeCon", "developers", "CIA", "Girls Who Code", "Linux", "news", "GitHub", "GitOps"]
