@@ -39,6 +39,10 @@ DevOps'ish is built by me, open source leader, #Kubernetes contributor, #DevOps 
 
 Never heard of DevOps'ish? It's a newsletter covering Cloud Native, #DevOps, #GitOps, Open Source, industry news, culture, and the ‘ish between. It's opinionated, geared toward increasing knowledge, and improving skills. Subscribe now! https://devopsish.com/subscribe #Cloud #Kubernetes
 
-### Friday, 9 AM ET (Random Subscribe Statement with Giphy)
+OR
 
 Most of these "Suggested Reads" land in a newsletter I write called, DevOps'ish. "Cloud Native, #DevOps, #GitOps, Open Source, industry news, culture, and the 'ish between." Sound like something you could benefit from? Subscribe here: https://devopsish.com/subscribe
+
+### Friday, 9 AM ET (Podcast with Giphy)
+
+Don't forget, DevOps'ish has a podcast now. We look at the news behind the news and provide you a way to participate as well. Check out the latest newsletter for details on the next podcast and subscribe today: https://devopsish.com/podcast
