@@ -5,7 +5,7 @@ date = 2022-10-09T07:00:00Z
 description = ["Pain points around containers, Open Source Work Is Work, SBOM frenzy is premature, Linux 6.0, Skyfall, Kueue, CUE, Kyverno vs Datree, and more"]
 draft = false
 slug = "288"
-tags = []
+tags = ["Kubernetes", "open source", "cloud", "applications", "environments", "secrets", "security", "data", "cluster", "Hashicorp Vault", "Kueue", "CUE", "Kyverno", "cloud native", "Google", "configuration", "multi-cloud", "policy", "filesystems", "developers", "SBOM", "containers", "software", "podcast", "Datree", "Linux", "observability"]
 title = "DevOps'ish 288: Pain points around containers, Open Source Work Is Work, SBOM frenzy is premature, Linux 6.0, Skyfall, Kueue, CUE, Kyverno vs Datree, and more"
 +++
 
