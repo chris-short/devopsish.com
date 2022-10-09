@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-10-09T07:00:00Z
-description = [""]
+description = ["Pain points around containers, Open Source Work Is Work, SBOM frenzy is premature, Linux 6.0, Skyfall, Kueue, CUE, Kyverno vs Datree, and more"]
 draft = false
 slug = "288"
 tags = []
-title = "DevOps'ish 288: Pain points around containers, "
+title = "DevOps'ish 288: Pain points around containers, Open Source Work Is Work, SBOM frenzy is premature, Linux 6.0, Skyfall, Kueue, CUE, Kyverno vs Datree, and more"
 +++
 
 Last week, I shared out the notes I took from an Open Space suggestion I made at DevOpsDays Chicago, "[Container Conundrum: Pain points around containers](https://chrisshort.net/container-conundrum-devopsdays-chicago-2022-open-space-notes/)." The premise was trying to figure out where people are struggling with managing containers and the applications in them in their environments. My friend Ed Vielmetti joined in as well. I want to stress that no one else in the room identified their employer (nor would I have recorded that data or anything that could lead me to it), so your trade secrets are pretty safe. I learned quite a bit, so I'll share more details here.
@@ -114,19 +114,94 @@ Every year, thousands of developers of free and open source software from all ov
 
 ## People
 
-PEOPLE
+[Open Source Work Is Work](https://engineering.atspotify.com/2022/10/open-source-work-is-work/)  
+Per Ploug, Spotify Engineering  
+"The key takeaway is this: if we want to have a significant impact, we have to make open source work as similar to our internal ways of working as possible. We've identified five key areas that will do just that..." I need this title on a t-shirt.
+
+[Ukrainian Soldiers Reportedly Face Starlink Outages](https://www.pcmag.com/news/ukrainian-soldiers-reportedly-face-starlink-outages)  
+Michael Kan, PCMag  
+This is a critical component of Ukraine's success believe it or not. The FCC is having a go at Starlink because its speeds aren't meeting US standards (100 up/20 down, last I checked). I imagine a combination of events like regional jamming, satellite constellation changes to address lower speeds in target market, and something else that I'm forgetting about. "SpaceX CEO Elon Musk declines to comment directly, arguing that 'what's happening on the battlefield [is] classified.'" Jamming, or electronic warfare as its traditionally called, is shockingly easy to figure out with publicly accessible equipment.
+
+[The EU wants to put companies on the hook for harmful AI](https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/)  
+Melissa Heikkilä, MIT Technology Review  
+Can your AI be sued? No. But, your organization sure can be!
+
+[Boston Dynamics *really* does not want you to add weapons to its robots](https://arstechnica.com/information-technology/2022/10/boston-dynamics-other-firms-pledge-not-to-weaponize-their-general-purpose-robots/)  
+Benj Edwards, Ars Technica  
+This, of course, won't stop anyone from trying.
+
+[no hello](https://nohello.net/)  
+It's rude to interrupt someone from what they're doing without explanation.
 
 ## Process
 
-PROCESS
+[The SBOM frenzy is premature](https://blog.crashoverride.com/the-sbom-frenzy-is-premature)  
+Mark Curphey, Crash Override  
+"In my opinion it is simply too early to declare that we have turned the corner securing open source software." In my opinion, SBOMs aren't actionable enough yet. Also, when have you been asked for an SBOM? I'm sure you've created them, but I want to know if folks are actually asking for SBOMs.
+
+[What does "open source is not a business model" actually mean?](https://www.emilyomier.com/blog/what-does-open-source-is-not-a-business-model-actually-mean)  
+Emily Omier  
+"In all cases, open source is strategic — but that doesn't make it a business model."
+
+[Stadia died because no one trusts Google](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)  
+Devin Coldewey, TechCrunch  
+The truth hurts. The writing was on the wall almost as soon as the service was released. I'm shocked people are shocked by this after they fired their game devs. But, Google probably solved a lot of problems to make Stadia work. I hope those solutions make it out into the wild.
+
+[Microsoft Confirms 2 New Exchange Zero-Day Flaws Being Used in the Wild](https://thehackernews.com/2022/09/microsoft-confirms-2-new-exchange-zero.html)  
+Ravie Lakshmanan, The Hacker News  
+What is the deal with Exchange? It's like the mid 00s all over again.
 
 ## Tools
 
-TOOLS
+[LKML: Linus Torvalds: Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)  
+Behold... Yeah, 6.1 is right around the corner.
+
+[Kubernetes Book Club](https://www.santana.dev/book-club)  
+Carlos Santana  
+"The Kubernetes Book Club gets together every Friday 10AM EST to socialize and discuss Cloud Native books."
+
+[You can't buy a Raspberry Pi right now](https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now)  
+Jeff Geerling  
+This is a sad truth right now. That fit in your pocket board is in a hard supply crunch. They're prioritizing OEM partners and retail is left with nothing. Hopefully, things will shift in a few months. I'm glad I dropped the money on a used server (and upgrades) before the pandemic. I could probably double my money on it if I really wanted to. But then I'd have to go back to using an RPi per a few services. That's less than ideal in comparison.
+
+[Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)  
+Anuj Srivastava, LinkedIn Engineering  
+"With LinkedIn's large infrastructure growth over the past few years, observability has become more critical to pinpoint the potential root causes for any infrastructure failure or anomaly."
+
+[Introducing Kueue](https://kubernetes.io/blog/2022/10/04/introducing-kueue/)  
+Abdullah Gharaibeh (Google), Aldo Culquicondor (Google), Kubernetes Blog  
+"In this article, we introduce Kueue, an open source job queueing controller designed to manage batch jobs as a single unit. Kueue leaves pod-level orchestration to existing stable components of Kubernetes. Kueue natively supports the Kubernetes Job API and offers hooks for integrating other custom-built APIs for batch jobs."
+
+[What's new in v0.3.0](https://acorn.io/whats-new-in-v0-3-0/)  
+Craig Jellick, Acorn Labs  
+Encrypting and Decrypting Sensitive Data, Securing Endpoints with TLS, and a few other tweaks. My eyes aren't so much on Acorn as they are CUE. [CUE seems to be a remedy for YAML](https://twitter.com/ChrisShort/status/1578071865746243585) and Acorn delivers good abstractions from my understanding.
+
+[Why We Use CUE (and Not Helm)](https://cloudplane.org/blog/why-cue)  
+Cloudplane  
+"Cloudplane is a managed hosting platform built on Kubernetes using our own resource templates. We evaluated several templating tools and eventually settled on CUE. Here's how we arrived at that conclusion." See previous on YAML.
+
+[Kubernetes Policies And Admission Controllers Compared - Kyverno vs Datree (YouTube)](https://www.youtube.com/watch?v=A4SIpyG5BNU)  
+Victor Varcic  
+"Which tool for Kubernetes policies and admission controllers works better? Kyverno or Datree?"
+
+[Wireshark 4.0 Network Protocol Analyzer Released](https://www.phoronix.com/news/Wireshark-4.0-Released)  
+Michael Larabel, Phoronix  
+One of the best packet sniffers has gotten a fresh coat of paint.
+
+[twitter/pelikan](https://github.com/twitter/pelikan)  
+Pelikan is Twitter's unified cache backend
+
+[SimonTheLeg/konf-go](https://github.com/simontheleg/konf-go)  
+konf is a lightweight kubeconfig manager. With konf you can use different kubeconfigs at the same time. And because it does not need subshells, konf is blazing fast!
+
+[controlplaneio/badrobot](https://github.com/controlplaneio/badrobot)  
+BadRobot - Operator Security Audit Tool
 
 ## DevOps'ish Post of the Week
 
-[![BenTheElder on Twitter: "PSA: The @kubernetesio container image host http://k8s.gcr.io is *actually* getting redirected to the community controlled http://registry.k8s.io starting with a small portion of traffic on October 3rd. If you notice any issues, *please* ping me, @thockin or @ameukam.")](https://shortcdn.com/devopsish/288-devopsish-post-of-the-week.webp)](https://twitter.com/BenTheElder/status/1575898507235323904)
+Kinda mean, but I feel like this too sometimes. Just merge my changes, PLEASE!!!
+
+[![@shitPM on Twitter: "Strong Junior Dev energy offa this.")](https://shortcdn.com/devopsish/288-devopsish-post-of-the-week.webp)](https://twitter.com/shitPM/status/1565336512215994368)
 
 ### Notes
 
