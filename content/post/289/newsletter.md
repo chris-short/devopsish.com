@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
 date = 2022-10-16T07:00:00Z
-description = [""]
+description = ["Wall of Awful, Intel Layoffs Soon, mastodon.technology Shutdown, Faster QEMU, and more"]
 draft = false
 slug = "289"
-tags = []
-title = "DevOps'ish 289: "
+tags = ["open source", "cloud native", "podcast", "Kubernetes", "contributor", "observability", "KubeCon", "Detroit", "Honeycomb", "FOSDEM"]
+title = "DevOps'ish 289: Wall of Awful, Intel Layoffs Soon, mastodon.technology Shutdown, Faster QEMU, and more"
 +++
 
 ### The DevOps'ish Podcast
