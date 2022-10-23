@@ -2,24 +2,26 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-10-22T07:00:00Z
-description = []
+description = ["KubeCon Detroit, the layoffs will keep getting reported until they stop happening, SBOMs overhyped, Twitter deal 🪓?, signals, mirrord, Docker, Focker, and more"]
 draft = false
 slug = "290"
-tags = []
-title = "DevOps'ish 290: "
+tags = ["Detroit", "KubeCon", "Tech", "event", "DevOps", "free", "Michigan", "job", "Kubernetes", "conference", "podcast", "Raleigh", "downtown", "open source", "Contibutor Summit", "friends", "Ubuntu", "Cloud Native", "Twitter", "Space", "framework", "Acorn", "layoffs", "GitHub", "recession", "CNCF Ambassador", "signals"]
+title = "DevOps'ish 290: KubeCon Detroit, the layoffs will keep getting reported until they stop happening, SBOMs overhyped, Twitter deal 🪓?, signals, mirrord, Docker, Focker, and more"
 +++
+
+**Side note**: I'm out of spoons some weeks and don't write an intro. I'm not going to apologize for that. Last week's newsletter wasn't my best, but I make up for it this week. It's all about the long haul. Feel free to hit reply anytime.
 
 One of the more useful things I created this week was with the help of fellow Amazonian, [Tom "Spot" Calloway](https://twitter.com/spotfoss). Spot asked me, as a local, to suggest to him some great restaurants here in Detroit. I sat down with a list of the top 200 Detroit restaurants and pointed out all the ones I'd enjoyed over the years. Spot looked at that list and said, "We should make a doc about this." I said, "We should make it publicly available and share it," because people were DM'ing me asking the exact same questions. Spot put great care into curating most of the data.
 
-Please feel free to reference the [KubeCon Detroit Food and Drink Suggestions](https://devopsi.sh/food) should you need to pick a place for dinner one night this week. It has been crowdsourced from locals and packed with all the necessary information to make a decision. If you're looking for a party to go to, check out this unofficial list of [KubeCon NA 2022 Parties](https://conferenceparties.com/kubecon22/)
+Please feel free to reference the [KubeCon Detroit Food and Drink Suggestions](https://devopsi.sh/food) should you need to pick a place for dinner one night this week. It has been crowdsourced from locals and packed with all the necessary information to make a decision. If you're looking for a party to go to, check out this unofficial list of [KubeCon NA 2022 Parties](https://conferenceparties.com/kubecon22/?utm_source=devopsish)
 
 KubeCon North America 2022 is in Detroit this week. I would love to say I had a small part to play in that, but to be honest, it was probably more [Bob](https://twitter.com/mrbobbytables), [Jeff](https://twitter.com/jeefy), and [Jorge](https://twitter.com/castrojo). But, after doing a Twitter Space with [Justin Garrison](https://twitter.com/rothgar) yesterday, I realized it might be worthwhile to explain my journey to Detroit and my efforts over the years to get a tech conference to Detroit.
 
-I first came to Detroit in 2010, when my wife and I met. Her family lives in the Detroit Metro Area, as we do now. I remember my first Detroit Tigers game back then. The city was grappling with the outcomes of the [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) (the same recession that sent Julie to Raleigh, NC where we’d later meet). We had many, many more visits between 2010 and 2016. I enjoyed the trips, even the snowy ones. I spent time in Denver in the military, so Michigan weather wasn’t anything new to me.I loved Raleigh, but it wasn't like Tampa or Denver, with sports teams and all the big city things I'd come to enjoy over the years.
+I first came to Detroit in 2010, when my wife and I met. Her family lives in the Detroit Metro Area, as we do now. I remember my first Detroit Tigers game back then. The city was grappling with the outcomes of the [Great Recession](https://en.wikipedia.org/wiki/Great_Recession?utm_source=devopsish) (the same recession that sent Julie to Raleigh, NC where we’d later meet). We had many, many more visits between 2010 and 2016. I enjoyed the trips, even the snowy ones. I spent time in Denver in the military, so Michigan weather wasn’t anything new to me.I loved Raleigh, but it wasn't like Tampa or Denver, with sports teams and all the big city things I'd come to enjoy over the years.
 
 Fast forward a few years, in 2016, my then boss, Josh Wyatt, convinced me I should get into public speaking. I was in a role identified as a mentor and leader within our DevOps practice. I made lifelong friends in that role. It was one of the best jobs I had in all the hopping around I had to do in Raleigh. As it turns out, you're grossly underpaid coming from the military and as we all know, the best way to get a raise in tech is to change jobs.
 
-As I submitted [CFPs](https://chrisshort.net/abstracts/) and got rejected, I started evolving my thinking about the proposals. I would always ask for feedback if any was available, and I would iterate on existing CFPs. But, I hit gold when I came to the realization that a lot of the things I was doing in 2016 were incredibly similar to what I did in 2000 when I was stationed in Virginia. I was a disabled veteran and actively working in a DevOps organization. I finally made a CFP worthy of acceptance at a strategically chosen DevOpsDays Detroit: [What the Military Taught Me About DevOps](https://chrisshort.net/abstracts/what-the-military-taught-me-about-devops/)
+As I submitted [CFPs](https://chrisshort.net/abstracts/) and got rejected, I started evolving my thinking about the proposals. I would always ask for feedback if any was available, and I would iterate on existing CFPs. But, I hit gold when I came to the realization that a lot of the things I was doing in 2016 were incredibly similar to what I did in 2000 when I was stationed in Virginia. I was a disabled veteran and actively working in a DevOps organization. I finally made a CFP worthy of acceptance at a strategically chosen DevOpsDays Detroit: [What the Military Taught Me About DevOps](https://chrisshort.net/abstracts/what-the-military-taught-me-about-devops/?utm_source=devopsish)
 
 By that point, we were spending all our vacation time in Michigan. My parent's made a series of terrible, backstabbing, subverting, and rude decisions and statements. I finally ended that toxic relationship thus relieving us of any attachment to North Carolina aside from our good friends. This cleared an opportunity for us.
 
@@ -29,7 +31,7 @@ I impressed a couple of companies with my talk. I came up to Detroit for a few i
 
 I went to KubeCon NA 2017 in Austin (where it snowed ❄️❄️❄️️), long story short, as someone looking for a job. I met Jorge Castro one night for a beer. We talked about tech, Michigan, the VA, etc. Right before he left, Jorge mentioned I should apply to be a [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) (which, through it all, I still am). DevOps'ish was a year old at that point, being in DevOps, and working in SIG ContribEx was apparently the right mix because in January 2018 I was named a CNCF Ambassador. That month I also got a new job reporting to a wonderful mentor and friend, [John Willis](https://twitter.com/botchagalupe).
 
-Through the following years, I always made sure that any chance I got I would be Detroit's hype man. I got to the point where a signature of any of my talks was a slide of recent pictures of downtown Detroit and a statement about [how awesome the city had become](https://youtu.be/-lLjEQx0H4I).
+Through the following years, I always made sure that any chance I got I would be Detroit's hype man. I got to the point where a signature of any of my talks was a slide of recent pictures of downtown Detroit and a statement about [how awesome the city had become](https://youtu.be/-lLjEQx0H4I?utm_source=devopsish).
 
 Fast forward to 2019 when I get a rather special request from the Red Hat Events team. They asked if I could do a site survey of a hotel in downtown for a 2020 event. Yes, they knew I was quited biased. But, they also knew that I knew their style and could be objective about any site survey. I showed up early to eat in the hotel. When I met the manager, I told her I was impressed by the bar staff and my meal was good. She knew I wasn't fucking around at that point. This wasn't gonna be an easy one. With a Google Doc open on my phone I proceeded to thoroughly scour the hotel. I walked about a total of a mile and a half to get photos of the surrounding area and note amenities nearby. The site survey was accepted and the event was cleared to come to Detroit. I was so excited! A real tech event from Red Hat coming to Detroit. Then COVID happened.
 
@@ -83,10 +85,6 @@ Every year, thousands of developers of free and open source software from all ov
 Michelle Roberts, BBC News  
 This really bites you in the ass in your 50s.
 
-[Salesforce hit with layoffs and a new hiring freeze](https://www.protocol.com/bulletins/salesforce-layoffs-hiring-freeze?utm_source=devopsish)  
-Joe Williams, Protocol  
-"That's a small fragment of Salesforce's over 73,000 workers, but large tech companies have been loathe to undergo layoffs, most likely to avoid igniting fear among investors that their growth prospects have changed."
-
 [Google's Jigsaw, with U.S. government money, is bringing a VPN to Iran](https://www.washingtonpost.com/technology/2022/10/13/iran-protests-google-jigsaw-vpn/?utm_source=devopsish)  
 Joseph Menn and Yasmeen Abutaleb, The Washington Post  
 I used Jigsaw ([Outline](https://getoutline.org/)) for quite some time. It's quite good and easy enough for non-tech saavy folks to manage.
@@ -100,6 +98,10 @@ Ian Evenden, Tom's Hardware
 "New dark theme for MS employees" 👀 👀 👀  
 That's ice cold.
 
+[Salesforce hit with layoffs and a new hiring freeze](https://www.protocol.com/bulletins/salesforce-layoffs-hiring-freeze?utm_source=devopsish)  
+Joe Williams, Protocol  
+"That's a small fragment of Salesforce's over 73,000 workers, but large tech companies have been loathe to undergo layoffs, most likely to avoid igniting fear among investors that their growth prospects have changed."
+
 [Stripe Takes Steps To Prune Workforce](https://www.forbes.com/sites/jeffkauflin/2022/10/20/stripe-takes-steps-to-prune-workforce/?utm_source=devopsish)  
 Jeff Kauflin and Alex Konrad, Forbes  
 "*Forbes* spoke to ten former and current Stripe employees for this story; all asked to remain anonymous. In interviews and in comments online, workers say Stripe’s recent moves have exacerbated a lack of “psychological safety” at the hard-charging private company, leaving some afraid to speak up or express dissenting opinions."
@@ -109,7 +111,7 @@ Jeff Kauflin and Alex Konrad, Forbes
 [SBOMs: An Overhyped Concept That Won't Secure Your Software Supply Chain](https://www.darkreading.com/cloud/sboms-an-overhyped-concept-that-won-t-secure-your-software-supply-chain-?utm_source=devopsish)  
 Peter Morgan, Dark Reading  
 🎶🎶🎶 Music to my ears 🎶🎶🎶  
-Come to the next [GitBOM meeting](https://gitbom.dev/community/#community-meetings) (we're renaming it soon because it's neither Git nor BOM). It's legit, y'all.
+Come to the next [GitBOM meeting](https://gitbom.dev/community/#community-meetings?utm_source=devopsish) (we're renaming it soon because it's neither Git nor BOM). It's legit, y'all.
 
 [US might bail Musk out by blocking Twitter deal over national security](https://arstechnica.com/tech-policy/2022/10/us-might-bail-musk-out-by-blocking-twitter-deal-over-national-security/?utm_source=devopsish)  
 Ashley Belanger, Ars Technica  
@@ -146,7 +148,7 @@ Thirteen differnt problems Kubernetes was made to solve right at your fingertips
 Jeff Geerling  
 "In the presentation, I gave a tour of my homelab, highlighting it's growth from a modem and 5-port switch to a full 24U rack with a petabyte of storage and multiple 10 gigabit switches!" How well Jeff does things is truly impressive.
 
-[mirrord 3.0 is out!](https://metalbear.co/blog/mirrord-3.0-is-out/)  
+[mirrord 3.0 is out!](https://metalbear.co/blog/mirrord-3.0-is-out/?utm_source=devopsish)  
 Eyal Bukchin , MetalBear 🐻  
 "mirrord is the cornerstone of a new development workflow, one with dramatically shorter feedback loops."
 
@@ -157,7 +159,7 @@ Told y'all it was right around the corner.
 [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html?utm_source=devopsish)  
 Subpar but widely used alternative web browsers are essentially DDoSing widely used ad blocking list.
 
-[Introducing Acorn Encrypted Secrets](https://acorn.io/introducing-acorn-encrypted-secrets/)  
+[Introducing Acorn Encrypted Secrets](https://acorn.io/introducing-acorn-encrypted-secrets/?utm_source=devopsish)  
 Acorn Labs  
 Maybe when volleyball season is over I'll have some time to kick tires on Acorn. This implementation feels right.
 
@@ -178,7 +180,7 @@ Congrats to the containerd community!
 
 ## DevOps'ish Tweet of the Week
 
-Me: I ❤️ GitHub Mobile app.
+Me: I ❤️ GitHub Mobile app.  
 Steve: ShitOps.
 
 [![@stevemorgandev on Twitter: "Yep. Approving PRs from the 🚽 is my specialty")](https://shortcdn.com/devopsish/290-devopsish-post-of-the-week.webp)](https://twitter.com/stevemorgandev/status/1582742654722355200?utm_source=devopsish)
