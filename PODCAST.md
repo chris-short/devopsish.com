@@ -46,7 +46,7 @@ These all probably require my login to get the most accurate data, but they are 
 ### Title
 
 Title the Twitter Space:  
-*This week in DevOps'ish: 2022-09-26*
+*The DevOps'ish Podcast: 2022-09-26*
 
 ## Share on Social Media
 
@@ -56,13 +56,15 @@ Share the new link ASAP, as a sticky post on [/r/devopsish](https://www.reddit.c
 - Mark it as Moderator
 - Mark as OC
 - Mark as Spoiler
-- Example: <https://www.reddit.com/r/devopsish/comments/xij6rf/this_week_in_devopsish_20220926_next_devopsish/>
+- Add Podcast flair
+- Example: <https://www.reddit.com/r/devopsish/comments/yapjup/the_spooky_post_kubecon_special_edition_of_the/>
 
 - Create additional Social Media
   - Day before
   - One hour before
   - 15 minutes before
   - Go live
+  - Post once available via Podcast networks
 
 ### Record
 
