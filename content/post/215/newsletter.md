@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
 date = 2021-04-25T07:00:00Z
 description = ["Prepping for KubeCon, we're languishing, CodeCov debacle, Signal slashes Cellebrite, not so Golden Gophers, ARM deal halted, Kubernetes Gateway API, and more"]
 draft = false

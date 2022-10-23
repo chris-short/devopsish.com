@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
 date = 2021-06-27T07:00:00Z
 description = ["Take your time off, Bryan Liles on a mission, John McAfee dead, Dell SupportAssist assisting the wrong people, AWS DNS hijack, Istio 1.10, Intel to make RISC-V chips, and more"]
 draft = false

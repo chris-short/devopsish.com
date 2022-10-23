@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-06-26T07:00:00Z
 description = ["Open Source Summit, Tiger Global, KubeCon's Lack of Diversity, Interim CNCF Code of Conduct Committee, ugit, GitBOM, Fermyon, Clockwork, and more"]
 draft = false

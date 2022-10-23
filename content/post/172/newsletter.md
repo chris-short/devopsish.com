@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
 date = 2020-03-22T07:00:00Z
 description = "Kubernetes 1.18 is coming, curl gets JSON, istiod, install OKD4 on GCP, Tailscale, and more"
 draft = false

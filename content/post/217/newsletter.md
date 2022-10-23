@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
 date = 2021-05-09T07:00:00Z
 description = ["KubeCon EU 2021, COSI confusion, Kohl's GitOps tool, Colonial Pipelines attack, dev platforms, Docker dead in water, GitOps Con 2021, PodTopologySpread, and more"]
 draft = false
