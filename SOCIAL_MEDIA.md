@@ -21,27 +21,27 @@ These can and should be modified every week a little to so that algorithms don't
 
 ### Sunday AM (Out Now)
 
-Hot off the presses! DevOps'ish XXX — DESC https://devopsish.com/XXX/ #DevOps #GitOps #Cloud #Kubernetes #Tech #News #Newsletter
+Hot off the presses! DevOps'ish XXX — DESC https://devopsish.com/XXX/ #DevOps #Cloud #Kubernetes #Tech #News #Newsletter
 
 ### Monday Midday (11-1 Monday, Alt Jumpstart)
 
-Get a jump start on your workweek with DevOps'ish XXX — DESC https://devopsish.com/XXX #DevOps #GitOps #Cloud #Kubernetes #Tech #News #Newsletter
+Get a jump start on your workweek with DevOps'ish XXX — DESC https://devopsish.com/XXX #DevOps #Cloud #Kubernetes #Tech #News #Newsletter
 
 ### Tuesday 9 AM (Click)
 
-The latest in Cloud Native, DevOps, GitOps, Open Source, industry news, culture, & the 'ish between. DevOps'ish XXX — DESC https://devopsish.com/XXX #DevOps #GitOps #Cloud #Kubernetes #Tech #News #Newsletter
+The latest in Cloud Native, DevOps, Open Source, industry news, culture, & the 'ish between. DevOps'ish XXX — DESC https://devopsish.com/XXX #DevOps #Cloud #Kubernetes #Tech #News #Newsletter
 
 ### Wednesday PM (Influencer Social)
 
-DevOps'ish is built by me, open source leader, #Kubernetes contributor, #DevOps practitioner, and #GitOps enthusiast, Chris Short (chrisshort.me). Subscribe today for the latest in Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between! https://devopsish.com/subscribe
+DevOps'ish is built by me, open source leader, #Kubernetes contributor, and #DevOps practitioner, Chris Short. Subscribe today for the latest in Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between! https://devopsish.com/subscribe
 
 ### Thursday PM (1-2 PM, Random Subscribe Giphy)
 
-Never heard of DevOps'ish? It's a newsletter covering Cloud Native, #DevOps, #GitOps, Open Source, industry news, culture, and the ‘ish between. It's opinionated, geared toward increasing knowledge, and improving skills. Subscribe now! https://devopsish.com/subscribe #Cloud #Kubernetes
+Never heard of DevOps'ish? It's a newsletter covering Cloud Native, #DevOps, Open Source, industry news, culture, and the ‘ish between. It's opinionated, geared toward increasing knowledge, and improving skills. Subscribe now! https://devopsish.com/subscribe #Cloud #Kubernetes
 
 OR
 
-Most of these "Suggested Reads" land in a newsletter I write called, DevOps'ish. "Cloud Native, #DevOps, #GitOps, Open Source, industry news, culture, and the 'ish between." Sound like something you could benefit from? Subscribe here: https://devopsish.com/subscribe
+Most of these "Suggested Reads" land in a newsletter I write called, DevOps'ish. "Cloud Native, #DevOps, Open Source, industry news, culture, and the 'ish between." Sound like something you could benefit from? Subscribe here: https://devopsish.com/subscribe
 
 ### Friday, 9 AM ET (Podcast with Giphy)
 
