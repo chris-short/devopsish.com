@@ -9,7 +9,7 @@ tags = []
 title = "DevOps'ish 291: Post-KubeCon Detroit, "
 +++
 
-**Side Note:** I have no doubt that Twitter is going to unban people that really shouldn't be for national security reasons. With that in mind, I've consolidated my Mastodon presence on the Mastodon server [hachyderm.io](https://hachyderm.io/) so please follow me there [@ChrisShort](https://hachyderm.io/@ChrisShort)!
+**Side Note:** I have no doubt that Twitter is going to unban people that really shouldn't be for national security reasons. With that in mind, I've consolidated my Mastodon presence on the Mastodon server [hachyderm.io](https://hachyderm.io/invite/52R3N6to) so please follow me there [@ChrisShort](https://hachyderm.io/invite/52R3N6to)!
 
 **Also**, Happy birthday, Max! My youngest's birthday is today. Stay awesome, buddy!
 
