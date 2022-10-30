@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-10-30T07:00:00Z
-description = ["Post-KubeCon Detroit, "]
+description = ["Post-KubeCon Detroit, Max's birthday, DevOps'ish Podcast, Layoffs, Time, Howie, 1.84 petabits per second, markmap, helm-dashboard, and more"]
 draft = false
 slug = "291"
-tags = []
-title = "DevOps'ish 291: Post-KubeCon Detroit, Max's birthday, "
+tags = ["time", "KubeCon", "Detroit", "Kubernetes", "Max", "podcast", "Twitter", "event", "open source", "Arm", "coffee", "CNCF", "cloud", "Chainguard", ""]
+title = "DevOps'ish 291: Post-KubeCon Detroit, Max's birthday, DevOps'ish Podcast, Layoffs, Time, Howie, 1.84 petabits per second, markmap, helm-dashboard, and more"
 +++
 
 **Side Note:** I have no doubt that Twitter is going to unban people that really shouldn't be for national security reasons. With that in mind, I've consolidated my Mastodon presence on the Mastodon server [hachyderm.io](https://hachyderm.io/invite/52R3N6to) so please follow me there [@ChrisShort](https://hachyderm.io/invite/52R3N6to)!
@@ -43,7 +43,11 @@ I had a wonderful lunch with a container space CTO. I did more booth stop-ins, n
 
 After that, things started to decline quickly physically. I have this issue on lousy pain days where meds don't last as long and fall off faster the closer I get to the time for my afternoon dose. When I realized I was hurting, I was an hour late. Another mistake didn't take me down but made things a smidge harder. I opted to have a quiet night of news reading, ice, and heat. I still bumped into people between the back way to dinner and taking it back to my room.
 
-Friday morning, I was rough. I was hydrated, had a RxBar, and was lightly caffeinated. I decided to grab some Panera at 8:45 AM. Returning to my room, I hit my social interaction upper limit for the week as I bumped into multiple people. I set up my in-room keynote watching (MacBook Pro, [Dongle for USB, power, and HDMI](https://amzn.to/3zv8xTb), HDMI cable to hotel TV). I watched the keynotes with a special appreciation for Bob and Jeff's talk. My boss checked in; I let him know I was done. I went home and did everything I could to make myself right for Max after school. We had a lot of catching up to do. Now I need some time to relax.
+Friday morning, I was rough. I woke up, got hydrated, had a RxBar, and was lightly caffeinated. I decided to grab some Panera at 8:45 AM. Returning to my room, I hit my social interaction upper limit for the week as I bumped into multiple people. I set up my in-room keynote watching (MacBook Pro, [Dongle for USB, power, and HDMI](https://amzn.to/3zv8xTb), HDMI cable to hotel TV).
+
+I watched the keynotes with a special appreciation for Bob and Jeff's talk. Notably absent, Ambassador of the Year awards. My boss checked in; I let him know I was done. I went home and did everything I could to make myself right for Max after school. We had a lot of catching up to do.
+
+Now I need some time to relax.
 
 ### The DevOps'ish Podcast
 
