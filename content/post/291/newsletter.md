@@ -1,12 +1,12 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-10-22T07:00:00Z
+date = 2022-10-30T07:00:00Z
 description = ["Post-KubeCon Detroit, "]
 draft = false
 slug = "291"
 tags = []
-title = "DevOps'ish 291: Post-KubeCon Detroit, "
+title = "DevOps'ish 291: Post-KubeCon Detroit, Max's birthday, "
 +++
 
 **Side Note:** I have no doubt that Twitter is going to unban people that really shouldn't be for national security reasons. With that in mind, I've consolidated my Mastodon presence on the Mastodon server [hachyderm.io](https://hachyderm.io/invite/52R3N6to) so please follow me there [@ChrisShort](https://hachyderm.io/invite/52R3N6to)!
@@ -47,7 +47,7 @@ Friday morning, I was rough. I was hydrated, had a RxBar, and was lightly caffei
 
 ### The DevOps'ish Podcast
 
-[The DevOps'ish Podcast](https://devopsish.com/podcast/) is back for its super spooky edition. No it won't be scary unless you bring up Kubernetes Policies; then I'll tell you not many people use them, like at all.
+[The DevOps'ish Podcast](https://devopsish.com/podcast/) is back for its super spooky edition. No it won't be scary unless you bring up Kubernetes Policies; then I'll tell you not many people use them, like at all ([take this survey](https://www.surveymonkey.com/r/T3PM9J8) if you want to try and help fix that).
 
 [Join the Twitter Space](https://twitter.com/i/spaces/1dRKZMoeDzbxB) to participate **LIVE** next Monday, October 31th, 10 AM ET/14:00 UTC ([iCal](https://devopsi.sh/iCal) and [Google Calendar](https://devopsi.sh/GCal)).
 
@@ -73,19 +73,87 @@ Every year, thousands of developers of free and open source software from all ov
 
 ## People
 
-PEOPLE
+[Welcome to hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)  
+Nilay Patel, The Verge  
+"You break it, you buy it."
+
+[Time is an illusion, Unix time doubly so...](https://www.netmeister.org/blog/epoch.html)  
+Time is merely the understanding of how to use human constructs to measure it. And in the Unix Bible Genesis is `epoch` or 00:00:00 UTC on January 1st, 1970.
+
+[Google vets fix software supply-chain security at Chainguard](https://www.protocol.com/enterprise/google-security-software-supply-chainguard#toggle-gdpr)  
+Kyle Aspach, Protocol  
+"Tools for securing the software supply chain have flooded into the market in the wake of the SolarWinds breach. Chainguard is taking a different approach from the rest."
+
+[The Big Tech Hiring Slowdown Is Here and it will Hurt](https://blog.pragmaticengineer.com/big-tech-hiring-slowdown/)  
+Gergely Orosz, The Pragmatic Engineer  
+Snyk, Mindbody, and Zillow are telling us, if your business isn't sound, you're going to have a bad time.
+
+[Seagate to Cut 3,000 Jobs Amid Poor Quarter, Charges of Export Violations](https://www.tomshardware.com/news/seagate-to-layoff-3000)  
+Anton Shilov, Tom's Hardware  
+"As demand for hard drive slumps, Seagate adjusts its workforce"
+
+[RIP: Kathleen Booth, the inventor of assembly language](https://www.theregister.com/2022/10/29/kathleen_booth_obit)  
+Liam Proven, The Register  
+"As well as building the hardware for the first machines, she wrote all the software for the ARC2 and SEC machines, in the process inventing what she called "Contracted Notation" and would later be known as assembly language."
 
 ## Process
 
-PEOCESS
+[Howie: The Post-Incident Guide](https://www.jeli.io/howie/welcome)
+Jeli  
+"The guide you’re about to read will provide you with an explanation of how to get the most out of your incidents. This process has been developed by a number of leading experts in the field and shows the steps to conduct an in-depth investigation."
+
+[Fermyon raises $20M to build tools for cloud app dev](https://techcrunch.com/2022/10/24/fermyon-cloud-app-webassembly-20m-funding-series-a/)  
+Kyle Wiggers, TechCrunch  
+Congrats to my friends at Fermyon!
+
+[Cloud native policy and governance usage 2022 Survey](https://www.surveymonkey.com/r/T3PM9J8)  
+Please take this survey. My friend, Kim McMahon at Nirmata, is trying to get her arms around how big managing policies are. This information will help drive initatives at Nirmata and in Kyverno.
+
+[Arm Changes Business Model – OEM Partners Must Directly License From Arm](https://www.semianalysis.com/p/arm-changes-business-model-oem-partners)  
+Dylan Patel, SemiAnalysis  
+Qualcomm-Arm news results in potentially overhyped headline.
+
+[Fedora 37 Release Delayed To Mid-November Over Critical OpenSSL Vulnerability](https://www.phoronix.com/news/Fedora-37-November-Delay)  
+Michael Larabel, Phoronix  
+As I said on Twitter, "I don’t know what OpenSSL 3’s adoption rate is," but this vuln does not impact the 1.x branch.
 
 ## Tools
 
-TOOLS
+[Record-breaking chip can transmit entire internet's traffic per second](https://newatlas.com/telecommunications/optical-chip-fastest-data-transmission-record-entire-internet-traffic/)  
+Michael Irving, New Atlas  
+"Engineers have transmitted data at a blistering rate of 1.84 petabits per second (Pbit/s), almost twice the global internet traffic per second."
+
+[Try markmap](https://markmap.js.org/repl)  
+"Markmap is a combination of Markdown and mindmap. It parses Markdown content and extracts its intrinsic hierarchical structure and renders an interactive mindmap, aka markmap."
+
+[Workload Isolation with Aurae Cells](https://aurae.io/blog/24-10-2022-aurae-cells/)  
+Kris Nóva, Aurae Runtime  
+"The API is synchronous, and is intended to serve as the lowest level building block for future subsystems in the project... The API introduces 5 workloads types of runtime isolation primitives, as well as a special function known as `Spawn()`."
+
+[50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)  
+Colin Bartlett, VimTricks  
+"Here are 50 useful Vim commands that work in normal mode."
+
+[How DoorDash Governs Its Infrastructure with Open Policy Agent](https://thenewstack.io/how-doordash-governs-its-infrastructure-with-open-policy-agent/)  
+Jessica Wachtel, The New Stack  
+"After a DoorDash engineer creates a GitHub pull request, Atlantis runs a Terraform plan and passes the plan file to conftest, which evaluates the OPA policy based on the Terraform plan, then comments the output to the PR."
+
+[The State of Vault and Kubernetes, and Future Plans](https://www.hashicorp.com/blog/the-state-of-vault-and-kubernetes-and-future-plans)  
+Justin Weissig, Hashicorp  
+"This blog post will look at the core integrations and use cases for how people are using HashiCorp Vault and Kubernetes together. We’ll discuss things like how to get up and running, options for injecting secrets, and where use cases are going in the future."
+
+[komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard)  
+"The missing UI for Helm - visualize your releases"
+
+[chainguard-images/static](https://github.com/chainguard-images/static)  
+"Base image with just enough files to run static binaries!"
+
+[vercel/turbo](https://github.com/vercel/turbo)  
+"Turbo is an next-generation toolchain for frontend development, written in Rust."
 
 ## DevOps'ish Tweet of the Week
 
-[![@stevemorgandev on Twitter: "Yep. Approving PRs from the 🚽 is my specialty")](https://shortcdn.com/devopsish/291-devopsish-post-of-the-week.webp)](https://twitter.com/stevemorgandev/status/1582742654722355200?utm_source=devopsish)
+[![@devopsjacquie on Twitter: "@mattstratton DevOps is dead but this thing that is arguably a subset of DevOps is the answer 😎")](https://shortcdn.com/devopsish/291-devopsish-post-of-the-week.webp)](https://twitter.com/devopsjacquie/status/1585730187911901184?utm_source=devopsish)
 
 ### Notes
 
