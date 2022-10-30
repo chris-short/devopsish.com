@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
 date = 2021-09-12T07:00:00Z
 description = ["Giving up on reopen dates, containers everywhere, Epic v. Apple, OWASP Top 10 changes, Kubernetes troubleshooting, Podman, and more"]
 draft = false

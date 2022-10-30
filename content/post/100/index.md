@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2018"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
 date = 2018-11-04T18:30:00Z
 description = "At Least it Wasn't Oracle, IBM Acquiring Red Hat, AWS, Amazon HQ2 News, Kubernetes, #noServerNovember, Neomonolith, and More"
 draft = false

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-07-31T07:00:00Z
 description = ["Intro to eBPF, Lawfare looks at open source, Sextortion Victim Hacks Back, UEFI rootkit, UOR Framework, Intel's dividend amid CHIPS Act, and more"]
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
 date = 2020-10-04T07:00:00Z
 description = "Help save face, help for juniors, Hacktoberfest objection, cgroups, breaking busy culture, and more"
 draft = false

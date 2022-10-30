@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
 date = 2020-10-25T07:00:00Z
 description = "Complacency, Zoomsterbating, time zones, website carbon footprints, Docker hub policy changes AGAIN, and more"
 draft = false

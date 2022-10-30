@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-08-21T07:00:00Z
 description = ["Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more"]
 draft = false

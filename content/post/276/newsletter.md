@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-07-17T07:00:00Z
 description = ["Packed with projects, Chrome OS Flex, DevOpsDays Seattle, Screaming in the Cloud, 'critical' projects maintained by volunteers, OSS Insight, and more"]
 draft = false

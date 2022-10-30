@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-03-05T07:00:00Z
 description = ["Doctor induced roller coasters, Tessa Kriesel, NSA security guides, Kubernetes Hardening, GitOps & Flux, Get Vault Secrets into Kubernetes, and more"]
 draft = false

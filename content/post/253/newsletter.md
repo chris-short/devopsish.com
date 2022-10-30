@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-01-23T03:30:00Z
 description = ["5G — It's all good, Measuring open source, Intel coming to Ohio, MoonBounce, GitOps in 2021, Google SRE hellscape, and more"]
 draft = false

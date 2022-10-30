@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
 date = 2021-04-17T07:00:00Z
 description = ["Kubernetes mentioned 26 times, Burnout, VMware spun off, Google's FloC, Kanban, chip shortage, shell operator and more"]
 draft = false

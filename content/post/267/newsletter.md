@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-05-15T07:00:00Z
 description = ["KubeCon EU is here, SUSE discriminates, Windows vulns, scammer footgun, git, GitOps, and so much more"]
 draft = false

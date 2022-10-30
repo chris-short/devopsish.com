@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2016"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2016"]
 date = 2016-12-18T00:00:00Z
 description = "It was the week before Christmas 🤶 🎅 and all through the DevOps world not a creature was stirring not even a mouse 🖱."
 draft = false

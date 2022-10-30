@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
 date = 2020-08-23T07:00:00Z
 description = "KubeCon EU 2020 recap, vacations, Mozilla, permanent WFH, Arm sale, Hierarchical Namespaces, Tekton Hub, Linkerd, and more"
 draft = false

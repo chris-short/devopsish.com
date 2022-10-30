@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2019"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
 date = 2019-09-15T07:00:00Z
 description = "Richard Stallman needs to go, Istio 1.13, intelligence gathering for nation states, Python 2's sunset, and a OOCL Hong Kong's container ship worth of Kubernetes"
 draft = false

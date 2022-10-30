@@ -12,7 +12,7 @@ aliases = [
 
 {{< eo_top >}}
 
-DevOps'ish is a weekly newsletter covering Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between. A weekly newsletter assembled by open source leader, DevOps veteran, and Kubernetes Contributor [Chris Short](https://chrisshort.me).
+DevOps'ish is a weekly newsletter covering Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between. A weekly newsletter assembled by open source leader, DevOps veteran, and Kubernetes Contributor [Chris Short](https://chrisshort.me).
 
 Over the years, [DevOps'ish](/) has built a name for providing timely and pertinent content to its readers. This comes through thoughtful curation and partnerships with other media outlets.
 

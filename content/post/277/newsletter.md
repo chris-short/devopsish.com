@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-07-24T07:00:00Z
 description = ["DevOpsDays Seattle, Google freezes hiring; spf13 out, The Path to GitOps, MinIO calls foul on Nutanix, Ephemeral Containers, K8s Gateway API, and more"]
 draft = false

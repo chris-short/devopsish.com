@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
 date = 2020-02-16T07:00:00Z
 description = "Kubernetes team secrets, Amazon bending CAP Theorem, JEDI chokes Microsoft, GitHub CLI, Kiali the Istio dashboard, coding bootcamp scams, and more"
 draft = false

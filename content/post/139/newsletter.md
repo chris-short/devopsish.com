@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2019"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
 date = 2019-08-04T07:00:00Z
 description = "Dark side of JEDI, CapitalOne is CapitalScrewed, Pivotal's fall from favor, vanishing k8s, doomed languages, and more"
 draft = false

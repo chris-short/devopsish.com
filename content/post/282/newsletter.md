@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-08-28T07:00:00Z
 description = ["Senselessness, sleeplessness leads to selfishness, Twilio Breach, patch your GitLab, OpenLens, High Table Stakes of Modern Blogs, and more"]
 draft = false

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
 date = 2021-05-16T07:00:00Z
 description = ["What is DevOps eBook, Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more"]
 draft = false

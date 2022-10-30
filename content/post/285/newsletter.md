@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-09-18T07:00:00Z
 description = ["Twitter Space and Podcast, Richard I. Cook, Patreon Participating in Pedophilia?, intruders inside LastPass systems for 4 days, Caddy vs. Nginx, and more"]
 draft = false

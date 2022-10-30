@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2021"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
 date = 2021-11-07T07:00:00Z
 description = ["Automation transforms jobs, be directive without being a jerk, YAML strikes again, GitHub CEO change, Dell spins out VMware, Grace Hopper Explains the Nanosecond, Kubernetes tools galore, and more"]
 draft = false

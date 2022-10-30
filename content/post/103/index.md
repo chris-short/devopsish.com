@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2018"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
 date = 2018-11-25T07:00:00Z
 description = "DevOps for All, Requirements, Discord Acquisition Coming, Kubernetes Myths, Service Meshes, and More"
 draft = false

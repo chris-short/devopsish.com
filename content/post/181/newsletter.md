@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
 date = 2020-08-30T07:00:00Z
 description = "Heptio people abandoning VMWare's ship, DevOps titles, Camille Fournier on management, plain text email is no longer a good development tool, GitOps, and more"
 draft = false

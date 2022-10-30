@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2022"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-10-16T07:00:00Z
 description = ["Wall of Awful, Intel Layoffs Soon, mastodon.technology Shutdown, Faster QEMU, and more"]
 draft = false

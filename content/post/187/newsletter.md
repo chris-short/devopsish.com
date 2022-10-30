@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "GitOps News", "Open Source News", "2020"]
+categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
 date = 2020-10-11T07:00:00Z
 description = "Kubernetes on spy planes, @K8sContributors, Unfck the internet, Demystifying GitOps, Cilium, and more"
 draft = false
