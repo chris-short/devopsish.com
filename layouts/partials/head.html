@@ -62,6 +62,16 @@
   <!-- Generator -->
   {{ hugo.Generator }}
 
+  <!-- RSS -->
+  {{ range .AlternativeOutputFormats }}
+  <link
+    rel="{{ .Rel }}"
+    type="{{ .MediaType.Type }}"
+    href="{{ .Permalink }}"
+    title="{{ site.Title }}"
+  />
+  {{ end }}
+
   <!-- Misc -->
   {{ if or hugo.IsProduction (eq site.Params.env "production") }}
   <!---->

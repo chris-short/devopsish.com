@@ -15,7 +15,6 @@ aliases = [
 
 +++
 
-{{< eo_top >}}
 
 Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, senior leaders, and readers from all walks of life *across the globe*.
 
