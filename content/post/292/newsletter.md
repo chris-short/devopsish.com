@@ -35,6 +35,8 @@ Thank you for your close to six years of readership. I appreciate the supportive
 
 I'm not going anywhere. I will still be on social media (with fewer Suggested Reads; I still need to figure out what I'm doing with that system). I'll still be writing at [chrisshort.net][5] ([RSS][6]). I will enable [RSS][10] for DevOps'ish in case there is news in the future. I'll also be figuring out how to manage better the stress I put on myself to do things (this will be a hot topic at therapy next week).
 
+What should you you read instead? I've maintained [kubenews.net](https://kubenews.net/) and [devopsnewsletters.com](https://devopsnewsletters.com/) for years now. 😉
+
 **So long for now. I wish you all the best of luck.**
 
 Follow me on [Twitter][7], [LinkedIn][8], and [Mastodon][9].
