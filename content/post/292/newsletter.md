@@ -2,16 +2,18 @@
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
 date = 2022-11-06T07:00:00Z
-description = [""]
+description = ["DevOps'ish is coming to an end this week due to medical conditions"]
 draft = false
 slug = "292"
-tags = []
+tags = ["Kubernetes", "Twitter", "GitHub", "Layoffs", "Mastodon", "code", "Honeycomb", "Elon Musk", "Lyft", "DevOps", "privacy", "internet", "kluctl", "CPU Limits", "cluster", "API", "AWS", "health"]
 title = "DevOps'ish 292: Not like this"
 +++
 
 This is not how I wanted things to end.
 
-I've been dealing with an elbow injury for a while. I finally went to the doctor's to figure out what was going on. That became the least of my worries shortly thereafter. I've been diagnosed with yet another ailment. This time it's my heart 🫀. **I'm under explicit doctor's orders to cut stressors out** and do things that **bring me more joy**. Basically, I need to spend less time on things that stress me out.
+I've been dealing with an elbow injury for a while. I finally went to the doctor's to figure out what was going on. That became the least of my worries shortly thereafter. I've been diagnosed with yet another ailment.
+
+This time it's my heart 🫀. **I'm under explicit doctor's orders to cut stressors out** and do things that **bring me more joy**. Basically, I need to stop doing so much.
 
 Writing a newsletter is like working under a constant deadline. DevOps'ish is many hours of extra work every week. I walk on a razor's edge to continue managing it as an independent brand while working a full-time day job at a major cloud provider. DevOps'ish turned into a second job and income stream years ago. At the very least, I've proven I can do it (which means I could always do it again).
 
