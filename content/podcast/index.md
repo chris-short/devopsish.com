@@ -6,7 +6,6 @@ draft = false
 title = "The DevOps'ish Podcast"
 +++
 
-{{< eo_top >}}
 
 The [DevOps'ish Podcast](https://anchor.fm/devopsish) is a look at the news from the sources that feed the newsletter itself. We will go over the inputs into the newsletter (not necessarily the newsletter itself) to give listeners a different look at the news that complements the newsletter. The DevOps'ish Podcast is recorded via [Twitter Spaces](https://help.twitter.com/en/using-twitter/spaces) and audience participation is highly encouraged (follow [@ChrisShort](https://twitter.com/ChrisShort) on Twitter).
 

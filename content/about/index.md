@@ -10,7 +10,6 @@ aliases = [
 
 +++
 
-{{< eo_top >}}
 
 Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between. A weekly newsletter assembled by open source leader, DevOps veteran, and Kubernetes Contributor [Chris Short](https://chrisshort.me/). Attempting to lower the barrier to entry into the DevOps and Cloud Native worlds while keeping seasoned professionals informed on the latest news, tools, and trends. Sign up for the [newsletter](/subscribe/) today!
 

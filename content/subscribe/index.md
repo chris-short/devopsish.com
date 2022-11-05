@@ -17,7 +17,6 @@ aliases = [
 
 +++
 
-{{< eo_top >}}
 
 DevOps'ish is one of the most popular newsletters in tech. [Some of the brightest minds in the industry](/praise/) are reading DevOps'ish and you should too.
 
