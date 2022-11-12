@@ -1,14 +1,14 @@
----
-name: Scheduled Netlify site build
-on:
-  schedule:
-  - cron: '0 3,4,5,6,7,8 * * 0,1,5,6'
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Trigger build on Netlify
-      env:
-        TOKEN: ${{ secrets.NETLIFY_BUILD_HOOK_KEY }}
-      run: >-
-          curl -X POST -d {} https://api.netlify.com/build_hooks/${TOKEN}
+#---
+#name: Scheduled Netlify site build
+#on:
+#  schedule:
+#  - cron: '0 3,4,5,6,7,8 * * 0,1,5,6'
+#jobs:
+#  build:
+#    runs-on: ubuntu-latest
+#    steps:
+#    - name: Trigger build on Netlify
+#      env:
+#        TOKEN: ${{ secrets.NETLIFY_BUILD_HOOK_KEY }}
+#      run: >-
+#          curl -X POST -d {} https://api.netlify.com/build_hooks/${TOKEN}
