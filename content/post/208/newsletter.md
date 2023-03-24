@@ -6,7 +6,7 @@ date = 2021-03-07T07:00:00Z
 description = "KubeCon problems, tech is the easy part, Okta eats Auth0 whole, Exchange vulns, Digital Ocean IPO, #100DaysOfKubernetes, and more"
 draft = false
 slug = "208"
-tags = ["Kubernetes", "cloud", "cloud native", "hybrid cloud", "KubeCon", "community", "DevOps", "exploit", "open source", "Digital Ocean", "Red Hat", "Kirsten Newcomer", "CNCF Ambassador", "software engineer"]
+tags = ["Kubernetes", "cloud", "cloud native", "hybrid cloud", "KubeCon", "community", "DevOps", "exploit", "open source", "Digital Ocean", "Red Hat", "Kirsten Newcomer", "software engineer"]
 title = "DevOps'ish 208: KubeCon problems, tech is the easy part, Okta eats Auth0 whole, Exchange vulns, Digital Ocean IPO, #100DaysOfKubernetes, and more"
 
 +++
