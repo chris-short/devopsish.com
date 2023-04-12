@@ -260,5 +260,3 @@
 /media/* https://medium.com/media/:splat 301
 /tagged/* /tags/:splat/ 301
 /trending* / 301
-
-/ucnotes  https://github.com/kubernetes/community/issues/7157 302
