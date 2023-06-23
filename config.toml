@@ -2,7 +2,7 @@ baseURL = "https://devopsish.com"
 title = "DevOps'ish"
 author = "Chris Short"
 theme = "paper"
-paginate = 3 # all drawings on one page
+paginate = 3
 metaDataFormat = "toml"
 newContentEditor = "code"
 languageCode = "en"
@@ -23,13 +23,13 @@ ignoreFiles = ['notes.md']
 
 [params]
   author = "Chris Short"
-  description = "Cloud Native, DevOps, Open Source, industry news, culture, and the 'ish between. Subscribe today!"
+  description = "Cloud Native, DevOps, Open Source, industry news, culture, and the 'ish between. Drink from the firehose."
   twitter = "ChrisShort"
   linkedin = "/in/thechrisshort/"
   # twitch = "thechrisshort"
   # youtube = "c/ChrisShort"
   reddit = "/r/devopsish/"
-  # github = "chris-short/devopsish.com"
+  github = "chris-short/devopsish.com"
   disableHLJS = "true"
   ShowCodeCopyButtons = "true"
   defaultTheme = "light"
@@ -73,9 +73,9 @@ disableLatLong = true
 #    weight = 1
 
   [[menu.main]]
-    identifier = "podcast"
-    name = "Podcast"
-    url = "/podcast/"
+    identifier = "firehose"
+    name = "Firehose"
+    url = "/firehose/"
     weight = 2
 
   [[menu.main]]
