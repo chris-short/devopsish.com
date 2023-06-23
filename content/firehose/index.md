@@ -14,6 +14,6 @@ If you've ever read DevOps'ish or saw Suggested Reads from me on social media, t
 
 Since the newsletter is no more and social media platforms are getting very flaky, I'll share the news feed here in case I leave whatever social media site you followed me on. [The **RSS** feed](https://bg.raindrop.io/rss/public/15805349) is also available.
 
-<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/ChrisShort/dev-ops-ish-firehose-15805349/embed/theme=auto&sort=-created"></iframe>
+{{< raindrop >}}
 
 {{< what-is-devops >}}
