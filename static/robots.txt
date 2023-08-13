@@ -1,2 +1,5 @@
 User-Agent: *
 Sitemap: https://devopsish.com/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
