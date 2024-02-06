@@ -16,4 +16,6 @@ Since social media platforms are getting very flaky (Twitter, Reddit, etc.), I'l
 
 {{< raindrop >}}
 
+{{< github-sponsor >}}
+
 {{< what-is-devops >}}
