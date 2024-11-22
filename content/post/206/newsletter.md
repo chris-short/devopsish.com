@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-02-21T07:00:00Z
+date = 2021-02-21
 description = "Kubernetes README, 'I will slaughter you', Corey Quinn in NYT, 200 Million Certificates in 24 Hours, GitOps with Flux2, K8s on ISS, and more"
 draft = false
 slug = "206"

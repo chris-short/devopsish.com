@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-12-16T07:00:00Z
+date = 2019-12-16
 description = "Guinevere Saenger on Kubernetes 1.17 release, devs as a new soft target, need for a college degree, htop, CRDs, Istio, and more"
 draft = false
 slug = "158"

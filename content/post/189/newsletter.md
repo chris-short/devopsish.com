@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-10-25T07:00:00Z
+date = 2020-10-25
 description = "Complacency, Zoomsterbating, time zones, website carbon footprints, Docker hub policy changes AGAIN, and more"
 draft = false
 slug = "189"

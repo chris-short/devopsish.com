@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-09-01T07:00:00Z
+date = 2019-09-01
 description = ""
 draft = false
 slug = "143"

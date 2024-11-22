@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-12-23T12:45:00Z
+date = 2018-12-23
 description = "KubeCon Recap, Larry Ellison, China Hacking, Kubernetes Security, and More"
 draft = false
 slug = "107"

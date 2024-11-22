@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-09-04T07:00:00Z
+date = 2022-09-04
 description = ["Cloudflare's demise, Fog Data Science, Privileged Ports Must Die, OpenTelemetry, COSI, and more"]
 draft = false
 slug = "283"

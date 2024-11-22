@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-01-31T07:00:00Z
+date = 2021-01-31
 description = "Job hopping, Block Party, Perl.com pain, SSPL sucks, sudo vuln, cloud trends, the beauty of Windows 3.11, and more"
 draft = false
 slug = "203"

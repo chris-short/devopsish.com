@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-08-01T07:00:00Z
+date = 2021-08-01
 description = ["Natural disasters, GitOps with Codefresh, NSO Group, MeteorExpress, Linkerd, Kubernetes 1.22, TSMC’s 2nm chips, cloud outposts, and more"]
 draft = false
 slug = "228"

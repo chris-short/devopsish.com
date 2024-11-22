@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "AWS"]
-date = 2019-12-08T07:00:00Z
+date = 2019-12-08
 description = "DevOps'ish 157 featured so much AWS news of interest that it is probably better to make it a separate page."
 draft = false
 url = "157/reinvent"

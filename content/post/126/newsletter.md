@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-05-05T07:00:00Z
+date = 2019-05-05
 description = "Ransom Attacks Hit Git, Managing Many Clusters, Kubernetes Failure Stories, Ansible-based Kubernetes Operators, Deadlines are Horrible, and More"
 draft = false
 slug = "126"

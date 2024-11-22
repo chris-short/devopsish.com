@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-10-13T07:00:00Z
+date = 2019-10-13
 description = "Ahh-Me or Ay-Em-Eye, Don't stop learning, GitOps, open is better, iTerm2 vuln, Ansible Operators, and More"
 draft = false
 slug = "149"

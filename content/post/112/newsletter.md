@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-01-27T07:00:00Z
+date = 2019-01-27
 description = "Kubernetes Any Way You Want It, Passing the CKA, GitOps, Joy Sparking Meetings, Processes, Containers, and VMs. Oh My! and More"
 draft = false
 slug = "112"

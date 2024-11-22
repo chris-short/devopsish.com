@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-09-05T07:00:00Z
+date = 2021-09-05
 description = ["Luke Hinds of Sigstore, three REALLY bad breaches/bugs, Docker's increasing desperation, Kubernetes mTLS, update your Operators, BGP & filesystem benchmarks, and more"]
 draft = false
 slug = "233"

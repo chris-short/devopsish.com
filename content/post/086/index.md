@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-07-29T07:00:00Z
+date = 2018-07-29
 description = "Last Chance, Kubernetes, Knative, Ansible, Google Next, and More"
 draft = false
 slug = "086"

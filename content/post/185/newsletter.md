@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-09-27T07:00:00Z
+date = 2020-09-27
 description = "COVID-19 hits too close to home, Kubernetes Contributor site, Accurics, OpenShift TV, dangers of averages, and more"
 draft = false
 slug = "185"

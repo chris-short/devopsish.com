@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Commentary", "2017"]
-date = 2017-10-10T02:00:00Z
+date = 2017-10-10
 description = "As part of the Open Spaces at DevOpsDays Raleigh, the group decided to do a Book Club to share interesting books, podcasts, etc."
 draft = false
 slug = "devopsdays-raleigh-2017-book-club"

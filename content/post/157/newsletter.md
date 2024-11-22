@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-12-09T07:00:00Z
+date = 2019-12-09
 description = "Kubernetes, BPF, container security, re:Invent, PagerDuty, .org debacle, and more"
 draft = false
 slug = "157"

@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-10-09T07:00:00Z
+date = 2022-10-09
 description = ["Pain points around containers, Open Source Work Is Work, SBOM frenzy is premature, Linux 6.0, Skyfall, Kueue, CUE, Kyverno vs Datree, and more"]
 draft = false
 slug = "288"

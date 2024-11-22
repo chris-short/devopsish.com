@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-07-10T07:00:00Z
+date = 2022-07-10
 description = ["Snakebit, You Belong Here, lots more layoffs, MI5 and FBI heads issue joint statement, 10 Awesome Kubernetes Projects for Beginners, and more"]
 draft = false
 slug = "275"

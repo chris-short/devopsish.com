@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-10-24T07:00:00Z
+date = 2021-10-24
 description = ["You're probably underpaid, Karanbir Singh Steps Down, Honeycomb's cool $50 million, and more"]
 draft = false
 slug = "240"

@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-11-28T07:00:00Z
+date = 2021-11-28
 description = ["Please do not attempt to simplify this code, Rust Mod Team, feedback, attackers don't bother brute-forcing long passwords, GitOps, kube-scheduler-simulator, and more"]
 draft = false
 slug = "245"

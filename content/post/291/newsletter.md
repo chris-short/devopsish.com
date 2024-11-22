@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-10-30T07:00:00Z
+date = 2022-10-30
 description = ["Post-KubeCon Detroit, Max's birthday, DevOps'ish Podcast, Layoffs, Time, Howie, 1.84 petabits per second, markmap, helm-dashboard, and more"]
 draft = false
 slug = "291"

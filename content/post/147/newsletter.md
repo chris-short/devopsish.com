@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-09-30T07:00:00Z
+date = 2019-09-30
 description = "Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, Docker’s impending doom, AnsibleFest, and more"
 draft = false
 slug = "147"

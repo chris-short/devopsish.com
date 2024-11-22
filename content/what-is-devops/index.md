@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2019-05-05T15:23:00Z
+date = 2019-05-05
 description = "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
 draft = false
 slug = "what-is-devops"

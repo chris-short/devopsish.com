@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-05-29T07:00:00Z
+date = 2022-05-29
 description = ["On Vacation, Layoff and Freezes, Unlimited PTO, Broadcom offers to buy VMware, and much more"]
 draft = false
 slug = "269"

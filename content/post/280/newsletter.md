@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-08-14T07:00:00Z
+date = 2022-08-14
 description = ["SBOMs aren't enough, Nutanix layoffs, Winter Soldier, cloud platform teams, EKS Multi-cluster GitOps, and more"]
 draft = false
 slug = "280"

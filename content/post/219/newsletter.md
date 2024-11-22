@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-05-22T07:00:00Z
+date = 2021-05-22
 description = ["Mobile First Development, Bill Gates, your Wi-Fi are belong to us, irksome IRC, Argo with Okta, kubectl debug, and more"]
 draft = false
 slug = "219"

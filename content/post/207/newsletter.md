@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-02-28T07:00:00Z
+date = 2021-02-28
 description = "Solarwinds, 4 hour a week Kubernetes maintainer, mischievous Mailchimp, secrets management, Digital Ocean IPO, Sysdig, BOOP, Flux, and More"
 draft = false
 slug = "207"

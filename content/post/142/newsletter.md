@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-08-25T07:00:00Z
+date = 2019-08-25
 description = "COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more"
 draft = false
 slug = "142"

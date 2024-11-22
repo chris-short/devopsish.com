@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-07-11T07:00:00Z
+date = 2021-07-11
 description = ["Kubernetes non-code contributions, don't ban politics at work, engineers waste 1 day a week on technical debt, CentOS Stream is working out, and more"]
 draft = false
 slug = "226"

@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Indexes", "2018"]
-date = 2018-11-04T07:00:00Z
+date = 2018-11-04
 description = "Coverage of the IBM acquistion of open source software leader Red Hat from around the web"
 draft = false
 slug = "ibm-red-hat-acquisition-index"

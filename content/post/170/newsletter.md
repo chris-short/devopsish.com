@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-03-08T07:00:00Z
+date = 2020-03-08
 description = "We're all grounded, transparency, women in ops, GKE price hike, pppd flaw, GitHub poaches Nicole Forsgren, container attached storage, and more"
 draft = false
 slug = "170"

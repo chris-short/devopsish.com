@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-06-02T07:00:00Z
+date = 2019-06-02
 description = "So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More"
 draft = false
 slug = "130"

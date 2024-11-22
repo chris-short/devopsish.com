@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-02-02T07:00:00Z
+date = 2020-02-02
 description = "Change at IBM and Red Hat, flaunt your Kubernetes knowledge, WireGuard, Tailscale, Azure, nmap, podman, and more"
 draft = false
 slug = "165"

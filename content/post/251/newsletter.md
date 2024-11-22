@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-01-09T07:00:00Z
+date = 2022-01-09
 description = ["About last week, 5G shenanigans, Dockershim deprecation, FTC warns companies about Log4j, GitOpsCon EU 2022 CFP open, EKS News, and more"]
 draft = false
 slug = "251"

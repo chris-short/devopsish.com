@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-08-18T07:00:00Z
+date = 2019-08-18
 description = "Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more"
 draft = false
 slug = "141"

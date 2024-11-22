@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-08-15T07:00:00Z
+date = 2021-08-15
 description = ["Complex Systems == No Single Root Cause, WFHers juggling two jobs, Service Reliability Math, eBPF Foundation, Dashboards, Tools from Black Hat and more"]
 draft = false
 slug = "230"

@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-09-13T07:00:00Z
+date = 2020-09-13
 description = "9-11, The Automated CIO, Postgres, Rust, Kubernetes, and more"
 draft = false
 slug = "183"

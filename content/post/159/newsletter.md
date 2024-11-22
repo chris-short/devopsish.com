@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-12-23T07:00:00Z
+date = 2019-12-23
 description = "Kubernetes with extra sprinkles, skilling up in DevOps, Google Cloud’s Y2K(23), privileged containers on Santa’s naughty list, and more"
 draft = false
 slug = "159"

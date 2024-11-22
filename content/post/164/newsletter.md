@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-01-26T07:00:00Z
+date = 2020-01-26
 description = "Your why, DevOps engineer interview questions, Managing the Hidden Costs of Coordination, kube-scan, funding rounds, and more"
 draft = false
 slug = "164"

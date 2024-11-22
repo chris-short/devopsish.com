@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-01-10T07:00:00Z
+date = 2021-01-10
 description = "Solarwinds plot thickens, Women hit hard in jobless report, Red Hat acquires StackRox, Slack outage, Podman and Docker Compose, WebAssembly training, greatsuspender compromise, and more"
 draft = false
 slug = "200"

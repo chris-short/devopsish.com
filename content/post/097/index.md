@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-10-14T07:00:00Z
+date = 2018-10-14
 description = "Kubernetes, Amazon Woes, Serverless, JEDI, Spinnaker, and More"
 draft = false
 slug = "097"

@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-11-21T07:00:00Z
+date = 2021-11-21
 description = ["Milestones, K8s Contributor Celebration, Cassidy Williams, Cloud Native Hackathon, Activision Blizzard CEO, GitOps, Fulcio, tools galore, and more"]
 draft = false
 slug = "244"

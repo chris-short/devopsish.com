@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-04-11T07:00:00Z
+date = 2021-04-11
 description = "Kubernetes 1.21, ArgoCD 2.0, Supreme Court saves industry, Googlers can discuss salary, Amazon made illegal firings, former Facebook recruiter sees diversity policy flaws, and more"
 draft = false
 slug = "213"

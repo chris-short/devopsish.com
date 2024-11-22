@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-03-29T07:00:00Z
+date = 2020-03-29
 description = "For shame O'Reilly, Zoom'ing in on privacy, Kubernetes 1.18, Serverless with Knative, why you should try UBI, Dockerized Folding@Home, and more"
 draft = false
 slug = "173"

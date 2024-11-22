@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-08-29T07:00:00Z
+date = 2021-08-29
 description = ["DevOps'ish 232: seccomp's day in the Kubernetes sun, Linux at 30, burn out, Chevy Bolt bot blunder, lifelong learning, GitOps, and more"]
 draft = false
 slug = "232"

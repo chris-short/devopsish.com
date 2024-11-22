@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-09-24T07:00:00Z
+date = 2018-09-24
 description = "Linus Apologizes, Giveaway Winners, Kubernetes, Istio, Dark Debt, Mage, and More"
 draft = false
 slug = "094"

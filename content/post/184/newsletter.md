@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-09-20T07:00:00Z
+date = 2020-09-20
 description = "Observability, Kubernetes, Cloud Native, Bill Gates on Elon Musk and Steve Jobs, 1,000 ways to die and we chose plastic, and More"
 draft = false
 slug = "184"

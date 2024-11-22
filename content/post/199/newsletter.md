@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-01-03T07:00:00Z
+date = 2021-01-03
 description = "Women are better leaders in crisis, 97 Things Every Cloud Engineer Should Know, Merging Microservices Back Into The Monolith, Why are my tests so slow?, and more"
 draft = false
 slug = "199"

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2016-12-11T00:00:00Z
+date = 2016-12-11
 description = "Thank You for Subscribing to DevOps'ish"
 draft = false
 slug = "thank-you"

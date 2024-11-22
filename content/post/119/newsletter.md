@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-03-17T07:00:00Z
+date = 2019-03-17
 description = "Serverless, k8s on k8s on k8s, gRPC (Yeah You Know Me), Foundation Fatigue, Self Care, and More"
 draft = false
 slug = "119"

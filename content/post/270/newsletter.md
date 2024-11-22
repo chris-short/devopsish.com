@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-06-05T07:00:00Z
+date = 2022-06-05
 description = ["KubeCon CFPs, DevOps survey, Kubernetes Annual Report, Sandberg steps aside, Lacework asks 20% of staff to step out, other layoffs, gitnoter, and more"]
 draft = false
 slug = "270"

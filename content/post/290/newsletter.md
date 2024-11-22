@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-10-22T07:00:00Z
+date = 2022-10-22
 description = ["KubeCon Detroit, the layoffs will keep getting reported until they stop happening, SBOMs overhyped, Twitter deal 🪓?, signals, mirrord, Docker, Focker, and more"]
 draft = false
 slug = "290"

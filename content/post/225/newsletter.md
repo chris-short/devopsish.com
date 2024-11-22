@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-07-04T07:00:00Z
+date = 2021-07-04
 description = ["AWS Infinidash, GPT-3 via GitHub Copilot, Polywork, rainbow marketing, LinkedIn breach, VMs hiding ransomware, Kubernetes overspend, Helm, GitOps, Tailscale with Kubernetes, and more"]
 draft = false
 slug = "225"

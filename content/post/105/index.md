@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-12-10T00:12:00Z
+date = 2018-12-10
 description = "Two Years 🎂, #KubeKhan, CVE-2018-1002105, State of k8s, vim, and More!"
 draft = false
 slug = "105"

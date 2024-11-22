@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-12-13T07:00:00Z
+date = 2020-12-13
 description = "The Raddest Release, CentOS Stream, schools using phone hacking tech, FireEye hacked, I feel bad for Austin, GitOps, Honeycomb survey, and more"
 draft = false
 slug = "196"

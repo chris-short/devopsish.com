@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-12-27T07:00:00Z
+date = 2020-12-27
 description = "Solarwinds supply chain compromise worsens (bonus DLL deep dive), Apple outages, shady GoDaddy, GitOps improves security, ARM, diffs, streams, and more"
 draft = false
 slug = "198"

@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Indexes", "2020"]
-date = 2020-12-20T07:00:00Z
+date = 2020-12-20
 description = "Coverage of the Solarwinds supply chain compromise from around the web"
 draft = false
 slug = "solarwinds-supply-chain-compromise"

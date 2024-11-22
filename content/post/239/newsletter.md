@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-10-17T07:00:00Z
+date = 2021-10-17
 description = ["KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more"]
 draft = false
 slug = "239"

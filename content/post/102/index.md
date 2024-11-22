@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-11-18T07:00:00Z
+date = 2018-11-18
 description = "Web Development is Hard, Kubernetes, Ansible, DevOps Engineer title debate, Google Woes, sr.ht, and More"
 draft = false
 slug = "102"

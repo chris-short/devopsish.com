@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-11-06T07:00:00Z
+date = 2022-11-06
 description = ["DevOps'ish is coming to an end this week due to medical conditions"]
 draft = false
 slug = "292"

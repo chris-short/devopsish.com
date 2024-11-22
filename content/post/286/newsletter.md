@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-09-25T07:00:00Z
+date = 2022-09-25
 description = ["Torvalds' M2 MacBook Air, LastPass had guests over for four days, Last Floppy-Disk Seller, Backstage, Graceful Shutdown with Lifecycle preStop Hook and more"]
 draft = false
 slug = "286"

@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-12-20T07:00:00Z
+date = 2020-12-20
 description = "Solarwinds Orion compromise, State of Women in Tech Report 2020, 737 MAX Assumptions, Google postmortem, Discord, CKS, CKAD, WebAssembly, and more"
 draft = false
 slug = "197"

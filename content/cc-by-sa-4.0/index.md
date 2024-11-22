@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-12-11T00:00:00Z
+date = 2016-12-11
 description = "Copyright — DevOps'ish"
 draft = false
 slug = "cc-by-sa-4.0"

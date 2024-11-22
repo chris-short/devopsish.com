@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-08-18T07:00:00Z
+date = 2018-08-18
 description ="Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More"
 draft = false
 slug = "089"

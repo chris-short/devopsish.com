@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-09-03T00:00:00Z
+date = 2018-09-03
 description ="Microsoft Goes Bold, ASDOR, Project Paper Cuts, Shady Telcos, Kubernetes, Ansible, and More"
 draft = false
 slug = "091"

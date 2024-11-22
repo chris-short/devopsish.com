@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-02-24T06:00:00Z
+date = 2019-02-24
 description = "Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, Hashicorp in Wired, Ansible for Kubernetes, Knative, and More"
 draft = false
 slug = "116"

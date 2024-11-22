@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-01-12T07:00:00Z
+date = 2020-01-12
 description = "kubectl tree, SHA-1, Pulse Secure VPN vulnerability, data gravity, Falco, eBPF, Bash-my-AWS, and more"
 draft = false
 slug = "162"

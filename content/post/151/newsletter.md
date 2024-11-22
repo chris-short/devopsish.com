@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-10-26T07:00:00Z
+date = 2019-10-26
 description = "DevOpsDays Detroit 2019, WeWork woes worsen, AWS should pay OSS devs, Women At Ernst & Young, Tim Cook, Equifax used ‘admin’ as username, & more"
 draft = false
 slug = "151"

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-01-20T22:00:00Z
+date = 2020-01-20
 description = "DevOps'ish is proud to partner with other media outlets and businesses so that readers are more informed"
 draft = false
 title = "Partners"

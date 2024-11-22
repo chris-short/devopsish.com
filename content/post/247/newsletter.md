@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-12-12T07:00:00Z
+date = 2021-12-12
 description = ["Kubernetes 1.23, Kubernetes Contributor Celebration, DevOps'ish turns 5, Log4j vulnerability, Hashicorp IPO, and more"]
 draft = false
 slug = "247"

@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-04-12T07:00:00Z
+date = 2020-04-12
 description = "COBOL need grows, Alice Goldfuss wants a job, containers, observability, Tom Scott, Zoom doom, MySQL, PostgreSQL, Kubernetes, markmap-lib, and more"
 draft = false
 slug = "175"

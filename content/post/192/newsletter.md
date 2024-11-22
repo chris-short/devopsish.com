@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-11-15T07:00:00Z
+date = 2020-11-15
 description = "Lockdown (again), Dan Kohn, KubeCon, interview lessons learned, At Work in Pain, remote work, Google Photos proves its monopolistic behavior, inclusive language, and more"
 draft = false
 slug = "192"

@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-08-05T07:00:00Z
+date = 2018-08-05
 description ="Psychological Safety, Kubernetes, Ansible, Serverless, AWS, OpenFaaS, and More!"
 draft = false
 slug = "087"

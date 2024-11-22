@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-05-22T07:00:00Z
+date = 2022-05-22
 description = ["KubeCon EU 2022, GitOpsCon EU 2022, China locks down Gitee, 380K publicly accessible K8s API Servers, Observability Engineering (free eBook), and more"]
 draft = false
 slug = "268"

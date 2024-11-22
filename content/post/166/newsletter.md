@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-02-09T07:00:00Z
+date = 2020-02-09
 description = "Knative annual report, CKA prep, cdpwn, sudo vuln, Kubernetes Operators, Konveyor, Apollo 11 vs USB-C Chargers, and more"
 draft = false
 slug = "166"

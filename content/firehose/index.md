@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2023-06-23T07:00:00Z
+date = 2023-06-23
 description = "DevOps'ish is a culmination of things I read over the course of time. This is the DevOps'ish Firehose of news as I read it."
 draft = false
 title = "Firehose"

@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-03-27T07:00:00Z
+date = 2022-03-27
 description = ["Docker whales, Okta and Lapsus$ galore, Apple Outage, Kubernetes storage, using mtr, Kubernetes events in Slack, and more"]
 draft = false
 slug = "262"

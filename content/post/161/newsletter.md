@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-01-06T01:15:00Z
+date = 2020-01-06
 description = "Getting you back in the groove, hello 2020, anxiety, Y2K, AWS RDS certificates, faasd, Apache Pulsar, DENT, WebAssembly, and more"
 draft = false
 slug = "161"

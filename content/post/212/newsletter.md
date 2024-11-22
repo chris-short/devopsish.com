@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-04-04T07:00:00Z
+date = 2021-04-04
 description = "Linux lawsuit, universities breached, massive Facebook breach, Amazon's horrible PR in light of conditions, Git Submodules = 👿, GitOpsCon CFP, and more"
 draft = false
 slug = "212"

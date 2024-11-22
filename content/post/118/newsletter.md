@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-03-10T07:00:00Z
+date = 2019-03-10
 description = "Kubernetes, People, Say AMI, Ghidra, Terraform, Git, OperatorHub, and More"
 draft = false
 slug = "118"

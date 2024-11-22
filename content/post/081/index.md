@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-06-24T07:00:00Z
+date = 2018-06-24
 description = "Diversity, Silicon Valley v. US, Ansible, Kubernetes, Meetings, DevSecOps, Serverless, and More"
 draft = false
 slug = "081"

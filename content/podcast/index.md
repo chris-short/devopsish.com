@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-09-17T07:00:00Z
+date = 2020-09-17
 description = "The DevOps'ish Podcast is a look at the news from the sources that feed the newsletter. Subscribe today to get the news behind the news every Monday."
 draft = false
 title = "The DevOps'ish Podcast"

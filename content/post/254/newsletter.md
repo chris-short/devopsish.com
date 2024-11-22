@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-01-30T07:00:00Z
+date = 2022-01-30
 description = ["Mired in many migrations, No Substack, Kubernetes security, Nvidia's Arm deal is really dead, big Kubernetes cluster, systemd playground, and more"]
 draft = false
 slug = "254"

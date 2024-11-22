@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-04-19T07:00:00Z
+date = 2020-04-19
 description = "Upcoming hiatus, phishing, DevSecOps, Mars rover driving from home, Vision Fund, BGP, Kubernetes Operators, OpenTelemetry, and more!"
 draft = false
 slug = "176"

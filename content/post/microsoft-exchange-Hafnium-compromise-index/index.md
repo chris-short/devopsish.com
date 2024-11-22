@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Indexes", "2021"]
-date = 2021-03-14T07:00:00Z
+date = 2021-03-14
 description = "Coverage of the Microsoft Exchange Hafnium compromise from around the web"
 draft = false
 slug = "microsoft-exchange-hafnium-compromise-index"

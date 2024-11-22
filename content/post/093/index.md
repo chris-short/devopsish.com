@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-09-16T07:00:00Z
+date = 2018-09-16
 description = "Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More"
 draft = false
 slug = "093"

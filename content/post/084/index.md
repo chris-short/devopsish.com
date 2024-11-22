@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-07-15T07:00:00Z
+date = 2018-07-15
 description = "Open Offices are Evil, AWS Switches?, GitOps, BGP, Getting Started with CI/CD, OpenFaaS, and More"
 draft = false
 slug = "084"

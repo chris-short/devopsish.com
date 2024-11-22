@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-11-08T07:00:00Z
+date = 2020-11-08
 description = "On Dan Kohn's Passing, NAT slipstreaming, Raspberry Pi 400, Python overtakes Java, container registries, Raspberry Pi 400, and more"
 draft = false
 slug = "191"

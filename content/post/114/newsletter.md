@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-02-11T06:55:00Z
+date = 2019-02-11
 description = "Shared Learning, Pipelines, Kubernetes at CERN, Ansible Operator, Hacker Tools, Rolling Updates, and More"
 draft = false
 slug = "114"

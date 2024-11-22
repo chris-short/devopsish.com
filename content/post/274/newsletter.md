@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-07-04T07:00:00Z
+date = 2022-07-04
 description = ["Changing roles, drunk worker nearly creates privacy disaster, more layoffs, Kubernetes scanning with Trivy, OpenSSL 3.0.4 vuln, my ultimate dev environment, IE tombstone, and more"]
 draft = false
 slug = "274"

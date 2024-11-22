@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-03-14T07:00:00Z
+date = 2021-03-14
 description = "Hafnium, dhcpcd needs new maintainer, Beat the Systemic Racism of IT, Google HR issues, OVH disaster, git vulnerability, sigstore and more"
 draft = false
 slug = "209"

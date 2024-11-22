@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-09-11T07:00:00Z
+date = 2022-09-11
 description = ["9/11/01, Cloudflare drops KiwiFarms, Seekable OCI, A Sequel to SQL, SSD Pricing Could Tumble, and so much more"]
 draft = false
 slug = "284"

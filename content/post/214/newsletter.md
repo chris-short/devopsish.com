@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-04-17T07:00:00Z
+date = 2021-04-17
 description = ["Kubernetes mentioned 26 times, Burnout, VMware spun off, Google's FloC, Kanban, chip shortage, shell operator and more"]
 draft = false
 slug = "214"
