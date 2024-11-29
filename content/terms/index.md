@@ -73,7 +73,7 @@ The right to refuse sponsorship from anyone for any reason is reserved.
 
 Sponsors may not place restrictions on the content or format of the newsletter in any way.
 
-Subscriber demographic data outside of what’s shared on devopsish.com or in the [DevOps'ish Sponsorship Prospectus](https://devopsi.sh/prospectus) is not available.
+Subscriber demographic data outside of what’s shared on devopsish.com or in the [DevOps'ish Sponsorship Prospectus](https://shortcdn.com/devopsish/DevOps'ish_Sponsorship_Prospectus.pdf) is not available.
 
 No more than three ads a week will run in the newsletter. Out of cycle/cadence e-mails may or may not feature ads depending on a variety of factors.
 

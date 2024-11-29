@@ -28,8 +28,8 @@ A [CSV](https://devopsish.com(https://shortcdn.com/devopsish/devopsish-2020-new-
 
 Thank you to each and every one of you. The fact you subscribe to something I write and hopefully gain something from fuels my fire. In 2020, expect some changes, like always, as DevOps'ish is iterated on more and more. I hope to continue to provide the right information, to the right people at the right time. I have a question for all DevOps'ish readers though. If I were to choose a charity to donate a portion of all proceeds from sponsorships to, what would it be? Please [use this form to make a suggestion](https://devopsi.sh/charity_suggest?utm_source=devopsish&utm_medium=email&utm_campaign=161). Thank you very much!
 
-[**Sponsor DevOps'ish**](https://devopsi.sh/prospectus?utm_source=devopsish&utm_medium=email&utm_campaign=161)  
-The cost of maintaining this newsletter and the associated social media streams is not zero. At the very least it is an enormous investment of time. Sponsoring DevOps'ish provides brand recognition and engagement from readers across the globe. The native ad format makes sure your message gets seen. Read the [prospectus](https://devopsi.sh/prospectus?utm_source=devopsish&utm_medium=email&utm_campaign=161) then email me at [chris@devopsish.com](mailto:chris@devopsish.com) to get started today!
+[**Sponsor DevOps'ish**](https://shortcdn.com/devopsish/DevOps'ish_Sponsorship_Prospectus.pdf?utm_source=devopsish&utm_medium=email&utm_campaign=161)  
+The cost of maintaining this newsletter and the associated social media streams is not zero. At the very least it is an enormous investment of time. Sponsoring DevOps'ish provides brand recognition and engagement from readers across the globe. The native ad format makes sure your message gets seen. Read the [prospectus](https://shortcdn.com/devopsish/DevOps'ish_Sponsorship_Prospectus.pdf?utm_source=devopsish&utm_medium=email&utm_campaign=161) then email me at [chris@devopsish.com](mailto:chris@devopsish.com) to get started today!
 
 ## Events
 

@@ -18,7 +18,7 @@ aliases = [
 
 Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, senior leaders, and readers from all walks of life *across the globe*.
 
-Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospectus) today!
+Download the [**DevOps'ish Sponsorship Prospectus**](https://shortcdn.com/devopsish/DevOps'ish_Sponsorship_Prospectus.pdf) today!
 
 ## Get Started
 
@@ -60,7 +60,7 @@ It is highly encouraged to change copy and CTAs every week.
 
 {{< stats >}}
 
-Need something to present to leadership? Download the [**DevOps'ish Sponsorship Prospectus**](https://devopsi.sh/prospectus).
+Need something to present to leadership? Download the [**DevOps'ish Sponsorship Prospectus**](https://shortcdn.com/devopsish/DevOps'ish_Sponsorship_Prospectus.pdf).
 
 Interested in sponsoring? Email me at [chris@devopsish.com](mailto:chris@devopsish.com).
 

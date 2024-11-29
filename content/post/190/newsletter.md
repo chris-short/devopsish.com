@@ -11,7 +11,7 @@ title = "DevOps'ish 190"
 
 +++
 
-Want to see your organization in DevOps'ish? Review the [newsletter sponsor](https://devopsish.com/sponsor/) page for all the details. Give the [DevOps'ish Sponsorship Prospectus](https://devopsi.sh/prospectus?utm_source=newsletter&utm_medium=devopsish&utm_campaign=190) a gander if you need help convincing your marketing team they should spend. *SPONSORED*
+Want to see your organization in DevOps'ish? Review the [newsletter sponsor](https://devopsish.com/sponsor/) page for all the details. Give the [DevOps'ish Sponsorship Prospectus](https://shortcdn.com/devopsish/DevOps'ish_Sponsorship_Prospectus.pdf?utm_source=newsletter&utm_medium=devopsish&utm_campaign=190) a gander if you need help convincing your marketing team they should spend. *SPONSORED*
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/). They're cool people doing cool things with cloud native security. Check them out! [Scanning Kubernetes IaC configurations with Terrascan](https://community.accurics.com/t/scanning-kubernetes-iac-configurations-with-terrascan/51)
 
