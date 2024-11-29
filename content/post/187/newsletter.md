@@ -21,7 +21,7 @@ The U-2 program is a very old and sensitive program to the US government. As hig
 
 ## People
 
-Want to see your ad in DevOps'ish? Check out the [newsletter sponsor](https://devopsish.com/sponsor/) page for all the details. Give the [DevOps'ish Sponsorship Prospectus](https://devopsi.sh/prospectus) a look if you need some help convincing others in your organization. *SPONSORED*
+Want to see your ad in DevOps'ish? Check out the [newsletter sponsor](https://devopsish.com/sponsor/) page for all the details. Give the [DevOps'ish Sponsorship Prospectus](https://shortcdn.com/devopsish/DevOps'ish_Sponsorship_Prospectus.pdf) a look if you need some help convincing others in your organization. *SPONSORED*
 
 [K8sContributors Twitter Account](https://twitter.com/K8sContributors)  
 Powered by Kubernetes SIG-Contributor-Experience; this is the Twitter account maintained by the [Kubernetes Upstream Marketing Team](https://github.com/kubernetes/community/tree/master/communication/marketing-team) (which you join by showing up to the meetings on Fridays). And yes, we've made the process to send a tweet conform to community governance (using GitHub approvals, etc.). It's a great system that's only going to get better with time thanks to the efforts of those on the Kubernetes Upstream Marketing Team. Follow [K8sContributors](https://twitter.com/K8sContributors) and stay informed!

@@ -27,7 +27,7 @@ With GoCD's new Azure plugin, run your CI/CD pipelines on Azure virtual machines
 Learn more about GoCD: [www.gocd.org](https://www.gocd.org)  
 Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/current/ *SPONSORED*
 
-[**Audiobook: Lean Enterprise**](https://devopsi.sh/g8MpN7)  
+[**Audiobook: Lean Enterprise**](https://https://www.oreilly.com/pub/cpc/202985?utm_source=devopsish)  
 How well does your organization respond to changing market conditions, customer needs, and emerging technologies? This practical guide presents Lean and Agile principles and patterns that enable you to move fast at scale—and demonstrates why and how to apply these methodologies throughout your organization, rather than in just one department or team. Through case studies, you'll learn how successful enterprises have rethought everything from governance and financial management to systems architecture and organizational culture in the pursuit of radically improved performance. *SPONSORED*
 
 
