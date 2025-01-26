@@ -23,7 +23,7 @@ ignoreFiles = ['notes.md']
 
 [params]
   author = "Chris Short"
-  description = "Cloud Native, DevOps, Open Source, industry news, culture, and the 'ish between. Drink from the firehose."
+  description = "Cloud Native, DevOps, Open Source, industry news, culture, and the 'ish between. Drink from the Firehose."
   # twitter = "ChrisShort"
   linkedin = "/in/thechrisshort/"
   # twitch = "thechrisshort"
