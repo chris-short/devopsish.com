@@ -31,12 +31,6 @@ HUGO_VERSION = "0.111.2"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[[redirects]]
-  from = "https://devopsish.netlify.app/*"
-  to = "https://devopsish.com/:splat"
-  status = 301
-  force = true
-
 [[headers]]
   for = "/*"
   [headers.values]
