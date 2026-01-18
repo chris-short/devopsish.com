@@ -4,3 +4,5 @@
 .hugo_build.lock
 *.log
 /node_modules
+/log
+/public
