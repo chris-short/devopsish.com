@@ -41,7 +41,7 @@ Keeping links to employers' sites to a minimum is considered healthy. However, i
 
 ### Choosing content for the newsletter
 
-I asked Corey Quinn once about including a potentially controversial piece of content from the world of tech. Corey asked me, "What's does that have to do with DevOps?" It had nothing to do with any of the topics covered in the newsletter. Here are the top five topics the newsletter covers as found on the [tags page of the site](https://devopsish.com/tags/):
+I asked Corey Quinn once about including a potentially controversial piece of content from the world of tech. Corey asked me, "What's does that have to do with DevOps?" It had nothing to do with any of the topics covered in the newsletter. Here are the top five topics the newsletter covers
 
 - DevOps
 - Open Source Software
@@ -109,8 +109,7 @@ Using your IDE of choice...
 1. Use the --Force-- analytics, Luke: Use [Twitter Analytics](https://analytics.twitter.com/user/ChrisShort/home), [/r/devopsish](https://www.reddit.com/r/devopsish/), [LinkedIn](https://www.linkedin.com/in/thechrisshort), [Buffer](https://buffer.com/), [Raindrop](https://raindrop.io/), and, most importantly, your gut to find "must discuss" topics for the newsletter. Cut those links from notes.md into the appropriate section of the newsletter.md file.
 1. Write the damn thing: As you cut links from notes.md into the main newsletter.md file be sure to add a thought to each one. The link should be on its own line followed by a line break. A quote from the article is a bare minimum, but it's always best to add your spin to the linked article.
 1. Create a Pull Request (PR): Netlify is setup to render pull requests as preview pages automatically. This gives you a usable URL to analyze the newsletter, share rough drafts with others, or anything else needed in the writing process. When you've created your PR head over to the Netlify Builds page to see how things are going and to get the preview link itself.
-1. Find the tags: Use a keyword density analysis tool ([like this one](https://www.webconfs.com/seo-tools/keyword-density-checker/)) to determine which keywords should be used as tags in the issue. The more tags, the merrier. If a tag has never been used before, see if previous issues could have the tag added (this process is laborious and should be done outside of the newsletter writing process but is sometimes necessary to establish authority). For example, I wrote about Docker a lot before because I was a happy consumer before I wrote Docker is Dead. I feel like this is why Docker is Dead exploded when it was published.
-1. Write the description: using the newsletter itself, ads, tags, and any other thoughts, create a description for use on the subject line and the meta description tag.
+1. Write the description: using the newsletter itself, ads, and any other thoughts, create a description for use on the subject line and the meta description tag.
 
 ## Building the email version of the newsletter
 

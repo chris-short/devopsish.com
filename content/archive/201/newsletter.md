@@ -30,7 +30,7 @@ I also learned about the term [Sealioning](https://en.wikipedia.org/wiki/Sealion
 People dropping WhatsApp like a bad habit. Join DevOps'ish on [Reddit](https://www.reddit.com/r/devopsish/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201). We're looking into alternative platforms as well in case these become unstable. [Signal went down on Friday](https://www.reuters.com/article/us-signal-outage/signal-back-up-after-outage-idUSKBN29M02O?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201) under the deluge of new users.
 
 [Intel lured new CEO Pat Gelsinger with a package valued at $116 million](https://www.oregonlive.com/silicon-forest/2021/01/intel-lured-new-ceo-pat-gelsinger-with-a-package-valued-at-116-million.html?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201)  
-For a cool $116 million you too can have a smooth-talking, boisterous, and hopefully transformative CEO. I'm considering this Intel's hail mary against ARM and RISC-V after MANY bad years of not so great outcomes. Check the [Intel tag here on DevOps'ish](https://devopsish.com/tags/intel?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201) if you need a reminder.
+For a cool $116 million you too can have a smooth-talking, boisterous, and hopefully transformative CEO. I'm considering this Intel's hail mary against ARM and RISC-V after MANY bad years of not so great outcomes.
 
 [Dropbox to cut 11% of its global workforce](https://www.cnbc.com/2021/01/13/dropbox-to-cut-11percent-of-its-global-workforce.html?utm_source=newsletter&utm_medium=devopsish&utm_campaign=201)  
 This sucks.
