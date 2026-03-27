@@ -16,9 +16,16 @@ minify:
 
 menus:
   main:
+    - name: About
+      url: /about/
+      weight: 10
     - name: Subscribe
       url: /subscribe/
-      weight: 10
+      weight: 20
+    - name: Sponsor
+      url: /sponsor/
+      weight: 30
+
 
 module:
   imports:
@@ -57,9 +64,7 @@ params:
   env: production
   footer:
     text: "1150 Atlantic St #108, Milford, MI 48381"
-    aboutLink: "/about/"
     firehoseLink: "/firehose/"
-    sponsorLink: "/sponsor/"
   label:
     text: "DevOps'ish"
     icon: /img/devopsish.webp
