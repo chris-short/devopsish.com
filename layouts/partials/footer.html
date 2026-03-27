@@ -4,13 +4,13 @@
         <a href="{{ . }}">About</a>
         {{- print " · "}}
     {{- end }}
-    {{- with site.Params.footer.tosLink }}
-        <a href="{{ . }}">Terms of Service</a>
-        {{- print " · "}}
-    {{- end }}
     {{- with site.Params.footer.firehoseLink }}
         <a href="{{ . }}">Firehose</a>
         <br>
+    {{- end }}
+    {{- with site.Params.footer.tosLink }}
+        <a href="{{ . }}">Terms of Service</a>
+        {{- print " · "}}
     {{- end }}
     {{- with site.Params.footer.text }}
         {{ . | markdownify }}
