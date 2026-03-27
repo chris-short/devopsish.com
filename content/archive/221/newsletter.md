@@ -108,8 +108,6 @@ CKS, CKA, and CKAD Simulator (made by [Kim Wüstkamp](https://wuestkamp.com/))
 Testing in production?  It's scary until it's not. Get total control of your code like Square, Hulu, Atlassian, Toyota, Intuit & IBM have  to ship fast without breaking things.  Book a demo today and learn how your team can reap the rewards of CI/CD without the risk.
 Ship Fast. Rest Easy. LaunchDarkly. *SPONSORED*
 
-[**What is DevOps (free eBook)**](https://devopsish.com/what-is-devops/)
-
 [HTTP 3 And Our Firewalls](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls)  
 Fresh off the heals of QUIC being tagged as [RFC 9000](https://daniel.haxx.se/blog/2021/05/27/quic-is-rfc-9000/), Chris Siebenmann points out that a lot of organizations now need to consider allowing UDP across port 443 into their networks. The answer is, you should.
 

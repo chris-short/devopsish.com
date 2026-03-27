@@ -68,8 +68,6 @@ Referencing an issue ticket in each commit is a development best practice. It im
 
 [Nines are not enough: meaningful metrics for clouds](https://blog.acolyer.org/2019/06/19/nines-are-not-enough/) — "When it comes to SLOs, the interests of the customer and the cloud provider are at odds, and so we end up with SLAs (Service Level Agreements) that tie SLOs to contractual agreements."
 
-[What is DevOps](https://devopsish.com/what-is-devops/) — "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
-
 ## Tools
 
 [Future of CRDs: Structural Schemas](https://kubernetes.io/blog/2019/06/20/crd-structural-schema/) — "The core of a structural schema is an OpenAPI v3 schema made out of `properties`, `items`, `additionalProperties`, `type`, `nullable`, `title`, and `descriptions`. In addition, all types must be non-empty, and in each sub-schema only one of `properties`, `additionalProperties` or `items` may be used."

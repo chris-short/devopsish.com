@@ -5,7 +5,7 @@ categories:
 - Newsletter
 - '2019'
 date: '2019-05-12'
-description: Mother's Day, What is DevOps, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More
+description: Mother's Day, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More
 draft: false
 slug: '127'
 tags:
@@ -28,7 +28,7 @@ tags:
 - Windows
 - Mother's Day
 - Kubernetes Operators
-title: '127: Mother''s Day, What is DevOps, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More'
+title: '127: Mother''s Day, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More'
 ---
 
 Happy Mother's Day! To the single moms, this day should be yours two times over. I'm sorry if you don't even get so much as a bathroom break to yourself today. To the almost moms, this day is yours. Don't let anyone tell you otherwise; if they do, send them my way. To the moms that have lost a child, this day is especially yours. For those of us whose toxic moms have been extricated from our lives, this day might be a little heavier. That's okay too; do what you need to do. No one says you can't celebrate someone else's awesome mom either. For example, Emily Freeman's mom is the human embodiment of DevOps, honor her. Regardless, I hope everyone has a marvelous Mother's Day.
@@ -64,9 +64,7 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 ## Process
 
-[What is DevOps](https://devopsish.com/what-is-devops/) — "If forced to put it in one sentence, I would describe DevOps as follows: 'DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes.'" [Tell me I'm wrong](https://twitter.com/ChrisShort).
-
-[DevOps is Dead with James Turnbull](https://www.realworlddevops.com/episodes/devops-is-dead-with-james-turnbull) — "I mean I'm being honest here on marketing now I think it's probably a factor. To me, DevOps was almost nothing about tools, tools to me were enablers for folks doing DevOps things." Says the gentleman hailing from a company with 'Azure DevOps' as a product. Is it fall? Can someone get me a pumpkin spice latte, please? I... Can't... Even. That's why **tools** are LAST in this newsletter. That's why **people** are first and **process** is right after. Those two things matter more to DevOps than any single tool ever could attempt to. This is why in my end of 2018 article, *Less DevOps, More Everything That Makes Up DevOps*, was a headline. No one wants DevOps, but they do want all the outcomes. *What DevOps Isn't* is a headline in the aforementioned [What is DevOps](https://devopsish.com/what-is-devops/) for good reason too. I don't think Marketing is the issue with DevOps. I have spent time on both sides of the tables now. I feel the lack of clarity about what DevOps actually is from its leaders and founders is what lead us here. Welcome to the trough of disillusionment.
+[DevOps is Dead with James Turnbull](https://www.realworlddevops.com/episodes/devops-is-dead-with-james-turnbull) — "I mean I'm being honest here on marketing now I think it's probably a factor. To me, DevOps was almost nothing about tools, tools to me were enablers for folks doing DevOps things." Says the gentleman hailing from a company with 'Azure DevOps' as a product. Is it fall? Can someone get me a pumpkin spice latte, please? I... Can't... Even. That's why **tools** are LAST in this newsletter. That's why **people** are first and **process** is right after. Those two things matter more to DevOps than any single tool ever could attempt to. This is why in my end of 2018 article, *Less DevOps, More Everything That Makes Up DevOps*, was a headline. No one wants DevOps, but they do want all the outcomes. I don't think Marketing is the issue with DevOps. I have spent time on both sides of the tables now. I feel the lack of clarity about what DevOps actually is from its leaders and founders is what lead us here. Welcome to the trough of disillusionment.
 
 [Oops, We Forgot to Build a Managed Kubernetes Service!](https://www.packet.com/blog/oops-we-forgot-to-build-a-managed-kubernetes-service/) — There is something to be said about pragmatism and sticking to core competencies while a clear path is laid out for you.
 

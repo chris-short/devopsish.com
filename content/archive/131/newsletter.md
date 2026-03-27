@@ -62,8 +62,6 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 [Google Cloud Networking Incident #19009](https://status.cloud.google.com/incident/cloud-networking/19009) — Network configuration change resulting in degraded service preventing connections to network devices to rollback changes is like the worst nightmare I think we've all been in at least once. The distinction in traffic Google can then manage and prioritize is fascinating.
 
-[What is DevOps](https://devopsish.com/what-is-devops/) — "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
-
 [Empowering Users through Site Reliability Engineering](http://jasonhand.com/blog/empowering_users_through_site_reliability_engineering/) — "How does the service we are building change the way they perceive themselves? Does it make them better at something?"
 
 [Sustainable Operations in Complex Systems with Production Excellence](https://www.infoq.com/articles/production-excellence-sustainable-operations-complex-systems/) — "Cultural and process changes, rather than changes in tooling alone, are necessary for teams to sustainably manage services... Services run more smoothly when quantitative risk analysis allows teams to prioritize fixes."

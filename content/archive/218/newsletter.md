@@ -6,7 +6,7 @@ categories:
 - '2021'
 date: '2021-05-16'
 description:
-- What is DevOps eBook, Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more
+- Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more
 draft: false
 slug: '218'
 tags:
@@ -17,7 +17,6 @@ tags:
 - GitOps
 - systemd
 - security
-- What is DevOps
 - KubeCon
 - OpenShift.TV
 - Lambda School
@@ -41,7 +40,7 @@ tags:
 - BGP
 - kubectl
 - AI
-title: 'DevOps''ish 218: What is DevOps eBook, Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more'
+title: 'DevOps''ish 218: Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more'
 ---
 
 Finally, an average week, expect weeks are anything but “normal” these days. This past week marked the [first birthday of OpenShift.TV](https://www.openshift.com/blog/its-been-a-full-year-since-we-launched-openshift-tv) (which is for all intents and purposes) what I’ve been working on the past year. 540 hours of content that [has been archived](https://www.youtube.com/user/rhopenshift) to help folks tackle all kinds of issues with Kubernetes, OpenShift, and a host of other open source projects. I bet we’ve touched on [etcd’s thirst for low latency](https://www.ibm.com/cloud/blog/using-fio-to-tell-whether-your-storage-is-fast-enough-for-etcd), having to remind people to [use DHCP for IPI installations](https://www.twitch.tv/videos/729330449), and have come up with as many "stage" names; it might total up to about 540 times too. It’s been worth it. The value it brings to others is beyond what we were hoping for.
@@ -49,8 +48,6 @@ Finally, an average week, expect weeks are anything but “normal” these days.
 But, this week was the week of, "What are you going to do when things go back to being in person?" I’m not sure what that looks like. It could mean I bring a portable studio with me everywhere I go or something that stays a mostly at-home job with trips to cover events occasionally. I don’t know what anything will look like in two weeks from now, let alone six months from now. I know that we launched a live streaming effort a year ago, and [I went through six mic arms in the process](https://chrisshort.net/desk-setup-january-2021/).
 
 I’m going to enjoy this moment before we have to change it all up. We stood it all up in three weeks and iterated on it as we went. Embracing the DevOps principles I’ve learned from my work in the past has probably been the greatest joy in running it all. It’ll be the same routine when things start going back to what becomes whatever the new normal becomes. We’ll start where we think it’s going to go and land on what it becomes. That is the beauty of this industry; change is constant.
-
-Speaking of change, the [**What is DevOps**](https://devopsish.com/what-is-devops/) page now features a free eBook for you to download. Grab a copy of What is DevOps; send it to your executive team if you think you’re not heading in the right direction. You can blame me; please blame me for maybe nudging folks towards hopefully positive change. The [**ePub**](https://shortcdn.com/devopsish/What_is_DevOps_eBook.epub?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_218) and [**PDF**](https://shortcdn.com/devopsish/What_is_DevOps_eBook.pdf?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_218) editions are available NOW!
 
 Note: All [KubeCon EU 2021 talks are available on YouTube](https://youtube.com/playlist?list=PLj6h78yzYM2MqBm19mRz9SYLsw4kfQBrC&utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_218)
 

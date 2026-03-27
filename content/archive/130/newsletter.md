@@ -77,8 +77,6 @@ Please take this year's survey. It is a handful of questions, will provide actio
 
 [Defining DevOps in layers](https://opensource.com/article/19/5/defining-devops-layers) — The article argues that DevOps has different meanings to different people. This might be true but, this article is a good read.
 
-[What is DevOps](https://devopsish.com/what-is-devops/)
-
 [The Automator's Dilemma](https://lukekanies.com/the-automators-dilemma/) — "When, instead, we focus too much on margin, on disruption, on buyers, on business problems... we become the problem."
 
 [Cloud Native Security Consolidation: Palo Alto Networks Buys Twistlock, PureSec](https://thenewstack.io/cloud-native-security-consolidation-palo-alto-networks-buys-twistlock-puresec/) — Palo Alto is making some waves. Congrats to my friends at Twistlock.

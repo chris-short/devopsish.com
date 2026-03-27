@@ -81,8 +81,6 @@ A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Tod
 
 [Pillaging The Jenkins Treasure Chest](https://dolosgroup.io/blog/2019/6/20/pillaging-the-jenkins-treasure-chest) — "Jenkins tends to be a treasure trove of information in certain organizations, and it's all too easy for a developer or operations team to leave something behind 'just to get things done'."
 
-[What is DevOps](https://devopsish.com/what-is-devops/) — "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
-
 [European Commission - PRESS RELEASES - Press release - Mergers: Commission approves acquisition of Red Hat by IBM](http://europa.eu/rapid/press-release_IP-19-3433_en.htm) — Only a handful of approvals left. I'll still be a Red Hat employee when the deal closes so 😛😛😛.
 
 ## Tools

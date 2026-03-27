@@ -58,8 +58,6 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 ## Process
 
-[What is DevOps](https://devopsish.com/what-is-devops/) — "DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization thus improving business outcomes."
-
 [VMware Inks Deal to Buy Avi Networks](https://www.sdxcentral.com/articles/news/vmware-inks-deal-to-buys-avi-networks/2019/06/) — "VMware plans to integrate this technology with its NSX networking and security portfolio, and says when the acquisition closes it will offer both built-in load balancing capabilities as part of VMware NSX Data Center and a standalone application delivery controller (ADC). It expects the transaction to close by early August."
 
 [Maker Faire halts operations and lays off all staff](https://techcrunch.com/2019/06/07/make-magazine-maker-media-layoffs/) — A sad story of how MAKE: can't make it anymore (I'm sorry, I had to).

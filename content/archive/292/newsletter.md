@@ -55,7 +55,7 @@ Most importantly, **thank you**.
 
 Thank you for your close to six years of readership. I appreciate the supportive messages over the years. I owe you if you're a friend who helped me along the way. Thank you to the haters, too (you were gasoline on my fire). Thank you to the many sponsors over the years (especially [Honeycomb][12]) My views of what's essential in DevOps and any organization trying to move faster still apply today: People, Processes, and Tools, in that order. Strong opinions, loosely held. Assume positive intent (unless indicated otherwise).
 
-I'm not going anywhere. I will still be on social media (with fewer Suggested Reads; I still need to figure out what I'm doing with that system). I'll still be writing at [chrisshort.net][5] ([RSS][6]). I will enable [RSS][10] for DevOps'ish in case there is news in the future. I'll also be figuring out how to manage better the stress I put on myself to do things (this will be a hot topic at therapy next week).
+I'm not going anywhere. I will still be on social media (with fewer Suggested Reads; I still need to figure out what I'm doing with that system). I'll still be writing at [chrisshort.net][5] ([RSS][6]). I'll also be figuring out how to manage better the stress I put on myself to do things (this will be a hot topic at therapy next week).
 
 What should you you read instead? I've maintained [kubenews.net](https://kubenews.net/) and [devopsnewsletters.com](https://devopsnewsletters.com/) for years now. 😉
 
@@ -72,7 +72,6 @@ Follow me on [Twitter][7], [LinkedIn][8], and [Mastodon][9].
 [7]: https://twitter.com/ChrisShort
 [8]: https://www.linkedin.com/in/thechrisshort/
 [9]: https://hachyderm.io/invite/52R3N6to
-[10]: https://devopsish.com/index.xml
 [11]: https://anchor.fm/devopsish
 [12]: https://www.honeycomb.io/
 
