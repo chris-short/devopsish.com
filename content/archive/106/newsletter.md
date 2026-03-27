@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-12-16'
 description: KubeKhan, KubeCon, AWS Container Roadmap, etcd, More Weird Licenses, Securing Kubernetes, JFrog Go Registry, and More!
 draft: false
@@ -11,23 +7,6 @@ image: https://shortcdn.com/devopsish/kubekhan.jpg
 imagealt: Various pictures taken by Chris Short during KubeCon + CloudNativeCon NA 2018
 imagecap: Various pictures taken by Chris Short during KubeCon + CloudNativeCon NA 2018
 slug: '106'
-tags:
-- weekly
-- devops
-- newsletter
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- Red Hat
-- ansible
-- security
-- serverless
-- container
-- AWS
-- licenses
-- Docker
 title: '106: KubeKhan, KubeCon, AWS Container Roadmap, etcd, More Weird Licenses, Securing Kubernetes, JFrog Go Registry, and More!'
 ---
 

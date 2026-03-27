@@ -2,25 +2,12 @@
 aliases:
 - devopsish-049-basics-kubernetes-intel-is-blowing-it-ides-go-and-more-8ca711f9d832
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-11-12T03:38:23Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/air-force-drill-instructor.jpg
 imagealt: Happy Veteran's Day
 slug: 049
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- golang
-- intel
-- linux
-- Docker
 title: '049: Basics, Kubernetes, Intel is Blowing It, IDEs, Go, and More'
 ---
 

@@ -1,25 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-11-25'
 description: '155'
 draft: false
 slug: '155'
-tags:
-- Kubernetes
-- KubeCon
-- DevOps
-- open source
-- cloud native
-- CNCF
-- containers
-- GitOps
-- Moby
-- Ansible
-- service mesh
 title: '155: Disappointing KubeCon, employee engagement, death of 10x engineer, GitOps, Kubernetes with all the fixins, service mesh, and more'
 ---
 

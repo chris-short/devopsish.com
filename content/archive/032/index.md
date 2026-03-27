@@ -2,30 +2,12 @@
 aliases:
 - devopsish-032-gophercon-linus-speaks-on-init-https-is-a-must-cluster-schedulers-kubicorn-and-5ebaa7f56ed6
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-07-17T18:58:23Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/ashley-mcnamara-at-gophercon-2017.jpg
 imagealt: Ashley McNamara at GopherCon 2017
 slug: '032'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- cloud computing
-- serverless
-- golang
-- infrastructure
-- gophercon
-- microservices
-- containers
-- Linus Torvalds
-- Docker
 title: '032: GopherCon, Linus speaks on init, HTTPS is a must, Cluster Schedulers, kubicorn, and...'
 ---
 

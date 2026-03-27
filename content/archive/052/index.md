@@ -2,10 +2,6 @@
 aliases:
 - devopsish-052-1-year-cni-book-giveaway-aws-re-invent-kubernetes-and-more-4404bb5f7362
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-12-03T07:01:00Z'
 description: ''
 draft: false
@@ -13,17 +9,6 @@ image: https://shortcdn.com/devopsish/sharks-circling.jpg
 imagealt: The sharks are circling
 imagecap: '[Flight of the Hammerheads](http://digitalblasphemy.com/preview.shtml?i=hammerheads2k62) by Digital Blasphemy'
 slug: '052'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- observability
-- infrastructure
-- docker
-- moby
-- containers
-- Docker Inc
 title: '052: 1 Year 🎉, CNI Book Giveaway, AWS re:Invent, Kubernetes, and More!'
 ---
 

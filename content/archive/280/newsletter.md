@@ -1,37 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-08-14'
 description:
 - SBOMs aren't enough, Nutanix layoffs, Winter Soldier, cloud platform teams, EKS Multi-cluster GitOps, and more
 draft: false
 slug: '280'
-tags:
-- dependencies
-- SBOM
-- cloud
-- Kubernetes
-- software
-- cloud native
-- GitBOM
-- developer
-- open source
-- secrets
-- minimum standard
-- AWS
-- security
-- accessibility
-- Detroit
-- DevOps
-- code
-- platform
-- Nutanix
-- GitOps
-- Amazon
-- EKS
 title: 'DevOps''ish 280: SBOMs aren''t enough, Nutanix layoffs, Winter Soldier, cloud platform teams, EKS Multi-cluster GitOps, and more'
 ---
 

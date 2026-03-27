@@ -1,34 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-10-03'
 description:
 - The week before KubeCon, special announcement this week, Slack DNS issues, HTTPS is everywhere, Competitive Compatibility, PostgreSQL 14, Kube-fledged, and more
 draft: false
 slug: '237'
-tags:
-- Kubernetes
-- DevOps
-- Cloud Native
-- data
-- cloud
-- time
-- DevOps
-- news
-- code
-- container
-- container images
-- threst
-- Rust
-- Linux
-- DNS
-- Apple
-- kube
-- eBPF
-- Linus Torvalds
 title: 'DevOps''ish 237: The week before KubeCon, special announcement this week, Slack DNS issues, HTTPS is everywhere, Competitive Compatibility, PostgreSQL 14, Kube-fledged, and more'
 ---
 

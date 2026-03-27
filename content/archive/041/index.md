@@ -2,25 +2,12 @@
 aliases:
 - devopsish-041-book-suggestions-serverless-value-stream-mapping-and-more-cb691887dde2
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-09-17T06:01:26Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/the-forest-through-the-trees.jpg
 imagealt: Lost in the Woods
 slug: '041'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- infrastructure
-- linux
-- nodejs
-- Docker
 title: '041: Book Suggestions, Serverless, Value Stream Mapping, and More'
 ---
 

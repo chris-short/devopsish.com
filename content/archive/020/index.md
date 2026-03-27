@@ -2,26 +2,12 @@
 aliases:
 - devopsish-weekly-020-week-of-1492920000-65abf362f4f0
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-04-23T12:39:39Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/docker-moby-wtf.png
 imagealt: Docker, Moby, Captain Ahab, Huh?
 slug: '020'
-tags:
-- devops
-- cloud native
-- open source
-- linux
-- google
-- go
-- docker
-- moby
-- lambda
 title: '020: Week of 1492920000'
 ---
 

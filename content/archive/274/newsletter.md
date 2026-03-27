@@ -1,34 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-07-04'
 description:
 - Changing roles, drunk worker nearly creates privacy disaster, more layoffs, Kubernetes scanning with Trivy, OpenSSL 3.0.4 vuln, my ultimate dev environment, IE tombstone, and more
 draft: false
 slug: '274'
-tags:
-- Kubernetes
-- open source
-- development environment
-- OpenSSL
-- Independence Day
-- community
-- code
-- AWS
-- Trivy
-- cluster
-- code-server
-- Caddy
-- Tailscale
-- Hugo
-- MacBook
-- GitOps
-- dockershim
-- upstream
-- cloud native
 title: 'DevOps''ish 274: Changing roles, drunk worker nearly creates privacy disaster, more layoffs, Kubernetes scanning with Trivy, OpenSSL 3.0.4 vuln, my ultimate dev environment, IE tombstone, and more'
 ---
 

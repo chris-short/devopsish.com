@@ -1,34 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-08-23'
 description: KubeCon EU 2020 recap, vacations, Mozilla, permanent WFH, Arm sale, Hierarchical Namespaces, Tekton Hub, Linkerd, and more
 draft: false
 slug: '180'
-tags:
-- Kubernetes
-- cloud native
-- open source
-- cloud
-- DevOps
-- security
-- namespaces
-- hierarchical namespaces
-- Tekton
-- proxy
-- Linkerd
-- Cloud Native Computing Foundation
-- CNCF
-- KubeCon
-- containers
-- postgresql
-- postgres
-- Docker
-- Ian Coldwater
-- GPT-3
 title: DevOps'ish 180
 ---
 

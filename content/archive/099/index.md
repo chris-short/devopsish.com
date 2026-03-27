@@ -1,31 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-10-28'
 description: AllThingsOpen, GitHub's Ups and Downs, Google's Grossness Grows, Serverless DevOps, Kubernetes, and More
 draft: false
 slug: 099
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- ansible
-- security
-- serverless
-- allthingsopen
-- google
-- code of conduct
-- licenses
-- Site Reliability Engineering
-- SRE
-- Linus Torvalds
-- Docker
 title: '099: AllThingsOpen, GitHub''s Ups and Downs, Google''s Grossness Grows, Serverless DevOps, Kubernetes, and More'
 ---
 

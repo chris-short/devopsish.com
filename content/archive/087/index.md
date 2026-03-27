@@ -1,22 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-08-05'
 description: Psychological Safety, Kubernetes, Ansible, Serverless, AWS, OpenFaaS, and More!
 draft: false
 slug: 087
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- ansible
-- serverless
-- psychological safety
 title: '087: Psychological Safety, Kubernetes, Ansible, Serverless, AWS, OpenFaaS, and More!'
 ---
 

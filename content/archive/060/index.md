@@ -2,26 +2,12 @@
 aliases:
 - devopsish-060-wtf-google-sre-in-a-serverless-world-devops-requires-rethinking-norms-kubernetes-163ab5eaef53
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-01-28T07:01:01Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/right-in-the-kisser.jpg
 imagealt: Pow! Right in the Kisser!
 slug: '060'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- serverless
-- intel
-- google
-- Site Reliability Engineering
-- SRE
 title: '060: WTF Google, SRE in a Serverless World, DevOps Requires Rethinking Norms, Kubernetes...'
 ---
 

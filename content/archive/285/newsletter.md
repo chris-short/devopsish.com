@@ -1,34 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-09-18'
 description:
 - Twitter Space and Podcast, Richard I. Cook, Patreon Participating in Pedophilia?, intruders inside LastPass systems for 4 days, Caddy vs. Nginx, and more
 draft: false
 slug: '285'
-tags:
-- Argo
-- Kubernetes
-- Twitter
-- Twitter Space
-- Cloud Native
-- AWS
-- podcast
-- security
-- community
-- Gppgle
-- Linux
-- eBPF
-- DevOps
-- Detroit
-- open source software
-- Richard I. Cook
-- privacy
-- GitOps
-- dig
 title: 'DevOps''ish 285: Twitter Space and Podcast, Richard I. Cook, Patreon Participating in Pedophilia?, intruders inside LastPass systems for 4 days, Caddy vs. Nginx, and more'
 ---
 

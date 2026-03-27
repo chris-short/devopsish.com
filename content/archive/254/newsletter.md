@@ -1,36 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-01-30'
 description:
 - Mired in many migrations, No Substack, Kubernetes security, Nvidia's Arm deal is really dead, big Kubernetes cluster, systemd playground, and more
 draft: false
 slug: '254'
-tags:
-- Kubernetes
-- Google
-- Docker
-- Apple
-- macOS
-- Kubernetes clusters
-- GSuite
-- security
-- policy
-- podman
-- validation
-- systemd
-- remote
-- Fedora
-- minikube
-- open source
-- Honeycomb
-- AWS
-- service discovery
-- DNS
-- Right to Repair
 title: 'DevOps''ish 254: Mired in many migrations, No Substack, Kubernetes security, Nvidia''s Arm deal is really dead, big Kubernetes cluster, systemd playground, and more'
 ---
 

@@ -1,50 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-08-01'
 description:
 - Natural disasters, GitOps with Codefresh, NSO Group, MeteorExpress, Linkerd, Kubernetes 1.22, TSMC’s 2nm chips, cloud outposts, and more
 draft: false
 slug: '228'
-tags:
-- Kubernetes
-- cloud
-- Cloud Native
-- DevOps
-- security
-- GitHub
-- GitOps
-- power
-- service
-- management
-- Amazon
-- leader
-- developers
-- Intel
-- weather
-- solar
-- coffee grinder
-- Apple
-- internet
-- Codefresh
-- open source
-- pandemic
-- tech
-- 🤬
-- feature flags
-- experimentation
-- Google
-- Iranian
-- wiper
-- storm
-- enhancements
-- quantum
-- stream
-- ransomware
-- hybrid
 title: 'DevOps''ish 228: Natural disasters, GitOps with Codefresh, NSO Group, MeteorExpress, Linkerd, Kubernetes 1.22, TSMC’s 2nm chips, cloud outposts, and more'
 ---
 

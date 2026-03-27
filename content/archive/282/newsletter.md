@@ -1,36 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-08-28'
 description:
 - Senselessness, sleeplessness leads to selfishness, Twilio Breach, patch your GitLab, OpenLens, High Table Stakes of Modern Blogs, and more
 draft: false
 slug: '282'
-tags:
-- Kubernetes
-- open source
-- cloud
-- security
-- cloud native
-- developer
-- behavior
-- vulnerability
-- Linux
-- kernel
-- AWS
-- KubeCost
-- OpenLens
-- GitLab
-- suicide
-- AdGuard
-- DNS
-- DevOps
-- community
-- advocacy
-- Michigan
 title: 'DevOps''ish 282: Senselessness, sleeplessness leads to selfishness, Twilio Breach, patch your GitLab, OpenLens, High Table Stakes of Modern Blogs, and more'
 ---
 

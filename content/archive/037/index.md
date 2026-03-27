@@ -2,27 +2,12 @@
 aliases:
 - devopsish-037-google-debian-mongodb-kubernetes-and-more-ce2f96fa004c
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-08-20T06:16:07Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/raspberry-pi-boards.jpg
 imagealt: Raspberry Pi Boards
 slug: '037'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- serverless
-- detroit
-- linux
-- github
-- google
-- Docker
 title: '037: Google, Debian, MongoDB, Kubernetes, and More!'
 ---
 

@@ -2,28 +2,12 @@
 aliases:
 - devopsish-039-cloud-native-football-kubernetes-serverless-and-more-a92efc6911aa
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-09-03T05:11:42Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/footballs.jpg
 imagealt: Football is BACK!
 slug: 039
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- serverless
-- infrastructure
-- microservices
-- hashicorp
-- nodejs
-- containers
-- Docker Inc
 title: '039: Cloud Native, Football, Kubernetes, Serverless, and More'
 ---
 

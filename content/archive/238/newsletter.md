@@ -1,37 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-10-10'
 description:
 - Leaving Red Hat, KubeCon + CloudNativeCon L.A. 2021, Chainguard, BGP for you and me, Data on Kubernetes Report, and more
 draft: false
 slug: '238'
-tags:
-- Red Hat
-- Kubernetes
-- People
-- KubeCon
-- CloudNativeCon
-- Data on Kubernetes
-- cloud
-- cloud native
-- Cloudflare
-- Chainguard
-- DevOps
-- BGP
-- internet
-- contributor
-- Tesla
-- code
-- Facebook
-- open source
-- DNS
-- HTTPS
-- CloudNative.tv
-- GitOps
 title: 'DevOps''ish 238: Leaving Red Hat, KubeCon + CloudNativeCon L.A. 2021, Chainguard, BGP for you and me, Data on Kubernetes Report, and more'
 ---
 

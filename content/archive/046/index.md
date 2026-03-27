@@ -2,10 +2,6 @@
 aliases:
 - devopsish-046-docker-reverses-course-on-kubernetes-scoble-sucks-hq2-happy-https-lambda-13519b308810
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-10-22T06:01:00Z'
 description: ''
 draft: false
@@ -13,16 +9,6 @@ image: https://shortcdn.com/devopsish/mountains-by-kris-nova.jpg
 imagealt: Mountains by Kris Nova
 imagecap: Mountains by Kris Nova
 slug: '046'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- detroit
-- docker
-- moby
-- lambda
-- containers
 title: '046: Docker Reverses Course on Kubernetes, Scoble is Terrible, HQ2, Happy HTTPS, Lambda...'
 ---
 

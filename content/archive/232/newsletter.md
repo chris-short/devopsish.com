@@ -1,60 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-08-29'
 description:
 - 'DevOps''ish 232: seccomp''s day in the Kubernetes sun, Linux at 30, burn out, Chevy Bolt bot blunder, lifelong learning, GitOps, and more'
 draft: false
 slug: '232'
-tags:
-- Kubernetes
-- cloud
-- cloud native
-- security
-- DevOps
-- GitOps
-- open source
-- Red Hat
-- RBAC
-- seccomp
-- Google
-- workflows
-- community
-- cluster
-- sigstore
-- operator
-- admission controllers
-- Intel
-- secure
-- Teleport
-- production
-- software
-- developers
-- GitOpsCon
-- KubeCon
-- mortgage
-- financial
-- algorithm
-- stack
-- equipment
-- infrastructure
-- code
-- automate
-- Terraform
-- robot
-- Chevy Bolt
-- Linux
-- systems
-- traffic
-- errors
-- tool
-- supply
-- release
-- environments
-- eBPF
 title: 'DevOps''ish 232: seccomp''s day in the Kubernetes sun, Linux at 30, burn out, Chevy Bolt bot blunder, lifelong learning, GitOps, and more'
 ---
 

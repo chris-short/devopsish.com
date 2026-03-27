@@ -1,31 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-01-12'
 description: kubectl tree, SHA-1, Pulse Secure VPN vulnerability, data gravity, Falco, eBPF, Bash-my-AWS, and more
 draft: false
 slug: '162'
-tags:
-- data gravity
-- AWS
-- SHA-1
-- DevOps
-- developers
-- eBPF
-- VPN
-- Pulse Secure
-- vulnerability
-- Kubenetes
-- Falco
-- Amazon
-- bash
-- kubectl
-- cloud native
-- open source
-- OpenShift
 title: '162: kubectl tree, SHA-1, Pulse Secure VPN vulnerability, data gravity, Falco, eBPF, Bash-my-AWS, and more'
 ---
 

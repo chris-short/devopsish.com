@@ -1,33 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-05-12'
 description: Mother's Day, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More
 draft: false
 slug: '127'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- container
-- security
-- linux
-- infrastructure
-- git
-- GitHub
-- event driven
-- UBI
-- KEDA
-- Oracle
-- Windows
-- Mother's Day
-- Kubernetes Operators
 title: '127: Mother''s Day, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More'
 ---
 

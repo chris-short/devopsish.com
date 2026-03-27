@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2026'
 date: '2026-03-22'
 draft: false
 slug: '301'

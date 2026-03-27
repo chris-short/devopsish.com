@@ -1,30 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-10-30'
 description:
 - Post-KubeCon Detroit, Max's birthday, DevOps'ish Podcast, Layoffs, Time, Howie, 1.84 petabits per second, markmap, helm-dashboard, and more
 draft: false
 slug: '291'
-tags:
-- time
-- KubeCon
-- Detroit
-- Kubernetes
-- Max
-- podcast
-- Twitter
-- event
-- open source
-- Arm
-- coffee
-- CNCF
-- cloud
-- Chainguard
-- ''
 title: 'DevOps''ish 291: Post-KubeCon Detroit, Max''s birthday, DevOps''ish Podcast, Layoffs, Time, Howie, 1.84 petabits per second, markmap, helm-dashboard, and more'
 ---
 

@@ -2,26 +2,12 @@
 aliases:
 - devopsish-048-on-opinions-mysql-kubernetes-and-go-tools-much-devops-very-more-1a566c4a796d
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-11-05T13:35:27Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/hot-air-balloon.jpg
 imagealt: Hot Air Balloon
 slug: 048
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- serverless
-- programming
-- golang
-- hiring
-- Docker
 title: '048: On Opinions, MySQL, Kubernetes and Go Tools, Much DevOps, Very More'
 ---
 

@@ -1,45 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-06-05'
 description:
 - KubeCon CFPs, DevOps survey, Kubernetes Annual Report, Sandberg steps aside, Lacework asks 20% of staff to step out, other layoffs, gitnoter, and more
 draft: false
 slug: '270'
-tags:
-- KubeCon
-- Detroit
-- talk
-- Kubernetes
-- Argo
-- company
-- project
-- KubeCon
-- cloud
-- CFPs
-- community
-- service
-- process
-- build
-- software
-- CNCF
-- Facebook
-- Sandberg
-- CNCF landscape
-- VMware
-- Kubernetes iceberg
-- DevOps
-- Meta
-- open source
-- Google
-- Contributor Comms
-- Microsoft
-- Windows
-- Netflix
-- automation
 title: 'DevOps''ish 270: KubeCon CFPs, DevOps survey, Kubernetes Annual Report, Sandberg steps aside, Lacework asks 20% of staff to step out, other layoffs, gitnoter, and more'
 ---
 

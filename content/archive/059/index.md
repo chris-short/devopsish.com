@@ -2,27 +2,12 @@
 aliases:
 - devopsish-059-dodnyc-hawaii-missile-ui-intel-kubernetes-and-more-485f6663c0d7
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-01-21T07:01:01Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/times-square-nyc.jpg
 imagealt: Times Square, New York City
 slug: 059
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- serverless
-- interview
-- intel
-- spectre
-- lambda
-- GitOps
 title: '059: DODNYC, Hawaii Missile UI, Intel, Kubernetes, and More'
 ---
 

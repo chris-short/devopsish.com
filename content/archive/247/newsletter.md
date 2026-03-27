@@ -1,40 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-12-12'
 description:
 - Kubernetes 1.23, Kubernetes Contributor Celebration, DevOps'ish turns 5, Log4j vulnerability, Hashicorp IPO, and more
 draft: false
 slug: '247'
-tags:
-- Kubernetes
-- security
-- cloud
-- cloud native
-- DevOps
-- pod
-- GitOps
-- privacy
-- infrastructure
-- log4j
-- code
-- software
-- employees
-- stock
-- Kubernetes Contributor Celebration
-- Google
-- IPv6
-- git
-- platform
-- equity
-- compensation
-- billion
-- MySQL
-- Bluetooth
-- open source
 title: 'DevOps''ish 247: Kubernetes 1.23, Kubernetes Contributor Celebration, DevOps''ish turns 5, Log4j vulnerability, Hashicorp IPO, and more'
 ---
 

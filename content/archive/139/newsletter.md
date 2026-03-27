@@ -1,26 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-08-04'
 description: Dark side of JEDI, CapitalOne is CapitalScrewed, Pivotal's fall from favor, vanishing k8s, doomed languages, and more
 draft: false
 slug: '139'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- GitHub
-- cloud native
-- DevOps news
-- Kubernetes news
-- JEDI
-- Oracle
-- jq
-- CapitalOne
 title: '139: Dark side of JEDI, CapitalOne is CapitalScrewed, Pivotal''s fall from favor, vanishing k8s, doomed languages, and more'
 ---
 

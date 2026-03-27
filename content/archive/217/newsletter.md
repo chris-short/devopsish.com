@@ -1,52 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-05-09'
 description:
 - KubeCon EU 2021, COSI confusion, Kohl's GitOps tool, Colonial Pipelines attack, dev platforms, Docker dead in water, GitOps Con 2021, PodTopologySpread, and more
 draft: false
 slug: '217'
-tags:
-- Kubernetes
-- KubeCon
-- cloud
-- Cloud Native
-- open source
-- DevOps
-- GitOps
-- COSI
-- pods
-- interface
-- availability
-- observability
-- systems
-- control
-- VPC
-- community
-- platform
-- Pulumi
-- Talos Systems
-- pipeline
-- container
-- Docker
-- Kohl's
-- object storage
-- Argo
-- Twitch
-- Red Hat
-- learning organization
-- ransomware
-- IBM
-- AWS
-- Amazon
-- CNCF
-- cluster
-- Honeycomb
-- StackRox
-- Accurics
 title: 'DevOps''ish 217: KubeCon EU 2021, COSI confusion, Kohl''s GitOps tool, Colonial Pipelines attack, dev platforms, Docker dead in water, GitOps Con 2021, PodTopologySpread, and more'
 ---
 

@@ -3,28 +3,12 @@ aliases:
 - devopsish-057-it-s-raining-kubernetes-everything-s-turning-up-serverless-and-more-8b8577bc3053
 - devopsish-058-it-s-raining-kubernetes-everything-s-turning-up-serverless-and-more-8b8577bc3053
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-01-14T07:01:01Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/sailboat-at-sunset.jpg
 imagealt: Smooth Seas Ahead
 slug: 058
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- serverless
-- intel
-- spectre
-- containers
-- Site Reliability Engineering
-- SRE
-- Docker
 title: '058: It''s Raining Kubernetes, Everything''s Turning Up Serverless, and More!'
 ---
 

@@ -1,53 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-11-15'
 description: Lockdown (again), Dan Kohn, KubeCon, interview lessons learned, At Work in Pain, remote work, Google Photos proves its monopolistic behavior, inclusive language, and more
 draft: false
 slug: '192'
-tags:
-- Google
-- open source
-- KubeCon
-- cloud native
-- home office
-- DevOps
-- At Work in Pain
-- Dan Kohn
-- Google Photos
-- Apple
-- Google Photos
-- Red Hat
-- Kubernetes
-- YouTube
-- youtube-dl
-- Veterans
-- community
-- Ginny Rometty
-- Microsoft
-- inclusive language
-- security
-- lockdown
-- AWS
-- tech industry
-- Julia Ferraioli
-- POPcast
-- Zoom
-- IBM
-- psychlogical safety
-- distributed systems
-- git
-- Daniel Stenberg
-- Xi Jinping
-- Ant Group IPO
-- microservices
-- CNCF
-- Cloud Native Computing Foundation
-- multi factor authentication
-- Big Sur
 title: DevOps'ish 192
 ---
 

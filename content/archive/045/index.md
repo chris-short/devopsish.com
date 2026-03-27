@@ -2,26 +2,12 @@
 aliases:
 - devopsish-045-sick-days-kubernetes-kaspersky-go-aws-and-more-c1dba1d87313
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-10-15T06:01:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/alligator.jpg
 imagealt: Watch Out! Them Gators will bite ya!
 slug: '045'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- mental health
-- github
-- women in tech
-- containers
-- Docker
 title: '045: Sick Days, Kubernetes, Kaspersky, Go, AWS, and More!'
 ---
 

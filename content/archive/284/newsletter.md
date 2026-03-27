@@ -1,33 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-09-11'
 description:
 - 9/11/01, Cloudflare drops KiwiFarms, Seekable OCI, A Sequel to SQL, SSD Pricing Could Tumble, and so much more
 draft: false
 slug: '284'
-tags:
-- http
-- argo
-- cloud
-- cloud native
-- open source
-- service
-- Kubernetes
-- Apple
-- computing
-- container
-- Cloudflare
-- SOCI
-- internet
-- DevOps
-- globalstar
-- git
-- iPhone
-- eBPF
 title: 'DevOps''ish 284: 9/11/01, Cloudflare drops KiwiFarms, Seekable OCI, A Sequel to SQL, SSD Pricing Could Tumble, and so much more'
 ---
 

@@ -1,29 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-02-11'
 description: Shared Learning, Pipelines, Kubernetes at CERN, Ansible Operator, Hacker Tools, Rolling Updates, and More
 draft: false
 slug: '114'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- cloud native
-- cncf
-- ansible
-- container
-- security
-- scalyr
-- diversity
-- CI/CD
-- GitOps
 title: '114: Shared Learning, Pipelines, Kubernetes at CERN, Ansible Operator, Hacker Tools, Rolling Updates, and More'
 ---
 

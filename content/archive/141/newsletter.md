@@ -1,31 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-08-18'
 description: Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more
 draft: false
 slug: '141'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- cloud native
-- DevOps news
-- Kubernetes news
-- Ansible
-- OpenShift
-- Google
-- Red Hat
-- AWS
-- BPF
-- database
-- ITIL
-- Kubernetes Operators
-- GitOps
 title: '141: Joining OpenShift, The BPF version of Homer''s Odyssey, GitOps for database schemas, Let me Google bad company for you, and more'
 ---
 

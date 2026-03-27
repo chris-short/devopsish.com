@@ -1,25 +1,11 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-07-08'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/statue-of-liberty-shrouded.jpg
 imagealt: Statue of Liberty surrounded by fog
 slug: 083
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- ansible
-- survey
-- automation
-- CI/CD
 title: '083: DevOps''ish Survey, Career Advice Galore, 🚫 Bastions, Kubernetes, Ansible, HTTP/2, Etcd, and More'
 ---
 

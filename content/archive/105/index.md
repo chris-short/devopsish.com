@@ -1,29 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-12-10'
 description: 'Two Years 🎂, #KubeKhan, CVE-2018-1002105, State of k8s, vim, and More!'
 draft: false
 slug: '105'
-tags:
-- weekly
-- devops
-- newsletter
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- Red Hat
-- ansible
-- security
-- serverless
-- Site Reliability Engineering
-- SRE
-- GitOps
 title: '105: Two Years 🎂, #KubeKhan, CVE-2018-1002105, State of k8s, vim, and More!'
 ---
 

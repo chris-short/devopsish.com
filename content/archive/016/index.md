@@ -1,25 +1,11 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-03-26T14:10:49Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/hard-at-work.jpg
 imagealt: Hard at Work
 slug: '016'
-tags:
-- devops
-- cloud native
-- open source
-- github
-- women in tech
-- google
-- open floor plans
-- ntp
-- Susan Fowler
 title: '016: Week of 1490500800'
 ---
 

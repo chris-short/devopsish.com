@@ -1,24 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-06-16'
 description: Kubernetes for the impatient, VMware shopping spree continues, Burnout, SRE for you and me, Google grows in Michigan, NATS 2.0, and more
 draft: false
 slug: '132'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- GitHub
-- cloud native
-- Site Reliability Engineering
-- SRE
-- Kubernetes Operators
-- GitOps
 title: '132: Kubernetes for the impatient, VMware shopping spree continues, Burnout, SRE for you and me, Google grows in Michigan, NATS 2.0, and more'
 ---
 

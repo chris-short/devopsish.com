@@ -1,41 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-03-28'
 description: He who was mentioned in DevOps'ish 145, OpenSSL updates, New AWS CEO, Apple linked to Chinese tracking apps, 92% of all on-premises Microsoft Exchange servers patched, TSMC, coffee shortage, and more
 draft: false
 slug: '211'
-tags:
-- DevOps
-- Linux
-- cloud
-- cloud native
-- Microsoft
-- open source
-- Google
-- Exchange
-- vulnerabilities
-- FSF
-- Kubernetes
-- TLS
-- Red Hat
-- OpenSSL
-- Discord
-- Rust
-- Windows
-- AWS
-- CEO
-- Cloud Native Computing Foundation
-- Apple
-- Uyghur
-- Outreachy
-- Asian
-- Linux Torvalds
-- kubectl
-- OpenSSH
 title: 'DevOps''ish 211: He who was mentioned in DevOps''ish 145, OpenSSL updates, New AWS CEO, Apple linked to Chinese tracking apps, 92% of all on-premises Microsoft Exchange servers patched, TSMC, coffee shortage, and more'
 ---
 

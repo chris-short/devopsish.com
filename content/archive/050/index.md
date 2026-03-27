@@ -2,33 +2,12 @@
 aliases:
 - devopsish-050-healing-move-slowly-and-fix-things-observability-serverless-kubernetes-and-99b8a5618673
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-11-19T07:01:01Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/apothecary.jpg
 imagealt: Healing is Hard
 slug: '050'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- serverless
-- observability
-- mental health
-- linux
-- google
-- docker
-- moby
-- lambda
-- containers
-- Site Reliability Engineering
-- SRE
-- Linus Torvalds
 title: '050: Healing, Move Slowly and Fix Things, Observability, Serverless, Kubernetes, and...'
 ---
 

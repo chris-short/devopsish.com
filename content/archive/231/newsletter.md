@@ -1,52 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-08-22'
 description:
 - Kubernetes 1.22 release team livestream, problems in Perl, glibc, eBPF, Pod Security Admission, secure supply chains, tools galore, and more
 draft: false
 slug: '231'
-tags:
-- Kubernetes
-- clusters
-- security
-- cloud native
-- cloud
-- release
-- email
-- hardening
-- IoT
-- eBPF
-- Docker
-- process
-- Postman
-- GitOps
-- Linux
-- pod
-- CNCF
-- Perl
-- T-Mobile
-- livestream
-- Sackler family
-- opioid
-- glibc
-- patterns
-- confusing
-- open source
-- Google
-- community
-- incident management
-- CIS Benchmark
-- NSA
-- supply chain
-- DC/OS
-- automate
-- Red Hat
-- AWS
-- Samsung
 title: 'DevOps''ish 231: Kubernetes 1.22 release team livestream, problems in Perl, glibc, eBPF, Pod Security Admission, secure supply chains, tools galore, and more'
 ---
 

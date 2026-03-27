@@ -1,47 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-05-22'
 description:
 - KubeCon EU 2022, GitOpsCon EU 2022, China locks down Gitee, 380K publicly accessible K8s API Servers, Observability Engineering (free eBook), and more
 draft: false
 slug: '268'
-tags:
-- Kubernetes
-- KubeCon
-- KubeCon EU 2022
-- Argo
-- GitOps
-- GitOpsCon
-- GitOpsCon EU 2022
-- CNCF
-- COVID
-- COVID-19
-- open source
-- Gitee
-- China
-- Kubernetes API server
-- open API servers
-- API server
-- security
-- observability
-- EU
-- career
-- keynote
-- friends
-- Van Jones
-- mask mandate
-- environment
-- videos
-- monitoring
-- Microsoft
-- community
-- Flux
-- Detroit
-- Observability Engineering
 title: 'DevOps''ish 268: KubeCon EU 2022, GitOpsCon EU 2022, China locks down Gitee, 380K publicly accessible K8s API Servers, Observability Engineering (free eBook), and more'
 ---
 

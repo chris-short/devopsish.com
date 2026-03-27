@@ -2,25 +2,12 @@
 aliases:
 - devopsish-022-week-of-1494129600-4bee6dbfd01d
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-05-07T13:01:01Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/tulips.jpg
 imagealt: I ❤️ Tulips
 slug: '022'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- serverless
-- intel
-- women in tech
-- google
 title: '022: Week of 1494129600'
 ---
 

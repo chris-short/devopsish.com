@@ -1,24 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-05-20'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/076-web.jpg
 slug: '076'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- security
-- microservices
-- Site Reliability Engineering
-- SRE
-- Docker
 title: '076: Hiring in DevOps, Security, Kubernetes, and More'
 ---
 

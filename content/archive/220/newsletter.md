@@ -1,57 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-05-30'
 description:
 - Fretting over free tier, Amazon's creepy network, NOBELIUM, Half-Double Rowhammers on sale, Istio vs. Linkerd, cost of cloud, and more
 draft: false
 slug: '220'
-tags:
-- cloud
-- DevOps
-- attack
-- open sources
-- government
-- compose
-- privacy
-- observability
-- cloud native
-- lithium
-- Docker
-- Honeycomb
-- free tier
-- time
-- system
-- providers
-- code
-- Kubernetes
-- Podman
-- cloud spend
-- NOBELIUM
-- AWS
-- infrastructure
-- postgresql
-- hack
-- investigation
-- Amazon
-- Russia
-- breached
-- unpatched
-- Fortinet
-- benchmarking
-- Linkerd
-- Istio
-- IBM
-- Argo
-- HAProxy
-- metrics
-- Rust
-- developers
-- GitOps
-- API
 title: 'DevOps''ish 220: Fretting over free tier, Amazon''s creepy network, NOBELIUM, Half-Double Rowhammers on sale, Istio vs. Linkerd, cost of cloud, and more'
 ---
 

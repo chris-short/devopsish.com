@@ -2,29 +2,12 @@
 aliases:
 - devopsish-054-kubernetes-docker-is-dead-friend-in-need-kubecon-videos-and-more-1011d4dd5cf0
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-12-24T14:01:06Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/merry-christmas.jpg
 imagealt: Merry Christmas!
 slug: '055'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- serverless
-- golang
-- detroit
-- observability
-- women in tech
-- uber
-- Susan Fowler
-- Docker
 title: '055: Rough Week, DevOps Culture, Kubernetes, and More!'
 ---
 

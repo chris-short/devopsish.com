@@ -1,60 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-12-20'
 description: Solarwinds Orion compromise, State of Women in Tech Report 2020, 737 MAX Assumptions, Google postmortem, Discord, CKS, CKAD, WebAssembly, and more
 draft: false
 slug: '197'
-tags:
-- Kubernetes
-- cloud
-- Solarwinds
-- compromise
-- hack
-- DevOps
-- Women in Tech
-- Google
-- ARM
-- Linux
-- WiFi
-- Docker
-- Git
-- cloud native
-- Red Hat
-- Apple
-- security
-- runtime
-- Boeing
-- CKS
-- container
-- supply chain
-- harassment
-- GitHub
-- OKRs
-- FAA
-- Discord
-- open source
-- air gapped
-- cluster
-- Cloud Native Computing Foundation
-- CNCF
-- CLI
-- AltaVista
-- search engine
-- Solarwinds Orion
-- OpenShift
-- GitHub Actions
-- OpenShift
-- GitOps
-- Windows
-- SSH
-- remote
-- scientists
-- observability
-- Operator
 title: DevOps'ish 197
 ---
 

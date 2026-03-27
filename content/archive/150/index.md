@@ -1,14 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-10-20'
 description: Vacation Mode
 draft: false
 slug: '150'
-tags: []
 title: '150: Vacation Mode'
 ---
 

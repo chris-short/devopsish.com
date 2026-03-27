@@ -2,23 +2,12 @@
 aliases:
 - devopsish-038-failure-linux-save-your-eyes-alibaba-and-more-315fcf916bd9
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-08-27T11:01:38Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/l-b-king-and-company-building-eclipse.jpg
 imagealt: L.B. King and Company Building in Downtown Detroit during the Eclipse
 slug: 038
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- linux
-- containers
 title: '038: Failure, Linux, Save Your Eyes, Alibaba, and MORE!'
 ---
 

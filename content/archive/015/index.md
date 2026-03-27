@@ -2,26 +2,12 @@
 aliases:
 - devopsish-weekly-015-week-of-1489896000-fc5adb2ccf34
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-03-19T09:02:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/womens-track-and-field.jpg
 imagealt: Why Doesn't DevOps Consider Front End Performance More Often?
 slug: '015'
-tags:
-- devops
-- cloud native
-- open source
-- intel
-- github
-- google
-- containers
-- licenses
-- Docker
 title: '015: Week of 1489896000'
 ---
 

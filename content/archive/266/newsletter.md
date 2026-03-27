@@ -1,44 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-05-08'
 description:
 - We did some good in the world, Kubernetes 1.24, Netflix downward slide, critical F5 vuln, RFC 9116, Kubernetes Goat, Pulumi YAML, and more
 draft: false
 slug: '266'
-tags:
-- Kubernetes
-- Argo
-- YAML
-- Pulumi
-- Pulumi YAML
-- DevOps'ish
-- team
-- SLOs
-- Amazon EKS
-- Elastic Kubernetes Service
-- Netflix
-- GitOps
-- AWS
-- environment
-- Site Reliability Engineer
-- SRE
-- Kubernetes Goat
-- practices
-- vulnerability
-- security
-- enhancements
-- cloud
-- DevOps
-- asshole test
-- dockershim
-- pod
-- progressive delivery
-- cloud native
-- Lucy
 title: 'DevOps''ish 266: We did some good in the world, Kubernetes 1.24, Netflix downward slide, critical F5 vuln, RFC 9116, Kubernetes Goat, Pulumi YAML, and more'
 ---
 

@@ -2,22 +2,12 @@
 aliases:
 - devopsish-023-week-of-1494734400-a913ad9dfa6a
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-05-14T06:01:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/jumpman.jpg
 imagealt: Get It?
 slug: '023'
-tags:
-- devops
-- cloud native
-- open source
-- database
-- intel
 title: '023: Week of 1494734400'
 ---
 

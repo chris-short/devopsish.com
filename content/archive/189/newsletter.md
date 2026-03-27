@@ -1,55 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-10-25'
 description: Complacency, Zoomsterbating, time zones, website carbon footprints, Docker hub policy changes AGAIN, and more
 draft: false
 slug: '189'
-tags:
-- DevOps
-- Kubernetes
-- time
-- streaming
-- cloud
-- cloud native
-- network
-- monitoring
-- open source
-- security
-- attack
-- observability
-- culture
-- release
-- privacy
-- Red Hat
-- AWS
-- Alice Goldfuss
-- Ian Coldwater
-- developers
-- MITRE
-- CNCF
-- environment
-- Docker
-- Intel
-- storage
-- uptime
-- community
-- GitHub
-- YouTube
-- NTP
-- NTS
-- Firefox
-- Git
-- PVC
-- pvc autoresizer
-- secrets
-- Jeffrey Toobin
-- Zoom
-- Detroit
-- Zoomsterbating
 title: DevOps'ish 189
 ---
 

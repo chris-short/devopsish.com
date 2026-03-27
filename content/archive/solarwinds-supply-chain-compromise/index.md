@@ -1,32 +1,11 @@
 ---
 author: Chris Short
-categories:
-- Indexes
-- '2020'
 date: '2020-12-20'
 description: Coverage of the Solarwinds supply chain compromise from around the web
 draft: false
 image: https://shortcdn.com/devopsish/sw-logo.svg
 imagealt: Solarwinds
 slug: solarwinds-supply-chain-compromise
-tags:
-- Solarwinds Orion
-- Solarwinds
-- supply chain
-- compromise
-- hack
-- DevOps
-- Microsoft
-- security
-- spied
-- Russia
-- hackers
-- spy
-- backdoor
-- breach
-- Orion
-- CISA
-- advisory
 title: DevOps'ish Solarwinds supply chain compromise Index
 ---
 

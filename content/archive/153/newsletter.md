@@ -1,29 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-11-10'
 description: 'UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More'
 draft: false
 slug: '153'
-tags:
-- DevOps
-- KubeCon
-- KubeKhan
-- Kubernetes
-- cloud native
-- AWS
-- Microsoft
-- PodCTL
-- open source
-- OpenTitan
-- Vitess
-- GitOps
-- security
-- Helm
-- Ansible Operators
 title: '153: The week before KubeCon, KubeKhan is back, PodCTL, Microsoft making moves, GitOps, AWS Savings Plans, OpenTitan, Vitess, and more'
 ---
 

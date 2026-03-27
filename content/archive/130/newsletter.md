@@ -1,24 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-06-02'
 description: So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More
 draft: false
 slug: '130'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- GitHub
-- Ansible
-- cloud native
-- Huawei
-- China
-- Kubernetes Operators
 title: '130: So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More'
 ---
 

@@ -1,34 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-09-24'
 description: Linus Apologizes, Giveaway Winners, Kubernetes, Istio, Dark Debt, Mage, and More
 draft: false
 slug: 094
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- ansible
-- Linus Torvalds
-- kernel
-- development
-- community
-- apology
-- serverless
-- change
-- linux
-- code of conduct
-- microsoft
-- culture
-- istio
-- Linus Torvalds
 title: '094: Linus Apologizes, Giveaway Winners, Kubernetes, Istio, Dark Debt, Mage, and More'
 ---
 

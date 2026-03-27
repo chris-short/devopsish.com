@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-04-22'
 description: ''
 draft: false
@@ -11,16 +7,6 @@ image: https://shortcdn.com/devopsish/pick-up-the-microphone.jpg
 imagealt: How many mics do we rip on the daily —The Fugees
 imagecap: How many mics do we rip on the daily —The Fugees
 slug: '072'
-tags:
-- devops
-- cloud native
-- open source
-- Microsoft
-- DevSecOps
-- container
-- Kubernetes
-- security
-- containers
 title: '072: Microsoft, Speaking, DevSecOps, Container Security, Kubernetes, and More'
 ---
 

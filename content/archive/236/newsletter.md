@@ -1,30 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-09-26'
 description:
 - You need a personal laptop, USB-C for all, more zero-days this year than any other, Go generics, and more
 draft: false
 slug: '236'
-tags:
-- Kubernetes
-- DevOps
-- Cloud Native
-- open source
-- data
-- cloud
-- USB-C
-- generics
-- Linux
-- Apple
-- community
-- Microsoft
-- containers
-- Google
-- GitOps
 title: 'DevOps''ish 236: You need a personal laptop, USB-C for all, more zero-days this year than any other, Go generics, and more'
 ---
 

@@ -1,33 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-12-23'
 description: KubeCon Recap, Larry Ellison, China Hacking, Kubernetes Security, and More
 draft: false
 slug: '107'
-tags:
-- weekly
-- devops
-- newsletter
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- Red Hat
-- ansible
-- security
-- serverless
-- container
-- UEFI
-- China
-- Site Reliability Engineering
-- SRE
-- CI/CD
-- Docker
 title: '107: KubeCon Recap, Larry Ellison, China Hacking, Kubernetes Security, and More'
 ---
 

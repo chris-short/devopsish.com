@@ -1,26 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-01-13'
 description: Weaveworks Flagger, DevOps Leaving Ops Behind, AWS 🖕 OSS, Kubernetes Galore, and More
 draft: false
 slug: '110'
-tags:
-- kubernetes
-- docker
-- devops
-- open source
-- cloud
-- tech
-- software
-- github
-- cloud native
-- ansible
-- aws
-- linux
 title: '110: Weaveworks Flagger, DevOps Leaving Ops Behind, AWS 🖕 OSS, Kubernetes Galore, and More'
 ---
 

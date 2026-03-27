@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-10-02'
 description:
 - DevOps'ish 287 is dedicated to a wonderful community member we lost this week, Cody Crudgington
@@ -12,27 +8,6 @@ image: https://shortcdn.com/devopsish/cody-speaking.webp
 imagealt: Cody Crudgington speaking at the Kubernetes Contributor Summit in San Diego
 imagecap: Cody Crudgington speaking at the Kubernetes Contributor Summit in San Diego
 slug: '287'
-tags:
-- open source
-- Kubernetes
-- Cody Crudgington
-- podcast
-- Twitter
-- code
-- contributor
-- Cloud Native
-- community
-- Iran
-- Signal
-- Istio
-- KubeCon
-- developers
-- CIA
-- Girls Who Code
-- Linux
-- news
-- GitHub
-- GitOps
 title: 'DevOps''ish 287: Cody Crudgington, Help Iranians connect, bill to protect open source, VMware ESXi popped, Baffling Maze of Kubernetes, Girls Who Code Founder Speaks Out, and more'
 ---
 

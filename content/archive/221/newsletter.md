@@ -1,45 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-06-06'
 description:
 - On the passing of Peeyush Gupta, Apple employees balk at return to office plans, 1:1 with CNCF's Priyanka Sharma, StackOverflow acquired, Flux, Argo, HTTP 3, and more
 draft: false
 slug: '221'
-tags:
-- Peeyush Gupta
-- Cloud Native
-- Apple
-- cloud
-- DevOps
-- Kubernetes
-- code
-- employees
-- observability
-- community
-- Red Hat
-- open source
-- developers
-- GitOps
-- kubectl
-- Intel
-- Jenkins
-- pandemic
-- debug
-- Priyanka Sharma
-- Cloud Native Computing Foundation
-- cyberattacks
-- vcenter
-- IBM
-- Flux
-- Argo
-- petabyte
-- Linux
-- OpenShift
-- Rust
 title: 'DevOps''ish 221: On the passing of Peeyush Gupta, Apple employees balk at return to office plans, 1:1 with CNCF''s Priyanka Sharma, StackOverflow acquired, Flux, Argo, HTTP 3, and more'
 ---
 

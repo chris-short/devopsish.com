@@ -1,32 +1,11 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-02-18'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/seeing-the-light.jpg
 imagealt: Seeing the light
 slug: '063'
-tags:
-- devops
-- cloud native
-- open source
-- continuous improvement
-- change
-- Kubernetes
-- serverless
-- leadership
-- culture
-- go
-- golang
-- linux
-- google
-- containers
-- Kubernetes Operators
-- Docker
 title: '063: Kubernetes Tips & Tricks, Leadership, Serverless, dtrace for Linux, Azure for Go, and More!'
 ---
 

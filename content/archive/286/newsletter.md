@@ -1,35 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-09-25'
 description:
 - Torvalds' M2 MacBook Air, LastPass had guests over for four days, Last Floppy-Disk Seller, Backstage, Graceful Shutdown with Lifecycle preStop Hook and more
 draft: false
 slug: '286'
-tags:
-- Kubernetes
-- Linux
-- Twitter
-- podcast
-- cloud
-- cloud native
-- security
-- DevOps
-- developers
-- open source
-- GitOps
-- container
-- OCI
-- systems
-- virtual
-- engineers
-- Detroit
-- Argo
-- Flux
-- Linus Torvalds
 title: 'DevOps''ish 286: Torvalds'' M2 MacBook Air, LastPass had guests over for four days, Last Floppy-Disk Seller, Backstage, Graceful Shutdown with Lifecycle preStop Hook and more'
 ---
 

@@ -1,25 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-10-14'
 description: Kubernetes, Amazon Woes, Serverless, JEDI, Spinnaker, and More
 draft: false
 slug: 097
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- ansible
-- security
-- google
-- amazon
-- JEDI
 title: '097: Kubernetes, Amazon Woes, Serverless, JEDI, Spinnaker, and More'
 ---
 

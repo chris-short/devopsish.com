@@ -1,47 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-02-28'
 description: Solarwinds, 4 hour a week Kubernetes maintainer, mischievous Mailchimp, secrets management, Digital Ocean IPO, Sysdig, BOOP, Flux, and More
 draft: false
 slug: '207'
-tags:
-- Kubernetes
-- cloud
-- time
-- DevOps
-- Cloud Native
-- software
-- open source
-- secrets management
-- development
-- CNCF
-- DNS
-- LaunchDarkly
-- git
-- Mailchimp
-- Raindrop.io
-- EmailOctopus
-- Digital Ocean
-- Google
-- JUST
-- vulnerabilities
-- Citi
-- Microsoft
-- IBM
-- Sysdig
-- kernel
-- eBPF
-- boop
-- Flux
-- GitOps
-- security
-- automation
-- hybrid cloud
-- developer
 title: 'DevOps''ish 207: Solarwinds, 4 hour a week Kubernetes maintainer, mischievous Mailchimp, secrets management, Digital Ocean IPO, Sysdig, BOOP, Flux, and More'
 ---
 

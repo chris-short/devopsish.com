@@ -1,25 +1,11 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-06-09'
 description: DevOps Tools, Kubernetes ≠ Rocket Science, IBM Layoffs, Open Source Licenses Aren't Broken, Small Kubernetes Clusters, and More
 draft: false
 image: https://shortcdn.com/devopsish/kubernetes-what-if-i-told-you.jpg
 imagealt: What if I told you... You don't have to be a Kubernetes expert to use it.
 slug: '131'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- GitHub
-- cloud native
-- IBM layoffs
-- licenses
-- Linus Torvalds
 title: '131: DevOps tools, Kubernetes ≠ rocket science, IBM layoffs, Open Source licenses aren''t broken, small Kubernetes clusters, and more'
 ---
 

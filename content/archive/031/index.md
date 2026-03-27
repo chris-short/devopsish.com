@@ -2,25 +2,12 @@
 aliases:
 - devopsish-031-let-s-encrypt-go-kubernetes-zinc-mental-health-interviewing-400a4f11fdf7
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-07-09T06:01:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/cheeseman-park.jpg
 imagealt: Cheesman Park in Denver, Colorado (I went ghost hunting here once)
 slug: '031'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- interview
-- mental health
-- hiring
-- gophercon
 title: '031: Let''s Encrypt, Go, Kubernetes, zinc, Mental Health, Interviewing'
 ---
 

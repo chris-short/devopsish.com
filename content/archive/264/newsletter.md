@@ -1,26 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-04-10'
 description:
 - DevOps'ish 264
 draft: false
 slug: '264'
-tags:
-- Argo
-- SLOs
-- GitOps
-- reliability
-- service
-- Kubernetes
-- Raspberry Pi
-- semiconductor coolant
-- Flux
-- engineering
-- cloud native
 title: DevOps'ish 264
 ---
 

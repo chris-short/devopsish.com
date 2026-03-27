@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-05-27'
 description: ''
 draft: false
@@ -11,24 +7,6 @@ image: https://shortcdn.com/devopsish/chicago-river-chefconf-2018.jpg
 imagealt: Chicago River from Michigan Ave Bridge after ChefConf
 imagecap: Chicago River from Michigan Ave Bridge after ChefConf
 slug: '077'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- go
-- golang
-- ChefConf
-- security
-- gdpr
-- vgo
-- community
-- dep
-- containers
-- veteran
-- containers
-- CI/CD
-- Docker
 title: '077: ChefConf 2018, GDPR, Go CoC 🙌, Go vgo 😞, Kubernetes, Laptop Giveaway, Security, and More'
 ---
 

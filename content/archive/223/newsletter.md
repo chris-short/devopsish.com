@@ -1,38 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-06-20'
 description:
 - Hostile AWS Free Tier, Bye bye Bezos, InfoSec competencies, Rust in Linux Kernel, Git for Computer Scientists, secrets on the CLI, and more
 draft: false
 slug: '223'
-tags:
-- cloud
-- DevOps
-- AWS
-- Rust
-- Linux
-- kernel
-- cloud native
-- secrets
-- IAM
-- Google
-- observability
-- software
-- support
-- leader
-- management
-- Unix
-- InfoSec
-- free tier
-- security
-- ' development'
-- open source
-- developer
-- community
 title: 'DevOps''ish 223: Hostile AWS Free Tier, Bye bye Bezos, InfoSec competencies, Rust in Linux Kernel, Git for Computer Scientists, secrets on the CLI, and more'
 ---
 

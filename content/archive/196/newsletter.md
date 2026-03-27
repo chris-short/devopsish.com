@@ -1,41 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-12-13'
 description: The Raddest Release, CentOS Stream, schools using phone hacking tech, FireEye hacked, I feel bad for Austin, GitOps, Honeycomb survey, and more
 draft: false
 slug: '196'
-tags:
-- DevOps
-- Kubernetes
-- People
-- CentOS Stream
-- change
-- release
-- weather
-- database
-- enhancements
-- privacy
-- contributor
-- open source
-- software
-- security
-- query
-- cloud native
-- community
-- Austin
-- Oracle
-- cloud computing
-- enterprise
-- FireEye
-- Microsoft
-- GitOps
-- Linkerd
-- Apple
-- developers
 title: DevOps'ish 196
 ---
 

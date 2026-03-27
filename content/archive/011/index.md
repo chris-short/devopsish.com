@@ -2,26 +2,12 @@
 aliases:
 - devopsish-weekly-011-week-of-1487480400-952ca358aec1
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-02-19T12:31:08Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/alexander-graham-bell-birthplace.jpg
 imagealt: Alexander Graham Bell Birthplace, Edinburgh, Scotland, United Kingdom
 slug: '011'
-tags:
-- devops
-- cloud native
-- open source
-- database
-- linux
-- google
-- CAP Theorem
-- Linus Torvalds
-- Docker
 title: '011: Week of 1487480400'
 ---
 

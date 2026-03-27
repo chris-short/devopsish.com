@@ -1,45 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-05-16'
 description:
 - Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more
 draft: false
 slug: '218'
-tags:
-- DevOps
-- cloud
-- Cloud Native
-- Kubernetes
-- GitOps
-- systemd
-- security
-- KubeCon
-- OpenShift.TV
-- Lambda School
-- GitOps Con
-- Linux on the Desktop
-- security
-- scale
-- SSH
-- open source
-- Microsoft
-- Red Hat
-- Apple
-- Google
-- observability
-- Windows eBPF
-- Rust
-- OpenShift
-- CNCF
-- Linus Torvalds
-- AWS
-- BGP
-- kubectl
-- AI
 title: 'DevOps''ish 218: Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more'
 ---
 

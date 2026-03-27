@@ -1,33 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-01-23'
 description:
 - 5G — It's all good, Measuring open source, Intel coming to Ohio, MoonBounce, GitOps in 2021, Google SRE hellscape, and more
 draft: false
 slug: '253'
-tags:
-- open source
-- Intel
-- 5G
-- MoonBounce
-- security
-- firmware
-- environment
-- Ohio
-- Merck
-- FAA
-- malware
-- Roblox
-- SimCity
-- Honeycomb
-- upstream
-- Solarwinds
-- Linux
-- GitOps
 title: 'DevOps''ish 253: 5G — It''s all good, Measuring open source, Intel coming to Ohio, MoonBounce, GitOps in 2021, Google SRE hellscape, and more'
 ---
 

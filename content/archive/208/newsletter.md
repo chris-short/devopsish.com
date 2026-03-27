@@ -1,27 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-03-07'
 description: 'KubeCon problems, tech is the easy part, Okta eats Auth0 whole, Exchange vulns, Digital Ocean IPO, #100DaysOfKubernetes, and more'
 draft: false
 slug: '208'
-tags:
-- Kubernetes
-- cloud
-- cloud native
-- hybrid cloud
-- KubeCon
-- community
-- DevOps
-- exploit
-- open source
-- Digital Ocean
-- Red Hat
-- Kirsten Newcomer
-- software engineer
 title: 'DevOps''ish 208: KubeCon problems, tech is the easy part, Okta eats Auth0 whole, Exchange vulns, Digital Ocean IPO, #100DaysOfKubernetes, and more'
 ---
 

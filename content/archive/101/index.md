@@ -1,32 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-11-11'
 description: Self-Care, Kubernetes, Red Hat Acquisition, Veterans, HQ2, Heptio Acquisition, and More
 draft: false
 slug: '101'
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- ansible
-- security
-- serverless
-- Red Hat
-- ibm
-- acquisition
-- self-care
-- veterans
-- hq2
-- vmware
-- heptio
-- Docker
 title: '101: Self-Care, Kubernetes, Red Hat Acquisition, Veterans, HQ2, Heptio Acquisition, and More'
 ---
 

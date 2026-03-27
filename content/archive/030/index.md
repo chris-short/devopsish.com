@@ -2,26 +2,12 @@
 aliases:
 - devopsish-030-week-of-1498968000-3e7ae31e6bde
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-07-02T15:48:28Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/us-flag-sparkler.jpg
 imagealt: Happy Independence Day, America
 slug: '030'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- cloud storage
-- intel
-- women in tech
-- gophercon
-- Docker
 title: '030: Week of 1498968000'
 ---
 

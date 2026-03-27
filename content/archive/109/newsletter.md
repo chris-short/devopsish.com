@@ -1,31 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-01-06'
 description: Get Caught Up, Kubernetes in High Demand, Two Monorepos Walk into a Bar, Hashicorp at Home, and More
 draft: false
 slug: '109'
-tags:
-- devops
-- kubernetes
-- open source
-- cloud
-- newsletter
-- cloud native
-- security
-- gocd
-- software
-- engineering
-- aws
-- golang
-- linux
-- openebs
-- monorepos
-- container
-- infosec
 title: '109: Get Caught Up, Kubernetes in High Demand, Two Monorepos Walk into a Bar, Hashicorp at Home, and More'
 ---
 

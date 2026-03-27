@@ -1,34 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-01-19'
 description: Mozilla and DigitalOcean Layoffs, NSA discloses Windows vuln, Kubernetes Bug Bounty Program, PrivateBin, and more
 draft: false
 slug: '163'
-tags:
-- Kubernetes
-- cloud native
-- DevOps
-- NSA
-- Mozilla
-- DigitalOcean
-- bug bounty
-- developers
-- Microsoft
-- Windows
-- AWS
-- layoffs
-- chaos engineering
-- Ansible
-- governance
-- infosec
-- security
-- pair programming
-- postmortems
-- Y2K
 title: '163: Mozilla and DigitalOcean Layoffs, NSA discloses Windows vuln, Kubernetes Bug Bounty Program, PrivateBin, and more'
 ---
 

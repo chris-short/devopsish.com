@@ -2,26 +2,12 @@
 aliases:
 - devopsish-034-the-6ps-ops-microsoft-kubernetes-terraform-and-more-d1fb397ad762
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-07-30T11:01:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/wip.jpg
 imagealt: Trying to juggle too many tasks will kill your productivity. Focus on one thing at a time. —David Neal
 slug: '034'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- linux
-- google
-- gophercon
-- containers
-- Docker
 title: '034: The 6Ps, Ops, Microsoft, Kubernetes, Terraform, and More'
 ---
 

@@ -2,26 +2,12 @@
 aliases:
 - devopsish-054-kubernetes-docker-is-dead-friend-in-need-kubecon-videos-and-more-1011d4dd5cf0
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-12-17T06:34:36Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/great-white-north.jpg
 imagealt: I have to drive south to get to Canada
 slug: '054'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- infrastructure
-- linux
-- google
-- containers
-- Docker Inc
 title: '054: Kubernetes, Docker is Dead, Friend in Need, KubeCon Videos, and More!'
 ---
 

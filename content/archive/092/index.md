@@ -1,25 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-09-09'
 description: Kubernetes, Musk, Dorsey, Go, Blame, Serverless, and More
 draft: false
 slug: 092
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- ansible
-- infrastructure
-- Elon Musk
-- Jack Dorsey
-- serverless
 title: '092: Kubernetes, Musk, Dorsey, Go, Blame, Serverless, and More'
 ---
 

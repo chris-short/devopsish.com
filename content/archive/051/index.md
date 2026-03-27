@@ -2,25 +2,12 @@
 aliases:
 - devopsish-051-highs-and-lows-thankfulness-kubernetes-tmux-and-more-bedac4bd6e11
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-11-26T12:30:09Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/cloudy-mountain.jpg
 imagealt: Highs and Lows
 slug: '051'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- detroit
-- google
-- uber
-- containers
 title: '051: Highs and Lows, Thankfulness, Kubernetes, tmux, and More'
 ---
 

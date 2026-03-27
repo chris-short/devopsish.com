@@ -2,23 +2,12 @@
 aliases:
 - devopsish-weekly-012-week-of-1488085200-4d30ffd92b69
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-02-26T07:07:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/blast-door.jpg
 imagealt: Blast Door
 slug: '012'
-tags:
-- devops
-- cloud native
-- open source
-- google
-- lambda
-- Linus Torvalds
 title: '012: Week of 1488085200'
 ---
 

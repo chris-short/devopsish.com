@@ -1,47 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-05-15'
 description:
 - KubeCon EU is here, SUSE discriminates, Windows vulns, scammer footgun, git, GitOps, and so much more
 draft: false
 slug: '267'
-tags:
-- GitOps
-- AWS
-- Amazon
-- open source
-- KubeCon
-- Kubernetes
-- cloud native
-- Storage Capacity
-- cloud
-- DevOps
-- EKS
-- Honeycomb
-- OpenSSL
-- git
-- squash
-- iPod
-- SUSE
-- Google
-- Apple
-- policy
-- Windows
-- attack
-- security
-- malware
-- resolvers
-- HashiCorp
-- HashiCorp Vault
-- drift detection
-- Flux
-- Argo
-- Observability
-- DevOpsDays
 title: 'DevOps''ish 267: KubeCon EU is here, SUSE discriminates, Windows vulns, scammer footgun, git, GitOps,  and so much more'
 ---
 

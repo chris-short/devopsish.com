@@ -1,34 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-05-26'
 description: Kubernetes Invades Barcelona, Summer Sanity Tips, Summer Survey, SuperGloo Makes Its Mark, Huawei Warm-up, Fake Agile, and More
 draft: false
 slug: '129'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- container
-- security
-- linux
-- infrastructure
-- git
-- GitHub
-- survey
-- summer
-- huawei
-- agile
-- terraform
-- Litmus
-- AWS
-- Kubernetes Operators
 title: '129: Kubernetes Invades Barcelona, Summer Sanity Tips, Summer Survey, SuperGloo Makes Its Mark, Huawei Warm-up, Fake Agile, and More'
 ---
 

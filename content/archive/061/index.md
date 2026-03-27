@@ -2,26 +2,12 @@
 aliases:
 - devopsish-061-week-coreos-acquisition-20-years-of-open-source-heptio-s-undistribution-and-4f63428fc1b1
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-02-04T05:16:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/devopsish-061.png
 imagealt: My Life is Dope and I Do Dope Shit
 slug: '061'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- detroit
-- observability
-- spectre
-- password management
-- containers
 title: '061: 🔥 Week, CoreOS Acquisition, 20 Years of Open Source, Heptio''s Undistribution, and...'
 ---
 

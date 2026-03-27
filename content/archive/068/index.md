@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-03-25'
 description: ''
 draft: false
@@ -11,16 +7,6 @@ image: https://shortcdn.com/devopsish/tiger-parrot.jpg
 imagealt: I'm not even sure what's going on here
 imagecap: I find some weird images when I'm making slides
 slug: 068
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- gdpr
-- security
-- infosec
-- containers
-- Docker
 title: '068: Screaming in the Cloud, GDPR, Kubernetes PoCs, InfoSec, and More'
 ---
 

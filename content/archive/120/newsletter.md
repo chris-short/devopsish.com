@@ -1,28 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-03-24'
 description: No introduction. Enjoy your week!
 draft: false
 slug: '120'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- cloud native
-- cncf
-- serverless
-- container
-- security
-- GitOps
-- Docker
-- Accelerate
 title: '120: Kubernetes, Azure, GitHub, Microsoft, No Medium, Meritocracy, BGP, Clippy, GitOps, DevOps Productivity Hacks, and More'
 ---
 

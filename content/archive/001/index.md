@@ -2,22 +2,10 @@
 aliases:
 - 001-week-of-1481432400-696c2c8043f1
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2016'
 date: '2016-12-11'
 description: ''
 draft: false
 slug: '001'
-tags:
-- devops
-- cloud native
-- open source
-- aws
-- amazon
-- docker
-- nodejs
 title: '001: Week of 1481432400'
 ---
 

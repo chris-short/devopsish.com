@@ -1,26 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-06-12'
 description:
 - ''
 draft: false
 slug: '271'
-tags:
-- Argo
-- Kubernetes
-- open source
-- cloud
-- cloud native
-- data
-- DNS
-- research
-- organization
-- Atom
-- DevOps
 title: DevOps'ish 271
 ---
 

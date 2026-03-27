@@ -1,29 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-01-20'
 description: Kubernetes Security, Earn More in DevOps, Jim Whitehurst, Where to Work in Tech, and More
 draft: false
 slug: '111'
-tags:
-- kubernetes
-- docker
-- devops
-- open source
-- cloud
-- tech
-- github
-- cloud native
-- ansible
-- aws
-- linux
-- Red Hat
-- container
-- security
-- ITIL
 title: '111: Kubernetes Security, Earn More in DevOps, Jim Whitehurst, Where to Work in Tech, and More'
 ---
 

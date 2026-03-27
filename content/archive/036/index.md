@@ -2,28 +2,12 @@
 aliases:
 - devopsish-036-google-witbragday-npm-security-aws-and-more-4a3fc6a2f3bd
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-08-13T11:01:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/heart-balloon-release.jpg
 imagealt: Love and compassion are necessities, not luxuries. Without them humanity cannot survive. —Dalai Lama
 slug: '036'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- cloud computing
-- infrastructure
-- linux
-- github
-- google
-- password management
-- open offices
 title: '036: Google, #WITBragDay, npm Security, AWS, and more!'
 ---
 

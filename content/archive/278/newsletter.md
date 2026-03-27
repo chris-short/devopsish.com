@@ -1,41 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-07-31'
 description:
 - Intro to eBPF, Lawfare looks at open source, Sextortion Victim Hacks Back, UEFI rootkit, UOR Framework, Intel's dividend amid CHIPS Act, and more
 draft: false
 slug: '278'
-tags:
-- eBPF
-- open source
-- kernel
-- Argo
-- Linux
-- security
-- Kubernetes
-- network
-- cloud native
-- observability
-- Detroit
-- developer
-- devopsdays
-- cloud
-- system
-- falco
-- Windows
-- engineering
-- software
-- cilium
-- DevOps
-- KubeCon
-- code
-- UEFI
-- containers
-- Intel
 title: 'DevOps''ish 278: Intro to eBPF, Lawfare looks at open source, Sextortion Victim Hacks Back, UEFI rootkit, UOR Framework, Intel''s dividend amid CHIPS Act, and more'
 ---
 

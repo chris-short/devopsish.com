@@ -1,33 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-05-19'
 description: '128: MDS, Mined Minds, Red Hat & IBM, Kubernetes Operating Systems, ReactiveOps Polaris, ~~Best~~ Practices, and More'
 draft: false
 slug: '128'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- container
-- security
-- linux
-- infrastructure
-- git
-- GitHub
-- MDS
-- Mined Minds
-- best practice
-- practices
-- vuln
-- vulnerabilities
-- open source contributor
 title: '128: MDS, Mined Minds, Red Hat & IBM, Kubernetes Operating Systems, ReactiveOps Polaris, ~~Best~~ Practices, and More'
 ---
 

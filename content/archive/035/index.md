@@ -2,28 +2,12 @@
 aliases:
 - devopsish-035-google-s-toxicity-security-sre-kubernetes-and-more-f4bfadd192c7
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-08-06T04:36:29Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/woodward-ave-downtown-detroit.jpg
 imagealt: Woodward Avenue in Downtown Detroit
 slug: '035'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- detroit
-- google
-- password management
-- microservices
-- Site Reliability Engineering
-- SRE
-- Docker
 title: '035: Google''s Toxicity, Security, SRE, Kubernetes, and More!'
 ---
 

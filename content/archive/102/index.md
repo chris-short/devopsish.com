@@ -1,29 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-11-18'
 description: Web Development is Hard, Kubernetes, Ansible, DevOps Engineer title debate, Google Woes, sr.ht, and More
 draft: false
 slug: '102'
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- Red Hat
-- ansible
-- security
-- serverless
-- google
-- linux
-- enterprise
-- veterans
-- Docker Inc
 title: '102: Web Development is Hard, Veterans, Kubernetes, Ansible, DevOps Engineer title debate, Google Woes, sr.ht, and More'
 ---
 

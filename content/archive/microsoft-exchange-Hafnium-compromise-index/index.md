@@ -2,30 +2,12 @@
 aliases:
 - /microsoft-exchange-hafnium-compromise/
 author: Chris Short
-categories:
-- Indexes
-- '2021'
 date: '2021-03-14'
 description: Coverage of the Microsoft Exchange Hafnium compromise from around the web
 draft: false
 image: https://shortcdn.com/devopsish/Microsoft_Exchange_logo.png
 imagealt: Microsoft Exchange
 slug: microsoft-exchange-hafnium-compromise-index
-tags:
-- Microsoft
-- Microsoft Exchange
-- Microsoft Exchange Server
-- Hafnium
-- compromise
-- National Security Council
-- security response center
-- security
-- compromise
-- cloud
-- servers
-- attacks
-- Chinese hackers
-- vulnerabilities
 title: DevOps'ish Microsoft Exchange Hafnium Compromise Index
 ---
 

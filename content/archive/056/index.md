@@ -2,23 +2,12 @@
 aliases:
 - devopsish-056-is-docker-dead-tech-bros-kubernetes-tools-galore-and-more-89edb0cc703e
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-12-31T07:01:01Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/macbook-hour-glass.jpg
 imagealt: The sand is almost at the bottom of 2017's hourglass
 slug: '056'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- serverless
-- Docker
 title: '056: Is Docker Dead, Tech Bros, Kubernetes, Tools Galore, and More!'
 ---
 

@@ -2,24 +2,12 @@
 aliases:
 - devopsish-040-solaris-observability-shift-left-ansible-and-more-105ad2da1a4c
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-09-10T06:01:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/gonza-tacos-y-tequila.jpg
 imagealt: Live and Direct from Gonza Tacos y Tequila on Hillsborough St. in Raleigh, NC
 slug: '040'
-tags:
-- devops
-- cloud native
-- open source
-- observability
-- detroit
-- solaris
-- containers
 title: '040: Solaris, Observability, Shift Left, Ansible, and More'
 ---
 

@@ -1,33 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-02-17'
 description: CVE-2019-5736 runc vuln, You Can Fit So Much Kubernetes in this Newsletter, Liz Fong-Jones, MongoDB's Demise, GPS epoch, DIY DBaaS, and More!
 draft: false
 slug: '115'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- cloud native
-- cncf
-- ansible
-- container
-- security
-- runc
-- CVE-2019-5736
-- vulnerability
-- Liz Fong-Jones
-- GPS
-- DBaaS
-- Kubernetes Operators
-- Docker
 title: '115: CVE-2019-5736 runc vuln, You Can Fit So Much Kubernetes in this Newsletter, Liz Fong-Jones, MongoDB''s Demise, GPS epoch, DIY DBaaS, and More!'
 ---
 

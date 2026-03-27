@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-04-08'
 description: Not the Postmortem We Wanted to Run
 draft: false
@@ -11,41 +7,6 @@ image: https://shortcdn.com/devopsish/070.jpg
 imagealt: Not the Postmortem We Wanted to Run
 imagecap: What should happen in the wake of the YouTube Shooting?
 slug: '070'
-tags:
-- Kubernetes
-- DevOps
-- open source
-- cloud
-- cloud native
-- security
-- containers
-- people
-- work
-- DevOpsDays
-- Google
-- application
-- postmortem
-- Arm
-- Docker
-- Mac
-- diversity
-- deploy
-- shooting
-- practice
-- performance
-- Apple
-- compute
-- data
-- Atlanta
-- infrastructure
-- ChefConf
-- Toronto
-- code
-- AWS
-- DevSecOps
-- GitHub
-- git
-- Intel
 title: '070: Not the Postmortem We Wanted to Run'
 ---
 

@@ -1,33 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-03-17'
 description: Serverless, k8s on k8s on k8s, gRPC (Yeah You Know Me), Foundation Fatigue, Self Care, and More
 draft: false
 slug: '119'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- cloud native
-- cncf
-- serverless
-- ansible
-- container
-- security
-- google
-- azure
-- k8s
-- grpc
-- Docker
-- quantum computing
-- Accelerate
 title: '119: Serverless, k8s on k8s on k8s, gRPC (Yeah You Know Me), Foundation Fatigue, Self Care, and More'
 ---
 

@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-04-01'
 description: ''
 draft: false
@@ -11,19 +7,6 @@ image: https://shortcdn.com/devopsish/easter-2018.jpg
 imagealt: Happy Easter
 imagecap: ''
 slug: 069
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- docker
-- infosec
-- Ansible
-- lambda
-- containers
-- Docker Inc
-- Site Reliability Engineering
-- SRE
 title: '069: Kubernetes 1.10, Docker Deathwatch, Breaches, goo.gl Gone, Ansible, and More'
 ---
 

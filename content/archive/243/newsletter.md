@@ -1,36 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-11-14'
 description:
 - Bellwethers, changes at Red Hat, Kubernetes 2021 Steering Committee Election Results, Monstrosity Email, Bitbucket's move to AWS is complete, and more
 draft: false
 slug: '243'
-tags:
-- cloud
-- free
-- service
-- DevOps
-- bellwethers
-- Kubernetes
-- news
-- dockershim
-- infrastructure
-- email
-- infrastructure
-- code
-- cloud native
-- open source
-- Red Hat
-- programming
-- kustomize
-- automation
-- Terraform
-- Kustomize Cheat Sheet
-- GitOps
 title: 'DevOps''ish 243: Bellwethers, changes at Red Hat, Kubernetes 2021 Steering Committee Election Results, Monstrosity Email, Bitbucket''s move to AWS is complete, and more'
 ---
 

@@ -1,39 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-02-02'
 description: Change at IBM and Red Hat, flaunt your Kubernetes knowledge, WireGuard, Tailscale, Azure, nmap, podman, and more
 draft: false
 slug: '165'
-tags:
-- DevOps
-- Kubernetes
-- open source
-- IBM
-- Red Hat
-- cloud
-- cloud native
-- Linux
-- WireGuard
-- Tailscale
-- security
-- scale
-- engineer
-- community
-- nmap
-- podman
-- VPN
-- Azure
-- microservice
-- Michigan
-- Chinese
-- coronavirus
-- trends
-- funding
-- observability
 title: '165: Change at IBM and Red Hat, flaunt your Kubernetes knowledge, WireGuard, Tailscale, Azure, nmap, podman, and more'
 ---
 

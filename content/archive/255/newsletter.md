@@ -1,38 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-02-06'
 description:
 - Open source operational transparency, npm security, Blackberry sells off patents, Samba vuln, Minecraft server in 10, GitOps Terraform controller for Kubernetes, and more
 draft: false
 slug: '255'
-tags:
-- services
-- Great Resignation
-- Pandora
-- cobalt
-- vulnerability
-- Right to Repair
-- sensitive information
-- attack
-- npm
-- Linux
-- Samba
-- rust
-- Honeycomb
-- transparency
-- Kubernetes
-- Helm
-- Argo CD
-- Blackberry
-- DevOps
-- GitOps
-- Ansible
-- Terraform
-- open source
 title: 'DevOps''ish 255: Open source operational transparency, npm security, Blackberry sells off patents, Samba vuln, Minecraft server in 10, GitOps Terraform controller for Kubernetes, and more'
 ---
 

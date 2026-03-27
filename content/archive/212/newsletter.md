@@ -1,44 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-04-04'
 description: Linux lawsuit, universities breached, massive Facebook breach, Amazon's horrible PR in light of conditions, Git Submodules = 👿, GitOpsCon CFP, and more
 draft: false
 slug: '212'
-tags:
-- Linux
-- university
-- DevOps
-- SCO
-- cloud
-- cloud native
-- open source
-- Women of Computing LEGO
-- open source
-- Xinuos
-- security
-- git
-- git submodules
-- podman
-- Google
-- Microsoft
-- Facebook
-- IBM
-- Amazon
-- AWS
-- Red Hat
-- Honeycomb
-- sigstore
-- Kubernetes
-- Multus
-- CNI
-- AMD
-- npm
-- DNS
-- GitOps
 title: 'DevOps''ish 212: Linux lawsuit, universities breached, massive Facebook breach, Amazon''s horrible PR in light of conditions, Git Submodules = 👿, GitOpsCon CFP, and more'
 ---
 

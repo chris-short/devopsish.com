@@ -2,25 +2,12 @@
 aliases:
 - devopsish-026-week-of-1496548800-93fe8fbfa088
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-06-04T05:21:58Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/open-organization-guide-to-it-culture-change.png
 imagealt: '#TheOpenOrg + #Agile + #DevOps = The Open Organization Guide to IT Culture Change'
 slug: '026'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- infrastructure
-- detroit
-- linux
-- microservices
 title: '026: Week of 1496548800'
 ---
 

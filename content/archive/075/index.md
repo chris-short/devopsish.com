@@ -1,28 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-05-13'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/075-web.jpg
 slug: '075'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- delivery
-- microservices
-- container
-- security
-- Ansible
-- assholes
-- containers
-- Site Reliability Engineering
-- SRE
 title: '075: Assholes, SRE, Container and Kubernetes Security, Ansible for Windows, and More'
 ---
 

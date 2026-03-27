@@ -1,33 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-11-18'
 description: '154: Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more'
 draft: false
 slug: '154'
-tags:
-- Docker
-- DevOps
-- Unicorn Project
-- KubeCon
-- Kubernetes
-- GitHub
-- open source
-- cloud
-- cloud native
-- Helm
-- IBM
-- Microsoft
-- containers
-- developer
-- Mirantis
-- systems
-- Deming
-- stock options
-- GitOps
 title: '154: Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more'
 ---
 

@@ -1,37 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-12-26'
 description:
 - The Log4j gift that keeps on giving, Kubernetes Contributor Awards, CKAD Help, web3 & NFTs, DuckDuckGo, self-hosting, EKS News, OpenKruise, and more
 draft: false
 slug: '249'
-tags:
-- open source
-- log4j
-- Kubernetes
-- cloud
-- DevOps
-- Rust
-- Julia Ferraioli
-- web3
-- NFT
-- GitOps
-- NSO
-- GitHub
-- Erica Brescia
-- maintainers
-- vulnerability
-- Corey Quinn
-- artists
-- Karpenter
-- DuckDuckGo
-- Cloud Native
-- developers
-- Kris Nova
 title: 'DevOps''ish 249: The Log4j gift that keeps on giving, Kubernetes Contributor Awards, CKAD Help, web3 & NFTs, DuckDuckGo, self-hosting, EKS News, OpenKruise, and more'
 ---
 

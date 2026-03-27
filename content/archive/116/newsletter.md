@@ -1,37 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-02-24'
 description: Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, Hashicorp in Wired, Ansible for Kubernetes, Knative, and More
 draft: false
 slug: '116'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- cloud native
-- cncf
-- ansible
-- container
-- security
-- automation
-- knative
-- learning
-- openshift
-- istio
-- docker layoffs
-- docker
-- layoffs
-- licenses
-- Docker Inc
-- automation imagination
-- CI/CD
 title: '116: Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, Hashicorp in Wired, Ansible for Kubernetes, Knative, and More'
 ---
 

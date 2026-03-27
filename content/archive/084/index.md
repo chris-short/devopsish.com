@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-07-15'
 description: Open Offices are Evil, AWS Switches?, GitOps, BGP, Getting Started with CI/CD, OpenFaaS, and More
 draft: false
@@ -11,17 +7,6 @@ image: https://shortcdn.com/devopsish/dbap.jpg
 imagealt: Durham Bulls Athletic Park
 imagecap: Durham Bulls Athletic Park
 slug: 084
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- ansible
-- survey
-- JEDI
-- CI/CD
-- Docker
 title: '084: Open Offices are Evil, AWS Switches?, GitOps, BGP, Getting Started with CI/CD, OpenFaaS, and More'
 ---
 

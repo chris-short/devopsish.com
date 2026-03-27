@@ -1,22 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-06-23'
 description: TCP SACK PANIC, Kubernetes 1.15, Red Hat & IBM, Job Identity, UBI, Cognitive Load and More
 draft: false
 slug: '133'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- GitHub
-- cloud native
-- weekly newsletter
-- GitOps
 title: '133: TCP SACK PANIC, Kubernetes 1.15, Red Hat & IBM, Job Identity, UBI, Cognitive Load and More'
 ---
 

@@ -2,22 +2,12 @@
 aliases:
 - 005-week-of-1483851600-baf4700357e3
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
 date: '2017-01-08T05:34:47.583Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/snowy-street.jpg
 imagealt: Snowy Street
 slug: '005'
-tags:
-- devops
-- cloud native
-- open source
-- programming
-- ntp
-- containers
 title: '005: Week of 1483851600'
 ---
 

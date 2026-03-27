@@ -1,31 +1,11 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-04-28'
 description: Docker Hub Breach, Drupal in Kubernetes, Localize Kubernetes, Get Into Open Source, Apple's AWS Bill, Hertz Sues Accenture, and Much More
 draft: false
 image: https://shortcdn.com/devopsish/docker-hub-breach.png
 imagealt: Docker Hub breach impacting at least 190,000 accounts
 slug: '125'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- container
-- security
-- system
-- Docker Hub breach
-- docker
-- docker hub
-- compromise
-- Docker Inc
-- Kubernetes Operators
 title: '125: Docker Hub Breach, Drupal in Kubernetes, Localize Kubernetes, Get Into Open Source, Apple''s AWS Bill, Hertz Sues Accenture, and Much More'
 ---
 

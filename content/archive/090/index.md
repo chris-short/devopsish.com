@@ -1,32 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-08-26'
 description: DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!
 draft: false
 slug: 090
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- ansible
-- Red Hat
-- windows
-- linux
-- rss
-- pipelines
-- NotPetya
-- licenses
-- JEDI
-- CI/CD
-- Docker
-- GitOps
 title: '090: DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!'
 ---
 

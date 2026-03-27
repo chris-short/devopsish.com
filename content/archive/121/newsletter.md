@@ -1,27 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-03-31'
 description: Kubernetes 1.14, Cloudy with a Chance of Complexity, Accelerate State of DevOps survey, and More
 draft: false
 slug: '121'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- cloud native
-- cncf
-- serverless
-- container
-- security
-- Kubernetes Operators
-- '996'
 title: '121: Kubernetes 1.14, Cloudy with a Chance of Complexity, Accelerate State of DevOps survey, and More'
 ---
 

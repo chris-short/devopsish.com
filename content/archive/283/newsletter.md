@@ -1,26 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-09-04'
 description:
 - Cloudflare's demise, Fog Data Science, Privileged Ports Must Die, OpenTelemetry, COSI, and more
 draft: false
 slug: '283'
-tags:
-- Kubernetes
-- cloud native
-- USB 4
-- Detroit
-- Developers
-- DevOps
-- SRE
-- software
-- security
-- OpenTelemetry
-- object storage
 title: 'DevOps''ish 283: Cloudflare''s demise, Fog Data Science, Privileged Ports Must Die, OpenTelemetry, COSI, and more'
 ---
 

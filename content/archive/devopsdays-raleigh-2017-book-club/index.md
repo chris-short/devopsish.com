@@ -2,21 +2,12 @@
 aliases:
 - devopsdays-raleigh-2017-book-club-e5dccc8f7943
 author: Chris Short
-categories:
-- Commentary
-- '2017'
 date: '2017-10-10'
 description: As part of the Open Spaces at DevOpsDays Raleigh, the group decided to do a Book Club to share interesting books, podcasts, etc.
 draft: false
 image: https://shortcdn.com/devopsish/DevOpsDays-Raleigh-2017-Book-Club.jpg
 imagealt: DevOpsDays Raleigh 2017 Speakers and Attendees During the Book Club Open Space
 slug: devopsdays-raleigh-2017-book-club
-tags:
-- devops
-- cloud native
-- open source
-- books
-- infrastructure
 title: DevOpsDays Raleigh 2017 Book Club
 ---
 

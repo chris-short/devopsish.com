@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2026'
 date: '2026-01-13'
 description:
 - I am happy to say that DevOps'ish will be returning to an inbox near you.

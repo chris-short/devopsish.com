@@ -1,25 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-06-30'
 description: ''
 draft: false
 slug: '134'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- GitHub
-- cloud native
-- security
-- google
-- multicloud
-- platform
-- JEDI
 title: '134: Kubernetes Security, multicloud marvels, BGP bungle, Bill''s biggest blunder, Big Blue blows through EU, Big Red roiling JEDI requisition, and more'
 ---
 

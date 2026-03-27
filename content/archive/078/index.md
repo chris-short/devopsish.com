@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-06-03'
 description: ''
 draft: false
@@ -11,16 +7,6 @@ image: https://shortcdn.com/devopsish/mindseye-what-the-military-taught-me-about
 imagealt: Graphic Recording of What The Military Taught Me About DevOps
 imagecap: Graphic Recording by [Mind's Eye Creative](http://www.mindseyecreative.ca/)
 slug: 078
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- GitOps
-- cloud
-- security
-- git
-- Docker
 title: '078: Microsoft ❤️ GitHub, Security, Project Maven, Ansible, Kubernetes, and More'
 ---
 

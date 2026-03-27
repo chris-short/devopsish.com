@@ -1,22 +1,11 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-03-05T07:07:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/macbook-code-editor.jpg
 imagealt: MacBook Running an IDE
 slug: '013'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- Site Reliability Engineering
-- SRE
 title: '013: Week of 1488690000'
 ---
 

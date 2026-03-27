@@ -1,33 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-11-06'
 description:
 - DevOps'ish is coming to an end this week due to medical conditions
 draft: false
 slug: '292'
-tags:
-- Kubernetes
-- Twitter
-- GitHub
-- Layoffs
-- Mastodon
-- code
-- Honeycomb
-- Elon Musk
-- Lyft
-- DevOps
-- privacy
-- internet
-- kluctl
-- CPU Limits
-- cluster
-- API
-- AWS
-- health
 title: 'DevOps''ish 292: Not like this'
 ---
 

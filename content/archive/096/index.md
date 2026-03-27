@@ -1,33 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-10-07'
 description: DevOps, Kubernetes, Ansible, Serverless, Bad Recruiting, Bad Motherboards, and More
 draft: false
 slug: 096
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- ansible
-- ansiblefest
-- automation
-- code
-- tools
-- serverless
-- facebook
-- security
-- Site Reliability Engineering
-- SRE
-- Docker
-- podman
-- containers
 title: '096: DevOps, Kubernetes, Ansible, Serverless, Bad Recruiting, Bad Motherboards, and More'
 ---
 

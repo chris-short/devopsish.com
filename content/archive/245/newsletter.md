@@ -1,55 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-11-28'
 description:
 - Please do not attempt to simplify this code, Rust Mod Team, feedback, attackers don't bother brute-forcing long passwords, GitOps, kube-scheduler-simulator, and more
 draft: false
 slug: '245'
-tags:
-- code
-- Kubernetes
-- Space Shuttle
-- open source
-- simplify
-- team
-- GitOps
-- Cloud
-- DevOps
-- scheduler
-- simulator
-- free
-- Cloud Native
-- Rust
-- kube
-- brute forcing
-- infrastructure
-- sigstore
-- Amazon
-- persistent volumes
-- NASA
-- process
-- Linux
-- gp3
-- automation
-- practices
-- clever
-- Microsoft
-- Honeycomb
-- quantum
-- persistent volume controller
-- Riverbed
-- NVIDIA
-- Apple
-- Pulumi
-- developers
-- Fedora
-- AWS
-- CNCF
-- Red Hat
 title: 'DevOps''ish 245: Please do not attempt to simplify this code, Rust Mod Team, feedback, attackers don''t bother brute-forcing long passwords, GitOps, kube-scheduler-simulator, and more'
 ---
 

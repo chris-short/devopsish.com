@@ -1,52 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-09-20'
 description: Observability, Kubernetes, Cloud Native, Bill Gates on Elon Musk and Steve Jobs, 1,000 ways to die and we chose plastic, and More
 draft: false
 slug: '184'
-tags:
-- cloud
-- cloud native
-- Kubernetes
-- DevOps
-- data
-- open source
-- observability
-- culture
-- Bill Gates
-- LAMBDA
-- source code
-- systems
-- Cloud Native Computing Foundation
-- Salesforce
-- Cisco
-- Phish Scale
-- IBM
-- Evernote
-- Microsoft
-- Portworx
-- Tekton
-- Rego
-- OPA
-- Accurics
-- Terrascan
-- serverless
-- phishing
-- Crunchy Data
-- postgresql
-- ebooks
-- workloads
-- pipelines
-- CI/CD
-- Alibaba Cloud
-- Jeff Zhang
-- Ansible
-- Molecule
-- CISO
 title: DevOps'ish 184
 ---
 

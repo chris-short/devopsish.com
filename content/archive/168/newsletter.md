@@ -1,44 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-02-23'
 description: Two universes of IBM and Red Hat, Impact of Istio and Knative not going to a foundation, compensation questions, technical debt, and more
 draft: false
 slug: '168'
-tags:
-- open source
-- Kubernetes
-- DevOps
-- IBM
-- Red Hat
-- cloud
-- Cloud Native
-- technical debt
-- engineer
-- Google
-- Ansible
-- Linux Foundation
-- trust
-- Oracle
-- Istio
-- Knative
-- CNCF
-- platform
-- infrastructure
-- Xerox
-- Linux
-- observability
-- monitoring
-- performance
-- Kelsey Hightower
-- Datadog
-- containers
-- Moore's Law
-- Cloud Native Computing Foundation
-- parallel
 title: DevOps'ish 168
 ---
 

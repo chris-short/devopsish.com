@@ -1,43 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-08-15'
 description:
 - Complex Systems == No Single Root Cause, WFHers juggling two jobs, Service Reliability Math, eBPF Foundation, Dashboards, Tools from Black Hat and more
 draft: false
 slug: '230'
-tags:
-- systems
-- cloud
-- single root cause
-- Kubernetes
-- DevOps
-- lightning
-- datacenter
-- security
-- Steam
-- cooling
-- reset
-- power
-- containers
-- cloud native
-- Apple
-- code
-- Linux
-- Red Hat
-- ARM
-- open source
-- John Allspaw
-- work from home
-- incidents
-- AWS
-- eBPF Foundation
-- dashboards
-- nano
-- GitOps
 title: 'DevOps''ish 230: Complex Systems == No Single Root Cause, WFHers juggling two jobs, Service Reliability Math, eBPF Foundation, Dashboards, Tools from Black Hat and more'
 ---
 

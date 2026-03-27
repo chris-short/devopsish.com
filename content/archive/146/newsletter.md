@@ -1,33 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-09-22'
 description: We're going to need a bigger boat for this week's newsletter. From Anthos to Chef to Seth to words with Z in them there's something for everyone!
 draft: false
 slug: '146'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- cloud native
-- DevOps news
-- Kubernetes news
-- Seth Vargo
-- Chef
-- Google Anthos
-- VMware Project Pacific
-- linux
-- kernel
-- AWS
-- Linus Torvalds
-- Richard Stallman
-- WeWork
-- quantum computing
-- GitOps
 title: '146: Seth Vargo says hell no—puts Chef on ICE, Kubernetes 1.16, Linus Torvalds on kernel development, fluffy clouds, DevOps terms, and more'
 ---
 

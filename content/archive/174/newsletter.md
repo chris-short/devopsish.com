@@ -1,32 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-04-05'
 description: Free Ansible & Kubernetes books, migrating to Kubernetes, Ansible GitOps, OpenShift Virtualization, Ingress API tweaks in Kubernetes 1.18, and more
 draft: false
 slug: '174'
-tags:
-- Kubernetes
-- cloud
-- DevOps
-- security
-- AWS
-- community
-- Ansible
-- containers
-- open source
-- cloud native
-- configuration
-- Lambda
-- OpenShift
-- virtualization
-- Operators
-- Outreachy
-- VSCode
-- GitOps
 title: DevOps'ish 174
 ---
 

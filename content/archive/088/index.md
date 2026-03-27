@@ -1,25 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-08-12'
 description: Survey Results, Kubernetes, Prometheus Graduates 🎓, Blue Light is Bad, CI/CD, Ethics, kubespray, and More!
 draft: false
 slug: 088
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- ansible
-- survey results
-- ethics
-- prometheus
-- kubespray
-- CI/CD
 title: '088: Survey Results, Kubernetes, Prometheus Graduates 🎓, Blue Light is Bad, CI/CD, Ethics, kubespray, and More!'
 ---
 

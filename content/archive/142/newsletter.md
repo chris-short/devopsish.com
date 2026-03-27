@@ -1,27 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-08-25'
 description: COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more
 draft: false
 slug: '142'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- cloud native
-- DevOps news
-- Kubernetes news
-- COBOL
-- git
-- ops
-- Site Reliability Engineering
-- SRE
-- WeWork
 title: '142: COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more'
 ---
 

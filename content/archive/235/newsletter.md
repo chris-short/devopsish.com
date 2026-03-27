@@ -1,39 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-09-19'
 description:
 - Data scientists shouldn't need to know Kubernetes, Pay Transparency, ever popular PHP, Crossplane, Flux, Kubernetes Network Policies, kube-vip, and more
 draft: false
 slug: '235'
-tags:
-- Kubernetes
-- cloud
-- cloud native
-- DevOps
-- Microsoft
-- chaos
-- network policies
-- access controls
-- site reliability engineer
-- SRE
-- PHP
-- filesystem
-- Facebook
-- CNCF
-- GitOps
-- open source
-- programming
-- deployments
-- Crossplace
-- Flux
-- Linux
-- NTFS
-- Flash
-- Apple
 title: 'DevOps''ish 235: Data scientists shouldn''t need to know Kubernetes, Pay Transparency, ever popular PHP, Crossplane, Flux, Kubernetes Network Policies, kube-vip, and more'
 ---
 

@@ -2,27 +2,12 @@
 aliases:
 - devopsish-weekly-021-week-of-1493524800-c976f19e5099
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-04-30T06:01:02Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/tranquil-lake.jpg
 imagealt: April Showers Better Bring a TON of May Flowers
 slug: '021'
-tags:
-- devops
-- cloud native
-- open source
-- docker
-- golang
-- linux
-- google
-- uber
-- lambda
-- Docker Inc
 title: '021: Week of 1493524800'
 ---
 

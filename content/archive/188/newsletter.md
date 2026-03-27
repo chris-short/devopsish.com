@@ -1,41 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-10-18'
 description: YAML, Kubernetes Steering Committee, BleedingTooth, ContainerDrip, TrickBot, Kubernetes, Van Halen's rider, Rust, and more
 draft: false
 slug: '188'
-tags:
-- YAML
-- Kubernetes
-- DevOps
-- Rust
-- monitoring
-- Docker
-- infrastructure
-- code
-- build
-- open source
-- systems
-- security
-- bleedingtooth
-- cloud
-- cloud native
-- git
-- configuration
-- observability
-- learn
-- culture
-- developers
-- Microsoft
-- Python
-- container
-- thanos
-- deployment
-- platform
 title: DevOps'ish 188
 ---
 

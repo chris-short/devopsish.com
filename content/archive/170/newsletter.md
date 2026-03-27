@@ -1,37 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-03-08'
 description: We're all grounded, transparency, women in ops, GKE price hike, pppd flaw, GitHub poaches Nicole Forsgren, container attached storage, and more
 draft: false
 slug: '170'
-tags:
-- Kubernetes
-- Operators
-- Istio
-- DevOps
-- cloud native
-- cloud
-- open source
-- storage
-- control plane
-- coronavirus
-- COVID-19
-- Linux
-- containers
-- namespaces
-- Google
-- GKE
-- Intel
-- infrastructure
-- CNCF
-- Ops
-- Nicole Forsgren
-- container attached storage
-- OpenEBS
 title: DevOps'ish 170
 ---
 

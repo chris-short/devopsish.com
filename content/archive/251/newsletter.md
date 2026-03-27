@@ -1,39 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-01-09'
 description:
 - About last week, 5G shenanigans, Dockershim deprecation, FTC warns companies about Log4j, GitOpsCon EU 2022 CFP open, EKS News, and more
 draft: false
 slug: '251'
-tags:
-- internet
-- Kubernetes
-- Intel
-- dockershim
-- Linux
-- open source
-- Log4j
-- IBM Watson Health
-- EKS
-- security
-- coding
-- learnings
-- deprecation
-- vulnerability
-- expectations
-- 5G
-- FAA
-- Brave
-- privacy
-- IPv6
-- Apple
-- developer
-- HTTP QUERY
-- JED
 title: 'DevOps''ish 251: About last week, 5G shenanigans, Dockershim deprecation, FTC warns companies about Log4j, GitOpsCon EU 2022 CFP open, EKS News, and more'
 ---
 

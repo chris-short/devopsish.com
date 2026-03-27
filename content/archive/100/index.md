@@ -1,31 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-11-04'
 description: 'At Least it Wasn''t Oracle, IBM Acquiring Red Hat, AWS, Amazon HQ2 News, Kubernetes, #noServerNovember, Neomonolith, and More'
 draft: false
 slug: '100'
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- ansible
-- security
-- serverless
-- aws
-- amazon
-- hq2
-- Red Hat
-- ibm
-- monitoring
-- noservernovember
-- neomonolith
 title: '100: At Least it Wasn''t Oracle, IBM Acquiring Red Hat, AWS, Amazon HQ2 News, Kubernetes, #noServerNovember, Neomonolith, and More'
 ---
 

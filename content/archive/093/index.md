@@ -1,26 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-09-16'
 description: Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More
 draft: false
 slug: 093
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- ansible
-- 9-11
-- Site Reliability Engineering
-- SRE
-- Kubernetes Operators
-- GitOps
 title: '093: Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More'
 ---
 

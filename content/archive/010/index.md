@@ -2,22 +2,12 @@
 aliases:
 - devopsish-weekly-010-week-of-1486857600-28889c38fd68
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-02-12T16:55:14Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/edinburgh-scotland-feb-2017.jpg
 imagealt: Edinburgh, Scotland, United Kingdom — 11 Feb 2017
 slug: '010'
-tags:
-- devops
-- cloud native
-- open source
-- database
-- containers
 title: '010: Week of 1486857600'
 ---
 

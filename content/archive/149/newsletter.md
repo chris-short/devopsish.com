@@ -1,36 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-10-13'
 description: Ahh-Me or Ay-Em-Eye, Don't stop learning, GitOps, open is better, iTerm2 vuln, Ansible Operators, and More
 draft: false
 slug: '149'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- cloud native
-- DevOps news
-- Kubernetes news
-- Docker Inc
-- Docker
-- Ansible
-- memory
-- controller
-- terraform
-- Corey Quinn
-- GitLab
-- AWS
-- learning
-- GitOps
-- iTerm2
-- Ansible Operators
-- CI/CD
-- Kubernetes Operators
 title: '149: Ahh-Me or Ay-Em-Eye, Don''t stop learning, GitOps, open is better, iTerm2 vuln, Ansible Operators, and More'
 ---
 

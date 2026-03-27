@@ -1,29 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-02-03'
 description: Ansible Operator, Groundhog Day, DevOps Team Topologies, OSS CS Degree, Multi-Arch Home Kubernetes Cluster, OpenFaaS Cloud, and More
 draft: false
 slug: '113'
-tags:
-- kubernetes
-- docker
-- devops
-- open source
-- cloud
-- tech
-- github
-- cloud native
-- ansible
-- container
-- security
-- groundhog
-- docker
-- Ansible Operators
-- GitOps
 title: '113: Ansible Operator, Groundhog Day, DevOps Team Topologies, OSS CS Degree, Multi-Arch Home Kubernetes Cluster, OpenFaaS Cloud, and More'
 ---
 

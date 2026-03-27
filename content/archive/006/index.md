@@ -2,24 +2,12 @@
 aliases:
 - 006-week-of-1484456400-ceb344fd9ab0
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-01-15T07:32:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/snowy-mountain-lake.jpg
 imagealt: Snowy Mountain Lake
 slug: '006'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- linux
-- containers
-- Docker
 title: '006: Week of 1484456400'
 ---
 

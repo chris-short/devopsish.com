@@ -1,31 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-01-26'
 description: Your why, DevOps engineer interview questions, Managing the Hidden Costs of Coordination, kube-scan, funding rounds, and more
 draft: false
 slug: '164'
-tags:
-- DevOps
-- open source
-- Kubernetes
-- security
-- infosec
-- cloud
-- cloud native
-- open source software
-- funding
-- community
-- AWS
-- Microsoft
-- Windows
-- ChatOps
-- elasticsearch
-- IBM
-- culture
 title: '164: Your why, DevOps engineer interview questions, Managing the Hidden Costs of Coordination, kube-scan, funding rounds, and more'
 ---
 

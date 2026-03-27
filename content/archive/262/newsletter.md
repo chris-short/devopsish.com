@@ -1,31 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-03-27'
 description:
 - Docker whales, Okta and Lapsus$ galore, Apple Outage, Kubernetes storage, using mtr, Kubernetes events in Slack, and more
 draft: false
 slug: '262'
-tags:
-- Kubernetes
-- Argo
-- Okta
-- Apple
-- SLOs
-- Lapsus$
-- GitOps
-- mtr
-- reliability
-- incident
-- Microsoft
-- Russia
-- Pulumi
-- DevOps
-- engineering
-- Docker
 title: 'DevOps''ish 262: Docker whales, Okta and Lapsus$ galore, Apple Outage, Kubernetes storage, using mtr, Kubernetes events in Slack, and more'
 ---
 

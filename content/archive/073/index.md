@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-04-29'
 description: ''
 draft: false
@@ -11,20 +7,6 @@ image: https://shortcdn.com/devopsish/balance.jpg
 imagealt: Life is about balance. The struggle is achieving it.
 imagecap: Life is about balance. The struggle is achieving it.
 slug: '073'
-tags:
-- devops
-- cloud native
-- open source
-- rtfm
-- hiring
-- bgp
-- dns
-- kubernetes
-- gitlab
-- containers
-- Site Reliability Engineering
-- SRE
-- Docker
 title: '073: DevOps Hiring Guide, RIP RTFM, BGP & DNS, Kubernetes, GitLab, and More'
 ---
 

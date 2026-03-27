@@ -1,31 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-08-18'
 description: Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More
 draft: false
 slug: 089
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- ansible
-- microservices
-- metrics
-- azure
-- containers
-- podman
-- kafka
-- backblaze
-- jack dorsey
-- Site Reliability Engineering
-- SRE
-- GitOps
 title: '089: Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More'
 ---
 

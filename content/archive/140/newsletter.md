@@ -1,26 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-08-11'
 description: Kubernetes, DevOps, AWS, Community, Operators, and More
 draft: false
 slug: '140'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- GitHub
-- cloud native
-- DevOps news
-- Kubernetes news
-- community
-- AWS
-- Operators
-- Kubernetes Operators
 title: '140: Kubernetes, DevOps, AWS, Community, Operators, and More'
 ---
 

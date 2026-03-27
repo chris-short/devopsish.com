@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-07-01'
 description: Picking Winning Tech, Blue is Bad, Kubernetes, GCP Problems, VKE, Ansible, and More
 draft: false
@@ -11,18 +7,6 @@ image: https://shortcdn.com/devopsish/IMG_4318.jpg
 imagealt: Petosky State Park overlooking Lake Michigan
 imagecap: Petosky State Park overlooking Lake Michigan
 slug: 082
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- ansible
-- microservices
-- google
-- github
-- microsoft
-- cloud
-- Docker
 title: '082: Picking Winning Tech, Blue is Bad, Kubernetes, GCP Problems, VKE, Ansible, and More'
 ---
 

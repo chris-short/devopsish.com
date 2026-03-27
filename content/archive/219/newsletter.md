@@ -1,44 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-05-22'
 description:
 - Mobile First Development, Bill Gates, your Wi-Fi are belong to us, irksome IRC, Argo with Okta, kubectl debug, and more
 draft: false
 slug: '219'
-tags:
-- DevOps
-- mobile
-- iPad Pro
-- Okta
-- Argo
-- kubectl debug
-- development
-- open source
-- Wi-Fi
-- IRC
-- Linux
-- Kubernetes
-- Bill Gates
-- OpenShift
-- cloud native
-- server
-- cluster
-- CodeReady Workspaces
-- irksome
-- Microsoft
-- observability
-- GitOps
-- GitHub
-- VScode
-- Red Hat
-- Developers
-- runc
-- LGBTQ+
-- Tailscale
 title: 'DevOps''ish 219: Mobile First Development, Bill Gates, your Wi-Fi are belong to us, irksome IRC, Argo with Okta, kubectl debug, and more'
 ---
 

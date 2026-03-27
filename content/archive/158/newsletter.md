@@ -1,39 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-12-16'
 description: Guinevere Saenger on Kubernetes 1.17 release, devs as a new soft target, need for a college degree, htop, CRDs, Istio, and more
 draft: false
 slug: '158'
-tags:
-- Guinevere Saenger
-- Kubernetes
-- cloud
-- cloud native
-- DevOps
-- Istio
-- CRDs
-- open source
-- developers
-- htop
-- release
-- college degree
-- AWS
-- Red Hat
-- org TLD
-- remote
-- deliveryconf
-- infrastructure
-- Detroit
-- DevSecOps
-- Agile
-- Google
-- Seattle
-- Ansible
-- defense-in-depth
 title: '158: Guinevere Saenger on Kubernetes 1.17 release, devs as a new soft target, need for a college degree, `htop`, CRDs, Istio, and more'
 ---
 

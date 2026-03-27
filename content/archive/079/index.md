@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-06-09'
 description: ''
 draft: false
@@ -11,20 +7,6 @@ image: https://shortcdn.com/devopsish/dc-skyline-from-dca.jpg
 imagealt: Washington DC skyline as seen from Reagan National Airport (DCA)
 imagecap: Washington DC skyline as seen from Reagan National Airport (DCA)
 slug: 079
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- github
-- microsoft
-- ansible
-- amazon
-- eks
-- google
-- Site Reliability Engineering
-- SRE
-- CI/CD
 title: '079: Microsoft 💒 GitHub, Kubernetes, Ansible, Amazon EKS, Uber''s D and More'
 ---
 

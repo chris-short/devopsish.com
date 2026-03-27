@@ -1,7 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Events
 date: '2019-09-30'
 description: DevOps'ish 147 Events
 draft: false

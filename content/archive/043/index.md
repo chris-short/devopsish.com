@@ -2,28 +2,12 @@
 aliases:
 - devopsish-043-sleep-devops-readme-md-microsoft-kubernetes-and-more-ea520659e5d5
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-10-01T06:01:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/fence-dog.jpg
 imagealt: Is your organization a learning organization?
 slug: '043'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- cloud computing
-- linux
-- google
-- ntp
-- containers
-- Docker
-- rootless containers
 title: '043: Sleep, DevOps README.md, Microsoft, Kubernetes, and More!'
 ---
 

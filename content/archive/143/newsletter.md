@@ -1,25 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-09-01'
 description: ''
 draft: false
 slug: '143'
-tags:
-- DevOps
-- Kubernetes
-- cloud
-- open source
-- cloud native
-- DevOps news
-- Kubernetes news
-- tanzu
-- cluster
-- javascript
-- pacific
 title: '143: Fresh caught Pacific Tanzu, Cluster API, good God Google, JavaScript library ads, and more'
 ---
 

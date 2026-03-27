@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-02-10T02:00:00Z'
 description: ''
 draft: false
@@ -11,21 +7,6 @@ image: https://shortcdn.com/devopsish/kris-nova-cascades-mt-rainier.jpg
 imagealt: Cascades from Mt. Rainier by Kris Nova
 imagecap: Cascades from Mt. Rainier by [Kris Nova](https://novasummits.com/)
 slug: '062'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- go
-- golang
-- 18f
-- meltdown
-- chaos engineering
-- ansible
-- database
-- detroit
-- spectre
-- Docker
 title: '062: Saddling Up, Mergers, Deaths, What''s Up with 18F, Chaos Engineering, Performance Impact of Meltdown and More!'
 ---
 

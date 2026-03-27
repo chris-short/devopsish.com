@@ -1,31 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2019'
 date: '2019-04-07'
 description: ''
 draft: false
 slug: '122'
-tags:
-- kubernetes
-- devops
-- open source
-- cloud
-- tech
-- github
-- cloud native
-- cncf
-- serverless
-- container
-- security
-- Red Hat
-- envoy
-- OPA
-- BPF
-- Chef
-- '996'
 title: '122: Chefnanigans, Emotional Intelligence, Derek the DevOps Dinosaur, BPF, Envoy Convoy, Crates of k8s, OPA, and More'
 ---
 

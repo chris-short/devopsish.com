@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-03-04'
 description: ''
 draft: false
@@ -11,18 +7,6 @@ image: https://shortcdn.com/devopsish/montgomery-alabama.jpg
 imagealt: Downtown Montgomery, Alabama
 imagecap: Downtown Montgomery, Alabama
 slug: '065'
-tags:
-- devops
-- cloud native
-- open source
-- change
-- kubernetes
-- docker
-- dropbox
-- ddos
-- Docker Inc
-- Site Reliability Engineering
-- SRE
 title: '065: Change, Dropbox, GitHub DDoS, Kubernetes, Docker, and More!'
 ---
 

@@ -1,39 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-04-11'
 description: Kubernetes 1.21, ArgoCD 2.0, Supreme Court saves industry, Googlers can discuss salary, Amazon made illegal firings, former Facebook recruiter sees diversity policy flaws, and more
 draft: false
 slug: '213'
-tags:
-- DevOps
-- cloud
-- cloud native
-- enhancements
-- Google
-- GitOps
-- environments
-- release
-- Facebook
-- software
-- Kubernetes
-- Linux
-- open source
-- LaunchDarkly
-- IBM
-- observability
-- COBOL
-- Amazon
-- API
-- Court
-- ArgoCD
-- Vault
-- developers
-- Apple
-- Microsoft
 title: 'DevOps''ish 213: Kubernetes 1.21, ArgoCD 2.0, Supreme Court saves industry, Googlers can discuss salary, Amazon made illegal firings, former Facebook recruiter sees diversity policy flaws, and more'
 ---
 

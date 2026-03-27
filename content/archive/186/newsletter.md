@@ -1,36 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2020'
 date: '2020-10-04'
 description: Help save face, help for juniors, Hacktoberfest objection, cgroups, breaking busy culture, and more
 draft: false
 slug: '186'
-tags:
-- Kubernetes
-- culture
-- DevOps
-- dog
-- open source
-- build
-- junior
-- senior
-- cloud
-- observability
-- cloud native
-- security
-- Google
-- Red Hat
-- cgroups
-- computer
-- sysadmins
-- developer
-- measure
-- attacked
-- Hacktoberfest
-- serverless
 title: DevOps'ish 186
 ---
 

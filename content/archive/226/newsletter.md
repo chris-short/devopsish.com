@@ -1,45 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-07-11'
 description:
 - Kubernetes non-code contributions, don't ban politics at work, engineers waste 1 day a week on technical debt, CentOS Stream is working out, and more
 draft: false
 slug: '226'
-tags:
-- code
-- Kubernetes
-- cloud
-- time
-- DevOps
-- observability
-- git
-- software
-- Cloud Native
-- technical debt
-- AWS
-- engineer
-- quantum
-- contributor
-- community
-- leader
-- Pentagon
-- JEDI
-- open source
-- China
-- Jim Whitehurst
-- IBM
-- Red Hat
-- developer
-- Didi
-- CentOS
-- Linux
-- Sourcegraph
-- printnightmare
-- Intel
 title: 'DevOps''ish 226: Kubernetes non-code contributions, don''t ban politics at work, engineers waste 1 day a week on technical debt, CentOS Stream is working out, and more'
 ---
 

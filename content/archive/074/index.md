@@ -1,28 +1,11 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-05-06'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/air-show.jpg
 imagealt: Air show
 slug: '074'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- kubecon
-- docker
-- aws
-- cloud
-- lambda
-- containers
-- Site Reliability Engineering
-- SRE
 title: '074: Kubernetes'' Big Week in Europe, Three-day no meetings, High-speed networking, and More'
 ---
 

@@ -1,29 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-12-30'
 description: Stats, Emily Freeman, IPOs, Kubernetes Future, Go, and More
 draft: false
 slug: '108'
-tags:
-- devops
-- kubernetes
-- open source
-- cloud
-- newsletter
-- cloud native
-- aws
-- gocd
-- tech
-- security
-- serverless
-- google
-- go
-- Docker
-- containers
 title: '108: Stats, Emily Freeman, IPOs, Kubernetes Future, Go, and More'
 ---
 

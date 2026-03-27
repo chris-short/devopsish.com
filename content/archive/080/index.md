@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-06-17'
 description: Improving the Workforce, Programming Myths, Kubernetes, New Books, and More
 draft: false
@@ -11,14 +7,6 @@ image: https://shortcdn.com/devopsish/popping-smoke.jpg
 imagealt: Popping Smoke
 imagecap: ''
 slug: 080
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- ansible
-- CI/CD
-- Docker
 title: '080: Improving the Workforce, Programming Myths, Kubernetes, New Books, and More'
 ---
 

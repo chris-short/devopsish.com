@@ -2,29 +2,12 @@
 aliases:
 - devopsish-033-more-gophercon-women-in-tech-kubernetes-etcdhcp-and-more-45f0cbd3d3b5
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-07-23T07:01:01Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/burning-oil-well.jpg
 imagealt: Moving Sucks (and other obvious things)
 slug: '033'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- golang
-- hiring
-- women in tech
-- gophercon
-- password management
-- microservices
-- CI/CD
-- Docker
 title: '033: More GopherCon, Women in Tech, DevOps, Kubernetes, etcdhcp, and More'
 ---
 

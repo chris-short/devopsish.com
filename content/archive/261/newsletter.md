@@ -1,28 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-03-20'
 description:
 - Secrets with GitOps, cr8escape, B1txor20, npm sabotage (again), updated Kubernetes Hardening Guide, ArgoCD and Starboard, scripting with Go, and more
 draft: false
 slug: '261'
-tags:
-- GitOps
-- secrets
-- ArgoCD
-- Kubernetes
-- git
-- service
-- hardening
-- cluster
-- Honeycomb
-- cloud
-- scripting
-- math
-- CDN
 title: 'DevOps''ish 261: Secrets with GitOps, cr8escape, B1txor20, npm sabotage (again), updated Kubernetes Hardening Guide, ArgoCD and Starboard, scripting with Go, and more'
 ---
 

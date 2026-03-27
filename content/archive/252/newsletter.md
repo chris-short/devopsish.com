@@ -1,41 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2022'
 date: '2022-01-16'
 description:
 - 5G update, pink slips for the unvaccinated, Apache stifled by out of date software still in use, Canon's eWaste, Security Obstructionism (SecObs) Market, tracing traffic in Kubernetes, and more
 draft: false
 slug: '252'
-tags:
-- security
-- Kubernetes
-- 5G
-- data
-- practices
-- time
-- Lastpass
-- platform
-- obstructionism
-- SecObs
-- market
-- API
-- C-band
-- cluster
-- unvaccinated
-- Google
-- Apache
-- Canon
-- ink
-- Honeycomb
-- diagnosis
-- remediation
-- workloads
-- AWS
-- GitOps
-- Flux
 title: 'DevOps''ish 252: 5G update, pink slips for the unvaccinated, Apache stifled by out of date software still in use, Canon''s eWaste, Security Obstructionism (SecObs) Market, tracing traffic in Kubernetes, and more'
 ---
 

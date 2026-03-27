@@ -1,27 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-09-03'
 description: Microsoft Goes Bold, ASDOR, Project Paper Cuts, Shady Telcos, Kubernetes, Ansible, and More
 draft: false
 slug: 091
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- automation
-- ansible
-- change
-- cluster
-- accelerate
-- state of devops report
-- licenses
-- GitOps
 title: '091: Microsoft Goes Bold, ASDOR, Project Paper Cuts, Shady Telcos, Kubernetes, Ansible, and More'
 ---
 

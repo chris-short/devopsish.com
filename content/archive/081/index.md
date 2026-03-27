@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-06-24'
 description: Diversity, Silicon Valley v. US, Ansible, Kubernetes, Meetings, DevSecOps, Serverless, and More
 draft: false
@@ -11,21 +7,6 @@ image: https://shortcdn.com/devopsish/penguins.jpg
 imagealt: Penguins on the March
 imagecap: Shout out to all the penguins and southern hemisphere folks that went through their winter solstice this week.
 slug: 081
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- ansible
-- docker
-- meetings
-- serverless
-- diversity
-- security
-- linux
-- digitalocean
-- silicon valley
-- devsecops
 title: '081: Diversity, Silicon Valley v. US, Ansible, Kubernetes, Meetings, DevSecOps, Serverless, and More'
 ---
 

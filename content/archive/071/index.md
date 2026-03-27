@@ -1,25 +1,11 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-04-15'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/patience.jpg
 imagealt: Stacked rocks symbolizing patience
 slug: '071'
-tags:
-- devops
-- cloud native
-- open source
-- tech debt
-- technical debt
-- kubernetes
-- open offices
-- Susan Fowler
-- containers
 title: '071: Susan Fowler, Open Offices, Tech Debt, Cloud Native Serverless, Kubernetes, and More'
 ---
 

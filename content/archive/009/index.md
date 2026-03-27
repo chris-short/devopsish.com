@@ -2,27 +2,12 @@
 aliases:
 - devopsish-weekly-009-week-of-1486270800-64338dc3a251
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-02-05T07:57:00Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/flexible-shiba-inu.gif
 imagealt: Be Flexible! Courtesy of Jessica Rose during her Open Source 101 Talk in Raleigh, NC
 slug: 009
-tags:
-- devops
-- cloud native
-- open source
-- rm
-- serverless
-- linux
-- selinux
-- SRE
-- Site Reliability Engineering
-- Docker
 title: '009: Week of 1486270800'
 ---
 

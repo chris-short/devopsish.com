@@ -2,10 +2,6 @@
 aliases:
 - devopsish-057-the-spectre-of-meltdown-20-years-of-open-source-docker-deathwatch-kubernetes-5e516fb90d00
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-01-07T07:01:02Z'
 description: ''
 draft: false
@@ -13,15 +9,6 @@ image: https://shortcdn.com/devopsish/patty-melt-by-dale-cruse.jpg
 imagealt: It's a Patty Melt. Get it?
 imagecap: '[patty melt](https://www.flickr.com/photos/dalecruse/28295053371) by Dale Cruse'
 slug: '057'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- intel
-- linux
-- spectre
-- Docker
 title: '057: The Spectre of Meltdown, 20 Years of Open Source, Docker Deathwatch, Kubernetes...'
 ---
 

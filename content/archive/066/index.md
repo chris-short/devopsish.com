@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-03-11'
 description: ''
 draft: false
@@ -11,13 +7,6 @@ image: https://shortcdn.com/devopsish/petty-whale.jpg
 imagealt: Petty, petty whale
 imagecap: '"When dealing with people, remember you are not dealing with creatures of logic, but with creatures bristling with prejudice and motivated by pride and vanity." — Dale Carnegie'
 slug: '066'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- cncf
-- containers
 title: '066: Kubernetes 🎓, Awesome People, Rogue Satellites, IDGAF About Your IDE, and More!'
 ---
 

@@ -2,24 +2,12 @@
 aliases:
 - devopsish-027-week-of-1497153600-5997c150660
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-06-11T06:01:01Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/grinder-sparks.jpg
 imagealt: There is no such thing as a completed DevOps transition.
 slug: '027'
-tags:
-- devops
-- cloud native
-- open source
-- patents
-- intel
-- linux
-- uber
 title: '027: Week of 1497153600'
 ---
 

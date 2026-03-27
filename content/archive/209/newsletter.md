@@ -1,48 +1,9 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-03-14'
 description: Hafnium, dhcpcd needs new maintainer, Beat the Systemic Racism of IT, Google HR issues, OVH disaster, git vulnerability, sigstore and more
 draft: false
 slug: '209'
-tags:
-- Kubernetes
-- cloud
-- DevOps
-- cloud native
-- source control
-- Git
-- Hafnium
-- tech
-- Microsoft Exchange
-- etcd
-- code
-- engineering
-- underrepresented
-- AWS
-- control plane
-- open source
-- Hafnium compromise
-- AWS
-- permissions
-- pandemic devastating effect
-- Kim Crayton
-- Amazon
-- Klustered
-- Challenger
-- dhcpcd
-- DevRel
-- Antiracist
-- Google
-- OVH
-- KubeCon
-- Intel
-- sigstore
-- Linkerd
-- RISC-V
 title: 'DevOps''ish 209: Hafnium, dhcpcd needs new maintainer, Beat the Systemic Racism of IT, Google HR issues, OVH disaster, git vulnerability, sigstore and more'
 ---
 

@@ -2,26 +2,12 @@
 aliases:
 - devopsish-weekly-017-week-of-1491105600-9b15368745fb
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2017'
 date: '2017-04-02T12:24:58Z'
 description: ''
 draft: false
 image: https://shortcdn.com/devopsish/Unicorn-Farting-Rainbow-DevOps.gif
 imagealt: This Glorious GIF is Courtesy of Josh Atwell from his talk at this week's Triangle DevOps Meetup
 slug: '017'
-tags:
-- devops
-- cloud native
-- open source
-- kubernetes
-- linux
-- github
-- google
-- containers
-- Docker
 title: '017: Week of 1491105600'
 ---
 

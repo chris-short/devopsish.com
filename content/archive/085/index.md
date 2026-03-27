@@ -1,9 +1,5 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2018'
 date: '2018-07-21'
 description: Ansible ❤️ Kubernetes, Spotting Fakes, Junior Engineers, Prime Disaster, Kubernetes, Awesome TUIs, and More
 draft: false
@@ -11,26 +7,6 @@ image: https://shortcdn.com/devopsish/you-are-here.jpg
 imagealt: You Are Here
 imagecap: ''
 slug: 085
-tags:
-- devops
-- cloud native
-- cloud
-- open source
-- kubernetes
-- ansible
-- survey
-- prime day
-- developer
-- engineer
-- amazon
-- container
-- openfaas
-- Docker Inc
-- Site Reliability Engineering
-- SRE
-- CI/CD
-- CAP Theorem
-- GitOps
 title: '085: Ansible ❤️ Kubernetes, Spotting Fakes, Junior Engineers, Prime Disaster, Kubernetes, Awesome TUIs, and More'
 ---
 

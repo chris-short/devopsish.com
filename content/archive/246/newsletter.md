@@ -1,29 +1,10 @@
 ---
 author: Chris Short
-categories:
-- Weekly
-- Newsletter
-- '2021'
 date: '2021-12-05'
 description:
 - A little terrorism, The Case of the Recursive Resolvers, Knative asks to join CNCF, Karpenter, and move
 draft: false
 slug: '246'
-tags:
-- cloud
-- Cloud Native
-- AWS
-- DevOps
-- open source
-- GitOps
-- infrastructure
-- code
-- Kubernetes
-- impostor syndrome
-- Microsoft
-- Honeycomb
-- social model
-- CKAD
 title: 'DevOps''ish 246: A little terrorism, The Case of the Recursive Resolvers, Knative asks to join CNCF, Karpenter, and more'
 ---
 
