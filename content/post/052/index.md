@@ -1,21 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-12-03T07:01:00.952Z
-description = ""
-draft = false
-slug = "052"
-tags = ["devops", "cloud native", "open source", "kubernetes", "observability", "infrastructure", "docker", "moby", "containers", "Docker Inc"]
-title = "052: 1 Year 🎉, CNI Book Giveaway, AWS re:Invent, Kubernetes, and More!"
-image ="https://shortcdn.com/devopsish/sharks-circling.jpg"
-imagealt = "The sharks are circling"
-imagecap = "[Flight of the Hammerheads](http://digitalblasphemy.com/preview.shtml?i=hammerheads2k62) by Digital Blasphemy"
-aliases = [
-    "devopsish-052-1-year-cni-book-giveaway-aws-re-invent-kubernetes-and-more-4404bb5f7362"
-]
-
-+++
+---
+aliases:
+- devopsish-052-1-year-cni-book-giveaway-aws-re-invent-kubernetes-and-more-4404bb5f7362
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-12-03T07:01:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/sharks-circling.jpg
+imagealt: The sharks are circling
+imagecap: '[Flight of the Hammerheads](http://digitalblasphemy.com/preview.shtml?i=hammerheads2k62) by Digital Blasphemy'
+slug: '052'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- observability
+- infrastructure
+- docker
+- moby
+- containers
+- Docker Inc
+title: '052: 1 Year 🎉, CNI Book Giveaway, AWS re:Invent, Kubernetes, and More!'
+---
 
 This is the 52nd issue of [**DevOps'ish**](https://devopsish.com/)! While the official one-year anniversary is next week, there are 52 weeks in a year and now is as good a time as any to celebrate. In keeping with DevOps best practices, I shared some lessons learned in, [Notes on Running a Newsletter: A Year of DevOps'ish](https://chrisshort.net/notes-on-running-a-newsletter-a-year-of-devopsish/).
 
@@ -123,6 +133,3 @@ SysAdvent [Day 2 — Shifting Left Securely With inSpec](https://sysadvent.blogs
 
 [CNCF Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/): (CIL) provides free access to state-of-the-art computing resources for open source developers working to advance cloud native computing.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 935890590377697281 >}}

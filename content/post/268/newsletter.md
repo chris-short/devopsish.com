@@ -1,13 +1,49 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-05-22
-description = ["KubeCon EU 2022, GitOpsCon EU 2022, China locks down Gitee, 380K publicly accessible K8s API Servers, Observability Engineering (free eBook), and more"]
-draft = false
-slug = "268"
-tags = ["Kubernetes", "KubeCon", "KubeCon EU 2022", "Argo", "GitOps", "GitOpsCon", "GitOpsCon EU 2022", "CNCF", "COVID", "COVID-19", "open source", "Gitee", "China", "Kubernetes API server", "open API servers", "API server", "security", "observability", "EU", "career", "keynote", "friends", "Van Jones", "mask mandate", "environment", "videos", "monitoring", "Microsoft", "community", "Flux", "Detroit", "Observability Engineering"]
-title = "DevOps'ish 268: KubeCon EU 2022, GitOpsCon EU 2022, China locks down Gitee, 380K publicly accessible K8s API Servers, Observability Engineering (free eBook), and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-05-22'
+description:
+- KubeCon EU 2022, GitOpsCon EU 2022, China locks down Gitee, 380K publicly accessible K8s API Servers, Observability Engineering (free eBook), and more
+draft: false
+slug: '268'
+tags:
+- Kubernetes
+- KubeCon
+- KubeCon EU 2022
+- Argo
+- GitOps
+- GitOpsCon
+- GitOpsCon EU 2022
+- CNCF
+- COVID
+- COVID-19
+- open source
+- Gitee
+- China
+- Kubernetes API server
+- open API servers
+- API server
+- security
+- observability
+- EU
+- career
+- keynote
+- friends
+- Van Jones
+- mask mandate
+- environment
+- videos
+- monitoring
+- Microsoft
+- community
+- Flux
+- Detroit
+- Observability Engineering
+title: 'DevOps''ish 268: KubeCon EU 2022, GitOpsCon EU 2022, China locks down Gitee, 380K publicly accessible K8s API Servers, Observability Engineering (free eBook), and more'
+---
 
 This past week was KubeCon EU 2022. I attended only part of it (more on that later). The Kubernetes Contributor Summit looked like it went off okay. I will admit I showed up quite late due to jet lag. But, I was able to sit down with Kaslin and schedule the rest of the tweets for KubeCon EU 2022 as part of our duties for the [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/marketing-team) team (please follow [K8sContributors on Twitter](https://twitter.com/k8scontributors)). I was also able to say hello to many friends I had not seen in ages. Including my good friend, Vincent Batts. He seemed to want me to know that there is a reason to celebrate (and often is in certain cultures) when someone is taken from us so soon.
 

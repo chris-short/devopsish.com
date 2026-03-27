@@ -1,21 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "2018"]
-date = 2018-01-07T07:01:02.584Z
-description = ""
-draft = false
-slug = "057"
-tags = ["devops", "cloud native", "open source", "kubernetes", "intel", "linux", "spectre", "Docker"]
-title = "057: The Spectre of Meltdown, 20 Years of Open Source, Docker Deathwatch, Kubernetes..."
-image ="https://shortcdn.com/devopsish/patty-melt-by-dale-cruse.jpg"
-imagealt = "It's a Patty Melt. Get it?"
-imagecap = "[patty melt](https://www.flickr.com/photos/dalecruse/28295053371) by Dale Cruse"
-aliases = [
-    "devopsish-057-the-spectre-of-meltdown-20-years-of-open-source-docker-deathwatch-kubernetes-5e516fb90d00"
-]
-
-+++
+---
+aliases:
+- devopsish-057-the-spectre-of-meltdown-20-years-of-open-source-docker-deathwatch-kubernetes-5e516fb90d00
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-01-07T07:01:02Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/patty-melt-by-dale-cruse.jpg
+imagealt: It's a Patty Melt. Get it?
+imagecap: '[patty melt](https://www.flickr.com/photos/dalecruse/28295053371) by Dale Cruse'
+slug: '057'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- intel
+- linux
+- spectre
+- Docker
+title: '057: The Spectre of Meltdown, 20 Years of Open Source, Docker Deathwatch, Kubernetes...'
+---
 
 Is anything going on in the InfoSec arena this week? I couldn't tell. If you have been under a rock this week I have some news for you. There are two vulnerabilities in CPU designs that essentially put everything we thought we knew about computer security on its head. [Meltdown and Spectre](https://meltdownattack.com/) are vulnerabilities affecting virtually all modern CPUs. I don't think I could ever visualize a complete picture of all the vulnerable systems that are impacted. But, to put it in perspective, my first Windows PC was a used Dell something or other with a 486 DX2 66 MHz CPU I got back in 1995. If I still had it, I would not need to patch it. But, if you have a 120 MHz Intel Pentium CPU based system laying around, it's impacted.
 

@@ -1,15 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-02-11
-description = "Shared Learning, Pipelines, Kubernetes at CERN, Ansible Operator, Hacker Tools, Rolling Updates, and More"
-draft = false
-slug = "114"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "scalyr", "diversity", "CI/CD", "GitOps"]
-title = "114: Shared Learning, Pipelines, Kubernetes at CERN, Ansible Operator, Hacker Tools, Rolling Updates, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-02-11'
+description: Shared Learning, Pipelines, Kubernetes at CERN, Ansible Operator, Hacker Tools, Rolling Updates, and More
+draft: false
+slug: '114'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- ansible
+- container
+- security
+- scalyr
+- diversity
+- CI/CD
+- GitOps
+title: '114: Shared Learning, Pipelines, Kubernetes at CERN, Ansible Operator, Hacker Tools, Rolling Updates, and More'
+---
 
 This week was very interesting filled with unusual experiences. Shared learning is a tenet of DevOps so allow me to share my experiences with you. Hopefully, we all get better as a result. Let's break down two experiences from this week.
 
@@ -114,8 +130,8 @@ Over the past 500 years, there have been 16 cases of a rising power threatening 
 
 Two tweets of the week because both were too good not too share.
 
-{{< tweet 1093299827121709061 >}}
+{{< x user="meganfabulous" id="1093299827121709061" >}}
 
-{{< tweet 1093664596341211136 >}}
+{{< x user="tomwarren" id="1093664596341211136" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

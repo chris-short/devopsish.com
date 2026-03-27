@@ -1,15 +1,54 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-07-18
-description = ["So hot right now, Sunk Cost Fallacy, Right to Repair, future of tech events, HelloKitty ransomware now targets VMware ESXi, GitHub Copilot, and more."]
-draft = false
-slug = "227"
-tags = ["Kubernetes", "cloud", "Cloud Native", "DevOps", "heat", "hot", "time", "code", "security", "GitHub", "GitHub Copilot", "curl", "tech", "finance", "Istio", "ransomware", "observability", "open source software", "wet bulb", "Kubernetes clusters", "learning", "Linux", "traffic", "AWS", "live streaming", "management", "experimentation", "release", "production", "legislation", "developers", "performance", "Deciduous", "serverless", "sunk cost fallacy", "Intel", "Right to Repair"]
-title = "DevOps'ish 227: So hot right now, Sunk Cost Fallacy, Right to Repair, future of tech events, HelloKitty ransomware now targets VMware ESXi, GitHub Copilot, and more."
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-07-18'
+description:
+- So hot right now, Sunk Cost Fallacy, Right to Repair, future of tech events, HelloKitty ransomware now targets VMware ESXi, GitHub Copilot, and more.
+draft: false
+slug: '227'
+tags:
+- Kubernetes
+- cloud
+- Cloud Native
+- DevOps
+- heat
+- hot
+- time
+- code
+- security
+- GitHub
+- GitHub Copilot
+- curl
+- tech
+- finance
+- Istio
+- ransomware
+- observability
+- open source software
+- wet bulb
+- Kubernetes clusters
+- learning
+- Linux
+- traffic
+- AWS
+- live streaming
+- management
+- experimentation
+- release
+- production
+- legislation
+- developers
+- performance
+- Deciduous
+- serverless
+- sunk cost fallacy
+- Intel
+- Right to Repair
+title: 'DevOps''ish 227: So hot right now, Sunk Cost Fallacy, Right to Repair, future of tech events, HelloKitty ransomware now targets VMware ESXi, GitHub Copilot, and more.'
+---
 
 I was struck with a very mild case of heat exhaustion a couple of weeks ago after standing over a hot grill hosting our family's 4th of July party. So when the article "[How hot is too hot for the human body?](https://www.technologyreview.com/2021/07/10/1028172/climate-change-human-body-extreme-heat-survival/)" came across my desk this week, I was uniquely interested in it. I've run several miles in the Middle East, the high plains of Colorado, Florida, the jungles of Honduras, and many points in between. "This shouldn't impact me like it is." I thought.
 

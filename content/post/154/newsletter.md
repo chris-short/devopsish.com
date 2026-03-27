@@ -1,15 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-11-18
-description = "154: Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more"
-draft = false
-slug = "154"
-tags = ["Docker", "DevOps", "Unicorn Project", "KubeCon", "Kubernetes", "GitHub", "open source", "cloud", "cloud native", "Helm", "IBM", "Microsoft", "containers", "developer", "Mirantis", "systems", "Deming", "stock options", "GitOps"]
-title = "154: Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-11-18'
+description: '154: Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more'
+draft: false
+slug: '154'
+tags:
+- Docker
+- DevOps
+- Unicorn Project
+- KubeCon
+- Kubernetes
+- GitHub
+- open source
+- cloud
+- cloud native
+- Helm
+- IBM
+- Microsoft
+- containers
+- developer
+- Mirantis
+- systems
+- Deming
+- stock options
+- GitOps
+title: '154: Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more'
+---
 
 Editor's Note: The newsletter passed 3,900 subscribers this week. I'd love to end the month at 4,000 subscribers. If you don't mind, please ask your coworkers and folks on social media to [subscribe to DevOps'ish](https://devopsish.com/subscribe/). Y'all are awesome!
 
@@ -95,4 +115,4 @@ Looking for KubeCon parties? Check [last week's newsletter](https://devopsish.co
 
 ## Tweet of the Week
 
-{{< tweet 1194704427061407745 >}}
+{{< x user="jessfraz" id="1194704427061407745" >}}

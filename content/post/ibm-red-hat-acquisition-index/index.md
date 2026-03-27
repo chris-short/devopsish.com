@@ -1,17 +1,20 @@
-+++
-
-author = "Chris Short"
-categories = ["Indexes", "2018"]
-date = 2018-11-04
-description = "Coverage of the IBM acquistion of open source software leader Red Hat from around the web"
-draft = false
-slug = "ibm-red-hat-acquisition-index"
-tags = ["open source", "IBM", "Red Hat"]
-title = "DevOps'ish IBM Red Hat Acquisition Index"
-image = "https://shortcdn.com/devopsish/red-hat-ibm.png"
-imagealt = "Red Hat | IBM"
-
-+++
+---
+author: Chris Short
+categories:
+- Indexes
+- '2018'
+date: '2018-11-04'
+description: Coverage of the IBM acquistion of open source software leader Red Hat from around the web
+draft: false
+image: https://shortcdn.com/devopsish/red-hat-ibm.png
+imagealt: Red Hat | IBM
+slug: ibm-red-hat-acquisition-index
+tags:
+- open source
+- IBM
+- Red Hat
+title: DevOps'ish IBM Red Hat Acquisition Index
+---
 
 A one-stop shop for opinion, analysis, and/or coverage of the IBM acquistion of Red Hat.
 

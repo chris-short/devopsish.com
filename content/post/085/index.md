@@ -1,18 +1,38 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-07-21
-description = "Ansible ❤️ Kubernetes, Spotting Fakes, Junior Engineers, Prime Disaster, Kubernetes, Awesome TUIs, and More"
-draft = false
-slug = "085"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "survey", "prime day", "developer", "engineer", "amazon", "container", "openfaas", "Docker Inc", "Site Reliability Engineering", "SRE", "CI/CD", "CAP Theorem", "GitOps"]
-title = "085: Ansible ❤️ Kubernetes, Spotting Fakes, Junior Engineers, Prime Disaster, Kubernetes, Awesome TUIs, and More"
-image ="https://shortcdn.com/devopsish/you-are-here.jpg"
-imagealt = "You Are Here"
-imagecap = ""
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-07-21'
+description: Ansible ❤️ Kubernetes, Spotting Fakes, Junior Engineers, Prime Disaster, Kubernetes, Awesome TUIs, and More
+draft: false
+image: https://shortcdn.com/devopsish/you-are-here.jpg
+imagealt: You Are Here
+imagecap: ''
+slug: 085
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- ansible
+- survey
+- prime day
+- developer
+- engineer
+- amazon
+- container
+- openfaas
+- Docker Inc
+- Site Reliability Engineering
+- SRE
+- CI/CD
+- CAP Theorem
+- GitOps
+title: '085: Ansible ❤️ Kubernetes, Spotting Fakes, Junior Engineers, Prime Disaster, Kubernetes, Awesome TUIs, and More'
+---
 
 You are here and I really appreciate it! If you enjoy this newsletter, it would be great if you participated in the survey. There are already some changes I'll be making as a result of responses so far. Also, if you run events in Europe, Asia, South America, or Australia please send some details for them to me. One reply to the weekly e-mail newsletter suggested including more international events. I think that's a worthwhile venture so send them my way.
 
@@ -174,6 +194,3 @@ The DevOps Engineer will play an important role in supporting the 24x7 availabil
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1019643998854524928 >}}

@@ -1,13 +1,34 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-06-26
-description = ["Open Source Summit, Tiger Global, KubeCon's Lack of Diversity, Interim CNCF Code of Conduct Committee, ugit, GitBOM, Fermyon, Clockwork, and more"]
-draft = false
-slug = "273"
-tags = ["Argo", "Kubernetes cluster", "Kubernetes", "cluster", "open source", "CNCF", "SSH", "Fermyon", "artifact", "Clowckwork", "AWS", "cloud", "community", "Tailscale", "WebAssembly", "system", "observability"]
-title = "DevOps'ish 273: Open Source Summit, Tiger Global, KubeCon's Lack of Diversity, Interim CNCF Code of Conduct Committee, ugit, GitBOM, Fermyon, Clockwork, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-06-26'
+description:
+- Open Source Summit, Tiger Global, KubeCon's Lack of Diversity, Interim CNCF Code of Conduct Committee, ugit, GitBOM, Fermyon, Clockwork, and more
+draft: false
+slug: '273'
+tags:
+- Argo
+- Kubernetes cluster
+- Kubernetes
+- cluster
+- open source
+- CNCF
+- SSH
+- Fermyon
+- artifact
+- Clowckwork
+- AWS
+- cloud
+- community
+- Tailscale
+- WebAssembly
+- system
+- observability
+title: 'DevOps''ish 273: Open Source Summit, Tiger Global, KubeCon''s Lack of Diversity, Interim CNCF Code of Conduct Committee, ugit, GitBOM, Fermyon, Clockwork, and more'
+---
 
 This week I was in Austin, Texas (where it was hotter than the hinges of hell) at Open Source Summit. I staffed the AWS booth, attended a few talks, met with friends I hadn't seen in long, and became generally reinvigorated about open source. It's my last event on the Amazon EKS team. I'm moving inside the Containers organization at AWS to work on a new and different project.
 

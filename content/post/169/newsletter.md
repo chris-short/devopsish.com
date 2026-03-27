@@ -1,15 +1,40 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-03-01
-description = "Cloud Native Air Gapped Working Group, Chris Short for Open Source Initiative Board of Directors, future Kubernetes attacks, Jellyfish, Tig, and more"
-draft = false
-slug = "169"
-tags = ["DevOps", "open source", "Kubernetes", "cloud", "cloud native", "Open Source Initiative", "Kubernetes cluster", "CNCF", "container", "security", "OSI", "Kubernetes Contributor Summit", "platform", "management", "observability", "air gapped", "Operator", "ITSM", "Ansible", "encryption", "podman", "AWS", "sidecar", "Docker"]
-title = "DevOps'ish 169"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-03-01'
+description: Cloud Native Air Gapped Working Group, Chris Short for Open Source Initiative Board of Directors, future Kubernetes attacks, Jellyfish, Tig, and more
+draft: false
+slug: '169'
+tags:
+- DevOps
+- open source
+- Kubernetes
+- cloud
+- cloud native
+- Open Source Initiative
+- Kubernetes cluster
+- CNCF
+- container
+- security
+- OSI
+- Kubernetes Contributor Summit
+- platform
+- management
+- observability
+- air gapped
+- Operator
+- ITSM
+- Ansible
+- encryption
+- podman
+- AWS
+- sidecar
+- Docker
+title: DevOps'ish 169
+---
 
 The first CNCF Air Gapped Working Group meeting happened this week. I was fortunate enough to be able to attend. Air gapped or disconnected environments have a few variants. But, the air gaps I'm most familiar with are those between unclassified and classified US government systems (TEMPEST, EMSEC, COMSEC, etc.). Also, given the attendance, there is a lot of interest from folks across the public and private sectors. If you're interested in getting involved, [we're figuring out what the cadence of the meetings will be](https://lists.cncf.io/g/cncf-sig-app-delivery/topic/airgap_working_group_meeting/71568152). The current scope of our work is to provide a "cookbook" for maintaining an air gapped cloud native environment. Join the [CNCF SIG App Delivery mailing list](https://lists.cncf.io/g/cncf-sig-app-delivery/) and keep an eye out for messages to see how to get involved.
 
@@ -95,4 +120,4 @@ DIY sidecar injection to help you understand the concept of having multiple cont
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1233068108358619136 >}}
+{{< x user="heyjulesfern" id="1233068108358619136" >}}

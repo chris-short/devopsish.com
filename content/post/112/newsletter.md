@@ -1,19 +1,34 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-01-27
-description = "Kubernetes Any Way You Want It, Passing the CKA, GitOps, Joy Sparking Meetings, Processes, Containers, and VMs. Oh My! and More"
-draft = false
-slug = "112"
-tags = ["kubernetes", "docker", "devops", "open source", "cloud", "tech", "github", "cloud native", "ansible", "container", "security", "curl", "minikube", "CI/CD", "Kubernetes Operators", "GitOps"]
-title = "112: Kubernetes Any Way You Want It, Passing the CKA, GitOps, Joy Sparking Meetings, Processes, Containers, and VMs. Oh My! and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-01-27'
+description: Kubernetes Any Way You Want It, Passing the CKA, GitOps, Joy Sparking Meetings, Processes, Containers, and VMs. Oh My! and More
+draft: false
+slug: '112'
+tags:
+- kubernetes
+- docker
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- ansible
+- container
+- security
+- curl
+- minikube
+- CI/CD
+- Kubernetes Operators
+- GitOps
+title: '112: Kubernetes Any Way You Want It, Passing the CKA, GitOps, Joy Sparking Meetings, Processes, Containers, and VMs. Oh My! and More'
+---
 
 I'm struggling to write an intro this week (probably broke a rib). But, I did write a tweet that got a lot more attention than I thought it would this week. I'd like to talk about it:
-
-{{< tweet 1087392106262528004 >}}
 
 This is not to say I decline every meeting invite I get. It's to say that if an invite is not complete (an agenda, location, time, etc.) I'm highly likely to decline it. Also, if there doesn't appear to be value in my going versus something else I could be doing I will typically decline stating the reason politely. In general, I enjoy the meetings I get invited to because I love the work I'm doing. But, I did decline a meeting invite a little bit ago.
 
@@ -107,7 +122,7 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [Useful curl features](https://diamantidis.github.io/2019/01/06/curl-options) — curl is an incredibly useful tool and learning it will help you better understand how the web works.
 
-{{< tweet 1088981000955355136 >}}
+{{< x user="b0rk" id="1088981000955355136" >}}
 
 [Beginner-Friendly Introduction to GitLab CI/CD](https://dev.to/zurihunter/beginner-friendly-introduction-to-gitlabcicd-4p5a) — Unpopular Opinion: GitLab is miles ahead of where GitHub is as far as total value of features and capabilities.
 

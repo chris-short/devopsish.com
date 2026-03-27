@@ -1,15 +1,40 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-12-30
-description = ""
-draft = false
-slug = "160"
-tags = ["DevOps", "Kubernetes", "developers", "open source", "Linux", "security", "cloud", "cloud native", "performance", "Apple", "CNCF", "MinIO", "Detroit", "geolite", "Bongo", "Operator", "sysadmin", "entropy", "VMware", "Red Hat", "velocity", "CI/CD", "Kubernetes Operators", "Ansible Operators"]
-title = "160: 2019 is a wrap, internet bifurcation, using ML to block BGP hijacking, monitoring entropy, Kubernetes Operators, ops anti-patterns, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-12-30'
+description: ''
+draft: false
+slug: '160'
+tags:
+- DevOps
+- Kubernetes
+- developers
+- open source
+- Linux
+- security
+- cloud
+- cloud native
+- performance
+- Apple
+- CNCF
+- MinIO
+- Detroit
+- geolite
+- Bongo
+- Operator
+- sysadmin
+- entropy
+- VMware
+- Red Hat
+- velocity
+- CI/CD
+- Kubernetes Operators
+- Ansible Operators
+title: '160: 2019 is a wrap, internet bifurcation, using ML to block BGP hijacking, monitoring entropy, Kubernetes Operators, ops anti-patterns, and more'
+---
 
 Happy Holidays to everyone celebrating this time of year. I hope that your time with family and friends was wonderful and stress-free. I have both of my kids in the same place at the same time this weekend; I am thoroughly enjoying that. Life doesn't go how you plan it. Much like in DevOps, it's not how well you stick to the plan for life; it's how you respond to anomalies and improve the system as a whole. I had a kid at 20. She grew up a military brat and didn't have the easiest of childhoods. But, she's in college now. She's working her ass off too. But, she's doing this so she can take knowledge from us and better herself in the long run. I know it's hard; it's not the life I dreamed for her. But, we have talked about how this will prime her for a better position in life when she graduates. We're working together as a team to learn from some hard-fought lessons while allowing room for mistakes. But, the safties that I didn't have are built-in so that when errors occur, their blast radius can be minimized. Raising kids and teaching young adults how to live is a whole lot like DevOps. Drive towards goals, address errors, build safeties into the system as you go, and continue to iterate on every cycle to find areas to improve. There are so many parallels between life and DevOps.
 
@@ -105,4 +130,4 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 ## Tweet of the Week
 
-{{< tweet 1209197745497501696 >}}
+{{< x user="copyconstruct" id="1209197745497501696" >}}

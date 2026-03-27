@@ -1,20 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-09-03T05:11:42.081Z
-description = ""
-draft = false
-slug = "039"
-tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "infrastructure", "microservices", "hashicorp", "nodejs", "containers", "Docker Inc"]
-title = "039: Cloud Native, Football, Kubernetes, Serverless, and More"
-image ="https://shortcdn.com/devopsish/footballs.jpg"
-imagealt = "Football is BACK!"
-aliases = [
-    "devopsish-039-cloud-native-football-kubernetes-serverless-and-more-a92efc6911aa"
-]
-
-+++
+---
+aliases:
+- devopsish-039-cloud-native-football-kubernetes-serverless-and-more-a92efc6911aa
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-09-03T05:11:42Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/footballs.jpg
+imagealt: Football is BACK!
+slug: 039
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- serverless
+- infrastructure
+- microservices
+- hashicorp
+- nodejs
+- containers
+- Docker Inc
+title: '039: Cloud Native, Football, Kubernetes, Serverless, and More'
+---
 
 Football is back and I couldn't be happier about it (despite my Gators losing to Michigan). I know that sports and DevOps-types don't always go together. However, there are a lot of things we tech folks can learn from football. Systems and process are what great football teams are built on. Take a good look at [Nick Saban's process focus at Alabama](https://www.forbes.com/sites/monteburke/2012/12/03/five-leadership-lessons-from-nick-saban/#635a57b51814) for an idea of how to build a perennial championship contender (tl;dr: it's a one step at a time approach). When you take a look at [Bill Belichick's "Do Your Job" mantra](https://www.sbnation.com/2017/1/26/14390366/patriots-do-your-job-mantra-super-bowl-2017-what-it-means), you realize that is what DevOps is all about; owning your assignments and executing them. Many times in DevOps the things that traditional development and operations teams can't execute well on are done without question and executed quite well. Then they are iterated upon mightily like it's second nature. Ownership of the pipeline and process is a big deal in DevOps. It's a truly worthwhile comparison to explore when you have the time. Football and DevOps go together more than you realize.
 
@@ -91,6 +102,3 @@ StockX is looking for an experienced Cloud Systems Engineer, or DevOps Engineer,
 [**Director, Software Engineering — Bankrate — Detroit, MI**](http://app.jobvite.com/m?3N1q0jw2)
 A manager in an agile environment with strong technical skills. Collaborative leader who will understand our people, business, technology, and customers' needs. Leader who helps drive our culture of empowerment, ownership, and accountability to help develop our team technically and professionally. Identify and successfully implement improvements in our engineering processes, tools, and architecture to enable us to deliver on our key initiatives.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 902868413722349569 >}}

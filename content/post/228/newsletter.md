@@ -1,15 +1,52 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-08-01
-description = ["Natural disasters, GitOps with Codefresh, NSO Group, MeteorExpress, Linkerd, Kubernetes 1.22, TSMC’s 2nm chips, cloud outposts, and more"]
-draft = false
-slug = "228"
-tags = ["Kubernetes", "cloud", "Cloud Native", "DevOps", "security", "GitHub", "GitOps", "power", "service", "management", "Amazon", "leader", "developers", "Intel", "weather", "solar", "coffee grinder", "Apple", "internet", "Codefresh", "open source", "pandemic", "tech", "🤬", "feature flags", "experimentation", "Google", "Iranian", "wiper", "storm", "enhancements", "quantum", "stream", "ransomware", "hybrid"]
-title = "DevOps'ish 228: Natural disasters, GitOps with Codefresh, NSO Group, MeteorExpress, Linkerd, Kubernetes 1.22, TSMC’s 2nm chips, cloud outposts, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-08-01'
+description:
+- Natural disasters, GitOps with Codefresh, NSO Group, MeteorExpress, Linkerd, Kubernetes 1.22, TSMC’s 2nm chips, cloud outposts, and more
+draft: false
+slug: '228'
+tags:
+- Kubernetes
+- cloud
+- Cloud Native
+- DevOps
+- security
+- GitHub
+- GitOps
+- power
+- service
+- management
+- Amazon
+- leader
+- developers
+- Intel
+- weather
+- solar
+- coffee grinder
+- Apple
+- internet
+- Codefresh
+- open source
+- pandemic
+- tech
+- 🤬
+- feature flags
+- experimentation
+- Google
+- Iranian
+- wiper
+- storm
+- enhancements
+- quantum
+- stream
+- ransomware
+- hybrid
+title: 'DevOps''ish 228: Natural disasters, GitOps with Codefresh, NSO Group, MeteorExpress, Linkerd, Kubernetes 1.22, TSMC’s 2nm chips, cloud outposts, and more'
+---
 
 At 8:13 PM last Saturday, the family and I were gathered in our basement, evading a tornado warning that came through the area. The storm spawned three tornadoes. Luckily, we weren't hit directly. But we lost power, internet, and cell service. After getting the all-clear and assessing the situation, it was clear that we would be without power for quite a few hours. Making a newsletter last week wasn't happening. It was technically impossible, and to be honest, I had a big ole stack of higher priorities come in. Then a few hours turned into a few days without these services. Luckily, we have a gas stove and water heater.
 

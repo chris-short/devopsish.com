@@ -1,15 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-10-07
-description = "DevOps, Kubernetes, Ansible, Serverless, Bad Recruiting, Bad Motherboards, and More"
-draft = false
-slug = "096"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "ansiblefest", "automation", "code", "tools", "serverless", "facebook", "security", "Site Reliability Engineering", "SRE", "Docker", "podman", "containers"]
-title = "096: DevOps, Kubernetes, Ansible, Serverless, Bad Recruiting, Bad Motherboards, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-10-07'
+description: DevOps, Kubernetes, Ansible, Serverless, Bad Recruiting, Bad Motherboards, and More
+draft: false
+slug: 096
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- ansiblefest
+- automation
+- code
+- tools
+- serverless
+- facebook
+- security
+- Site Reliability Engineering
+- SRE
+- Docker
+- podman
+- containers
+title: '096: DevOps, Kubernetes, Ansible, Serverless, Bad Recruiting, Bad Motherboards, and More'
+---
 
 I spent the week in Austin at AnsibleFest. If you ever want to experience impostor syndrome put yourself in a room full of Ansible's core contributors. It was exciting and terrifying every time I opened my mouth. But, for someone with Marketing in their title, the folks at the Contributor Conference were very embracing. The event itself was a whirlwind of various duties to include but not limited to MC, door duty at a bar, helping a developer understand Ansible internals, talking to customers, and trying to lighten the load on all the folks that put AnsibleFest together. Kaete, Carrie, and Leigh Anne did amazing work this year. I know it was not easy putting together an almost 1400 person conference. They pulled it off and made it an amazing event.
 
@@ -121,6 +141,3 @@ With the rise of docker and serverless patterns there is a whole new suite of to
 
 [Making Sense of Kubernetes RBAC and IAM Roles on GKE](https://medium.com/uptime-99/making-sense-of-kubernetes-rbac-and-iam-roles-on-gke-914131b01922)
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1047126974450282496 >}}

@@ -1,0 +1,121 @@
+author: 'Chris Short'
+baseURL: 'https://devopsish.com'
+copyright: '[Some rights reserved](/copyright/) © 2016-2026 [Chris Short Consulting LLC](https://shortconsulting.io/)'
+locale: 'en-us'
+title: "DevOps'ish"
+enableEmoji: true
+enableInlineShortcodes: true
+enableGitInfo: true
+summaryLength: 160
+ignoreFiles: ['notes.md']
+ignoreLogs: ['warning-goldmark-raw-html']
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menus:
+  main:
+    - name: Subscribe
+      url: /subscribe/
+      weight: 10
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+
+outputs:
+  home:
+    - HTML
+    - JSON # necessary for search
+  term:
+    - HTML
+  section:
+    - HTML
+  taxonomy:
+    - HTML
+  page:
+    - HTML
+
+pagination:
+  pagerSize: 5
+
+params:
+  author:
+    name: Chris Short
+  assets:
+    disableHLJS: true
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+  comments: true
+  editPost:
+      URL: "https://github.com/chris-short/devopsish.com/tree/main/content"
+      Text: "Suggest Changes" # edit text
+      appendFilePath: true # to append file path to Edit link
+  env: production
+  footer:
+    text: "1150 Atlantic St #108, Milford, MI 48381"
+    aboutLink: "/about/"
+    firehoseLink: "/firehose/"
+    sponsorLink: "/sponsor/"
+  label:
+    text: "DevOps'ish"
+    icon: /img/devopsish.webp
+    iconHeight: 48
+    iconWidth: 48
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    Title: DevOps'ish
+    Content: Cloud Native, DevOps, Open Source, AI, tech industry news, culture, and the 'ish between. A newsletter by Chris Short.
+
+  socialIcons: # optional
+    - name: "reddit"
+      url: "https://www.reddit.com/r/devopsish/"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/thechrisshort"
+    - name: "Bluesky"
+      url: "https://bsky.app/profile/chrisshort.net"
+    - name: "Mastodon"
+      url: "https://hachyderm.io/@ChrisShort"
+    - name: "x"
+      url: "https://x.com/ChrisShort"
+    - name: "instagram"
+      url: "https://www.instagram.com/thechrisshort/"
+    - name: "youtube"
+      url: "https://www.youtube.com/c/ChrisShort"
+    - name: "github"
+      url: "https://github.com/chris-short"
+    - name: "email"
+      url: "/contact"
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: true
+    simple: false
+  x:
+    disable: true
+    enableDNT: true
+    simple: false
+  vimeo:
+    disable: true
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  x:
+    disableInlineCSS: true

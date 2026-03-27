@@ -1,15 +1,59 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-09-27
-description = "COVID-19 hits too close to home, Kubernetes Contributor site, Accurics, OpenShift TV, dangers of averages, and more"
-draft = false
-slug = "185"
-tags = ["Kubernetes Contributors", "Kubernetes", "DevOps", "DevSecOps", "open source", "AWS", "Microsoft", "Microsoft Windows", "cloud", "cloud native", "security", "community", "observability", "o11y", "build", "systems", "culture", "tools", "Crunchy Data", "postgresql", "Todoist", "Linkerd", "privacy", "Northvile", "Kubernetes SIGs", "averages", "practices", "Snyk", "network", "secure", "SNS", "kustomize", "RAID10", "Trello", "Mozilla", "Accurics", "StackRox", "Honeycomb", "Netflix", "Social Dilemma", "Blacklight", "COVID-19", "Docker"]
-title = "DevOps'ish 185"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-09-27'
+description: COVID-19 hits too close to home, Kubernetes Contributor site, Accurics, OpenShift TV, dangers of averages, and more
+draft: false
+slug: '185'
+tags:
+- Kubernetes Contributors
+- Kubernetes
+- DevOps
+- DevSecOps
+- open source
+- AWS
+- Microsoft
+- Microsoft Windows
+- cloud
+- cloud native
+- security
+- community
+- observability
+- o11y
+- build
+- systems
+- culture
+- tools
+- Crunchy Data
+- postgresql
+- Todoist
+- Linkerd
+- privacy
+- Northvile
+- Kubernetes SIGs
+- averages
+- practices
+- Snyk
+- network
+- secure
+- SNS
+- kustomize
+- RAID10
+- Trello
+- Mozilla
+- Accurics
+- StackRox
+- Honeycomb
+- Netflix
+- Social Dilemma
+- Blacklight
+- COVID-19
+- Docker
+title: DevOps'ish 185
+---
 
 My daughter just informed me she very likely has contracted COVID-19. My apologies but, I'm going to forgo my usual introduction in the newsletter this week.
 
@@ -108,7 +152,7 @@ Machine Learning Platform for Kubernetes
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1306585313586761729 >}}
+{{< x user="mhausenblas" id="1306585313586761729" >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/185/notes.md) to see what didn't make it to the newsletter.
 

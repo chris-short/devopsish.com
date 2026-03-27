@@ -1,15 +1,37 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-10-26
-description = "DevOpsDays Detroit 2019, WeWork woes worsen, AWS should pay OSS devs, Women At Ernst & Young, Tim Cook, Equifax used ‘admin’ as username, & more"
-draft = false
-slug = "151"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "WeWork", "KubeCon", "security", "Knative", "developers", "Oracle", "Google", "JEDI", "Detroit", "DevOpsDays", "CNCF", "culture", "Docker", "quantum computing"]
-title = "151: DevOpsDays Detroit 2019, WeWork woes worsen, AWS should pay OSS devs, Women At Ernst & Young, Tim Cook, Equifax used ‘admin’ as username, & more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-10-26'
+description: DevOpsDays Detroit 2019, WeWork woes worsen, AWS should pay OSS devs, Women At Ernst & Young, Tim Cook, Equifax used ‘admin’ as username, & more
+draft: false
+slug: '151'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- cloud native
+- DevOps news
+- Kubernetes news
+- WeWork
+- KubeCon
+- security
+- Knative
+- developers
+- Oracle
+- Google
+- JEDI
+- Detroit
+- DevOpsDays
+- CNCF
+- culture
+- Docker
+- quantum computing
+title: '151: DevOpsDays Detroit 2019, WeWork woes worsen, AWS should pay OSS devs, Women At Ernst & Young, Tim Cook, Equifax used ‘admin’ as username, & more'
+---
 
 Our vacation in Yosemite National Park was amazing. Thanks for sticking around. I jumped out of PTO into DevOpsDays Detroit 2019. It was a great event! My report is linked below. Other news, is that I'm gearing up for Max's birthday, a potential nerve stimulator, and  KubeCon. If you haven't gotten your tickets and travel for KubeCon sorted yet, do so sooner rather than later (KubeCon discount code below). Happy DevOps'ing out there this week, y'all!
 

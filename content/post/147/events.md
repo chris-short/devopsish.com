@@ -1,14 +1,13 @@
-+++
-
-author = "Chris Short"
-categories = ["Events"]
-date = 2019-09-30
-description = "DevOps'ish 147 Events"
-draft = false
-url = "147/events"
-title = "DevOps'ish 147 Events"
-
-+++
+---
+author: Chris Short
+categories:
+- Events
+date: '2019-09-30'
+description: DevOps'ish 147 Events
+draft: false
+title: DevOps'ish 147 Events
+url: 147/events
+---
 
 [**Full Alerting Coverage Without the Toil**](https://www.bluematador.com/devopsish)  
 Balance rapid feature development and production stability with alert automation for your cloud infrastructure from Blue Matador. Activate alert automation in your cloud infrastructure today with our free trial. *SPONSORED*

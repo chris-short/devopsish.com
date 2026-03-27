@@ -1,15 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-09-30
-description = "Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, Docker’s impending doom, AnsibleFest, and more"
-draft = false
-slug = "147"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Chef", "Docker", "Matt Asay", "AnsibleFest", "strategy", "Docker Inc", "VSCode"]
-title = "147: Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, Docker’s impending doom, AnsibleFest, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-09-30'
+description: Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, Docker’s impending doom, AnsibleFest, and more
+draft: false
+slug: '147'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- cloud native
+- DevOps news
+- Kubernetes news
+- Chef
+- Docker
+- Matt Asay
+- AnsibleFest
+- strategy
+- Docker Inc
+- VSCode
+title: '147: Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, Docker’s impending doom, AnsibleFest, and more'
+---
 
 I used to think of industry analysts as 100% worthless to the broader technology world. After meeting [Chris Gardner](https://www.forrester.com/Chris-Gardner) from Forrester, some of the good folks from [RedMonk](https://redmonk.com/), and working with Red Hat's Analyst Relations team, I've warmed up to Analysts a little. They serve an important function that a lot of us forget: [***Tactical efficiency does not replace strategic efficacy***](https://chrisshort.net/tactical-efficiency-does-not-replace-strategic-efficacy/)...
 
@@ -90,8 +105,5 @@ Balance rapid feature development and production stability with alert automation
 
 [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) — This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1176478273691443201 >}}
 
 [See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/147/notes.md)

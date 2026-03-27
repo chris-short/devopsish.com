@@ -1,15 +1,34 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-08-26
-description ="DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!"
-draft = false
-slug = "090"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "Red Hat", "windows", "linux", "rss", "pipelines", "NotPetya", "licenses", "JEDI", "CI/CD", "Docker", "GitOps"]
-title = "090: DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-08-26'
+description: DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!
+draft: false
+slug: 090
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- Red Hat
+- windows
+- linux
+- rss
+- pipelines
+- NotPetya
+- licenses
+- JEDI
+- CI/CD
+- Docker
+- GitOps
+title: '090: DevOps, GitOps, Commons Clause Clusterfuck, NotPetya, Kubernetes, Prometheus, and more!'
+---
 
 The past few weeks have resulted in iterative improvements to my office workspace. After visiting a few Red Hat offices, it dawned on me that my office wasn't what it should be. The improvements have helped me mentally in numerous ways. They've also allowed me to think more broadly about a number of things. Some odd little nuggets related to DevOps'ish popped out too (sausage making follows):
 
@@ -126,4 +145,4 @@ Get real-time metrics from Docker and Kubernetes with Datadog. Visualize the per
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1032714604542132224 >}}
+{{< x user="ansible" id="1032714604542132224" >}}

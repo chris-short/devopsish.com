@@ -1,15 +1,37 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-04-12
-description = "COBOL need grows, Alice Goldfuss wants a job, containers, observability, Tom Scott, Zoom doom, MySQL, PostgreSQL, Kubernetes, markmap-lib, and more"
-draft = false
-slug = "175"
-tags = ["COBOL", "DevOps", "systems", "Kubernetes", "cloud", "developers", "Linux", "applications", "Google", "Ansible", "cloud native", "open source", "containers", "observability", "mainframe", "Microsoft", "Zoom", "MySQL", "PostgreSQL", "Alice Goldfuss", "Tom Scott"]
-title = "DevOps'ish 175"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-04-12'
+description: COBOL need grows, Alice Goldfuss wants a job, containers, observability, Tom Scott, Zoom doom, MySQL, PostgreSQL, Kubernetes, markmap-lib, and more
+draft: false
+slug: '175'
+tags:
+- COBOL
+- DevOps
+- systems
+- Kubernetes
+- cloud
+- developers
+- Linux
+- applications
+- Google
+- Ansible
+- cloud native
+- open source
+- containers
+- observability
+- mainframe
+- Microsoft
+- Zoom
+- MySQL
+- PostgreSQL
+- Alice Goldfuss
+- Tom Scott
+title: DevOps'ish 175
+---
 
 I was going to make a list of things you could learn this week but, the tech world got a notable call to arms this week. We need more COBOL developers in the US. [The glut of unemployment claims](https://thenewstack.io/u-s-unemployment-surge-highlights-dire-need-for-cobol-skills/) has crippled mainframe systems designed to run in a satisfactory government manner under normal conditions. "[The governor of New Jersey just put out the call on live TV that he is desperate for Cobol programmers right now.](https://twitter.com/manicode/status/1246497036389793792)" As insane as this sounds, it's true (and long overdue). We don't need to modernize this; it's not able to run as-is. We need more COBOL programmers now. The University of Limerick has a free [COBOL programming course](http://www.csis.ul.ie/cobol/course/Default.htm). IBM also has a [Master the Mainframe](https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe) course that you can take online now. Even if you don't need a job right now, maybe you know someone who does. We can solve two problems at once here!
 

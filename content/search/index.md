@@ -1,12 +1,10 @@
-+++
-
-author = "Chris Short"
-date = 2021-12-26
-description = "DevOps'ish Site Search"
-draft = false
-slug = "search"
-title = "Search DevOps'ish"
-
-+++
-
-{{< search >}}
+---
+ShowReadingTime: false
+ShowToc: false
+TocOpen: false
+description: Search DevOps'ish with full text fuzzy search
+layout: search
+placeholder: Search
+summary: search
+title: Search
+---

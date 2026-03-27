@@ -1,15 +1,36 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-09-24
-description = "Linus Apologizes, Giveaway Winners, Kubernetes, Istio, Dark Debt, Mage, and More"
-draft = false
-slug = "094"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "Linus Torvalds", "kernel", "development", "community", "apology", "serverless", "change", "linux", "code of conduct", "microsoft", "culture", "istio", "Linus Torvalds"]
-title = "094: Linus Apologizes, Giveaway Winners, Kubernetes, Istio, Dark Debt, Mage, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-09-24'
+description: Linus Apologizes, Giveaway Winners, Kubernetes, Istio, Dark Debt, Mage, and More
+draft: false
+slug: 094
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- Linus Torvalds
+- kernel
+- development
+- community
+- apology
+- serverless
+- change
+- linux
+- code of conduct
+- microsoft
+- culture
+- istio
+- Linus Torvalds
+title: '094: Linus Apologizes, Giveaway Winners, Kubernetes, Istio, Dark Debt, Mage, and More'
+---
 
 Shortly after [DevOps'ish 093](/093/) went out last week, Linus Torvalds rocked the Linux kernel development community to its core with his note to LKML, [Linux 4.19-rc4 released, an apology, and a maintainership note](https://www.lkml.org/lkml/2018/9/16/167). In it, Linus apologized, "to the people that my personal behavior hurt and possibly drove away from kernel development entirely." Also, a [Code of Conduct](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a104f8b5867c682d994ffa7a74093c54469c11f) has been adopted by the Linux kernel development community.
 
@@ -129,7 +150,7 @@ Enjoy this episode of the O'Reilly Podcast, featuring a conversation on serverle
 
 Two Tweets of the Week this week because Sage covers the Linus Torvalds news from her POV so well and Abby is 100% right (there's more to life than just tech and it's all connected).
 
-{{< tweet 1042769391279063040 >}}
+{{< x user="_sagesharp_" id="1042769391279063040" >}}
 
 "keep it to technical content/stop complaining/be professional/these things don't even happen/not all men/unfollowing bc feminism" 
 

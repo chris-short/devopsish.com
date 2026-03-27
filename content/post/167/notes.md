@@ -17,7 +17,7 @@ I'm speaking at the O'Reilly Infrastructure & Ops Conference this year. But, did
 
 ## Notes
 
-{{< tweet 1225910196813357056 >}}
+{{< x user="oleg_nenashev" id="1225910196813357056" >}}
 
 ### bitly
 

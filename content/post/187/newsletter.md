@@ -1,15 +1,39 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-10-11
-description = "Kubernetes on spy planes, @K8sContributors, Unfck the internet, Demystifying GitOps, Cilium, and more"
-draft = false
-slug = "187"
-tags = ["Kubernetes", "cloud", "cloud native", "DevOps", "internet", "IBM", "Red Hat", "GttOps", "infrastructure", "data", "security", "Wordpress", "hybrid cloud", "Mozilla", "observability", "runtime", "storage", "kernel", "GitHub", "Google", "Accurics", "Cilium", "GitOps"]
-title = "DevOps'ish 187"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-10-11'
+description: Kubernetes on spy planes, @K8sContributors, Unfck the internet, Demystifying GitOps, Cilium, and more
+draft: false
+slug: '187'
+tags:
+- Kubernetes
+- cloud
+- cloud native
+- DevOps
+- internet
+- IBM
+- Red Hat
+- GttOps
+- infrastructure
+- data
+- security
+- Wordpress
+- hybrid cloud
+- Mozilla
+- observability
+- runtime
+- storage
+- kernel
+- GitHub
+- Google
+- Accurics
+- Cilium
+- GitOps
+title: DevOps'ish 187
+---
 
 Normally, I don't like to highlight military uses of Kubernetes (people have feelings about that; I do too, for that matter). But, this week, something rather significant happened out in Utah: [U-2 Federal Lab achieves flight with Kubernetes](https://www.hill.af.mil/News/Article-Display/Article/2375297/u-2-federal-lab-achieves-flight-with-kubernetes/). "The U-2 Federal Laboratory successfully leveraged Kubernetes during a local training sortie on a U-2 Dragon Lady assigned to the 9th Reconnaissance Wing at Beale Air Force Base, Sept. 22. This represents the first time Kubernetes has flown on an operational major weapon system in the Department of Defense."
 

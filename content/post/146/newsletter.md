@@ -1,15 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-09-22
-description = "We're going to need a bigger boat for this week's newsletter. From Anthos to Chef to Seth to words with Z in them there's something for everyone!"
-draft = false
-slug = "146"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Seth Vargo", "Chef", "Google Anthos", "VMware Project Pacific", "linux", "kernel", "AWS", "Linus Torvalds", "Richard Stallman", "WeWork", "quantum computing", "GitOps"]
-title = "146: Seth Vargo says hell no—puts Chef on ICE, Kubernetes 1.16, Linus Torvalds on kernel development, fluffy clouds, DevOps terms, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-09-22'
+description: We're going to need a bigger boat for this week's newsletter. From Anthos to Chef to Seth to words with Z in them there's something for everyone!
+draft: false
+slug: '146'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- cloud native
+- DevOps news
+- Kubernetes news
+- Seth Vargo
+- Chef
+- Google Anthos
+- VMware Project Pacific
+- linux
+- kernel
+- AWS
+- Linus Torvalds
+- Richard Stallman
+- WeWork
+- quantum computing
+- GitOps
+title: '146: Seth Vargo says hell no—puts Chef on ICE, Kubernetes 1.16, Linus Torvalds on kernel development, fluffy clouds, DevOps terms, and more'
+---
 
 Just when you thought a toxic, old, white guy with lousy hygiene was going to dominate the news this week, in walks [Seth Vargo](https://twitter.com/sethvargo). On Thursday, Seth Vargo, a former Chef employee, learned something he wasn't comfortable with about code he'd written. Seth discovered Chef had an active contract with the US Department of Homeland Security's Immigration and Customs Enforcement. Seth then did something rather extraordinary. He yanked his code (including [chef-sugar](https://github.com/sethvargo/chef-sugar)) from GitHub and RubyGems. This resulted in many production systems going offline across the globe. We could see some metrics about impact in a lawsuit at some point. When DM'ing Seth early Friday AM he told me, "It's almost certain that Chef is going to sue." [Read More →](https://chrisshort.net/seth-vargo-says-hell-noputs-chef-on-ice/)
 
@@ -103,6 +123,6 @@ Balance rapid feature development and production stability with alert automation
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1174116297468252160 >}}
+{{< x user="dave_strebel" id="1174116297468252160" >}}
 
 [See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/146/notes.md)

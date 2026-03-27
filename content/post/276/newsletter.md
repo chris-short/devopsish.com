@@ -1,13 +1,17 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-07-17
-description = ["Packed with projects, Chrome OS Flex, DevOpsDays Seattle, Screaming in the Cloud, 'critical' projects maintained by volunteers, OSS Insight, and more"]
-draft = false
-slug = "276"
-tags = []
-title = "DevOps'ish 276: Packed with projects, Chrome OS Flex, DevOpsDays Seattle, Screaming in the Cloud, 'critical' projects maintained by volunteers, OSS Insight, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-07-17'
+description:
+- Packed with projects, Chrome OS Flex, DevOpsDays Seattle, Screaming in the Cloud, 'critical' projects maintained by volunteers, OSS Insight, and more
+draft: false
+slug: '276'
+tags: []
+title: 'DevOps''ish 276: Packed with projects, Chrome OS Flex, DevOpsDays Seattle, Screaming in the Cloud, ''critical'' projects maintained by volunteers, OSS Insight, and more'
+---
 
 ### A note about Detroit
 

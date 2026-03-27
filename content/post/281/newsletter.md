@@ -1,13 +1,38 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-08-21
-description = ["Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more"]
-draft = false
-slug = "281"
-tags = ["home", "work", "Kubernetes", "cloud", "cloud native", "security", "open source", "systems", "developer", "manager", "wage", "Trivy", "Quantum", "AWS", "software", "DevOps", "ingress", "code", "caste", "Michigan", ""]
-title = "DevOps'ish 281: Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-08-21'
+description:
+- Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more
+draft: false
+slug: '281'
+tags:
+- home
+- work
+- Kubernetes
+- cloud
+- cloud native
+- security
+- open source
+- systems
+- developer
+- manager
+- wage
+- Trivy
+- Quantum
+- AWS
+- software
+- DevOps
+- ingress
+- code
+- caste
+- Michigan
+- ''
+title: 'DevOps''ish 281: Hacking Starlink, quantum entanglement 12.5 km apart, Kubernetes Service vs. LoadBalancer vs. Ingress, Kubernetes Health Checks, and more'
+---
 
 *Dear reader, please share this newsletter with a friend. Continued growth is a neccessary thing in the newsletter writing business. I am looking for ways to incentivize this without costing and arm and a leg.*
 

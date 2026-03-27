@@ -1,15 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-05-12
-description = "Mother's Day, What is DevOps, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More"
-draft = false
-slug = "127"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "infrastructure", "git", "GitHub", "event driven", "UBI", "KEDA", "Oracle", "Windows", "Mother's Day", "Kubernetes Operators"]
-title = "127: Mother's Day, What is DevOps, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-05-12'
+description: Mother's Day, What is DevOps, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More
+draft: false
+slug: '127'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- container
+- security
+- linux
+- infrastructure
+- git
+- GitHub
+- event driven
+- UBI
+- KEDA
+- Oracle
+- Windows
+- Mother's Day
+- Kubernetes Operators
+title: '127: Mother''s Day, What is DevOps, DevOps is Dead, 1:1s, Oracle Oracling, UBI, KEDA, terraformer, and More'
+---
 
 Happy Mother's Day! To the single moms, this day should be yours two times over. I'm sorry if you don't even get so much as a bathroom break to yourself today. To the almost moms, this day is yours. Don't let anyone tell you otherwise; if they do, send them my way. To the moms that have lost a child, this day is especially yours. For those of us whose toxic moms have been extricated from our lives, this day might be a little heavier. That's okay too; do what you need to do. No one says you can't celebrate someone else's awesome mom either. For example, Emily Freeman's mom is the human embodiment of DevOps, honor her. Regardless, I hope everyone has a marvelous Mother's Day.
 
@@ -94,6 +114,6 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1127295228854063104 >}}
+{{< x user="SEJeff" id="1127295228854063104" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

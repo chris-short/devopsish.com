@@ -1,15 +1,54 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-08-22
-description = ["Kubernetes 1.22 release team livestream, problems in Perl, glibc, eBPF, Pod Security Admission, secure supply chains, tools galore, and more"]
-draft = false
-slug = "231"
-tags = ["Kubernetes", "clusters", "security", "cloud native", "cloud", "release", "email", "hardening", "IoT", "eBPF", "Docker", "process", "Postman", "GitOps", "Linux", "pod", "CNCF", "Perl", "T-Mobile", "livestream", "Sackler family", "opioid", "glibc", "patterns", "confusing", "open source", "Google", "community", "incident management", "CIS Benchmark", "NSA", "supply chain", "DC/OS", "automate", "Red Hat", "AWS", "Samsung"]
-title = "DevOps'ish 231: Kubernetes 1.22 release team livestream, problems in Perl, glibc, eBPF, Pod Security Admission, secure supply chains, tools galore, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-08-22'
+description:
+- Kubernetes 1.22 release team livestream, problems in Perl, glibc, eBPF, Pod Security Admission, secure supply chains, tools galore, and more
+draft: false
+slug: '231'
+tags:
+- Kubernetes
+- clusters
+- security
+- cloud native
+- cloud
+- release
+- email
+- hardening
+- IoT
+- eBPF
+- Docker
+- process
+- Postman
+- GitOps
+- Linux
+- pod
+- CNCF
+- Perl
+- T-Mobile
+- livestream
+- Sackler family
+- opioid
+- glibc
+- patterns
+- confusing
+- open source
+- Google
+- community
+- incident management
+- CIS Benchmark
+- NSA
+- supply chain
+- DC/OS
+- automate
+- Red Hat
+- AWS
+- Samsung
+title: 'DevOps''ish 231: Kubernetes 1.22 release team livestream, problems in Perl, glibc, eBPF, Pod Security Admission, secure supply chains, tools galore, and more'
+---
 
 My military service and tech worlds collided this week. I can't say much about it yet but, I've been insanely busy with an array of things I never thought I'd need to do. More to come later. Join the [DevOps'ish subreddit](https://www.reddit.com/r/devopsish/) and talk about how bad the intro was. Or how dope the [notes page](https://github.com/chris-short/devopsish.com/blob/main/content/post/231/notes.md) is for this issue.
 

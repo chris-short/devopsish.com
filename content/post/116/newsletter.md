@@ -1,15 +1,39 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-02-24
-description = "Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, Hashicorp in Wired, Ansible for Kubernetes, Knative, and More"
-draft = false
-slug = "116"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "automation", "knative", "learning", "openshift", "istio", "docker layoffs", "docker", "layoffs", "licenses", "Docker Inc", "automation imagination", "CI/CD"]
-title = "116: Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, Hashicorp in Wired, Ansible for Kubernetes, Knative, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-02-24'
+description: Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, Hashicorp in Wired, Ansible for Kubernetes, Knative, and More
+draft: false
+slug: '116'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- ansible
+- container
+- security
+- automation
+- knative
+- learning
+- openshift
+- istio
+- docker layoffs
+- docker
+- layoffs
+- licenses
+- Docker Inc
+- automation imagination
+- CI/CD
+title: '116: Open Source Licenses, Kubernetes Interview Prep, .dev Grossness, Hashicorp in Wired, Ansible for Kubernetes, Knative, and More'
+---
 
 Last week's attempt at full automation failed and pointed out a shortcoming or two. ~~I hope that's all ironed out (time will tell).~~ It also highlights the need to think of always starting from a clean slate. My theory is, a cached version of the newsletter was stored on MailChimp. When I enabled the automation for web site to e-mail, MailChimp observed 115 as new and shipped it. Hopefully, you get this while I'm sleeping and everything works wonderfully. Ha!
 
@@ -112,6 +136,6 @@ Works on Arm (WOA) is how I keep up with most of my Arm news. The editor is a lo
 
 When my biological mother left my father in the late 1980s, she joined a [cult](https://chrisshort.net/foundation-for-purposeful-living/). Of course, she dragged my brother and me along. One thing this [cult](https://chrisshort.net/foundation-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/) did, which could be viewed as an abomination, introduce me to is Buddhism (and Islam, Judaism, Hinduism, Christianity, and worshiping a "guru") against my will. However, there are some pretty good life lessons in Buddhism. I'm finding them more and more pertinent as time goes on. Thus this week's DevOps'ish Tweet of the Week.
 
-{{< tweet 1098892705873022976 >}}
+{{< x user="DalaiLama" id="1098892705873022976" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

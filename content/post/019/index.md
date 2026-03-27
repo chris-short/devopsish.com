@@ -1,20 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-04-16T06:06:01.283Z
-description = ""
-draft = false
-slug = "019"
-tags = ["devops", "cloud native", "open source", "kubernetes", "interview", "Susan Fowler", "Docker"]
-title = "019: Week of 1492315200"
-image ="https://shortcdn.com/devopsish/easter-basket.jpg"
-imagealt = "Enjoy your Easter!"
-aliases = [
-    "devopsish-weekly-019-week-of-1492315200-eda43f3abc83"
-]
-
-+++
+---
+aliases:
+- devopsish-weekly-019-week-of-1492315200-eda43f3abc83
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-04-16T06:06:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/easter-basket.jpg
+imagealt: Enjoy your Easter!
+slug: 019
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- interview
+- Susan Fowler
+- Docker
+title: '019: Week of 1492315200'
+---
 
 Happy Easter! Hope you are enjoying your [**DevOps**](https://devopsish.com/)'ing selves. I have family in from the northern reaches of the US. Trying to optimize time this week so no "monologue"; let's get it!
 

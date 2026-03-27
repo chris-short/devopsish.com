@@ -1,17 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-06-09
-description = "DevOps Tools, Kubernetes ≠ Rocket Science, IBM Layoffs, Open Source Licenses Aren't Broken, Small Kubernetes Clusters, and More"
-draft = false
-slug = "131"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "IBM layoffs", "licenses", "Linus Torvalds"]
-title = "131: DevOps tools, Kubernetes ≠ rocket science, IBM layoffs, Open Source licenses aren't broken, small Kubernetes clusters, and more"
-image = "https://shortcdn.com/devopsish/kubernetes-what-if-i-told-you.jpg"
-imagealt = "What if I told you... You don't have to be a Kubernetes expert to use it."
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-06-09'
+description: DevOps Tools, Kubernetes ≠ Rocket Science, IBM Layoffs, Open Source Licenses Aren't Broken, Small Kubernetes Clusters, and More
+draft: false
+image: https://shortcdn.com/devopsish/kubernetes-what-if-i-told-you.jpg
+imagealt: What if I told you... You don't have to be a Kubernetes expert to use it.
+slug: '131'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- GitHub
+- cloud native
+- IBM layoffs
+- licenses
+- Linus Torvalds
+title: '131: DevOps tools, Kubernetes ≠ rocket science, IBM layoffs, Open Source licenses aren''t broken, small Kubernetes clusters, and more'
+---
 
 This week's image was something I whipped up when talking to a friend. When I explained that running Kubernetes on a Raspberry Pi cluster or Digital Ocean didn't mean they had to be an expert at running Kubernetes, it tilted their world off axis a little. I blew away a cluster and rebuilt it from a handful of files in less than thirty minutes a couple of weeks ago. This should be a rare occurrence (and there should be backups). But, if there isn't time to troubleshoot (and you maintain proper configuration management), burn it down and start over if you make a mistake. It points to the practice Rob Hirschfeld discovered of [keeping Kubernetes clusters small](https://thenewstack.io/the-optimal-kubernetes-cluster-size-lets-look-at-the-data/) to reduce blast radius and snowflakes.
 
@@ -96,8 +106,8 @@ Survey results reveal the path organizations face as they integrate cloud native
 
 There is a tie for the DevOps'ish Tweet of the Week.
 
-{{< tweet 1136709168323104768 >}}
+{{< x user="QuinnyPig" id="1136709168323104768" >}}
 
-{{< tweet 1136194197814272001 >}}
+{{< x user="iamdevloper" id="1136194197814272001" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

@@ -1,20 +1,32 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-12-24T14:01:06.960Z
-description = ""
-draft = false
-slug = "055"
-tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "golang", "detroit", "observability", "women in tech", "uber", "Susan Fowler", "Docker"]
-title = "055: Rough Week, DevOps Culture, Kubernetes, and More!"
-image ="https://shortcdn.com/devopsish/merry-christmas.jpg"
-imagealt = "Merry Christmas!"
-aliases = [
-    "devopsish-054-kubernetes-docker-is-dead-friend-in-need-kubecon-videos-and-more-1011d4dd5cf0"
-]
-
-+++
+---
+aliases:
+- devopsish-054-kubernetes-docker-is-dead-friend-in-need-kubecon-videos-and-more-1011d4dd5cf0
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-12-24T14:01:06Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/merry-christmas.jpg
+imagealt: Merry Christmas!
+slug: '055'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- serverless
+- golang
+- detroit
+- observability
+- women in tech
+- uber
+- Susan Fowler
+- Docker
+title: '055: Rough Week, DevOps Culture, Kubernetes, and More!'
+---
 
 I'm going to keep the monologue pretty short this week. I have some lightly scoped out ideas to share in 2018 though so don't worry, lots more to come. It has been [a rough week in the Short household](https://chrisshort.net/miscarriage-a-culture-of-silence-helps-no-one/) and I'm mentally spent. But, there was a ton DevOps, Cloud Native, and open source of news this week. I hope you had a Happy Hanukkah or Happy Festivus and I wish all of you a Merry Christmas.
 
@@ -84,6 +96,3 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 [Tar and Curl Come to Windows!](https://blogs.technet.microsoft.com/virtualization/2017/12/19/tar-and-curl-come-to-windows/)
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 943886395302481920 >}}

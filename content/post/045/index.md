@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-10-15T06:01:00.543Z
-description = ""
-draft = false
-slug = "045"
-tags = ["devops", "cloud native", "open source", "kubernetes", "mental health", "github", "women in tech", "containers", "Docker"]
-title = "045: Sick Days, Kubernetes, Kaspersky, Go, AWS, and More!"
-image ="https://shortcdn.com/devopsish/alligator.jpg"
-imagealt = "Watch Out! Them Gators will bite ya!"
-aliases = [
-    "devopsish-045-sick-days-kubernetes-kaspersky-go-aws-and-more-c1dba1d87313"
-]
-
-+++
+---
+aliases:
+- devopsish-045-sick-days-kubernetes-kaspersky-go-aws-and-more-c1dba1d87313
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-10-15T06:01:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/alligator.jpg
+imagealt: Watch Out! Them Gators will bite ya!
+slug: '045'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- mental health
+- github
+- women in tech
+- containers
+- Docker
+title: '045: Sick Days, Kubernetes, Kaspersky, Go, AWS, and More!'
+---
 
 My week started with a migraine Monday afternoon. My week ended with a right ear infection. I spent two days dead to the world. Having to take a knee and heal sucks. If a team can't handle a member taking a sick day, something has broken in the team building process. Any member of a team should be able to call in sick without any other team member feeling like a ball will get dropped. Humans are going to get sick, humans are going to fail, and the team should be able to adjust to that. If it can't, the team is in dire shape and a holistic strategic assessment should happen. The team is likely trying to do too much, move too fast, or does not have enough skilled people. If that's the case, sharpen the ole business skills and make the case for whatever it is the team needs. Make sure the team literally stays healthy.
 

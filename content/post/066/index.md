@@ -1,18 +1,25 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-03-11
-description = ""
-draft = false
-slug = "066"
-tags = ["devops", "cloud native", "open source", "kubernetes", "cncf", "containers"]
-title = "066: Kubernetes 🎓, Awesome People, Rogue Satellites, IDGAF About Your IDE, and More!"
-image ="https://shortcdn.com/devopsish/petty-whale.jpg"
-imagealt = "Petty, petty whale"
-imagecap = "\"When dealing with people, remember you are not dealing with creatures of logic, but with creatures bristling with prejudice and motivated by pride and vanity.\" — Dale Carnegie"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-03-11'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/petty-whale.jpg
+imagealt: Petty, petty whale
+imagecap: '"When dealing with people, remember you are not dealing with creatures of logic, but with creatures bristling with prejudice and motivated by pride and vanity." — Dale Carnegie'
+slug: '066'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- cncf
+- containers
+title: '066: Kubernetes 🎓, Awesome People, Rogue Satellites, IDGAF About Your IDE, and More!'
+---
 
 One big piece of news from the CNCF this week was [Kubernetes graduating](https://www.cncf.io/announcement/2018/03/06/cloud-native-computing-foundation-announces-kubernetes-first-graduated-project/). "To move from incubation to graduate, projects must demonstrate thriving adoption, a documented, structured governance process, and a strong commitment to community success and inclusivity." One questioned I was asked by a few people was what does graduating from CNCF actually mean? I asked around because it wasn't really clear to me either when the TOC started voting on it. [Chris Aniszczyk responded](http://cshort.co/k8sgrad), "[CNCF Graduation] is meant to be a stamp from the Technical Oversight Committee and the CNCF of what is a sustainable, production ready and mature open source project (i.e., you can bet your business on it)." You can bet your business on Kubernetes. That's been safe to say for a while now. The fact the ever growing and improving CNCF is now saying it makes it damn near fact.
 
@@ -109,6 +116,3 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [GoogleCloudPlatform/skaffold](https://github.com/GoogleCloudPlatform/skaffold): Easy and Repeatable Kubernetes Development
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 971781245074948101 >}}

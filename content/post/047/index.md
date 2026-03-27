@@ -1,20 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-10-29T07:01:14.508Z
-description = ""
-draft = false
-slug = "047"
-tags = ["devops", "cloud native", "open source", "kubernetes", "intel", "linux", "google", "hashicorp", "nodejs", "containers", "Docker"]
-title = "047: DevOps Team, Kubernetes Everywhere, Scoble Still Awful, Intel Did Something Right..."
-image ="https://shortcdn.com/devopsish/chris-short-jason-hibbets-announcing-osdc-devops-team.jpg"
-imagealt = "Jason Hibbets and Chris Short announcing the Opensource.com DevOps Team at All Things Open 2017"
-aliases = [
-    "devopsish-047-devops-team-kubernetes-everywhere-scoble-still-awful-intel-did-something-right-fa4dd75bc9b5"
-]
-
-+++
+---
+aliases:
+- devopsish-047-devops-team-kubernetes-everywhere-scoble-still-awful-intel-did-something-right-fa4dd75bc9b5
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-10-29T07:01:14Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/chris-short-jason-hibbets-announcing-osdc-devops-team.jpg
+imagealt: Jason Hibbets and Chris Short announcing the Opensource.com DevOps Team at All Things Open 2017
+slug: '047'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- intel
+- linux
+- google
+- hashicorp
+- nodejs
+- containers
+- Docker
+title: '047: DevOps Team, Kubernetes Everywhere, Scoble Still Awful, Intel Did Something Right...'
+---
 
 If you [follow me on Twitter](https://twitter.com/ChrisShort), you know I spent the first half of the week in Raleigh attending [All Things Open](https://allthingsopen.org/) and [hanging out with my opensource.com family](https://www.instagram.com/p/Bar4enlAXVV/?hl=en&taken-by=thechrisshort). All Things Open is one of my most looked forward to conferences of the year. I had already committed to attending before I moved to Detroit and I'm so glad I was able to go. One of the coolest things I did while there was announcing a new [**Opensource.com DevOps Team**](https://opensource.com/devops-team) with Jason Hibbets on the main stage after my lightning talk. [Join us on this journey](https://opensource.com/devops-team)! It's going to be awesome!
 
@@ -112,4 +123,4 @@ Corey Quinn's [**Last Week in AWS**](https://ref.lastweekinaws.com/7h1z3x): You 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 922925951402385409 >}}
+{{< x user="OpenSourceOrg" id="922925951402385409" >}}

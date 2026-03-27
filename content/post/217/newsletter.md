@@ -1,15 +1,54 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-05-09
-description = ["KubeCon EU 2021, COSI confusion, Kohl's GitOps tool, Colonial Pipelines attack, dev platforms, Docker dead in water, GitOps Con 2021, PodTopologySpread, and more"]
-draft = false
-slug = "217"
-tags = ["Kubernetes", "KubeCon", "cloud", "Cloud Native", "open source", "DevOps", "GitOps", "COSI", "pods", "interface", "availability", "observability", "systems", "control", "VPC", "community", "platform", "Pulumi", "Talos Systems", "pipeline", "container", "Docker", "Kohl's", "object storage", "Argo", "Twitch", "Red Hat", "learning organization", "ransomware", "IBM", "AWS", "Amazon", "CNCF", "cluster", "Honeycomb", "StackRox", "Accurics"]
-title = "DevOps'ish 217: KubeCon EU 2021, COSI confusion, Kohl's GitOps tool, Colonial Pipelines attack, dev platforms, Docker dead in water, GitOps Con 2021, PodTopologySpread, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-05-09'
+description:
+- KubeCon EU 2021, COSI confusion, Kohl's GitOps tool, Colonial Pipelines attack, dev platforms, Docker dead in water, GitOps Con 2021, PodTopologySpread, and more
+draft: false
+slug: '217'
+tags:
+- Kubernetes
+- KubeCon
+- cloud
+- Cloud Native
+- open source
+- DevOps
+- GitOps
+- COSI
+- pods
+- interface
+- availability
+- observability
+- systems
+- control
+- VPC
+- community
+- platform
+- Pulumi
+- Talos Systems
+- pipeline
+- container
+- Docker
+- Kohl's
+- object storage
+- Argo
+- Twitch
+- Red Hat
+- learning organization
+- ransomware
+- IBM
+- AWS
+- Amazon
+- CNCF
+- cluster
+- Honeycomb
+- StackRox
+- Accurics
+title: 'DevOps''ish 217: KubeCon EU 2021, COSI confusion, Kohl''s GitOps tool, Colonial Pipelines attack, dev platforms, Docker dead in water, GitOps Con 2021, PodTopologySpread, and more'
+---
 
 It was indeed KubeCon EU this week. What my family is told is one of my Super Bowl events (KubeCons and Red Hat Summit are in that class). It was indeed an extraordinary virtual event. That’s right; you read that right. KubeCon EU 2021 was a great virtual event. No one besides Deserted Island DevOps and CNCF has unlocked successful models of making a virtual event enjoyable.
 

@@ -1,15 +1,38 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-10-17
-description = ["KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more"]
-draft = false
-slug = "239"
-tags = ["time", "CPU", "cloud", "data", "DevOps", "code", "Cloud Native", "open source", "software", "security", "infrastructure", "namespace", "Linux", "TLS", "AWS", "Red Hat", "community", "SSH", "KubeCon", "Kubernetes", "GitOps"]
-title = "DevOps'ish 239: KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-10-17'
+description:
+- KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more
+draft: false
+slug: '239'
+tags:
+- time
+- CPU
+- cloud
+- data
+- DevOps
+- code
+- Cloud Native
+- open source
+- software
+- security
+- infrastructure
+- namespace
+- Linux
+- TLS
+- AWS
+- Red Hat
+- community
+- SSH
+- KubeCon
+- Kubernetes
+- GitOps
+title: 'DevOps''ish 239: KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more'
+---
 
 KubeCon + CloudNativeCon North America 2021 in Downtown Los Angeles was fantastic. I got to see friends I hadn't seen in a long time and some people I met for the first time. "I didn't realize you were so tall" was a common statement from people I was meeting for the first time. It was very cool to meet folks in the community and Red Hat for the first time. It was also interesting to see new companies entering the cloud native ecosystem. I spent more than one time looking up companies or products I'd not heard of before. It was also interesting NOT to see Google Cloud or VMware there. Those companies opted not to get a booth based on their company COVID-19 policies.
 

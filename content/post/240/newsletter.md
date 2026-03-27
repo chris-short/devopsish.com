@@ -1,15 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-10-24
-description = ["You're probably underpaid, Karanbir Singh Steps Down, Honeycomb's cool $50 million, and more"]
-draft = false
-slug = "240"
-tags = ["cloud", "Cloud Native", "DevOps", "Linux", "kernel", "KubeCon", "open source", "security", "SSH", "Kubernetes", "Honeycomb", "GitOps"]
-title = "DevOps'ish 240: You're probably underpaid, Karanbir Singh Steps Down, Honeycomb's cool $50 million, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-10-24'
+description:
+- You're probably underpaid, Karanbir Singh Steps Down, Honeycomb's cool $50 million, and more
+draft: false
+slug: '240'
+tags:
+- cloud
+- Cloud Native
+- DevOps
+- Linux
+- kernel
+- KubeCon
+- open source
+- security
+- SSH
+- Kubernetes
+- Honeycomb
+- GitOps
+title: 'DevOps''ish 240: You''re probably underpaid, Karanbir Singh Steps Down, Honeycomb''s cool $50 million, and more'
+---
 
 KubeCon hangover is real. I grossly overestimated how much I'd be able to do in four days, of course. I spent my little break between jobs trying to sleep in most days. Spend extra time with Max (daddy pick-ups from school are a real thing now). But, any time I went to do something technical or constructive, it took a lot longer than I thought it would. I did a lot of little niceties to [various websites](https://chrisshort.net/projects/), pre-employment stuff, write the $newjob blog post, and generally did not think about complex things. I wanted to tinker with a list of little projects, but I opted to read maybe or play Madden instead. It wasn't bad, but to say I've recovered from KubeCon is a gross overestimation. I'm going to shut myself in and lay on heating packs all day tomorrow, more than likely. Two bad ankles, a bone spur in the neck, and a bad shoulder all snarling at you doesn't make for a good time.
 

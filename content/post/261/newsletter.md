@@ -1,14 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-03-20
-description = ["Secrets with GitOps, cr8escape, B1txor20, npm sabotage (again), updated Kubernetes Hardening Guide, ArgoCD and Starboard, scripting with Go, and more"]
-draft = false
-slug = "261"
-tags = ["GitOps", "secrets", "ArgoCD", "Kubernetes", "git", "service", "hardening", "cluster", "Honeycomb", "cloud", "scripting", "math", "CDN"]
-title = "DevOps'ish 261: Secrets with GitOps, cr8escape, B1txor20, npm sabotage (again), updated Kubernetes Hardening Guide, ArgoCD and Starboard, scripting with Go, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-03-20'
+description:
+- Secrets with GitOps, cr8escape, B1txor20, npm sabotage (again), updated Kubernetes Hardening Guide, ArgoCD and Starboard, scripting with Go, and more
+draft: false
+slug: '261'
+tags:
+- GitOps
+- secrets
+- ArgoCD
+- Kubernetes
+- git
+- service
+- hardening
+- cluster
+- Honeycomb
+- cloud
+- scripting
+- math
+- CDN
+title: 'DevOps''ish 261: Secrets with GitOps, cr8escape, B1txor20, npm sabotage (again), updated Kubernetes Hardening Guide, ArgoCD and Starboard, scripting with Go, and more'
+---
 
 This week I wanted to spur discussion around some GitOps hurdles folks are facing. As a co-chair, it's not only my job to make sure we're discussing how folks are handling things. We should be providing some guidance on how to implement those [**GitOps Principles**](https://opengitops.dev/#principles) in a practical manner. The discussions themselves are around ["Management" Clusters](https://github.com/open-gitops/project/discussions/95), [Progressively Delivery](https://github.com/open-gitops/project/discussions/93), and [Handling Secrets with GitOps](https://github.com/open-gitops/project/discussions/96).
 

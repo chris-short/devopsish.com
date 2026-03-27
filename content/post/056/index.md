@@ -1,20 +1,26 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-12-31T07:01:01.997Z
-description = ""
-draft = false
-slug = "056"
-tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "Docker"]
-title = "056: Is Docker Dead, Tech Bros, Kubernetes, Tools Galore, and More!"
-image ="https://shortcdn.com/devopsish/macbook-hour-glass.jpg"
-imagealt = "The sand is almost at the bottom of 2017's hourglass"
-aliases = [
-    "devopsish-056-is-docker-dead-tech-bros-kubernetes-tools-galore-and-more-89edb0cc703e"
-]
-
-+++
+---
+aliases:
+- devopsish-056-is-docker-dead-tech-bros-kubernetes-tools-galore-and-more-89edb0cc703e
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-12-31T07:01:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/macbook-hour-glass.jpg
+imagealt: The sand is almost at the bottom of 2017's hourglass
+slug: '056'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- serverless
+- Docker
+title: '056: Is Docker Dead, Tech Bros, Kubernetes, Tools Galore, and More!'
+---
 
 The end of 2017 is upon us. Whether your 2017 was amazing or terrible I wish you all the best in 2018. I have very mixed feelings about this year. I feel like DevOps and open source software as a whole had a good 2017. I think 2018 will be quite interesting for this space. There will be numerous opportunities for open source software and its methodologies to continue to penetrate deeper into industries like the automotive and banking spaces.
 
@@ -80,4 +86,4 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 946480696893116416 >}}
+{{< x user="copyconstruct" id="946480696893116416" >}}

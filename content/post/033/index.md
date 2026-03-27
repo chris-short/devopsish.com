@@ -1,19 +1,32 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-07-23T07:01:01.348Z
-description = ""
-draft = false
-slug = "033"
-tags = ["devops", "cloud native", "open source", "kubernetes", "golang", "hiring", "women in tech", "gophercon", "password management", "microservices", "CI/CD", "Docker"]
-title = "033: More GopherCon, Women in Tech, DevOps, Kubernetes, etcdhcp, and More"
-image ="https://shortcdn.com/devopsish/burning-oil-well.jpg"
-imagealt = "Moving Sucks (and other obvious things)"
-aliases = [
-    "devopsish-033-more-gophercon-women-in-tech-kubernetes-etcdhcp-and-more-45f0cbd3d3b5"
-]
-+++
+---
+aliases:
+- devopsish-033-more-gophercon-women-in-tech-kubernetes-etcdhcp-and-more-45f0cbd3d3b5
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-07-23T07:01:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/burning-oil-well.jpg
+imagealt: Moving Sucks (and other obvious things)
+slug: '033'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- golang
+- hiring
+- women in tech
+- gophercon
+- password management
+- microservices
+- CI/CD
+- Docker
+title: '033: More GopherCon, Women in Tech, DevOps, Kubernetes, etcdhcp, and More'
+---
 
 Sunday, I flew back to NC to help close and move out of our house. It has turned into quite the saga that I won't bother with trying to explain to everyone. But, having injections on moving day was not as bad as I thought it was going to be. The world of [**DevOps**](https://devopsish.com/) was quite busy this week. Also, several great [talks from GopherCon are available in various forms](https://github.com/gophercon/2017-talks), including my GopherCon 2017 Lightning Talk: [Golang to the rescue: Saving DevOps from TLS turmoil](https://chrisshort.net/testing-certificate-chains-in-go/). Last, but not least, [happy second birthday, Kubernetes!](https://twitter.com/hashtag/K8sBday?src=hash)
 

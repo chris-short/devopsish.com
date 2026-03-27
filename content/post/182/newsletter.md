@@ -1,15 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-09-06
-description = "1x engineers, Future of Ops Jobs, DevOps for non-IT biz leaders, Kubernetes, Litmus, and more"
-draft = false
-slug = "182"
-tags = ["Kubernetes", "DevOps", "Cloud", "cloud native", "security", "Business", "Engineers", "open source", "Engineering", "cluster", "AWS"]
-title = "DevOps'ish 182"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-09-06'
+description: 1x engineers, Future of Ops Jobs, DevOps for non-IT biz leaders, Kubernetes, Litmus, and more
+draft: false
+slug: '182'
+tags:
+- Kubernetes
+- DevOps
+- Cloud
+- cloud native
+- security
+- Business
+- Engineers
+- open source
+- Engineering
+- cluster
+- AWS
+title: DevOps'ish 182
+---
 
 Welcome!
 

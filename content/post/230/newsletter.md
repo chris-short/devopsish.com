@@ -1,15 +1,45 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-08-15
-description = ["Complex Systems == No Single Root Cause, WFHers juggling two jobs, Service Reliability Math, eBPF Foundation, Dashboards, Tools from Black Hat and more"]
-draft = false
-slug = "230"
-tags = ["systems", "cloud", "single root cause", "Kubernetes", "DevOps", "lightning", "datacenter", "security", "Steam", "cooling", "reset", "power", "containers", "cloud native", "Apple", "code", "Linux", "Red Hat", "ARM", "open source", "John Allspaw", "work from home", "incidents", "AWS", "eBPF Foundation", "dashboards", "nano", "GitOps"]
-title = "DevOps'ish 230: Complex Systems == No Single Root Cause, WFHers juggling two jobs, Service Reliability Math, eBPF Foundation, Dashboards, Tools from Black Hat and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-08-15'
+description:
+- Complex Systems == No Single Root Cause, WFHers juggling two jobs, Service Reliability Math, eBPF Foundation, Dashboards, Tools from Black Hat and more
+draft: false
+slug: '230'
+tags:
+- systems
+- cloud
+- single root cause
+- Kubernetes
+- DevOps
+- lightning
+- datacenter
+- security
+- Steam
+- cooling
+- reset
+- power
+- containers
+- cloud native
+- Apple
+- code
+- Linux
+- Red Hat
+- ARM
+- open source
+- John Allspaw
+- work from home
+- incidents
+- AWS
+- eBPF Foundation
+- dashboards
+- nano
+- GitOps
+title: 'DevOps''ish 230: Complex Systems == No Single Root Cause, WFHers juggling two jobs, Service Reliability Math, eBPF Foundation, Dashboards, Tools from Black Hat and more'
+---
 
 Another week another bout of bad weather. Systems here in our home have gotten a bit more robust since our multi-day total blackout. I took a meeting this week in a house with no power. The meeting was short, but it demonstrated that if everything goes to hell in a handbasket, my systems are redundant enough to enable me to pass whatever batons when needed. But, lately, it’s felt like a lot.
 

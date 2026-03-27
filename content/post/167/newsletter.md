@@ -1,15 +1,44 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-02-16
-description = "Kubernetes team secrets, Amazon bending CAP Theorem, JEDI chokes Microsoft, GitHub CLI, Kiali the Istio dashboard, coding bootcamp scams, and more"
-draft = false
-slug = "167"
-tags = ["Kubernetes", "DevOps", "cloud", "cloud native", "open source", "Amazon", "CAP Theorem", "JEDI", "exhaustion", "exhausted", "infrastructure", "Microsoft", "container", "Linux", "Istio", "GitHub", "coding bootcamp", "Kiali", "debt", "funding", "database", "Datadog", "Python", "VScode", "SSH", "Google", "HAProxy", "Linus Torvalds"]
-title = "DevOps'ish 167"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-02-16'
+description: Kubernetes team secrets, Amazon bending CAP Theorem, JEDI chokes Microsoft, GitHub CLI, Kiali the Istio dashboard, coding bootcamp scams, and more
+draft: false
+slug: '167'
+tags:
+- Kubernetes
+- DevOps
+- cloud
+- cloud native
+- open source
+- Amazon
+- CAP Theorem
+- JEDI
+- exhaustion
+- exhausted
+- infrastructure
+- Microsoft
+- container
+- Linux
+- Istio
+- GitHub
+- coding bootcamp
+- Kiali
+- debt
+- funding
+- database
+- Datadog
+- Python
+- VScode
+- SSH
+- Google
+- HAProxy
+- Linus Torvalds
+title: DevOps'ish 167
+---
 
 I got up this morning and was quickly exhausted from pain. I had noticed this exhausted feeling earlier in the week. It was the day of a doctor’s appointment to get injections to fix the mentally distracting nature of constant, chronic pain. I discovered [burnoutindex.org](https://burnoutindex.org/), which is a nine-question test to give you an idea of your main risk factors of burnout. My two key elements are self-inefficacy and exhaustion ([see my burnout report](https://shortcdn.com/devopsish/Chris-Short-Global-IT-Burnout-Index.pdf)). I’ve proven that this exhausted feeling is a real thing; what do I do about it? According to this, I need to figure out what my sources of energy are and bulk up on them while working to figure out what work-related urgencies are overwhelming. I think my problem is that I feel like I’m often trying to move a celestial body into or out of an orbit. The force, effort, time, and energy this requires is enormous. Of course, if you feel like the weight of the world is on you, exhaustion is a natural outcome. I have to remember that I’m sitting behind a keyboard and that I am only human. Hopefully, this too shall pass.
 
@@ -78,4 +107,4 @@ GNU Make is about to get faster in Linux 5.6 on large core count systems.
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1226183144786685952 >}}
+{{< x user="guincodes" id="1226183144786685952" >}}

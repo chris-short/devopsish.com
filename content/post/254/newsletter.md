@@ -1,15 +1,38 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-01-30
-description = ["Mired in many migrations, No Substack, Kubernetes security, Nvidia's Arm deal is really dead, big Kubernetes cluster, systemd playground, and more"]
-draft = false
-slug = "254"
-tags = ["Kubernetes", "Google", "Docker", "Apple", "macOS", "Kubernetes clusters", "GSuite", "security", "policy", "podman", "validation", "systemd", "remote", "Fedora", "minikube", "open source", "Honeycomb", "AWS", "service discovery", "DNS", "Right to Repair"]
-title = "DevOps'ish 254: Mired in many migrations, No Substack, Kubernetes security, Nvidia's Arm deal is really dead, big Kubernetes cluster, systemd playground, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-01-30'
+description:
+- Mired in many migrations, No Substack, Kubernetes security, Nvidia's Arm deal is really dead, big Kubernetes cluster, systemd playground, and more
+draft: false
+slug: '254'
+tags:
+- Kubernetes
+- Google
+- Docker
+- Apple
+- macOS
+- Kubernetes clusters
+- GSuite
+- security
+- policy
+- podman
+- validation
+- systemd
+- remote
+- Fedora
+- minikube
+- open source
+- Honeycomb
+- AWS
+- service discovery
+- DNS
+- Right to Repair
+title: 'DevOps''ish 254: Mired in many migrations, No Substack, Kubernetes security, Nvidia''s Arm deal is really dead, big Kubernetes cluster, systemd playground, and more'
+---
 
 DevOps'ish is brought to you by [**Honeycomb**](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup).  
 "Stop Letting Complexity Slow You Down"  

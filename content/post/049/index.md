@@ -1,20 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-11-12T03:38:23.470Z
-description = ""
-draft = false
-slug = "049"
-tags = ["devops", "cloud native", "open source", "kubernetes", "golang", "intel", "linux", "Docker"]
-title = "049: Basics, Kubernetes, Intel is Blowing It, IDEs, Go, and More"
-image ="https://shortcdn.com/devopsish/air-force-drill-instructor.jpg"
-imagealt = "Happy Veteran's Day"
-aliases = [
-    "devopsish-049-basics-kubernetes-intel-is-blowing-it-ides-go-and-more-8ca711f9d832"
-]
-
-+++
+---
+aliases:
+- devopsish-049-basics-kubernetes-intel-is-blowing-it-ides-go-and-more-8ca711f9d832
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-11-12T03:38:23Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/air-force-drill-instructor.jpg
+imagealt: Happy Veteran's Day
+slug: 049
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- golang
+- intel
+- linux
+- Docker
+title: '049: Basics, Kubernetes, Intel is Blowing It, IDEs, Go, and More'
+---
 
 Happy Veteran's Day (in the US)! Thank you to all those that have served. I appreciate everyone that took a moment tweet, text, and call me to thank me for my service today. This week, I found a picture with two meanings: 1) Thank you veterans, 2) the basics are SO important. When things get hard you revert back to habits be they bad or good. In basic training, you develop a sense of what to do in almost every situation. You are drilled in the basics so that you at least have an idea of what to do in every situation. This is important in DevOps. If you keep going through fire drill after fire drill without a lesson learned or proper postmortem you are not a learning organization. This is why you find links in this newsletter to things that seem pretty basic or obvious at times. The basics are important and there is no time like the present to double-check your foundation.
 
@@ -98,4 +106,4 @@ This post chronicles a mobile app development team's journey to continuous deliv
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 928708580999647232 >}}
+{{< x user="jboursiquot" id="928708580999647232" >}}

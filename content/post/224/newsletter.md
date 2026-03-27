@@ -1,15 +1,45 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-06-27
-description = ["Take your time off, Bryan Liles on a mission, John McAfee dead, Dell SupportAssist assisting the wrong people, AWS DNS hijack, Istio 1.10, Intel to make RISC-V chips, and more"]
-draft = false
-slug = "224"
-tags = ["cloud", "DevOps", "cloud native", "Linux", "open source", "Kubernetes", "DNS", "release", "Microsoft", "Istio", "localhost", "Google", "John McAfee", "experimentation", "platform", "development", "Red Hat", "production", "kernel", "AWS", "VPN", "observability", "sidecar", "fzf", "Intel", "RISC-V", "SiFive", "GitOps"]
-title = "DevOps'ish 224: Take your time off, Bryan Liles on a mission, John McAfee dead, Dell SupportAssist assisting the wrong people, AWS DNS hijack, Istio 1.10, Intel to make RISC-V chips, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-06-27'
+description:
+- Take your time off, Bryan Liles on a mission, John McAfee dead, Dell SupportAssist assisting the wrong people, AWS DNS hijack, Istio 1.10, Intel to make RISC-V chips, and more
+draft: false
+slug: '224'
+tags:
+- cloud
+- DevOps
+- cloud native
+- Linux
+- open source
+- Kubernetes
+- DNS
+- release
+- Microsoft
+- Istio
+- localhost
+- Google
+- John McAfee
+- experimentation
+- platform
+- development
+- Red Hat
+- production
+- kernel
+- AWS
+- VPN
+- observability
+- sidecar
+- fzf
+- Intel
+- RISC-V
+- SiFive
+- GitOps
+title: 'DevOps''ish 224: Take your time off, Bryan Liles on a mission, John McAfee dead, Dell SupportAssist assisting the wrong people, AWS DNS hijack, Istio 1.10, Intel to make RISC-V chips, and more'
+---
 
 Let me be someone to remind you to take some time off (if you can). As a family, we had many lessons learned from not being in our daily routines, setting, or location. This whole month has been a lot of optimizations in our household. All these learned from being outside our sixteen-month grooves. For example, I confirmed I needed glasses after a persistent headache went away then came back when I went back to work.
 
@@ -97,9 +127,5 @@ If you can't beat 'em, join 'em.
 
 [Call-for-Code-for-Racial-Justice/Open-Sentencing](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing)  
 "To help public defenders better serve their clients, Open Sentencing shows racial bias in data such as demographics providing insights for each case"
-
-## DevOps'ish Tweet of the Week
-
-{{<tweet 1408528711830454293>}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/224/notes.md) to see what didn't make it to the newsletter but are still worth your time.

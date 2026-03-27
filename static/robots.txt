@@ -1,5 +1,8 @@
 User-Agent: *
-Sitemap: https://devopsish.com/sitemap.xml
+Disallow: /confirmation
+Disallow: /contact
+Disallow: /terms
+Disallow: /thank-you
+Allow: /
 
-User-agent: GPTBot
-Disallow: /
+Sitemap: https://devopsish.com/sitemap.xml

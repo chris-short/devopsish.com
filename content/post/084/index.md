@@ -1,18 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-07-15
-description = "Open Offices are Evil, AWS Switches?, GitOps, BGP, Getting Started with CI/CD, OpenFaaS, and More"
-draft = false
-slug = "084"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "survey", "JEDI", "CI/CD", "Docker"]
-title = "084: Open Offices are Evil, AWS Switches?, GitOps, BGP, Getting Started with CI/CD, OpenFaaS, and More"
-image ="https://shortcdn.com/devopsish/dbap.jpg"
-imagealt = "Durham Bulls Athletic Park"
-imagecap = "Durham Bulls Athletic Park"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-07-15'
+description: Open Offices are Evil, AWS Switches?, GitOps, BGP, Getting Started with CI/CD, OpenFaaS, and More
+draft: false
+image: https://shortcdn.com/devopsish/dbap.jpg
+imagealt: Durham Bulls Athletic Park
+imagecap: Durham Bulls Athletic Park
+slug: 084
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- ansible
+- survey
+- JEDI
+- CI/CD
+- Docker
+title: '084: Open Offices are Evil, AWS Switches?, GitOps, BGP, Getting Started with CI/CD, OpenFaaS, and More'
+---
 
 I spent most of the week in Durham, NC. I was pretty busy all week trying to learn while maintaining a full calendar. Meeting new people and figuring out where I can help them scale out their needs is something I'm familiar with. What I'm not familiar with is the massive company that is Red Hat. It's not the products or the people I don't get; it's the enormity. Having a moment or two to think about it, the bigger a company gets, the longer it seems it'll take to get up to speed. This isn't a big issue for my team but, I'd like to be a fruitful contributor much sooner than later. I will certainly try to achieve that this week when I'm back in Durham. I'll also be attending the [Triangle DevOps](https://www.meetup.com/triangle-devops/) Meetup on Wednesday night. Come out and say Hi!
 
@@ -171,6 +182,3 @@ The Red Hat Ansible Consulting team is looking for a Network Automation Senior C
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1017790702703595520 >}}

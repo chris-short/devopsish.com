@@ -1,15 +1,72 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-01-17
-description = "Elastic's license problem, Dropbox layoffs, CISA recommending ad blockers, KubeLinter, kube-state-metrics, awesome-limits, folks fleeing for Signal & Telegram, and more"
-draft = false
-slug = "201"
-tags = ["Kubernetes", "cloud", "cloud native", "Cloud Native Computing Foundation", "security", "open source", "DevOps", "Slack", "Telegram", "white managers", "racism", "license", "GitHub", "protest", "secrets", "business", "limits", "Dropbox", "employees", "tech", "runtime", "Intel", "Intel CEO", "API", "CISA", "Michigan", "Flint Water Crisis", "Apple", "system", "bash", "Jewish", "fired", "Kurt Kemple", "incarceration", "Signal", "bad governor", "Sequioa", "Zapier", "developers", "development", "Tomcat", "bypass", "NTFS", "Elastic", "elasticsearch", "Kibana", "licenses", "rights", "SSPL", "insight", "outage", "macOS", "Solarwinds Supply Chain Compromise", "quantum mechanics", "RISC-V", "GitOps"]
-title = "DevOps'ish 201: Elastic's license problem, Dropbox layoffs, CISA recommending ad blockers, KubeLinter, kube-state-metrics, awesome-limits, folks fleeing for Signal & Telegram, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-01-17'
+description: Elastic's license problem, Dropbox layoffs, CISA recommending ad blockers, KubeLinter, kube-state-metrics, awesome-limits, folks fleeing for Signal & Telegram, and more
+draft: false
+slug: '201'
+tags:
+- Kubernetes
+- cloud
+- cloud native
+- Cloud Native Computing Foundation
+- security
+- open source
+- DevOps
+- Slack
+- Telegram
+- white managers
+- racism
+- license
+- GitHub
+- protest
+- secrets
+- business
+- limits
+- Dropbox
+- employees
+- tech
+- runtime
+- Intel
+- Intel CEO
+- API
+- CISA
+- Michigan
+- Flint Water Crisis
+- Apple
+- system
+- bash
+- Jewish
+- fired
+- Kurt Kemple
+- incarceration
+- Signal
+- bad governor
+- Sequioa
+- Zapier
+- developers
+- development
+- Tomcat
+- bypass
+- NTFS
+- Elastic
+- elasticsearch
+- Kibana
+- licenses
+- rights
+- SSPL
+- insight
+- outage
+- macOS
+- Solarwinds Supply Chain Compromise
+- quantum mechanics
+- RISC-V
+- GitOps
+title: 'DevOps''ish 201: Elastic''s license problem, Dropbox layoffs, CISA recommending ad blockers, KubeLinter, kube-state-metrics, awesome-limits, folks fleeing for Signal & Telegram, and more'
+---
 
 I lost a co-worker from the Ansible team this week. I’ve been struggling to get past the insanity of people younger than dying. 2021 is off to a real shit start. But, I think the biggest tech story of the week comes from Elastic. Keep reading for the details on Elastic’s idiocy. Here’s your weekly reminder that open source isn’t a business model, though.
 

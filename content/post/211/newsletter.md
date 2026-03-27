@@ -1,15 +1,43 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-03-28
-description = "He who was mentioned in DevOps'ish 145, OpenSSL updates, New AWS CEO, Apple linked to Chinese tracking apps, 92% of all on-premises Microsoft Exchange servers patched, TSMC, coffee shortage, and more"
-draft = false
-slug = "211"
-tags = ["DevOps", "Linux", "cloud", "cloud native", "Microsoft", "open source", "Google", "Exchange", "vulnerabilities", "FSF", "Kubernetes", "TLS", "Red Hat", "OpenSSL", "Discord", "Rust", "Windows", "AWS", "CEO", "Cloud Native Computing Foundation", "Apple", "Uyghur", "Outreachy", "Asian", "Linux Torvalds", "kubectl", "OpenSSH"]
-title = "DevOps'ish 211: He who was mentioned in DevOps'ish 145, OpenSSL updates, New AWS CEO, Apple linked to Chinese tracking apps, 92% of all on-premises Microsoft Exchange servers patched, TSMC, coffee shortage, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-03-28'
+description: He who was mentioned in DevOps'ish 145, OpenSSL updates, New AWS CEO, Apple linked to Chinese tracking apps, 92% of all on-premises Microsoft Exchange servers patched, TSMC, coffee shortage, and more
+draft: false
+slug: '211'
+tags:
+- DevOps
+- Linux
+- cloud
+- cloud native
+- Microsoft
+- open source
+- Google
+- Exchange
+- vulnerabilities
+- FSF
+- Kubernetes
+- TLS
+- Red Hat
+- OpenSSL
+- Discord
+- Rust
+- Windows
+- AWS
+- CEO
+- Cloud Native Computing Foundation
+- Apple
+- Uyghur
+- Outreachy
+- Asian
+- Linux Torvalds
+- kubectl
+- OpenSSH
+title: 'DevOps''ish 211: He who was mentioned in DevOps''ish 145, OpenSSL updates, New AWS CEO, Apple linked to Chinese tracking apps, 92% of all on-premises Microsoft Exchange servers patched, TSMC, coffee shortage, and more'
+---
 
 Well, what’s it like living in the last throes of the Free Software Foundation (FSF)? Many companies came out against the FSF's recent decision to re-add [he who was mentioned in DevOps'ish 145](https://devopsish.com/145/). [Red Hat probably gave the most scathing repudiation](https://www.redhat.com/en/blog/red-hat-statement-about-richard-stallmans-return-free-software-foundation-board). I can think of no worse strategy than bringing back someone who for so long abused, criticized, belittled, harassed, and bullied the people (especially women) around them. I used to support FSF and only did so after [he who was mentioned in DevOps'ish 145](https://devopsish.com/145/) ([droves of others are denouncing the decision too](https://arstechnica.com/tech-policy/2021/03/free-software-advocates-seek-removal-of-richard-stallman-and-entire-fsf-board/)).
 

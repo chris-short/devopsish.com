@@ -1,20 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-08-13T11:01:00.833Z
-description = ""
-draft = false
-slug = "036"
-tags = ["devops", "cloud native", "open source", "kubernetes", "cloud computing", "infrastructure", "linux", "github", "google", "password management", "open offices"]
-title = "036: Google, #WITBragDay, npm Security, AWS, and more!"
-image ="https://shortcdn.com/devopsish/heart-balloon-release.jpg"
-imagealt = "Love and compassion are necessities, not luxuries. Without them humanity cannot survive. —Dalai Lama"
-aliases = [
-    "devopsish-036-google-witbragday-npm-security-aws-and-more-4a3fc6a2f3bd"
-]
-
-+++
+---
+aliases:
+- devopsish-036-google-witbragday-npm-security-aws-and-more-4a3fc6a2f3bd
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-08-13T11:01:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/heart-balloon-release.jpg
+imagealt: Love and compassion are necessities, not luxuries. Without them humanity cannot survive. —Dalai Lama
+slug: '036'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- cloud computing
+- infrastructure
+- linux
+- github
+- google
+- password management
+- open offices
+title: '036: Google, #WITBragDay, npm Security, AWS, and more!'
+---
 
 This week has been a trying week for me. I've touched almost every facet of what is important to me both personally and professionally. One kid having surgery, another kid catching a cold, moving into our new home, dealing with Veteran's Affairs, addressing long-time struggles, new talent starting at work, getting things done, threats to friends on the west coast, threats to friends in Guam, Nazis on the east coast, and I did a lot of community work. This week was great on some fronts and very challenging on others. By the time 4:30 PM on Friday rolled around I was cooked. Next week, I'll be in South Florida bringing a heavy dose of [DevOps](https://devopsish.com/) to the Sunshine State.
 
@@ -85,4 +96,4 @@ GoCD is a continuous delivery tool specializing in advanced workflow modeling an
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 895349503603097601 >}}
+{{< x user="QuinnyPig" id="895349503603097601" >}}

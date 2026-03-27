@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-11-05T13:35:27.663Z
-description = ""
-draft = false
-slug = "048"
-tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "programming", "golang", "hiring", "Docker"]
-title = "048: On Opinions, MySQL, Kubernetes and Go Tools, Much DevOps, Very More"
-image ="https://shortcdn.com/devopsish/hot-air-balloon.jpg"
-imagealt = "Hot Air Balloon"
-aliases = [
-    "devopsish-048-on-opinions-mysql-kubernetes-and-go-tools-much-devops-very-more-1a566c4a796d"
-]
-
-+++
+---
+aliases:
+- devopsish-048-on-opinions-mysql-kubernetes-and-go-tools-much-devops-very-more-1a566c4a796d
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-11-05T13:35:27Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/hot-air-balloon.jpg
+imagealt: Hot Air Balloon
+slug: 048
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- serverless
+- programming
+- golang
+- hiring
+- Docker
+title: '048: On Opinions, MySQL, Kubernetes and Go Tools, Much DevOps, Very More'
+---
 
 Strong opinions, loosely held: is a state of mind I've been striving to achieve both personally and professionally. Coming from a military background, this is an incredibly hard thing to do. The Air Force, despite its rank and structure, optimized itself around free-thinking innovation. You could easily come in and punch the clock and leave at the end of the day in the Air Force. But, if you wanted to go further, it helped if you thought outside the box. As you can imagine, me thinking outside a Department of Defense box was pretty much modus operandi. I didn't do anything crazy with secret information or weird infrastructure bits that wouldn't scale. But, I certainly pushed the outer limits of outside the box thinking and had to defend it at all costs. This meant my opinion had to be so strongly held as it flew in the face of the "by the book" types that my ideas would succeed and not be sabotaged as the thought floated up the often lengthy chain of command. These days, my opinions are based on experience, assessment, and achievability. These are all fine things that are quite defensible. But, it's better to let the opinion be presented on merit and let others come around to it as opposed to forcing it through. It is okay to have a strong opinion about something. But, do not shutdown outside ideas as a result of your strong opinion. Be agile and adept. Don't death grip your ideas, be open to free thinking.
 
@@ -117,6 +126,3 @@ Ashley McNamara led Microsoft Azure OpenDev and [the entire event is available f
 
 [Introducing Tarmak — the toolkit for Kubernetes cluster provisioning and management](https://blog.jetstack.io/blog/introducing-tarmak/)
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 926431612606275584 >}}

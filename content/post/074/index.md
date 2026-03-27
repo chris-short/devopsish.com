@@ -1,17 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-05-06
-description = ""
-draft = false
-slug = "074"
-tags = ["devops", "cloud native", "open source", "kubernetes", "kubecon", "docker", "aws", "cloud", "lambda", "containers", "Site Reliability Engineering", "SRE"]
-title = "074: Kubernetes' Big Week in Europe, Three-day no meetings, High-speed networking, and More"
-image ="https://shortcdn.com/devopsish/air-show.jpg"
-imagealt = "Air show"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-05-06'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/air-show.jpg
+imagealt: Air show
+slug: '074'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- kubecon
+- docker
+- aws
+- cloud
+- lambda
+- containers
+- Site Reliability Engineering
+- SRE
+title: '074: Kubernetes'' Big Week in Europe, Three-day no meetings, High-speed networking, and More'
+---
 
 My week started out great! Spring had finally sprung here in Michigan. But, with that came something I'm allergic to. Then that turned into a sinus infection. That has now expanded into a horrible cough. I have already had one doctor's visit. But, it was a VA doc since I already had an appointment there. It might be time to see a real doctor.
 
@@ -114,6 +127,3 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 [DZone](http://careers.dzone.com/apply/DBWe0hiNCN/Site-Reliability-Engineer) is looking for a Site Reliability Engineer in Cary, NC. Based off my experiences with DZone, this is a cool place to work. To quote a decision maker at DZone, "We need strong cloud, automation, security [experience]." Check them out.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 992054069148770304 >}}

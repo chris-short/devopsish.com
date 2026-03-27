@@ -1,15 +1,45 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-11-08
-description = "On Dan Kohn's Passing, NAT slipstreaming, Raspberry Pi 400, Python overtakes Java, container registries, Raspberry Pi 400, and more"
-draft = false
-slug = "191"
-tags = ["Dan Kohn", "CNCF", "Cloud Native Computing Foundation", "community", "Kubernetes", "Linux", "DevOps", "monitoring", "Docker", "open source", "service", "Travis CI", "security", "family", "GitHub", "Java", "Python", "Raspberry Pi 400", "technology", "kernel", "KubeCon", "CKS", "distributed", "microservices", "tracing", "NAT slipstreaming", "Ant Group IPO", "SiFive", "RISC-V"]
-title = "DevOps'ish 191"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-11-08'
+description: On Dan Kohn's Passing, NAT slipstreaming, Raspberry Pi 400, Python overtakes Java, container registries, Raspberry Pi 400, and more
+draft: false
+slug: '191'
+tags:
+- Dan Kohn
+- CNCF
+- Cloud Native Computing Foundation
+- community
+- Kubernetes
+- Linux
+- DevOps
+- monitoring
+- Docker
+- open source
+- service
+- Travis CI
+- security
+- family
+- GitHub
+- Java
+- Python
+- Raspberry Pi 400
+- technology
+- kernel
+- KubeCon
+- CKS
+- distributed
+- microservices
+- tracing
+- NAT slipstreaming
+- Ant Group IPO
+- SiFive
+- RISC-V
+title: DevOps'ish 191
+---
 
 *As written for [my website](https://chrisshort.net/on-the-passing-of-dan-kohn/), a version of which is also [here](https://github.com/cncf/memorials/blob/master/dan-kohn.md).*
 

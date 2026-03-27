@@ -1,0 +1,22 @@
+---
+name: Scheduled Netlify Site Build
+on:
+  schedule:
+  - cron: '01 07 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Trigger build on Netlify
+      env:
+        TOKEN: ${{ secrets.NETLIFY_BUILD_HOOK_KEY }}
+      run: >-
+          curl -X POST -d {} https://api.netlify.com/build_hooks/${TOKEN}
+
+    - name: Push Build Status Notifications
+      if: ${{ always() }}
+      uses: desiderati/github-action-pushover@v1
+      with:
+        job-status: ${{ job.status }}
+        pushover-api-token: ${{ secrets.PUSHOVER_API_TOKEN }}
+        pushover-user-key: ${{ secrets.PUSHOVER_USER_KEY }}

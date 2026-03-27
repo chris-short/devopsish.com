@@ -1,19 +1,24 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2016"]
-date = "2016-12-25"
-description = ""
-draft = false
-slug = "003"
-tags = ["devops", "cloud native", "open source", "containers"]
-title = "003: Week of 1482642000"
-image ="https://shortcdn.com/devopsish/wrapping-paper.jpg"
-imagealt = "Merry Christmas and Happy DevOps! 🎅 🎄 🤶"
-aliases = [
-    "003-week-of-1482642000-885ce5d0fee1"
-]
-+++
+---
+aliases:
+- 003-week-of-1482642000-885ce5d0fee1
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2016'
+date: '2016-12-25'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/wrapping-paper.jpg
+imagealt: Merry Christmas and Happy DevOps! 🎅 🎄 🤶
+slug: '003'
+tags:
+- devops
+- cloud native
+- open source
+- containers
+title: '003: Week of 1482642000'
+---
 
 Merry Christmas and Happy [**DevOps**](https://devopsish.com/)! 🎅 🎄 🤶
 

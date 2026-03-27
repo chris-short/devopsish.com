@@ -1,16 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-05-13
-description = ""
-draft = false
-slug = "075"
-tags = ["devops", "cloud native", "open source", "kubernetes", "delivery", "microservices", "container", "security", "Ansible", "assholes", "containers", "Site Reliability Engineering", "SRE"]
-title = "075: Assholes, SRE, Container and Kubernetes Security, Ansible for Windows, and More"
-image ="https://shortcdn.com/devopsish/075-web.jpg"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-05-13'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/075-web.jpg
+slug: '075'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- delivery
+- microservices
+- container
+- security
+- Ansible
+- assholes
+- containers
+- Site Reliability Engineering
+- SRE
+title: '075: Assholes, SRE, Container and Kubernetes Security, Ansible for Windows, and More'
+---
 
 Assholes seemed to be the theme of the week. First, Rafael Avila de Espindola is [leaving the LLVM](https://lists.llvm.org/pipermail/llvm-dev/2018-May/122922.html) project because it adopted a code of conduct and its support of [Outreachy](https://www.outreachy.org/). Yes, Rafael is arguing that creating a framework to foster a more inclusive community and helping folks that have are at a significant disadvantage is against his "ethical views". Next, infamous bad actor, Richard Stallman, vehemently [opposed the removal of an abortion joke from glibc](https://lwn.net/SubscriberLink/753646/fdf5a92e1f87c69e/) source code. The basis for the opposition? "The fact that this is
 not strictly and grimly technical is not a reason to remove this." Because a [GNU manual isn't meant to be a "safe space"](https://lwn.net/Articles/753654/) according to Stallman. Finally, Josh Pigford suggested that [changing jobs every 12-18 months was a red flag for hiring](https://twitter.com/shpigford/status/994583740943929346?s=12). When numerous people called bullshit, Josh continually doubled-down even after [someone pointed out Josh had ten jobs in a ten-year span](https://twitter.com/mordorinc/status/995190017394819072). Instead of apologizing or better explaining his statement Josh hid behind the fact the responses to his comments were overwhelming and decided to "[not look at Twitter for a few days](https://twitter.com/Shpigford/status/995008192429088769)" as a result. In my opinion, changing jobs every twelve to eighteen months shows you have a significant ability to learn and adapt. You will also have a significant experience advantage over someone who coasted somewhere for years because it was "comfortable". All of these assholes were nice enough to self-identify. Make sure you remember who they are should you ever cross paths with them. The moral of the story is, we all need to be excellent to each other and helpful to everyone. If you are somehow against that for some reason then maybe you're in the wrong line of existence.
@@ -114,4 +128,4 @@ Have something to say on the present & future of #ops? The LISA18 CFP closes May
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 994190137016967168 >}}
+{{< x user="jpetazzo" id="994190137016967168" >}}

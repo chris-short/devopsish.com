@@ -1,20 +1,25 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-02-12T16:55:14.962Z
-description = ""
-draft = false
-slug = "010"
-tags = ["devops", "cloud native", "open source", "database", "containers"]
-title = "010: Week of 1486857600"
-image ="https://shortcdn.com/devopsish/edinburgh-scotland-feb-2017.jpg"
-imagealt = "Edinburgh, Scotland, United Kingdom — 11 Feb 2017"
-aliases = [
-    "devopsish-weekly-010-week-of-1486857600-28889c38fd68"
-]
-
-+++
+---
+aliases:
+- devopsish-weekly-010-week-of-1486857600-28889c38fd68
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-02-12T16:55:14Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/edinburgh-scotland-feb-2017.jpg
+imagealt: Edinburgh, Scotland, United Kingdom — 11 Feb 2017
+slug: '010'
+tags:
+- devops
+- cloud native
+- open source
+- database
+- containers
+title: '010: Week of 1486857600'
+---
 
 It has been a very busy week for me. I have been in Scotland since Tuesday. Jet lag is a real thing but, I have to say I have met some of the nicest people here (and I am a Southerner). As far as [**DevOps**](https://devopsish.com/) this week, I have been head down DevOps'ing. I have also been building bridges between teams in our global company. It is very exciting and despite constantly being tired the connections are happening.
 

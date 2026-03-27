@@ -1,15 +1,25 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-09-08
-description = "Your 39 bps matters, happy little hybrid clouds, Kubernetes with a side of service mesh, HA SQLite, and more"
-draft = false
-slug = "144"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Docker Inc", "Docker"]
-title = "144: Your 39 bps matters, happy little hybrid clouds, Kubernetes with a side of service mesh, HA SQLite, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-09-08'
+description: Your 39 bps matters, happy little hybrid clouds, Kubernetes with a side of service mesh, HA SQLite, and more
+draft: false
+slug: '144'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- cloud native
+- DevOps news
+- Kubernetes news
+- Docker Inc
+- Docker
+title: '144: Your 39 bps matters, happy little hybrid clouds, Kubernetes with a side of service mesh, HA SQLite, and more'
+---
 
 This week I read about a study of 17 languages that suggests humans, "no matter how fast or slowly languages are spoken, they tend to send information at about the same rate: [39 bits per second](https://www.sciencemag.org/news/2019/09/human-speech-may-have-universal-transmission-rate-39-bits-second?utm_source=devopsish&utm_medium=newsletter&utm_campaign=144), about twice the speed of Morse code." The study points out that some languages are clearly "faster" than others but, [a steady average rate of 39.15 **bits per second** (bps) kept coming up](https://advances.sciencemag.org/content/5/9/eaaw2594?utm_source=devopsish&utm_medium=newsletter&utm_campaign=144). This study fascinated me since I talk to people as part of my work. My mind jumped to being on stage somewhere and spewing 1s and 0s out at a measly **17.6 kilobytes per hour**. That is such a low data rate. It's relatively equal to [this random file I found on GitHub](https://raw.githubusercontent.com/cttobin/ggthemr/master/misc/build.txt?utm_source=devopsish&utm_medium=newsletter&utm_campaign=144). Telemetry data alone on some of the oldest satellites I ever worked with was 4 kbps of status, position, orientation, and other measurements. That's a continuously updated status update, and it only needed 4 kbps.
 
@@ -96,6 +106,6 @@ Balance rapid feature development and production stability with alert automation
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1169713613088722944 >}}
+{{< x user="puja108" id="1169713613088722944" >}}
 
 [See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/144/notes.md)

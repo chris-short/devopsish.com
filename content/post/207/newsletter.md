@@ -1,15 +1,49 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-02-28
-description = "Solarwinds, 4 hour a week Kubernetes maintainer, mischievous Mailchimp, secrets management, Digital Ocean IPO, Sysdig, BOOP, Flux, and More"
-draft = false
-slug = "207"
-tags = ["Kubernetes", "cloud", "time", "DevOps", "Cloud Native", "software", "open source", "secrets management", "development", "CNCF", "DNS", "LaunchDarkly", "git", "Mailchimp", "Raindrop.io", "EmailOctopus", "Digital Ocean", "Google", "JUST", "vulnerabilities", "Citi", "Microsoft", "IBM", "Sysdig", "kernel", "eBPF", "boop", "Flux", "GitOps", "security", "automation", "hybrid cloud", "developer"]
-title = "DevOps'ish 207: Solarwinds, 4 hour a week Kubernetes maintainer, mischievous Mailchimp, secrets management, Digital Ocean IPO, Sysdig, BOOP, Flux, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-02-28'
+description: Solarwinds, 4 hour a week Kubernetes maintainer, mischievous Mailchimp, secrets management, Digital Ocean IPO, Sysdig, BOOP, Flux, and More
+draft: false
+slug: '207'
+tags:
+- Kubernetes
+- cloud
+- time
+- DevOps
+- Cloud Native
+- software
+- open source
+- secrets management
+- development
+- CNCF
+- DNS
+- LaunchDarkly
+- git
+- Mailchimp
+- Raindrop.io
+- EmailOctopus
+- Digital Ocean
+- Google
+- JUST
+- vulnerabilities
+- Citi
+- Microsoft
+- IBM
+- Sysdig
+- kernel
+- eBPF
+- boop
+- Flux
+- GitOps
+- security
+- automation
+- hybrid cloud
+- developer
+title: 'DevOps''ish 207: Solarwinds, 4 hour a week Kubernetes maintainer, mischievous Mailchimp, secrets management, Digital Ocean IPO, Sysdig, BOOP, Flux, and More'
+---
 
 DevOps'ish is in a state of spring cleaning. First, I've found a tool that I like more than Pocket to bookmark and save pages in [Raindrop.io](https://raindrop.io/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish). All the Recommended Reads automation is now pulling from Raindrop.io. Then three Zapier rules ferry everything off to the appropriate places. I made that transition midweek.
 

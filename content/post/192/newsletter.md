@@ -1,15 +1,55 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-11-15
-description = "Lockdown (again), Dan Kohn, KubeCon, interview lessons learned, At Work in Pain, remote work, Google Photos proves its monopolistic behavior, inclusive language, and more"
-draft = false
-slug = "192"
-tags = ["Google", "open source", "KubeCon", "cloud native", "home office", "DevOps", "At Work in Pain", "Dan Kohn", "Google Photos", "Apple", "Google Photos", "Red Hat", "Kubernetes", "YouTube", "youtube-dl", "Veterans", "community", "Ginny Rometty", "Microsoft", "inclusive language", "security", "lockdown", "AWS", "tech industry", "Julia Ferraioli", "POPcast", "Zoom", "IBM", "psychlogical safety", "distributed systems", "git", "Daniel Stenberg", "Xi Jinping", "Ant Group IPO", "microservices", "CNCF", "Cloud Native Computing Foundation", "multi factor authentication", "Big Sur"]
-title = "DevOps'ish 192"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-11-15'
+description: Lockdown (again), Dan Kohn, KubeCon, interview lessons learned, At Work in Pain, remote work, Google Photos proves its monopolistic behavior, inclusive language, and more
+draft: false
+slug: '192'
+tags:
+- Google
+- open source
+- KubeCon
+- cloud native
+- home office
+- DevOps
+- At Work in Pain
+- Dan Kohn
+- Google Photos
+- Apple
+- Google Photos
+- Red Hat
+- Kubernetes
+- YouTube
+- youtube-dl
+- Veterans
+- community
+- Ginny Rometty
+- Microsoft
+- inclusive language
+- security
+- lockdown
+- AWS
+- tech industry
+- Julia Ferraioli
+- POPcast
+- Zoom
+- IBM
+- psychlogical safety
+- distributed systems
+- git
+- Daniel Stenberg
+- Xi Jinping
+- Ant Group IPO
+- microservices
+- CNCF
+- Cloud Native Computing Foundation
+- multi factor authentication
+- Big Sur
+title: DevOps'ish 192
+---
 
 This week has been quite a blur. Working backward (literally and figuratively), we’re re-entering lockdown as a household again. A visit with my pain management doctor on Thursday in which he told me the hospital we both live near has seen COVID-19 admissions double this week pushed things very front of mind. [A statement from our state’s governor on Thursday](https://news.yahoo.com/whitmer-michigan-worst-part-pandemic-220509661.html) put things into motion towards lockdown (which she can no longer mandate thanks to our state legislature passing a law preventing her from doing so; nuts, I know). With lots of data in hand, we made the hard decision Thursday night. I know the readers in European nations (and probably elsewhere) are  wondering, "How weren’t you in lockdown sooner?!?" Well, there’s not a state-level or national-level mandate to do so. We’re flying blind here in the US, and each household has to make its own decision. This is why we’re in the situation we’re in (again). But, Max took it in stride, saying that he’d still be able to see his friends on Zoom,  with enthusiasm. Our kids are so resilient. But, I am concerned about the long term effects of [all the tumult and how it will affect our kids in the long-term](https://www.wgbh.org/news/education/2020/11/11/covid-and-the-classroom-competition).
 

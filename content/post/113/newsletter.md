@@ -1,15 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-02-03
-description = "Ansible Operator, Groundhog Day, DevOps Team Topologies, OSS CS Degree, Multi-Arch Home Kubernetes Cluster, OpenFaaS Cloud, and More"
-draft = false
-slug = "113"
-tags = ["kubernetes", "docker", "devops", "open source", "cloud", "tech", "github", "cloud native", "ansible", "container", "security", "groundhog", "docker", "Ansible Operators", "GitOps"]
-title = "113: Ansible Operator, Groundhog Day, DevOps Team Topologies, OSS CS Degree, Multi-Arch Home Kubernetes Cluster, OpenFaaS Cloud, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-02-03'
+description: Ansible Operator, Groundhog Day, DevOps Team Topologies, OSS CS Degree, Multi-Arch Home Kubernetes Cluster, OpenFaaS Cloud, and More
+draft: false
+slug: '113'
+tags:
+- kubernetes
+- docker
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- ansible
+- container
+- security
+- groundhog
+- docker
+- Ansible Operators
+- GitOps
+title: '113: Ansible Operator, Groundhog Day, DevOps Team Topologies, OSS CS Degree, Multi-Arch Home Kubernetes Cluster, OpenFaaS Cloud, and More'
+---
 
 If you received this e-mail, it means we all made it through another [Groundhog Day](https://www.imdb.com/title/tt0107048/) here in the US ([it's a real "holiday"](https://en.wikipedia.org/wiki/Groundhog_Day)). The movie, starring Bill Murray, is hands down, bar none one of the best movies ever made. A curmudgeonly news reporter is sent to cover a groundhog (*Marmota monax*, also called "woodchuck") peeking out of its hole; if it sees its shadow, it means six more weeks of winter. But the reporter ends up repeating the same day over and over again until he gets his poop in a group. It ends happily, but the journey was truly formative. Again, this movie is up there with some of the best.
 

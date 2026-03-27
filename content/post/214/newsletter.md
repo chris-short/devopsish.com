@@ -1,15 +1,49 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-04-17
-description = ["Kubernetes mentioned 26 times, Burnout, VMware spun off, Google's FloC, Kanban, chip shortage, shell operator and more"]
-draft = false
-slug = "214"
-tags = ["Kubernetes", "burner", "DevOps", "open source", "cloud", "cloud native", "cluster", "ingress", "burnout", "Amazon", "CNCF", "tech", "pay", "edge", "Chrome", "OpenShift", "distributed tracing", "Argo", "emissary", "Operators", "developers", "compassion", "VMware", "IBM", "security", "FLoC", "Google", "APIs", "Kanban", "Intel", "TSMC", "chip shortage"]
-title = "DevOps'ish 214: Kubernetes mentioned 26 times, Burnout, VMware spun off, Google's FloC, Kanban, chip shortage, shell operator and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-04-17'
+description:
+- Kubernetes mentioned 26 times, Burnout, VMware spun off, Google's FloC, Kanban, chip shortage, shell operator and more
+draft: false
+slug: '214'
+tags:
+- Kubernetes
+- burner
+- DevOps
+- open source
+- cloud
+- cloud native
+- cluster
+- ingress
+- burnout
+- Amazon
+- CNCF
+- tech
+- pay
+- edge
+- Chrome
+- OpenShift
+- distributed tracing
+- Argo
+- emissary
+- Operators
+- developers
+- compassion
+- VMware
+- IBM
+- security
+- FLoC
+- Google
+- APIs
+- Kanban
+- Intel
+- TSMC
+- chip shortage
+title: 'DevOps''ish 214: Kubernetes mentioned 26 times, Burnout, VMware spun off, Google''s FloC, Kanban, chip shortage, shell operator and more'
+---
 
 We've had [another rough week](https://twitter.com/ChrisShort/status/1381365508470145027) in the Short household. The adults, at least, are exhausted. [Max is fully energized](https://twitter.com/ChrisShort/status/1382694680350064643). Sunny is getting [nursed back to health](https://twitter.com/ChrisShort/status/1381590349408243718).
 

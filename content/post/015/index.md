@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-03-19T09:02:00.782Z
-description = ""
-draft = false
-slug = "015"
-tags = ["devops", "cloud native", "open source", "intel", "github", "google", "containers", "licenses", "Docker"]
-title = "015: Week of 1489896000"
-image ="https://shortcdn.com/devopsish/womens-track-and-field.jpg"
-imagealt = "Why Doesn't DevOps Consider Front End Performance More Often?"
-aliases = [
-    "devopsish-weekly-015-week-of-1489896000-fc5adb2ccf34"
-]
-
-+++
+---
+aliases:
+- devopsish-weekly-015-week-of-1489896000-fc5adb2ccf34
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-03-19T09:02:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/womens-track-and-field.jpg
+imagealt: Why Doesn't DevOps Consider Front End Performance More Often?
+slug: '015'
+tags:
+- devops
+- cloud native
+- open source
+- intel
+- github
+- google
+- containers
+- licenses
+- Docker
+title: '015: Week of 1489896000'
+---
 
 I have recently taken over as a co-organizer of [**Triangle DevOps**](https://www.meetup.com/Triangle-DevOps/). In a meeting with the other primary co-organizer we talked a little about performance. [**DevOps**](https://devopsish.com/) considers network, code, system, and other aspects of performance. Yet, we rarely, if ever, consider what we can do to help the most critical part of our products; the front end.
 

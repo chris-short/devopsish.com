@@ -1,20 +1,24 @@
-+++
-
-author = "Chris Short"
-categories = ["Commentary", "2017"]
-date = 2017-10-10
-description = "As part of the Open Spaces at DevOpsDays Raleigh, the group decided to do a Book Club to share interesting books, podcasts, etc."
-draft = false
-slug = "devopsdays-raleigh-2017-book-club"
-tags = ["devops", "cloud native", "open source", "books", "infrastructure"]
-title = "DevOpsDays Raleigh 2017 Book Club"
-image = "https://shortcdn.com/devopsish/DevOpsDays-Raleigh-2017-Book-Club.jpg"
-imagealt = "DevOpsDays Raleigh 2017 Speakers and Attendees During the Book Club Open Space"
-aliases = [
-    "devopsdays-raleigh-2017-book-club-e5dccc8f7943"
-]
-
-+++
+---
+aliases:
+- devopsdays-raleigh-2017-book-club-e5dccc8f7943
+author: Chris Short
+categories:
+- Commentary
+- '2017'
+date: '2017-10-10'
+description: As part of the Open Spaces at DevOpsDays Raleigh, the group decided to do a Book Club to share interesting books, podcasts, etc.
+draft: false
+image: https://shortcdn.com/devopsish/DevOpsDays-Raleigh-2017-Book-Club.jpg
+imagealt: DevOpsDays Raleigh 2017 Speakers and Attendees During the Book Club Open Space
+slug: devopsdays-raleigh-2017-book-club
+tags:
+- devops
+- cloud native
+- open source
+- books
+- infrastructure
+title: DevOpsDays Raleigh 2017 Book Club
+---
 
 As part of the Open Spaces at [DevOpsDays Raleigh](https://www.devopsdays.org/events/2017-raleigh/welcome/), the group decided to do a "Book Club" to share interesting books, podcasts, etc. that would be interesting to us DevOps folks. The members of the conversation were Magnus Hedemark (thanks for tweeting all these), Nirmal Mehta, John Willis, Aaron Huslage, and myself. Here is a compiled list from that discussion:
 

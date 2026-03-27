@@ -1,18 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-02-10T02:00:00.766Z
-description = ""
-draft = false
-slug = "062"
-tags = ["devops", "cloud native", "open source", "kubernetes", "go", "golang", "18f", "meltdown", "chaos engineering", "ansible", "database", "detroit", "spectre", "Docker"]
-title = "062: Saddling Up, Mergers, Deaths, What's Up with 18F, Chaos Engineering, Performance Impact of Meltdown and More!"
-image ="https://shortcdn.com/devopsish/kris-nova-cascades-mt-rainier.jpg"
-imagealt = "Cascades from Mt. Rainier by Kris Nova"
-imagecap = "Cascades from Mt. Rainier by [Kris Nova](https://novasummits.com/)"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-02-10T02:00:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/kris-nova-cascades-mt-rainier.jpg
+imagealt: Cascades from Mt. Rainier by Kris Nova
+imagecap: Cascades from Mt. Rainier by [Kris Nova](https://novasummits.com/)
+slug: '062'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- go
+- golang
+- 18f
+- meltdown
+- chaos engineering
+- ansible
+- database
+- detroit
+- spectre
+- Docker
+title: '062: Saddling Up, Mergers, Deaths, What''s Up with 18F, Chaos Engineering, Performance Impact of Meltdown and More!'
+---
 
 This was a very interesting week for me. I participated in a chronic pain treatment study at the Ann Arbor VA Hospital early Tuesday morning. The experience, while odd, went incredibly well. Today is the first day I have felt noticeable pain which is likely due to managing Max at my nephew's birthday date. If you know me, you know this is an incredible feat. On Thursday, I attended a brand new [Kubernetes Meetup in Downtown Detroit](https://www.meetup.com/Detroit-Kubernetes-Docker-all-things-Cloud-Native/). It was fabulous! Mack and Uzo have some great ideas and I hope to collaborate with them on a few ideas we came up with after the Meetup. The coming week will be nuts!
 
@@ -100,6 +115,3 @@ GitHub is not a package repo:[jteeuwen/go-bindata](https://github.com/jteeuwen/g
 
 [devops-israel/aws-inventory](https://github.com/devops-israel/aws-inventory): AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 960827149585395712 >}}

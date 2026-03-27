@@ -1,21 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-01-20
-description = "Kubernetes Security, Earn More in DevOps, Jim Whitehurst, Where to Work in Tech, and More"
-draft = false
-slug = "111"
-tags = ["kubernetes", "docker", "devops", "open source", "cloud", "tech", "github", "cloud native", "ansible", "aws", "linux", "Red Hat", "container", "security", "ITIL"]
-title = "111: Kubernetes Security, Earn More in DevOps, Jim Whitehurst, Where to Work in Tech, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-01-20'
+description: Kubernetes Security, Earn More in DevOps, Jim Whitehurst, Where to Work in Tech, and More
+draft: false
+slug: '111'
+tags:
+- kubernetes
+- docker
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- ansible
+- aws
+- linux
+- Red Hat
+- container
+- security
+- ITIL
+title: '111: Kubernetes Security, Earn More in DevOps, Jim Whitehurst, Where to Work in Tech, and More'
+---
 
 I spent most of the week in Raleigh, North Carolina in and around Red Hat Tower. I was in a two-day All Product Marketing Summit. My boss is so amazing though. She asked how I was holding up at one point (that's what builds psychological safety). My response, "This is kinda close to my personal hell. Not trying to be dramatic. But, ya, I'm super uncomfortable." Then something rather Red Hat happened.
 
 [Red Hat investors approve $34B merger agreement with IBM](https://www.newsobserver.com/news/business/article224619300.html). Jim Whitehurst decided to take the investor call to certify the investor vote in the Red Hat Annex where we were having our meeting. Jim is a dynamic leader. His time as COO at Delta made him appreciate process, rigor, and discipline. When he came to Red Hat, he adapted in a way most leaders might never have been able to. After the investor call, Jim decided to talk to us group of technical and product marketers. This is not your stereotypical group of marketing folks; there are Kubernetes and Ansible contributors in the room as well as Red Hat product contributors.
-
-{{< tweet 1085856450570846209 >}}
 
 We grilled Jim with very tough questions. They were all answered with grace and candor. It's rare that employees can see that in their CEO. It's beyond refreshing to see this and I still look forward to being a part of this ride at Red Hat.
 
@@ -112,8 +126,5 @@ Model Docker-based build workflows more effectively with our GoCD Kubernetes int
 
 [nektos/act](https://github.com/nektos/act) — Run your GitHub Actions locally
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1085291025143382017 >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

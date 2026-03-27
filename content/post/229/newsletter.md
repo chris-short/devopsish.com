@@ -1,15 +1,68 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-08-08
-description = ["Kubernetes 1.22, KubeCon schedule announced, security fails abound, Zoom's paltry fine, finally death to 996, NSA Kubernetes Hardening Guidance, and much more"]
-draft = false
-slug = "229"
-tags = ["Kubernetes", "code", "DevOps", "KubeCon", "tech", "news", "cloud native", "containers", "Amazon", "DNS", "security", "infrastructure", "policy", "engineering", "reliability", "time", "time", "HTTP2", "Windows", "servers", "Terraform", "pod", "controller", "release", "GitHub", "SRE", "rootless containers", "privacy", "996", "GitOps", "Solarwinds", "Intel", "Tekton", "ArgoCD", "Sourcegraph", "docker-compose", "Kompose", "Google", "Apple", "backdoor", "Microsoft", "open source", "hard drive", "GPS", "Git", "developers", "AWS", "UX", "VirtualBox", "macOS", "Linux"]
-title = "DevOps'ish 229: Kubernetes 1.22, KubeCon schedule announced, security fails abound, Zoom's paltry fine, finally death to 996, NSA Kubernetes Hardening Guidance, and much more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-08-08'
+description:
+- Kubernetes 1.22, KubeCon schedule announced, security fails abound, Zoom's paltry fine, finally death to 996, NSA Kubernetes Hardening Guidance, and much more
+draft: false
+slug: '229'
+tags:
+- Kubernetes
+- code
+- DevOps
+- KubeCon
+- tech
+- news
+- cloud native
+- containers
+- Amazon
+- DNS
+- security
+- infrastructure
+- policy
+- engineering
+- reliability
+- time
+- time
+- HTTP2
+- Windows
+- servers
+- Terraform
+- pod
+- controller
+- release
+- GitHub
+- SRE
+- rootless containers
+- privacy
+- '996'
+- GitOps
+- Solarwinds
+- Intel
+- Tekton
+- ArgoCD
+- Sourcegraph
+- docker-compose
+- Kompose
+- Google
+- Apple
+- backdoor
+- Microsoft
+- open source
+- hard drive
+- GPS
+- Git
+- developers
+- AWS
+- UX
+- VirtualBox
+- macOS
+- Linux
+title: 'DevOps''ish 229: Kubernetes 1.22, KubeCon schedule announced, security fails abound, Zoom''s paltry fine, finally death to 996, NSA Kubernetes Hardening Guidance, and much more'
+---
 
 Kubernetes 1.22 shipped this week. I suggest you, at a minimum, read the [release blog post](https://kubernetes.io/blog/2021/08/04/kubernetes-1-22-release-announcement/) or take a gander at the [CHANGELOG](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.22.md) and definitely read the [No, really, you MUST read this before you upgrade](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.22.md#no-really-you-must-read-this-before-you-upgrade). Some of the bigger changes:
 

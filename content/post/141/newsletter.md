@@ -1,15 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-08-18
-description = "Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more"
-draft = false
-slug = "141"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Ansible", "OpenShift", "Google", "Red Hat", "AWS", "BPF", "database", "ITIL", "Kubernetes Operators", "GitOps"]
-title = "141: Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-08-18'
+description: Joining OpenShift, The BPF version of Homer's Odyssey, GitOps for database schemas, Let me Google bad company for you, and more
+draft: false
+slug: '141'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- cloud native
+- DevOps news
+- Kubernetes news
+- Ansible
+- OpenShift
+- Google
+- Red Hat
+- AWS
+- BPF
+- database
+- ITIL
+- Kubernetes Operators
+- GitOps
+title: '141: Joining OpenShift, The BPF version of Homer''s Odyssey, GitOps for database schemas, Let me Google bad company for you, and more'
+---
 
 This Monday (2019-08-19) will be my first day as Principal Technical Marketing Manager on the Cloud Platforms team at Red Hat. What does that mean? OpenShift (a lot of OpenShift), Kubernetes, containers, Operators, and all the associated bits will be my day job. Helping folks help themselves with technology is still and always will be the name of my game. But, working full time in the Kubernetes or cloud native ecosystem was a 2020 goal. Crossing off 2020 goals in 2019. #winning [Read More...](https://chrisshort.net/joining-forces-with-openshift/)
 
@@ -105,8 +123,5 @@ Featuring interviews with Developer Relations professionals from many successful
 
 [vmware/tern](https://github.com/vmware/tern) — Open Source compliance for containers
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1162371826401460224 >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

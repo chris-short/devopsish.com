@@ -1,20 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-03-12T06:07:00.785Z
-description = ""
-draft = false
-slug = "014"
-tags = ["devops", "cloud native", "open source", "detroit", "linux", "selinux", "women in tech", "google", "containers", "Docker"]
-title = "014: Week of 1489294800"
-image ="https://shortcdn.com/devopsish/my-2017-tech-influencers.png"
-imagealt = "My Tech Influencers"
-aliases = [
-    "devopsish-weekly-014-week-of-1489294800-ca73bd9bd25e"
-]
-
-+++
+---
+aliases:
+- devopsish-weekly-014-week-of-1489294800-ca73bd9bd25e
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-03-12T06:07:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/my-2017-tech-influencers.png
+imagealt: My Tech Influencers
+slug: '014'
+tags:
+- devops
+- cloud native
+- open source
+- detroit
+- linux
+- selinux
+- women in tech
+- google
+- containers
+- Docker
+title: '014: Week of 1489294800'
+---
 
 March is Women's History Month and this past Wednesday was International Women's Day. I have a lot of people that influence me. I observe and take notes from a wide group of people who have great experiences to learn. This week I would like to take a moment and recognize some of the fantastic people that have influenced and helped me over the course of my DevOps journey. This list is 100% personal and selfish. You should make and share your own (even if it's just one).
 
@@ -74,6 +84,3 @@ What if I told you that, like in Star Wars, [DevOps has a dark side](https://chr
 
 Who remembers Windows 95's disk defragmentation tool? I sure do! I ran it every Friday night for YEARS. [Relive the good ole days](http://hultbergs.org/defrag/) complete with sound.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 838798979353587713 >}}

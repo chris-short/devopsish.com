@@ -1,15 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-07-21
-description = "Contains 3% Kubernetes, Open Source perception, long live CIRT, Linkerd 2.4, TTY, and more"
-draft = false
-slug = "137"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "security", "DevOps news", "Kubernetes news", "JEDI", "Kubernetes Operators", "LGBTQ+", "quantum computing"]
-title = "137: Contains 3% Kubernetes, Open Source perception, long live CIRT, Linkerd 2.4, TTY, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-07-21'
+description: Contains 3% Kubernetes, Open Source perception, long live CIRT, Linkerd 2.4, TTY, and more
+draft: false
+slug: '137'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- GitHub
+- cloud native
+- security
+- DevOps news
+- Kubernetes news
+- JEDI
+- Kubernetes Operators
+- LGBTQ+
+- quantum computing
+title: '137: Contains 3% Kubernetes, Open Source perception, long live CIRT, Linkerd 2.4, TTY, and more'
+---
 
 It's a big newsletter this week and I've made a lot of notes so let's get to it!
 

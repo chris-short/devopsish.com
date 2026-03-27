@@ -1,14 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-12-30
-description = "Stats, Emily Freeman, IPOs, Kubernetes Future, Go, and More"
-draft = false
-slug = "108"
-tags = ["devops", "kubernetes", "open source", "cloud", "newsletter", "cloud native", "aws", "gocd", "tech", "security", "serverless", "google", "go", "Docker", "containers"]
-title = "108: Stats, Emily Freeman, IPOs, Kubernetes Future, Go, and More"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-12-30'
+description: Stats, Emily Freeman, IPOs, Kubernetes Future, Go, and More
+draft: false
+slug: '108'
+tags:
+- devops
+- kubernetes
+- open source
+- cloud
+- newsletter
+- cloud native
+- aws
+- gocd
+- tech
+- security
+- serverless
+- google
+- go
+- Docker
+- containers
+title: '108: Stats, Emily Freeman, IPOs, Kubernetes Future, Go, and More'
+---
 
 Since this is the last newsletter of the year, I wanted to provide some stats on how DevOps'ish did in 2018. Thank you, readers, for making DevOps'ish one of the best damn newsletters on the planet! I wish you all the best in 2019.
 
@@ -95,8 +112,5 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) — Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1078750833410375680 >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

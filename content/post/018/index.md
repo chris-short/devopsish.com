@@ -1,20 +1,25 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-04-09T11:11:01.056Z
-description = ""
-draft = false
-slug = "018"
-tags = ["devops", "cloud native", "open source", "kubernetes", "Docker"]
-title = "018: Week of 1491710400"
-image ="https://shortcdn.com/devopsish/stormtrooper-lightbulb.jpg"
-imagealt = "How many Stormtroopers does it take to screw in a light bulb?"
-aliases = [
-    "devopsish-weekly-018-week-of-1491710400-5677d6d9828b"
-]
-
-+++
+---
+aliases:
+- devopsish-weekly-018-week-of-1491710400-5677d6d9828b
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-04-09T11:11:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/stormtrooper-lightbulb.jpg
+imagealt: How many Stormtroopers does it take to screw in a light bulb?
+slug: 018
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- Docker
+title: '018: Week of 1491710400'
+---
 
 I did so many different things this week! DevOps is really great and my role working between teams really brings me different challenges daily. Be it cultural or technical I am rarely doing the same thing hour-by-hour. Two things that did take a lot of my time this week were building new MySQL. database replicas (you know... state) and Mac server monitoring.
 
@@ -60,8 +65,3 @@ In a surprise to no one, [San Francisco has gotten so expensive, some tech compa
 
 I wrote some Go and wrote about it! [Golang to the rescue: Saving DevOps from TLS turmoil](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program).
 
-## DevOps'ish Tweet of the Week
-
-Another tweet from Kelsey Hightower this week. I am particularly interested in seeing how this pans out:
-
-{{< tweet 849617831268417538 >}}

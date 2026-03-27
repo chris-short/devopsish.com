@@ -1,15 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-03-10
-description = "Kubernetes, People, Say AMI, Ghidra, Terraform, Git, OperatorHub, and More"
-draft = false
-slug = "118"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "Ghidra", "Terraform", "docker", "azure", "operator", "Docker Inc", "Linus Torvalds", "GitOps"]
-title = "118: Kubernetes, People, Say AMI, Ghidra, Terraform, Git, OperatorHub, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-03-10'
+description: Kubernetes, People, Say AMI, Ghidra, Terraform, Git, OperatorHub, and More
+draft: false
+slug: '118'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- ansible
+- container
+- security
+- Ghidra
+- Terraform
+- docker
+- azure
+- operator
+- Docker Inc
+- Linus Torvalds
+- GitOps
+title: '118: Kubernetes, People, Say AMI, Ghidra, Terraform, Git, OperatorHub, and More'
+---
 
 Life is more significant than tech. We all recognize this fact but, seldom do we internalize it and own it. This newsletter attempts to imitate life. Injecting needed doses of humanity and thought provocation into your inbox every week. People, Process, and Tools involves all facets of each. They're in that order for a reason. I can load your inbox up every week with endless lists of tools. They aren't going to fix your broken processes though. The people implementing those processes need to have their minds open to new ideas and methods.
 
@@ -110,6 +130,6 @@ Learn more about GoCD's Azure plugin: https://extensions-docs.gocd.org/azure/cur
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1103746792850669568 >}}
+{{< x user="vbatts" id="1103746792850669568" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

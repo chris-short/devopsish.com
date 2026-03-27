@@ -1,18 +1,32 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-02-25
-description = ""
-draft = false
-slug = "064"
-tags = ["devops", "cloud native", "open source", "Kubernetes", "leadership", "culture", "go", "golang", "linux", "google", "docker", "password management", "containers"]
-title = "064: DODCLT, {code} death knell, Leadership, Kubernetes Good and Bad, Docker and moving on from it, and More!"
-image ="https://shortcdn.com/devopsish/jet-engine.jpg"
-imagealt = "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. —Mark Twain"
-imagecap = "\"Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. —Mark Twain\""
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-02-25'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/jet-engine.jpg
+imagealt: Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. —Mark Twain
+imagecap: '"Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. —Mark Twain"'
+slug: '064'
+tags:
+- devops
+- cloud native
+- open source
+- Kubernetes
+- leadership
+- culture
+- go
+- golang
+- linux
+- google
+- docker
+- password management
+- containers
+title: '064: DODCLT, {code} death knell, Leadership, Kubernetes Good and Bad, Docker and moving on from it, and More!'
+---
 
 I'm fresh off the plane from [DevOpsDays Charlotte 2018](https://www.devopsdays.org/events/2018-charlotte/welcome/) when I'm writing this. I have to say a HUGE thank you to the organizers, sponsors, and speakers. [The venue was beyond amazing](https://twitter.com/editingemily/status/966735443436941317). Red Ventures knows how to host a crowd in style. I definitely feel like I need to fly out the morning after these events though. Traveling on a Friday is not ideal. It never fails that I end up missing a connection I wanted to make because I just flat out ran out of time. DevOps is a lot of things. I categorize this newsletter (and DevOps as a whole) into People, Process, and Tools. That is the order of importance; people come first. Always.
 
@@ -124,4 +138,4 @@ Vladimir Vivien: [Twitter](https://twitter.com/VladimirVivien) [LinkedIn](https:
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 965857172117737472 >}}
+{{< x user="eMobilis" id="965857172117737472" >}}

@@ -1,15 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-11-10
-description = "UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More"
-draft = false
-slug = "153"
-tags = ["DevOps", "KubeCon", "KubeKhan", "Kubernetes", "cloud native", "AWS", "Microsoft", "PodCTL", "open source", "OpenTitan", "Vitess", "GitOps", "security", "Helm", "Ansible Operators"]
-title = "153: The week before KubeCon, KubeKhan is back, PodCTL, Microsoft making moves, GitOps, AWS Savings Plans, OpenTitan, Vitess, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-11-10'
+description: 'UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More'
+draft: false
+slug: '153'
+tags:
+- DevOps
+- KubeCon
+- KubeKhan
+- Kubernetes
+- cloud native
+- AWS
+- Microsoft
+- PodCTL
+- open source
+- OpenTitan
+- Vitess
+- GitOps
+- security
+- Helm
+- Ansible Operators
+title: '153: The week before KubeCon, KubeKhan is back, PodCTL, Microsoft making moves, GitOps, AWS Savings Plans, OpenTitan, Vitess, and more'
+---
 
 Note: DevOps'ish will no longer publish an RSS feed. It's a [business decision](https://github.com/chris-short/devopsish.com/commit/8a1c7e0ec934aff626a10bf5f7b8b6d2e3faf53c) at this point. Please [subscribe](https://devopsish.com/subscribe/) via e-mail. Subscribers seem to be the only metric potential sponsors care about. This change should ensure the long term viability of DevOps'ish.
 
@@ -106,6 +122,3 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 [No Maintenance Intended](http://unmaintained.tech/) — "The linking project's code is provided as-is, and is not actively maintained."
 
-## Tweet of the Week
-
-{{< tweet 1191789413279264768 >}}

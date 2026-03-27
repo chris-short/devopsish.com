@@ -1,15 +1,89 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-11-22
-description = "KubeCon, need to improve all virtual events, inclusive leaders, GitOps WG, DKIM, cloud native acquisitions, youtube-dl is back, big problems with Big Sur, and more"
-draft = false
-slug = "193"
-tags = ["virtual events", "complexity", "cloud", "security", "cloud native", "open source", "DevOps", "Apple", "community", "time", "platform", "IBM", "Kubernetes", "attend", "reason", "KubeCon", "IoT", "CNCF", "awk", "conference", "news", "GitHub", "Microsoft", "developers", "employers", "teach", "workloads", "leaders", "internet", "Twitter", "fleets", "friction", "postgresql", "Big Sur", "Fedora", "ARM", "Crunchy Data", "WSL", "attendees", "hallway track", "Red Hat", "culture", "cloud native ecosystem", "Intrado", "inclusive behavior", "GitOps", "Amazon", "container", "eBook", "hybrid cloud", "Operators", "Linux", "network", "IPO", "Xi Jinping", "Jack Ma", "Instana", "Google", "youtube-dl", "YouTube", "EFF", "OpenTelemetry", "observability", "YAML", "Mac", "GNU", "FrontPage", "Windows", "Zoom", "Slack", "Rambly", "Ian Coldwater", "Cloud Native Security White Paper"]
-title = "DevOps'ish 193"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-11-22'
+description: KubeCon, need to improve all virtual events, inclusive leaders, GitOps WG, DKIM, cloud native acquisitions, youtube-dl is back, big problems with Big Sur, and more
+draft: false
+slug: '193'
+tags:
+- virtual events
+- complexity
+- cloud
+- security
+- cloud native
+- open source
+- DevOps
+- Apple
+- community
+- time
+- platform
+- IBM
+- Kubernetes
+- attend
+- reason
+- KubeCon
+- IoT
+- CNCF
+- awk
+- conference
+- news
+- GitHub
+- Microsoft
+- developers
+- employers
+- teach
+- workloads
+- leaders
+- internet
+- Twitter
+- fleets
+- friction
+- postgresql
+- Big Sur
+- Fedora
+- ARM
+- Crunchy Data
+- WSL
+- attendees
+- hallway track
+- Red Hat
+- culture
+- cloud native ecosystem
+- Intrado
+- inclusive behavior
+- GitOps
+- Amazon
+- container
+- eBook
+- hybrid cloud
+- Operators
+- Linux
+- network
+- IPO
+- Xi Jinping
+- Jack Ma
+- Instana
+- Google
+- youtube-dl
+- YouTube
+- EFF
+- OpenTelemetry
+- observability
+- YAML
+- Mac
+- GNU
+- FrontPage
+- Windows
+- Zoom
+- Slack
+- Rambly
+- Ian Coldwater
+- Cloud Native Security White Paper
+title: DevOps'ish 193
+---
 
 Saturday morning, I awoke at 5 AM to pain and an awful headache. I know this headache well; it was a headache from looking at a computer screen too much (after 25 years in the industry, I rarely get these). It was the headache of sitting down before 8:30 AM on Friday, the next time you look up it's almost 2 PM, and you've crossed one thing off your list. Friday was the last day of KubeCon. I thought I was actually going to be able to participate, but life had different plans. Saturday morning, I realized that the idea of an in real life (IRL) event being "lift and shift" into a virtual platform is something I no longer want to signup to attend. A simple statement like, "[KubeCon was my last virtual event. We need a better way.](https://twitter.com/ChrisShort/status/1330121850362470400)" was needed. Please note, I'm still going to speak at any event I'm invited to (and can manage with schedule and everything). But, I'm no longer going to be part of a vast statistic of folks that don't show after registering to attend an event. This is by no means a knock on KubeCon. They had a lot of things that made a conference good.
 
@@ -31,12 +105,6 @@ In my opinion, less is more here. Suppose you did one hour a day with a talk and
 I also know that you have to keep things very easy for presenters that are varying degrees of nervous to chomping at the bit. I know I did not submit a talk to either of this year's KubeCons because of the platform in use and the stress that it puts on speakers. Event organizers need to see themselves as complexity managers. Moving complexity to sit with the event owners is vital. It should never be dictated by the platform that's in use.
 
 We need to take the virtual event and flip it on its head. Shake what's good out and experiment with literally everything else along the way (including during events). But, there are other things we should focus on too. Like events having REAL breaks in them. The actual accessibility of them. Accessibility in web design and in the Americans with Disabilities Act (which should be considered the bare minimum) sense. I can't sit, stand, walk, run, or anything for that matter for more than about an hour without having to move or adjust or something. I have a standing desk for a reason. That same desk is on wheels for a reason too. I have to put a lot of thought about breaks, moving around to keep me sane, healthy, and such throughout my normal day to day life. If an event takes that away from me, it's not going to end well. I'd encourage you to [read the whole thread](https://twitter.com/ChrisShort/status/1330121850362470400) and follow on commentary so that you can see some of the ideas and comments from folks. It's a worthwhile adventure.
-
-{{< tweet 1330131626421067776 >}}
-That's a step in the right direction, POP!
-
-{{< tweet 1330135904200126465 >}}
-A very good question, Kevin.
 
 **DevOps'ish is brought to you by** [**Accurics**](https://www.accurics.com/)
 

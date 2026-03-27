@@ -1,14 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-04-10
-description = ["DevOps'ish 264"]
-draft = false
-slug = "264"
-tags = ["Argo", "SLOs", "GitOps", "reliability", "service", "Kubernetes", "Raspberry Pi", "semiconductor coolant", "Flux", "engineering", "cloud native"]
-title = "DevOps'ish 264"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-04-10'
+description:
+- DevOps'ish 264
+draft: false
+slug: '264'
+tags:
+- Argo
+- SLOs
+- GitOps
+- reliability
+- service
+- Kubernetes
+- Raspberry Pi
+- semiconductor coolant
+- Flux
+- engineering
+- cloud native
+title: DevOps'ish 264
+---
 
 DevOps'ish is brought to you by your friends at [**Honeycomb**](https://ui.honeycomb.io/signup?&utm_source=devopsish&utm_medium=newsletter&utm_campaign=ad&utm_content=product-signup).  
 ***"Stop Letting Complexity Slow You Down"***  

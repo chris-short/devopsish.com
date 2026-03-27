@@ -1,16 +1,26 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-05-20
-description = ""
-draft = false
-slug = "076"
-tags = ["devops", "cloud native", "open source", "kubernetes", "security", "microservices", "Site Reliability Engineering", "SRE", "Docker"]
-title = "076: Hiring in DevOps, Security, Kubernetes, and More"
-image ="https://shortcdn.com/devopsish/076-web.jpg"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-05-20'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/076-web.jpg
+slug: '076'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- security
+- microservices
+- Site Reliability Engineering
+- SRE
+- Docker
+title: '076: Hiring in DevOps, Security, Kubernetes, and More'
+---
 
 This has been a whirlwind week. On Sunday, we celebrated Mother's Day. It was a good day where I tried very hard to give Julie the day off from the rigors of Max management. I had to bail a little  before Max's bedtime though to head to Cleveland for an [SJ Technologies](http://sjtechcorp.com/) client visit. It was a great visit but it was, in military lingo, a turn and burn. I was back in Michigan by Monday night. I was working on a couple of tickets this week before heading off to [ChefConf](https://chefconf.chef.io/). One issue revealed a lovely [little bug in Kubernetes](https://access.redhat.com/solutions/3391931) (login required). I was attempting to mount a ConfigMap as a file in the root directory of a container and it was not working no matter what. It was awful and the workaround was thankfully easy enough due to the fact it was a web app and [Caddy](https://caddyserver.com/) was available. I created an HTTP redirect and I was off and running. I submitted some additional bug reports where appropriate and was off to the next thing. Tripping over bugs is annoying. But, there's a great Kubernetes community right here in Michigan: [Orchestructure](https://www.meetup.com/orchestructure/). Thanks to y'all for helping me out this week.
 

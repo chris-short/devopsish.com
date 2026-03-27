@@ -1,15 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-12-19
-description = ["Log4j every day, the groping metaverse, e-waste, Deciding Between Argo CD and Flux, what happens when you upgrade to Kubernetes 1.24, and more"]
-draft = false
-slug = "248"
-tags = ["log4j", "cloud", "Kubernetes", "open source", "GitOps", "DevOps", "developers", "server", "cloud native", "GRPC", "infrastructure", "vulnerability", "API"]
-title = "DevOps'ish 248: Log4j every day, the groping metaverse, e-waste, Deciding Between Argo CD and Flux, what happens when you upgrade to Kubernetes 1.24, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-12-19'
+description:
+- Log4j every day, the groping metaverse, e-waste, Deciding Between Argo CD and Flux, what happens when you upgrade to Kubernetes 1.24, and more
+draft: false
+slug: '248'
+tags:
+- log4j
+- cloud
+- Kubernetes
+- open source
+- GitOps
+- DevOps
+- developers
+- server
+- cloud native
+- GRPC
+- infrastructure
+- vulnerability
+- API
+title: 'DevOps''ish 248: Log4j every day, the groping metaverse, e-waste, Deciding Between Argo CD and Flux, what happens when you upgrade to Kubernetes 1.24, and more'
+---
 
 For some of us, we need a break. Going at a break neck speed while stretched out mentally and physically is exhausting. I find myself needing a break from at least one of the things I do. Can't cut out my job; can't cut out the newsletter. I think until the new year, I'm going to take a break from open source contributions. Expect no open source work from me until 2022 (minus writing because I enjoy that).
 

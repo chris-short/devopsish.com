@@ -1,15 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-09-16
-description = "Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More"
-draft = false
-slug = "093"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "9-11", "Site Reliability Engineering", "SRE", "Kubernetes Operators", "GitOps"]
-title = "093: Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-09-16'
+description: Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More
+draft: false
+slug: 093
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- 9-11
+- Site Reliability Engineering
+- SRE
+- Kubernetes Operators
+- GitOps
+title: '093: Hard Week, Ansible, Kubernetes, Nathen Harvey, InfoSec, and More'
+---
 
 This week was REALLY hard. The past two weeks are the anniversary of the worst two week span of my life. In 2001, I was working like a dog at Langley AFB, VA. It was great work but the hours were LONG. With a normal shift, training, and other fun outside of work hours military things there was a lot going on. Then my grandmother died. Not earth shattering but it was another ratcheting up of the stress levels
 
@@ -132,6 +145,3 @@ Five lucky folks who join and say hello to the new DevOps'ish Telegram group wil
 
 [jessfraz/bpfd](https://github.com/jessfraz/bpfd): Framework for running BPF programs with rules on Linux as a daemon. Container aware.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1040341060029886464 >}}

@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-04-02T12:24:58.717Z
-description = ""
-draft = false
-slug = "017"
-tags = ["devops", "cloud native", "open source", "kubernetes", "linux", "github", "google", "containers", "Docker"]
-title = "017: Week of 1491105600"
-image ="https://shortcdn.com/devopsish/Unicorn-Farting-Rainbow-DevOps.gif"
-imagealt = "This Glorious GIF is Courtesy of Josh Atwell from his talk at this week's Triangle DevOps Meetup"
-aliases = [
-    "devopsish-weekly-017-week-of-1491105600-9b15368745fb"
-]
-
-+++
+---
+aliases:
+- devopsish-weekly-017-week-of-1491105600-9b15368745fb
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-04-02T12:24:58Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/Unicorn-Farting-Rainbow-DevOps.gif
+imagealt: This Glorious GIF is Courtesy of Josh Atwell from his talk at this week's Triangle DevOps Meetup
+slug: '017'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- linux
+- github
+- google
+- containers
+- Docker
+title: '017: Week of 1491105600'
+---
 
 I started a new on-call rotation this week and it has really sucked. The team whose rotation I was added on to is mature in a few areas but monitoring and alerting seems to be lacking a little. They acknowledge that and my coming on to the rotation is partially to identify areas of improvement. The rotation I was on a couple weeks ago for a different team resulted in no pages all week and my bringing the team donuts.
 
@@ -70,6 +79,3 @@ Congress made VPNs all the rage this week when they [repealed broadband privacy 
 
 [Google announced](https://opensource.googleblog.com/2017/03/a-new-home-for-google-open-source.html?m=1) their new home for open source, [Google Open Source](https://opensource.google.com/). Google has opened a treasure trove of documentation to help companies advance their open source initiatives. [The Changelog episode with Will Norris](https://changelog.com/podcast/245) announcing Google Open Source is a great listen.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 848200675674607616 >}}

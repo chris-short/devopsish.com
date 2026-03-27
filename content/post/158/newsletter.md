@@ -1,15 +1,41 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-12-16
-description = "Guinevere Saenger on Kubernetes 1.17 release, devs as a new soft target, need for a college degree, htop, CRDs, Istio, and more"
-draft = false
-slug = "158"
-tags = ["Guinevere Saenger", "Kubernetes", "cloud", "cloud native", "DevOps", "Istio", "CRDs", "open source", "developers", "htop", "release", "college degree", "AWS", "Red Hat", "org TLD", "remote", "deliveryconf", "infrastructure", "Detroit", "DevSecOps", "Agile", "Google", "Seattle", "Ansible", "defense-in-depth"]
-title = "158: Guinevere Saenger on Kubernetes 1.17 release, devs as a new soft target, need for a college degree, `htop`, CRDs, Istio, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-12-16'
+description: Guinevere Saenger on Kubernetes 1.17 release, devs as a new soft target, need for a college degree, htop, CRDs, Istio, and more
+draft: false
+slug: '158'
+tags:
+- Guinevere Saenger
+- Kubernetes
+- cloud
+- cloud native
+- DevOps
+- Istio
+- CRDs
+- open source
+- developers
+- htop
+- release
+- college degree
+- AWS
+- Red Hat
+- org TLD
+- remote
+- deliveryconf
+- infrastructure
+- Detroit
+- DevSecOps
+- Agile
+- Google
+- Seattle
+- Ansible
+- defense-in-depth
+title: '158: Guinevere Saenger on Kubernetes 1.17 release, devs as a new soft target, need for a college degree, `htop`, CRDs, Istio, and more'
+---
 
 The year 2019 is winding down. This is the time of year I reflect on the past 365 days. I feel a few themes that are predominant but, I’m looking forward "for the next thing" and it’s still [Kubernetes](https://kubernetes.io) and the cloud native ecosystem. This is why I think Kubernetes will become the standard cloud APIs that we all build on in the future. I look at [Linux](https://opensource.com/resources/linux) and how it has become table stakes these days. I look at [Ansible](https://ansible.com) and see that organizations are using either Ansible or a very similar tool. Seeing application deployment and infrastructure as code as more of the norm than the exception is great! Then there’s Kubernetes. The tool providing a consistent, repeatable, and extensible functionality to every cloud provider. While cloud providers’ lack of interoperability by design attempts to lock folks in ([there’s plenty here for everyone, AWS](https://www.crn.com.au/news/aws-forbids-partners-even-mentioning-multi-cloud-529598)), Kubernetes is there making hybrid solutions possible. I see organizations using it to provide the right blend of on-premises and cloud resource use. I see folks using it for data science to make sure their models run to completion. I see folks building mountains of [Raspberry Pi Kubernetes clusters](https://chrisshort.net/raspberry-pi-kubernetes-cluster/) to learn it. Kubernetes is becoming a standard API set folks are starting to expect to exist in data centers and clouds. When I look for what’s next in technology, I generally look for pain points. Kubernetes is solving some pain points and working on improving others with every release. Linux lowered the barrier to quality operating systems. Kubernetes is pushing infrastructure to be API driven. This is what we’ve wanted for ***years***. It’s not perfect but, the future is now.
 
@@ -99,6 +125,3 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 
 [How to test and validate DNSSEC using dig command line](https://www.cyberciti.biz/faq/unix-linux-test-and-validate-dnssec-using-dig-command-line/) — This is new enough technology that I haven't memorized this yet but, definitely run into more frequently.
 
-## Tweet of the Week
-
-{{< tweet 1203768589540454400 >}}

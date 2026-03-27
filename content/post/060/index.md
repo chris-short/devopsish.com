@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-01-28T07:01:01.495Z
-description = ""
-draft = false
-slug = "060"
-tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "intel", "google", "Site Reliability Engineering", "SRE"]
-title = "060: WTF Google, SRE in a Serverless World, DevOps Requires Rethinking Norms, Kubernetes..."
-image ="https://shortcdn.com/devopsish/right-in-the-kisser.jpg"
-imagealt = "Pow! Right in the Kisser!"
-aliases = [
-    "devopsish-060-wtf-google-sre-in-a-serverless-world-devops-requires-rethinking-norms-kubernetes-163ab5eaef53"
-]
-
-+++
+---
+aliases:
+- devopsish-060-wtf-google-sre-in-a-serverless-world-devops-requires-rethinking-norms-kubernetes-163ab5eaef53
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-01-28T07:01:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/right-in-the-kisser.jpg
+imagealt: Pow! Right in the Kisser!
+slug: '060'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- serverless
+- intel
+- google
+- Site Reliability Engineering
+- SRE
+title: '060: WTF Google, SRE in a Serverless World, DevOps Requires Rethinking Norms, Kubernetes...'
+---
 
 There are terrible people in this world. I've known that for a very, very long time. There are those that twist religion to benefit themselves, double-crossers, and [people who will have their co-workers swatted just for existing](https://www.wired.com/story/the-dirty-war-over-diversity-inside-google/). But, you cannot add yourself to that list in the process of "being American." You are the epitome of a loser if you target people because of their race, gender identity, political leanings, sexual orientation, or disability. If you work at Google, you clearly have done something right in life. I'm pretty sure Google doesn't let just anyone in the door. It is high time we leave our beliefs and prejudices outside of the work place. We're all in this thing called life on this place called earth together; it's time to start acting like it.
 
@@ -101,6 +110,3 @@ Since 2013, Aaron Delp and Brian Gracely have asked the community to donate to t
 
 [Kubernetes: It's alive!](https://dev.to/danielkun/kubernetes-its-alive-2ndc) Another use case for Raspberry Pi Kubernetes clusters. Don't forget about [**rak8s**](https://rak8s.io)!
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 956924975704784896 >}}

@@ -1,92 +1,78 @@
-+++
+---
+ShowReadingTime: false
+ShowToc: true
+TocOpen: false
+aliases:
+- /terms-of-service
+- /privacy-policy
+- /privacy
+author: Chris Short
+date: '2016-12-11'
+description: Terms of Service — DevOps'ish
+disableShare: true
+draft: false
+slug: terms
+title: Terms of Service
+---
 
-author = "Chris Short"
-date = 2016-12-11
-description = "DevOps'ish Terms and Conditions"
-draft = false
-slug = "terms"
-title = "Terms of Service"
-aliases = [
-    "disclaimer",
-    "legal"
-]
-
-+++
-
-## Terms
-
-By accessing the website at <https://devopsish.com>, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law
+By accessing this website or subscribing to any associated newsletters, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site or its associated properties. The materials contained herein are protected by applicable copyright and trademark law.
 
 ## Use License
 
-Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](/copyright/).
+Except where otherwise noted, content on this site and in associated newsletters is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](/copyright/).
 
 ## Disclaimer
 
-Views expressed on this site do not reflect the opinions or views of:
+Views expressed here do not reflect the opinions or views of any employer, past or present, nor those of any group or organization the authors are or have been affiliated with.
 
-* Amazon
-* Cloud Native Computing Foundation
-* Sponsors of DevOps'ish
+The materials provided here are on an "as is" basis. No warranties, expressed or implied, are made, and all other warranties are hereby disclaimed and negated including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
 
-Nor those of any group Chris Short is or has been affiliated with or employed by.
+Further, no warranty or representation is made concerning the accuracy, likely results, or reliability of the use of the materials on this website or in associated newsletters, or otherwise relating to such materials or on any sites linked to.
 
-The materials on DevOps'ish's website are provided on an 'as is' basis. DevOps'ish makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+## Technical Content
 
-Further, DevOps'ish does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+Any code, scripts, configurations, commands, or technical guidance provided is for educational and informational purposes only. Always test in non-production environments before implementation. This site and its operators are not responsible for any damages, data loss, outages, or other issues resulting from the use of technical content found here.
 
-## Privacy
+## Third-Party & Curated Content
 
-Please see [Privacy Policy](/privacy/).
-
-## Limitations
-
-In no event shall DevOps'ish or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on DevOps'ish's website, even if DevOps'ish or a DevOps'ish authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
-
-## Accuracy of materials
-
-The materials appearing on DevOps'ish's website could include technical, typographical, or photographic errors. DevOps'ish does not warrant that any of the materials on its website are accurate, complete or current. DevOps'ish may make changes to the materials contained on its website at any time without notice. However DevOps'ish does not make any commitment to update the materials.
-
-## Links
-
-DevOps'ish has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by DevOps'ish of the site. Use of any such linked website is at the user's own risk.
+This site and associated newsletters may feature, link to, quote, or curate content created by third parties. Such content remains the intellectual property and responsibility of its original creators. Inclusion does not constitute endorsement, and opinions expressed in third-party content do not necessarily reflect the views of this site or its operators. This site is not responsible for the accuracy, availability, or content of external sources.
 
 ## Affiliate Link Policy
 
-Some articles on DevOps'ish contain links to products available from online retailers. These links may contain codes that signal to the retailer that DevOps'ish has referred you. Should you choose to purchase the product, DevOps'ish may receive a commission on the sale. This is called an affiliate program.
+Some content contains links to products available from online retailers. These links may contain codes that signal to the retailer that this site has referred you. Should you choose to purchase the product, this site may receive a commission on the sale.
 
-The same rigor and standards of objectivity are applied to these articles as is the rest of DevOps'ish. In most cases, posts with affiliate links will also include an individual disclaimer located near the link or "buy" button for that product.
+The same rigor and standards of objectivity are applied to content with affiliate links as all other content. Posts with affiliate links will include an individual disclaimer located near the link or "buy" button for that product.
 
-*Note: DevOps'ish may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+## Sponsored Content Policy
+
+Some content on this site and in newsletters may be sponsored. Sponsored content is clearly disclosed at the time of publication. Sponsorship does not influence editorial opinions or recommendations.
+
+## Limitations
+
+In no event shall this site, its operators, or any suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials provided here, even if this site or an authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+
+## Accuracy of Materials
+
+The materials appearing here could include technical, typographical, or photographic errors. No warranty is made that any of the materials are accurate, complete, or current. Changes to the materials may be made at any time without notice. However, no commitment is made to update the materials.
+
+## Links
+
+Not all sites linked to from this website or newsletters have been reviewed, and this site is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement. Use of any such linked website is at the user's own risk.
+
+## Analytics & Tracking
+
+### Email Newsletter Analytics
+
+Newsletter emails may include tracking pixels and link redirects to measure open rates and click activity. This data is used to understand reader engagement and improve content. No personally identifiable information is shared with third parties beyond what is necessary to deliver the newsletter. You can disable tracking by  turning off image loading in your email client, a web browser extension, or by unsubscribing at any time.
+
+### Analytics
+
+This site uses [Fathom Analytics](https://app.usefathom.com/share/acmuyzfw/devopsish.com), a privacy-focused analytics service that does not use cookies, does not track personal data, and does not share data with third parties. Aggregate, anonymized data is collected to understand site traffic and improve content.
 
 ## Modifications
 
-DevOps'ish may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
+These terms of service may be revised at any time without notice. By using this website or subscribing to associated newsletters, you are agreeing to be bound by the then-current version of these terms of service.
 
 ## Governing Law
 
-These terms and conditions are governed by and construed in accordance with the laws of Michigan, United States and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
-
-## Additional Sponsorship Terms and Conditions
-
-The right to refuse sponsorship from anyone for any reason is reserved.
-
-Sponsors may not place restrictions on the content or format of the newsletter in any way.
-
-Subscriber demographic data outside of what’s shared on devopsish.com or in the [DevOps'ish Sponsorship Prospectus](https://shortcdn.com/devopsish/DevOps'ish_Sponsorship_Prospectus.pdf) is not available.
-
-No more than three ads a week will run in the newsletter. Out of cycle/cadence e-mails may or may not feature ads depending on a variety of factors.
-
-### Ad Timing
-
-The newsletter is typically sent on Sundays at 0700 UTC. There may be weeks where due to life circumstances, travel, or timezone differences the newsletter is sent a day earlier or a day later but this is the exception not the rule.
-
-Rates can change based on supply, demand, and subscribers. Rates should not change more than once a quarter or four times a year.
-
-### Ad Format
-
-Your ad will be featured *natively* in e-mails to all subscribers and on [devopsish.com](/). The native ad format guards against content blockers while maintaining the quality experience subscribers expect. It also eliminates a lot of headaches with regards to formatting.
-
-Ads include a headline, additional copy, links as specified, and are followed by the italicized word, *SPONSORED*. Total ad copy length excluding headline, call to action, and *SPONSORED* tag should not exceed 280 characters.
-
-💡Think of ads in DevOps’ish as a tweet with a bolded headline on top and a call to action. 💡
+These terms and conditions are governed by and construed in accordance with the laws of Michigan, United States, and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.

@@ -1,17 +1,24 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-03-05T07:07:00.961Z
-description = ""
-draft = false
-slug = "013"
-tags = ["devops", "cloud native", "open source", "kubernetes", "Site Reliability Engineering", "SRE"]
-title = "013: Week of 1488690000"
-image ="https://shortcdn.com/devopsish/macbook-code-editor.jpg"
-imagealt = "MacBook Running an IDE"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-03-05T07:07:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/macbook-code-editor.jpg
+imagealt: MacBook Running an IDE
+slug: '013'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- Site Reliability Engineering
+- SRE
+title: '013: Week of 1488690000'
+---
 
 I have been sick all week. I have pushed through it as much as possible but this was not a great week physically. However, there is plenty to discuss in the land of [**DevOps**](https://devopsish.com/).
 
@@ -43,6 +50,3 @@ I keep coming back to this time and time again lately. The Cloud Native Computin
 
 [Apache Web Server is continuing to lose market share](https://news.netcraft.com/archives/2017/02/27/february-2017-web-server-survey.html) at a pretty steady clip. Microsoft has the largest market share and nginx is continuing to gain on Apache and is within striking distance of overtaking the Apache behemoth. Interestingly, I am considering writing my own web server in Go with no configuration files; compile and launch a single binary.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 836662634543992832 >}}

@@ -1,21 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-10-22T06:01:00.808Z
-description = ""
-draft = false
-slug = "046"
-tags = ["devops", "cloud native", "open source", "kubernetes", "detroit", "docker", "moby", "lambda", "containers"]
-title = "046: Docker Reverses Course on Kubernetes, Scoble is Terrible, HQ2, Happy HTTPS, Lambda..."
-image ="https://shortcdn.com/devopsish/mountains-by-kris-nova.jpg"
-imagealt = "Mountains by Kris Nova"
-imagecap = "Mountains by Kris Nova"
-aliases = [
-    "devopsish-046-docker-reverses-course-on-kubernetes-scoble-sucks-hq2-happy-https-lambda-13519b308810"
-]
-
-+++
+---
+aliases:
+- devopsish-046-docker-reverses-course-on-kubernetes-scoble-sucks-hq2-happy-https-lambda-13519b308810
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-10-22T06:01:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/mountains-by-kris-nova.jpg
+imagealt: Mountains by Kris Nova
+imagecap: Mountains by Kris Nova
+slug: '046'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- detroit
+- docker
+- moby
+- lambda
+- containers
+title: '046: Docker Reverses Course on Kubernetes, Scoble is Terrible, HQ2, Happy HTTPS, Lambda...'
+---
 
 Is DevOps dying? I've had this thought for a few weeks now. Since [DevOpsDays Detroit](https://www.devopsdays.org/events/2017-detroit/welcome/) when Richard I. Cook, M.D. sat shaking his head at Gene Kim on stage in a panel discussion titled, "DevOps, Safety, And Lean". Like a concept twisted by bad marketing DevOps has become almost a cult. There are those that practice it religiously and others that cannot adhere to every tenet every moment of every day but do try to "DevOps". Site Reliability Engineering has gained significant ground. As have many other practices and ideas that if embraced would balance the future of information work. Those of us in DevOps often forget where we came from. Never doing a deploy while the sun is up, only on the lowest traffic period, and rarely completed within the allotted time slot. Damn near anything was better than those days. Let's not be too high and mighty about [DevOps](https://devopsish.com/). We all should focus on making things better for everyone.
 
@@ -115,6 +124,3 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 [kz26/mailproxy](https://github.com/kz26/mailproxy): mailproxy is a simple SMTP proxy. It receives emails through an unencrypted, unauthenticated SMTP interface and retransmits them through a remote SMTP server that requires modern features such as encryption and/or authentication. mailproxy is primarily useful for enabling email functionality in legacy software that only supports plain SMTP.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 921155261263499264 >}}

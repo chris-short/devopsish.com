@@ -1,0 +1,110 @@
+<style>
+    .devopsish-subscribe {
+        margin: var(--gap) 0;
+        padding: var(--gap);
+        background: var(--code-bg);
+        border-radius: var(--radius);
+    }
+
+    [data-theme="dark"] .devopsish-subscribe {
+        background: var(--entry);
+    }
+
+    .devopsish-subscribe-inner {
+        max-width: 480px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .devopsish-subscribe h3 {
+        color: var(--primary);
+        font-size: 20px;
+        font-weight: 700;
+        margin: 0 0 8px;
+    }
+
+    .devopsish-subscribe-desc {
+        color: var(--secondary);
+        font-size: 14px;
+        line-height: 1.6;
+        margin: 0 0 var(--content-gap);
+    }
+
+    .devopsish-subscribe-form {
+        display: flex;
+        gap: 8px;
+    }
+
+    .devopsish-subscribe-form input[type="email"] {
+        flex: 1;
+        padding: 8px 12px;
+        font-size: 14px;
+        color: var(--primary);
+        background: var(--theme);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        outline: none;
+        transition: border-color 0.2s;
+        box-sizing: border-box;
+    }
+
+    .devopsish-subscribe-form input[type="email"]:focus {
+        border-color: var(--primary);
+    }
+
+    .devopsish-subscribe-form input[type="email"]::placeholder {
+        color: var(--secondary);
+    }
+
+    .devopsish-subscribe-submit {
+        padding: 8px 18px;
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--theme);
+        background: var(--primary);
+        border: 1px solid var(--primary);
+        border-radius: var(--radius);
+        cursor: pointer;
+        white-space: nowrap;
+        transition: opacity 0.2s;
+    }
+
+    .devopsish-subscribe-submit:hover {
+        opacity: 0.85;
+    }
+
+    .devopsish-subscribe-privacy {
+        margin-top: 12px;
+        font-size: 12px;
+        color: var(--secondary);
+    }
+
+    @media (max-width: 480px) {
+        .devopsish-subscribe-form {
+            flex-direction: column;
+        }
+
+        .devopsish-subscribe-submit {
+            width: 100%;
+        }
+    }
+</style>
+
+<div class="devopsish-subscribe">
+    <div class="devopsish-subscribe-inner">
+        <h3>Subscribe to DevOps'ish</h3>
+        <p class="devopsish-subscribe-desc">{{ site.Params.homeInfoParams.Content }}</p>
+        <form
+            action="https://buttondown.com/api/emails/embed-subscribe/devopsish"
+            method="post"
+            class="devopsish-subscribe-form"
+            onsubmit="fathom.trackEvent('form submit');"
+            target="_blank"
+        >
+            <input type="hidden" value="1" name="embed" />
+            <input type="email" name="email" id="bd-email" placeholder="you@example.com" required />
+            <button type="submit" class="devopsish-subscribe-submit">Subscribe</button>
+        </form>
+        <p class="devopsish-subscribe-privacy">No spam, ever. Unsubscribe anytime.</p>
+    </div>
+</div>

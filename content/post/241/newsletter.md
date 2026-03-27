@@ -1,15 +1,41 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-10-31
-description = ["REvil roasted, exfil with eBPF, stop your standups, find your coding font, VSCode in browser, and more"]
-draft = false
-slug = "241"
-tags = ["cloud", "Cloud Native", "Kubernetes", "DevOps", "newsletter", "open source", "data", "WebAssembly", "SiFive", "RISC-V", "KubeCon", "AWS", "distributed", "Apple", "tracing", "CPU", "eBPF", "FCC", "go generics", "Honeycomb", "CNCF", "coding fonts", "multicluster", "cilium"]
-title = "DevOps'ish 241: REvil roasted, exfil with eBPF, stop your standups, find your coding font, VSCode in browser, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-10-31'
+description:
+- REvil roasted, exfil with eBPF, stop your standups, find your coding font, VSCode in browser, and more
+draft: false
+slug: '241'
+tags:
+- cloud
+- Cloud Native
+- Kubernetes
+- DevOps
+- newsletter
+- open source
+- data
+- WebAssembly
+- SiFive
+- RISC-V
+- KubeCon
+- AWS
+- distributed
+- Apple
+- tracing
+- CPU
+- eBPF
+- FCC
+- go generics
+- Honeycomb
+- CNCF
+- coding fonts
+- multicluster
+- cilium
+title: 'DevOps''ish 241: REvil roasted, exfil with eBPF, stop your standups, find your coding font, VSCode in browser, and more'
+---
 
 **Happy Halloween 🎃💀👻**
 
@@ -18,8 +44,6 @@ I started my new role as a [Senior Developer Advocate on the AWS Kubernetes team
 NOTE: [Alison Dowdney](https://www.linkedin.com/in/alisondowdney/)) is looking for a new opportunity. She's an absolute powerhouse in the Kubernetes community.
 
 Also, Please take part in this Twitter poll about rebranding the newsletter. I would love your feedback. Feel free to hit reply too.
-
-{{< tweet 1454614581981106182 >}}
 
 ## People
 

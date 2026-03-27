@@ -1,15 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-09-30
-description = "Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforce, Microsoft Ignite, Rook, and More"
-draft = false
-slug = "095"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "facebook", "microsoft", "China", "rook", "prometheus", "Chris Short", "conference", "serverless", "JEDI", "Docker"]
-title = "095: Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforce, Microsoft Ignite, Rook, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-09-30'
+description: Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforce, Microsoft Ignite, Rook, and More
+draft: false
+slug: 095
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- facebook
+- microsoft
+- China
+- rook
+- prometheus
+- Chris Short
+- conference
+- serverless
+- JEDI
+- Docker
+title: '095: Conference Life, Kubernetes, Ansible, Facebook is Awful, Dreamforce, Microsoft Ignite, Rook, and More'
+---
 
 I will be in Austin, TX Sunday through Thursday this week for [AnsibleFest](https://www.ansible.com/ansiblefest). If you are attending, please come say, "Hello." and ask me for some [DevOps'ish](https://devopsish.com/) stickers, please. If you're in the Austin area and want to grab a coffee, drink, etc. let me know. I'll be in Orlando next week for some work and some play. If you're around Orlando the week of the 8th, let me know.
 

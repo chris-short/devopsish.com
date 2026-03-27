@@ -1,17 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-04-28
-description = "Docker Hub Breach, Drupal in Kubernetes, Localize Kubernetes, Get Into Open Source, Apple's AWS Bill, Hertz Sues Accenture, and Much More"
-draft = false
-slug = "125"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "system", "Docker Hub breach", "docker", "docker hub", "compromise", "Docker Inc", "Kubernetes Operators"]
-title = "125: Docker Hub Breach, Drupal in Kubernetes, Localize Kubernetes, Get Into Open Source, Apple's AWS Bill, Hertz Sues Accenture, and Much More"
-image = "https://shortcdn.com/devopsish/docker-hub-breach.png"
-imagealt = "Docker Hub breach impacting at least 190,000 accounts"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-04-28'
+description: Docker Hub Breach, Drupal in Kubernetes, Localize Kubernetes, Get Into Open Source, Apple's AWS Bill, Hertz Sues Accenture, and Much More
+draft: false
+image: https://shortcdn.com/devopsish/docker-hub-breach.png
+imagealt: Docker Hub breach impacting at least 190,000 accounts
+slug: '125'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- container
+- security
+- system
+- Docker Hub breach
+- docker
+- docker hub
+- compromise
+- Docker Inc
+- Kubernetes Operators
+title: '125: Docker Hub Breach, Drupal in Kubernetes, Localize Kubernetes, Get Into Open Source, Apple''s AWS Bill, Hertz Sues Accenture, and Much More'
+---
 
 > **NOTE**: Please read my [Disclaimer](https://devopsish.com/terms/) before breaking out the tar and feathers.
 
@@ -124,8 +140,5 @@ Whether on-premise, in the cloud, or a hybrid solution, we have you covered. Don
 
 [operator-framework/community-operators](https://github.com/operator-framework/community-operators) — The canonical source for Kubernetes Operators that appear on OperatorHub.io, OpenShift Container Platform, and [OKD](https://www.okd.io/)
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1122117406372057090 >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

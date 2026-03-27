@@ -1,13 +1,46 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-07-24
-description = ["DevOpsDays Seattle, Google freezes hiring; spf13 out, The Path to GitOps, MinIO calls foul on Nutanix, Ephemeral Containers, K8s Gateway API, and more"]
-draft = false
-slug = "277"
-tags = ["people", "Kubernetes", "open source", "DevOpsDays", "DevOpsDays Seattle", "security", "infosec", "DevOps", "software", "Kat Cosgrove", "IoT", "Netflix", "Google", "images", "developer", "OCI", "scaling", "AWS", "systems", "Steve Francia", "GitOps", "scale", "hiring", "compliant", "developers", "container", "containers", "customers", "processes"]
-title = "DevOps'ish 277: DevOpsDays Seattle, Google freezes hiring; spf13 out, The Path to GitOps, MinIO calls foul on Nutanix, Ephemeral Containers, K8s Gateway API, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-07-24'
+description:
+- DevOpsDays Seattle, Google freezes hiring; spf13 out, The Path to GitOps, MinIO calls foul on Nutanix, Ephemeral Containers, K8s Gateway API, and more
+draft: false
+slug: '277'
+tags:
+- people
+- Kubernetes
+- open source
+- DevOpsDays
+- DevOpsDays Seattle
+- security
+- infosec
+- DevOps
+- software
+- Kat Cosgrove
+- IoT
+- Netflix
+- Google
+- images
+- developer
+- OCI
+- scaling
+- AWS
+- systems
+- Steve Francia
+- GitOps
+- scale
+- hiring
+- compliant
+- developers
+- container
+- containers
+- customers
+- processes
+title: 'DevOps''ish 277: DevOpsDays Seattle, Google freezes hiring; spf13 out, The Path to GitOps, MinIO calls foul on Nutanix, Ephemeral Containers, K8s Gateway API, and more'
+---
 
 **A note about notes**: I will no longer publish the weekly notes file on the website. They are still [made available on GitHub][1] as they have been for the past 170 issues. If you're curious about the why: spam emails that came as a result. Yeah, funny how that works.
 

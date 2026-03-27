@@ -1,13 +1,32 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-10-30
-description = ["Post-KubeCon Detroit, Max's birthday, DevOps'ish Podcast, Layoffs, Time, Howie, 1.84 petabits per second, markmap, helm-dashboard, and more"]
-draft = false
-slug = "291"
-tags = ["time", "KubeCon", "Detroit", "Kubernetes", "Max", "podcast", "Twitter", "event", "open source", "Arm", "coffee", "CNCF", "cloud", "Chainguard", ""]
-title = "DevOps'ish 291: Post-KubeCon Detroit, Max's birthday, DevOps'ish Podcast, Layoffs, Time, Howie, 1.84 petabits per second, markmap, helm-dashboard, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-10-30'
+description:
+- Post-KubeCon Detroit, Max's birthday, DevOps'ish Podcast, Layoffs, Time, Howie, 1.84 petabits per second, markmap, helm-dashboard, and more
+draft: false
+slug: '291'
+tags:
+- time
+- KubeCon
+- Detroit
+- Kubernetes
+- Max
+- podcast
+- Twitter
+- event
+- open source
+- Arm
+- coffee
+- CNCF
+- cloud
+- Chainguard
+- ''
+title: 'DevOps''ish 291: Post-KubeCon Detroit, Max''s birthday, DevOps''ish Podcast, Layoffs, Time, Howie, 1.84 petabits per second, markmap, helm-dashboard, and more'
+---
 
 **Side Note:** I have no doubt that Twitter is going to unban people that really shouldn't be for national security reasons. With that in mind, I've consolidated my Mastodon presence on the Mastodon server [hachyderm.io](https://hachyderm.io/invite/52R3N6to) so please follow me there [@ChrisShort](https://hachyderm.io/invite/52R3N6to)!
 

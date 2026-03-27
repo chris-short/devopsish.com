@@ -1,18 +1,25 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2016"]
-date = 2016-12-11
-description = ""
-draft = false
-slug = "001"
-tags = ["devops", "cloud native", "open source", "aws", "amazon", "docker", "nodejs"]
-title = "001: Week of 1481432400"
-aliases = [
-    "001-week-of-1481432400-696c2c8043f1"
-]
-
-+++
+---
+aliases:
+- 001-week-of-1481432400-696c2c8043f1
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2016'
+date: '2016-12-11'
+description: ''
+draft: false
+slug: '001'
+tags:
+- devops
+- cloud native
+- open source
+- aws
+- amazon
+- docker
+- nodejs
+title: '001: Week of 1481432400'
+---
 
 Welcome to this week's edition of DevOps'ish where we cover Dev, Ops, and all the ish in between.
 

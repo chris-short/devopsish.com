@@ -1,20 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2016"]
-date = 2016-12-18
-description = "It was the week before Christmas 🤶 🎅 and all through the DevOps world not a creature was stirring not even a mouse 🖱."
-draft = false
-slug = "002"
-tags = ["devops", "cloud native", "open source", "kubernetes", "linux", "github", "google", "containers", "Docker", "containerd"]
-title = "002: Week of 1482037200"
-image = "https://shortcdn.com/devopsish/santa-ice-skating.jpg"
-imagealt = "It was the week before Christmas 🤶 🎅 and all through the DevOps world not a creature was stirring not even a mouse 🖱."
-aliases = [
-    "002-week-of-1482037200-51127c20054b"
-]
-
-+++
+---
+aliases:
+- 002-week-of-1482037200-51127c20054b
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2016'
+date: '2016-12-18'
+description: It was the week before Christmas 🤶 🎅 and all through the DevOps world not a creature was stirring not even a mouse 🖱.
+draft: false
+image: https://shortcdn.com/devopsish/santa-ice-skating.jpg
+imagealt: It was the week before Christmas 🤶 🎅 and all through the DevOps world not a creature was stirring not even a mouse 🖱.
+slug: '002'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- linux
+- github
+- google
+- containers
+- Docker
+- containerd
+title: '002: Week of 1482037200'
+---
 
 It was the week before Christmas 🤶 🎅 and all through the [**DevOps**](https://devopsish.com/) world not a creature was stirring not even a mouse 🖱.
 

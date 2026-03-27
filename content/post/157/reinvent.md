@@ -1,15 +1,22 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "AWS"]
-date = 2019-12-08
-description = "DevOps'ish 157 featured so much AWS news of interest that it is probably better to make it a separate page."
-draft = false
-url = "157/reinvent"
-tags = ["AWS", "re:Invent", "cloud", "developers", "Amazon Web Services", "open source"]
-title = "157: News from re:Invent 2019"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- AWS
+date: '2019-12-08'
+description: DevOps'ish 157 featured so much AWS news of interest that it is probably better to make it a separate page.
+draft: false
+tags:
+- AWS
+- re:Invent
+- cloud
+- developers
+- Amazon Web Services
+- open source
+title: '157: News from re:Invent 2019'
+url: 157/reinvent
+---
 
 re:Invent is easier to cover when it's not in e-mail form.
 

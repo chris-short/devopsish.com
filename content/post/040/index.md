@@ -1,19 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-09-10T06:01:00.779Z
-description = ""
-draft = false
-slug = "040"
-tags = ["devops", "cloud native", "open source", "observability", "detroit", "solaris", "containers"]
-title = "040: Solaris, Observability, Shift Left, Ansible, and More"
-image ="https://shortcdn.com/devopsish/gonza-tacos-y-tequila.jpg"
-imagealt = "Live and Direct from Gonza Tacos y Tequila on Hillsborough St. in Raleigh, NC"
-aliases = [
-    "devopsish-040-solaris-observability-shift-left-ansible-and-more-105ad2da1a4c"
-]
-+++
+---
+aliases:
+- devopsish-040-solaris-observability-shift-left-ansible-and-more-105ad2da1a4c
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-09-10T06:01:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/gonza-tacos-y-tequila.jpg
+imagealt: Live and Direct from Gonza Tacos y Tequila on Hillsborough St. in Raleigh, NC
+slug: '040'
+tags:
+- devops
+- cloud native
+- open source
+- observability
+- detroit
+- solaris
+- containers
+title: '040: Solaris, Observability, Shift Left, Ansible, and More'
+---
 
 This week I finished a project that has been in the works for a quite some time. Back before I moved to Detroit but shortly after taking over [Triangle DevOps](https://tridevops.com/), I was offered (and accepted) a spot as a [DevOpsDays Raleigh](https://www.devopsdays.org/events/2017-raleigh/welcome/) organizer. I submitted three talks to the event and one was accepted. Today I opened the event with my talk, "[The Dark Side of DevOps](https://speakerdeck.com/chrisshort/the-dark-side-of-devops)" and thoroughly enjoyed it as well as all the other talks at the event. Huge shout out to the other organizers, volunteers, and speakers for all their hard work in making the second DevOpsDays Raleigh better than the first one. It was great to catch up with friends while I was in town. Back to Detroit for me but what a week for news in general and DevOps!
 
@@ -94,6 +102,3 @@ StockX is looking for an experienced Cloud Systems Engineer, or DevOps Engineer,
 [**Director, Software Engineering — Bankrate — Detroit, MI**](http://app.jobvite.com/m?3N1q0jw2)
 A manager in an agile environment with strong technical skills. Collaborative leader who will understand our people, business, technology, and customers' needs. Leader who helps drive our culture of empowerment, ownership, and accountability to help develop our team technically and professionally. Identify and successfully implement improvements in our engineering processes, tools, and architecture to enable us to deliver on our key initiatives.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 905109172953513985 >}}

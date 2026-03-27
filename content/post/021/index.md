@@ -1,20 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-04-30T06:01:02.821Z
-description = ""
-draft = false
-slug = "021"
-tags = ["devops", "cloud native", "open source", "docker", "golang", "linux", "google", "uber", "lambda", "Docker Inc"]
-title = "021: Week of 1493524800"
-image ="https://shortcdn.com/devopsish/tranquil-lake.jpg"
-imagealt = "April Showers Better Bring a TON of May Flowers"
-aliases = [
-    "devopsish-weekly-021-week-of-1493524800-c976f19e5099"
-]
-
-+++
+---
+aliases:
+- devopsish-weekly-021-week-of-1493524800-c976f19e5099
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-04-30T06:01:02Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/tranquil-lake.jpg
+imagealt: April Showers Better Bring a TON of May Flowers
+slug: '021'
+tags:
+- devops
+- cloud native
+- open source
+- docker
+- golang
+- linux
+- google
+- uber
+- lambda
+- Docker Inc
+title: '021: Week of 1493524800'
+---
 
 [North Carolina, and particularly the Triangle area, has had an enormous amount of rain this week](http://www.cnn.com/2017/04/25/us/north-carolina-flooding/). The tiny creek behind our house was a rapid early in the week. According to the USGS, [Falls Lake is almost ten feet above it's average levels](https://waterdata.usgs.gov/nc/nwis/uv?cb_00065=on&format=gif_stats&site_no=02087182&period=&begin_date=2017-04-22&end_date=2017-04-29). There was [one fatality as a result of someone driving around a barricade](https://governor.nc.gov/news/governor-cooper-urges-caution-flooding-continues-threaten-eastern-nc-communities) onto a flooded roadway. Common sense is not common. Please stay safe out there, folks.
 

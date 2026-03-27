@@ -1,14 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-12-23
-description = "KubeCon Recap, Larry Ellison, China Hacking, Kubernetes Security, and More"
-draft = false
-slug = "107"
-tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "Red Hat", "ansible", "security", "serverless", "container", "UEFI", "China", "Site Reliability Engineering", "SRE", "CI/CD", "Docker"]
-title = "107: KubeCon Recap, Larry Ellison, China Hacking, Kubernetes Security, and More"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-12-23'
+description: KubeCon Recap, Larry Ellison, China Hacking, Kubernetes Security, and More
+draft: false
+slug: '107'
+tags:
+- weekly
+- devops
+- newsletter
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- Red Hat
+- ansible
+- security
+- serverless
+- container
+- UEFI
+- China
+- Site Reliability Engineering
+- SRE
+- CI/CD
+- Docker
+title: '107: KubeCon Recap, Larry Ellison, China Hacking, Kubernetes Security, and More'
+---
 
 As mentioned [last week](https://devopsish.com/106/), I was able to finish [my KubeCon + CloudNativeCon NA 2018 recap](https://chrisshort.net/kubecon-cloudnativecon-na-2018/) this week. It's not an exhaustive list of things I did but, it covers the big ones. One point of emphasis for me was to assess the physical toil I managed along the way. It's important to note that life doesn't stop because you're at a conference. [Videos from the Kubernetes Contributor Summit are now available](https://discuss.kubernetes.io/t/videos-from-the-kubernetes-contributor-summit-are-now-available/3907) too.
 

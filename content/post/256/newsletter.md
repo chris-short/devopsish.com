@@ -1,15 +1,43 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-02-13
-description = ["EARN IT Act is back and worse than ever, SSD chip contamination, technical debt, SBOMs, Tools for Securing Your Kubernetes Cluster, ValidKube, and more"]
-draft = false
-slug = "256"
-tags = ["Kubernetes", "GitOps", "Apple", "security", "EKS", "controller", "open source", "cloud", "policies", "K8s", "scale", "AirTags", "working conditions", "AWS", "Tile", "network", "software", "technical debt", "SBOM", "Ambassador", "CNCF", "clusters", "CVE", "macOS", "DevOps", "EARN IT Act"]
-title = "DevOps'ish 256: EARN IT Act is back and worse than ever, SSD chip contamination, technical debt, SBOMs, Tools for Securing Your Kubernetes Cluster, ValidKube, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-02-13'
+description:
+- EARN IT Act is back and worse than ever, SSD chip contamination, technical debt, SBOMs, Tools for Securing Your Kubernetes Cluster, ValidKube, and more
+draft: false
+slug: '256'
+tags:
+- Kubernetes
+- GitOps
+- Apple
+- security
+- EKS
+- controller
+- open source
+- cloud
+- policies
+- K8s
+- scale
+- AirTags
+- working conditions
+- AWS
+- Tile
+- network
+- software
+- technical debt
+- SBOM
+- Ambassador
+- CNCF
+- clusters
+- CVE
+- macOS
+- DevOps
+- EARN IT Act
+title: 'DevOps''ish 256: EARN IT Act is back and worse than ever, SSD chip contamination, technical debt, SBOMs, Tools for Securing Your Kubernetes Cluster, ValidKube, and more'
+---
 
 I hope your week was wonderful, and you're looking forward to the week ahead. I had the honor of being named a [Continuous Delivery Foundation Ambassador](https://cd.foundation/blog/2022/02/03/new-2022-ambassadors-and-community-builders/) this along (alongside the [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) title). Also, I began my official duties as a [co-chair on the GitOps Working Group/OpenGitOps](https://github.com/cncf/tag-app-delivery/blob/main/gitops-wg/CHAIRS.md) projects.
 

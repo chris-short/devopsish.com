@@ -1,21 +1,51 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-07-11
-description = ["Kubernetes non-code contributions, don't ban politics at work, engineers waste 1 day a week on technical debt, CentOS Stream is working out, and more"]
-draft = false
-slug = "226"
-tags = ["code", "Kubernetes", "cloud", "time", "DevOps", "observability", "git", "software", "Cloud Native", "technical debt", "AWS", "engineer", "quantum", "contributor", "community", "leader", "Pentagon", "JEDI", "open source", "China", "Jim Whitehurst", "IBM", "Red Hat", "developer", "Didi", "CentOS", "Linux", "Sourcegraph", "printnightmare", "Intel"]
-title = "DevOps'ish 226: Kubernetes non-code contributions, don't ban politics at work, engineers waste 1 day a week on technical debt, CentOS Stream is working out, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-07-11'
+description:
+- Kubernetes non-code contributions, don't ban politics at work, engineers waste 1 day a week on technical debt, CentOS Stream is working out, and more
+draft: false
+slug: '226'
+tags:
+- code
+- Kubernetes
+- cloud
+- time
+- DevOps
+- observability
+- git
+- software
+- Cloud Native
+- technical debt
+- AWS
+- engineer
+- quantum
+- contributor
+- community
+- leader
+- Pentagon
+- JEDI
+- open source
+- China
+- Jim Whitehurst
+- IBM
+- Red Hat
+- developer
+- Didi
+- CentOS
+- Linux
+- Sourcegraph
+- printnightmare
+- Intel
+title: 'DevOps''ish 226: Kubernetes non-code contributions, don''t ban politics at work, engineers waste 1 day a week on technical debt, CentOS Stream is working out, and more'
+---
 
 If you [follow me on Twitter](https://twitter.com/ChrisShort) you know I've had a hard time with stable internet this week. Co-workers asking about my absence, I appreciate you. Sorry, y'all, sometimes everything breaks at once. But then today I get this when working on something newsletter related.
 
 Y'all... I can't. I can't. I can't.
-
-{{< tweet 1413940994333102083 >}}
 
 Then it got worse. I won't go into details but, let's just say it was the cherry on top of a shit week for tech but otherwise good week here at home.
 

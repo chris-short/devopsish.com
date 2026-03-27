@@ -1,15 +1,41 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-01-09
-description = ["About last week, 5G shenanigans, Dockershim deprecation, FTC warns companies about Log4j, GitOpsCon EU 2022 CFP open, EKS News, and more"]
-draft = false
-slug = "251"
-tags = ["internet", "Kubernetes", "Intel", "dockershim", "Linux", "open source", "Log4j", "IBM Watson Health", "EKS", "security", "coding", "learnings", "deprecation", "vulnerability", "expectations", "5G", "FAA", "Brave", "privacy", "IPv6", "Apple", "developer", "HTTP QUERY", "JED"]
-title = "DevOps'ish 251: About last week, 5G shenanigans, Dockershim deprecation, FTC warns companies about Log4j, GitOpsCon EU 2022 CFP open, EKS News, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-01-09'
+description:
+- About last week, 5G shenanigans, Dockershim deprecation, FTC warns companies about Log4j, GitOpsCon EU 2022 CFP open, EKS News, and more
+draft: false
+slug: '251'
+tags:
+- internet
+- Kubernetes
+- Intel
+- dockershim
+- Linux
+- open source
+- Log4j
+- IBM Watson Health
+- EKS
+- security
+- coding
+- learnings
+- deprecation
+- vulnerability
+- expectations
+- 5G
+- FAA
+- Brave
+- privacy
+- IPv6
+- Apple
+- developer
+- HTTP QUERY
+- JED
+title: 'DevOps''ish 251: About last week, 5G shenanigans, Dockershim deprecation, FTC warns companies about Log4j, GitOpsCon EU 2022 CFP open, EKS News, and more'
+---
 
 I wrote a really good introduction last week and forgot to include it in the email newsletter. It is [still on the site](https://devopsish.com/250/) if you'd like to go back and look at it. The three big takeaways are:
 

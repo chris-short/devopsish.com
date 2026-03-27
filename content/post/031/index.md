@@ -1,20 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-07-09T06:01:00.961Z
-description = ""
-draft = false
-slug = "031"
-tags = ["devops", "cloud native", "open source", "kubernetes", "interview", "mental health", "hiring", "gophercon"]
-title = "031: Let's Encrypt, Go, Kubernetes, zinc, Mental Health, Interviewing"
-image ="https://shortcdn.com/devopsish/cheeseman-park.jpg"
-imagealt = "Cheesman Park in Denver, Colorado (I went ghost hunting here once)"
-aliases = [
-    "devopsish-031-let-s-encrypt-go-kubernetes-zinc-mental-health-interviewing-400a4f11fdf7"
-]
-
-+++
+---
+aliases:
+- devopsish-031-let-s-encrypt-go-kubernetes-zinc-mental-health-interviewing-400a4f11fdf7
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-07-09T06:01:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/cheeseman-park.jpg
+imagealt: Cheesman Park in Denver, Colorado (I went ghost hunting here once)
+slug: '031'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- interview
+- mental health
+- hiring
+- gophercon
+title: '031: Let''s Encrypt, Go, Kubernetes, zinc, Mental Health, Interviewing'
+---
 
 This week was nuts. We dealt with a service degradation due to issues between our CDN and data center edge network. On a long, holiday weekend it's the last thing you want to deal with. There were eighteen action items to come out of the post mortem (which was long enough to merit an executive summary). This was one of the weirder issues I have ever seen as it involved three different companies and a few bad hops in a network path. [I quoted Baruch Sadogursky two weeks ago](/029/), "Pain is instructional." It definitely is! Meanwhile, my company, Bankrate, was [getting acquired by Red Ventures](http://www.thedrum.com/news/2017/07/04/red-ventures-digs-deep-bankrate-website-124bn-personal-finance-drive) for $1.24 billion.
 

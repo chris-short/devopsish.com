@@ -1,20 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-12-11T04:17:16.678Z
-description = ""
-draft = false
-slug = "053"
-tags = ["devops", "cloud native", "open source", "kubernetes", "infrastructure", "containers", "Site Reliability Engineering", "SRE"]
-title = "053: KubeCon, CloudNativeCon, Kubernetes, Looking to 2018, and MORE!"
-image ="https://shortcdn.com/devopsish/dan-romlein-sketch-notes.jpg"
-imagealt = "Dan Romlein's KubeCon + CloudNativeCon 2017 Sketch Notes"
-aliases = [
-    "devopsish-053-kubecon-cloudnativecon-kubernetes-looking-to-2018-and-more-3b9aaa484baa"
-]
-
-+++
+---
+aliases:
+- devopsish-053-kubecon-cloudnativecon-kubernetes-looking-to-2018-and-more-3b9aaa484baa
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-12-11T04:17:16Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/dan-romlein-sketch-notes.jpg
+imagealt: Dan Romlein's KubeCon + CloudNativeCon 2017 Sketch Notes
+slug: '053'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- infrastructure
+- containers
+- Site Reliability Engineering
+- SRE
+title: '053: KubeCon, CloudNativeCon, Kubernetes, Looking to 2018, and MORE!'
+---
 
 Last week, there was a giveaway of [Cloud Native Infrastructure](http://www.cnibook.info/) by Justin Garrison and Kris Nova. There's no need for a giveaway because you can now get [Cloud Native Infrastructure FOR FREE!](https://thecodeteam.com/cloud-native-infrastructure-e-book/) This week's edition is delayed due to [adventures](https://twitter.com/ChrisShort/status/939474244152512512) [traveling](https://twitter.com/ChrisShort/status/939526934421295104) back from Kubecon (salute to those that stood up [SIG-Airport](https://twitter.com/castrojo/status/939527794257813504)). I have to say that Kubecon had some of the friendliest people I've met attending, sponsoring, and running it. The hallway track was where I spent the vast majority of my time (also on the phone doing interviews). Brace yourselves for all things Cloud Native and Kubernetes.
 
@@ -102,4 +110,4 @@ Several projects announced they were going 1.0 in around CloudNativeCon + KubeCo
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 938902771302060034 >}}
+{{< x user="jpetazzo" id="938902771302060034" >}}

@@ -1,15 +1,57 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-11-28
-description = ["Please do not attempt to simplify this code, Rust Mod Team, feedback, attackers don't bother brute-forcing long passwords, GitOps, kube-scheduler-simulator, and more"]
-draft = false
-slug = "245"
-tags = ["code", "Kubernetes", "Space Shuttle", "open source", "simplify", "team", "GitOps", "Cloud", "DevOps", "scheduler", "simulator", "free", "Cloud Native", "Rust", "kube", "brute forcing", "infrastructure", "sigstore", "Amazon", "persistent volumes", "NASA", "process", "Linux", "gp3", "automation", "practices", "clever", "Microsoft", "Honeycomb", "quantum", "persistent volume controller", "Riverbed", "NVIDIA", "Apple", "Pulumi", "developers", "Fedora", "AWS", "CNCF", "Red Hat"]
-title = "DevOps'ish 245: Please do not attempt to simplify this code, Rust Mod Team, feedback, attackers don't bother brute-forcing long passwords, GitOps, kube-scheduler-simulator, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-11-28'
+description:
+- Please do not attempt to simplify this code, Rust Mod Team, feedback, attackers don't bother brute-forcing long passwords, GitOps, kube-scheduler-simulator, and more
+draft: false
+slug: '245'
+tags:
+- code
+- Kubernetes
+- Space Shuttle
+- open source
+- simplify
+- team
+- GitOps
+- Cloud
+- DevOps
+- scheduler
+- simulator
+- free
+- Cloud Native
+- Rust
+- kube
+- brute forcing
+- infrastructure
+- sigstore
+- Amazon
+- persistent volumes
+- NASA
+- process
+- Linux
+- gp3
+- automation
+- practices
+- clever
+- Microsoft
+- Honeycomb
+- quantum
+- persistent volume controller
+- Riverbed
+- NVIDIA
+- Apple
+- Pulumi
+- developers
+- Fedora
+- AWS
+- CNCF
+- Red Hat
+title: 'DevOps''ish 245: Please do not attempt to simplify this code, Rust Mod Team, feedback, attackers don''t bother brute-forcing long passwords, GitOps, kube-scheduler-simulator, and more'
+---
 
 ["PLEASE DO NOT ATTEMPT TO SIMPLIFY THIS CODE. KEEP THE SPACE SHUTTLE FLYING."](https://github.com/kubernetes/kubernetes/blob/5a81905f772c28dc4c8f5d2cb2e5bfc48c422f41/pkg/controller/volume/persistentvolume/pv_controller.go): This almost 2000 lines of code that make up the [persistent volume controller](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) was one of the most popular social media posts this week:
 

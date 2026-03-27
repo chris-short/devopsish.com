@@ -1,20 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-08-06T04:36:29.864Z
-description = ""
-draft = false
-slug = "035"
-tags = ["devops", "cloud native", "open source", "kubernetes", "detroit", "google", "password management", "microservices", "Site Reliability Engineering", "SRE", "Docker"]
-title = "035: Google's Toxicity, Security, SRE, Kubernetes, and More!"
-image ="https://shortcdn.com/devopsish/woodward-ave-downtown-detroit.jpg"
-imagealt = "Woodward Avenue in Downtown Detroit"
-aliases = [
-    "devopsish-035-google-s-toxicity-security-sre-kubernetes-and-more-f4bfadd192c7"
-]
-
-+++
+---
+aliases:
+- devopsish-035-google-s-toxicity-security-sre-kubernetes-and-more-f4bfadd192c7
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-08-06T04:36:29Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/woodward-ave-downtown-detroit.jpg
+imagealt: Woodward Avenue in Downtown Detroit
+slug: '035'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- detroit
+- google
+- password management
+- microservices
+- Site Reliability Engineering
+- SRE
+- Docker
+title: '035: Google''s Toxicity, Security, SRE, Kubernetes, and More!'
+---
 
 It's 67 degrees here in Michigan at the moment. How's the weather where you are? I'm not missing the humidity of the south at all. As I venture out into more of Detroit I'm continually pleased with the choice to move to the Mitten. America's high five has a lot going for it! [Metro Detroit Unemployment Rate Sees Largest Drop In U.S., Now Lower Than Boston, L.A. And New York](http://www.dailydetroit.com/2017/08/03/metro-detroit-unemployment-rate-sees-largest-drop-u-s-now-lower-boston-l-new-york/).
 

@@ -1,13 +1,39 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-08-07
-description = ["The little things, dafuq Apple, tech layoffs continue, MinIO and Nutanix, iRobot and Amazon, Kubernetes Removals and Major Changes In 1.25 and more"]
-draft = false
-slug = "279"
-tags = ["Kubernetes", "project", "key", "open source", "cosign", "kernel", "host", "time", "cloud native", "developer", "manager", "Amazon", "password", "AWS", "Linux", "container", "eBPF", "virtual", "security", "observability", "DevOps", "sigstore"]
-title = "DevOps'ish 279: The little things, dafuq Apple, tech layoffs continue, MinIO and Nutanix, iRobot and Amazon, Kubernetes Removals and Major Changes In 1.25 and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-08-07'
+description:
+- The little things, dafuq Apple, tech layoffs continue, MinIO and Nutanix, iRobot and Amazon, Kubernetes Removals and Major Changes In 1.25 and more
+draft: false
+slug: '279'
+tags:
+- Kubernetes
+- project
+- key
+- open source
+- cosign
+- kernel
+- host
+- time
+- cloud native
+- developer
+- manager
+- Amazon
+- password
+- AWS
+- Linux
+- container
+- eBPF
+- virtual
+- security
+- observability
+- DevOps
+- sigstore
+title: 'DevOps''ish 279: The little things, dafuq Apple, tech layoffs continue, MinIO and Nutanix, iRobot and Amazon, Kubernetes Removals and Major Changes In 1.25 and more'
+---
 
 Not going to lie. The GitHub Action cron job that builds the website automatically for me has not worked for weeks. I moved some sites to various services, and DevOps'ish returned to Netlify because of the branch build command granularity. I use Hugo and future dated articles are built when the `-F` flag is passed. This is very helpful in ensuring the newsletter is done just how I like it.
 

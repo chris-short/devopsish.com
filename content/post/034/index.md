@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-07-30T11:01:00.856Z
-description = ""
-draft = false
-slug = "034"
-tags = ["devops", "cloud native", "open source", "kubernetes", "linux", "google", "gophercon", "containers", "Docker"]
-title = "034: The 6Ps, Ops, Microsoft, Kubernetes, Terraform, and More"
-image ="https://shortcdn.com/devopsish/wip.jpg"
-imagealt = "Trying to juggle too many tasks will kill your productivity. Focus on one thing at a time. —David Neal"
-aliases = [
-    "devopsish-034-the-6ps-ops-microsoft-kubernetes-terraform-and-more-d1fb397ad762"
-]
-
-+++
+---
+aliases:
+- devopsish-034-the-6ps-ops-microsoft-kubernetes-terraform-and-more-d1fb397ad762
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-07-30T11:01:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/wip.jpg
+imagealt: Trying to juggle too many tasks will kill your productivity. Focus on one thing at a time. —David Neal
+slug: '034'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- linux
+- google
+- gophercon
+- containers
+- Docker
+title: '034: The 6Ps, Ops, Microsoft, Kubernetes, Terraform, and More'
+---
 
 A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for me. The challenges of management are quite interesting. Trying to jump start DevOps initiatives, change technologies, migrate away from legacy infrastructure, as well as hire and manage people is grueling and exciting all at the same time. Then 💥 boom 💥 along comes the most arbitrarily timed, poorly planned project you have ever seen to throw a monkey wrench into everything. Remember The 6Ps, kids: Proper Planning Prevents Piss Poor Performance. Did I mention we closed on a new house this week and are having problems with our moving company? Life gets in the way, yet life always finds a way. You have to remember you're not an electron, your path will not always be the least resistant one. If DevOps was easy, everyone would already be doing it.
 
@@ -34,7 +43,7 @@ A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for
 
 [Google Spent 2 Years Studying 180 Teams. The Most Successful Ones Shared These 5 Traits](https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html)
 
-{{< tweet 891072671122731009 >}}
+{{< x user="littleidea" id="891072671122731009" >}}
 
 ## Process
 
@@ -54,7 +63,7 @@ A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for
 
 [Status update from the Reproducible Builds project](https://lists.debian.org/debian-devel-announce/2017/07/msg00004.html)
 
-{{< tweet 890155828841398273 >}}
+{{< x user="bigmac" id="890155828841398273" >}}
 
 ## Tools
 
@@ -78,6 +87,3 @@ A long and arduous week in the world of [**DevOps**](https://devopsish.com/) for
 
 [aws-ec2rescue-linux](https://github.com/awslabs/aws-ec2rescue-linux): Amazon Web Services Elastic Compute Cloud (EC2) Rescue for Linux is a python-based tool that allows for the automatic diagnosis of common problems found on EC2 Linux instances.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 889644081093255168 >}}

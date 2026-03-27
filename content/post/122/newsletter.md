@@ -1,15 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-04-07
-description = ""
-draft = false
-slug = "122"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "Red Hat", "envoy", "OPA", "BPF", "Chef", "996"]
-title = "122: Chefnanigans, Emotional Intelligence, Derek the DevOps Dinosaur, BPF, Envoy Convoy, Crates of k8s, OPA, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-04-07'
+description: ''
+draft: false
+slug: '122'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- serverless
+- container
+- security
+- Red Hat
+- envoy
+- OPA
+- BPF
+- Chef
+- '996'
+title: '122: Chefnanigans, Emotional Intelligence, Derek the DevOps Dinosaur, BPF, Envoy Convoy, Crates of k8s, OPA, and More'
+---
 
 Chef announced this week they were giving up on letting users have binaries for free. Instead, you now can have all the source code for free but, [not any of the binaries](https://blog.chef.io/2019/04/02/chef-software-announces-the-enterprise-automation-stack/). [Adam Jacob](https://medium.com/@adamhjk/goodbye-open-core-good-riddance-to-bad-rubbish-ae3355316494) cited one company as having already adopted this model; **Red Hat** (my employer, see [disclaimer](https://devopsish.com/terms/)). It's a rather dubious claim because this [Free Software Product](https://sfosc.org/business-models/free-software-product/) model, developed mostly by [Adam Jacob in the past sixth months](https://github.com/sfosc/sfosc/graphs/contributors), definitely does not predate Red Hat. I sure haven't seen an announcement about how Red Hat is changing anything. Nor have I seen any policy about adopting this specific model (full disclosure, I was on PTO Friday). Regardless, I guess the thinking is if you can't beat ‘em, join ‘em? ¯\\\_(ツ)\_/¯
 
@@ -115,6 +133,6 @@ How well does your organization respond to changing market conditions, customer 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1113239960348499968 >}}
+{{< x user="devopsdaysdet" id="1113239960348499968" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

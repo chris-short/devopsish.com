@@ -1,16 +1,40 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-10-02
-description = ["DevOps'ish 287 is dedicated to a wonderful community member we lost this week, Cody Crudgington"]
-draft = false
-slug = "287"
-tags = ["open source", "Kubernetes", "Cody Crudgington", "podcast", "Twitter", "code", "contributor", "Cloud Native", "community", "Iran", "Signal", "Istio", "KubeCon", "developers", "CIA", "Girls Who Code", "Linux", "news", "GitHub", "GitOps"]
-title = "DevOps'ish 287: Cody Crudgington, Help Iranians connect, bill to protect open source, VMware ESXi popped, Baffling Maze of Kubernetes, Girls Who Code Founder Speaks Out, and more"
-image ="https://shortcdn.com/devopsish/cody-speaking.webp"
-imagealt = "Cody Crudgington speaking at the Kubernetes Contributor Summit in San Diego"
-imagecap = "Cody Crudgington speaking at the Kubernetes Contributor Summit in San Diego"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-10-02'
+description:
+- DevOps'ish 287 is dedicated to a wonderful community member we lost this week, Cody Crudgington
+draft: false
+image: https://shortcdn.com/devopsish/cody-speaking.webp
+imagealt: Cody Crudgington speaking at the Kubernetes Contributor Summit in San Diego
+imagecap: Cody Crudgington speaking at the Kubernetes Contributor Summit in San Diego
+slug: '287'
+tags:
+- open source
+- Kubernetes
+- Cody Crudgington
+- podcast
+- Twitter
+- code
+- contributor
+- Cloud Native
+- community
+- Iran
+- Signal
+- Istio
+- KubeCon
+- developers
+- CIA
+- Girls Who Code
+- Linux
+- news
+- GitHub
+- GitOps
+title: 'DevOps''ish 287: Cody Crudgington, Help Iranians connect, bill to protect open source, VMware ESXi popped, Baffling Maze of Kubernetes, Girls Who Code Founder Speaks Out, and more'
+---
 
 With a heavy heart, I bring you the news of [Cody Crudgington's passing](https://twitter.com/AlexB138/status/1574590750288920599) in his home. The [Kubernetes Contributor Comms Team](https://github.com/kubernetes/community/blob/master/communication/marketing-team/README.md) sprang into action on behalf of Kubernetes Steering (who are all overworked already) this week to get coordinated around who to open up communication lanes with and generally being as open with the community as possible while respecting the wishes of Cody's family.
 

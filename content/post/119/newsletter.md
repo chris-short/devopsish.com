@@ -1,15 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-03-17
-description = "Serverless, k8s on k8s on k8s, gRPC (Yeah You Know Me), Foundation Fatigue, Self Care, and More"
-draft = false
-slug = "119"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "ansible", "container", "security", "google", "azure", "k8s", "grpc", "Docker", "quantum computing", "Accelerate"]
-title = "119: Serverless, k8s on k8s on k8s, gRPC (Yeah You Know Me), Foundation Fatigue, Self Care, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-03-17'
+description: Serverless, k8s on k8s on k8s, gRPC (Yeah You Know Me), Foundation Fatigue, Self Care, and More
+draft: false
+slug: '119'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- serverless
+- ansible
+- container
+- security
+- google
+- azure
+- k8s
+- grpc
+- Docker
+- quantum computing
+- Accelerate
+title: '119: Serverless, k8s on k8s on k8s, gRPC (Yeah You Know Me), Foundation Fatigue, Self Care, and More'
+---
 
 I learned this week that [I've had Shingles since at least November](https://twitter.com/ChrisShort/status/1105211715413790720). If you don't know, [Shingles](https://www.mayoclinic.org/diseases-conditions/shingles/symptoms-causes/syc-20353054) is adult chickenpox and can suck the life out of you ([get your kids vaccinated](https://www.cdc.gov/vaccines/vpd/varicella/public/index.html)). I didn't notice the first sign of shingles, pain, due to all the medications I'm already taking. I chalked up the fatigue to a busier than normal travel schedule. I had several opportunities to get the first outbreak looked at and didn't. This second outbreak did get looked at and it is a wake-up call. The point is if you don't take care of yourself, how able are you going to take care of anything else?
 
@@ -133,8 +153,5 @@ Keeping up with the avalanche of new features, blog posts, industry news, and al
 
 [micro/go-micro](https://github.com/micro/go-micro) — A microservice framework
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1106012106950770693 >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

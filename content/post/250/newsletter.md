@@ -1,15 +1,54 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-01-02
-description = ["2021 is so 2020, It's not you, it's them, US 5G rollout issues, P2E gaming, Log4j (still), Microsoft Exchange year 2022 bug, privacy's big year, has serverless peaked, youki, and more"]
-draft = false
-slug = "250"
-tags = ["2021", "year", "Kubernetes", "privacy", "DevOps", "Honeycomb", "code", "tech", "search", "Blackberry", "AWS", "Apple", "speed", "serverless", "transistor", "keycloak", "software", "CLI", "time", "tax", "internet", "engineering", "safety", "aircraft", "United States", "Google", "Log4j", "CVE", "Microsoft", "AWS", "encrypted", "developers", "LastPass", "intelligence", "secure", "performance", "kubectl"]
-title = "DevOps'ish 250: 2021 be gone, It's not you, it's them, US 5G rollout issues, P2E gaming, Log4j (still), Microsoft Exchange year 2022 bug, privacy's big year, has serverless peaked, youki, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-01-02'
+description:
+- 2021 is so 2020, It's not you, it's them, US 5G rollout issues, P2E gaming, Log4j (still), Microsoft Exchange year 2022 bug, privacy's big year, has serverless peaked, youki, and more
+draft: false
+slug: '250'
+tags:
+- '2021'
+- year
+- Kubernetes
+- privacy
+- DevOps
+- Honeycomb
+- code
+- tech
+- search
+- Blackberry
+- AWS
+- Apple
+- speed
+- serverless
+- transistor
+- keycloak
+- software
+- CLI
+- time
+- tax
+- internet
+- engineering
+- safety
+- aircraft
+- United States
+- Google
+- Log4j
+- CVE
+- Microsoft
+- AWS
+- encrypted
+- developers
+- LastPass
+- intelligence
+- secure
+- performance
+- kubectl
+title: 'DevOps''ish 250: 2021 be gone, It''s not you, it''s them, US 5G rollout issues, P2E gaming, Log4j (still), Microsoft Exchange year 2022 bug, privacy''s big year, has serverless peaked, youki, and more'
+---
 
 Happy New Year! 🎉🥳🎊 I wish you the absolute best in 2022.
 

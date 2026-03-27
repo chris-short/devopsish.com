@@ -1,15 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-03-05
-description = ["Doctor induced roller coasters, Tessa Kriesel, NSA security guides, Kubernetes Hardening, GitOps & Flux, Get Vault Secrets into Kubernetes, and more"]
-draft = false
-slug = "259"
-tags = ["Argo", "secrets", "GitOps", "Amazon EKS", "Kubernetes", "process", "practices", "tech", "incident", "CSI", "cloud native", "open secrets", "NSA", "networks", "cluster", "practitioners", "EC2 Spot Instances", "DevOps"]
-title = "DevOps'ish 259: Doctor induced roller coasters, Tessa Kriesel, NSA security guides, Kubernetes Hardening, GitOps & Flux, Get Vault Secrets into Kubernetes, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-03-05'
+description:
+- Doctor induced roller coasters, Tessa Kriesel, NSA security guides, Kubernetes Hardening, GitOps & Flux, Get Vault Secrets into Kubernetes, and more
+draft: false
+slug: '259'
+tags:
+- Argo
+- secrets
+- GitOps
+- Amazon EKS
+- Kubernetes
+- process
+- practices
+- tech
+- incident
+- CSI
+- cloud native
+- open secrets
+- NSA
+- networks
+- cluster
+- practitioners
+- EC2 Spot Instances
+- DevOps
+title: 'DevOps''ish 259: Doctor induced roller coasters, Tessa Kriesel, NSA security guides, Kubernetes Hardening, GitOps & Flux, Get Vault Secrets into Kubernetes, and more'
+---
 
 If you follow me on Twitter you know it has been a [roller](https://twitter.com/ChrisShort/status/1498810564751118344) [coaster](https://twitter.com/ChrisShort/status/1499352858017341440) week on the home front. I was getting a haircut today and a topic that I often hear lately is how terrible doctor’s are of late about informing folks of bad news. Our family went from [thinking the absolute worst](https://twitter.com/ChrisShort/status/1498810564751118344) as laid out by doctors one afternoon. Only to have a doc twelve hours later tell us, [no, everything is fine](https://twitter.com/ChrisShort/status/1499352858017341440) (Yay! 🥳). We’ll do this one test to prove it. We’re very confident this is a false positive. A friend of mine and I talk about this phenomenon from time to time. But, even my barber had a friend that had the news he had 4-6 years to live and the doctor said, “Yeah. You better start checking off that bucket list.” Why has this become common place? This  somewhat inhuman behavior has to be being taught somehow for it to be so widespread one would think. I get it, telling people they might have to deal with the death of a loved one is hard. But, let’s rattle off all scenarios not just the death one. *pat on the shoulder*
 

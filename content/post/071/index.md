@@ -1,17 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-04-15
-description = ""
-draft = false
-slug = "071"
-tags = ["devops", "cloud native", "open source", "tech debt", "technical debt", "kubernetes", "open offices", "Susan Fowler", "containers"]
-title = "071: Susan Fowler, Open Offices, Tech Debt, Cloud Native Serverless, Kubernetes, and More"
-image ="https://shortcdn.com/devopsish/patience.jpg"
-imagealt = "Stacked rocks symbolizing patience"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-04-15'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/patience.jpg
+imagealt: Stacked rocks symbolizing patience
+slug: '071'
+tags:
+- devops
+- cloud native
+- open source
+- tech debt
+- technical debt
+- kubernetes
+- open offices
+- Susan Fowler
+- containers
+title: '071: Susan Fowler, Open Offices, Tech Debt, Cloud Native Serverless, Kubernetes, and More'
+---
 
 I am trying to figure out how best to describe my week. Maybe "frustrating"? There isn't a much better word than that. When you have working code in one environment but not another because of backwardly applied security tooling, frustrated is all you can be. This isn't some purposeful, subtle change to the environment. This is 1990s tech masquerading as security kabuki. And this code wasn't rocket science, it was a unit test framework. When you hit roadblocks at every turn when you're trying to rip through code to help a team accelerate; what do you do? Thankfully I have good bosses and clients that know they are in trouble if this continues. Now the work of fixing it is more of a job in patience than a level of effort.
 
@@ -132,4 +142,4 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 984861100872089601 >}}
+{{< x user="markimbriaco" id="984861100872089601" >}}

@@ -1,18 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-04-22
-description = ""
-draft = false
-slug = "072"
-tags = ["devops", "cloud native", "open source", "Microsoft", "DevSecOps", "container", "Kubernetes", "security", "containers"]
-title = "072: Microsoft, Speaking, DevSecOps, Container Security, Kubernetes, and More"
-image ="https://shortcdn.com/devopsish/pick-up-the-microphone.jpg"
-imagealt = "How many mics do we rip on the daily —The Fugees"
-imagecap = "How many mics do we rip on the daily —The Fugees"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-04-22'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/pick-up-the-microphone.jpg
+imagealt: How many mics do we rip on the daily —The Fugees
+imagecap: How many mics do we rip on the daily —The Fugees
+slug: '072'
+tags:
+- devops
+- cloud native
+- open source
+- Microsoft
+- DevSecOps
+- container
+- Kubernetes
+- security
+- containers
+title: '072: Microsoft, Speaking, DevSecOps, Container Security, Kubernetes, and More'
+---
 
 This week has been a blur. Monday through Wednesday, I was in Atlanta for DevOpsDays. DevOpsDays Atlanta was a truly great event. The theme was well thought out and the speakers were fantastic. This was the first time I actually manned a booth at an event before too. Talking to total strangers is something I'm okay with. It's a good thing too because there were a ton of visitors to the [SJ Technologies](http://sjtechcorp.com) booth. My talk, [DevOps is Not War](https://chrisshort.net/devopsdays-atlanta-2018-devops-is-not-war/), was on Wednesday. It was a brand new talk, with a brand new presentation tool, and the first time I used Google Slides. Testing in production as one member of the audience stated. I had the opportunity to iron out the kinks on Thursday in Ann Arbor at [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/) where I gave my second talk in as many days, Heaven is Not a Cloud. Then on Friday, I demoed Kubernetes Cron Jobs to the [Detroit Kubernetes, Docker & all related things](https://www.meetup.com/Detroit-Kubernetes-Docker-all-things-Cloud-Native/events/249593802/) Meetup. Needless to say, three new talks in three different cities over three consecutive days was a challenge. Could I do it again, yes. Would I voluntarily do it again? 🤔🤔🤪
 
@@ -135,4 +145,4 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 986587313265405953 >}}
+{{< x user="juliaferraioli" id="986587313265405953" >}}

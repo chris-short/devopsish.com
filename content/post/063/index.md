@@ -1,17 +1,34 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-02-18
-description = ""
-draft = false
-slug = "063"
-tags = ["devops", "cloud native", "open source", "continuous improvement", "change", "Kubernetes", "serverless", "leadership", "culture", "go", "golang", "linux", "google", "containers", "Kubernetes Operators", "Docker"]
-title = "063: Kubernetes Tips & Tricks, Leadership, Serverless, dtrace for Linux, Azure for Go, and More!"
-image ="https://shortcdn.com/devopsish/seeing-the-light.jpg"
-imagealt = "Seeing the light"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-02-18'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/seeing-the-light.jpg
+imagealt: Seeing the light
+slug: '063'
+tags:
+- devops
+- cloud native
+- open source
+- continuous improvement
+- change
+- Kubernetes
+- serverless
+- leadership
+- culture
+- go
+- golang
+- linux
+- google
+- containers
+- Kubernetes Operators
+- Docker
+title: '063: Kubernetes Tips & Tricks, Leadership, Serverless, dtrace for Linux, Azure for Go, and More!'
+---
 
 I listened to a very impactful podcast on Wednesday while walking my [best buddy beast (happy birthday, Sunny)](https://www.instagram.com/p/BfL1YAenilh/?taken-by=thechrisshort). On the podcast, the speaker asked the audience five questions. One of those questions was, "When was the last time you changed your mind?" This question struck me. When was the last time I changed my mind? What motivated me to make that change? Would I be able to help others make a similar change should they ask for assistance? My mind raced through a series of events where I felt my mind had changed on something. Some were significant, others were trivial. But, the one thing I realized is that I change my mind often. It goes back to something I've mentioned in this newsletter a few times, **resisting change is a DevOps anti-pattern**. It also harkens back to the [strong opinions, loosely held](/048/) mantra that I have tried to adapt to. The speaker goes on to mention that being able to change your mind requires you to be humble, confident, and able to listen. Listen as in actually listening not pausing until the other person is done speaking.
 
@@ -116,6 +133,3 @@ Want to write for opensource.com and can't come up with a good topic? Reach out 
 
 [spotahome/kooper](https://github.com/spotahome/kooper): Kooper is a simple Go library to create Kubernetes operators and controllers.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 963428093292457984 >}}

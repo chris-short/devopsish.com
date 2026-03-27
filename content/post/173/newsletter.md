@@ -1,15 +1,40 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-03-29
-description = "For shame O'Reilly, Zoom'ing in on privacy, Kubernetes 1.18, Serverless with Knative, why you should try UBI, Dockerized Folding@Home, and more"
-draft = false
-slug = "173"
-tags = ["O'Reilly", "Kubernetes", "security", "open source", "DevOps", "Red Hat", "Cloud", "infrastructure", "AWS", "EKS", "xKS", "cluster", "Zoom", "privacy", "software", "interview", "Knative", "serverless", "CNCF", "pandemic", "Microsoft", "community", "cloud native", "VSCode"]
-title = "DevOps'ish 173"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-03-29'
+description: For shame O'Reilly, Zoom'ing in on privacy, Kubernetes 1.18, Serverless with Knative, why you should try UBI, Dockerized Folding@Home, and more
+draft: false
+slug: '173'
+tags:
+- O'Reilly
+- Kubernetes
+- security
+- open source
+- DevOps
+- Red Hat
+- Cloud
+- infrastructure
+- AWS
+- EKS
+- xKS
+- cluster
+- Zoom
+- privacy
+- software
+- interview
+- Knative
+- serverless
+- CNCF
+- pandemic
+- Microsoft
+- community
+- cloud native
+- VSCode
+title: DevOps'ish 173
+---
 
 The impact of the coronavirus hit the tech events industry hard this week. In a shocking move on Tuesday, [O'Reilly announced it has immediately ceased all in-person events](https://www.oreilly.com/conferences/from-laura-baldwin.html). To add insult to injury, [O'Reilly laid off their entire events staff during a pandemic](https://twitter.com/joshsimmons/status/1242596429924728832). To make matters worse, under US law, they'll get only a week of health insurance benefits, [meager support for COBRA (super expensive health insurance), and any severance is based solely on tenure](https://twitter.com/jhscott/status/1242604187294154752). DevOps'ish is an O'Reilly community partner. I heard from the O'Reilly partner team this week that they were full steam ahead. I was slated to speak at the [O'Reilly Infrastructure & Ops Conference in June](https://conferences.oreilly.com/infrastructure-ops/io-ca/public/schedule/speaker/200908)). I haven't heard a peep out of O'Reilly about what happens now. [Tim O'Reilly mustered up this 'lipstick on a pig' post](https://www.oreilly.com/about/open-source-matters-more-than-ever.html), though, so we should all feel great about it, right? Guess what; I don't.
 
@@ -88,8 +113,5 @@ If you can cross-compile and run your code on ARM infrastructure, do it! You'll 
 [codingCoffee/fahclient](https://github.com/codingCoffee/fahclient)  
 Dockerized Folding@home client with NVIDIA GPU support
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1242575595956867072 >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/173/notes.md) to see what didn't make it to the newsletter.

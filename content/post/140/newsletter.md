@@ -1,15 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-08-11
-description = "Kubernetes, DevOps, AWS, Community, Operators, and More"
-draft = false
-slug = "140"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "DevOps news", "Kubernetes news", "community", "AWS", "Operators", "Kubernetes Operators"]
-title = "140: Kubernetes, DevOps, AWS, Community, Operators, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-08-11'
+description: Kubernetes, DevOps, AWS, Community, Operators, and More
+draft: false
+slug: '140'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- GitHub
+- cloud native
+- DevOps news
+- Kubernetes news
+- community
+- AWS
+- Operators
+- Kubernetes Operators
+title: '140: Kubernetes, DevOps, AWS, Community, Operators, and More'
+---
 
 A challenging week due to my injuries. I'll be down for the count Monday afternoon to help. I'll hopefully be back at normal operating happiness by Thursday. I'll have some personal news to share next week.
 
@@ -98,8 +111,5 @@ Blue Matador is alert automation for AWS and Kubernetes environments. Our proact
 
 [encode/httpx](https://github.com/encode/httpx) — A next-generation HTTP client for Python
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1158432433324187650 >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

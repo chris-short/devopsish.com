@@ -1,15 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-08-12
-description ="Survey Results, Kubernetes, Prometheus Graduates 🎓, Blue Light is Bad, CI/CD, Ethics, kubespray, and More!"
-draft = false
-slug = "088"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "survey results", "ethics", "prometheus", "kubespray", "CI/CD"]
-title = "088: Survey Results, Kubernetes, Prometheus Graduates 🎓, Blue Light is Bad, CI/CD, Ethics, kubespray, and More!"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-08-12'
+description: Survey Results, Kubernetes, Prometheus Graduates 🎓, Blue Light is Bad, CI/CD, Ethics, kubespray, and More!
+draft: false
+slug: 088
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- ansible
+- survey results
+- ethics
+- prometheus
+- kubespray
+- CI/CD
+title: '088: Survey Results, Kubernetes, Prometheus Graduates 🎓, Blue Light is Bad, CI/CD, Ethics, kubespray, and More!'
+---
 
 If you participated in the DevOps'ish Summer 2018 Survey, thank you. It was vital to make sure I was putting bits in the right places. The [aggregate results are available](https://docs.google.com/forms/d/1XRAHLduV_ssmPPP_CB_Pbw33LMeaurOfOTEsFDoppkQ/viewanalytics). A few changes you might have noticed last week; [Events](/events/) and [Jobs](/jobs/) now live as pages on the website. While they add value, they also added unnecessary weight to every newsletter. The benefit of them being pages now either of them can be updated as new listings come in. The offer still stands for readers getting their listings on the site for free.
 

@@ -1,17 +1,34 @@
-+++
-
-author = "Chris Short"
-categories = ["Indexes", "2020"]
-date = 2020-12-20
-description = "Coverage of the Solarwinds supply chain compromise from around the web"
-draft = false
-slug = "solarwinds-supply-chain-compromise"
-tags = ["Solarwinds Orion", "Solarwinds", "supply chain", "compromise", "hack", "DevOps", "Microsoft", "security", "spied", "Russia", "hackers", "spy", "backdoor", "breach", "Orion", "CISA", "advisory"]
-title = "DevOps'ish Solarwinds supply chain compromise Index"
-image = "https://shortcdn.com/devopsish/sw-logo.svg"
-imagealt = "Solarwinds"
-
-+++
+---
+author: Chris Short
+categories:
+- Indexes
+- '2020'
+date: '2020-12-20'
+description: Coverage of the Solarwinds supply chain compromise from around the web
+draft: false
+image: https://shortcdn.com/devopsish/sw-logo.svg
+imagealt: Solarwinds
+slug: solarwinds-supply-chain-compromise
+tags:
+- Solarwinds Orion
+- Solarwinds
+- supply chain
+- compromise
+- hack
+- DevOps
+- Microsoft
+- security
+- spied
+- Russia
+- hackers
+- spy
+- backdoor
+- breach
+- Orion
+- CISA
+- advisory
+title: DevOps'ish Solarwinds supply chain compromise Index
+---
 
 A one-stop shop for opinion, analysis, and/or coverage of the Solarwinds supply chain compromise. Coverage includes official statements and filings, accredited media coverage, industry analyisis, and noteworthy blogs, digital media, and other mediums as deemed worthwhile.
 

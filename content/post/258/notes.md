@@ -2,9 +2,9 @@
 
 ## Ukraine
 
-{{< tweet user="ChrisShort" id="1497250725008756737" >}}
+{{< x user="ChrisShort" id="1497250725008756737" >}}
 
-{{< tweet user="ChrisShort" id="1496978892308942848" >}}
+{{< x user="ChrisShort" id="1496978892308942848" >}}
 
 [Assistance for logistical and medical support of the Armed Forces of Ukraine (Ministry of Defense) – Official website of Ukraine](https://ukraine.ua/news/support-the-armed-forces-of-ukraine/)
 

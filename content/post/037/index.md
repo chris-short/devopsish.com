@@ -1,20 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-08-20T06:16:07.060Z
-description = ""
-draft = false
-slug = "037"
-tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "detroit", "linux", "github", "google", "Docker"]
-title = "037: Google, Debian, MongoDB, Kubernetes, and More!"
-image ="https://shortcdn.com/devopsish/raspberry-pi-boards.jpg"
-imagealt = "Raspberry Pi Boards"
-aliases = [
-    "devopsish-037-google-debian-mongodb-kubernetes-and-more-ce2f96fa004c"
-]
-
-+++
+---
+aliases:
+- devopsish-037-google-debian-mongodb-kubernetes-and-more-ce2f96fa004c
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-08-20T06:16:07Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/raspberry-pi-boards.jpg
+imagealt: Raspberry Pi Boards
+slug: '037'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- serverless
+- detroit
+- linux
+- github
+- google
+- Docker
+title: '037: Google, Debian, MongoDB, Kubernetes, and More!'
+---
 
 Being a manager is sometimes quite interesting. You have these odd moments of honesty about things you want and you try to make them happen. Sometimes those things are embraced and sometimes there are probing questions about them. This week I travelled to the Bankrate Florida office in Palm Beach Gardens, FL. While working in a geographically diverse company is cool, it's sometimes good to meet face-to-face to assist culture changes. I think the biggest challenge in technology heavy fields is communication. It gets even harder when you're over 1,000 miles away. How does DevOps help us solve that problem?
 

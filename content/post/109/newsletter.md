@@ -1,15 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-01-06
-description = "Get Caught Up, Kubernetes in High Demand, Two Monorepos Walk into a Bar, Hashicorp at Home, and More"
-draft = false
-slug = "109"
-tags = ["devops", "kubernetes", "open source", "cloud", "newsletter", "cloud native", "security", "gocd", "software", "engineering", "aws", "golang", "linux", "openebs", "monorepos", "container", "infosec"]
-title = "109: Get Caught Up, Kubernetes in High Demand, Two Monorepos Walk into a Bar, Hashicorp at Home, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-01-06'
+description: Get Caught Up, Kubernetes in High Demand, Two Monorepos Walk into a Bar, Hashicorp at Home, and More
+draft: false
+slug: '109'
+tags:
+- devops
+- kubernetes
+- open source
+- cloud
+- newsletter
+- cloud native
+- security
+- gocd
+- software
+- engineering
+- aws
+- golang
+- linux
+- openebs
+- monorepos
+- container
+- infosec
+title: '109: Get Caught Up, Kubernetes in High Demand, Two Monorepos Walk into a Bar, Hashicorp at Home, and More'
+---
 
 What a weird week. It started on Wednesday first of all. It felt like half of everyone was still on vacation. It was quiet but, it was busy. There was a lot of great content this week too surprisingly. The time at the end of one year, the beginning of another is awesome. So many folks are taking time to write down their thoughts on everything from note taking during programming to monorepos to Kubernetes to infosec. It feels kinda magical out in the world of tech right now. Hopefully, we can turn this positive energy into something awesome this year.
 
@@ -109,8 +127,5 @@ A pair of Kubernetes security issues this week. #shoutout to the Kubernetes Prod
 
 [Best Linux Distro 2019, for desktop](https://haydenjames.io/best-linux-distro/)
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1081418769849700352 >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

@@ -1,20 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-06-25T12:02:22.203Z
-description = ""
-draft = false
-slug = "029"
-tags = ["devops", "cloud native", "open source", "serverless", "detroit", "containers", "Linus Torvalds", "Docker"]
-title = "029: Week of 1498363200"
-image ="https://shortcdn.com/devopsish/downtown-detroit-from-bankrate-office.jpg"
-imagealt = "View from my office in Downtown Detroit"
-aliases = [
-    "devopsish-029-week-of-1498363200-56ad15adce32"
-]
-
-+++
+---
+aliases:
+- devopsish-029-week-of-1498363200-56ad15adce32
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-06-25T12:02:22Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/downtown-detroit-from-bankrate-office.jpg
+imagealt: View from my office in Downtown Detroit
+slug: 029
+tags:
+- devops
+- cloud native
+- open source
+- serverless
+- detroit
+- containers
+- Linus Torvalds
+- Docker
+title: '029: Week of 1498363200'
+---
 
 My first full week working as Manager, DevOps at Bankrate.com in Downtown Detroit was great! There is an amazing transformation happening here in Detroit. I foresee Detroit becoming a huge tech hub and DevOps center of gravity in the not too distant future. If you are interested in joining this effort and building a world class DevOps team at Bankrate.com [I am looking to fill one more DevOps Engineer position](http://app.jobvite.com/m?3ru8KiwA) on my team at the moment.
 

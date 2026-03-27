@@ -1,14 +1,41 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-03-13
-description = ["Organizational skills a key to productivity, don't spy on employees, Elementary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more"]
-draft = false
-slug = "260"
-tags = ["GitOps", "ArgoCD", "Kubernetes", "DevOps", "security", "security incident", "attack", "cloud", "Cloud Native", "Linkerd", "practitioners", "cybersecurity", "vulnerability", "community", "collaboration", "avoid pitfalls", "Flux", "infrastructure", "DDoS", "developers", "CNCF", "OpenGitOps", "Elementary OS", "Honeycomb"]
-title = "DevOps'ish 260: Organizational skills a key to productivity, don't spy on employees, Elementary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-03-13'
+description:
+- Organizational skills a key to productivity, don't spy on employees, Elementary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more
+draft: false
+slug: '260'
+tags:
+- GitOps
+- ArgoCD
+- Kubernetes
+- DevOps
+- security
+- security incident
+- attack
+- cloud
+- Cloud Native
+- Linkerd
+- practitioners
+- cybersecurity
+- vulnerability
+- community
+- collaboration
+- avoid pitfalls
+- Flux
+- infrastructure
+- DDoS
+- developers
+- CNCF
+- OpenGitOps
+- Elementary OS
+- Honeycomb
+title: 'DevOps''ish 260: Organizational skills a key to productivity, don''t spy on employees, Elementary OS implosion, Dirty Pipe, big ole amplification attacks, GitOps galore, lavished by Linkerd, and more'
+---
 
 We are very fortunate. I remind myself of that every day. Our household's collective efforts have put us where we are today (being some random dude from a town called Hickory; this is far further than I'd ever imagined). I have been posting pictures from my new office that we custom built in our basement. I'm very fortunate to have a room, with a solid door and some soundproofing, to work from in these times. The only thing to bother me are the things I let into my day.
 
@@ -106,6 +133,6 @@ Oh this is really sad because elementary OS is what I default to for new to Linu
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet user="todaywasawesome" id="1501955445094699024">}}
+{{< x user="todaywasawesome" id="1501955445094699024" >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/260/notes.md) to see what didn't make it to the newsletter but are still worth your time.

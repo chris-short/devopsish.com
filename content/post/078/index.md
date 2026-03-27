@@ -1,18 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-06-03
-description = ""
-draft = false
-slug = "078"
-tags = ["devops", "cloud native", "open source", "kubernetes", "GitOps", "cloud", "security", "git", "Docker"]
-title = "078: Microsoft ❤️ GitHub, Security, Project Maven, Ansible, Kubernetes, and More"
-image ="https://shortcdn.com/devopsish/mindseye-what-the-military-taught-me-about-devops.jpg"
-imagealt = "Graphic Recording of What The Military Taught Me About DevOps"
-imagecap = "Graphic Recording by [Mind's Eye Creative](http://www.mindseyecreative.ca/)"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-06-03'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/mindseye-what-the-military-taught-me-about-devops.jpg
+imagealt: Graphic Recording of What The Military Taught Me About DevOps
+imagecap: Graphic Recording by [Mind's Eye Creative](http://www.mindseyecreative.ca/)
+slug: 078
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- GitOps
+- cloud
+- security
+- git
+- Docker
+title: '078: Microsoft ❤️ GitHub, Security, Project Maven, Ansible, Kubernetes, and More'
+---
 
 My whirlwind speaking tour continued at [DevOpsDays Toronto](https://chrisshort.net/devopsdays-toronto-2018-what-the-military-taught-me-about-devops/) this week. The tour continues at [DevNation Federal](https://devnationfederal.org/) in Washington DC on Tuesday. The event is free to all so come out and say, "Hi." I'll also be at [DevOpsDays DC](https://www.devopsdays.org/events/2018-washington-dc/welcome/). Stop by the SJ Technologies booth and talk some DevOps or Kubernetes if you're around.
 

@@ -1,15 +1,43 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-10-18
-description = "YAML, Kubernetes Steering Committee, BleedingTooth, ContainerDrip, TrickBot, Kubernetes, Van Halen's rider, Rust, and more"
-draft = false
-slug = "188"
-tags = ["YAML", "Kubernetes", "DevOps", "Rust", "monitoring", "Docker", "infrastructure", "code", "build", "open source", "systems", "security", "bleedingtooth", "cloud", "cloud native", "git", "configuration", "observability", "learn", "culture", "developers", "Microsoft", "Python", "container", "thanos", "deployment", "platform"]
-title = "DevOps'ish 188"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-10-18'
+description: YAML, Kubernetes Steering Committee, BleedingTooth, ContainerDrip, TrickBot, Kubernetes, Van Halen's rider, Rust, and more
+draft: false
+slug: '188'
+tags:
+- YAML
+- Kubernetes
+- DevOps
+- Rust
+- monitoring
+- Docker
+- infrastructure
+- code
+- build
+- open source
+- systems
+- security
+- bleedingtooth
+- cloud
+- cloud native
+- git
+- configuration
+- observability
+- learn
+- culture
+- developers
+- Microsoft
+- Python
+- container
+- thanos
+- deployment
+- platform
+title: DevOps'ish 188
+---
 
 [We kinda went down a rabbit hole](https://twitter.com/brunoborges/status/1315230767207784450) this week when I suggested folks check out [*yq*](https://dev.to/vikcodes/yq-a-command-line-tool-that-will-help-you-handle-your-yaml-resources-better-8j9), "The aim of the project is to be the jq or sed of yaml files." First, there's nothing wrong with this project. I like it, I find the tool useful, and that's that. But the great debate started over our lord and savior, [YAML](https://yaml.org/). Yeah, I know, XML vs. JSON vs. YAML vs. TOML vs. the next thing is a tired and old debate.
 

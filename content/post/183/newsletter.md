@@ -1,15 +1,41 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-09-13
-description = "9-11, The Automated CIO, Postgres, Rust, Kubernetes, and more"
-draft = false
-slug = "183"
-tags = ["DevOps", "cloud", "cloud native", "open source", "Kubernetes", "Intelligence", "postgresql", "infrastructure", "Intel", "CIO", "observability", "automated", "GitOps", "Operators", "Apache Kafka", "Chef", "security", "Linux", "Langley AFB", "monitoring", "automation", "CNCF", "API", "Progressive Delivery", "Feature Flags"]
-title = "DevOps'ish 183"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-09-13'
+description: 9-11, The Automated CIO, Postgres, Rust, Kubernetes, and more
+draft: false
+slug: '183'
+tags:
+- DevOps
+- cloud
+- cloud native
+- open source
+- Kubernetes
+- Intelligence
+- postgresql
+- infrastructure
+- Intel
+- CIO
+- observability
+- automated
+- GitOps
+- Operators
+- Apache Kafka
+- Chef
+- security
+- Linux
+- Langley AFB
+- monitoring
+- automation
+- CNCF
+- API
+- Progressive Delivery
+- Feature Flags
+title: DevOps'ish 183
+---
 
 *General 9-11, war, and mental health warnings*
 
@@ -109,7 +135,7 @@ V attempts to answer, "Fast compilation, Simplicity & maintainability, Great per
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1303529884862431232 >}}
+{{< x user="TheNikhita" id="1303529884862431232" >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/183/notes.md) to see what didn't make it to the newsletter.
 
