@@ -42,7 +42,7 @@ Hi all, if you thought last week was terrible, I give you this week. I'm not goi
 
 ## Happy Birthday, DevOps'ish
 
-DevOps'ish turns five years old today! Max was a year old. I told my wife I was starting a newsletter. Two-hundred forty-seven issues later, we've arrived here. This morning, I told Julie, who thought I was nuts at the launch, that DevOps'ish is one of the best things I've done for my career. This has paid off on the home front and improved our overall quality of life. I guess this shouldn't come as a surprise, but the newsletter also enabled MORE charitable giving than before too. Has DevOps'ish been a success? [Yes](https://devopsish.com/praise/).
+DevOps'ish turns five years old today! Max was a year old. I told my wife I was starting a newsletter. Two-hundred forty-seven issues later, we've arrived here. This morning, I told Julie, who thought I was nuts at the launch, that DevOps'ish is one of the best things I've done for my career. This has paid off on the home front and improved our overall quality of life. I guess this shouldn't come as a surprise, but the newsletter also enabled MORE charitable giving than before too. Has DevOps'ish been a success? Yes!
 
 ### DevOps'ish at 5
 

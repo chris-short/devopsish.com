@@ -62,8 +62,6 @@ Discover the true value of Developer Relations as you learn to build and maintai
 
 [Kubernetes Pod Escape Using Log Mounts](https://blog.aquasec.com/kubernetes-security-pod-escape-log-mounts) — "In this post you'll see how a pod running as root and with a mount point to the node's /var/log directory can expose the entire contents of its host filesystem to any user who has access to its logs. We'll also talk about your options to mitigate this issue in your cluster."
 
-[Praise](https://devopsish.com/praise/) — If nice people say nice things, save it somewhere for when the impostor syndrome kicks-in. "Self-promotion is a leadership and political skill that is critical to master in order to navigate the realities of the workplace and position you for success." ― Bonnie Marcus
-
 [Treading in Haunted Graveyards by Liz Fong Jones](https://www.honeycomb.io/blog/treading-in-haunted-graveyards/) — "[W]e switched from engineers using direct token access to modify our production environment to centralized push-on-green deployment"
 
 [Container Platform Security at Cruise](https://medium.com/cruise/container-platform-security-7a3057a27663) — "~~Best~~ practices for enterprise-grade Kubernetes security."
