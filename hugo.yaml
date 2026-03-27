@@ -14,6 +14,9 @@ minify:
   disableXML: true
   minifyOutput: true
 
+permalinks:
+  post: /:slug/
+
 menus:
   main:
     - name: About
