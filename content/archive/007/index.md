@@ -28,7 +28,7 @@ Eric Raymond is making the next version of NTP, aptly named NTPsec. He recently 
 
 ## Department of Dafuq
 
-Remember [last week](/006/), when I linked to a piece from Red Hat about [SELinux stopping a Docker bug dead in its tracks](http://rhelblog.redhat.com/2017/01/13/selinux-mitigates-container-vulnerability/)? [Docker is not too happy about that](http://thenewstack.io/docker-calls-out-red-hat/) for some reason.
+Remember [last week](/006), when I linked to a piece from Red Hat about [SELinux stopping a Docker bug dead in its tracks](http://rhelblog.redhat.com/2017/01/13/selinux-mitigates-container-vulnerability/)? [Docker is not too happy about that](http://thenewstack.io/docker-calls-out-red-hat/) for some reason.
 
 [Bruh... Please](https://psiloveyou.xyz/help-me-im-on-tinder-i-don-t-want-to-see-your-code-711de4986ab8#.plk8m2y9b). No one on Tinder wants to look at your code.
 

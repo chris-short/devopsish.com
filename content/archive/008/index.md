@@ -17,9 +17,7 @@ Oh look! There's a 666 in the epoch this week... Great! But, as one of my co-wor
 
 [Nitin Agarwal breaks down the Docker filesystem](https://medium.com/@nagarwal/docker-containers-filesystem-demystified-b6ed8112a04a#.y03d2gbvf) (AUFS). It is a rather simplistic presentation. If you know someone struggling with the concepts it's definitely worth a read.
 
-[Brendan Gregg](https://x.com/brendangregg) built out a very simple page containing ALL his works on [Linux Performance](http://www.brendangregg.com/linuxperf.html). I do not think you could bookmark this page enough.
-
-![[Linux Performance](http://www.brendangregg.com/linuxperf.html) by [Brendan Gregg](https://x.com/brendangregg)](https://shortcdn.com/devopsish/linux-observability-tools.png)  *[Linux Performance](http://www.brendangregg.com/linuxperf.html) by [Brendan Gregg](https://x.com/brendangregg)*
+[Brendan Gregg](https://x.com/brendangregg) built out a very simple page containing ALL his works on [Linux Performance](https://www.brendangregg.com/linuxperf.html). I do not think you could bookmark this page enough.
 
 ## Department of Data Defense
 

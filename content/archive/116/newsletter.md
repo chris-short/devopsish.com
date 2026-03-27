@@ -58,7 +58,7 @@ Works on Arm (WOA) is how I keep up with most of my Arm news. The editor is a lo
 
 [The battle between real open source vs. faux open source heats up](https://www.zdnet.com/article/the-battle-between-real-open-source-vs-faux-open-source-heats-up/) — Clear lines are being drawn in the sand. "[P]ushing FUD about open-source licenses and software will only harm Redis and anyone else trying to build a business around open source."
 
-[CVE-2019-8912](https://nvd.nist.gov/vuln/detail/CVE-2019-8912) — "In the Linux kernel through 4.20.11, af_alg_release() in crypto/af_alg.c neglects to set a NULL value for a certain structure member, which leads to a use-after-free in sockfs_setattr." Here's Red Hat's notice (Red Hat is my employer; read the [disclaimer](https://devopsish.com/disclaimer/)).
+[CVE-2019-8912](https://nvd.nist.gov/vuln/detail/CVE-2019-8912) — "In the Linux kernel through 4.20.11, af_alg_release() in crypto/af_alg.c neglects to set a NULL value for a certain structure member, which leads to a use-after-free in sockfs_setattr." Here's Red Hat's notice (Red Hat is my employer; read the [disclaimer](https://devopsish.com/terms/#disclaimer/)).
 
 [GitLab might move to a single Rails codebase](https://about.gitlab.com/2019/02/21/merging-ce-and-ee-codebases/) — GitLab is attempting to put both open and licensed code in the same repository. That's very ambitious, but the efficiency gains could be huge.
 
