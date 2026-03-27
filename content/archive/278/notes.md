@@ -6,7 +6,7 @@ It's a shame when I have to choose between having too many links or someone's sp
 
 As always, thank you for reading,
 
-[Chris Short](https://chrisshort.me/?utm_campaign=278&utm_source=notes)  
+[Chris Short](https://chrisshort.net/?utm_campaign=278&utm_source=notes)  
 [He/Him/His](https://pronoun.is/he?utm_campaign=devopsish&utm_source=278&utm_medium=notes)  
 TZ=[America/Detroit](https://github.com/eggert/tz/blob/main/northamerica#L1154?utm_campaign=devopsish&utm_source=278&utm_medium=notes)
 

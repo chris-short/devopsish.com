@@ -5,7 +5,7 @@ Every week I comb through 1000s of articles that get curated down to somewhere b
 It's a shame when I have to choose between having too many links or someone's special thing getting featured in the newsletter. Here's another chance to shine!
 
 As always, thank you for reading,  
-[Chris Short](https://chrisshort.me/?utm_campaign=277&utm_source=notes)  
+[Chris Short](https://chrisshort.net/?utm_campaign=277&utm_source=notes)  
 [He/Him/His](https://pronoun.is/he?utm_campaign=devopsish&utm_source=277&utm_medium=notes)  
 TZ=[America/Detroit](https://github.com/eggert/tz/blob/main/northamerica#L1154?utm_campaign=devopsish&utm_source=277&utm_medium=notes)
 

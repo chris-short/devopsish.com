@@ -38,7 +38,7 @@ Happy Independence Day to my friends and family in the United States. I have a l
 
 ## I Made Some Shinies
 
-I've been busy the past few weeks. I often have or create side projects on which I want to spend time while traveling. You might remember [I was at Open Source Summit](https://devopsish.com/273) last month. During the week of Open Source Summit, my side project was to build out [my ultimate development environment: code-server, Caddy, Tailscale, and Hugo](https://devopsi.sh/env). It was super helpful to be able to ping the fine folks in the [Coder](https://coder.com/) booth when I had questions walking in or out of the venue that day. I call it "[W]onderful, like unicorns and rainbows, y'all. 🦄🌈🦄🌈🦄🌈" It is where newsletters, blog posts,  [landing pages](https://chrisshort.me/) (I need to write a blog post on that), and all the YAMLs are being created these days (public repos only for obvious reasons).
+I've been busy the past few weeks. I often have or create side projects on which I want to spend time while traveling. You might remember [I was at Open Source Summit](https://devopsish.com/273) last month. During the week of Open Source Summit, my side project was to build out [my ultimate development environment: code-server, Caddy, Tailscale, and Hugo](https://devopsi.sh/env). It was super helpful to be able to ping the fine folks in the [Coder](https://coder.com/) booth when I had questions walking in or out of the venue that day. I call it "[W]onderful, like unicorns and rainbows, y'all. 🦄🌈🦄🌈🦄🌈" It is where newsletters, blog posts,  [landing pages](https://chrisshort.net/) (I need to write a blog post on that), and all the YAMLs are being created these days (public repos only for obvious reasons).
 
 ## Changing Roles at AWS
 

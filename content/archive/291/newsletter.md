@@ -32,7 +32,7 @@ title: 'DevOps''ish 291: Post-KubeCon Detroit, Max''s birthday, DevOps''ish Podc
 
 **Also**, Happy birthday, Max! My youngest's birthday is today. Stay awesome, buddy!
 
-Let me be abundantly clear. I had a great KubeCon. It was rough physically, though, as I'll explain. [Seeing Ihor come on stage was the inspiration I needed](https://twitter.com/linuxfoundation/status/1585308260780756992) FOR SURE. It was a negative in my "keynotes from the hotel room strategy," though. I am truly sad I couldn't say hello to more people and help folks more. Please [DM me on the platform of your choosing](https://chrisshort.me/). Let's get you booked into the podcast schedule or a Zoom or phone call.
+Let me be abundantly clear. I had a great KubeCon. It was rough physically, though, as I'll explain. [Seeing Ihor come on stage was the inspiration I needed](https://twitter.com/linuxfoundation/status/1585308260780756992) FOR SURE. It was a negative in my "keynotes from the hotel room strategy," though. I am truly sad I couldn't say hello to more people and help folks more. Please [DM me on the platform of your choosing](https://chrisshort.net/). Let's get you booked into the podcast schedule or a Zoom or phone call.
 
 Every KubeCon, I tell myself, "Take Wednesday completely off, and you'll make it through the whole thing." Every time, I fail. This past Wednesday wound up being the busiest day. I also over-extend myself to do more during KubeCon than anyone else could; *this habit dies now*.
 
