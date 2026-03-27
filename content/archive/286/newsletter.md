@@ -14,7 +14,7 @@ The bivalent booster is kicking me hard today. I got it around noon and my joint
 
 [This week in DevOps'ish](https://twitter.com/i/spaces/1lPKqBNQvrQGb), Monday, September 26th, 11 AM ET/1500 UTC
 
-Follow me on [Twitter](https://twitter.com/ChrisShort) to get notified about upcoming Twitter Spaces. Subscribe to the [DevOps'ish Podcast](https://anchor.fm/devopsish) via your podcasting software of choice so you can listen on Mondays on your lunch break or ride home. Join the Twitter Space to participate and ask questions. Bring some friends along too!
+Follow me on [Twitter](https://twitter.com/ChrisShort) to get notified about upcoming Twitter Spaces. Subscribe to the [DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish/) via your podcasting software of choice so you can listen on Mondays on your lunch break or ride home. Join the Twitter Space to participate and ask questions. Bring some friends along too!
 
 The format for the podcast will be to go over the inputs into the DevOps'ish newsletter. That way it won't be a complete rehash of the newsletter itself but, instead a fun journey through the unique stories that people most enjoyed the previous week.
 

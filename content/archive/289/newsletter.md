@@ -15,7 +15,7 @@ title: 'DevOps''ish 289: Wall of Awful, Intel Layoffs Soon, mastodon.technology 
 [Join the Twitter Space](https://twitter.com/i/spaces/1OyKAVmZekqGb) to participate **LIVE**! 
 Bring some friends along too!
 
-Subscribe to the [DevOps'ish Podcast](https://anchor.fm/devopsish) via your podcasting software of choice so you can listen on Mondays on your lunch break or ride home.
+Subscribe to the [DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish/) via your podcasting software of choice so you can listen on Mondays on your lunch break or ride home.
 
 ## O'Reilly Book on Observability Engineering—Get Yours Free from Honeycomb!
 

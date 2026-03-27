@@ -10,11 +10,11 @@ title: 'DevOps''ish 285: Twitter Space and Podcast, Richard I. Cook, Patreon Par
 
 I held my [first Twitter Space](https://twitter.com/i/spaces/1lDxLndplWvGm) on Friday. I wanted an engaged audience driven AMA but, the idea was to have a look at the news of the week. It went well enough that, I'm hosting [Twitter Spaces on Mondays at 10 AM ET](https://twitter.com/i/spaces/1YqGoANpZQjxv) going forward.
 
-I'll talk about the news of the week and deep dive into some topics; you can participate via Twitter as well. Then I intend to turn the Twitter Space recordings into the newly refreshed [DevOps'ish Podcast](https://anchor.fm/devopsish). I think this is a good way to help keep folks informed, expand the DevOps'ish audience and readership, and to expand the use of the content I create every week.
+I'll talk about the news of the week and deep dive into some topics; you can participate via Twitter as well. Then I intend to turn the Twitter Space recordings into the newly refreshed [DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish/). I think this is a good way to help keep folks informed, expand the DevOps'ish audience and readership, and to expand the use of the content I create every week.
 
 The format for the podcast will be to go over the inputs into the DevOps'ish newsletter. That way it won't be a complete rehash of the newsletter itself but, instead a fun journey through the unique stories that people most enjoyed the previous week.
 
-Follow me on [Twitter](https://twitter.com/ChrisShort) to get notified about upcoming Twitter Spaces you can join in. Subscribe to the [DevOps'ish Podcast](https://anchor.fm/devopsish) via your podcasting software of choice so you can listen on Mondays on your lunch break or ride home. I'm looking forward to this! I look forward to seeing you join a Twitter Space to ask questions. Bring some friends along too!
+Follow me on [Twitter](https://twitter.com/ChrisShort) to get notified about upcoming Twitter Spaces you can join in. Subscribe to the [DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish/) via your podcasting software of choice so you can listen on Mondays on your lunch break or ride home. I'm looking forward to this! I look forward to seeing you join a Twitter Space to ask questions. Bring some friends along too!
 
 ### Join the DevOps'ish Twitter Space on Monday
 

@@ -98,7 +98,7 @@ The alternate method is to pull it from your [Twitter data archive](https://twit
 - Trim beginning and ends
 - Edit out anything before "Good Morning" (that's an incentive to join the Twitter Space early)
 - Sponsor Pitch?
-- Upload to [Anchor](https://anchor.fm/devopsish)
+- Upload to [Spotify](https://creators.spotify.com/pod/profile/devopsish/)
 
 ### Distribution (aka Anchor.fm)
 

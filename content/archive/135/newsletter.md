@@ -9,7 +9,7 @@ title: '135: DevOps''ish Deep Cuts podcast, burnout, on-call, Cloudflare fusterc
 
 I was on PTO this week. I was working on a number of side projects and issues I've been trying to resolve for quite some time. This includes soft launching a podcast! Deep Cuts is a podcast that looks at the news behind the news. Things that were significant but didn't make the newsletter for one reason or another. Prepare to embrace People, Process, and Tools in your ear holes.
 
-I say soft launch because it's important for me to take things iteratively. [Anchor](https://anchor.fm/devopsish) is the platform for the moment. They're working the difficult task of getting the podcast listed in all the major directories. Iterative improvements will be the name of the game. Feedback on anything I do is always appreciated.
+I say soft launch because it's important for me to take things iteratively. [Anchor](https://creators.spotify.com/pod/profile/devopsish/) is the platform for the moment. They're working the difficult task of getting the podcast listed in all the major directories. Iterative improvements will be the name of the game. Feedback on anything I do is always appreciated.
 
 [**How companies adopt and apply cloud native infrastructure--from O'Reilly**](https://www.oreilly.com/pub/cpc/224549)  
 Survey results reveal the path organizations face as they integrate cloud native infrastructure and harness the full power of the cloud. *SPONSORED*

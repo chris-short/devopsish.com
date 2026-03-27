@@ -49,7 +49,7 @@ Follow me on [Twitter][7], [LinkedIn][8], and [Mastodon][9].
 [7]: https://twitter.com/ChrisShort
 [8]: https://www.linkedin.com/in/thechrisshort/
 [9]: https://hachyderm.io/invite/52R3N6to
-[11]: https://anchor.fm/devopsish
+[11]: https://creators.spotify.com/pod/profile/devopsish/
 [12]: https://www.honeycomb.io/
 
 ### The DevOps'ish Podcast
