@@ -37,15 +37,13 @@ module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
 
+taxonomies: {}
+
 outputs:
   home:
     - HTML
     - JSON # necessary for search
-  term:
-    - HTML
   section:
-    - HTML
-  taxonomy:
     - HTML
   page:
     - HTML
