@@ -1,15 +1,37 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-02-21
-description = "Kubernetes README, 'I will slaughter you', Corey Quinn in NYT, 200 Million Certificates in 24 Hours, GitOps with Flux2, K8s on ISS, and more"
-draft = false
-slug = "206"
-tags = ["Kubernetes", "cloud", "certificates", "DevOps", "Google", "Flux", "GitOps", "Corey Quinn", "open source", "ISS", "containers", "cloud native", "dependability", "systems", "Ansible", "IBM", "Kenya", "developers", "China", "Red Hat", "VSCode"]
-title = "DevOps'ish 206: Kubernetes README, 'I will slaughter you', Corey Quinn in NYT, 200 Million Certificates in 24 Hours, GitOps with Flux2, K8s on ISS, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-02-21'
+description: Kubernetes README, 'I will slaughter you', Corey Quinn in NYT, 200 Million Certificates in 24 Hours, GitOps with Flux2, K8s on ISS, and more
+draft: false
+slug: '206'
+tags:
+- Kubernetes
+- cloud
+- certificates
+- DevOps
+- Google
+- Flux
+- GitOps
+- Corey Quinn
+- open source
+- ISS
+- containers
+- cloud native
+- dependability
+- systems
+- Ansible
+- IBM
+- Kenya
+- developers
+- China
+- Red Hat
+- VSCode
+title: 'DevOps''ish 206: Kubernetes README, ''I will slaughter you'', Corey Quinn in NYT, 200 Million Certificates in 24 Hours, GitOps with Flux2, K8s on ISS, and more'
+---
 
 Sometimes you don't know what the world needs until someone tells you. On Monday this week, a friend asked if I had any additional books to point them to for Kubernetes help. I have a mile-long list in my head. I said, yeah, let me punch that up for you real quick. But, instead of creating a locked down doc or dust bin email, I built a website. Behold, [**Kubernetes README**](https://kubernetesreadme.com/). It's nothing really fancy. A copy of an existing site, with a different name, and data to help folks make a selection that fits their needs.
 

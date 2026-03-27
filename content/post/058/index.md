@@ -1,21 +1,32 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-01-14T07:01:01.104Z
-description = ""
-draft = false
-slug = "058"
-tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "intel", "spectre", "containers", "Site Reliability Engineering", "SRE", "Docker"]
-title = "058: It's Raining Kubernetes, Everything's Turning Up Serverless, and More!"
-image ="https://shortcdn.com/devopsish/sailboat-at-sunset.jpg"
-imagealt = "Smooth Seas Ahead"
-aliases = [
-    "devopsish-057-it-s-raining-kubernetes-everything-s-turning-up-serverless-and-more-8b8577bc3053",
-    "devopsish-058-it-s-raining-kubernetes-everything-s-turning-up-serverless-and-more-8b8577bc3053"
-]
-
-+++
+---
+aliases:
+- devopsish-057-it-s-raining-kubernetes-everything-s-turning-up-serverless-and-more-8b8577bc3053
+- devopsish-058-it-s-raining-kubernetes-everything-s-turning-up-serverless-and-more-8b8577bc3053
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-01-14T07:01:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/sailboat-at-sunset.jpg
+imagealt: Smooth Seas Ahead
+slug: 058
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- serverless
+- intel
+- spectre
+- containers
+- Site Reliability Engineering
+- SRE
+- Docker
+title: '058: It''s Raining Kubernetes, Everything''s Turning Up Serverless, and More!'
+---
 
 It's great to be working again. It's refreshing to be figuring things out, collaborating with others in real-time, and keeping my skills sharp. This week I did a lot of the typical on-boarding stuff but, also needed to refresh my Ansible and Kubernetes basics. I practiced by working on a Raspberry Pi Kubernetes cluster. I'll talk more about this cluster elsewhere but, it's amazing how rusty some skills get after a month and a half of not really using them.
 

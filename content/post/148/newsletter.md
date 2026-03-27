@@ -1,15 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-10-06
-description = "SysAdvent signup, Corey Quinn isn't irrelevant, testing in prod, Kubernetes Controllers, VMware Tanzu, and more"
-draft = false
-slug = "148"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Ansible", "community", "Red Hat", "Docker Inc", "Kubernetes Operators", "GitOps"]
-title = "148: SysAdvent signup, Corey Quinn isn't irrelevant, testing in prod, Kubernetes Controllers, VMware Tanzu, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-10-06'
+description: SysAdvent signup, Corey Quinn isn't irrelevant, testing in prod, Kubernetes Controllers, VMware Tanzu, and more
+draft: false
+slug: '148'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- cloud native
+- DevOps news
+- Kubernetes news
+- Ansible
+- community
+- Red Hat
+- Docker Inc
+- Kubernetes Operators
+- GitOps
+title: '148: SysAdvent signup, Corey Quinn isn''t irrelevant, testing in prod, Kubernetes Controllers, VMware Tanzu, and more'
+---
 
 The ever-shifting sands of newsletter writing, these are the days of our DevOps'ish... There are no paying [sponsors](https://devopsish.com/sponsor/) this week. It's not a problem but, it is a little discouraging. The best part about being a disabled veteran is that I have a funding source for this newsletter until I decide to stop. But, this newsletter does take a significant amount of effort, time, and energy. It's nice to be compensated for that. [DevOps'ish Sponsorships](https://devopsish.com/sponsor/) are affordable and available in one-month increments. Send me a note with how long you want to sponsor and what you're looking to achieve with your sponsorship. We can be awesome together!
 
@@ -88,8 +102,5 @@ Our editorial team has curated all the resources you need for a comprehensive ov
 
 [facebookincubator/senpai](https://github.com/facebookincubator/senpai) — Senpai is an automated memory sizing tool for container applications.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1179492578908991488 >}}
 
 [See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/148/notes.md)

@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-06-18T13:01:53.529Z
-description = ""
-draft = false
-slug = "028"
-tags = ["devops", "cloud native", "open source", "kubernetes", "database", "infrastructure", "detroit", "microservices", "Y2K"]
-title = "028: Week of 1497758400"
-image ="https://shortcdn.com/devopsish/detroit-pride.jpg"
-imagealt = "GM RenCen Gay Pride"
-aliases = [
-    "devopsish-028-week-of-1497758400-e82b184e967a"
-]
-
-+++
+---
+aliases:
+- devopsish-028-week-of-1497758400-e82b184e967a
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-06-18T13:01:53Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/detroit-pride.jpg
+imagealt: GM RenCen Gay Pride
+slug: 028
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- database
+- infrastructure
+- detroit
+- microservices
+- Y2K
+title: '028: Week of 1497758400'
+---
 
 Happy Father's Day to all the Dads out there. May your day be everything you want it to be and then some. This is my first weekend living in the Detroit Metro area so I will be quietly getting my bearings (and hopefully a car wash). I spent twelve hours in the car on Thursday and listened to more podcasts than I ever thought possible. On Tuesday, June 20th I will be attending the [DevOps Detroit Meetup at Grand Circus](https://www.meetup.com/DevOps-Detroit/events/239887659/). If you are near Detroit come check it out! It was a busy week in the world of DevOps and looks to be an even busier one this coming week.
 
@@ -90,4 +99,4 @@ I love this post from Katherine Daniels about [accidentally upgrading Apache in 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 873527496939102212 >}}
+{{< x user="whereistanya" id="873527496939102212" >}}

@@ -1,13 +1,46 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-05-08
-description = ["We did some good in the world, Kubernetes 1.24, Netflix downward slide, critical F5 vuln, RFC 9116, Kubernetes Goat, Pulumi YAML, and more"]
-draft = false
-slug = "266"
-tags = ["Kubernetes", "Argo", "YAML", "Pulumi", "Pulumi YAML", "DevOps'ish", "team", "SLOs", "Amazon EKS", "Elastic Kubernetes Service", "Netflix", "GitOps", "AWS", "environment", "Site Reliability Engineer", "SRE", "Kubernetes Goat", "practices", "vulnerability", "security", "enhancements", "cloud", "DevOps", "asshole test", "dockershim", "pod", "progressive delivery", "cloud native", "Lucy"]
-title = "DevOps'ish 266: We did some good in the world, Kubernetes 1.24, Netflix downward slide, critical F5 vuln, RFC 9116, Kubernetes Goat, Pulumi YAML, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-05-08'
+description:
+- We did some good in the world, Kubernetes 1.24, Netflix downward slide, critical F5 vuln, RFC 9116, Kubernetes Goat, Pulumi YAML, and more
+draft: false
+slug: '266'
+tags:
+- Kubernetes
+- Argo
+- YAML
+- Pulumi
+- Pulumi YAML
+- DevOps'ish
+- team
+- SLOs
+- Amazon EKS
+- Elastic Kubernetes Service
+- Netflix
+- GitOps
+- AWS
+- environment
+- Site Reliability Engineer
+- SRE
+- Kubernetes Goat
+- practices
+- vulnerability
+- security
+- enhancements
+- cloud
+- DevOps
+- asshole test
+- dockershim
+- pod
+- progressive delivery
+- cloud native
+- Lucy
+title: 'DevOps''ish 266: We did some good in the world, Kubernetes 1.24, Netflix downward slide, critical F5 vuln, RFC 9116, Kubernetes Goat, Pulumi YAML, and more'
+---
 
 Thank you to everyone that donated to my sister's [Walk for Wishes](https://secure2.wish.org/site/TR/;jsessionid=00000000.app202a?px=7065476&pg=personal&fr_id=4096&NONCE_TOKEN=CAB8CE6B5E882373D563373C7D9D2285) for Make-A-Wish® Michigan this week. We kinda crushed it for Lucy. Here's how the tally adds up as of 7 PM Saturday:
 

@@ -1,15 +1,56 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-08-30
-description = "Heptio people abandoning VMWare's ship, DevOps titles, Camille Fournier on management, plain text email is no longer a good development tool, GitOps, and more"
-draft = false
-slug = "181"
-tags = ["DevOps", "Kubernetes", "cloud native", "Kubernetes native", "tools", "security", "open source", "Heptio", "VMware", "Operators", "Red Hat", "Accurics", "development", "developers", "risk", "GitOps", "NTP", "platform", "engineering", "Cloud Native Computing Foundation", "CNCF", "archaic", "certificates", "network", "OSPF", "licenses", "Creative Commons", "postgresql", "postgres", "Crunchy", "database", "SQLite", "CoreOS", "git", "TikTok", "Amazon", "Oracle", "Walmart", "Facebook", "Holocaust"]
-title = "DevOps'ish 181: Heptio people abandoning VMWare's ship, DevOps titles, Camille Fournier on management, plain text email is no longer a good development tool, GitOps, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-08-30'
+description: Heptio people abandoning VMWare's ship, DevOps titles, Camille Fournier on management, plain text email is no longer a good development tool, GitOps, and more
+draft: false
+slug: '181'
+tags:
+- DevOps
+- Kubernetes
+- cloud native
+- Kubernetes native
+- tools
+- security
+- open source
+- Heptio
+- VMware
+- Operators
+- Red Hat
+- Accurics
+- development
+- developers
+- risk
+- GitOps
+- NTP
+- platform
+- engineering
+- Cloud Native Computing Foundation
+- CNCF
+- archaic
+- certificates
+- network
+- OSPF
+- licenses
+- Creative Commons
+- postgresql
+- postgres
+- Crunchy
+- database
+- SQLite
+- CoreOS
+- git
+- TikTok
+- Amazon
+- Oracle
+- Walmart
+- Facebook
+- Holocaust
+title: 'DevOps''ish 181: Heptio people abandoning VMWare''s ship, DevOps titles, Camille Fournier on management, plain text email is no longer a good development tool, GitOps, and more'
+---
 
 Welcome!
 
@@ -99,7 +140,7 @@ A little something for my network engineering buddies out there. You know I stil
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1296741182018486272 >}}
+{{< x user="DalaiLama" id="1296741182018486272" >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/181/notes.md) to see what didn't make it to the newsletter.
 

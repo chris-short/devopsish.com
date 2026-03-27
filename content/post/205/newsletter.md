@@ -1,15 +1,61 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-02-14
-description = "Kubernetes Pod Security Policy Deprecation, open source skills are crucial, harms of large language models, Supermicro, water plant breach, VSCode repo FUD, and more"
-draft = false
-slug = "205"
-tags = ["Kubernetes", "K8s", "open source", "security", "hiring", "DevOps", "PSPs", "Pod Security Policy", "deprecation", "cloud native", "Microsoft", "developers", "research", "news", "IBM", "Rust", "learn", "process", "SSH tunnels", "code", "managers", "employees", "chronic illness", "Cloud Native Computing Foundation", "water supply", "Cloudflare", "LaunchDarkly", "OPA", "CSI", "healthcare", "contributors", "vulnerabilities", "marketing", "Google", "Nvidia", "Arm", "CKS", "Apple", "sudo", "VSCodium", "Mercurial", "GCP", "Python", "GPT-3", "VSCode"]
-title = "DevOps'ish 205: Kubernetes Pod Security Policy Deprecation, open source skills are crucial, harms of large language models, Supermicro, water plant breach, VSCode repo FUD, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-02-14'
+description: Kubernetes Pod Security Policy Deprecation, open source skills are crucial, harms of large language models, Supermicro, water plant breach, VSCode repo FUD, and more
+draft: false
+slug: '205'
+tags:
+- Kubernetes
+- K8s
+- open source
+- security
+- hiring
+- DevOps
+- PSPs
+- Pod Security Policy
+- deprecation
+- cloud native
+- Microsoft
+- developers
+- research
+- news
+- IBM
+- Rust
+- learn
+- process
+- SSH tunnels
+- code
+- managers
+- employees
+- chronic illness
+- Cloud Native Computing Foundation
+- water supply
+- Cloudflare
+- LaunchDarkly
+- OPA
+- CSI
+- healthcare
+- contributors
+- vulnerabilities
+- marketing
+- Google
+- Nvidia
+- Arm
+- CKS
+- Apple
+- sudo
+- VSCodium
+- Mercurial
+- GCP
+- Python
+- GPT-3
+- VSCode
+title: 'DevOps''ish 205: Kubernetes Pod Security Policy Deprecation, open source skills are crucial, harms of large language models, Supermicro, water plant breach, VSCode repo FUD, and more'
+---
 
 First off, Happy Valentine's Day. I hope you're enjoying it as best you can.
 
@@ -24,8 +70,6 @@ Other projects and products can help manage and enforce what pod requirements ar
 Regardless, Kubernetes Pod Security Policies are going away and folks need to prepare for that. Start assessing what is using PSPs in your environment, what requirements it's implementing, and find a solution that can replicate that functionality.
 
 ## People
-
-{{< tweet 1360276547018625028 >}}
 
 [Ephemeral Environments as a Service 🤯](https://releaseapp.io/?utm_source=devopsish&utm_medium=email&utm_content=get-started&utm_campaign=202102)  
 Do you find that your engineers spend too much time creating and maintaining staging environments and yet, there never seems to be enough environments to go around? A shortage of environments is a top driver of low developer productivity and often impacts an engineering team’s ability to ship features on time. With Release, you can get a full instance of your app with all of its services with every pull request. Your developers will never have to fight over staging environments again. [Get started now](https://releaseapp.io/?utm_source=devopsish&utm_medium=email&utm_content=get-started&utm_campaign=202102). *SPONSORED*

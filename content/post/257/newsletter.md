@@ -1,15 +1,34 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-02-20
-description = ["Kubernetes dockershim removal work, shades of DevOps, signal jamming is still illegal (in most places), CKA tips, PostgreSQL horrors, Kubernetes on a PS4, and more"]
-draft = false
-slug = "257"
-tags = ["Kubernetes", "Docker", "time", "SSH", "security", "containerd", "CRI", "DevOps", "CNCF", "git", "Honeycomb", "Plaid", "dockershim", "CKA", "PostgreSQL", "Zabbix", "vulnerability"]
-title = "DevOps'ish 257: Kubernetes dockershim removal work, shades of DevOps, signal jamming is still illegal (in most places), CKA tips, PostgreSQL horrors, Kubernetes on a PS4, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-02-20'
+description:
+- Kubernetes dockershim removal work, shades of DevOps, signal jamming is still illegal (in most places), CKA tips, PostgreSQL horrors, Kubernetes on a PS4, and more
+draft: false
+slug: '257'
+tags:
+- Kubernetes
+- Docker
+- time
+- SSH
+- security
+- containerd
+- CRI
+- DevOps
+- CNCF
+- git
+- Honeycomb
+- Plaid
+- dockershim
+- CKA
+- PostgreSQL
+- Zabbix
+- vulnerability
+title: 'DevOps''ish 257: Kubernetes dockershim removal work, shades of DevOps, signal jamming is still illegal (in most places), CKA tips, PostgreSQL horrors, Kubernetes on a PS4, and more'
+---
 
 I spent a lot of time working on the [dockershim removal](https://k8s.io/dockershim) documentation effort. These docs are vitally important to our community. These updates often require some technical hands to get things figured out. First, many people have to be very specific and finite in their language with Docker and Kubernetes. Yes, it's cringe-worthy how often you say anything potentially harmful about Docker, and people think, "the entire container ecosystem will collapse without the existence of this one company." It shows how the learning paths to Kubernetes must be improved upon. Yes, you might need Docker Engine to get containers running on your Mac or Windows laptop. But, all the CRI implementations are containerd (or CRI-O) now when you get into production. containerd is a graduated CNCF project (and is the default CRI in Kubernetes), and CRI-O is an incubating project. If you notice, Docker, Docker Engine, and anything else with the word docker do not appear on the [CNCF projects](https://www.cncf.io/projects/) page. There's a long story there. The internet shock and awe factory is real. It takes people with some battle hardening around the Docker topic to write some of these docs.
 

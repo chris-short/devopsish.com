@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-04-23T12:39:39.310Z
-description = ""
-draft = false
-slug = "020"
-tags = ["devops", "cloud native", "open source", "linux", "google", "go", "docker", "moby", "lambda"]
-title = "020: Week of 1492920000"
-image ="https://shortcdn.com/devopsish/docker-moby-wtf.png"
-imagealt = "Docker, Moby, Captain Ahab, Huh?"
-aliases = [
-    "devopsish-weekly-020-week-of-1492920000-65abf362f4f0"
-]
-
-+++
+---
+aliases:
+- devopsish-weekly-020-week-of-1492920000-65abf362f4f0
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-04-23T12:39:39Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/docker-moby-wtf.png
+imagealt: Docker, Moby, Captain Ahab, Huh?
+slug: '020'
+tags:
+- devops
+- cloud native
+- open source
+- linux
+- google
+- go
+- docker
+- moby
+- lambda
+title: '020: Week of 1492920000'
+---
 
 Not quite sure what Docker is doing? Few people are. Docker is still Docker except when it's [Moby](https://mobyproject.org/). Moby is open source and Docker isn't (kind of). According to the [official Moby Project announcement](https://petty.company/blog/introducing-the-moby-project/), Moby Project is **NEW**! But, Moby Project is actually the new [upstream](https://chrisshort.net/upstream-vs-downstream/) for the Docker project. Interestingly enough, the Moby Project exists to create "An open framework to assemble specialized container systems without reinventing the wheel." (Emphasis added.) The best analysis of the whole S.N.A.F.U. [fittingly comes from The Register](https://www.theregister.co.uk/2017/04/21/docker_renames_open_source_code_moby/).
 

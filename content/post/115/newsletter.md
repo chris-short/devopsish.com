@@ -1,15 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-02-17
-description = "CVE-2019-5736 runc vuln, You Can Fit So Much Kubernetes in this Newsletter, Liz Fong-Jones, MongoDB's Demise, GPS epoch, DIY DBaaS, and More!"
-draft = false
-slug = "115"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "runc", "CVE-2019-5736", "vulnerability", "Liz Fong-Jones", "GPS", "DBaaS", "Kubernetes Operators", "Docker"]
-title = "115: CVE-2019-5736 runc vuln, You Can Fit So Much Kubernetes in this Newsletter, Liz Fong-Jones, MongoDB's Demise, GPS epoch, DIY DBaaS, and More!"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-02-17'
+description: CVE-2019-5736 runc vuln, You Can Fit So Much Kubernetes in this Newsletter, Liz Fong-Jones, MongoDB's Demise, GPS epoch, DIY DBaaS, and More!
+draft: false
+slug: '115'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- ansible
+- container
+- security
+- runc
+- CVE-2019-5736
+- vulnerability
+- Liz Fong-Jones
+- GPS
+- DBaaS
+- Kubernetes Operators
+- Docker
+title: '115: CVE-2019-5736 runc vuln, You Can Fit So Much Kubernetes in this Newsletter, Liz Fong-Jones, MongoDB''s Demise, GPS epoch, DIY DBaaS, and More!'
+---
 
 Last week, I enabled a workflow to automate more of the DevOps'ish process. One thing I did not test as a part of this workflow was link tracking. To be honest, I did not think it would matter. That assumption bit me hard. Within minutes, reports from readers came in saying Gmail was flagging the links in the e-mail as suspicious.
 
@@ -139,6 +159,6 @@ Over the past 500 years, there have been 16 cases of a rising power threatening 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1095273479887310848 >}}
+{{< x user="francesc" id="1095273479887310848" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

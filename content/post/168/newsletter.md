@@ -1,15 +1,46 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-02-23
-description = "Two universes of IBM and Red Hat, Impact of Istio and Knative not going to a foundation, compensation questions, technical debt, and more"
-draft = false
-slug = "168"
-tags = ["open source", "Kubernetes", "DevOps", "IBM", "Red Hat", "cloud", "Cloud Native", "technical debt", "engineer", "Google", "Ansible", "Linux Foundation", "trust", "Oracle", "Istio", "Knative", "CNCF", "platform", "infrastructure", "Xerox", "Linux", "observability", "monitoring", "performance", "Kelsey Hightower", "Datadog", "containers", "Moore's Law", "Cloud Native Computing Foundation", "parallel"]
-title = "DevOps'ish 168"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-02-23'
+description: Two universes of IBM and Red Hat, Impact of Istio and Knative not going to a foundation, compensation questions, technical debt, and more
+draft: false
+slug: '168'
+tags:
+- open source
+- Kubernetes
+- DevOps
+- IBM
+- Red Hat
+- cloud
+- Cloud Native
+- technical debt
+- engineer
+- Google
+- Ansible
+- Linux Foundation
+- trust
+- Oracle
+- Istio
+- Knative
+- CNCF
+- platform
+- infrastructure
+- Xerox
+- Linux
+- observability
+- monitoring
+- performance
+- Kelsey Hightower
+- Datadog
+- containers
+- Moore's Law
+- Cloud Native Computing Foundation
+- parallel
+title: DevOps'ish 168
+---
 
 I spent this week in Las Vegas, working at IBM's FastStart 2020 event. The event is for IBM sellers, partners, and technical folks to come to learn the new bits of knowledge about the products they're selling and enabling at their clients' sites. I went in my usual technical capacity and learned very quickly IBM and Red Hat speak two different languages. This is expected but, I wanted to look a little further into the why behind that. As a surprise to no one, I found a DevOps parallel here.
 
@@ -90,4 +121,4 @@ Debt is a tool. But, managing that debt is vital. Letting debt manage you leads 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1229842910239166465 >}}
+{{< x user="textfiles" id="1229842910239166465" >}}

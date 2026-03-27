@@ -1,15 +1,40 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-08-16
-description = "DevOps'ish 179"
-draft = false
-slug = "179"
-tags = ["DevOps", "security", "cloud native", "Kubernetes", "io TLD", "GitOps", "Docker", "namespace", "Linux", "UPS", "performance", "DevSecOps", "AWS", "scale", "CI/CD", "operations", "community", "development", "open source", "hierarchical namespace", "1Password", "Microsoft", "service mesh", "kustomize"]
-title = "DevOps'ish 179"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-08-16'
+description: DevOps'ish 179
+draft: false
+slug: '179'
+tags:
+- DevOps
+- security
+- cloud native
+- Kubernetes
+- io TLD
+- GitOps
+- Docker
+- namespace
+- Linux
+- UPS
+- performance
+- DevSecOps
+- AWS
+- scale
+- CI/CD
+- operations
+- community
+- development
+- open source
+- hierarchical namespace
+- 1Password
+- Microsoft
+- service mesh
+- kustomize
+title: DevOps'ish 179
+---
 
 Welcome!
 
@@ -78,9 +103,6 @@ Oh hai, Microsoft! Oh look another service mesh! Oprah's out here with service m
 [swade1987/gitops-with-kustomize: An example repo structure for GitOps with Kustomize](https://github.com/swade1987/gitops-with-kustomize)  
 A solid start. A few more folks contributing and this is gold.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1294374245791825922 >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/179/notes.md) to see what didn't make it to the newsletter.
 

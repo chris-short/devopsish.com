@@ -1,20 +1,26 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-01-29T08:02:00.453Z
-description = ""
-draft = false
-slug = "008"
-tags = ["devops", "cloud native", "open source", "observability", "linux", "Docker"]
-title = "DevOps'ish 008: Week of 1485666000"
-image ="https://shortcdn.com/devopsish/gopherize-yourself-fools.png"
-imagealt = "Gopherize Yourself, Fool"
-aliases = [
-    "devopsish-weekly-008-week-of-1485666000-c7e6d9a9790a"
-]
-
-+++
+---
+aliases:
+- devopsish-weekly-008-week-of-1485666000-c7e6d9a9790a
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-01-29T08:02:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/gopherize-yourself-fools.png
+imagealt: Gopherize Yourself, Fool
+slug: 008
+tags:
+- devops
+- cloud native
+- open source
+- observability
+- linux
+- Docker
+title: 'DevOps''ish 008: Week of 1485666000'
+---
 
 Oh look! There's a 666 in the epoch this week... Great! But, as one of my co-workers and I always say, we're going to "will it" to be a good week in [**DevOps**](https://devopsish.com/) . It usually works out too.
 

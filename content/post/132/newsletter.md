@@ -1,15 +1,26 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-06-16
-description = "Kubernetes for the impatient, VMware shopping spree continues, Burnout, SRE for you and me, Google grows in Michigan, NATS 2.0, and more"
-draft = false
-slug = "132"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "Site Reliability Engineering", "SRE", "Kubernetes Operators", "GitOps"]
-title = "132: Kubernetes for the impatient, VMware shopping spree continues, Burnout, SRE for you and me, Google grows in Michigan, NATS 2.0, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-06-16'
+description: Kubernetes for the impatient, VMware shopping spree continues, Burnout, SRE for you and me, Google grows in Michigan, NATS 2.0, and more
+draft: false
+slug: '132'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- GitHub
+- cloud native
+- Site Reliability Engineering
+- SRE
+- Kubernetes Operators
+- GitOps
+title: '132: Kubernetes for the impatient, VMware shopping spree continues, Burnout, SRE for you and me, Google grows in Michigan, NATS 2.0, and more'
+---
 
 Dear reader, lend me your eyeballs. Let's discuss the [DevOps'ish Summer 2019 Survey](https://devopsi.sh/survey) for a brief moment. It's *vital* feedback that I will use to pivot, fork, or modify the newsletter if needed. Therefore it's important that you [**take the survey today**](https://devopsi.sh/survey)!
 
@@ -93,8 +104,5 @@ Have an upcoming webinar, event, conference, or eBook you want to publicize? Eve
 
 [ottomatica/slim](https://github.com/ottomatica/slim) — Build and run tiny vms from Dockerfiles. Small and sleek.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1139679107485032448 >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

@@ -1,20 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-09-24T06:01:01.275Z
-description = ""
-draft = false
-slug = "042"
-tags = ["devops", "cloud native", "open source", "interview", "infrastructure", "cloud storage", "patents", "intel", "hashicorp", "Docker"]
-title = "042: Build vs. Buy, AWS Per-Second Billing, Hashicorp, Red Hat's Patent Promise and More"
-image ="https://shortcdn.com/devopsish/chroma-macbook.jpg"
-imagealt = "Chroma lit Macbook"
-aliases = [
-    "devopsish-042-build-vs-buy-aws-per-second-billing-hashicorp-red-hat-s-patent-promise-and-more-a65dbf6fcbaf"
-]
-
-+++
+---
+aliases:
+- devopsish-042-build-vs-buy-aws-per-second-billing-hashicorp-red-hat-s-patent-promise-and-more-a65dbf6fcbaf
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-09-24T06:01:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/chroma-macbook.jpg
+imagealt: Chroma lit Macbook
+slug: '042'
+tags:
+- devops
+- cloud native
+- open source
+- interview
+- infrastructure
+- cloud storage
+- patents
+- intel
+- hashicorp
+- Docker
+title: '042: Build vs. Buy, AWS Per-Second Billing, Hashicorp, Red Hat''s Patent Promise and More'
+---
 
 Build versus Buy? It's a question I usually asks candidates during interviews. There is really only one good answer; buy until you can build it better for cheaper. This doesn't mean outsource everything. This doesn't mean you won't be hacking together cool things. It means that you have the business sense to know that you have core competencies that are either still forming, your team is small, or you have enough to manage in-house already. Sure, everyone wants to build everything they use. You get better by building, your team takes pride in building, but at some point, you build yourself into a box. Then what? Then you buy your way out of it at what is likely a higher cost to your business than buying at the beginning. Remember, your technical debt started the second you released code.
 
@@ -79,6 +89,3 @@ As mentioned in [DevOps'ish 037](/037/), MongoDB, a database software company ba
 
 [Announcing Intel® Clear Containers 3.0!](https://clearlinux.org/blogs/announcing-intel-clear-containers-30)
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 910842397290057728 >}}

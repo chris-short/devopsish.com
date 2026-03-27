@@ -1,20 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-01-15T07:32:00.595Z
-description = ""
-draft = false
-slug = "006"
-tags = ["devops", "cloud native", "open source", "kubernetes", "linux", "containers", "Docker"]
-title = "006: Week of 1484456400"
-image ="https://shortcdn.com/devopsish/snowy-mountain-lake.jpg"
-imagealt = "Snowy Mountain Lake"
-aliases = [
-    "006-week-of-1484456400-ceb344fd9ab0"
-]
-
-+++
+---
+aliases:
+- 006-week-of-1484456400-ceb344fd9ab0
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-01-15T07:32:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/snowy-mountain-lake.jpg
+imagealt: Snowy Mountain Lake
+slug: '006'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- linux
+- containers
+- Docker
+title: '006: Week of 1484456400'
+---
 
 Welcome to this week's edition of [**DevOps'ish**](https://devopsish.com/) where we cover Dev, Ops, and all the ish in between.
 
@@ -77,4 +84,4 @@ If you are a Linux DevOps person with AWS talents please [consider joining my Gl
 
 This week's one-liner comes courtesy of [Jérôme Petazzoni](https://twitter.com/jpetazzo/status/819288097376583680):
 
-{{< tweet 819288097376583680 >}}
+{{< x user="jpetazzo" id="819288097376583680" >}}

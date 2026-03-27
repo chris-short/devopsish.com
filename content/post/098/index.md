@@ -1,18 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-10-21
-description = ""
-draft = false
-slug = "098"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security", "serverless", "hq2", "Docker", "Site Reliability Engineering", "SRE", "Ansible Operators"]
-title = "098: Open Source, Kubernetes, Vote, Ansible, Serverless, Amazon HQ2 and More"
-image ="https://shortcdn.com/devopsish/ashley-mcnamara-voter-koala.png"
-imagealt = "Please. Vote."
-imagecap = "I really don't care what your stance is. I want you to vote. Art by Ashley McNamara."
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-10-21'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/ashley-mcnamara-voter-koala.png
+imagealt: Please. Vote.
+imagecap: I really don't care what your stance is. I want you to vote. Art by Ashley McNamara.
+slug: 098
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- security
+- serverless
+- hq2
+- Docker
+- Site Reliability Engineering
+- SRE
+- Ansible Operators
+title: '098: Open Source, Kubernetes, Vote, Ansible, Serverless, Amazon HQ2 and More'
+---
 
 Every time, without fail, I mention anything resembling a political leaning in this newsletter I get negative feedback. This week, I am sure I will again. But, this message is personal so I've made it simple. **VOTE**.
 

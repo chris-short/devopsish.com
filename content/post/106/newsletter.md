@@ -1,18 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-12-16
-description = "KubeKhan, KubeCon, AWS Container Roadmap, etcd, More Weird Licenses, Securing Kubernetes, JFrog Go Registry, and More!"
-draft = false
-slug = "106"
-tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "Red Hat", "ansible", "security", "serverless", "container", "AWS", "licenses", "Docker"]
-title = "106: KubeKhan, KubeCon, AWS Container Roadmap, etcd, More Weird Licenses, Securing Kubernetes, JFrog Go Registry, and More!"
-image = "https://shortcdn.com/devopsish/kubekhan.jpg"
-imagealt = "Various pictures taken by Chris Short during KubeCon + CloudNativeCon NA 2018"
-imagecap = "Various pictures taken by Chris Short during KubeCon + CloudNativeCon NA 2018"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-12-16'
+description: KubeKhan, KubeCon, AWS Container Roadmap, etcd, More Weird Licenses, Securing Kubernetes, JFrog Go Registry, and More!
+draft: false
+image: https://shortcdn.com/devopsish/kubekhan.jpg
+imagealt: Various pictures taken by Chris Short during KubeCon + CloudNativeCon NA 2018
+imagecap: Various pictures taken by Chris Short during KubeCon + CloudNativeCon NA 2018
+slug: '106'
+tags:
+- weekly
+- devops
+- newsletter
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- Red Hat
+- ansible
+- security
+- serverless
+- container
+- AWS
+- licenses
+- Docker
+title: '106: KubeKhan, KubeCon, AWS Container Roadmap, etcd, More Weird Licenses, Securing Kubernetes, JFrog Go Registry, and More!'
+---
 
 These are some highlights from an e-mail I sent to my colleagues in my business unit titled, "KubeCon + CloudNativeCon NA 2018 Recap"
 
@@ -49,7 +66,7 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 
 [Dear tech companies, I don't want to see pregnancy ads after my child was stillborn](https://www.washingtonpost.com/lifestyle/2018/12/12/dear-tech-companies-i-dont-want-see-pregnancy-ads-after-my-child-was-stillborn/?noredirect=on&utm_term=.0e34b870ed83) — After our miscarriage last year, it was very painful to go to Amazon in the following weeks. I wrote it off as, "How would they know?" But, if there is enough intelligence in platforms to determine I want to see certain products perhaps there should be a catastrophic event button to turn it off. If this already exists, please let me know.
 
-{{< tweet 1072945965340872704 >}}
+{{< x user="caremjo" id="1072945965340872704" >}}
 
 ## Process
 
@@ -83,15 +100,11 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 
 [Secure, Private Go Registry](https://jfrog.com/integration/go-registry/) — I went to a private event help by [JFrog](https://jfrog.com/) Tuesday night while at Kubecon. Go Registry was demoed while I was there and I tweeted this out as a response. Check it out!
 
-{{< tweet 1072734647354716160 >}}
-
 [kubeadm Survey for v1.13/GA](https://docs.google.com/forms/d/e/1FAIpQLSd_G3AdnWG96Mtq2MEiZER9sLZZrNmSYjgqYEuv3gb2JPcZ-w/viewform) — The maintainers of `kubeadm` need your help! Please participate in this survey.
 
 [What is CNAB?](https://www.morethanseven.net/2018/12/15/what-is-cnab/) — I'm not really sure what problem CNAB is solving at this point but, it's a thing Docker and Microsoft built. I talked to Gareth Rushgrove about it briefly at #KubeKhan. But, the conversation turned to Docker Enterprise Desktop pretty quickly. From what I can gather, it's a [codification of sorts for packaging](https://github.com/deislabs/cnab-spec) of the abstractions that make up cloud native applications. So it's an abstraction for all your abstractions? I am trying to find a use case and am drawing a blank. [It feels a little like this](https://xkcd.com/927/). Please explain what I'm missing if you think you can.
 
 [Kubernetes Basics for Developers](https://engineering.dollarshaveclub.com/kubernetes-basics-for-developers-27e7097f87c2) — Minimum viable Kubernetes knowledge.
-
-{{< tweet 1073728454477017089 >}}
 
 [Loki: Prometheus-inspired, open source logging for cloud natives | Grafana Labs Blog](https://grafana.com/blog/2018/12/12/loki-prometheus-inspired-open-source-logging-for-cloud-natives/) — This is getting a lot of interest. But, while still in Alpha, I have hope for this one.
 
@@ -133,6 +146,6 @@ To sum up: it warms the cockles of this old tech skeptic's heart to see how well
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1073688115066347520 >}}
+{{< x user="juliaferraioli" id="1073688115066347520" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

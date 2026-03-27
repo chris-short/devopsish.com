@@ -1,15 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-09-03
-description ="Microsoft Goes Bold, ASDOR, Project Paper Cuts, Shady Telcos, Kubernetes, Ansible, and More"
-draft = false
-slug = "091"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "change", "cluster", "accelerate", "state of devops report", "licenses", "GitOps"]
-title = "091: Microsoft Goes Bold, ASDOR, Project Paper Cuts, Shady Telcos, Kubernetes, Ansible, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-09-03'
+description: Microsoft Goes Bold, ASDOR, Project Paper Cuts, Shady Telcos, Kubernetes, Ansible, and More
+draft: false
+slug: 091
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- change
+- cluster
+- accelerate
+- state of devops report
+- licenses
+- GitOps
+title: '091: Microsoft Goes Bold, ASDOR, Project Paper Cuts, Shady Telcos, Kubernetes, Ansible, and More'
+---
 
 It's one of our rare long weekends here in the US. I'm trying really hard to have a good time and not ruin any great moments. There's a lot I could be doing but, I'm holding off to help recharge. I hope you are taking a similar break is you're able. A lot of good stuff in the works here for you. First, DevOps'ish has teamed up with [O'Reilly](https://devopsi.sh/safarionline) to provide discounts on all manner of O'Reilly content, books, ebooks, events, and more. More good things will come as a result of this partnership (stay tuned).
 
@@ -99,4 +113,4 @@ Use code PCDEVOPSISH to save 25% on Platinum, Gold, Silver, and Bronze passes! *
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1029414616864968704 >}}
+{{< x user="devopsreact" id="1029414616864968704" >}}

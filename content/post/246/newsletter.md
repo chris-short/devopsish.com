@@ -1,15 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-12-05
-description = ["A little terrorism, The Case of the Recursive Resolvers, Knative asks to join CNCF, Karpenter, and move"]
-draft = false
-slug = "246"
-tags = ["cloud", "Cloud Native", "AWS", "DevOps", "open source", "GitOps", "infrastructure", "code", "Kubernetes", "impostor syndrome", "Microsoft", "Honeycomb", "social model", "CKAD"]
-title = "DevOps'ish 246: A little terrorism, The Case of the Recursive Resolvers, Knative asks to join CNCF, Karpenter, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-12-05'
+description:
+- A little terrorism, The Case of the Recursive Resolvers, Knative asks to join CNCF, Karpenter, and move
+draft: false
+slug: '246'
+tags:
+- cloud
+- Cloud Native
+- AWS
+- DevOps
+- open source
+- GitOps
+- infrastructure
+- code
+- Kubernetes
+- impostor syndrome
+- Microsoft
+- Honeycomb
+- social model
+- CKAD
+title: 'DevOps''ish 246: A little terrorism, The Case of the Recursive Resolvers, Knative asks to join CNCF, Karpenter, and more'
+---
 
 AWS re:Invent was this week. I put a whole section in the notes this week for y'all all about [AWS re:Invent](/246/notes/). There were a lot of cool announcements this week. There was a scenario where I was going to be there. But, family was getting COVID-19 vaccines the Sunday before, I had doctor's appointments, and it wasn't meant to be. Thank the Maker I didn't end up going. This week has been a nightmare, wrapped in worry, with a big dose of impostor syndrome on top, and I caught a cold too.
 

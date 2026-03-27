@@ -1,18 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-06-24
-description = "Diversity, Silicon Valley v. US, Ansible, Kubernetes, Meetings, DevSecOps, Serverless, and More"
-draft = false
-slug = "081"
-tags = ["devops", "cloud native", "open source", "kubernetes", "ansible", "docker", "meetings", "serverless", "diversity", "security", "linux", "digitalocean", "silicon valley", "devsecops"]
-title = "081: Diversity, Silicon Valley v. US, Ansible, Kubernetes, Meetings, DevSecOps, Serverless, and More"
-image ="https://shortcdn.com/devopsish/penguins.jpg"
-imagealt = "Penguins on the March"
-imagecap = "Shout out to all the penguins and southern hemisphere folks that went through their winter solstice this week."
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-06-24'
+description: Diversity, Silicon Valley v. US, Ansible, Kubernetes, Meetings, DevSecOps, Serverless, and More
+draft: false
+image: https://shortcdn.com/devopsish/penguins.jpg
+imagealt: Penguins on the March
+imagecap: Shout out to all the penguins and southern hemisphere folks that went through their winter solstice this week.
+slug: 081
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- ansible
+- docker
+- meetings
+- serverless
+- diversity
+- security
+- linux
+- digitalocean
+- silicon valley
+- devsecops
+title: '081: Diversity, Silicon Valley v. US, Ansible, Kubernetes, Meetings, DevSecOps, Serverless, and More'
+---
 
 I had a very quiet week (which explains the enormity of this week's newsletter). To give you an idea what the highlight of my week was, on Friday, I wiped two laptops, went to FedEx, and shipped them back to their owners. I'm spending the weekend between jobs resting and resetting. I will be in Raleigh the first part of the week and will finish the week at home, working for a new employer. To say I'm looking forward to getting started would be an understatement. I'm probably more excited to start this job than any other job I've ever had. Keep your eyes on [chrisshort.net](https://chrisshort.net/) for an announcement on Monday.
 
@@ -160,4 +175,4 @@ The core of product marketing is rooted in product promotion. It's a combination
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1009600059758006273 >}}
+{{< x user="allspaw" id="1009600059758006273" >}}

@@ -1,15 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-03-24
-description = "No introduction. Enjoy your week!"
-draft = false
-slug = "120"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "GitOps", "Docker", "Accelerate"]
-title = "120: Kubernetes, Azure, GitHub, Microsoft, No Medium, Meritocracy, BGP, Clippy, GitOps, DevOps Productivity Hacks, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-03-24'
+description: No introduction. Enjoy your week!
+draft: false
+slug: '120'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- serverless
+- container
+- security
+- GitOps
+- Docker
+- Accelerate
+title: '120: Kubernetes, Azure, GitHub, Microsoft, No Medium, Meritocracy, BGP, Clippy, GitOps, DevOps Productivity Hacks, and More'
+---
 
 No introduction. Enjoy your week!
 
@@ -39,7 +54,7 @@ How well does your organization respond to changing market conditions, customer 
 
 [These hyper-secretive economists are transforming how Amazon does business](https://www.cnn.com/2019/03/13/tech/amazon-economists/index.html) — "Amazon is now a large draw from the relatively small talent pool of PhD economists, which in the United States grows by about only 1,000 new graduates every year."
 
-{{< tweet 1108967233915478016 >}}
+{{< x user="amcasari" id="1108967233915478016" >}}
 
 [5 Ways to Boost Your Earning Potential in DevOps](https://www.thirdrepublic.com/blog/boost-earning-potential-devops) — This article is surprisingly good. It's sound advice.
 
@@ -115,6 +130,6 @@ How well does your organization respond to changing market conditions, customer 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1109146625279057920 >}}
+{{< x user="shanselman" id="1109146625279057920" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

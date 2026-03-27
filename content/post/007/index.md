@@ -1,21 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-01-22T09:07:00.307Z
-description = ""
-draft = false
-slug = "007"
-tags = ["devops", "cloud native", "open source", "infrastructure", "linux", "google", "microservices", "ntp", "containers", "Docker"]
-title = "DevOps'ish 007: Week of 1485061200"
-image ="https://shortcdn.com/devopsish/woc-in-tech.jpg"
-imagealt = "Photo Courtesy WOCinTech Chat"
-imagecap = "Photo by [#WOCinTech Chat](http://www.wocintechchat.com/)"
-aliases = [
-    "devopsish-weekly-007-week-of-1485061200-4f3c2ca3481d"
-]
-
-+++
+---
+aliases:
+- devopsish-weekly-007-week-of-1485061200-4f3c2ca3481d
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-01-22T09:07:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/woc-in-tech.jpg
+imagealt: Photo Courtesy WOCinTech Chat
+imagecap: 'Photo by [#WOCinTech Chat](http://www.wocintechchat.com/)'
+slug: '007'
+tags:
+- devops
+- cloud native
+- open source
+- infrastructure
+- linux
+- google
+- microservices
+- ntp
+- containers
+- Docker
+title: 'DevOps''ish 007: Week of 1485061200'
+---
 
 What a busy week in the land of [DevOps](https://devopsish.com/)! It seems like everyone has shaken off the holidays and snow days. So without further adieu let's get to it!
 

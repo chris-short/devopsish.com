@@ -1,20 +1,26 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-01-01T08:02:01.322Z
-description = ""
-draft = false
-slug = "004"
-tags = ["devops", "cloud native", "open source", "linux", "ansible", "hashicorp"]
-title = "004: Week of 1483246800"
-image ="https://shortcdn.com/devopsish/fireworks-over-downtown.jpg"
-imagealt = "2016 has come to an end. For auld lang syne, my dear!"
-aliases = [
-    "004-week-of-1483246800-f780b9b00f3"
-]
-
-+++
+---
+aliases:
+- 004-week-of-1483246800-f780b9b00f3
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-01-01T08:02:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/fireworks-over-downtown.jpg
+imagealt: 2016 has come to an end. For auld lang syne, my dear!
+slug: '004'
+tags:
+- devops
+- cloud native
+- open source
+- linux
+- ansible
+- hashicorp
+title: '004: Week of 1483246800'
+---
 
 2016 has come to an end. For auld lang syne, my dear!
 
@@ -58,4 +64,4 @@ Joel Sing pointed out this week that [migrating to OpenSSL 1.1 is really (unnece
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 814871794649808896 >}}
+{{< x user="8bitdad" id="814871794649808896" >}}

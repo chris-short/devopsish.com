@@ -1,15 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-04-14
-description = ""
-draft = false
-slug = "123"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "system", "Site Reliability Engineering", "SRE", "Docker"]
-title = "123: Kubernetes, DevOps Pipelines, Trolls & Corporate Liability, How to Get Into SRE, Hannah Montana Linux, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-04-14'
+description: ''
+draft: false
+slug: '123'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- serverless
+- container
+- security
+- system
+- Site Reliability Engineering
+- SRE
+- Docker
+title: '123: Kubernetes, DevOps Pipelines, Trolls & Corporate Liability, How to Get Into SRE, Hannah Montana Linux, and More'
+---
 
 I received my first credible death threat from someone over the internet when I was eighteen (I was working for an ISP and had to cancel an account for terms violations). No one knew what to do then. A few years later, I referred a credible threat to the FBI for investigation (Muslim extremists). No one knew what I should do then either. A few months ago, a Twitter troll hounded my personal and several corporate accounts FOR DAYS. Why? I liked a tweet telling the troll people aren't obligated to talk to them because they released open source software. I liked a tweet and had to watch a troll degrade my team, background, and professionalism. But, corporate policy is don't feed the trolls, so I didn't. I know folks that have gotten a lot worse.
 
@@ -123,6 +139,6 @@ How well does your organization respond to changing market conditions, customer 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1115593200184377346 >}}
+{{< x user="ASpittel" id="1115593200184377346" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

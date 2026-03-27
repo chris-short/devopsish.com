@@ -1,15 +1,46 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-04-26
-description = "DevOps'ish 177: The Hiatus Edition"
-draft = false
-slug = "177"
-tags = ["Kubernetes", "DevOps", "developers", "cloud", "cloud native", "open source", "AKS", "Google", "AWS", "FTP", "SFTP", "Telegram", "CNCF", "Knative", "eBook", "Cloud Native Computing Foundation", "Microsoft", "YouTube", "Detroit", "Amazon", "serverless", "ArgoCD", "OpenShift", "Red Hat", "Azure", "Fedora", "Netflix", "Spotify", "Operators", "Community"]
-title = "DevOps'ish 177: The Hiatus Edition"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-04-26'
+description: 'DevOps''ish 177: The Hiatus Edition'
+draft: false
+slug: '177'
+tags:
+- Kubernetes
+- DevOps
+- developers
+- cloud
+- cloud native
+- open source
+- AKS
+- Google
+- AWS
+- FTP
+- SFTP
+- Telegram
+- CNCF
+- Knative
+- eBook
+- Cloud Native Computing Foundation
+- Microsoft
+- YouTube
+- Detroit
+- Amazon
+- serverless
+- ArgoCD
+- OpenShift
+- Red Hat
+- Azure
+- Fedora
+- Netflix
+- Spotify
+- Operators
+- Community
+title: 'DevOps''ish 177: The Hiatus Edition'
+---
 
 "We should take comfort that while we may have more still to endure, better days will return. We will be with our friends again. We will be with our families again. We will meet again. But for now, I send my thanks and warmest good wishes to you all." -Queen Elizabeth II
 
@@ -92,8 +123,5 @@ Literally a Chaos Monkey for your Kubernetes clusters
 [AATHITH/kubesort](https://github.com/AATHITH/kubesort)  
 "You don't have to type `kubectl --sort-by=.status.containerStatuses[0].restartcount get po` to sort the pod by their `STATUS`, just type `kubesort status` that's it."
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1253451793637531649 >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/177/notes.md) to see what didn't make it to the newsletter.

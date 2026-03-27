@@ -1,15 +1,86 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-07-04
-description = ["AWS Infinidash, GPT-3 via GitHub Copilot, Polywork, rainbow marketing, LinkedIn breach, VMs hiding ransomware, Kubernetes overspend, Helm, GitOps, Tailscale with Kubernetes, and more"]
-draft = false
-slug = "225"
-tags = ["Kubernetes", "AWS", "Infinidash", "AWS Infinidash", "GPT-3", "Helm", "GitHub", "Tailscale", "cloud", "Cloud Native", "Microsoft", "rainbow marketing", "ransomware", "DevOps", "time", "Polywork", "GitHub Copilot", "GitOps", "LinkedIn", "VMs", "VM", "virtual machine", "virtualization", "Google", "source code", "open source", "open source software", "IBM", "VSCode", "overspend", "LGBTQ+", "breach", "Linux", "service", "services", "management", "production", "massive language model", "community", "tech", "networking", "leader", "AI", "technology", "Operators", "observability", "monitoring", "Rust", "Twitter", "internet", "disinformation", "ally", "Pride", "communities", "Tracy Chou", "Amazon", "CIS Benchmarks", "provisioning", "infrastructure", "Git", "quantum computer", "ion trapped quantum computer", "automation", "Red Hat", "Jim Whitehurst", "etcd", "Fliqlo", "systemd", "Intel"]
-title = "DevOps'ish 225: AWS Infinidash, GPT-3 via GitHub Copilot, Polywork, rainbow marketing, LinkedIn breach, VMs hiding ransomware, Kubernetes overspend, Helm, GitOps, Tailscale with Kubernetes, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-07-04'
+description:
+- AWS Infinidash, GPT-3 via GitHub Copilot, Polywork, rainbow marketing, LinkedIn breach, VMs hiding ransomware, Kubernetes overspend, Helm, GitOps, Tailscale with Kubernetes, and more
+draft: false
+slug: '225'
+tags:
+- Kubernetes
+- AWS
+- Infinidash
+- AWS Infinidash
+- GPT-3
+- Helm
+- GitHub
+- Tailscale
+- cloud
+- Cloud Native
+- Microsoft
+- rainbow marketing
+- ransomware
+- DevOps
+- time
+- Polywork
+- GitHub Copilot
+- GitOps
+- LinkedIn
+- VMs
+- VM
+- virtual machine
+- virtualization
+- Google
+- source code
+- open source
+- open source software
+- IBM
+- VSCode
+- overspend
+- LGBTQ+
+- breach
+- Linux
+- service
+- services
+- management
+- production
+- massive language model
+- community
+- tech
+- networking
+- leader
+- AI
+- technology
+- Operators
+- observability
+- monitoring
+- Rust
+- Twitter
+- internet
+- disinformation
+- ally
+- Pride
+- communities
+- Tracy Chou
+- Amazon
+- CIS Benchmarks
+- provisioning
+- infrastructure
+- Git
+- quantum computer
+- ion trapped quantum computer
+- automation
+- Red Hat
+- Jim Whitehurst
+- etcd
+- Fliqlo
+- systemd
+- Intel
+title: 'DevOps''ish 225: AWS Infinidash, GPT-3 via GitHub Copilot, Polywork, rainbow marketing, LinkedIn breach, VMs hiding ransomware, Kubernetes overspend, Helm, GitOps, Tailscale with Kubernetes, and more'
+---
 
 "AWS Infinidash is a new networking technology that is being introduced to the AWS cloud. This technology is being used by AWS to provide a new networking model that is more efficient and more scalable than the current networking model." —[GPT-3](https://en.wikipedia.org/wiki/GPT-3)
 
@@ -121,7 +192,7 @@ The proof of concept for the [PrintNightmare](https://us-cert.cisa.gov/ncas/curr
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1411073985765314560 >}}
+{{< x user="blkahn" id="1411073985765314560" >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/225/notes.md) to see what didn't make it to the newsletter but are still worth your time.
 

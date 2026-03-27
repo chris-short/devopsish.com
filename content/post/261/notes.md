@@ -26,7 +26,7 @@
 
 ## Ukraine
 
-{{< tweet user="ChrisShort" id="1503348739427258378" >}}
+{{< x user="ChrisShort" id="1503348739427258378" >}}
 
 [The Resilience of the Internet in Ukraine | RIPE Labs](https://labs.ripe.net/author/emileaben/the-resilience-of-the-internet-in-ukraine/)
 

@@ -1,14 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-05-01
-description = ["DevOps'ish 265"]
-draft = false
-slug = "265"
-tags = ["Argo", "Kubernetes", "GitOps", "CNCF", "cloud", "reliability", "data", "security", "open source", "AWS", "Honeycomb", "Cancer"]
-title = "DevOps'ish 265"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-05-01'
+description:
+- DevOps'ish 265
+draft: false
+slug: '265'
+tags:
+- Argo
+- Kubernetes
+- GitOps
+- CNCF
+- cloud
+- reliability
+- data
+- security
+- open source
+- AWS
+- Honeycomb
+- Cancer
+title: DevOps'ish 265
+---
 
 Hey, y'all! What I miss???
 

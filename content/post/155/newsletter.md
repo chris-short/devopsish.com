@@ -1,15 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-11-25
-description = "155"
-draft = false
-slug = "155"
-tags = ["Kubernetes", "KubeCon", "DevOps", "open source", "cloud native", "CNCF", "containers", "GitOps", "Moby", "Ansible", "service mesh"]
-title = "155: Disappointing KubeCon, employee engagement, death of 10x engineer, GitOps, Kubernetes with all the fixins, service mesh, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-11-25'
+description: '155'
+draft: false
+slug: '155'
+tags:
+- Kubernetes
+- KubeCon
+- DevOps
+- open source
+- cloud native
+- CNCF
+- containers
+- GitOps
+- Moby
+- Ansible
+- service mesh
+title: '155: Disappointing KubeCon, employee engagement, death of 10x engineer, GitOps, Kubernetes with all the fixins, service mesh, and more'
+---
 
 Editor's Note: The newsletter passed 3,975 subscribers this week. I'd love to end the month at 4,000 subscribers. If you don't mind, please ask your coworkers, BFFs, and folks on social media to [subscribe to DevOps'ish](https://devopsish.com/subscribe/). Y'all stay awesome!
 

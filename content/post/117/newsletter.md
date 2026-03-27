@@ -1,15 +1,44 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-03-02
-description = "Docker Layoffs, Purl, Linus Knocks Arm, Killing k8s, Ansible, OperatorHub, Gremlin, PostgreSQL Operator, and More"
-draft = false
-slug = "117"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "ansible", "container", "security", "operator", "gremlin", "docker layoffs", "docker", "layoffs", "git", "linus", "postgresql", "operatorhub", "azure", "Site Reliability Engineering", "SRE", "CI/CD", "Kubernetes Operators", "Ansible Operators", "Linus Torvalds", "GitOps"]
-title = "117: Docker Layoffs, Purl, Linus Knocks Arm, Killing k8s, Ansible, OperatorHub, Gremlin, PostgreSQL Operator, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-03-02'
+description: Docker Layoffs, Purl, Linus Knocks Arm, Killing k8s, Ansible, OperatorHub, Gremlin, PostgreSQL Operator, and More
+draft: false
+slug: '117'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- ansible
+- container
+- security
+- operator
+- gremlin
+- docker layoffs
+- docker
+- layoffs
+- git
+- linus
+- postgresql
+- operatorhub
+- azure
+- Site Reliability Engineering
+- SRE
+- CI/CD
+- Kubernetes Operators
+- Ansible Operators
+- Linus Torvalds
+- GitOps
+title: '117: Docker Layoffs, Purl, Linus Knocks Arm, Killing k8s, Ansible, OperatorHub, Gremlin, PostgreSQL Operator, and More'
+---
 
 [Docker confirmed they laid off folks](https://www.theregister.co.uk/2019/02/25/docker_cfo_layoffs_ceo_interview/). A source stated Docker closed their APAC office, laid off some developers, and punted some sales folks in Europe too. The source thought some managers on the development teams would be leaving soon as well. I have absolutely no real way of confirming that. But, all is well at Docker if you ask them. Things are so well in fact, that when a reporter reached out to Docker to ask about layoffs (based on a tweet from a random technologist), their PR team called the reporter to give them an "exclusive" interview with the Docker CEO to bury the layoffs. That's totally normal behavior for a company that's doing just peachy I guess. ¯\\\_(ツ)\_/¯ Regardless, if you're impacted and want help, let me know.
 

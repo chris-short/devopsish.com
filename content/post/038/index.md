@@ -1,20 +1,26 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-08-27T11:01:38.892Z
-description = ""
-draft = false
-slug = "038"
-tags = ["devops", "cloud native", "open source", "kubernetes", "linux", "containers"]
-title = "038: Failure, Linux, Save Your Eyes, Alibaba, and MORE!"
-image ="https://shortcdn.com/devopsish/l-b-king-and-company-building-eclipse.jpg"
-imagealt = "L.B. King and Company Building in Downtown Detroit during the Eclipse"
-aliases = [
-    "devopsish-038-failure-linux-save-your-eyes-alibaba-and-more-315fcf916bd9"
-]
-
-+++
+---
+aliases:
+- devopsish-038-failure-linux-save-your-eyes-alibaba-and-more-315fcf916bd9
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-08-27T11:01:38Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/l-b-king-and-company-building-eclipse.jpg
+imagealt: L.B. King and Company Building in Downtown Detroit during the Eclipse
+slug: 038
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- linux
+- containers
+title: '038: Failure, Linux, Save Your Eyes, Alibaba, and MORE!'
+---
 
 I began thinking about my talk for [DevOpsDays Raleigh](https://www.devopsdays.org/events/2017-raleigh/welcome/) here in a couple weeks. It's based off an already written piece from March. But any time I write something, after a few months I think of ways I could have written the piece better. The sane thing to do is not revisit it but to continue iterating on it. One overarching fact of not only DevOps but also business is, resisting change is stupid, successful businesses find a way to eliminate existential threats. Sometimes the problem with DevOps is that it isn't close enough to the thing making money; the product (and their teams). Unless you work in highly regulated industries there is a huge incentive to getting things done efficiently. Keep in mind, efficiently does not equate to quickly. Getting things done to meet an arbitrary deadline will usually result in shortcuts being taken, technical debt, and often rework (which is awful at deploy time). There is something incredibly refreshing about being able to identify unforeseen issues and adjust the target date accordingly. But, you have to be careful you're not always aiming for the moon and consistently failing to get to orbit.
 
@@ -79,6 +85,3 @@ StockX is looking for an experienced Cloud Systems Engineer, or DevOps Engineer,
 [**Director, Software Engineering — Bankrate — Detroit, MI**](http://app.jobvite.com/m?3N1q0jw2)
 A manager in an agile environment with strong technical skills. Collaborative leader who will understand our people, business, technology, and customers' needs. Leader who helps drive our culture of empowerment, ownership, and accountability to help develop our team technically and professionally. Identify and successfully implement improvements in our engineering processes, tools, and architecture to enable us to deliver on our key initiatives.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 900725820070690819 >}}

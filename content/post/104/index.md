@@ -1,15 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-12-02
-description = "DevOps for All, Requirements, Discord Acquisition Coming, Kubernetes Myths, Service Meshes, and More"
-draft = false
-slug = "104"
-tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "Red Hat", "ansible", "security", "serverless", "AWS"]
-title = "104: AWS (roasting Oracle), Kubernetes, Open Source in 2018, Oh... Google, Breaches, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-12-02'
+description: DevOps for All, Requirements, Discord Acquisition Coming, Kubernetes Myths, Service Meshes, and More
+draft: false
+slug: '104'
+tags:
+- weekly
+- devops
+- newsletter
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- Red Hat
+- ansible
+- security
+- serverless
+- AWS
+title: '104: AWS (roasting Oracle), Kubernetes, Open Source in 2018, Oh... Google, Breaches, and More'
+---
 
 Did you know that [Chef had layoffs](https://www.geekwire.com/2018/chef-cutting-10-jobs-amid-ongoing-shift-new-application-focused-product-strategy/)? I heard but I didn't think much of it. This week I got a text from [Chris Bailey](https://www.meetup.com/triangle-devops/) who told me another friend got laid off from Chef. Well, that sucks. But, wait, I can do something about that, right?
 
@@ -36,8 +50,6 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 [Microsoft wins $480M contract to supply U.S. Army with 100K HoloLens headsets](https://www.geekwire.com/2018/microsoft-wins-480m-contract-supply-u-s-army-100k-hololens-headsets/) — Got my eyes on you too, Microsoft.
 
 [Amazon Web Services' Andy Jassy roasts Oracle's Larry Ellison](https://www.businessinsider.com/amazon-web-services-andy-jassy-roasts-oracle-larry-ellison-2018-11)
-
-{{< tweet 1067814465293422595 >}}
 
 [How to Deal with Difficult People on Software Projects](https://people.neilon.software/) — You can explore these Problem Personalities with the [visual map](https://people.neilon.software/). This could come in handy.
 
@@ -115,4 +127,4 @@ Poll results reveal where and why organizations choose to use containers, cloud 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1068301077303500805 >}}
+{{< x user="goinggodotnet" id="1068301077303500805" >}}

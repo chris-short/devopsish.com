@@ -1,15 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-07-14
-description = "It is done, unicorn languages, Weave Ignite, you can't handle the CORS, and more"
-draft = false
-slug = "136"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "security", "DevOps news", "Kubernetes news", "Red Hat", "code", "Microsoft Teams", "infrastructure", "VSCode", "GitOps"]
-title = "136: It is done, unicorn languages, Weave Ignite, you can't handle the CORS, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-07-14'
+description: It is done, unicorn languages, Weave Ignite, you can't handle the CORS, and more
+draft: false
+slug: '136'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- GitHub
+- cloud native
+- security
+- DevOps news
+- Kubernetes news
+- Red Hat
+- code
+- Microsoft Teams
+- infrastructure
+- VSCode
+- GitOps
+title: '136: It is done, unicorn languages, Weave Ignite, you can''t handle the CORS, and more'
+---
 
 [Q&A: IBM's Landmark Acquisition of Red Hat](https://www.ibm.com/blogs/think/2019/07/ibm-red-hat/). It is done. Aside from extra meetings from too many Red Hat folks, I have seen zero change. I'd like to talk more about the whole acquisition process from my point of view since it was announced, at some point. Overall, from my perspective, the process was smooth. I commend Red Hat and IBM leadership for keeping the chaos to a minimum. Here's to next week and hopefully fewer meetings!
 

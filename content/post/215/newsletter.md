@@ -1,15 +1,49 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-04-25
-description = ["Prepping for KubeCon, we're languishing, CodeCov debacle, Signal slashes Cellebrite, not so Golden Gophers, ARM deal halted, Kubernetes Gateway API, and more"]
-draft = false
-slug = "215"
-tags = ["Kubernetes", "DevOps", "KubeCon", "cloud native", "open source", "code", "Red Hat", "Cellebrite", "University of Minnesota", "distributed", "tracing", "developers", "ARM", "NVIDIA", "LaunchDarkly", "Linux", "Clubhouse", "Gateway API", "Honeycomb", "handovers", "Operators", "Istio", "tech", "IBM", "homebrew", "languishing", "microservices", "FTP", "jq", "xargs", "COSI", "GitOps"]
-title = "DevOps'ish 215: Prepping for KubeCon, we're languishing, CodeCov debacle, Signal slashes Cellebrite, not so Golden Gophers, ARM deal halted, Kubernetes Gateway API, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-04-25'
+description:
+- Prepping for KubeCon, we're languishing, CodeCov debacle, Signal slashes Cellebrite, not so Golden Gophers, ARM deal halted, Kubernetes Gateway API, and more
+draft: false
+slug: '215'
+tags:
+- Kubernetes
+- DevOps
+- KubeCon
+- cloud native
+- open source
+- code
+- Red Hat
+- Cellebrite
+- University of Minnesota
+- distributed
+- tracing
+- developers
+- ARM
+- NVIDIA
+- LaunchDarkly
+- Linux
+- Clubhouse
+- Gateway API
+- Honeycomb
+- handovers
+- Operators
+- Istio
+- tech
+- IBM
+- homebrew
+- languishing
+- microservices
+- FTP
+- jq
+- xargs
+- COSI
+- GitOps
+title: 'DevOps''ish 215: Prepping for KubeCon, we''re languishing, CodeCov debacle, Signal slashes Cellebrite, not so Golden Gophers, ARM deal halted, Kubernetes Gateway API, and more'
+---
 
 Two weeks before KubeCon EU and the work is ramping up quickly. If you haven't gotten your tickets yet, grab yours today. As always, if you are underrepresented in tech and still need a ticket, let me know. I will be busy next week prepping for a flip to Central European Summer Time with a lot going on. On May 3rd, I will be mc'ing [**GitOps Con**](https://kccnceu2021.sched.com/event/iZx4/gitops-con-hosted-by-weaveworks-redhat-complimentary-registration-required?iframe=no&w=100%25&sidebar=yes&bg=no). It's going to be awesome. On May 4th, the first anniversary of [OpenShift.tv](https://openshift.tv/) (yeah, it's been a year, y'all), I'll be live streaming [OpenShift Commons Gathering hosted by Red Hat (Complimentary Registration Required)](https://kccnceu2021.sched.com/event/iE1J/openshift-commons-gathering-hosted-by-red-hat-complimentary-registration-required). I'll be in the Red Hat booth for a little bit on May 5th.
 

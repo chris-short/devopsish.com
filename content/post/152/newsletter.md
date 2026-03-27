@@ -1,15 +1,38 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-11-03
-description = "UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More"
-draft = false
-slug = "152"
-tags = ["DevOps", "Kubernetes", "cloud", "Unix", "open source", "container", "Contour", "Img", "Ansible Operators", "Cloud Native", "Quarkus", "Jaeger", "podman", "DKIM", "CNCF", "Fitbit", "systemd", "JEDI", "platform", "AWS", "culture", "Docker"]
-title = "152: UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-11-03'
+description: 'UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More'
+draft: false
+slug: '152'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- Unix
+- open source
+- container
+- Contour
+- Img
+- Ansible Operators
+- Cloud Native
+- Quarkus
+- Jaeger
+- podman
+- DKIM
+- CNCF
+- Fitbit
+- systemd
+- JEDI
+- platform
+- AWS
+- culture
+- Docker
+title: '152: UNIX: A History and a Memoir, systemd ~, JEDI, Jaeger, Fitbit, DKIM, Ansible Operators, Quarkus, Img, Podman, Contour, and More'
+---
 
 I actually crossed things off my list this week. The little wins should be celebrated along with the big ones. There is something very therapeutic about erasing a line on a whiteboard or checking a box. That's not celebration enough though. Make sure if you are doing complicated work that you take a moment to celebrate when it all comes together. There's absolutely nothing wrong with feeling good about yourself. Morale is a huge part of this work. I learned this early on back in my  military days and it has served me very well in the DevOps world.
 
@@ -27,7 +50,7 @@ The Cloud Native Computing Foundation's flagship conference gathers adopters and
 
 ## People
 
-{{< tweet 1189948923777032193 >}}
+{{< x user="wattsteve" id="1189948923777032193" >}}
 
 [GitHub tries, in vain, to quell employee anger over ICE contract](https://www.latimes.com/business/technology/story/2019-10-31/github-ice-contract-defense) — To say things aren't going smoothly at GitHub would appear to be an understatement. DevOps'ish reader, Twitter friend, and now former GitHub staff engineer, Sophie Haskins, resigned on Monday, "the company did not cancel its contract with ICE and 'shows no indication of canceling the contract,' which she wrote was 'morally unacceptable.'" That's another huge loss for GitHub.
 

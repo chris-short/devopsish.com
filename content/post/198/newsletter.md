@@ -1,15 +1,41 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-12-27
-description = "Solarwinds supply chain compromise worsens (bonus DLL deep dive), Apple outages, shady GoDaddy, GitOps improves security, ARM, diffs, streams, and more"
-draft = false
-slug = "198"
-tags = ["DevOps", "security", "cloud", "cloud native", "Apple", "Linux", "systems", "Solarwinds", "supply chain", "compromise", "Microsoft", "COVID-19", "Intel", "theory", "DLL", "threat", "GitOps", "Kubernetes", "ARM", "trace", "syscalls", "gopher", "namespaces", "diffs", "streams"]
-title = "DevOps'ish 198"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-12-27'
+description: Solarwinds supply chain compromise worsens (bonus DLL deep dive), Apple outages, shady GoDaddy, GitOps improves security, ARM, diffs, streams, and more
+draft: false
+slug: '198'
+tags:
+- DevOps
+- security
+- cloud
+- cloud native
+- Apple
+- Linux
+- systems
+- Solarwinds
+- supply chain
+- compromise
+- Microsoft
+- COVID-19
+- Intel
+- theory
+- DLL
+- threat
+- GitOps
+- Kubernetes
+- ARM
+- trace
+- syscalls
+- gopher
+- namespaces
+- diffs
+- streams
+title: DevOps'ish 198
+---
 
 Remember last week how I said things would be punchier? Well, I updated the [DevOps'ish Solarwinds supply chain compromise Index](https://devopsish.com/solarwinds-supply-chain-compromise/). By the way, Microsoft says it was, "used by a different threat actor."
 

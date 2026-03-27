@@ -1,15 +1,48 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-05-16
-description = ["What is DevOps eBook, Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more"]
-draft = false
-slug = "218"
-tags = ["DevOps", "cloud", "Cloud Native", "Kubernetes", "GitOps", "systemd", "security", "What is DevOps", "KubeCon", "OpenShift.TV", "Lambda School", "GitOps Con", "Linux on the Desktop", "security", "scale", "SSH", "open source", "Microsoft", "Red Hat", "Apple", "Google", "observability", "Windows eBPF", "Rust", "OpenShift", "CNCF", "Linus Torvalds", "AWS", "BGP", "kubectl", "AI"]
-title = "DevOps'ish 218: What is DevOps eBook, Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-05-16'
+description:
+- What is DevOps eBook, Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more
+draft: false
+slug: '218'
+tags:
+- DevOps
+- cloud
+- Cloud Native
+- Kubernetes
+- GitOps
+- systemd
+- security
+- What is DevOps
+- KubeCon
+- OpenShift.TV
+- Lambda School
+- GitOps Con
+- Linux on the Desktop
+- security
+- scale
+- SSH
+- open source
+- Microsoft
+- Red Hat
+- Apple
+- Google
+- observability
+- Windows eBPF
+- Rust
+- OpenShift
+- CNCF
+- Linus Torvalds
+- AWS
+- BGP
+- kubectl
+- AI
+title: 'DevOps''ish 218: What is DevOps eBook, Linux on the Desktop, racist AI, Darkside goes dark, systemd 💪, AWS free tier, lots of tools, and more'
+---
 
 Finally, an average week, expect weeks are anything but “normal” these days. This past week marked the [first birthday of OpenShift.TV](https://www.openshift.com/blog/its-been-a-full-year-since-we-launched-openshift-tv) (which is for all intents and purposes) what I’ve been working on the past year. 540 hours of content that [has been archived](https://www.youtube.com/user/rhopenshift) to help folks tackle all kinds of issues with Kubernetes, OpenShift, and a host of other open source projects. I bet we’ve touched on [etcd’s thirst for low latency](https://www.ibm.com/cloud/blog/using-fio-to-tell-whether-your-storage-is-fast-enough-for-etcd), having to remind people to [use DHCP for IPI installations](https://www.twitch.tv/videos/729330449), and have come up with as many "stage" names; it might total up to about 540 times too. It’s been worth it. The value it brings to others is beyond what we were hoping for.
 

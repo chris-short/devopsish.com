@@ -1,15 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-03-07
-description = "KubeCon problems, tech is the easy part, Okta eats Auth0 whole, Exchange vulns, Digital Ocean IPO, #100DaysOfKubernetes, and more"
-draft = false
-slug = "208"
-tags = ["Kubernetes", "cloud", "cloud native", "hybrid cloud", "KubeCon", "community", "DevOps", "exploit", "open source", "Digital Ocean", "Red Hat", "Kirsten Newcomer", "software engineer"]
-title = "DevOps'ish 208: KubeCon problems, tech is the easy part, Okta eats Auth0 whole, Exchange vulns, Digital Ocean IPO, #100DaysOfKubernetes, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-03-07'
+description: 'KubeCon problems, tech is the easy part, Okta eats Auth0 whole, Exchange vulns, Digital Ocean IPO, #100DaysOfKubernetes, and more'
+draft: false
+slug: '208'
+tags:
+- Kubernetes
+- cloud
+- cloud native
+- hybrid cloud
+- KubeCon
+- community
+- DevOps
+- exploit
+- open source
+- Digital Ocean
+- Red Hat
+- Kirsten Newcomer
+- software engineer
+title: 'DevOps''ish 208: KubeCon problems, tech is the easy part, Okta eats Auth0 whole, Exchange vulns, Digital Ocean IPO, #100DaysOfKubernetes, and more'
+---
 
 This week I heard about and witnessed some pretty disgusting behavior in the greater cloud native community. First, I saw a tweet from a CNCF Ambassador saying KubeCon was pay to play (the tweet is gone now but, you better believe they lost a follower that day). If KubeCon were pay to play, I'd have spoken at the last three years of KubeCons. Red Hat spends a shitload of money sponsoring KubeCon and the Linux Foundation. It does not, nor should it ever influence the talk selection process.
 

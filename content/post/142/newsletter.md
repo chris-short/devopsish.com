@@ -1,15 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-08-25
-description = "COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more"
-draft = false
-slug = "142"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "COBOL", "git", "ops", "Site Reliability Engineering", "SRE", "WeWork"]
-title = "142: COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-08-25'
+description: COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more
+draft: false
+slug: '142'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- cloud native
+- DevOps news
+- Kubernetes news
+- COBOL
+- git
+- ops
+- Site Reliability Engineering
+- SRE
+- WeWork
+title: '142: COBOL, Git got, Kubernetes ~~enables~~ forces collaboration, 2019 State of DevOps, have DevOps your way, and more'
+---
 
 I wrote something this week on Twitter that I'd like to dive a little deeper into. "I see Kubernetes as an opportunity for Ops folks to reach across the DevOps divides and help Devs understand what concepts Ops has wrangled with every day around DNS, networking, infrastructure, etc. Kubernetes is a tool that could improve collaboration along logical boundaries."
 
@@ -91,6 +105,6 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1165383130812833794 >}}
+{{< x user="film_girl" id="1165383130812833794" >}}
 
 Notes from this week's issue can be found [here](https://github.com/chris-short/devopsish.com/blob/main/content/post/142/notes.md).

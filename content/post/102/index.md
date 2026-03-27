@@ -1,15 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-11-18
-description = "Web Development is Hard, Kubernetes, Ansible, DevOps Engineer title debate, Google Woes, sr.ht, and More"
-draft = false
-slug = "102"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "Red Hat", "ansible", "security", "serverless", "google", "linux", "enterprise", "veterans", "Docker Inc"]
-title = "102: Web Development is Hard, Veterans, Kubernetes, Ansible, DevOps Engineer title debate, Google Woes, sr.ht, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-11-18'
+description: Web Development is Hard, Kubernetes, Ansible, DevOps Engineer title debate, Google Woes, sr.ht, and More
+draft: false
+slug: '102'
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- Red Hat
+- ansible
+- security
+- serverless
+- google
+- linux
+- enterprise
+- veterans
+- Docker Inc
+title: '102: Web Development is Hard, Veterans, Kubernetes, Ansible, DevOps Engineer title debate, Google Woes, sr.ht, and More'
+---
 
 It's weird how things decay online. A 404 here, a failed git submodule update there can lead to weird things breaking. I noticed that happening with [chrisshort.net](https://chrisshort.net/). The site had gotten slower too despite it being a static site served through Cloudflare. I spent an evening looking for new [Hugo](http://gohugo.io) themes. Testing their performance, figuring out what design would work best for me, and  looked pleasant.
 
@@ -141,6 +157,3 @@ Discover how you can get greater visibility into how and where you're being atta
 
 [Find "Toxicity/Profanity" of a comment using Google Perspective](https://dev.to/sandeshsuvarna/find-toxicityprofanity-of-a-comment-using-google-perspective-3m22) — I need this built into my brain ASAP!
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1062537254361415681 >}}

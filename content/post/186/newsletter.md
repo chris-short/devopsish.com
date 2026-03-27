@@ -1,15 +1,38 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-10-04
-description = "Help save face, help for juniors, Hacktoberfest objection, cgroups, breaking busy culture, and more"
-draft = false
-slug = "186"
-tags = ["Kubernetes", "culture", "DevOps", "dog", "open source", "build", "junior", "senior", "cloud", "observability", "cloud native", "security", "Google", "Red Hat", "cgroups", "computer", "sysadmins", "developer", "measure", "attacked", "Hacktoberfest", "serverless"]
-title = "DevOps'ish 186"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-10-04'
+description: Help save face, help for juniors, Hacktoberfest objection, cgroups, breaking busy culture, and more
+draft: false
+slug: '186'
+tags:
+- Kubernetes
+- culture
+- DevOps
+- dog
+- open source
+- build
+- junior
+- senior
+- cloud
+- observability
+- cloud native
+- security
+- Google
+- Red Hat
+- cgroups
+- computer
+- sysadmins
+- developer
+- measure
+- attacked
+- Hacktoberfest
+- serverless
+title: DevOps'ish 186
+---
 
 This is the hell that is America today: It took us a week to get a legitimate COVID-19 test for my daughter. Strep and flu tests were done at the same time; she tested positive for the flu. Hopefully, things are on the upswing there.
 

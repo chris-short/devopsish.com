@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-12-17T06:34:36.763Z
-description = ""
-draft = false
-slug = "054"
-tags = ["devops", "cloud native", "open source", "kubernetes", "infrastructure", "linux", "google", "containers", "Docker Inc"]
-title = "054: Kubernetes, Docker is Dead, Friend in Need, KubeCon Videos, and More!"
-image ="https://shortcdn.com/devopsish/great-white-north.jpg"
-imagealt = "I have to drive south to get to Canada"
-aliases = [
-    "devopsish-054-kubernetes-docker-is-dead-friend-in-need-kubecon-videos-and-more-1011d4dd5cf0"
-]
-
-+++
+---
+aliases:
+- devopsish-054-kubernetes-docker-is-dead-friend-in-need-kubecon-videos-and-more-1011d4dd5cf0
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-12-17T06:34:36Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/great-white-north.jpg
+imagealt: I have to drive south to get to Canada
+slug: '054'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- infrastructure
+- linux
+- google
+- containers
+- Docker Inc
+title: '054: Kubernetes, Docker is Dead, Friend in Need, KubeCon Videos, and More!'
+---
 
 We have been totally buried by snow this week in Michigan. The daily snow forecasts have been underestimated by inches almost everyday. Not a big deal, it's just a lot of powdery snow early in the winter. It'll probably be a white Christmas here in the Detroit metro area. Meanwhile, the job hunt is an odd mix of hot and cold. To be honest, I was hoping to have something pretty solid coming back from KubeCon. The fact that something hasn't happened yet I think can be firmly attributed to the time of year. No one wants to pull the trigger on hiring then go on vacation for the holidays. It's fine, my calendar this past week has been full of calls so I'm not worried, yet. In the back of my head though, doubt creeps in. I tweeted the other night, "[The worst part about job hunting is that it stokes the flames of imposter syndrome harder than any other venture could.](https://twitter.com/ChrisShort/status/941519683525791744)" I found myself nitpicking job descriptions earlier in the week. I would find a single line that didn't apply to me and throw out the position. I caught myself Wednesday night and realized having been in hiring that no one checks every box. If they do you better throw bags of money at them because they will be getting bombarded by legit, good offers every week. Patience is hard, especially this time of year. But, thinking about it, this break has been pretty good for mentally recovering. It might eat away at self-confidence but that's probably a good thing from time to time. Mindfulness and perspective is key.
 

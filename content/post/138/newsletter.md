@@ -1,15 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-07-28
-description = "Let's talk about JEDI. Not the lightsaber wielding kind, it's US Department of Defense's Joint Enterprise Defense Infrastructure (JEDI)."
-draft = false
-slug = "138"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "security", "DevOps news", "Kubernetes news", "JEDI", "AWS", "docker", "oracle", "community", "developers"]
-title = "138: Jeez JEDI, language ladder, killing K8s, floppy finished, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-07-28'
+description: Let's talk about JEDI. Not the lightsaber wielding kind, it's US Department of Defense's Joint Enterprise Defense Infrastructure (JEDI).
+draft: false
+slug: '138'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- GitHub
+- cloud native
+- security
+- DevOps news
+- Kubernetes news
+- JEDI
+- AWS
+- docker
+- oracle
+- community
+- developers
+title: '138: Jeez JEDI, language ladder, killing K8s, floppy finished, and more'
+---
 
 Let's talk about JEDI. Not the lightsaber wielding kind, it's US Department of Defense's [Joint Enterprise Defense Infrastructure (JEDI)](https://devopsish.com/tags/jedi/) kind. JEDI is a $10 billion, single-award, indefinite delivery, indefinite quantity contract for the largest Department in the US government's cloud business. The competition had been whittled down to AWS and Azure but, Oracle has been pitching a Larry Ellison sized fit over it. Actually, Oracle has protested JEDI's selection process almost since its inception. The process started in late 2017 and has been filled with all sorts of twists and turns.
 

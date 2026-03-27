@@ -1,15 +1,59 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-05-30
-description = ["Fretting over free tier, Amazon's creepy network, NOBELIUM, Half-Double Rowhammers on sale, Istio vs. Linkerd, cost of cloud, and more"]
-draft = false
-slug = "220"
-tags = ["cloud", "DevOps", "attack", "open sources", "government", "compose", "privacy", "observability", "cloud native", "lithium", "Docker", "Honeycomb", "free tier", "time", "system", "providers", "code", "Kubernetes", "Podman", "cloud spend", "NOBELIUM", "AWS", "infrastructure", "postgresql", "hack", "investigation", "Amazon", "Russia", "breached", "unpatched", "Fortinet", "benchmarking", "Linkerd", "Istio", "IBM", "Argo", "HAProxy", "metrics", "Rust", "developers", "GitOps", "API"]
-title = "DevOps'ish 220: Fretting over free tier, Amazon's creepy network, NOBELIUM, Half-Double Rowhammers on sale, Istio vs. Linkerd, cost of cloud, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-05-30'
+description:
+- Fretting over free tier, Amazon's creepy network, NOBELIUM, Half-Double Rowhammers on sale, Istio vs. Linkerd, cost of cloud, and more
+draft: false
+slug: '220'
+tags:
+- cloud
+- DevOps
+- attack
+- open sources
+- government
+- compose
+- privacy
+- observability
+- cloud native
+- lithium
+- Docker
+- Honeycomb
+- free tier
+- time
+- system
+- providers
+- code
+- Kubernetes
+- Podman
+- cloud spend
+- NOBELIUM
+- AWS
+- infrastructure
+- postgresql
+- hack
+- investigation
+- Amazon
+- Russia
+- breached
+- unpatched
+- Fortinet
+- benchmarking
+- Linkerd
+- Istio
+- IBM
+- Argo
+- HAProxy
+- metrics
+- Rust
+- developers
+- GitOps
+- API
+title: 'DevOps''ish 220: Fretting over free tier, Amazon''s creepy network, NOBELIUM, Half-Double Rowhammers on sale, Istio vs. Linkerd, cost of cloud, and more'
+---
 
 I'm in surgery recovery mode. I will be for a while it looks like. Nerves are weird. Do me a favor; if you're reading this, [take the 2021 DORA State of DevOps survey](https://cloud.google.com/blog/products/devops-sre/take-2021-state-devops-survey-shape-future-devops).
 

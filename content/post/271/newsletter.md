@@ -1,13 +1,28 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-06-12
-description = [""]
-draft = false
-slug = "271"
-tags = ["Argo", "Kubernetes", "open source", "cloud", "cloud native", "data", "DNS", "research", "organization", "Atom", "DevOps"]
-title = "DevOps'ish 271"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-06-12'
+description:
+- ''
+draft: false
+slug: '271'
+tags:
+- Argo
+- Kubernetes
+- open source
+- cloud
+- cloud native
+- data
+- DNS
+- research
+- organization
+- Atom
+- DevOps
+title: DevOps'ish 271
+---
 
 I've written this newsletter from a lot of places over a variety of internet services. From the WiFi at home, to airplanes, to airport lounges, hotels, AirBnBs, VRBOs, foreign countries, and more, I've written DevOps'ish many different places and ways. But, today is unique because [I'm the way off the beaten path in northern Michigan](https://twitter.com/ChrisShort/status/1535736049724530693). We're so far off the beaten track that there's no cell service. There is WiFi from Viasat. I'll say it'll get the job done, but I'm reminded of working at low data rates in far-flung places decades ago. But, I think the view from this one is much better than the others.
 

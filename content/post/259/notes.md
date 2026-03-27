@@ -27,7 +27,7 @@ It is as I feared.
 
 [Facebook, Twitter remove disinformation accounts targeting Ukrainians](https://www.nbcnews.com/tech/internet/facebook-twitter-remove-disinformation-accounts-targeting-ukrainians-rcna17880)
 
-{{< tweet user="ChrisShort" id="1500287929574465540" >}}
+{{< x user="ChrisShort" id="1500287929574465540" >}}
 
 [Wikimedia says it ‘will not back down’ after Russia censorship threat - The Verge](https://www.theverge.com/2022/3/3/22960007/russia-wikipedia-wikimedia-foundation-censorship-demand)  
 Remind me to increase my donation to them this year.
@@ -47,7 +47,7 @@ You poor thing... people are dying and you’re going boohoo over your own choic
 
 [Russia appears to deploy digital defenses after DDoS attacks - The Record by Recorded Future](https://therecord.media/russia-appears-to-deploy-digital-defenses-after-ddos-attacks/)
 
-{{< tweet user="Nat_Vasilyeva" id="1497972181837484032" >}}
+{{< x user="Nat_Vasilyeva" id="1497972181837484032" >}}
 
 [Maps: Tracking the Russian Invasion of Ukraine](https://www.linkedin.com/posts/thechrisshort_maps-tracking-the-russian-invasion-of-ukraine-activity-6904423381173710848-nFIc/)  
 This map says a lot about human nature and the desire to be free from oppression.
@@ -56,7 +56,7 @@ This map says a lot about human nature and the desire to be free from oppression
 
 [White House responds to Russia's decision to put deterrence forces on high alert | CNN Politics](https://www.cnn.com/2022/02/27/politics/russia-nuclear-high-alert-white-house-reaction/index.html)
 
-{{< tweet user="ZelenskyyUa" id="1497885721931268103" >}}
+{{< x user="ZelenskyyUa" id="1497885721931268103" >}}
 
 [Attack On Europe: Documenting Equipment Losses During The 2022 Russian Invasion Of Ukraine - Oryx](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)
 

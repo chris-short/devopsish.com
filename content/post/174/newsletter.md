@@ -1,15 +1,34 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-04-05
-description = "Free Ansible & Kubernetes books, migrating to Kubernetes, Ansible GitOps, OpenShift Virtualization, Ingress API tweaks in Kubernetes 1.18, and more"
-draft = false
-slug = "174"
-tags = ["Kubernetes", "cloud", "DevOps", "security", "AWS", "community", "Ansible", "containers", "open source", "cloud native", "configuration", "Lambda", "OpenShift", "virtualization", "Operators", "Outreachy", "VSCode", "GitOps"]
-title = "DevOps'ish 174"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-04-05'
+description: Free Ansible & Kubernetes books, migrating to Kubernetes, Ansible GitOps, OpenShift Virtualization, Ingress API tweaks in Kubernetes 1.18, and more
+draft: false
+slug: '174'
+tags:
+- Kubernetes
+- cloud
+- DevOps
+- security
+- AWS
+- community
+- Ansible
+- containers
+- open source
+- cloud native
+- configuration
+- Lambda
+- OpenShift
+- virtualization
+- Operators
+- Outreachy
+- VSCode
+- GitOps
+title: DevOps'ish 174
+---
 
 I understand that there are some of you looking for something to learn while we're in this odd time. I wrote this week's newsletter with that in mind. [If you don't know `git`, **now** is the time to learn](https://youtu.be/K5qI9bTG9Ik) for sure. Please don't hesitate to reach out if you have any feedback. Thank you for subscribing and reading.
 
@@ -87,6 +106,6 @@ The `TopologyManager` feature enables NUMA alignment of CPUs and peripheral devi
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1245365381746704391 >}}
+{{< x user="pythondj" id="1245365381746704391" >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/174/notes.md) to see what didn't make it to the newsletter.

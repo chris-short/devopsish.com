@@ -1,15 +1,39 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-03-08
-description = "We're all grounded, transparency, women in ops, GKE price hike, pppd flaw, GitHub poaches Nicole Forsgren, container attached storage, and more"
-draft = false
-slug = "170"
-tags = ["Kubernetes", "Operators", "Istio", "DevOps", "cloud native", "cloud", "open source", "storage", "control plane", "coronavirus", "COVID-19", "Linux", "containers", "namespaces", "Google", "GKE", "Intel", "infrastructure", "CNCF", "Ops", "Nicole Forsgren", "container attached storage", "OpenEBS"]
-title = "DevOps'ish 170"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-03-08'
+description: We're all grounded, transparency, women in ops, GKE price hike, pppd flaw, GitHub poaches Nicole Forsgren, container attached storage, and more
+draft: false
+slug: '170'
+tags:
+- Kubernetes
+- Operators
+- Istio
+- DevOps
+- cloud native
+- cloud
+- open source
+- storage
+- control plane
+- coronavirus
+- COVID-19
+- Linux
+- containers
+- namespaces
+- Google
+- GKE
+- Intel
+- infrastructure
+- CNCF
+- Ops
+- Nicole Forsgren
+- container attached storage
+- OpenEBS
+title: DevOps'ish 170
+---
 
 Everything is canceled, postponed, or going virtual. Coronavirus (COVID-19) has already made drastic impacts across the planet. Particularly this week, when several companies restricted travel forcing conferences to do something if they hadn't already. KubeCon EU is getting pushed back to July or August. I canceled my plans earlier in the week because, with everything up in the air, there's no telling I'll be available to participate whenever it does eventually get rescheduled. Since a lot of us are probably stuck at home, I'd like to remind you, I'm always looking for opportunities to sit down and talk to folks from my office. I've got the setup for it and have a few upgrades in mind. If you have an idea for a conversation instead of a Meetup, panel, or talk, feel free to reach out. I'm looking for collaborative opportunities.
 
@@ -87,4 +111,4 @@ Introduction to Kubernetes Namespaces: What are Kubernetes Namespaces? How do Na
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1235875303764844544 >}}
+{{< x user="DalaiLama" id="1235875303764844544" >}}

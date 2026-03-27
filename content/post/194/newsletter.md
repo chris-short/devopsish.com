@@ -1,15 +1,55 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-11-29
-description = "ARM is here, KubeCon recaps, racist Coinbase, security and sysadmins, Stripe funding, Salesforce to buy Slack, us-east-1 postmortem, Kubernetes Operators, and more"
-draft = false
-slug = "194"
-tags = ["ARM", "Apple", "cloud", "cloud native", "Kubernetes", "DevOps", "KubeCon", "Linux", "Tony Hsieh",  "Zappos", "Intel", "Windows", "Zoomsterbating", "Open Source", "security", "Microsoft", "market", "Coinbase", "Red Hat", "Salesforce", "Slack", "network", "supercomputers", "servers", "AWS", "capacity", "Raspberry Pi", "AMD", "Linux Torvalds", "biases", "racism", "images", "container", "Amazon", "developer", "operators", "XDP", "eBPF", "LGBTQ+"]
-title = "DevOps'ish 194"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-11-29'
+description: ARM is here, KubeCon recaps, racist Coinbase, security and sysadmins, Stripe funding, Salesforce to buy Slack, us-east-1 postmortem, Kubernetes Operators, and more
+draft: false
+slug: '194'
+tags:
+- ARM
+- Apple
+- cloud
+- cloud native
+- Kubernetes
+- DevOps
+- KubeCon
+- Linux
+- Tony Hsieh
+- Zappos
+- Intel
+- Windows
+- Zoomsterbating
+- Open Source
+- security
+- Microsoft
+- market
+- Coinbase
+- Red Hat
+- Salesforce
+- Slack
+- network
+- supercomputers
+- servers
+- AWS
+- capacity
+- Raspberry Pi
+- AMD
+- Linux Torvalds
+- biases
+- racism
+- images
+- container
+- Amazon
+- developer
+- operators
+- XDP
+- eBPF
+- LGBTQ+
+title: DevOps'ish 194
+---
 
 There is usually a lot of hype surrounding Apple announcements. The recent report of Apple starting to build Macs with their own ARM-based silicon is no exception. But, there’s some meat to this hype; let me explain.
 
@@ -20,8 +60,6 @@ In 2017, I was linked up with Edward Vielmetti of [Works on ARM](https://www.wor
 To further prove ARM's market penetration, [Docker Hub  supported "multi-platform" images](https://devopsish.com/042/) in 2017. [Cloudflare was also benchmarking the ARM chips](https://blog.cloudflare.com/arm-takes-wing/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=194) they had their hands on in 2017 against their Intel fleet. Red Hat announced an [ARM-based distro of RHEL back in 2017](https://www.redhat.com/en/blog/red-hat-introduces-arm-server-support-red-hat-enterprise-linux?utm_source=newsletter&utm_medium=devopsish&utm_campaign=194) (Note: Red Hat is my employer). In June 2020, an [ARM-powered supercomupter became the fastest supercomputer in the world](https://www.zdnet.com/article/arm-and-linux-take-supercomputer-top500-crown/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=194).
 
 Yesterday, I was reading the news like I normally do (in my favorite newsreader, [Inoreader](https://www.inoreader.com/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=194)). I kept seeing [reports about the new M1 ARM Macs](https://steipete.com/posts/apple-silicon-m1-a-developer-perspective/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=194) making their users happy. I came across one article showing a very bright future for [the next generation of ARM-based Macs (the M1X chip)](https://www.tomsguide.com/news/macbook-pro-16-inch-m1x-chip-just-leaked-and-its-game-over-for-intel?utm_source=newsletter&utm_medium=devopsish&utm_campaign=194). It's supposedly a 12 core monster that will arrive in the 16" MacBook Pro next year. All this Apple talk is the exact opposite of what I usually discuss. But, it shows the progression of ARM over a breathtaking pace. Which led me to tweet a brief synopsis of the recent history of ARM...
-
-{{< tweet 1332691347745202182 >}}
 
 Yes, the servers came before the supercomputers, obviously, but I was in the middle of like three things at once. Needless to say, ARM is here. We're talking about it because Apple has the design and fabrication capacity to make it happen. But, there will be many opportunities for the ole Intel and AMD allies to make the switch to offering yet another processor architecture. Dell, HP, Asus, Acer, etc., have to show they aren't lagging behind somehow. Make no mistake, Apple has the luxury of comparing itself to itself for now and potentially for all time. But, I can guarantee Microsoft does not want to lose the ARM market completely. It's why they have an [ARM version of Windows](https://docs.microsoft.com/en-us/windows/arm/?utm_source=newsletter&utm_medium=devopsish&utm_campaign=194). Hold on tight, folks. With more ways to crack an Intel chip open seemingly springing to life every month (math done by a person who is bad at it), change is afoot (or an ARM if you’re into dad jokes).
 

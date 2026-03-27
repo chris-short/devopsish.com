@@ -1,15 +1,36 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-05-26
-description = "Kubernetes Invades Barcelona, Summer Sanity Tips, Summer Survey, SuperGloo Makes Its Mark, Huawei Warm-up, Fake Agile, and More"
-draft = false
-slug = "129"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "infrastructure", "git", "GitHub", "survey", "summer", "huawei", "agile", "terraform", "Litmus", "AWS", "Kubernetes Operators"]
-title = "129: Kubernetes Invades Barcelona, Summer Sanity Tips, Summer Survey, SuperGloo Makes Its Mark, Huawei Warm-up, Fake Agile, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-05-26'
+description: Kubernetes Invades Barcelona, Summer Sanity Tips, Summer Survey, SuperGloo Makes Its Mark, Huawei Warm-up, Fake Agile, and More
+draft: false
+slug: '129'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- container
+- security
+- linux
+- infrastructure
+- git
+- GitHub
+- survey
+- summer
+- huawei
+- agile
+- terraform
+- Litmus
+- AWS
+- Kubernetes Operators
+title: '129: Kubernetes Invades Barcelona, Summer Sanity Tips, Summer Survey, SuperGloo Makes Its Mark, Huawei Warm-up, Fake Agile, and More'
+---
 
 The end of May looms large on the horizon and a busy June is ahead for a lot of us. This is about that time of year I wish it were the holiday season. It's hot, people's patience wears down faster, and there is always something to do. Here are some tips for the days ahead:
 
@@ -101,6 +122,6 @@ I'll be in Durham, NC 28-30 May and Raleigh 3-7 June. If you want to get togethe
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1131584970194018304 >}}
+{{< x user="dhh" id="1131584970194018304" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

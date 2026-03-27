@@ -1,15 +1,16 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-10-20
-description = "Vacation Mode"
-draft = false
-slug = "150"
-tags = []
-title = "150: Vacation Mode"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-10-20'
+description: Vacation Mode
+draft: false
+slug: '150'
+tags: []
+title: '150: Vacation Mode'
+---
 
 The Short family is on vacation. I appreciate you subscribing, reading, and sharing this newsletter. Thank you to those that encouraged me to take some time off.
 

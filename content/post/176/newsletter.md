@@ -1,15 +1,42 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-04-19
-description = "Upcoming hiatus, phishing, DevSecOps, Mars rover driving from home, Vision Fund, BGP, Kubernetes Operators, OpenTelemetry, and more!"
-draft = false
-slug = "176"
-tags = ["cloud", "Kubernetes", "DevOps", "AWS", "GitHub", "cloud native", "security", "Linux", "IDE", "eBPF", "Vision Fund", "BGP", "Operators", "container", "Microsoft", "privelege escalation", "phishing", "Verizon", "BlueJeans", "Red Hat", "EKS", "GKE", "AKS", "OpenTelemetry", "Lambda", "VSCode"]
-title = "DevOps'ish 176"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-04-19'
+description: Upcoming hiatus, phishing, DevSecOps, Mars rover driving from home, Vision Fund, BGP, Kubernetes Operators, OpenTelemetry, and more!
+draft: false
+slug: '176'
+tags:
+- cloud
+- Kubernetes
+- DevOps
+- AWS
+- GitHub
+- cloud native
+- security
+- Linux
+- IDE
+- eBPF
+- Vision Fund
+- BGP
+- Operators
+- container
+- Microsoft
+- privelege escalation
+- phishing
+- Verizon
+- BlueJeans
+- Red Hat
+- EKS
+- GKE
+- AKS
+- OpenTelemetry
+- Lambda
+- VSCode
+title: DevOps'ish 176
+---
 
 Next week's DevOps'ish (177) will be the last DevOps'ish for a while. I'm going to be putting DevOps'ish on a COVID-19 hiatus. A large part of making this newsletter is reading the news every day. Even with very heavy-handed filtering, the amount of data I read about the ongoing pandemic is far higher than one should be consuming. I'm pausing DevOps'ish because the news is hard to read these days. I'll still be around. I've got something I'm pretty excited about in the works. Stay tuned on [Twitter](https://twitter.com/ChrisShort) and [chrishort.net](https://chrisshort.net) for more info on that.
 
@@ -84,6 +111,6 @@ Thundra allows you to natively debug your serverless applications on the cloud w
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1248953443361918977 >}}
+{{< x user="stefanprodan" id="1248953443361918977" >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/176/notes.md) to see what didn't make it to the newsletter.

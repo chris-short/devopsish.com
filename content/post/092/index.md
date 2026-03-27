@@ -1,15 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-09-09
-description ="Kubernetes, Musk, Dorsey, Go, Blame, Serverless, and More"
-draft = false
-slug = "092"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "infrastructure", "Elon Musk", "Jack Dorsey", "serverless"]
-title = "092: Kubernetes, Musk, Dorsey, Go, Blame, Serverless, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-09-09'
+description: Kubernetes, Musk, Dorsey, Go, Blame, Serverless, and More
+draft: false
+slug: 092
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- infrastructure
+- Elon Musk
+- Jack Dorsey
+- serverless
+title: '092: Kubernetes, Musk, Dorsey, Go, Blame, Serverless, and More'
+---
 
 Elon Musk is a weird dude. Amidst [the SEC probing into his tweet](https://www.nytimes.com/2018/08/15/business/tesla-musk-sec-subpoena-goldman.html) about taking Tesla private, ol' Elon decides to [smoke a blunt on a podcast with Joe Rogan](https://money.cnn.com/2018/09/07/technology/elon-musk-joe-rogan/index.html) (the memes are amazing by the way). Not the smartest move. The only thing dumber that happened this week was [Alex Jones at the US Capitol](https://www.wired.com/story/jack-dorsey-alex-jones-photo/) accosting Jack Dorsey. Did you know [Dorsey fasts every day](https://www.businessinsider.com/twitter-ceo-jack-dorsey-heart-rate-spiked-hearings-congress-2018-9)? Alex Jones is so dumb, he pisses off hangry people. What a maroon. The one person that said [keep Alex Jones](https://www.fastcompany.com/90215581/twitters-jack-dorsey-defends-decision-to-keep-alex-jones) on the platform doesn't eat during the day and Jones pisses him off. [The moron got banned that day](https://www.washingtonpost.com/technology/2018/09/06/twitter-has-permanently-banned-alex-jones-infowars/?noredirect=on&utm_term=.ebdc392abea3). What a weird week.
 
@@ -112,4 +124,4 @@ Learn how to develop and push your apps to Kubernetes in our Office Hours every 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1037832137905524737 >}}
+{{< x user="sethvargo" id="1037832137905524737" >}}

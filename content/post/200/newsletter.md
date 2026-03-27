@@ -1,15 +1,47 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-01-10
-description = "Solarwinds plot thickens, Women hit hard in jobless report, Red Hat acquires StackRox, Slack outage, Podman and Docker Compose, WebAssembly training, greatsuspender compromise, and more"
-draft = false
-slug = "200"
-tags = ["SolarWinds", "cloud", "security", "Kubernetes", "DevOps", "open source", "cloud native", "Intel", "cybersecurity", "hybrid cloud", "source code", "runtime", "infrastructure", "Red Hat", "Docker", "deprecation", "Podman", "WebAssembly", "greatsuspender extension", "development", "Slack", "StackRox", "hospitals", "health care", "outage", "Apple", "Nvidia", "Travis CI", "Cloud Native Computing Foundation", "Microsoft", "insurrection"]
-title = "DevOps'ish 200: Solarwinds plot thickens, Women hit hard in jobless report, Red Hat acquires StackRox, Slack outage, Podman and Docker Compose, WebAssembly training, greatsuspender compromise, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-01-10'
+description: Solarwinds plot thickens, Women hit hard in jobless report, Red Hat acquires StackRox, Slack outage, Podman and Docker Compose, WebAssembly training, greatsuspender compromise, and more
+draft: false
+slug: '200'
+tags:
+- SolarWinds
+- cloud
+- security
+- Kubernetes
+- DevOps
+- open source
+- cloud native
+- Intel
+- cybersecurity
+- hybrid cloud
+- source code
+- runtime
+- infrastructure
+- Red Hat
+- Docker
+- deprecation
+- Podman
+- WebAssembly
+- greatsuspender extension
+- development
+- Slack
+- StackRox
+- hospitals
+- health care
+- outage
+- Apple
+- Nvidia
+- Travis CI
+- Cloud Native Computing Foundation
+- Microsoft
+- insurrection
+title: 'DevOps''ish 200: Solarwinds plot thickens, Women hit hard in jobless report, Red Hat acquires StackRox, Slack outage, Podman and Docker Compose, WebAssembly training, greatsuspender compromise, and more'
+---
 
 The first full work week of the year has already been filled with news. But, Monday saw a Slack outage, Wednesday saw an insurrection in the US, and there is a new twist in the [Solarwinds supply chain compromise](https://devopsish.com/solarwinds-supply-chain-compromise/). We'll discuss two of these topics and more.
 

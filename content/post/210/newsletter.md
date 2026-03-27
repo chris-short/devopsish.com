@@ -1,15 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-03-21
-description = ""
-draft = false
-slug = "210"
-tags = ["cloud", "Cloud Native", "Kubernetes", "DevOps", "DevSecOps", "AWS", "burnout", "open source", "AWS", "feature management", "AWS cost optimization", "F5 BIG-IP", "REST API vulnerabilities", "substack"]
-title = "DevOps'ish 210: Net Neutrality, Burnout, DevSecOps, Kubernetes galore, SubStack is bull, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-03-21'
+description: ''
+draft: false
+slug: '210'
+tags:
+- cloud
+- Cloud Native
+- Kubernetes
+- DevOps
+- DevSecOps
+- AWS
+- burnout
+- open source
+- AWS
+- feature management
+- AWS cost optimization
+- F5 BIG-IP
+- REST API vulnerabilities
+- substack
+title: 'DevOps''ish 210: Net Neutrality, Burnout, DevSecOps, Kubernetes galore, SubStack is bull, and more'
+---
 
 The idea for the subject of this week's intro came from [K Rain Leander](https://twitter.com/rainleander/status/1373299864902246400). Rain asks, "The past year has been one of lockdowns, increased security and decreased travel. DevOps became DevSecOps became DevSecOpsBiz. And the world embraced the work / life balance culture of DevOps. What are your favourite cultural shifts from the last year? What do you want to let go of forever? As we take a look at the latest updates in the DevOps world, also take a look at you and yours and let us know how you’re doing. And if we can help, let us know how."
 

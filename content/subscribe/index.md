@@ -1,24 +1,26 @@
-+++
-author = "Chris Short"
-date = 2018-03-29
-description = "Subscribe to DevOps'ish for updates on DevOps, Cloud Native, and Open Source news."
-draft = false
-title = "Subscribe"
-aliases = [
-	"signup",
-	"newsletter",
-	"get",
-	"sub",
-	"go",
-	"s",
-	"jobs",
-	"events"
-]
+---
+ShowReadingTime: false
+ShowToc: false
+TocOpen: false
+aliases:
+- signup
+- newsletter
+- get
+- sub
+- go
+- s
+- jobs
+- events
+author: Chris Short
+date: '2018-03-29'
+disableShare: true
+draft: false
+title: Subscribe to DevOps'ish
+---
 
-+++
+{{< subscribe >}}
 
-
-DevOps'ish is one of the most popular newsletters in tech. [Some of the brightest minds in the industry](/praise/) are reading DevOps'ish and you should too.
+DevOps'ish is one of the most popular newsletters in tech. Some of the brightest minds in the industry are reading DevOps'ish and you should too.
 
 It's a weekly newsletter assembled by open source contributor, DevOps leader, and Kubernetes Contributor [Chris Short](https://chrisshort.me/). DevOps'ish is grateful to have readers from across the globe and several Fortune 100 organizations.
 

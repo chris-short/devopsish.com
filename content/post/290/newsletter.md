@@ -1,13 +1,43 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-10-22
-description = ["KubeCon Detroit, the layoffs will keep getting reported until they stop happening, SBOMs overhyped, Twitter deal 🪓?, signals, mirrord, Docker, Focker, and more"]
-draft = false
-slug = "290"
-tags = ["Detroit", "KubeCon", "Tech", "event", "DevOps", "free", "Michigan", "job", "Kubernetes", "conference", "podcast", "Raleigh", "downtown", "open source", "Contibutor Summit", "friends", "Ubuntu", "Cloud Native", "Twitter", "Space", "framework", "Acorn", "layoffs", "GitHub", "recession", "signals"]
-title = "DevOps'ish 290: KubeCon Detroit, the layoffs will keep getting reported until they stop happening, SBOMs overhyped, Twitter deal 🪓?, signals, mirrord, Docker, Focker, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-10-22'
+description:
+- KubeCon Detroit, the layoffs will keep getting reported until they stop happening, SBOMs overhyped, Twitter deal 🪓?, signals, mirrord, Docker, Focker, and more
+draft: false
+slug: '290'
+tags:
+- Detroit
+- KubeCon
+- Tech
+- event
+- DevOps
+- free
+- Michigan
+- job
+- Kubernetes
+- conference
+- podcast
+- Raleigh
+- downtown
+- open source
+- Contibutor Summit
+- friends
+- Ubuntu
+- Cloud Native
+- Twitter
+- Space
+- framework
+- Acorn
+- layoffs
+- GitHub
+- recession
+- signals
+title: 'DevOps''ish 290: KubeCon Detroit, the layoffs will keep getting reported until they stop happening, SBOMs overhyped, Twitter deal 🪓?, signals, mirrord, Docker, Focker, and more'
+---
 
 **Side note**: I'm out of spoons some weeks and don't write an intro. I'm not going to apologize for that. Last week's newsletter wasn't my best, but I make up for it this week. It's all about the long haul. Feel free to hit reply anytime.
 

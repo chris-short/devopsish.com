@@ -1,43 +1,43 @@
 [build]
 publish = "public"
-command = "hugo --minify --verbose --enableGitInfo"
+command = "hugo --minify --enableGitInfo"
 
 [context.production.environment]
-HUGO_VERSION = "0.111.2"
+HUGO_VERSION = "0.159.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "git submodule update --rebase --remote && hugo --verbose --minify --enableGitInfo"
+command = "hugo --minify --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.111.2"
+HUGO_VERSION = "0.159.1"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "git submodule update --rebase --remote && hugo -DF --verbose --enableGitInfo"
+command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.111.2"
+HUGO_VERSION = "0.159.1"
 # Skip all post processing in deploy previews,
 # ignoring any other settings
 [context.deploy-preview.processing]
-  skip_processing = true
+skip_processing = true
 
 [context.branch-deploy]
-command = "git submodule update --rebase --remote && hugo -DF --verbose --enableGitInfo"
+command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.111.2"
+HUGO_VERSION = "0.159.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
 [[headers]]
-  for = "/*"
-  [headers.values]
-    Access-Control-Allow-Origin = 'https://devopsish.com'
-    Permissions-Policy = 'accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()'
-    Referrer-Policy = 'no-referrer-when-downgrade'
-    Strict-Transport-Security = 'max-age=63072000; includeSubDomains; preload'
-    X-Content-Type-Options = 'nosniff'
-    X-Frame-Options = 'DENY'
-    X-XSS-Protection = '1; mode=block'
+for = "/*"
+[headers.values]
+Access-Control-Allow-Origin = 'https://devopsish.com'
+Permissions-Policy = 'accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()'
+Referrer-Policy = 'no-referrer-when-downgrade'
+Strict-Transport-Security = 'max-age=63072000; includeSubDomains; preload'
+X-Content-Type-Options = 'nosniff'
+X-Frame-Options = 'DENY'
+X-XSS-Protection = '1; mode=block'

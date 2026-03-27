@@ -1,15 +1,36 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-08-23
-description = "KubeCon EU 2020 recap, vacations, Mozilla, permanent WFH, Arm sale, Hierarchical Namespaces, Tekton Hub, Linkerd, and more"
-draft = false
-slug = "180"
-tags = ["Kubernetes", "cloud native", "open source", "cloud", "DevOps", "security", "namespaces", "hierarchical namespaces", "Tekton", "proxy", "Linkerd", "Cloud Native Computing Foundation", "CNCF", "KubeCon", "containers", "postgresql", "postgres", "Docker", "Ian Coldwater", "GPT-3"]
-title = "DevOps'ish 180"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-08-23'
+description: KubeCon EU 2020 recap, vacations, Mozilla, permanent WFH, Arm sale, Hierarchical Namespaces, Tekton Hub, Linkerd, and more
+draft: false
+slug: '180'
+tags:
+- Kubernetes
+- cloud native
+- open source
+- cloud
+- DevOps
+- security
+- namespaces
+- hierarchical namespaces
+- Tekton
+- proxy
+- Linkerd
+- Cloud Native Computing Foundation
+- CNCF
+- KubeCon
+- containers
+- postgresql
+- postgres
+- Docker
+- Ian Coldwater
+- GPT-3
+title: DevOps'ish 180
+---
 
 Welcome!
 
@@ -93,9 +114,6 @@ You're going to start seeing a lot more love for Linkerd here. "'Unlike general 
 [aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
 A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1293748173937061888 >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/180/notes.md) to see what didn't make it to the newsletter.
 

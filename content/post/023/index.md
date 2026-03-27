@@ -1,20 +1,25 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-05-14T06:01:00.902Z
-description = ""
-draft = false
-slug = "023"
-tags = ["devops", "cloud native", "open source", "database", "intel"]
-title = "023: Week of 1494734400"
-image ="https://shortcdn.com/devopsish/jumpman.jpg"
-imagealt = "Get It?"
-aliases = [
-    "devopsish-023-week-of-1494734400-a913ad9dfa6a"
-]
-
-+++
+---
+aliases:
+- devopsish-023-week-of-1494734400-a913ad9dfa6a
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-05-14T06:01:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/jumpman.jpg
+imagealt: Get It?
+slug: '023'
+tags:
+- devops
+- cloud native
+- open source
+- database
+- intel
+title: '023: Week of 1494734400'
+---
 
 I have to admit, I am really, really angry this week. For the first time in a long time a worm was unleashed on the web. A little back story. Years ago, the NSA found a vulnerability in Windows. Instead of disclosing the vulnerability responsibility to Microsoft, the NSA decided to keep the vulnerability a secret. Years pass and NSA is happily using this zero-day to exploit the United States' various enemies. Then, one day, several exploits are found on a server somewhere by [The Shadow Brokers](https://en.wikipedia.org/wiki/The_Shadow_Brokers?ref=devopsish). The Shadow Brokers then released the exploits they discovered.
 
@@ -98,4 +103,4 @@ GitHub has created a [Code of Conduct tool](https://help.github.com/articles/add
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 862674035745882113 >}}
+{{< x user="ashleymcnamara" id="862674035745882113" >}}

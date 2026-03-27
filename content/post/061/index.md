@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-02-04T05:16:00.766Z
-description = ""
-draft = false
-slug = "061"
-tags = ["devops", "cloud native", "open source", "kubernetes", "detroit", "observability", "spectre", "password management", "containers"]
-title = "061: 🔥 Week, CoreOS Acquisition, 20 Years of Open Source, Heptio's Undistribution, and..."
-image ="https://shortcdn.com/devopsish/devopsish-061.png"
-imagealt = "My Life is Dope and I Do Dope Shit"
-aliases = [
-    "devopsish-061-week-coreos-acquisition-20-years-of-open-source-heptio-s-undistribution-and-4f63428fc1b1"
-]
-
-+++
+---
+aliases:
+- devopsish-061-week-coreos-acquisition-20-years-of-open-source-heptio-s-undistribution-and-4f63428fc1b1
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-02-04T05:16:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/devopsish-061.png
+imagealt: My Life is Dope and I Do Dope Shit
+slug: '061'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- detroit
+- observability
+- spectre
+- password management
+- containers
+title: '061: 🔥 Week, CoreOS Acquisition, 20 Years of Open Source, Heptio''s Undistribution, and...'
+---
 
 I've had an absolutely amazing week! I was named a [Cloud Native Computing Foundation Ambassador](https://chrisshort.net/chris-short-named-cloud-native-ambassador/). My friend, Chris Bailey, and I recorded an episode of [Techtown's Discussing DevOps Details (3D) Podcast](http://techtowntraining.com/podcastgen/). I spoke at the [Orchestructure January 2018 Meetup](https://chrisshort.net/orchestructure-january-2018-meetup/) about Golang accelerating DevOps. Last, but certainly not least, I was named an [opensource.com 2018 People's Choice Award](https://opensource.com/article/18/2/community-awards-2018) winner. I also booked travel for Open Source 101 in Raleigh and DevOpsDays Charlotte. I don't know how I can top this week. But, I tend to compete with myself; I'm sure I'll come up with something.
 
@@ -97,4 +106,4 @@ GoCD is a Continuous Delivery tool allowing you to model, orchestrate, and visua
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 959145481619124225 >}}
+{{< x user="DynamicWebPaige" id="959145481619124225" >}}

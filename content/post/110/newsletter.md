@@ -1,19 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-01-13
-description = "Weaveworks Flagger, DevOps Leaving Ops Behind, AWS 🖕 OSS, Kubernetes Galore, and More"
-draft = false
-slug = "110"
-tags = ["kubernetes", "docker", "devops", "open source", "cloud", "tech", "software", "github", "cloud native", "ansible", "aws", "linux"]
-title = "110: Weaveworks Flagger, DevOps Leaving Ops Behind, AWS 🖕 OSS, Kubernetes Galore, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-01-13'
+description: Weaveworks Flagger, DevOps Leaving Ops Behind, AWS 🖕 OSS, Kubernetes Galore, and More
+draft: false
+slug: '110'
+tags:
+- kubernetes
+- docker
+- devops
+- open source
+- cloud
+- tech
+- software
+- github
+- cloud native
+- ansible
+- aws
+- linux
+title: '110: Weaveworks Flagger, DevOps Leaving Ops Behind, AWS 🖕 OSS, Kubernetes Galore, and More'
+---
 
 This week I ran an unscientific Twitter poll asking, "Has DevOps left Ops behind?" It was a question that came up during a discussion with one of my  co-workers.
-
-{{< tweet 1082767409595977729 >}}
 
 There will be more discussion and thought around this for sure. But, it appears the software industry has gotten ahead of the skillsets of the majority of folks in it. Think about it though. We went from containers going mainstream via Docker in 2014 to Kubernetes going mainstream in 2017. Now it's 2019 and we're talking about Istio, serverless, and eBPF. If it seems like the pace of change is accelerating, it's because it is.
 
@@ -123,6 +134,6 @@ I'm going to add this new top five from the previous newsletter. Hit reply and t
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1083415010913775617 >}}
+{{< x user="bibliotechy" id="1083415010913775617" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

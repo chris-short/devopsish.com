@@ -1,18 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-03-04
-description = ""
-draft = false
-slug = "065"
-tags = ["devops", "cloud native", "open source", "change", "kubernetes", "docker", "dropbox", "ddos", "Docker Inc", "Site Reliability Engineering", "SRE"]
-title = "065: Change, Dropbox, GitHub DDoS, Kubernetes, Docker, and More!"
-image ="https://shortcdn.com/devopsish/montgomery-alabama.jpg"
-imagealt = "Downtown Montgomery, Alabama"
-imagecap = "Downtown Montgomery, Alabama"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-03-04'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/montgomery-alabama.jpg
+imagealt: Downtown Montgomery, Alabama
+imagecap: Downtown Montgomery, Alabama
+slug: '065'
+tags:
+- devops
+- cloud native
+- open source
+- change
+- kubernetes
+- docker
+- dropbox
+- ddos
+- Docker Inc
+- Site Reliability Engineering
+- SRE
+title: '065: Change, Dropbox, GitHub DDoS, Kubernetes, Docker, and More!'
+---
 
 At what point are we going to admit that, like mainframes and COBOL, while history is worth remembering it might not be worth memorializing. Change is a constant in life that we cannot deny. Humanity wouldn't be roaming the earth and stars if it weren't for evolution, which at its base is change. Throughout history there have been points in time in which one side said, "no more" and the other said, "status quo". Much like those in your organization that resist change because, "We've always done it this way." You and your allies must say, "no more" for the betterment of yourself, your team, and your organization. Cast off the past, remember it but do not grip on to it for dear life. Do this to not only improve things around you but to advance civilization as a whole.
 
@@ -91,6 +103,3 @@ March 9, 2018
 
 [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 967910454449274881 >}}

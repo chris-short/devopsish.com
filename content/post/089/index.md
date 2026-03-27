@@ -1,15 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-08-18
-description ="Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More"
-draft = false
-slug = "089"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "microservices", "metrics", "azure", "containers", "podman", "kafka", "backblaze", "jack dorsey", "Site Reliability Engineering", "SRE", "GitOps"]
-title = "089: Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-08-18'
+description: Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More
+draft: false
+slug: 089
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- ansible
+- microservices
+- metrics
+- azure
+- containers
+- podman
+- kafka
+- backblaze
+- jack dorsey
+- Site Reliability Engineering
+- SRE
+- GitOps
+title: '089: Kubernetes, Get a Dog, GitHub, GitOps, Istio, AKS Woes, and More'
+---
 
 This week's newsletter is a day early. I'll be moving my daughter into college Sunday and Monday. It's a two-day process because southeastern Michigan isn't as close to southern Ohio as you'd think. I'll be in Dayton on Sunday and Cincinnati on Monday. Lemme know if you're around.
 
@@ -107,6 +125,3 @@ Learn the steps required to plan and implement a CD pipeline in your organizatio
 
 [Tutorial: How to deploy an app to production with an actual button](https://blog.github.com/2018-08-16-how-to-deploy-to-production-with-an-actual-button/)
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1030238942744981505 >}}

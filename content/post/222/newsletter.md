@@ -1,15 +1,42 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-06-13
-description = ["Industry under pressure, Holy $%^& I agree with Torvalds, US Congress begins assault on big tech, polkit vuln, ALPACA, How To Love Kubernetes and Not Wreck The Planet, and more"]
-draft = false
-slug = "222"
-tags = ["cloud", "DevOps", "Kubernetes","cluster", "observability", "Cloud Native", "security", "open source", "Linux", "Apple", "hackers", "Slack", "EA", "Argo", "Operators", "container", "FBI", "community", "tech", "systems", "software", "engineering", "eBPF", "Red Hat", "Linus Torvalds"]
-title = "DevOps'ish 222: Industry under pressure, Holy $%^& I agree with Torvalds, US Congress begins assault on big tech, polkit vuln, ALPACA, How To Love Kubernetes and Not Wreck The Planet, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-06-13'
+description:
+- Industry under pressure, Holy $%^& I agree with Torvalds, US Congress begins assault on big tech, polkit vuln, ALPACA, How To Love Kubernetes and Not Wreck The Planet, and more
+draft: false
+slug: '222'
+tags:
+- cloud
+- DevOps
+- Kubernetes
+- cluster
+- observability
+- Cloud Native
+- security
+- open source
+- Linux
+- Apple
+- hackers
+- Slack
+- EA
+- Argo
+- Operators
+- container
+- FBI
+- community
+- tech
+- systems
+- software
+- engineering
+- eBPF
+- Red Hat
+- Linus Torvalds
+title: 'DevOps''ish 222: Industry under pressure, Holy $%^& I agree with Torvalds, US Congress begins assault on big tech, polkit vuln, ALPACA, How To Love Kubernetes and Not Wreck The Planet, and more'
+---
 
 I want to point out a few signs that I think we're pushing the industry too hard, too fast. [Fires in AWS data centers](https://twitter.com/QuinnyPig/status/1403100781646028808), [Fastly (the CDN) took an hour-long outage](https://techcrunch.com/2021/06/08/numerous-popular-websites-are-facing-an-outage/) triggered by a [customer finding a bug](https://www.theguardian.com/technology/2021/jun/09/fastly-says-single-customer-triggered-bug-that-caused-mass-outage), [Cloudflare had outages in Chicago and Los Angeles](https://www.cloudflarestatus.com/incidents/0cvlzpvwg251). [Ransomware is running through companies](https://www.washingtonpost.com/technology/2021/07/08/ransomware-human-impact/) like Grant went through Richmond (to the point the [US Justice department is equating them, in some ways, to terrorist attacks](https://www.latimes.com/business/technology/story/2021-06-03/ransomware-targeted-by-justice-department-as-attacks-flourish)).
 
@@ -85,8 +112,5 @@ Sheesh... Windows containers are barely mainsteam and 💥, compromised.
 [ilhaan/kubeCDN](https://github.com/ilhaan/kubeCDN)  
 "Self-hosted CDN based on Kubernetes"
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1402621023296557060 >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/222/notes.md) to see what didn't make it to the newsletter but are still worth your time.

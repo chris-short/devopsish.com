@@ -1,15 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-04-21
-description = "124: Kubernetes Tools, Google Anthos and Cloud Run, Fenrir for Serverless, Five Abstractions Make an Inception, Ports on Linux, and More"
-draft = false
-slug = "124"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "system", "Google", "Cloud Run", "Anthos", "linux", "abstraction", "inception", "996"]
-title = "124: Kubernetes Tools, Google Anthos and Cloud Run, Fenrir for Serverless, Five Abstractions Make an Inception, Ports on Linux, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-04-21'
+description: '124: Kubernetes Tools, Google Anthos and Cloud Run, Fenrir for Serverless, Five Abstractions Make an Inception, Ports on Linux, and More'
+draft: false
+slug: '124'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- serverless
+- container
+- security
+- system
+- Google
+- Cloud Run
+- Anthos
+- linux
+- abstraction
+- inception
+- '996'
+title: '124: Kubernetes Tools, Google Anthos and Cloud Run, Fenrir for Serverless, Five Abstractions Make an Inception, Ports on Linux, and More'
+---
 
 I hope you had a wonderful week and are looking forward to the week ahead. I have been heads down working on Red Hat Summit work, upcoming releases, and trying to properly define DevOps this week. But, it has left me little time to really think about solving new problems. What do you do when you have complex problems to solve but only short bursts of time to work on them in? It's a balancing act for sure. Good luck this week in your endeavors!
 

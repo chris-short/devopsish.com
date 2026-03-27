@@ -1,15 +1,37 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-01-03
-description = "Women are better leaders in crisis, 97 Things Every Cloud Engineer Should Know, Merging Microservices Back Into The Monolith, Why are my tests so slow?, and more"
-draft = false
-slug = "199"
-tags = ["DevOps", "cloud", "cloud native", "Kubernetes", "New Year", "feature flag", "sponsor", "women", "leaders", "development", "browser", "pandemic", "books", "code", "team", "vim", "security", "open source", "engineering", "science", "secure"]
-title = "DevOps'ish 199: Women are better leaders in crisis, 97 Things Every Cloud Engineer Should Know, Merging Microservices Back Into The Monolith, Why are my tests so slow?, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-01-03'
+description: Women are better leaders in crisis, 97 Things Every Cloud Engineer Should Know, Merging Microservices Back Into The Monolith, Why are my tests so slow?, and more
+draft: false
+slug: '199'
+tags:
+- DevOps
+- cloud
+- cloud native
+- Kubernetes
+- New Year
+- feature flag
+- sponsor
+- women
+- leaders
+- development
+- browser
+- pandemic
+- books
+- code
+- team
+- vim
+- security
+- open source
+- engineering
+- science
+- secure
+title: 'DevOps''ish 199: Women are better leaders in crisis, 97 Things Every Cloud Engineer Should Know, Merging Microservices Back Into The Monolith, Why are my tests so slow?, and more'
+---
 
 **Note:** If you're reading this, you're winning. You beat 2020. Also, the [DevOps’ish Solarwinds supply chain compromise Index](https://devopsish.com/solarwinds-supply-chain-compromise/) has been updated.
 

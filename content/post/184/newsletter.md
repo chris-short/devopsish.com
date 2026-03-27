@@ -1,15 +1,54 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-09-20
-description = "Observability, Kubernetes, Cloud Native, Bill Gates on Elon Musk and Steve Jobs, 1,000 ways to die and we chose plastic, and More"
-draft = false
-slug = "184"
-tags = ["cloud", "cloud native", "Kubernetes", "DevOps", "data", "open source", "observability", "culture", "Bill Gates", "LAMBDA", "source code", "systems", "Cloud Native Computing Foundation", "Salesforce", "Cisco", "Phish Scale", "IBM", "Evernote", "Microsoft", "Portworx", "Tekton", "Rego", "OPA", "Accurics", "Terrascan", "serverless", "phishing", "Crunchy Data", "postgresql", "ebooks", "workloads", "pipelines", "CI/CD", "Alibaba Cloud", "Jeff Zhang", "Ansible", "Molecule", "CISO"]
-title = "DevOps'ish 184"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-09-20'
+description: Observability, Kubernetes, Cloud Native, Bill Gates on Elon Musk and Steve Jobs, 1,000 ways to die and we chose plastic, and More
+draft: false
+slug: '184'
+tags:
+- cloud
+- cloud native
+- Kubernetes
+- DevOps
+- data
+- open source
+- observability
+- culture
+- Bill Gates
+- LAMBDA
+- source code
+- systems
+- Cloud Native Computing Foundation
+- Salesforce
+- Cisco
+- Phish Scale
+- IBM
+- Evernote
+- Microsoft
+- Portworx
+- Tekton
+- Rego
+- OPA
+- Accurics
+- Terrascan
+- serverless
+- phishing
+- Crunchy Data
+- postgresql
+- ebooks
+- workloads
+- pipelines
+- CI/CD
+- Alibaba Cloud
+- Jeff Zhang
+- Ansible
+- Molecule
+- CISO
+title: DevOps'ish 184
+---
 
 [![LAMBDA - A Serverless Musical (Hamilton "My Shot" Parody)](https://shortcdn.com/devopsish/LAMBDA-A-Serverless-Musical-Hamilton-My-Shot-Parody.png)](https://youtu.be/zMua0cuhFnc?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish_184)
 
@@ -100,9 +139,6 @@ Unleash the power of Java for shell scripting
 [Kubeinit/kubeinit](https://github.com/kubeinit/kubeinit)  
 Ansible automation to have a KUBErnetes cluster INITialized as soon as possible...
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1307049532782505985 >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/184/notes.md) to see what didn't make it to the newsletter.
 

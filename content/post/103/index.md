@@ -1,15 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-11-25
-description = "DevOps for All, Requirements, Discord Acquisition Coming, Kubernetes Myths, Service Meshes, and More"
-draft = false
-slug = "103"
-tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "Red Hat", "ansible", "security", "serverless", "Site Reliability Engineering", "SRE"]
-title = "103: DevOps for All, Requirements, Discord Acquisition Coming, Kubernetes Myths, Service Meshes, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-11-25'
+description: DevOps for All, Requirements, Discord Acquisition Coming, Kubernetes Myths, Service Meshes, and More
+draft: false
+slug: '103'
+tags:
+- weekly
+- devops
+- newsletter
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- Red Hat
+- ansible
+- security
+- serverless
+- Site Reliability Engineering
+- SRE
+title: '103: DevOps for All, Requirements, Discord Acquisition Coming, Kubernetes Myths, Service Meshes, and More'
+---
 
 This week was Thanksgiving in the US. It was a holiday and I unplugged to a certain extent. I played games on my phone instead of working on various things and reading research. I took a little bit of a mental break the second half of this week (and I hope you did too if you could). This week, while most of the tech world is Las Vegas, I'll be the designated survivor in an undisclosed location (aka Westford, Massachusetts). re:Invent is too big for me and too soft of a target for my frayed whatever you want to call it (nerves, anxiety, etc.). Have a great week!
 
@@ -85,6 +100,3 @@ Amazon isn't cool enough to sponsor this newsletter yet. For that reason, I don'
 
 [Using Ark and Restic to provide DR for IBM Kubernetes Service](https://medium.com/@mlrborowski/using-ark-and-restic-to-provide-dr-for-ibm-kubernetes-service-cae53cfe532) — Restore your application configurations AND your persistent storage.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1064899991968219136 >}}

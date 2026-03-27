@@ -1,15 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-12-02
-description = "156"
-draft = false
-slug = "156"
-tags = ["Kubernetes", "KubeCon", "DevOps", "cloud", "cloud native", "open source", "developers", "VMware", "git", "Ansible", "AWS", "security", "Operator", "community", "Kubernetes Operators"]
-title = "156: KubeCon analysis, Kubernetes security, ‘learn-it-alls’, AWX Kubernetes Operator, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-12-02'
+description: '156'
+draft: false
+slug: '156'
+tags:
+- Kubernetes
+- KubeCon
+- DevOps
+- cloud
+- cloud native
+- open source
+- developers
+- VMware
+- git
+- Ansible
+- AWS
+- security
+- Operator
+- community
+- Kubernetes Operators
+title: '156: KubeCon analysis, Kubernetes security, ‘learn-it-alls’, AWX Kubernetes Operator, and more'
+---
 
 Editor's Note: The newsletter passed 4,000 subscribers this week. Thank you to everyone that help spread the word. I'd love to get to 5,000 subscribers as quickly as possible though. If you don't mind, please ask your coworkers, BFFs, family, and folks on social media to [subscribe to DevOps'ish](https://devopsish.com/subscribe/). Y'all keep being awesome!
 
@@ -90,4 +106,4 @@ We are looking for passionate Go developers with strong AWS skills to work with 
 
 ## Tweet of the Week
 
-{{< tweet 1198977232452145152 >}}
+{{< x user="ripencc" id="1198977232452145152" >}}

@@ -1,20 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-09-17T06:01:26.187Z
-description = ""
-draft = false
-slug = "041"
-tags = ["devops", "cloud native", "open source", "kubernetes", "infrastructure", "linux", "nodejs", "Docker"]
-title = "041: Book Suggestions, Serverless, Value Stream Mapping, and More"
-image ="https://shortcdn.com/devopsish/the-forest-through-the-trees.jpg"
-imagealt = "Lost in the Woods"
-aliases = [
-    "devopsish-041-book-suggestions-serverless-value-stream-mapping-and-more-cb691887dde2"
-]
-
-+++
+---
+aliases:
+- devopsish-041-book-suggestions-serverless-value-stream-mapping-and-more-cb691887dde2
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-09-17T06:01:26Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/the-forest-through-the-trees.jpg
+imagealt: Lost in the Woods
+slug: '041'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- infrastructure
+- linux
+- nodejs
+- Docker
+title: '041: Book Suggestions, Serverless, Value Stream Mapping, and More'
+---
 
 [**Free continuous delivery eBook from GoCD**](https://www.gocd.org/cd101/?utm_campaign=cd_101_ebook&utm_medium=newsletter_ad&utm_source=devopsish_newsletter&utm_content=cd_101_ebook&utm_term=)  
 This free reference guide will take you back to the basics. You'll find visuals and definitions on key concepts and questions you need to answer about your teams to determine your readiness for continuous delivery. [Download and share with your team](https://www.gocd.org/cd101/?utm_campaign=cd_101_ebook&utm_medium=newsletter_ad&utm_source=devopsish_newsletter&utm_content=cd_101_ebook&utm_term=). *SPONSORED*
@@ -97,4 +105,4 @@ A manager in an agile environment with strong technical skills. Collaborative le
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 908409289076727809 >}}
+{{< x user="_tessr" id="908409289076727809" >}}

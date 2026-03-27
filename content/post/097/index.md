@@ -1,15 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-10-14
-description = "Kubernetes, Amazon Woes, Serverless, JEDI, Spinnaker, and More"
-draft = false
-slug = "097"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security", "google", "amazon", "JEDI"]
-title = "097: Kubernetes, Amazon Woes, Serverless, JEDI, Spinnaker, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-10-14'
+description: Kubernetes, Amazon Woes, Serverless, JEDI, Spinnaker, and More
+draft: false
+slug: 097
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- security
+- google
+- amazon
+- JEDI
+title: '097: Kubernetes, Amazon Woes, Serverless, JEDI, Spinnaker, and More'
+---
 
 I spent the week in Orlando. The first two days for work and the last three for play. This is the second business trip the family has been on with me in as many months. It's interesting to chaos test your travel routines with weird bookings due to work needs. I try to spend very little time proving who I am or what I do when I travel. I've had horrific experiences traveling and I go out of my way to reduce the chances of that happening. I've optimized for smoother sailing through government and security checkpoints. My family has no status or extra vetting. It's amazing to see what happens when traveling with them. Throwing a toddler into the mix changes everything. All systems seemed to be geared toward not having a toddler meltdown. We often comment here in the US how all the "added" security post-9/11 is more theater than actual security. We all have stories of smuggling something we forgot to take out of a bag through security. This makes me wonder about how much of what we do might actually be more theater than anything. Dashboards are great but, if the most important dashboard a team has is the one that only leadership looks at (never used by anyone else) perhaps that's more theater than improved outcomes. What else in our day-to-day operations is theater and not adding any real value to our work?
 

@@ -1,18 +1,53 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-04-08
-description = "Not the Postmortem We Wanted to Run"
-draft = false
-slug = "070"
-tags = ["Kubernetes", "DevOps", "open source", "cloud", "cloud native", "security", "containers", "people", "work", "DevOpsDays", "Google", "application", "postmortem", "Arm", "Docker", "Mac", "diversity", "deploy", "shooting", "practice", "performance", "Apple", "compute", "data", "Atlanta", "infrastructure", "ChefConf", "Toronto", "code", "AWS", "DevSecOps", "GitHub", "git", "Intel"]
-title = "070: Not the Postmortem We Wanted to Run"
-image ="https://shortcdn.com/devopsish/070.jpg"
-imagealt = "Not the Postmortem We Wanted to Run"
-imagecap = "What should happen in the wake of the YouTube Shooting?"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-04-08'
+description: Not the Postmortem We Wanted to Run
+draft: false
+image: https://shortcdn.com/devopsish/070.jpg
+imagealt: Not the Postmortem We Wanted to Run
+imagecap: What should happen in the wake of the YouTube Shooting?
+slug: '070'
+tags:
+- Kubernetes
+- DevOps
+- open source
+- cloud
+- cloud native
+- security
+- containers
+- people
+- work
+- DevOpsDays
+- Google
+- application
+- postmortem
+- Arm
+- Docker
+- Mac
+- diversity
+- deploy
+- shooting
+- practice
+- performance
+- Apple
+- compute
+- data
+- Atlanta
+- infrastructure
+- ChefConf
+- Toronto
+- code
+- AWS
+- DevSecOps
+- GitHub
+- git
+- Intel
+title: '070: Not the Postmortem We Wanted to Run'
+---
 
 Towards the end of my workday on Tuesday, [tragedy struck the YouTube HQ in San Bruno, CA](https://arstechnica.com/tech-policy/2018/04/livid-over-sites-policies-youtube-shooter-trained-for-attack-shot-randomly/). A shooter made their way through a parking deck to a patio where people were eating and socializing. The shooter opened fire claiming three victims before turning the weapon on themselves. In Google's [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/), psychological safety is identified as the number one contributor to "What makes a team effective at Google?" In the wake of this random act of violence, [Google's response](https://www.mercurynews.com/2018/04/04/scope-of-youtube-shooters-plan-probed-as-shaken-staffers-recover/) might be the most watched handling of a workplace shooting. This is not the postmortem we want. But, this could be the postmortem we need.
 
@@ -143,4 +178,4 @@ Chaos Conf looks super awesome. Opening the event will be Adrian Cockcroft, VP A
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 982325661179166720 >}}
+{{< x user="discoposse" id="982325661179166720" >}}

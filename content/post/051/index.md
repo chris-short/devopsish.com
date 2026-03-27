@@ -1,19 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-11-26T12:30:09.265Z
-description = ""
-draft = false
-slug = "051"
-tags = ["devops", "cloud native", "open source", "kubernetes", "detroit", "google", "uber", "containers"]
-title = "051: Highs and Lows, Thankfulness, Kubernetes, tmux, and More"
-image ="https://shortcdn.com/devopsish/cloudy-mountain.jpg"
-imagealt = "Highs and Lows"
-aliases = [
-    "devopsish-051-highs-and-lows-thankfulness-kubernetes-tmux-and-more-bedac4bd6e11"
-]
-+++
+---
+aliases:
+- devopsish-051-highs-and-lows-thankfulness-kubernetes-tmux-and-more-bedac4bd6e11
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-11-26T12:30:09Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/cloudy-mountain.jpg
+imagealt: Highs and Lows
+slug: '051'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- detroit
+- google
+- uber
+- containers
+title: '051: Highs and Lows, Thankfulness, Kubernetes, tmux, and More'
+---
 
 I have been through the highest of highs and lowest of lows this week. But, Thanksgiving is an interesting time to reflect. What are you thankful for? How do you want to finish out the year? I am beyond thankful for an incredibly supportive family. Through all the ups and downs of this past week, there has been a steadfast source of support and happiness springing eternal from those we moved to Michigan to be closer to. I want to finish out the year by finding a great job that I will truly enjoy. I have a few calls lined up early next week on that front. If you're looking for a [DevOps-minded person](https://chrisshort.net/curriculum-vitae/) to add to your team, let me know.
 
@@ -96,4 +105,4 @@ GoCD or Spinnaker? This post is an overview of GoCD and Spinnaker, why they are 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 934049260827529217 >}}
+{{< x user="swardley" id="934049260827529217" >}}

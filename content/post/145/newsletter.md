@@ -1,15 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-09-15
-description = "Richard Stallman needs to go, Istio 1.13, intelligence gathering for nation states, Python 2's sunset, and a OOCL Hong Kong's container ship worth of Kubernetes"
-draft = false
-slug = "145"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "Python", "Istio", "Microsoft", "Richard Stallman", "AWS"]
-title = "145: No more Richard Stallman (or his ilk), spying in tech, apps at AWS, Istio 1.13, SSH certificates, Kubernetes issues with iptables, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-09-15'
+description: Richard Stallman needs to go, Istio 1.13, intelligence gathering for nation states, Python 2's sunset, and a OOCL Hong Kong's container ship worth of Kubernetes
+draft: false
+slug: '145'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- cloud native
+- DevOps news
+- Kubernetes news
+- Python
+- Istio
+- Microsoft
+- Richard Stallman
+- AWS
+title: '145: No more Richard Stallman (or his ilk), spying in tech, apps at AWS, Istio 1.13, SSH certificates, Kubernetes issues with iptables, and more'
+---
 
 There's a lot in the newsletter this week; from Istio to intelligence gathering for nation-states. Python 2's sunset date of 1 Jan 2020 being set is going to have some pretty significant impact. There are also 28 mentions of "Kubernetes" in the source for this week's newsletter. This week's DevOps'ish Tweet of the Week can get you a free copy of [Kubernetes: Up and Running, Second Edition](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=145&utm_term=kubernetes). Oh and Richard Stallman *MUST* go.
 
@@ -94,6 +107,6 @@ mkdir -p /mnt/SC2i && mount -v -t cifs //HOSTNAME/OFFICE/private/SC2i /mnt/SC2i 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1172639048323567618 >}}
+{{< x user="brendandburns" id="1172639048323567618" >}}
 
 [See Notes →](https://github.com/chris-short/devopsish.com/blob/main/content/post/145/notes.md)

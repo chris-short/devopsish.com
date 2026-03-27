@@ -1,20 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-07-17T18:58:23.405Z
-description = ""
-draft = false
-slug = "032"
-tags = ["devops", "cloud native", "open source", "kubernetes", "cloud computing", "serverless", "golang", "infrastructure", "gophercon", "microservices", "containers", "Linus Torvalds", "Docker"]
-title = "032: GopherCon, Linus speaks on init, HTTPS is a must, Cluster Schedulers, kubicorn, and..."
-image ="https://shortcdn.com/devopsish/ashley-mcnamara-at-gophercon-2017.jpg"
-imagealt = "Ashley McNamara at GopherCon 2017"
-aliases = [
-    "devopsish-032-gophercon-linus-speaks-on-init-https-is-a-must-cluster-schedulers-kubicorn-and-5ebaa7f56ed6"
-]
-
-+++
+---
+aliases:
+- devopsish-032-gophercon-linus-speaks-on-init-https-is-a-must-cluster-schedulers-kubicorn-and-5ebaa7f56ed6
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-07-17T18:58:23Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/ashley-mcnamara-at-gophercon-2017.jpg
+imagealt: Ashley McNamara at GopherCon 2017
+slug: '032'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- cloud computing
+- serverless
+- golang
+- infrastructure
+- gophercon
+- microservices
+- containers
+- Linus Torvalds
+- Docker
+title: '032: GopherCon, Linus speaks on init, HTTPS is a must, Cluster Schedulers, kubicorn, and...'
+---
 
 I attended [GopherCon](https://gophercon.com/) in Denver this week (and [visited System 76's Denver office](https://twitter.com/system76/status/885951487284621312)). It was an unbelievably positive experience. [I attended as a diversity scholarship recipient](https://medium.com/@GolangBridge/welcome-to-our-gophercon-2017-diversity-scholarship-winners-afcced449ba2) (being a disabled veteran has *one *perk). I had friends there and met up with them the first day I was in town (I made a lot more friends as the week went on). I got to meet the wonderful Sarah Adams from [Women Who Go](http://www.womenwhogo.org/) at a welcome breakfast at Modern Market the first day of the conference. Sarah is an incredible person and her personality put me at ease. Sarah showed me that I was among friends at GopherCon. The conference organizers are the most down to earth and nicest people you could ever meet. Dave Cheney and I talked over breakfast one morning about the premise of my Lightning Talk and how *crypto/tls *in the Go standard library, "just works." I have never been hugged at a conference before but I got quite a few hugs at GopherCon. The Go community is a truly great thing to be a part of.
 

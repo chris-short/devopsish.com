@@ -1,15 +1,40 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-12-23
-description = "Kubernetes with extra sprinkles, skilling up in DevOps, Google Cloud’s Y2K(23), privileged containers on Santa’s naughty list, and more"
-draft = false
-slug = "159"
-tags = ["Kubernetes", "DevOps", "cloud", "cloud native", "developers", "Google", "Google Cloud", "GCP 2023", "open source", "community", "swift", "Percona", "Kelsey Hightower", "Emily Freeman", "AWS", "Raspberry Pi", "JEDI", "RBAC", "MySQL", "PodCTL", "DevOps for Dummies", "Ansible", "Y2K", "Docker"]
-title = "159: Kubernetes with extra sprinkles, skilling up in DevOps, Google Cloud’s Y2K(23), privileged containers on Santa’s naughty list, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-12-23'
+description: Kubernetes with extra sprinkles, skilling up in DevOps, Google Cloud’s Y2K(23), privileged containers on Santa’s naughty list, and more
+draft: false
+slug: '159'
+tags:
+- Kubernetes
+- DevOps
+- cloud
+- cloud native
+- developers
+- Google
+- Google Cloud
+- GCP 2023
+- open source
+- community
+- swift
+- Percona
+- Kelsey Hightower
+- Emily Freeman
+- AWS
+- Raspberry Pi
+- JEDI
+- RBAC
+- MySQL
+- PodCTL
+- DevOps for Dummies
+- Ansible
+- Y2K
+- Docker
+title: '159: Kubernetes with extra sprinkles, skilling up in DevOps, Google Cloud’s Y2K(23), privileged containers on Santa’s naughty list, and more'
+---
 
 [**X-Team is Hiring Go developers with strong AWS skills (Remote)**](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)  
 We are looking for passionate Go developers with strong AWS skills to work with the world's leading brands, from anywhere. We love to work with Kubernetes, Docker, Serverless, and AWS tools. Travel the world while being part of the most energizing community of developers. We provide the funding needed to help you achieve your goals and grow as a remote developer. [Join X-Team](https://x-team.com/remote-go-developer-jobs/?utm_source=devopsish&utm_medium=email-ad)! *SPONSORED*
@@ -99,6 +124,3 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 [arminc/k8s-platform-lcm](https://github.com/arminc/k8s-platform-lcm) — "A faster and easier way to manage the lifecycle of applications and tools, running and living around your Kubernetes platform"
 
-## Tweet of the Week
-
-{{< tweet 1207682466334609413 >}}

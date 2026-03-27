@@ -1,15 +1,58 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-08-10
-description = "DevOps'ish 178"
-draft = false
-slug = "178"
-tags = ["Accurics", "cloud", "DevOps", "cloud native", "AWS", "Red Hat", "AWS bill", "Cloudflare", "development", "GitOps", "CNCF", "Kubernetes", "Rust", "Go", "helpernode", "ZFS", "Windows", "open source", "process", "distributed systems", "data storage", "cluster", "Nginx", "Envoy", "Microsoft", "infrastructure", "community", "safety", "nodes", "loosely coupled", "Christian Hernandez", "crun", "vim", "live stream", "VScode", "Linux", "OKD", "WSL", "kube", "Lili Cosic", "Corey Quinn", "DevSecOps"]
-title = "DevOps'ish 178: Return of the G"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-08-10'
+description: DevOps'ish 178
+draft: false
+slug: '178'
+tags:
+- Accurics
+- cloud
+- DevOps
+- cloud native
+- AWS
+- Red Hat
+- AWS bill
+- Cloudflare
+- development
+- GitOps
+- CNCF
+- Kubernetes
+- Rust
+- Go
+- helpernode
+- ZFS
+- Windows
+- open source
+- process
+- distributed systems
+- data storage
+- cluster
+- Nginx
+- Envoy
+- Microsoft
+- infrastructure
+- community
+- safety
+- nodes
+- loosely coupled
+- Christian Hernandez
+- crun
+- vim
+- live stream
+- VScode
+- Linux
+- OKD
+- WSL
+- kube
+- Lili Cosic
+- Corey Quinn
+- DevSecOps
+title: 'DevOps''ish 178: Return of the G'
+---
 
 Welcome!
 
@@ -91,8 +134,5 @@ I don't know. Maybe. I think my days of being able to spend Saturday night produ
 
 [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger): "Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster."
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1290330630576840710 >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/178/notes.md) to see what didn't make it to the newsletter.

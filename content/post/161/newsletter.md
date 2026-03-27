@@ -1,15 +1,50 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-01-06
-description = "Getting you back in the groove, hello 2020, anxiety, Y2K, AWS RDS certificates, faasd, Apache Pulsar, DENT, WebAssembly, and more"
-draft = false
-slug = "161"
-tags = ["automation imagination", "DevOps", "Kubernetes", "open source", "Y2K", "DENT", "Python", "DENT", "Apache Pulsar", "AWS", "automation", "webassembly", "RDS", "cloud", "developers", "software", "code", "google", "cloud native", "faasd", "network", "Linux", "anxiety", "GitHub", "GitHub Actions", "security", "CNCF", "community", "development", "operations", "UPS", "CI/CD", "certificates", "GitOps"]
-title = "161: Getting you back in the groove, hello 2020, anxiety, Y2K, AWS RDS certificates, faasd, Apache Pulsar, DENT, WebAssembly, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-01-06'
+description: Getting you back in the groove, hello 2020, anxiety, Y2K, AWS RDS certificates, faasd, Apache Pulsar, DENT, WebAssembly, and more
+draft: false
+slug: '161'
+tags:
+- automation imagination
+- DevOps
+- Kubernetes
+- open source
+- Y2K
+- DENT
+- Python
+- DENT
+- Apache Pulsar
+- AWS
+- automation
+- webassembly
+- RDS
+- cloud
+- developers
+- software
+- code
+- google
+- cloud native
+- faasd
+- network
+- Linux
+- anxiety
+- GitHub
+- GitHub Actions
+- security
+- CNCF
+- community
+- development
+- operations
+- UPS
+- CI/CD
+- certificates
+- GitOps
+title: '161: Getting you back in the groove, hello 2020, anxiety, Y2K, AWS RDS certificates, faasd, Apache Pulsar, DENT, WebAssembly, and more'
+---
 
 Let's begin the new year with the top ten stories from the past three issues of DevOps'ish to get you up to speed on what you might have missed while you were off lollygagging:
 
@@ -118,4 +153,4 @@ This is the first Software Developer Conference with a 100% focus on Black and B
 
 This tweet made for a very surreal New Year's Eve.
 
-{{< tweet 1211999070350299138 >}}
+{{< x user="mikegcoleman" id="1211999070350299138" >}}

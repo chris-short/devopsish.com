@@ -1,15 +1,48 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-05-02
-description = ["KubeCon EU is here, Manager Tools, Microsoft adds a Kinvolk caboose, Feature Flags, GitOps with Argo CD, 100 Days Of Kubernetes, OSI Model, and more"]
-draft = false
-slug = "216"
-tags = ["Kubernetes", "DevOps", "GitHub", "Cloud Native", "cloud", "dependabot", "learn", "observability", "customers", "manager", "understand", "leaders", "lambda settlement", "Microsoft", "LaunchDarkly", "open source", "Google", "creativity", "CEOs", "migraine", "KubeCon", "Linux", "IBM", "Honeycomb", "GitOps", "CNCF", "developers", "Argo CD", "Apple", "CNI", "Amazon"]
-title = "DevOps'ish 216: KubeCon EU is here, Manager Tools, Microsoft adds a Kinvolk caboose, Feature Flags, GitOps with Argo CD, 100 Days Of Kubernetes, OSI Model, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-05-02'
+description:
+- KubeCon EU is here, Manager Tools, Microsoft adds a Kinvolk caboose, Feature Flags, GitOps with Argo CD, 100 Days Of Kubernetes, OSI Model, and more
+draft: false
+slug: '216'
+tags:
+- Kubernetes
+- DevOps
+- GitHub
+- Cloud Native
+- cloud
+- dependabot
+- learn
+- observability
+- customers
+- manager
+- understand
+- leaders
+- lambda settlement
+- Microsoft
+- LaunchDarkly
+- open source
+- Google
+- creativity
+- CEOs
+- migraine
+- KubeCon
+- Linux
+- IBM
+- Honeycomb
+- GitOps
+- CNCF
+- developers
+- Argo CD
+- Apple
+- CNI
+- Amazon
+title: 'DevOps''ish 216: KubeCon EU is here, Manager Tools, Microsoft adds a Kinvolk caboose, Feature Flags, GitOps with Argo CD, 100 Days Of Kubernetes, OSI Model, and more'
+---
 
 A migraine is taking me down hard this weekend. Here's hoping it goes away soon. See you all at KubeCon next week. [GitOps Con](https://hopin.com/events/gitops-con) on Monday. [OpenShift Commons Gathering (also [live streamed](https://twitch.tv/redhatopenshift))](https://commons.openshift.org/gatherings/OpenShift_Commons_Gathering_at_Kubecon_EU.html) on Tuesdays. OpenShift.tv KubeCon EU Office Hours on [Wednesday through Friday](https://red.ht/streamcal).
 

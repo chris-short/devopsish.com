@@ -1,15 +1,46 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-04-04
-description = "Linux lawsuit, universities breached, massive Facebook breach, Amazon's horrible PR in light of conditions, Git Submodules = 👿, GitOpsCon CFP, and more"
-draft = false
-slug = "212"
-tags = ["Linux", "university", "DevOps", "SCO", "cloud", "cloud native", "open source", "Women of Computing LEGO", "open source", "Xinuos", "security", "git", "git submodules", "podman", "Google", "Microsoft", "Facebook", "IBM", "Amazon", "AWS", "Red Hat", "Honeycomb", "sigstore", "Kubernetes", "Multus", "CNI", "AMD", "npm", "DNS", "GitOps"]
-title = "DevOps'ish 212: Linux lawsuit, universities breached, massive Facebook breach, Amazon's horrible PR in light of conditions, Git Submodules = 👿, GitOpsCon CFP, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-04-04'
+description: Linux lawsuit, universities breached, massive Facebook breach, Amazon's horrible PR in light of conditions, Git Submodules = 👿, GitOpsCon CFP, and more
+draft: false
+slug: '212'
+tags:
+- Linux
+- university
+- DevOps
+- SCO
+- cloud
+- cloud native
+- open source
+- Women of Computing LEGO
+- open source
+- Xinuos
+- security
+- git
+- git submodules
+- podman
+- Google
+- Microsoft
+- Facebook
+- IBM
+- Amazon
+- AWS
+- Red Hat
+- Honeycomb
+- sigstore
+- Kubernetes
+- Multus
+- CNI
+- AMD
+- npm
+- DNS
+- GitOps
+title: 'DevOps''ish 212: Linux lawsuit, universities breached, massive Facebook breach, Amazon''s horrible PR in light of conditions, Git Submodules = 👿, GitOpsCon CFP, and more'
+---
 
 An old headline rears its ugly head again this week. The company that now owns the remnants of [The SCO Group](https://en.wikipedia.org/wiki/SCO_Group?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish) (whose claim to fame was [going bankrupt in suing Linux distro makers](https://en.wikipedia.org/wiki/Timeline_of_SCO%E2%80%93Linux_disputes?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish) until their dying breath), Xinuos, has decided to try this strategy out for itself in hopes of a different outcome. [Xinuos is suing IBM and Red Hat](https://www.xinuos.com/xinuos-sues-ibm-and-red-hat/?utm_source=newsletter&utm_medium=email&utm_campaign=devopsish) for using Linux.
 

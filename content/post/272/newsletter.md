@@ -1,13 +1,41 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-06-19
-description = ["Conway's Law and GitOps, Arctic undersea cable, revoking job offers is the new layoff, Symbiote, and more"]
-draft = false
-slug = "272"
-tags = ["open source", "GitOps", "system", "Argo", "Conway's Law", "processes", "events", "security", "management", "Julia Ferraoili", "Linux", "Raspberry Pi", "communication", "Kubernetes", "community", "organization", "git", "Coinbase", "eBPF", "multimeter", "kernel", "compose", "debug", "ArgoCon"]
-title = "DevOps'ish 272: Conway's Law and GitOps, Arctic undersea cable, revoking job offers is the new layoff, Symbiote, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-06-19'
+description:
+- Conway's Law and GitOps, Arctic undersea cable, revoking job offers is the new layoff, Symbiote, and more
+draft: false
+slug: '272'
+tags:
+- open source
+- GitOps
+- system
+- Argo
+- Conway's Law
+- processes
+- events
+- security
+- management
+- Julia Ferraoili
+- Linux
+- Raspberry Pi
+- communication
+- Kubernetes
+- community
+- organization
+- git
+- Coinbase
+- eBPF
+- multimeter
+- kernel
+- compose
+- debug
+- ArgoCon
+title: 'DevOps''ish 272: Conway''s Law and GitOps, Arctic undersea cable, revoking job offers is the new layoff, Symbiote, and more'
+---
 
 I'll be at Open Source Summit this week in Austin. If you see me, stop me and say hello.
 

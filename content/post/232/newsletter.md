@@ -1,15 +1,62 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-08-29
-description = ["DevOps'ish 232: seccomp's day in the Kubernetes sun, Linux at 30, burn out, Chevy Bolt bot blunder, lifelong learning, GitOps, and more"]
-draft = false
-slug = "232"
-tags = ["Kubernetes", "cloud", "cloud native", "security", "DevOps", "GitOps", "open source", "Red Hat", "RBAC", "seccomp", "Google", "workflows", "community", "cluster", "sigstore", "operator", "admission controllers", "Intel", "secure", "Teleport", "production", "software", "developers", "GitOpsCon", "KubeCon", "mortgage", "financial", "algorithm", "stack", "equipment", "infrastructure", "code", "automate", "Terraform", "robot", "Chevy Bolt", "Linux", "systems", "traffic", "errors", "tool", "supply", "release", "environments", "eBPF"]
-title = "DevOps'ish 232: seccomp's day in the Kubernetes sun, Linux at 30, burn out, Chevy Bolt bot blunder, lifelong learning, GitOps, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-08-29'
+description:
+- 'DevOps''ish 232: seccomp''s day in the Kubernetes sun, Linux at 30, burn out, Chevy Bolt bot blunder, lifelong learning, GitOps, and more'
+draft: false
+slug: '232'
+tags:
+- Kubernetes
+- cloud
+- cloud native
+- security
+- DevOps
+- GitOps
+- open source
+- Red Hat
+- RBAC
+- seccomp
+- Google
+- workflows
+- community
+- cluster
+- sigstore
+- operator
+- admission controllers
+- Intel
+- secure
+- Teleport
+- production
+- software
+- developers
+- GitOpsCon
+- KubeCon
+- mortgage
+- financial
+- algorithm
+- stack
+- equipment
+- infrastructure
+- code
+- automate
+- Terraform
+- robot
+- Chevy Bolt
+- Linux
+- systems
+- traffic
+- errors
+- tool
+- supply
+- release
+- environments
+- eBPF
+title: 'DevOps''ish 232: seccomp''s day in the Kubernetes sun, Linux at 30, burn out, Chevy Bolt bot blunder, lifelong learning, GitOps, and more'
+---
 
 A trying week capped off by trigger point injections. Long story short, I've been trying to get a family out of Afghanistan for the past two weeks to no avail. I won't bore you with info or divulge identifying details. But, the possibility for their safe passage to the US has pretty much gone to 0. It's hard telling a 16-year-old kid that you've exhausted all your resources. You can only offer tidbits of info. HUGE shoutout to the team behind [Ehtesab](https://ehtesab.af/) for enabling me to get SOME intel from folks on the ground. The situation itself is a failure.
 

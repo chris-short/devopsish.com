@@ -1,20 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-07-02T15:48:28.013Z
-description = ""
-draft = false
-slug = "030"
-tags = ["devops", "cloud native", "open source", "kubernetes", "cloud storage", "intel", "women in tech", "gophercon", "Docker"]
-title = "030: Week of 1498968000"
-image ="https://shortcdn.com/devopsish/us-flag-sparkler.jpg"
-imagealt = "Happy Independence Day, America"
-aliases = [
-    "devopsish-030-week-of-1498968000-3e7ae31e6bde"
-]
-
-+++
+---
+aliases:
+- devopsish-030-week-of-1498968000-3e7ae31e6bde
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-07-02T15:48:28Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/us-flag-sparkler.jpg
+imagealt: Happy Independence Day, America
+slug: '030'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- cloud storage
+- intel
+- women in tech
+- gophercon
+- Docker
+title: '030: Week of 1498968000'
+---
 
 Summer in Michigan is pretty interesting. Every lake with houses near it seems to have a fireworks display. There's been fireworks displays since Monday. My poor dog, Sunny, is terrified of fireworks so this weekend we're holing up in the basement. She's heard a few pops today and is happily down here beside me snoozing.
 

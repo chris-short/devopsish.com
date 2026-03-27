@@ -1,20 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-06-04T05:21:58.049Z
-description = ""
-draft = false
-slug = "026"
-tags = ["devops", "cloud native", "open source", "kubernetes", "infrastructure", "detroit", "linux", "microservices"]
-title = "026: Week of 1496548800"
-image ="https://shortcdn.com/devopsish/open-organization-guide-to-it-culture-change.png"
-imagealt = "#TheOpenOrg + #Agile + #DevOps = The Open Organization Guide to IT Culture Change"
-aliases = [
-    "devopsish-026-week-of-1496548800-93fe8fbfa088"
-]
-
-+++
+---
+aliases:
+- devopsish-026-week-of-1496548800-93fe8fbfa088
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-06-04T05:21:58Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/open-organization-guide-to-it-culture-change.png
+imagealt: '#TheOpenOrg + #Agile + #DevOps = The Open Organization Guide to IT Culture Change'
+slug: '026'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- infrastructure
+- detroit
+- linux
+- microservices
+title: '026: Week of 1496548800'
+---
 
 It was a very busy week for me personally and in the world of [DevOps](https://devopsish.com/). The [news I hinted at last week](/025/) is my public announcement [I'm leaving SolarWinds MSP, moving to Detroit, and taking the role of Manager, Infrastructure & Operations at Bankrate](https://chrisshort.net/leaving-north-carolina/). I am beyond excited about the position and the work I will be doing. If you want the job I'm vacating, [apply with SolarWinds](http://solarwinds.jobs/durham-nc-nc/senior-aws-systems-engineer/C28A5E389CEE4983B580F6CD0B3799DB/job/).
 

@@ -1,15 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-12-10
-description = "Two Years 🎂, #KubeKhan, CVE-2018-1002105, State of k8s, vim, and More!"
-draft = false
-slug = "105"
-tags = ["weekly", "devops", "newsletter", "cloud native", "cloud", "open source", "kubernetes", "automation", "Red Hat", "ansible", "security", "serverless", "Site Reliability Engineering", "SRE", "GitOps"]
-title = "105: Two Years 🎂, #KubeKhan, CVE-2018-1002105, State of k8s, vim, and More!"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-12-10'
+description: 'Two Years 🎂, #KubeKhan, CVE-2018-1002105, State of k8s, vim, and More!'
+draft: false
+slug: '105'
+tags:
+- weekly
+- devops
+- newsletter
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- Red Hat
+- ansible
+- security
+- serverless
+- Site Reliability Engineering
+- SRE
+- GitOps
+title: '105: Two Years 🎂, #KubeKhan, CVE-2018-1002105, State of k8s, vim, and More!'
+---
 
 DevOps'ish turns two this week. Started on 2016-12-11 as a Medium publication, with an epoch for a subject line, only 632 characters, and no images to be found. A lot has changed but, a lot has stayed the same too. There's no image again but, it's not on Medium anymore. There's a ton of news but, it's still sourced by me. There's more people reading and giving feedback but, I'm still grateful for every one of you. I'll be at KubeCon (and [#KubeKhan](https://twitter.com/search?q=%23KubeKhan)) Sunday through Wednesday morning, Raleigh on Thursday, and Durham on Friday. The number to beat for hotel stays this week is three. Have fun, patch your Kubernetes clusters, and stay safe out there!
 
@@ -109,10 +125,3 @@ Vulnerabilities, Attacks, and Countermeasures (PDF)](https://arxiv.org/pdf/1811.
 
 [The Future of OpenJDK at Red Hat](https://www.infoq.com/news/2018/11/red-hat-openjdk-gc-Nov18) — I welcome Java's open first future.
 
-## DevOps'ish Tweet of the Week
-
-Two tweets of the week for the second birthday of DevOps'ish. One because it's amazing how just getting together to say hi and chat can turn into something amazing when you open it to all. Another because, life is hard and then your job gets automated in the Short household 🎄.
-
-{{< tweet 1070707964011368448 >}}
-
-{{< tweet 1069798669245931520 >}}

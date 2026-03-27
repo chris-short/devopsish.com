@@ -1,15 +1,57 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-10-25
-description = "Complacency, Zoomsterbating, time zones, website carbon footprints, Docker hub policy changes AGAIN, and more"
-draft = false
-slug = "189"
-tags = ["DevOps", "Kubernetes", "time", "streaming", "cloud", "cloud native", "network", "monitoring", "open source", "security", "attack", "observability", "culture", "release", "privacy", "Red Hat", "AWS", "Alice Goldfuss", "Ian Coldwater", "developers", "MITRE", "CNCF", "environment", "Docker", "Intel", "storage", "uptime", "community", "GitHub", "YouTube", "NTP", "NTS", "Firefox", "Git", "PVC", "pvc autoresizer", "secrets", "Jeffrey Toobin", "Zoom", "Detroit", "Zoomsterbating"]
-title = "DevOps'ish 189"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-10-25'
+description: Complacency, Zoomsterbating, time zones, website carbon footprints, Docker hub policy changes AGAIN, and more
+draft: false
+slug: '189'
+tags:
+- DevOps
+- Kubernetes
+- time
+- streaming
+- cloud
+- cloud native
+- network
+- monitoring
+- open source
+- security
+- attack
+- observability
+- culture
+- release
+- privacy
+- Red Hat
+- AWS
+- Alice Goldfuss
+- Ian Coldwater
+- developers
+- MITRE
+- CNCF
+- environment
+- Docker
+- Intel
+- storage
+- uptime
+- community
+- GitHub
+- YouTube
+- NTP
+- NTS
+- Firefox
+- Git
+- PVC
+- pvc autoresizer
+- secrets
+- Jeffrey Toobin
+- Zoom
+- Detroit
+- Zoomsterbating
+title: DevOps'ish 189
+---
 
 I was incredibly busy this week. I spoke at the [October 2020 CNCF Eastern Canadian Meetup](https://www.youtube.com/watch?v=l_EEZV1P15U). I turned the introduction to last week's newsletter into its own blog post, [Fear and Loathing in YAML](https://chrisshort.net/fear-and-loathing-in-yaml/), and it made the front page of [the orange site](https://news.ycombinator.com/item?id=24848511) (you read it here first). And then, of course, all the [live streaming for Red Hat](https://www.openshift.com/blog/this-past-week-on-openshift.tv).
 

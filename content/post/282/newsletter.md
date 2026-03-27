@@ -1,13 +1,38 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-08-28
-description = ["Senselessness, sleeplessness leads to selfishness, Twilio Breach, patch your GitLab, OpenLens, High Table Stakes of Modern Blogs, and more"]
-draft = false
-slug = "282"
-tags = ["Kubernetes", "open source", "cloud", "security", "cloud native", "developer", "behavior", "vulnerability", "Linux", "kernel", "AWS", "KubeCost", "OpenLens", "GitLab", "suicide", "AdGuard", "DNS", "DevOps", "community", "advocacy", "Michigan"]
-title = "DevOps'ish 282: Senselessness, sleeplessness leads to selfishness, Twilio Breach, patch your GitLab, OpenLens, High Table Stakes of Modern Blogs, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-08-28'
+description:
+- Senselessness, sleeplessness leads to selfishness, Twilio Breach, patch your GitLab, OpenLens, High Table Stakes of Modern Blogs, and more
+draft: false
+slug: '282'
+tags:
+- Kubernetes
+- open source
+- cloud
+- security
+- cloud native
+- developer
+- behavior
+- vulnerability
+- Linux
+- kernel
+- AWS
+- KubeCost
+- OpenLens
+- GitLab
+- suicide
+- AdGuard
+- DNS
+- DevOps
+- community
+- advocacy
+- Michigan
+title: 'DevOps''ish 282: Senselessness, sleeplessness leads to selfishness, Twilio Breach, patch your GitLab, OpenLens, High Table Stakes of Modern Blogs, and more'
+---
 
 Another week, another senseless loss. This week marked the third suicide to take place in my family/extended family in my lifetime. To a degree, I understand if you're suffering. But, suicide is a long term solution to generally short term problems. If you or someone you know is considering harming yourself, please reach out. The psychological damage you will inflict on others is far worse than going to a therapist yourself. At the very least, please reach out to one of the numbers listed on the [American Psychological Association Crisis hotlines and resources](https://www.apa.org/topics/crisis-hotlines) page. I'm literally in therapy going through a suicide that was very close to me that I never got to put the loose ends around, from 15 years ago. Don't do this to people you care about, it's not fair.
 

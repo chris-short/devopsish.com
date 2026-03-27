@@ -1,20 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-01-21T07:01:01.345Z
-description = ""
-draft = false
-slug = "059"
-tags = ["devops", "cloud native", "open source", "kubernetes", "serverless", "interview", "intel", "spectre", "lambda", "GitOps"]
-title = "059: DODNYC, Hawaii Missile UI, Intel, Kubernetes, and More"
-image ="https://shortcdn.com/devopsish/times-square-nyc.jpg"
-imagealt = "Times Square, New York City"
-aliases = [
-    "devopsish-059-dodnyc-hawaii-missile-ui-intel-kubernetes-and-more-485f6663c0d7"
-]
-
-+++
+---
+aliases:
+- devopsish-059-dodnyc-hawaii-missile-ui-intel-kubernetes-and-more-485f6663c0d7
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-01-21T07:01:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/times-square-nyc.jpg
+imagealt: Times Square, New York City
+slug: 059
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- serverless
+- interview
+- intel
+- spectre
+- lambda
+- GitOps
+title: '059: DODNYC, Hawaii Missile UI, Intel, Kubernetes, and More'
+---
 
 I attended and spoke at DevOpsDays NYC 2018 this week. The conference was very well organized. It was a truly unique experience held at the Microsoft Technology Center in Times Square. There were some absolutely amazing talks. The talks were all great. The one thing I enjoyed the most was meeting people and seeing where they were along their journey. There are a lot of folks, some in really big companies, trying to change their cultures and improve their environments in dramatic ways. The Verizon story about their dojo program is an enormous effort to turn an old, stuffy enterprise into a full-blown DevOps organization. 16,000 people will learn the ways of DevOps at Verizon through their program. It's quite the story and if successful it'll be one to tell for quite some time.
 
@@ -74,4 +84,4 @@ GoCD is a continuous delivery tool supporting modern infrastructure with elastic
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 953745935477170176 >}}
+{{< x user="ashleymcnamara" id="953745935477170176" >}}

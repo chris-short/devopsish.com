@@ -1,15 +1,32 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-07-07
-description = "DevOps'ish Deep Cuts podcast, burnout, on-call, Cloudflare fustercluck, multicloud mess, and more"
-draft = false
-slug = "135"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "cloud native", "security", "podcast", "burnout", "on-call", "Cloudflare", "Red Hat", "multicloud", "infrastructure", "mess", "Matt Asay"]
-title = "135: DevOps'ish Deep Cuts podcast, burnout, on-call, Cloudflare fustercluck, multicloud mess, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-07-07'
+description: DevOps'ish Deep Cuts podcast, burnout, on-call, Cloudflare fustercluck, multicloud mess, and more
+draft: false
+slug: '135'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- GitHub
+- cloud native
+- security
+- podcast
+- burnout
+- on-call
+- Cloudflare
+- Red Hat
+- multicloud
+- infrastructure
+- mess
+- Matt Asay
+title: '135: DevOps''ish Deep Cuts podcast, burnout, on-call, Cloudflare fustercluck, multicloud mess, and more'
+---
 
 I was on PTO this week. I was working on a number of side projects and issues I've been trying to resolve for quite some time. This includes soft launching a podcast! Deep Cuts is a podcast that looks at the news behind the news. Things that were significant but didn't make the newsletter for one reason or another. Prepare to embrace People, Process, and Tools in your ear holes.
 

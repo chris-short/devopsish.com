@@ -1,15 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-11-04
-description = "At Least it Wasn't Oracle, IBM Acquiring Red Hat, AWS, Amazon HQ2 News, Kubernetes, #noServerNovember, Neomonolith, and More"
-draft = false
-slug = "100"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security", "serverless", "aws", "amazon", "hq2", "Red Hat", "ibm", "monitoring", "noservernovember", "neomonolith"]
-title = "100: At Least it Wasn't Oracle, IBM Acquiring Red Hat, AWS, Amazon HQ2 News, Kubernetes, #noServerNovember, Neomonolith, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-11-04'
+description: 'At Least it Wasn''t Oracle, IBM Acquiring Red Hat, AWS, Amazon HQ2 News, Kubernetes, #noServerNovember, Neomonolith, and More'
+draft: false
+slug: '100'
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- security
+- serverless
+- aws
+- amazon
+- hq2
+- Red Hat
+- ibm
+- monitoring
+- noservernovember
+- neomonolith
+title: '100: At Least it Wasn''t Oracle, IBM Acquiring Red Hat, AWS, Amazon HQ2 News, Kubernetes, #noServerNovember, Neomonolith, and More'
+---
 
 Last week I thought the 100th issue of this newsletter was going to be kinda flat. Not this week! Less than twelve hours after [DevOps'ish 099](/099/) went out, the technology world confirmed change is constant; [IBM to Buy Software Maker Red Hat for About $33 Billion](https://www.bloomberg.com/news/articles/2018-10-28/ibm-agrees-to-buy-software-maker-red-hat-in-34-billion-deal). I think my friend and fellow Red Hatter [Ben Cotton](https://funnelfiasco.com/) said it best, "It's clearly a huge bet for IBM. But, they seem to be committed to letting Red Hat keep doing what has made them successful for the last 25 years. Only time will tell." [If you're not in turmoil and you're at a tech company consider yourself lucky](https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/). I have a great job, I have projects and programs to run, y'all still want Ansible so we're still gonna work on it. I have long thought the thing I missed most about being in the Air Force was being a part of history every day. I get to do that for the second time in a lifetime. Hey, "[At least it wasn't Oracle.](https://cshort.co/not-oracle)"
 

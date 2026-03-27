@@ -1,15 +1,36 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-03-22
-description = "Kubernetes 1.18 is coming, curl gets JSON, istiod, install OKD4 on GCP, Tailscale, and more"
-draft = false
-slug = "172"
-tags = ["DevOps", "Kubernetes", "cloud", "encryption", "security", "services", "open source", "systems", "clusters", "production", "performance", "Azure", "Datadog", "cloud native", "developers", "Tailscale", "WireGuard", "Istio", "curl", "Amazon"]
-title = "DevOps'ish 172"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-03-22'
+description: Kubernetes 1.18 is coming, curl gets JSON, istiod, install OKD4 on GCP, Tailscale, and more
+draft: false
+slug: '172'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- encryption
+- security
+- services
+- open source
+- systems
+- clusters
+- production
+- performance
+- Azure
+- Datadog
+- cloud native
+- developers
+- Tailscale
+- WireGuard
+- Istio
+- curl
+- Amazon
+title: DevOps'ish 172
+---
 
 There is [a line in Saving Private Ryan about griping](https://www.dailymotion.com/video/x4h4db5). There's a chain of command in the military and leadership voices its concerns up the chain, never down it. This week, I've been reaching up my chain of command in government to make sure that the people that are supposed to be leading right now are. I would encourage you to do the same. Some good news this week is that after announcing an initiative to harness a global computer network to contribute work towards pharmaceutical drugs to combat COVID-19, [Folding@Home has seen a 1200% increase in computers actively contributing to the project](https://cointelegraph.com/news/foldinghome-surpasses-400-000-users-amid-crypto-contribution). I set up four systems to run Folding@Home this week as part of this effort. But, on Friday, I had to back down to three due to fan noise. I would also encourage you to donate any spare CPU and GPU cycles you have to the project. Together we can beat COVID-19.
 
@@ -89,6 +110,6 @@ Order Domino's with Kubernetes
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1239714843352903680 >}}
+{{< x user="littleidea" id="1239714843352903680" >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/172/notes.md) to see what didn't make it to the newsletter.

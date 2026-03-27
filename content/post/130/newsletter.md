@@ -1,15 +1,26 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-06-02
-description = "So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More"
-draft = false
-slug = "130"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "GitHub", "Ansible", "cloud native", "Huawei", "China", "Kubernetes Operators"]
-title = "130: So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-06-02'
+description: So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More
+draft: false
+slug: '130'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- GitHub
+- Ansible
+- cloud native
+- Huawei
+- China
+- Kubernetes Operators
+title: '130: So much DevOps, Thoughts on Huawei, Kubernetes salaries, Twistlock acquisition, Kubernetes tools, and More'
+---
 
 [**2019 State of Multicloud**](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE)  
 A Report on the Underlying Dynamics Fueling Multicloud Strategies. [Download Today!](https://turbonomic.com/state-of-multicloud/?utm_campaign=7012o000001oRz6AAE) *SPONSORED*
@@ -49,8 +60,6 @@ Please take this year's survey. It is a handful of questions, will provide actio
 [AnsibleFest 2019 Call for Proposals](https://ansiblefest2019.eventpoint.com/cfp/?utm_source=devopsish) — Are you adding value to your organization using Ansible? Perhaps you have automated your way out of a sticky situation before with Ansible? Have you scaled an organizations automation efforts with Ansible Tower? [Submit your CFP for AnsibleFest 2019!](https://ansiblefest2019.eventpoint.com/cfp/?utm_source=devopsish)
 
 ## Process
-
-{{< tweet 1134529316904153089 >}}
 
 [oss-sec: CVE-2018-15664: docker (all versions) is vulnerable to a symlink-race attack](https://seclists.org/oss-sec/2019/q2/131)
 
@@ -104,6 +113,6 @@ Please take this year's survey. It is a handful of questions, will provide actio
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1133820760617836550 >}}
+{{< x user="warriors" id="1133820760617836550" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

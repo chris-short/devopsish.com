@@ -1,18 +1,30 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-07-01
-description = "Picking Winning Tech, Blue is Bad, Kubernetes, GCP Problems, VKE, Ansible, and More"
-draft = false
-slug = "082"
-tags = ["devops", "cloud native", "open source", "kubernetes", "ansible", "microservices", "google", "github", "microsoft", "cloud", "Docker"]
-title = "082: Picking Winning Tech, Blue is Bad, Kubernetes, GCP Problems, VKE, Ansible, and More"
-image ="https://shortcdn.com/devopsish/IMG_4318.jpg"
-imagealt = "Petosky State Park overlooking Lake Michigan"
-imagecap = "Petosky State Park overlooking Lake Michigan"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-07-01'
+description: Picking Winning Tech, Blue is Bad, Kubernetes, GCP Problems, VKE, Ansible, and More
+draft: false
+image: https://shortcdn.com/devopsish/IMG_4318.jpg
+imagealt: Petosky State Park overlooking Lake Michigan
+imagecap: Petosky State Park overlooking Lake Michigan
+slug: 082
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- ansible
+- microservices
+- google
+- github
+- microsoft
+- cloud
+- Docker
+title: '082: Picking Winning Tech, Blue is Bad, Kubernetes, GCP Problems, VKE, Ansible, and More'
+---
 
 Twelve hours after this newsletter was published last week, I was on a plane back to my old stomping grounds in Raleigh, North Carolina. [I started at Red Hat this week on the Ansible team as Principal Product Marketing Manager](https://chrisshort.net/joining-ansible-team-at-red-hat/). After the first week, I feel like this is the best career move I've ever made. It's also a move that I've wanted to make for a long time. But, the delay has been well worth it. I look forward to working with teams internal and external to Red Hat to make Ansible an even better product than it already is.
 
@@ -144,6 +156,3 @@ The core of product marketing is rooted in product promotion. It's a combination
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1012011199897141249 >}}

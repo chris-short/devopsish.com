@@ -1,12 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c5fc0cf-70ad-4059-8406-dfc2b4b74481/deploy-status)](https://app.netlify.com/projects/devopsish/deploys)
+
 # DevOps'ish
 
-[![DevOps'ish](https://shortcdn.com/devopsish/DevOpsish.png#center)](https://devopsish.com)  
-Cloud Native, DevOps, Open Source, industry news, culture, and the 'ish between
+Cloud Native, DevOps, Open Source, AI, tech industry news, culture, and the 'ish between. A newsletter by Chris Short.
 
-[**DevOps'ish**](https://devopsish.com) is authored by [Chris Short](https://chrisshort.me/) and Made in [Michigan](https://www.michigan.org/).
-
-## Newsletter Writing Process
-
-Everyone needs a checklist to do repetitive tasks. The human will attempt to memorize the list regardless, but it's vitally important to check the checklist to make sure you've done a repetitive task correctly. The next step is automating everything you can.
-
-If you want to learn more about writing a newsletter in general or more specifically how [DevOps'ish](https://devopsish.com/) is built, please read the [WRITING.md](WRITING.md) file.
+[**Subscribe Today!**](https://devopsish.com/subscribe/)

@@ -1,19 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-10-01T06:01:00.891Z
-description = ""
-draft = false
-slug = "043"
-tags = ["devops", "cloud native", "open source", "kubernetes", "cloud computing", "linux", "google", "ntp", "containers", "Docker", "rootless containers"]
-title = "043: Sleep, DevOps README.md, Microsoft, Kubernetes, and More!"
-image ="https://shortcdn.com/devopsish/fence-dog.jpg"
-imagealt = "Is your organization a learning organization?"
-aliases = [
-    "devopsish-043-sleep-devops-readme-md-microsoft-kubernetes-and-more-ea520659e5d5"
-]
-+++
+---
+aliases:
+- devopsish-043-sleep-devops-readme-md-microsoft-kubernetes-and-more-ea520659e5d5
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-10-01T06:01:00Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/fence-dog.jpg
+imagealt: Is your organization a learning organization?
+slug: '043'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- cloud computing
+- linux
+- google
+- ntp
+- containers
+- Docker
+- rootless containers
+title: '043: Sleep, DevOps README.md, Microsoft, Kubernetes, and More!'
+---
 
 Is your organization a learning organization? Do you, your team, your leadership, and your company learn from mistakes? Do you share knowledge and lessons learned as widely as humanly possible? These are all question you should be asking yourself along your journey. If your maintenance windows are no holds bar with no rollback plan, that's a problem. If you are not doing something to share new technologies with your team on a regular basis you're going to have a bad time. Continuous learning is such a critical aspect of DevOps and working in tech that you must reinforce it at every possible opportunity. I'll be in South Florida this week hopefully doing some continuous learning.
 

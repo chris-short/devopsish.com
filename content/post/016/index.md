@@ -1,17 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-03-26T14:10:49.212Z
-description = ""
-draft = false
-slug = "016"
-tags = ["devops", "cloud native", "open source", "github", "women in tech", "google", "open floor plans", "ntp", "Susan Fowler"]
-title = "016: Week of 1490500800"
-image ="https://shortcdn.com/devopsish/hard-at-work.jpg"
-imagealt = "Hard at Work"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-03-26T14:10:49Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/hard-at-work.jpg
+imagealt: Hard at Work
+slug: '016'
+tags:
+- devops
+- cloud native
+- open source
+- github
+- women in tech
+- google
+- open floor plans
+- ntp
+- Susan Fowler
+title: '016: Week of 1490500800'
+---
 
 Last Sunday, shortly after [DevOps'ish Weekly 015](/016/) went out, [**Nicole Forsgren**](http://nicolefv.com) of [DORA](https://devops-research.com/) reached out on Twitter to [demonstrate how easy it is to find great people in DevOps](https://twitter.com/nicolefv/status/843422693273886721). This is Nicole's list of great folks out there DevOps'ing:
 

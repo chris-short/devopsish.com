@@ -1,16 +1,44 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-11-21
-description = ["Milestones, K8s Contributor Celebration, Cassidy Williams, Cloud Native Hackathon, Activision Blizzard CEO, GitOps, Fulcio, tools galore, and more"]
-draft = false
-slug = "244"
-tags = ["cloud", "Julie", "Kubernetes", "Michigan", "DevOps", "cloud native", "clusters", "decision", "AWS", "COVID", "GitOps", "Infrastructure", "EKS", "news", "Aubree", "building", "moving", "leader", 
-"love", "contributor", "celebration", "Git", "Fulcio", "Google", "open source", "Amazon", "Traverse City"]
-title = "DevOps'ish 244: Milestones, K8s Contributor Celebration, Cassidy Williams, Cloud Native Hackathon, Activision Blizzard CEO, GitOps, Fulcio, tools galore, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-11-21'
+description:
+- Milestones, K8s Contributor Celebration, Cassidy Williams, Cloud Native Hackathon, Activision Blizzard CEO, GitOps, Fulcio, tools galore, and more
+draft: false
+slug: '244'
+tags:
+- cloud
+- Julie
+- Kubernetes
+- Michigan
+- DevOps
+- cloud native
+- clusters
+- decision
+- AWS
+- COVID
+- GitOps
+- Infrastructure
+- EKS
+- news
+- Aubree
+- building
+- moving
+- leader
+- love
+- contributor
+- celebration
+- Git
+- Fulcio
+- Google
+- open source
+- Amazon
+- Traverse City
+title: 'DevOps''ish 244: Milestones, K8s Contributor Celebration, Cassidy Williams, Cloud Native Hackathon, Activision Blizzard CEO, GitOps, Fulcio, tools galore, and more'
+---
 
 **Editor's note**: Times are hard for a lot of folks right now. Take your time. Your emotions are valid. Process them. **Managers** *should* give their people some grace over the coming days. Reader's in pain, I am with you.
 

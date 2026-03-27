@@ -1,13 +1,44 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-10-09
-description = ["Pain points around containers, Open Source Work Is Work, SBOM frenzy is premature, Linux 6.0, Skyfall, Kueue, CUE, Kyverno vs Datree, and more"]
-draft = false
-slug = "288"
-tags = ["Kubernetes", "open source", "cloud", "applications", "environments", "secrets", "security", "data", "cluster", "Hashicorp Vault", "Kueue", "CUE", "Kyverno", "cloud native", "Google", "configuration", "multi-cloud", "policy", "filesystems", "developers", "SBOM", "containers", "software", "podcast", "Datree", "Linux", "observability"]
-title = "DevOps'ish 288: Pain points around containers, Open Source Work Is Work, SBOM frenzy is premature, Linux 6.0, Skyfall, Kueue, CUE, Kyverno vs Datree, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-10-09'
+description:
+- Pain points around containers, Open Source Work Is Work, SBOM frenzy is premature, Linux 6.0, Skyfall, Kueue, CUE, Kyverno vs Datree, and more
+draft: false
+slug: '288'
+tags:
+- Kubernetes
+- open source
+- cloud
+- applications
+- environments
+- secrets
+- security
+- data
+- cluster
+- Hashicorp Vault
+- Kueue
+- CUE
+- Kyverno
+- cloud native
+- Google
+- configuration
+- multi-cloud
+- policy
+- filesystems
+- developers
+- SBOM
+- containers
+- software
+- podcast
+- Datree
+- Linux
+- observability
+title: 'DevOps''ish 288: Pain points around containers, Open Source Work Is Work, SBOM frenzy is premature, Linux 6.0, Skyfall, Kueue, CUE, Kyverno vs Datree, and more'
+---
 
 Last week, I shared out the notes I took from an Open Space suggestion I made at DevOpsDays Chicago, "[Container Conundrum: Pain points around containers](https://chrisshort.net/container-conundrum-devopsdays-chicago-2022-open-space-notes/)." The premise was trying to figure out where people are struggling with managing containers and the applications in them in their environments. My friend Ed Vielmetti joined in as well. I want to stress that no one else in the room identified their employer (nor would I have recorded that data or anything that could lead me to it), so your trade secrets are pretty safe. I learned quite a bit, so I'll share more details here.
 

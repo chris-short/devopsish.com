@@ -1,15 +1,47 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-06-06
-description = ["On the passing of Peeyush Gupta, Apple employees balk at return to office plans, 1:1 with CNCF's Priyanka Sharma, StackOverflow acquired, Flux, Argo, HTTP 3, and more"]
-draft = false
-slug = "221"
-tags = ["Peeyush Gupta", "Cloud Native", "Apple", "cloud", "DevOps", "Kubernetes", "code", "employees", "observability", "community", "Red Hat", "open source", "developers", "GitOps", "kubectl", "Intel", "Jenkins", "pandemic", "debug", "Priyanka Sharma", "Cloud Native Computing Foundation", "cyberattacks", "vcenter", "IBM", "Flux", "Argo", "petabyte", "Linux", "OpenShift", "Rust"]
-title = "DevOps'ish 221: On the passing of Peeyush Gupta, Apple employees balk at return to office plans, 1:1 with CNCF's Priyanka Sharma, StackOverflow acquired, Flux, Argo, HTTP 3, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-06-06'
+description:
+- On the passing of Peeyush Gupta, Apple employees balk at return to office plans, 1:1 with CNCF's Priyanka Sharma, StackOverflow acquired, Flux, Argo, HTTP 3, and more
+draft: false
+slug: '221'
+tags:
+- Peeyush Gupta
+- Cloud Native
+- Apple
+- cloud
+- DevOps
+- Kubernetes
+- code
+- employees
+- observability
+- community
+- Red Hat
+- open source
+- developers
+- GitOps
+- kubectl
+- Intel
+- Jenkins
+- pandemic
+- debug
+- Priyanka Sharma
+- Cloud Native Computing Foundation
+- cyberattacks
+- vcenter
+- IBM
+- Flux
+- Argo
+- petabyte
+- Linux
+- OpenShift
+- Rust
+title: 'DevOps''ish 221: On the passing of Peeyush Gupta, Apple employees balk at return to office plans, 1:1 with CNCF''s Priyanka Sharma, StackOverflow acquired, Flux, Argo, HTTP 3, and more'
+---
 
 The Cloud Native community lost a great person; [Peeyush Gupta](https://github.com/cncf/memorials/blob/main/peeyush-gupta.md). He leaves behind a wife and 10-month old child. His employer, Digital Ocean, and the Kubernetes community are trying very hard to make that that mother and child will not be *as devastated*. **I beg of you**, please donate to the [**Peeyush Gupta: Family Education Fund**](https://milaap.org/fundraisers/support-peeyush-gupta-family-education).
 

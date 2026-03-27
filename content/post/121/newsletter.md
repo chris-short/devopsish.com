@@ -1,15 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-03-31
-description = "Kubernetes 1.14, Cloudy with a Chance of Complexity, Accelerate State of DevOps survey, and More"
-draft = false
-slug = "121"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "cloud native", "cncf", "serverless", "container", "security", "Kubernetes Operators", "996"]
-title = "121: Kubernetes 1.14, Cloudy with a Chance of Complexity, Accelerate State of DevOps survey, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-03-31'
+description: Kubernetes 1.14, Cloudy with a Chance of Complexity, Accelerate State of DevOps survey, and More
+draft: false
+slug: '121'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- cloud native
+- cncf
+- serverless
+- container
+- security
+- Kubernetes Operators
+- '996'
+title: '121: Kubernetes 1.14, Cloudy with a Chance of Complexity, Accelerate State of DevOps survey, and More'
+---
 
 There is something to be said about simplicity. The amount of [yak shaving](https://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx) needed these days is enormous. I've been on and off trying to get a container up and running in a cloud native manner. I've tried all of the major cloud providers and a few more. But, to a cloud, they all have inadequacies of one sort or another. If one has weird load balancing, the other has an absurdly expensive database service (compared to the competition). If one has a clean Kubernetes implementation, the other is missing a few features. This stuff isn't easy and if anyone thinks it is they've likely gotten ahold of a round peg they can force into a square hole more times than not. Keep your heads up out there.
 
@@ -111,8 +125,5 @@ How well does your organization respond to changing market conditions, customer 
 
 [fyne-io/fyne](https://github.com/fyne-io/fyne) — Cross platform GUI in Go based on Material Design
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1112017864205185024 >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

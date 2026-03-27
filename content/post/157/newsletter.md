@@ -1,15 +1,32 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-12-09
-description = "Kubernetes, BPF, container security, re:Invent, PagerDuty, .org debacle, and more"
-draft = false
-slug = "157"
-tags = ["Kubernetes", "DevOps", "cloud", "cloud native", "reinvent", "community", "open source", "security", "AWS", "developers", "remote", "DevOps news", "software", "PagerDuty", "Kubernetes Operators", "VSCode"]
-title = "157: Kubernetes, BPF, container security, re:Invent, PagerDuty, .org debacle, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-12-09'
+description: Kubernetes, BPF, container security, re:Invent, PagerDuty, .org debacle, and more
+draft: false
+slug: '157'
+tags:
+- Kubernetes
+- DevOps
+- cloud
+- cloud native
+- reinvent
+- community
+- open source
+- security
+- AWS
+- developers
+- remote
+- DevOps news
+- software
+- PagerDuty
+- Kubernetes Operators
+- VSCode
+title: '157: Kubernetes, BPF, container security, re:Invent, PagerDuty, .org debacle, and more'
+---
 
 I had a long week with a lot of ups and downs. But, the real downer was delivered on Friday afternoon when I learned my insurance provider had denied a trial run at a new nerve stimulator. I had been talking to friends and family about this new nerve stimulator because it was way less invasive to implant. In a nutshell, the nerve stimulator is synthesized to produce a cancellation signal that keeps the brain from feeling the pain. One friend described it as being akin to Iron Man. Instead of keeping metal out of my heart, the nerve stimulator would keep pain from my brain. It also featured technology like Bluetooth and wireless power which means that I could have a cordless device that's inert in my body with no exposed wiring. No issue with TSA or any government facilities I might find myself in or around again someday (never know if or when a friend will call). Back to the drawing board...
 
@@ -101,6 +118,3 @@ DELIVERY|CONF 2020 is being held to give people a place to get deeper technical 
 
 [OOMyPod: Nothin' To CRI-O-bout](https://capsule8.com/blog/oomypod-nothin-to-cri-o-bout/) — "Gather around the fire for a story about the unlikely partnership of bugs that led to a partial container escape. While this is a fairly technical post covering some container and Kubernetes components, we included links throughout if you want to learn about them or need a refresher while reading."
 
-## Tweet of the Week
-
-{{< tweet 1201629394940420101 >}}

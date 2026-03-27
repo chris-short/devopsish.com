@@ -1,18 +1,31 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-04-01
-description = ""
-draft = false
-slug = "069"
-tags = ["devops", "cloud native", "open source", "kubernetes", "docker", "infosec", "Ansible", "lambda", "containers", "Docker Inc", "Site Reliability Engineering", "SRE"]
-title = "069: Kubernetes 1.10, Docker Deathwatch, Breaches, goo.gl Gone, Ansible, and More"
-image ="https://shortcdn.com/devopsish/easter-2018.jpg"
-imagealt = "Happy Easter"
-imagecap = ""
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-04-01'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/easter-2018.jpg
+imagealt: Happy Easter
+imagecap: ''
+slug: 069
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- docker
+- infosec
+- Ansible
+- lambda
+- containers
+- Docker Inc
+- Site Reliability Engineering
+- SRE
+title: '069: Kubernetes 1.10, Docker Deathwatch, Breaches, goo.gl Gone, Ansible, and More'
+---
 
 What a big week for tech news! On Monday, the first Kubernetes release of 2018  dropped like the world's hottest mixtape; [Kubernetes 1.10](https://kubernetes.io/blog/2018/03/26/kubernetes-1.10-stabilizing-storage-security-networking/) is out! On Wednesday, we saw what I believe to be the next step in Docker's death; Solomon Hykes is out! More on that below. We also witnessed yet [another big-time company get hit by WannaCry](https://www.seattletimes.com/business/boeing-aerospace/boeing-hit-by-wannacry-virus-fears-it-could-cripple-some-jet-production/); Boeing. Boeing is the latest victim of poor IT practices as it found itself fighting the fast-spreading virus. Kudos to Boeing for getting it mitigated quickly but, this should never have happened given how old WannaCry is. Then on Thursday, 150 million of us found ourselves as a victim of yet another breach when [MyFitnessPal announced its systems had been compromised](https://www.buzzfeed.com/skbaer/myfitnesspal-under-armour-data-stolen?utm_term=.gbbPDpvGR#.bnkebagxZ). The MyFitnessPal breach compromised only superficial login data and passwords. No health or government issued data was stolen. Not to be outdone, Drupal core had a ["Highly critical" RCE vulnerability](https://www.drupal.org/sa-core-2018-002). To top things off there appears to be a "skip containers, go serverless" drum beat building (more on that below).
 
@@ -115,6 +128,3 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [Microsoft rolls out the first availability zones within Azure regions to boost customer reliability](https://www.geekwire.com/2018/microsoft-rolls-first-availability-zones-within-azure-regions-boost-customer-reliability/): How is this JUST now happening?!? How is Azure the #2 cloud provider?!?
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 978732224324427777 >}}

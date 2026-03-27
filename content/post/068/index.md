@@ -1,18 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-03-25
-description = ""
-draft = false
-slug = "068"
-tags = ["devops", "cloud native", "open source", "kubernetes", "gdpr", "security", "infosec", "containers", "Docker"]
-title = "068: Screaming in the Cloud, GDPR, Kubernetes PoCs, InfoSec, and More"
-image ="https://shortcdn.com/devopsish/tiger-parrot.jpg"
-imagealt = "I'm not even sure what's going on here"
-imagecap = "I find some weird images when I'm making slides"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-03-25'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/tiger-parrot.jpg
+imagealt: I'm not even sure what's going on here
+imagecap: I find some weird images when I'm making slides
+slug: 068
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- gdpr
+- security
+- infosec
+- containers
+- Docker
+title: '068: Screaming in the Cloud, GDPR, Kubernetes PoCs, InfoSec, and More'
+---
 
 On Wednesday, Kelsey Hightower decided to [take the rest of the year off from public speaking](https://twitter.com/kelseyhightower/status/976528030440083456). I've had a relatively light speaking schedule compared to Kelsey the past two years. [I feel Kelsey's pain](https://twitter.com/ChrisShort/status/976571348368674817). I've had people tell me to my face that my talks were bad. I've had people talk to me about how much they love a talk. Putting these talks together is not easy, folks. Coming up with an idea, getting feedback on the talk idea, writing a CFP, submitting the CFP, building an outline, and building slides. You haven't even traveled or presented yet! I just finished a slide deck that took me two weeks to make. It wasn't non-stop but making the slides is literally the hardest part for me. I commend Kelsey for doing what's right for him and I look forward to seeing him speak again when he's ready.
 
@@ -97,4 +107,4 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 976499995724558337 >}}
+{{< x user="shanselman" id="976499995724558337" >}}

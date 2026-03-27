@@ -1,18 +1,32 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-04-29
-description = ""
-draft = false
-slug = "073"
-tags = ["devops", "cloud native", "open source", "rtfm", "hiring", "bgp", "dns", "kubernetes", "gitlab", "containers", "Site Reliability Engineering", "SRE", "Docker"]
-title = "073: DevOps Hiring Guide, RIP RTFM, BGP & DNS, Kubernetes, GitLab, and More"
-image ="https://shortcdn.com/devopsish/balance.jpg"
-imagealt = "Life is about balance. The struggle is achieving it."
-imagecap = "Life is about balance. The struggle is achieving it."
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-04-29'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/balance.jpg
+imagealt: Life is about balance. The struggle is achieving it.
+imagecap: Life is about balance. The struggle is achieving it.
+slug: '073'
+tags:
+- devops
+- cloud native
+- open source
+- rtfm
+- hiring
+- bgp
+- dns
+- kubernetes
+- gitlab
+- containers
+- Site Reliability Engineering
+- SRE
+- Docker
+title: '073: DevOps Hiring Guide, RIP RTFM, BGP & DNS, Kubernetes, GitLab, and More'
+---
 
 I had a lot going on this week. From dealing with bureaucracy at the second largest department of the US government to debugging Jinja2 code in Ansible playbooks to wrangling a toddler that isn't feeling all that great to dealing with my constant nemesis; long thoracic nerve palsy and winging of the scapula. I have a lot on my plate all the time and I'm okay with that. I enjoy it most of the time. The trick to it all is balance. Like in DevOps, no one facet can take more of the time allocated to it than necessary. Sadly, that rarely works out and ends up creating debts. Managing the debt is the trick. I have the constant feeling of being behind on everything. But, if I can balance the figurative checkbook at the end of the week I'm okay with it.
 

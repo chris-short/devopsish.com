@@ -1,18 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-03-18
-description = ""
-draft = false
-slug = "067"
-tags = ["devops", "cloud native", "open source", "google cloud", "azure", "cncf", "kubernetes", "microsoft", "security", "Docker"]
-title = "067: Microsoft Blowing It, Kubernetes security, NATS, skaffold, and More!"
-image ="https://shortcdn.com/devopsish/view-from-gke-office.jpg"
-imagealt = "View of Bay Area from GKE Office in Sunnyvale"
-imagecap = "View of Bay Area from GKE Office in Sunnyvale"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-03-18'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/view-from-gke-office.jpg
+imagealt: View of Bay Area from GKE Office in Sunnyvale
+imagecap: View of Bay Area from GKE Office in Sunnyvale
+slug: '067'
+tags:
+- devops
+- cloud native
+- open source
+- google cloud
+- azure
+- cncf
+- kubernetes
+- microsoft
+- security
+- Docker
+title: '067: Microsoft Blowing It, Kubernetes security, NATS, skaffold, and More!'
+---
 
 I was in Sunnyvale and San Francisco most of the week and just got home. Thank you to the folks at Google Cloud for putting on an amazing event. I learned a lot during my visit. I'm exhausted though.
 
@@ -83,6 +94,3 @@ I'll admit it, I've never been to Canada. But, I'm definitely going to [DevOpsDa
 
 [8 DevOps tools that smoothed our migration from AWS to GCP: Tamr](https://cloudplatform.googleblog.com/2018/03/8-DevOps-tools-that-smoothed-our-migration-from-AWS-to-GCP-Tamr.html)
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 974392354328272897 >}}

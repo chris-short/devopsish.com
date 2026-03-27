@@ -1,15 +1,38 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-05-05
-description = "Ransom Attacks Hit Git, Managing Many Clusters, Kubernetes Failure Stories, Ansible-based Kubernetes Operators, Deadlines are Horrible, and More"
-draft = false
-slug = "126"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "Red Hat", "docker", "ansible", "Ansible-based Operators", "logo", "AWS", "Amazon Web Services", "clusters", "infrastructure", "git", "GitHub", "GitLab", "Kubernetes Operators"]
-title = "126: Ransom Attacks Hit Git, Managing Many Clusters, Kubernetes Failure Stories, Ansible-based Kubernetes Operators, Deadlines are Horrible, & More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-05-05'
+description: Ransom Attacks Hit Git, Managing Many Clusters, Kubernetes Failure Stories, Ansible-based Kubernetes Operators, Deadlines are Horrible, and More
+draft: false
+slug: '126'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- container
+- security
+- linux
+- Red Hat
+- docker
+- ansible
+- Ansible-based Operators
+- logo
+- AWS
+- Amazon Web Services
+- clusters
+- infrastructure
+- git
+- GitHub
+- GitLab
+- Kubernetes Operators
+title: '126: Ransom Attacks Hit Git, Managing Many Clusters, Kubernetes Failure Stories, Ansible-based Kubernetes Operators, Deadlines are Horrible, & More'
+---
 
 Friday afternoon (US east coast time), some oddities around git repos being taken for ransom [started to pop-up](https://twitter.com/tomgilray/status/1124027843233615873). Safe to say, I'm paranoid af when it comes to the software delivery pipeline (GitHub and GitLab are both used to manage DevOps'ish). I immediately changed passwords everywhere I have code stored (and you should too if you haven't already). [GitLab chimed in](https://about.gitlab.com/2019/05/03/suspicious-git-activity-security-update/) on the issue to confirm it did not appear to be a total loss of data on affected repos and provided potential fixes. GitLab also provided extensive incident details I recommend checking out. The cause? The age-old problem of exposing version control dot directory when deploying a web site. [Don't publicly expose .git or how we downloaded your website's source code](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/).
 
@@ -112,10 +135,5 @@ Try LogDNA - [Start free trial](https://logdna.com/sign-up/?utm_medium=Syndicati
 
 [micronaut-projects/micronaut-core: Micronaut Application Framework](https://github.com/micronaut-projects/micronaut-core)
 
-## DevOps'ish Tweet of the Week
-
-This thread from Justin Garrison is everything.
-
-{{< tweet 1124698927997960192 >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

@@ -1,15 +1,44 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-02-27
-description = ["Agile fails without psychological safety, Intel and Snyk acquire companies, Nvidia gets hit and punches back, GitOps with Flux, OrioleDB, and more"]
-draft = false
-slug = "258"
-tags = ["service", "security", "pod", "cloud", "copyright", "Windows", "Kubernetes", "cluster", "S3", "storage", "EKS", "Flux", "Linux", "Agile", "psychological safety", "Intel", "Honeycomb", "database", "Nvidia", "Snyk", "API", "rsync", "Pulumi", "deployments", "operator", "diversity", "disability"]
-title = "DevOps'ish 258: Agile fails without psychological safety, Intel and Snyk acquire companies, Nvidia gets hit and punches back, GitOps with Flux, OrioleDB, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-02-27'
+description:
+- Agile fails without psychological safety, Intel and Snyk acquire companies, Nvidia gets hit and punches back, GitOps with Flux, OrioleDB, and more
+draft: false
+slug: '258'
+tags:
+- service
+- security
+- pod
+- cloud
+- copyright
+- Windows
+- Kubernetes
+- cluster
+- S3
+- storage
+- EKS
+- Flux
+- Linux
+- Agile
+- psychological safety
+- Intel
+- Honeycomb
+- database
+- Nvidia
+- Snyk
+- API
+- rsync
+- Pulumi
+- deployments
+- operator
+- diversity
+- disability
+title: 'DevOps''ish 258: Agile fails without psychological safety, Intel and Snyk acquire companies, Nvidia gets hit and punches back, GitOps with Flux, OrioleDB, and more'
+---
 
 Rough week here on the home front. Rough week in other places too. Reach out if you're struggling.
 

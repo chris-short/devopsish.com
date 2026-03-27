@@ -1,17 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-07-08
-description = ""
-draft = false
-slug = "083"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "survey", "automation", "CI/CD"]
-title = "083: DevOps'ish Survey, Career Advice Galore, 🚫 Bastions, Kubernetes, Ansible, HTTP/2, Etcd, and More"
-image ="https://shortcdn.com/devopsish/statue-of-liberty-shrouded.jpg"
-imagealt = "Statue of Liberty surrounded by fog"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-07-08'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/statue-of-liberty-shrouded.jpg
+imagealt: Statue of Liberty surrounded by fog
+slug: 083
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- ansible
+- survey
+- automation
+- CI/CD
+title: '083: DevOps''ish Survey, Career Advice Galore, 🚫 Bastions, Kubernetes, Ansible, HTTP/2, Etcd, and More'
+---
 
 It was a holiday week here in the United States. On Wednesday, we celebrated our independence. It is rather fitting that the DevOps'ish newsletter blasted past *1776* subscribers this week (the year the US declared Independence). After eighty-three weeks of doing this newsletter, I would like your help in improving it. I've put together [a quick sixteen question survey](http://devopsi.sh/survey) that will ultimately improve the format and content in DevOps'ish. The data from the [**DevOps'ish Summer 2018 Survey**](http://devopsi.sh/survey) will be a vital measurement to guide the direction of the newsletter going forward. No personally identifiable information is necessary to complete the survey. Please take a few minutes and let me know what you like or don't like about **DevOps'ish**.
 

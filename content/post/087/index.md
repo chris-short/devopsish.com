@@ -1,15 +1,24 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-08-05
-description ="Psychological Safety, Kubernetes, Ansible, Serverless, AWS, OpenFaaS, and More!"
-draft = false
-slug = "087"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "serverless", "psychological safety"]
-title = "087: Psychological Safety, Kubernetes, Ansible, Serverless, AWS, OpenFaaS, and More!"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-08-05'
+description: Psychological Safety, Kubernetes, Ansible, Serverless, AWS, OpenFaaS, and More!
+draft: false
+slug: 087
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- ansible
+- serverless
+- psychological safety
+title: '087: Psychological Safety, Kubernetes, Ansible, Serverless, AWS, OpenFaaS, and More!'
+---
 
 **Psychological safety** is something I have often talked about but have found difficult to find in my own work. There's a lot of reasons for this. In a previous life, I couldn't talk about my day to day work and life. As I have gotten further away from that time, It has gotten easier to adjust to being more transparent. With a permanent nerve injury, constant pain, and dealing with the VA it's often a lot for an employer to consume in one fell swoop. This has led me to slowly open the floodgates in the past. As I approached the date of a VA appointment for injections on July 25th, I realized that being 100% remote I needed to sit down with my boss. I needed to explain all the details of my VA disability, the rating, treatments, etc. for her. I cobbled together some notes to keep myself on track and some visual aids. To assist in understanding the scope of my injuries. This is the first time I've been able to gather all this data in one place.
 

@@ -1,18 +1,36 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-05-27
-description = ""
-draft = false
-slug = "077"
-tags = ["devops", "cloud native", "open source", "kubernetes", "go", "golang", "ChefConf", "security", "gdpr", "vgo", "community", "dep", "containers", "veteran", "containers", "CI/CD", "Docker"]
-title = "077: ChefConf 2018, GDPR, Go CoC 🙌, Go vgo 😞, Kubernetes, Laptop Giveaway, Security, and More"
-image ="https://shortcdn.com/devopsish/chicago-river-chefconf-2018.jpg"
-imagealt = "Chicago River from Michigan Ave Bridge after ChefConf"
-imagecap = "Chicago River from Michigan Ave Bridge after ChefConf"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-05-27'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/chicago-river-chefconf-2018.jpg
+imagealt: Chicago River from Michigan Ave Bridge after ChefConf
+imagecap: Chicago River from Michigan Ave Bridge after ChefConf
+slug: '077'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- go
+- golang
+- ChefConf
+- security
+- gdpr
+- vgo
+- community
+- dep
+- containers
+- veteran
+- containers
+- CI/CD
+- Docker
+title: '077: ChefConf 2018, GDPR, Go CoC 🙌, Go vgo 😞, Kubernetes, Laptop Giveaway, Security, and More'
+---
 
 I have a lot to talk about this week. I'm putting sections in the introduction for ease of reading (feel free to skip parts you're not mildly interested in). Also, thank you to this week's sponsors; [**Replicated**](https://www.replicated.com/) and [**GoCD**](https://www.gocd.org/2018/05/08/continuous-delivery-microservices-test-strategy/)!
 
@@ -146,4 +164,4 @@ A healthy debate happening on my LinkedIn page (of all places) about why contain
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 999644575659581441 >}}
+{{< x user="vbatts" id="999644575659581441" >}}

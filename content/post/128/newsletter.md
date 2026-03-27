@@ -1,15 +1,35 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-05-19
-description = "128: MDS, Mined Minds, Red Hat & IBM, Kubernetes Operating Systems, ReactiveOps Polaris, ~~Best~~ Practices, and More"
-draft = false
-slug = "128"
-tags = ["kubernetes", "devops", "open source", "cloud", "tech", "github", "container", "security", "linux", "infrastructure", "git", "GitHub", "MDS", "Mined Minds", "best practice", "practices", "vuln", "vulnerabilities", "open source contributor"]
-title = "128: MDS, Mined Minds, Red Hat & IBM, Kubernetes Operating Systems, ReactiveOps Polaris, ~~Best~~ Practices, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-05-19'
+description: '128: MDS, Mined Minds, Red Hat & IBM, Kubernetes Operating Systems, ReactiveOps Polaris, ~~Best~~ Practices, and More'
+draft: false
+slug: '128'
+tags:
+- kubernetes
+- devops
+- open source
+- cloud
+- tech
+- github
+- container
+- security
+- linux
+- infrastructure
+- git
+- GitHub
+- MDS
+- Mined Minds
+- best practice
+- practices
+- vuln
+- vulnerabilities
+- open source contributor
+title: '128: MDS, Mined Minds, Red Hat & IBM, Kubernetes Operating Systems, ReactiveOps Polaris, ~~Best~~ Practices, and More'
+---
 
 No. Contrary to what everyone I've talked to this week thinks, I'm not going to KubeCon Barcelona. I don't think I was really planning on it at the beginning of the year. I believe it was added to my schedule right before my Shingles diagnosis. Let me tell you, Shingles is bullshit. I've been battling a flare-up of the nerve pain today and it's gnarly af. I was going to discuss the use of the term "best practice" this week but, I need to go get some rest. Instead, lend me your thoughts. [The Tweet of the Week this week](https://twitter.com/Kate_Catlin/status/1128403226678587393) provides the thinking behind modifying or eliminating the use of the phrase "best practices". [I asked for clarification from the greater community this week](https://twitter.com/ChrisShort/status/1129342806307278848) and the conversation was insightful. Check it all out and let me know what you think (Twitter, email, Telegram, etc.)!
 
@@ -107,6 +127,6 @@ Remember the ransom attacks that hit Git repos (see [DevOps'ish 126](https://dev
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1128403226678587393 >}}
+{{< x user="Kate_Catlin" id="1128403226678587393" >}}
 
 Notes from this week's issue can be found [on GitHub](https://github.com/chris-short/devopsish.com).

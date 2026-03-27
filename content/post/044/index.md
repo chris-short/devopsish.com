@@ -1,20 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-10-08T06:01:01.065Z
-description = ""
-draft = false
-slug = "044"
-tags = ["devops", "cloud native", "open source", "kubernetes", "infrastructure", "github", "CI/CD"]
-title = "044: Kubernetes, Go, AWS, and Much More"
-image ="https://shortcdn.com/devopsish/paper-boat-fleet.jpg"
-imagealt = "Paper Boats Afloat"
-aliases = [
-    "devopsish-044-kubernetes-go-aws-and-much-more-5966422e27c"
-]
-
-+++
+---
+aliases:
+- devopsish-044-kubernetes-go-aws-and-much-more-5966422e27c
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-10-08T06:01:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/paper-boat-fleet.jpg
+imagealt: Paper Boats Afloat
+slug: '044'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- infrastructure
+- github
+- CI/CD
+title: '044: Kubernetes, Go, AWS, and Much More'
+---
 
 I had the pleasure to travel to our South Florida office this week. I participated in five quarterly planning meetings and Bankrate's 2nd Hackathon. The quarterly planning meetings were pretty cool. It was interesting to see what all our dev teams were going to be pushing forward with for the year. But, the highlight of the week was the Hackathon. There were some incredibly creative ideas built around the Bankrate platform that I'm sure a few will be brought into our products soon. I had the modest goal of standing up a Kubernetes cluster in AWS and deploying an example app to it. Luckily I had enough support from our team of Phippineers to make it happen. Phippineers you ask? Several members of the team have only heard me talk about Kubernetes. The first thing I asked the team to do was to watch [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) to get an idea of the concepts at play. In the guide, a cute little giraffe named [Phippy](https://deis.com/phippy/) represents a PHP app looking for a home. The team latched on to this and off we went using Terraform to roll out [CoreOS Tectonic](https://coreos.com/tectonic) to AWS. There were some bumps along the way and at one point I was almost ready to throw in the towel. But, with some help from various [CoreOS folks on Twitter](https://twitter.com/ChrisShort/status/915643979470970880) we got everything up and running. One of the devs on the team set out assembling a Laravel app to be deployed to the cluster. They marveled at the ability to roll out multiple versions of the app, scale up the whole cluster, and scale it back down by editing a variable here or there. It was an awesome experience! My team didn't win any prizes or accolades but we definitely took a huge leap towards our future infrastructure.
 
@@ -109,4 +116,4 @@ On October 24th, [DevOps'ish](https://devopsish.com/) will be supporting the Liv
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 915578413016080386 >}}
+{{< x user="bridgetkromhout" id="915578413016080386" >}}

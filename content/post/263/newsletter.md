@@ -1,14 +1,40 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-04-03
-description = ["TSMC says demand slowing, yet another BGP mishap, Pulumiverse, Spring4Shell, etcd corruption issue, kaar, kubectl-detector-for-docker-socket, and more"]
-draft = false
-slug = "263"
-tags = ["Kubernetes", "etcd data corruption issue", "SLOs", "GitOps", "etcd", "Detector for Docker Socket", "supply chain", "attacks", "hackers", "MFA", "reliability", "BGP", "Linux", "kaar", "kubectl", "community", "pulumiverse", "TSMC", "cluster", "cloud", "process", "backups", "Amazon"]
-title = "DevOps'ish 263: TSMC says demand slowing, yet another BGP mishap, Pulumiverse, Spring4Shell, etcd data corruption issue, kaar, kubectl-detector-for-docker-socket, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-04-03'
+description:
+- TSMC says demand slowing, yet another BGP mishap, Pulumiverse, Spring4Shell, etcd corruption issue, kaar, kubectl-detector-for-docker-socket, and more
+draft: false
+slug: '263'
+tags:
+- Kubernetes
+- etcd data corruption issue
+- SLOs
+- GitOps
+- etcd
+- Detector for Docker Socket
+- supply chain
+- attacks
+- hackers
+- MFA
+- reliability
+- BGP
+- Linux
+- kaar
+- kubectl
+- community
+- pulumiverse
+- TSMC
+- cluster
+- cloud
+- process
+- backups
+- Amazon
+title: 'DevOps''ish 263: TSMC says demand slowing, yet another BGP mishap, Pulumiverse, Spring4Shell, etcd data corruption issue, kaar, kubectl-detector-for-docker-socket, and more'
+---
 
 This week's newsletter features some potentially good news about the chip supply chain, a BGP mishap involving Twitter, and a tale of foreign bribes at Microsoft according to a whistleblower. Also, How Go Mitigates Supply Chain Attacks, Lapsus$ and SolarWinds hackers both use the same old trick to bypass MFA, and a bunch of attacks and zero days. Rounding out the newsletter the Tools section brings us a new Detector for Docker Socket for Kubernetes from Justin Garrison, Kris Nóva's new shiny `kaar` ("tar for Kubernetes" Nóva called it), and the ultimate question of the year so far; Is Your Cluster Ready for v1.24?
 

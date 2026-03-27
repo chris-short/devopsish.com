@@ -1,15 +1,33 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-01-12
-description = "kubectl tree, SHA-1, Pulse Secure VPN vulnerability, data gravity, Falco, eBPF, Bash-my-AWS, and more"
-draft = false
-slug = "162"
-tags = ["data gravity", "AWS", "SHA-1", "DevOps", "developers", "eBPF", "VPN", "Pulse Secure", "vulnerability", "Kubenetes", "Falco", "Amazon", "bash", "kubectl", "cloud native", "open source", "OpenShift"]
-title = "162: kubectl tree, SHA-1, Pulse Secure VPN vulnerability, data gravity, Falco, eBPF, Bash-my-AWS, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-01-12'
+description: kubectl tree, SHA-1, Pulse Secure VPN vulnerability, data gravity, Falco, eBPF, Bash-my-AWS, and more
+draft: false
+slug: '162'
+tags:
+- data gravity
+- AWS
+- SHA-1
+- DevOps
+- developers
+- eBPF
+- VPN
+- Pulse Secure
+- vulnerability
+- Kubenetes
+- Falco
+- Amazon
+- bash
+- kubectl
+- cloud native
+- open source
+- OpenShift
+title: '162: kubectl tree, SHA-1, Pulse Secure VPN vulnerability, data gravity, Falco, eBPF, Bash-my-AWS, and more'
+---
 
 It felt like security dominated the news this week. A Pulse Secure VPN vulnerability is getting exploited. SHA-1 is effectively busted now. Firefox exploits need patching too. Meanwhile, Kubernetes news abounds with new talks, tools, and tips. Enjoy some other awesome deep dives, stories, and posts from across the industry too. Have a great week!
 

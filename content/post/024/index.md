@@ -1,21 +1,28 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2017"]
-date = 2017-05-21T14:01:01.401Z
-description = ""
-draft = false
-slug = "024"
-tags = ["devops", "cloud native", "open source", "kubernetes", "ansible", "hashicorp", "Docker"]
-title = "024: Week of 1495339200"
-image ="https://shortcdn.com/devopsish/Mohnfeld-by-Olli-Henze.jpg"
-imagealt = "Mohnfeld by Olli Henze"
-imagecap = "[Mohnfeld](https://www.flickr.com/photos/gruenewiese/14160612230) by Olli Henze"
-aliases = [
-    "devopsish-024-week-of-1495339200-fdfa5f34806"
-]
-
-+++
+---
+aliases:
+- devopsish-024-week-of-1495339200-fdfa5f34806
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2017'
+date: '2017-05-21T14:01:01Z'
+description: ''
+draft: false
+image: https://shortcdn.com/devopsish/Mohnfeld-by-Olli-Henze.jpg
+imagealt: Mohnfeld by Olli Henze
+imagecap: '[Mohnfeld](https://www.flickr.com/photos/gruenewiese/14160612230) by Olli Henze'
+slug: '024'
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- ansible
+- hashicorp
+- Docker
+title: '024: Week of 1495339200'
+---
 
 Ever have one of those weeks where you feel like more of a consultant than a full-time employee? That was my week. I do not mind it at all. But, sometimes it's nice to not be bombarded with questions all week long. Also, I hate building VPNs.
 

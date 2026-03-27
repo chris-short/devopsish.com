@@ -1,23 +1,39 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-10-28
-description = "AllThingsOpen, GitHub's Ups and Downs, Google's Grossness Grows, Serverless DevOps, Kubernetes, and More"
-draft = false
-slug = "099"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security", "serverless", "allthingsopen", "google", "code of conduct", "licenses", "Site Reliability Engineering", "SRE", "Linus Torvalds", "Docker"]
-title = "099: AllThingsOpen, GitHub's Ups and Downs, Google's Grossness Grows, Serverless DevOps, Kubernetes, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-10-28'
+description: AllThingsOpen, GitHub's Ups and Downs, Google's Grossness Grows, Serverless DevOps, Kubernetes, and More
+draft: false
+slug: 099
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- security
+- serverless
+- allthingsopen
+- google
+- code of conduct
+- licenses
+- Site Reliability Engineering
+- SRE
+- Linus Torvalds
+- Docker
+title: '099: AllThingsOpen, GitHub''s Ups and Downs, Google''s Grossness Grows, Serverless DevOps, Kubernetes, and More'
+---
 
 This was an incredibly busy week in tech news and events. First, [AllThingsOpen](https://allthingsopen.org/) was this week. For me, this included the annual [opensource.com](https://opensource.com/) Moderators meeting in Red Hat Tower. The conference was amazing but, I feel like it might have outgrown the Raleigh Convention Center. 4,100 people registered to attend AllThingsOpen and I'm pretty sure half of them tried to get to two talks I wasn't able to attend due to crowds. I got to spend and even monopolize time with some truly amazing folks. If you were at AllThingsOpen and we weren't able to connect my deepest apologies.
 
 GitHub had two significant outages this week that are discussed later. It's amazing to me how technology professionals treat these complex services they use every day as if they're air, water, and light. If you think running your code is hard, imagine how much harder it is to run the thing your code relies on. GitHub's week definitely ended on a high note though. The "[Microsoft acquisition of GitHub is complete. 🎉](https://blog.github.com/2018-10-26-github-and-microsoft/)"
 
 Google admitted to [giving golden handshakes to folks on their way out the door while keeping silent about misconduct claims](https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html). This is a horrendous display of stereotypical tech culture from a company that once marketed itself as the exact opposite of. As I asked on Twitter:
-
-{{< tweet 1055800303264677888 >}}
 
 More details and reaction regarding Google's gross behavior follows (they're also doing some shady things with hiring too). I'm considering abandoning as many Google products as I can get away with at this point (and this is after pretty much moving all my cloud resources over to Google Cloud).
 
@@ -111,6 +127,3 @@ Kubernetes is so powerful, it sometimes seems like magic. However, if not setup 
 
 [IBM/mac-ibm-enrollment-app](https://github.com/IBM/mac-ibm-enrollment-app): The Mac@IBM enrollment app makes setting up macOS with Jamf Pro more intuitive for users and easier for IT.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1054680928247799809 >}}

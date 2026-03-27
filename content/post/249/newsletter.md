@@ -1,15 +1,39 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-12-26
-description = ["The Log4j gift that keeps on giving, Kubernetes Contributor Awards, CKAD Help, web3 & NFTs, DuckDuckGo, self-hosting, EKS News, OpenKruise, and more"]
-draft = false
-slug = "249"
-tags = ["open source", "log4j", "Kubernetes", "cloud", "DevOps", "Rust", "Julia Ferraioli", "web3", "NFT", "GitOps", "NSO", "GitHub", "Erica Brescia", "maintainers", "vulnerability", "Corey Quinn", "artists", "Karpenter", "DuckDuckGo", "Cloud Native", "developers", "Kris Nova"]
-title = "DevOps'ish 249: The Log4j gift that keeps on giving, Kubernetes Contributor Awards, CKAD Help, web3 & NFTs, DuckDuckGo, self-hosting, EKS News, OpenKruise, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-12-26'
+description:
+- The Log4j gift that keeps on giving, Kubernetes Contributor Awards, CKAD Help, web3 & NFTs, DuckDuckGo, self-hosting, EKS News, OpenKruise, and more
+draft: false
+slug: '249'
+tags:
+- open source
+- log4j
+- Kubernetes
+- cloud
+- DevOps
+- Rust
+- Julia Ferraioli
+- web3
+- NFT
+- GitOps
+- NSO
+- GitHub
+- Erica Brescia
+- maintainers
+- vulnerability
+- Corey Quinn
+- artists
+- Karpenter
+- DuckDuckGo
+- Cloud Native
+- developers
+- Kris Nova
+title: 'DevOps''ish 249: The Log4j gift that keeps on giving, Kubernetes Contributor Awards, CKAD Help, web3 & NFTs, DuckDuckGo, self-hosting, EKS News, OpenKruise, and more'
+---
 
 Happy Holidays everyone! This is the last DevOps'ish of the year 2021. This month has this year into one that is somehow worse than 2020. I intend to continue the annual tradition of writing down my [learnings and expectations](https://chrisshort.net/2020-learnings-2021-expectations/) for 2021 and 2022. But, looking back, it's pretty challenging to say what to expect next year. I might land on more upheaval out of necessity. If there is a breakout technology/concept/company you think is about to get big in 2022, hit reply and let me know your thoughts (full credit given; make sure you share a link to your website or social media profile).
 

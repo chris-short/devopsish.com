@@ -1,13 +1,43 @@
-+++
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2022"]
-date = 2022-07-31
-description = ["Intro to eBPF, Lawfare looks at open source, Sextortion Victim Hacks Back, UEFI rootkit, UOR Framework, Intel's dividend amid CHIPS Act, and more"]
-draft = false
-slug = "278"
-tags = ["eBPF", "open source", "kernel", "Argo", "Linux", "security", "Kubernetes", "network", "cloud native", "observability", "Detroit", "developer", "devopsdays", "cloud", "system", "falco", "Windows", "engineering", "software", "cilium", "DevOps", "KubeCon", "code", "UEFI", "containers", "Intel"]
-title = "DevOps'ish 278: Intro to eBPF, Lawfare looks at open source, Sextortion Victim Hacks Back, UEFI rootkit, UOR Framework, Intel's dividend amid CHIPS Act, and more"
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2022'
+date: '2022-07-31'
+description:
+- Intro to eBPF, Lawfare looks at open source, Sextortion Victim Hacks Back, UEFI rootkit, UOR Framework, Intel's dividend amid CHIPS Act, and more
+draft: false
+slug: '278'
+tags:
+- eBPF
+- open source
+- kernel
+- Argo
+- Linux
+- security
+- Kubernetes
+- network
+- cloud native
+- observability
+- Detroit
+- developer
+- devopsdays
+- cloud
+- system
+- falco
+- Windows
+- engineering
+- software
+- cilium
+- DevOps
+- KubeCon
+- code
+- UEFI
+- containers
+- Intel
+title: 'DevOps''ish 278: Intro to eBPF, Lawfare looks at open source, Sextortion Victim Hacks Back, UEFI rootkit, UOR Framework, Intel''s dividend amid CHIPS Act, and more'
+---
 
 **ICYMI on Notes**: In [DevOps'ish 277](https://devopsish.com/277/) I stated I will no longer publish the weekly notes file on the website. They are still [made available on GitHub][1] as they have been for the past 170 issues. If you're curious about the why: spam emails that came as a result. Yeah, funny how that works.
 

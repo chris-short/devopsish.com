@@ -1,17 +1,29 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-07-29
-description = "Last Chance, Kubernetes, Knative, Ansible, Google Next, and More"
-draft = false
-slug = "086"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "ansible", "google", "knative", "survey", "build", "Docker"]
-title = "086: Last Chance, Kubernetes, Knative, Ansible, Google Next, and More"
-image ="https://shortcdn.com/devopsish/fox-86.jpg"
-imagealt = "Fox"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-07-29'
+description: Last Chance, Kubernetes, Knative, Ansible, Google Next, and More
+draft: false
+image: https://shortcdn.com/devopsish/fox-86.jpg
+imagealt: Fox
+slug: 086
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- ansible
+- google
+- knative
+- survey
+- build
+- Docker
+title: '086: Last Chance, Kubernetes, Knative, Ansible, Google Next, and More'
+---
 
 This is the last week to take the [**DevOps'ish Summer 2018 Survey**](https://devopsi.sh/survey). I can tell you definitively changes are coming to the newsletter. But, if you would like to have some influence on what those changes are please [take the survey](https://devopsi.sh/survey). The survey closes on Friday, August 3, 2018 at 1400 ET.
 
@@ -156,6 +168,3 @@ The DevOps Engineer will play an important role in supporting the 24x7 availabil
 
 **NOTE:** If you're a subscriber and looking for talent, please let me know. For the time being, I'm happy to feature job postings from subscribers for free.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1022104622981410816 >}}

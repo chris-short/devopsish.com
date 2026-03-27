@@ -1,15 +1,27 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2019"]
-date = 2019-09-01
-description = ""
-draft = false
-slug = "143"
-tags = ["DevOps", "Kubernetes", "cloud", "open source", "cloud native", "DevOps news", "Kubernetes news", "tanzu", "cluster", "javascript", "pacific"]
-title = "143: Fresh caught Pacific Tanzu, Cluster API, good God Google, JavaScript library ads, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2019'
+date: '2019-09-01'
+description: ''
+draft: false
+slug: '143'
+tags:
+- DevOps
+- Kubernetes
+- cloud
+- open source
+- cloud native
+- DevOps news
+- Kubernetes news
+- tanzu
+- cluster
+- javascript
+- pacific
+title: '143: Fresh caught Pacific Tanzu, Cluster API, good God Google, JavaScript library ads, and more'
+---
 
 ## DevOps'ish Last Week's Top Five
 
@@ -79,6 +91,6 @@ Event season is upon us but the good news is DevOps'ish has discounts to some of
 
 Please do the open source community a favor and read the whole thread.
 
-{{< tweet 1166100939792474112 >}}
+{{< x user="SimonCropp" id="1166100939792474112" >}}
 
 Notes from this week's issue can be found [here](https://github.com/chris-short/devopsish.com/blob/main/content/post/143/notes.md).

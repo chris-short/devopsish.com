@@ -1,15 +1,34 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-02-09
-description = "Knative annual report, CKA prep, cdpwn, sudo vuln, Kubernetes Operators, Konveyor, Apollo 11 vs USB-C Chargers, and more"
-draft = false
-slug = "166"
-tags = ["Knative", "Kubernetes", "cloud native", "open source", "cloud", "scale", "operators", "container", "observability", "infrastructure", "Linux", "GitLab", "cdpwn", "Cisco Discovery Protocal", "CDP", "VMware", "Kubernetes Operators", "Ansible Operators"]
-title = "166: Knative annual report, CKA prep, cdpwn, sudo vuln, Kubernetes Operators, Konveyor, Apollo 11 vs USB-C Chargers, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-02-09'
+description: Knative annual report, CKA prep, cdpwn, sudo vuln, Kubernetes Operators, Konveyor, Apollo 11 vs USB-C Chargers, and more
+draft: false
+slug: '166'
+tags:
+- Knative
+- Kubernetes
+- cloud native
+- open source
+- cloud
+- scale
+- operators
+- container
+- observability
+- infrastructure
+- Linux
+- GitLab
+- cdpwn
+- Cisco Discovery Protocal
+- CDP
+- VMware
+- Kubernetes Operators
+- Ansible Operators
+title: '166: Knative annual report, CKA prep, cdpwn, sudo vuln, Kubernetes Operators, Konveyor, Apollo 11 vs USB-C Chargers, and more'
+---
 
 ## Events
 
@@ -88,4 +107,4 @@ I'm speaking at the O'Reilly Infrastructure & Ops Conference this year. But, did
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1225445956734390273 >}}
+{{< x user="b0rk" id="1225445956734390273" >}}

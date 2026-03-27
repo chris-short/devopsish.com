@@ -1,15 +1,36 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-01-19
-description = "Mozilla and DigitalOcean Layoffs, NSA discloses Windows vuln, Kubernetes Bug Bounty Program, PrivateBin, and more"
-draft = false
-slug = "163"
-tags = ["Kubernetes", "cloud native", "DevOps", "NSA", "Mozilla", "DigitalOcean", "bug bounty", "developers", "Microsoft", "Windows", "AWS", "layoffs", "chaos engineering", "Ansible", "governance", "infosec", "security", "pair programming", "postmortems", "Y2K"]
-title = "163: Mozilla and DigitalOcean Layoffs, NSA discloses Windows vuln, Kubernetes Bug Bounty Program, PrivateBin, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-01-19'
+description: Mozilla and DigitalOcean Layoffs, NSA discloses Windows vuln, Kubernetes Bug Bounty Program, PrivateBin, and more
+draft: false
+slug: '163'
+tags:
+- Kubernetes
+- cloud native
+- DevOps
+- NSA
+- Mozilla
+- DigitalOcean
+- bug bounty
+- developers
+- Microsoft
+- Windows
+- AWS
+- layoffs
+- chaos engineering
+- Ansible
+- governance
+- infosec
+- security
+- pair programming
+- postmortems
+- Y2K
+title: '163: Mozilla and DigitalOcean Layoffs, NSA discloses Windows vuln, Kubernetes Bug Bounty Program, PrivateBin, and more'
+---
 
 Got a jam-packed newsletter this week, complete with relevant stories from The Washington Post and New York Times. It's an exciting time to be alive. I remember when something had to be earth-shattering to make these papers. Nowadays, it seems commonplace to read about low level, tech news (like the .org registry issues), and high stakes tech news all the same (like the NSA disclosing a Windows vuln). But, what these two stories this week highlight is the importance of governance. In one case, there is seemingly poor governance. In the other case, there is potentially the saving of billions of dollars of economic impact. Hopefully, we can somehow save the .org registry in the same way the NSA helped Microsoft this week.
 
@@ -95,4 +116,4 @@ DevOpsDay LA is a technical conference covering topics of software development, 
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1217682156710846464 >}}
+{{< x user="julian_dunn" id="1217682156710846464" >}}

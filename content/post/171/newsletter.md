@@ -1,15 +1,39 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-03-15
-description = "Rays of light that give us hope, A Minute on the Mic, new AMD & Intel vulns, Oxide Computer, good Operators, NTP in a Kubernetes cluster, and more"
-draft = false
-slug = "171"
-tags = ["cloud", "DevOps", "Kubernetes", "open source", "good", "container", "cloud native", "crisis", "Intel", "AMD", "GKE", "AWS", "control plane", "Open Policy Agent", "developers", "coronavirus", "orchestration", "EKS", "SARS", "cluster", "Operator", "Azure", "Linux"]
-title = "DevOps'ish 171"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-03-15'
+description: Rays of light that give us hope, A Minute on the Mic, new AMD & Intel vulns, Oxide Computer, good Operators, NTP in a Kubernetes cluster, and more
+draft: false
+slug: '171'
+tags:
+- cloud
+- DevOps
+- Kubernetes
+- open source
+- good
+- container
+- cloud native
+- crisis
+- Intel
+- AMD
+- GKE
+- AWS
+- control plane
+- Open Policy Agent
+- developers
+- coronavirus
+- orchestration
+- EKS
+- SARS
+- cluster
+- Operator
+- Azure
+- Linux
+title: DevOps'ish 171
+---
 
 In dark times, there are typically rays of light that can be found to give us hope. I read an article last weekend that I thought would be worth mentioning here this week. [*Will the coronavirus crisis, like Sars, give birth to the next big thing in China tech?*](https://www.scmp.com/tech/big-tech/article/3073961/will-coronavirus-crisis-sars-give-birth-next-big-thing-china-tech) looks at how the Chinese e-commerce giants Alibaba and JD.com got their start during the SARS crisis of 2002-2003. The coronavirus caused markets to tank this week. But, US banks had plenty of liquidity from the Federal Reserve and capital on hand thanks to regulations passed after the 2008 financial crisis. A global outbreak of this nature will have a significant economic impact. But, there will be some good that comes from this current crisis. One possible example is that a few companies have halted stock buybacks. [Stopping stock buybacks might do some good for the economy](https://hbr.org/2020/01/why-stock-buybacks-are-dangerous-for-the-economy) as companies maintain capital that can be invested in things that will be more impactful during this trying time. [Use your time effectively like Isaac Newton](https://www.washingtonpost.com/history/2020/03/12/during-pandemic-isaac-newton-had-work-home-too-he-used-time-wisely/) did. You might not invent calculus or theories for gravity and motion but, the time you save from commuting might be able to be put to some good use. Keep your heads up.
 
@@ -31,8 +55,6 @@ A new effort put together by [Laura Santamaria](https://nimbinatus.com/), A Minu
 
 ['Leave the ladder down behind you rather than pull it up'](https://www.siliconrepublic.com/people/consensys-claire-fitzpatrick)  
 "Claire Fitzpatrick of ConsenSys highlights some of the the rewarding and challenging parts of her career as a woman in tech."
-
-{{< tweet 1236670741464178688 >}}
 
 ## Process
 
@@ -88,6 +110,6 @@ Kubernetes deployment visibility like a pro
 
 ## DevOps'ish Tweet of the Week
 
-{{< tweet 1237387483987374083 >}}
+{{< x user="b0rk" id="1237387483987374083" >}}
 
 Want more? Be sure to check out the [notes from this week's issue](https://github.com/chris-short/devopsish.com/blob/main/content/post/171/notes.md) to see what didn't make it to the newsletter.

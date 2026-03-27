@@ -1,15 +1,43 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2020"]
-date = 2020-12-13
-description = "The Raddest Release, CentOS Stream, schools using phone hacking tech, FireEye hacked, I feel bad for Austin, GitOps, Honeycomb survey, and more"
-draft = false
-slug = "196"
-tags = ["DevOps", "Kubernetes", "People", "CentOS Stream", "change", "release", "weather", "database", "enhancements", "privacy", "contributor", "open source", "software", "security", "query", "cloud native", "community", "Austin", "Oracle", "cloud computing", "enterprise", "FireEye", "Microsoft", "GitOps", "Linkerd", "Apple", "developers"]
-title = "DevOps'ish 196"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2020'
+date: '2020-12-13'
+description: The Raddest Release, CentOS Stream, schools using phone hacking tech, FireEye hacked, I feel bad for Austin, GitOps, Honeycomb survey, and more
+draft: false
+slug: '196'
+tags:
+- DevOps
+- Kubernetes
+- People
+- CentOS Stream
+- change
+- release
+- weather
+- database
+- enhancements
+- privacy
+- contributor
+- open source
+- software
+- security
+- query
+- cloud native
+- community
+- Austin
+- Oracle
+- cloud computing
+- enterprise
+- FireEye
+- Microsoft
+- GitOps
+- Linkerd
+- Apple
+- developers
+title: DevOps'ish 196
+---
 
 Some people understand that the advancement of technology is marching at an ever quickening pace. We’re talking about exponential advancement every year. Five years ago, [Kubernetes](https://kubernetes.io/) was brand new. Now it's democratizing computing across clouds. Docker, the company behind some glue technology that made containers the new norm in software, has [died twice now](https://www.tariqislam.com/posts/kubernetes-docker-dep/). The size and shape of infrastructure has changed so much in the past two years, it's hard to remember ten years ago when [Vagrant](https://www.vagrantup.com/) was brand new.
 

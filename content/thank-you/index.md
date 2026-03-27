@@ -1,18 +1,15 @@
-+++
-
-author = "Chris Short"
-date = 2016-12-11
-description = "Thank You for Subscribing to DevOps'ish"
-draft = false
-slug = "thank-you"
-title = "Thank You"
-image = "https://shortcdn.com/devopsish/thank-you.jpg"
-imagealt = "Thank You for Subscribing to DevOps'ish"
-aliases = [
-    "thanks"
-]
-
-+++
+---
+aliases:
+- thanks
+author: Chris Short
+date: '2016-12-11'
+description: Thank You for Subscribing to DevOps'ish
+draft: false
+image: https://shortcdn.com/devopsish/thank-you.jpg
+imagealt: Thank You for Subscribing to DevOps'ish
+slug: thank-you
+title: Thank You
+---
 
 **Thank you for subscribing!** The newsletter uses a double opt-in sign-up process following anti-spam laws and best practices. Check your inbox and please confirm your subscription via e-mail.
 

@@ -1,18 +1,26 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-06-17
-description = "Improving the Workforce, Programming Myths, Kubernetes, New Books, and More"
-draft = false
-slug = "080"
-tags = ["devops", "cloud native", "open source", "kubernetes", "ansible", "CI/CD", "Docker"]
-title = "080: Improving the Workforce, Programming Myths, Kubernetes, New Books, and More"
-image ="https://shortcdn.com/devopsish/popping-smoke.jpg"
-imagealt = "Popping Smoke"
-imagecap = ""
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-06-17'
+description: Improving the Workforce, Programming Myths, Kubernetes, New Books, and More
+draft: false
+image: https://shortcdn.com/devopsish/popping-smoke.jpg
+imagealt: Popping Smoke
+imagecap: ''
+slug: 080
+tags:
+- devops
+- cloud native
+- open source
+- kubernetes
+- ansible
+- CI/CD
+- Docker
+title: '080: Improving the Workforce, Programming Myths, Kubernetes, New Books, and More'
+---
 
 This week I announced [I am leaving SJ Technologies](https://twitter.com/ChrisShort/status/1006966230186627072) on June 22, 2018. It's not an easy decision either. I was pretty happy at SJ but, when I announce where I'm landing everyone will completely understand why I'm making the move. I also finished my NEXUS application this week. It made me realize that I have a problem: I change jobs too often. A lot of folks have said that and I've always discredited it slightly. But, when I look back since I've left the Air Force there's a lot of [resume](https://chrisshort.net/curriculum-vitae/) there. What's the issue here? Clearly it's me. Or is it? There are some legit reasons in all of these job changes (pay raises, acquisitions, etc.). But, at some point, it makes you wonder, "WTF is my problem?" I'd like to say that I am on a journey of continual improvement. But, to be honest, I want to be well compensated and work for a great team at Google, Red Hat, Facebook, GitLab, or Linux Foundation. Every job is a step towards that goal. Life is weird, opportunities come and go, and I've been working towards a goal.
 
@@ -102,6 +110,3 @@ AnsibleFest is the annual user conference for the Ansible community and Red Hat 
 [DevOps Engineer at TiVo in Durham, NC](http://jobs.jobvite.com/careers/tivo/job/o1PA7fwh?__jvst=Employee%20Referral&__jvsd=srq0nhw0&__jvsc=Twitter&bid=ndUrYFwG)  
 As a DevOps Engineer, you'll be part of a small operations team responsible for engineering and maintaining the production infrastructure for Tivo's Advanced Search and Recommendations platform in the cloud and on-premises.
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1006619292987731969 >}}

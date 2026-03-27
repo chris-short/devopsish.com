@@ -1,15 +1,43 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2021"]
-date = 2021-01-31
-description = "Job hopping, Block Party, Perl.com pain, SSPL sucks, sudo vuln, cloud trends, the beauty of Windows 3.11, and more"
-draft = false
-slug = "203"
-tags = ["cloud", "Cloud Native", "DevOps", "open source", "Red Hat", "network", "Windows", "sudo", "Tracy Chou", "AWS", "trends", "nmap", "LaunchDarkly", "GitOps", "compensation", "culture", "impact", "community", "development", "software development", "Solarwinds", "security", "disinformation", "infrastructure", "runtime", "Microsoft", "IBM"]
-title = "DevOps'ish 203: Job hopping, Block Party, Perl.com pain, SSPL sucks, sudo vuln, cloud trends, the beauty of Windows 3.11, and more"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2021'
+date: '2021-01-31'
+description: Job hopping, Block Party, Perl.com pain, SSPL sucks, sudo vuln, cloud trends, the beauty of Windows 3.11, and more
+draft: false
+slug: '203'
+tags:
+- cloud
+- Cloud Native
+- DevOps
+- open source
+- Red Hat
+- network
+- Windows
+- sudo
+- Tracy Chou
+- AWS
+- trends
+- nmap
+- LaunchDarkly
+- GitOps
+- compensation
+- culture
+- impact
+- community
+- development
+- software development
+- Solarwinds
+- security
+- disinformation
+- infrastructure
+- runtime
+- Microsoft
+- IBM
+title: 'DevOps''ish 203: Job hopping, Block Party, Perl.com pain, SSPL sucks, sudo vuln, cloud trends, the beauty of Windows 3.11, and more'
+---
 
 We don't talk about salaries in the US like people do in other countries. Apparently, we citizens of the United States are extremely conservative when it comes to this topic. I'd like to see that change in my lifetime.
 

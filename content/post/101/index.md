@@ -1,15 +1,34 @@
-+++
-
-author = "Chris Short"
-categories = ["Weekly", "Newsletter", "DevOps News", "Cloud Native News", "Open Source News", "2018"]
-date = 2018-11-11
-description = "Self-Care, Kubernetes, Red Hat Acquisition, Veterans, HQ2, Heptio Acquisition, and More"
-draft = false
-slug = "101"
-tags = ["devops", "cloud native", "cloud", "open source", "kubernetes", "automation", "ansible", "security", "serverless", "Red Hat", "ibm", "acquisition", "self-care", "veterans", "hq2", "vmware", "heptio", "Docker"]
-title = "101: Self-Care, Kubernetes, Red Hat Acquisition, Veterans, HQ2, Heptio Acquisition, and More"
-
-+++
+---
+author: Chris Short
+categories:
+- Weekly
+- Newsletter
+- '2018'
+date: '2018-11-11'
+description: Self-Care, Kubernetes, Red Hat Acquisition, Veterans, HQ2, Heptio Acquisition, and More
+draft: false
+slug: '101'
+tags:
+- devops
+- cloud native
+- cloud
+- open source
+- kubernetes
+- automation
+- ansible
+- security
+- serverless
+- Red Hat
+- ibm
+- acquisition
+- self-care
+- veterans
+- hq2
+- vmware
+- heptio
+- Docker
+title: '101: Self-Care, Kubernetes, Red Hat Acquisition, Veterans, HQ2, Heptio Acquisition, and More'
+---
 
 Self-care is important. It's been a stressful past two weeks for me. This morning, I find myself reaching out to friends talking about anxiety (clearly mine isn't being managed effectively). But, in the past two weeks, I've gone from uncontrollable pain to trigger point injection pain to soreness from coughing (weather). Finally, yesterday, I got some relief thanks to trying something different. But, I forgot to eat until 2 PM.
 
@@ -97,6 +116,3 @@ Operations teams have seen major benefits from DevOps. Now those benefits are ex
 
 [Open-Source Phishing Framework](https://getgophish.com/) — "Gophish is a powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing."
 
-## DevOps'ish Tweet of the Week
-
-{{< tweet 1060656756735516672 >}}
