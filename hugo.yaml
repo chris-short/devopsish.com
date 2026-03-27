@@ -19,8 +19,8 @@ permalinks:
 
 menus:
   main:
-    - name: About
-      url: /about/
+    - name: Archive
+      url: /archive/
       weight: 10
     - name: Subscribe
       url: /subscribe/
@@ -67,6 +67,7 @@ params:
   env: production
   footer:
     text: "1150 Atlantic St #108, Milford, MI 48381"
+    aboutLink: "/about/"
     firehoseLink: "/firehose/"
   label:
     text: "DevOps'ish"
