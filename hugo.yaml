@@ -28,6 +28,9 @@ menus:
     - name: Sponsor
       url: /sponsor/
       weight: 30
+    - name: Search
+      url: /search/
+      weight: 40
 
 
 module:
