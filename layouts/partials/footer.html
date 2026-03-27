@@ -2,7 +2,7 @@
 <footer class="footer">
     {{- with site.Params.footer.firehoseLink }}
         <a href="{{ . }}">Firehose</a>
-        {{- print " · "}}
+        <br>
     {{- end }}
     {{- with site.Params.footer.text }}
         {{ . | markdownify }}
