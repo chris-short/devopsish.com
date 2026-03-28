@@ -45,4 +45,4 @@ Most of these "Suggested Reads" land in a newsletter I write called, DevOps'ish.
 
 ### Friday, 9 AM ET (Podcast with Giphy)
 
-Don't forget, DevOps'ish has a podcast now. We look at the news behind the news and provide you a way to participate as well. Check out the latest newsletter for details on the next podcast and subscribe today: https://devopsish.com/podcast
+Don't forget, DevOps'ish has a podcast now. We look at the news behind the news and provide you a way to participate as well. Check out the latest newsletter for details on the next podcast and subscribe today: https://creators.spotify.com/pod/profile/devopsish/

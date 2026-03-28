@@ -29,7 +29,7 @@ Remember, any news that **I** add to my info sharing "Firehose" will land in the
 
 Join the Twitter Space to participate and ask questions. Bring some friends along too! Follow me on [Twitter](https://twitter.com/ChrisShort) to get notified about upcoming Twitter Spaces. Subscribe to the [DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish/) via your podcasting software of choice so you can listen on Mondays on your lunch break or ride home.
 
-Learn more about [The DevOps'ish Podcast](https://devopsish.com/podcast/) and listen to [last week's episode](https://creators.spotify.com/pod/profile/devopsish/episodes/The-DevOpsish-Podcast-2022-09-26-e1od700).
+Learn more about [The DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish//) and listen to [last week's episode](https://creators.spotify.com/pod/profile/devopsish/episodes/The-DevOpsish-Podcast-2022-09-26-e1od700).
 
 ## O'Reilly Book on Observability Engineering—Get Yours Free from Honeycomb!
 

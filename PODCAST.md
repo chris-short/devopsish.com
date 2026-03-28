@@ -102,7 +102,7 @@ The alternate method is to pull it from your [Twitter data archive](https://twit
 
 ### Distribution (aka Anchor.fm)
 
-All distribution is done via Anchor. The web site has a [Podcast page](https://devopsish.com/podcast) that makes use of the [`podcast` Hugo shortcode](https://github.com/chris-short/devopsish.com/blob/main/layouts/shortcodes/podcast.html) in the code base.
+All distribution is done via Anchor. The web site has a [Podcast page](https://creators.spotify.com/pod/profile/devopsish/) that makes use of the [`podcast` Hugo shortcode](https://github.com/chris-short/devopsish.com/blob/main/layouts/shortcodes/podcast.html) in the code base.
 
 ## Newsletter
 

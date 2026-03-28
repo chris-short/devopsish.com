@@ -18,7 +18,7 @@ Writing a newsletter is like working under a constant deadline. DevOps'ish is ma
 
 Every Q4 (October), I ponder long and hard about continuing DevOps'ish. It was a topic of discussion at KubeCon with my close friends. Before I got the doctor's order, I had decided to put DevOps'ish into hiatus mode at the end of the year. It has been an excellent six-year run. I've learned a lot, and I hope you have too. But, in light of this recent news, I have to idle the newsletter immediately.
 
-DevOps'ish has accomplished its primary goals. It was important to me in 2016 to make a name for myself in this industry, have a tool to help further my career, and as a bonus, become a [respected DevOps publication][1].
+DevOps'ish has accomplished its primary goals. It was important to me in 2016 to make a name for myself in this industry, have a tool to help further my career, and as a bonus, become a respected DevOps publication.
 
 All good things must come to an end. It's hard to let go of something you've built. As I said, I wanted it to go differently. A few folks have offered to help over the years, but I liked the tone of DevOps'ish to stay the same. My morals and values drive the newsletter. That's almost impossible to replicate.
 
@@ -40,7 +40,6 @@ What should you you read instead? I've maintained [kubenews.net](https://kubenew
 
 Follow me on [Twitter][7], [LinkedIn][8], and [Mastodon][9].
 
-[1]: https://devopsish.com/praise
 [2]: https://devopsish.com
 [3]: https://github.com/chris-short/devopsish.com
 [4]: https://www.reddit.com/r/devopsish/
@@ -54,7 +53,7 @@ Follow me on [Twitter][7], [LinkedIn][8], and [Mastodon][9].
 
 ### The DevOps'ish Podcast
 
-[The DevOps'ish Podcast](https://devopsish.com/podcast/) is on hiatus due to the health concerns explained in the introduction. But, it could return if I can stabilize my health ([iCal](https://devopsi.sh/iCal) and [Google Calendar](https://devopsi.sh/GCal)).
+[The DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish//) is on hiatus due to the health concerns explained in the introduction. But, it could return if I can stabilize my health ([iCal](https://devopsi.sh/iCal) and [Google Calendar](https://devopsi.sh/GCal)).
 
 ### O'Reilly Book on Observability Engineering—Get Yours Free from Honeycomb!
 

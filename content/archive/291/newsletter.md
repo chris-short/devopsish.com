@@ -16,7 +16,7 @@ Let me be abundantly clear. I had a great KubeCon. It was rough physically, thou
 
 Every KubeCon, I tell myself, "Take Wednesday completely off, and you'll make it through the whole thing." Every time, I fail. This past Wednesday wound up being the busiest day. I also over-extend myself to do more during KubeCon than anyone else could; *this habit dies now*.
 
-It was apparent that I'd bit off more than I could chew when [I said I was bringing video gear](https://twitter.com/ChrisShort/status/1583434676105986050) this time. I got so many responses there was no way I was going to get everyone or even have time to get some process together. I needed a process to manage the deluge of responses. I ended up saying, "I'll follow up next week." [The DevOps'ish Podcast](https://devopsish.com/podcast/) could use y'alls voices.
+It was apparent that I'd bit off more than I could chew when [I said I was bringing video gear](https://twitter.com/ChrisShort/status/1583434676105986050) this time. I got so many responses there was no way I was going to get everyone or even have time to get some process together. I needed a process to manage the deluge of responses. I ended up saying, "I'll follow up next week." [The DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish//) could use y'alls voices.
 
 I did notice this year, in particular, that Tuesday was relatively tranquil. Tuesday may be the key to my survival. I am at a point where I mentally and physically need a break to make it Sunday through Friday. As I said on Justin Garrison's pre-KubeCon Twitter Space, "KubeCon is the equivalent to our Super Bowl." Folks who work in the Kubernetes space prep all year for two events. Other folks at more prominent companies likely have their events to prep for as well. AWS employees get [re:Invent](https://reinvent.awsevents.com/) after KubeCon (which adds another more substantial than-Super Bowl-like event). Two Super Bowls and Super Bowl++ a year can challenge anyone.
 
@@ -50,13 +50,13 @@ Now I need some time to relax.
 
 ### The DevOps'ish Podcast
 
-[The DevOps'ish Podcast](https://devopsish.com/podcast/) is back for its super spooky edition. No it won't be scary unless you bring up Kubernetes Policies; then I'll tell you not many people use them, like at all ([take this survey](https://www.surveymonkey.com/r/T3PM9J8) if you want to try and help fix that).
+[The DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish//) is back for its super spooky edition. No it won't be scary unless you bring up Kubernetes Policies; then I'll tell you not many people use them, like at all ([take this survey](https://www.surveymonkey.com/r/T3PM9J8) if you want to try and help fix that).
 
 [Join the Twitter Space](https://twitter.com/i/spaces/1dRKZMoeDzbxB) to participate **LIVE** next Monday, October 31th, 10 AM ET/14:00 UTC ([iCal](https://devopsi.sh/iCal) and [Google Calendar](https://devopsi.sh/GCal)).
 
 Bring some friends along too!
 
-Subscribe to the [DevOps'ish Podcast](https://devopsish.com/podcast) via your podcasting app of choice so you can listen on Mondays on your ride home or any ole time.
+Subscribe to the [DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish/) via your podcasting app of choice so you can listen on Mondays on your ride home or any ole time.
 
 ## O'Reilly Book on Observability Engineering—Get Yours Free from Honeycomb!
 

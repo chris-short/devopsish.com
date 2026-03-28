@@ -10,7 +10,7 @@ title: 'DevOps''ish 289: Wall of Awful, Intel Layoffs Soon, mastodon.technology 
 
 ### The DevOps'ish Podcast
 
-[The DevOps'ish Podcast](https://devopsish.com/podcast/) is off this week. Join us next Monday, October 17th, 10 AM ET/14:00 UTC ([iCal](https://devopsi.sh/iCal) and [Google Calendar](https://devopsi.sh/GCal)).
+[The DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish//) is off this week. Join us next Monday, October 17th, 10 AM ET/14:00 UTC ([iCal](https://devopsi.sh/iCal) and [Google Calendar](https://devopsi.sh/GCal)).
 
 [Join the Twitter Space](https://twitter.com/i/spaces/1OyKAVmZekqGb) to participate **LIVE**! 
 Bring some friends along too!

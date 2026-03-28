@@ -42,13 +42,13 @@ Let's make this the best KubeCon yet, y'all.
 
 ### The DevOps'ish Podcast
 
-[The DevOps'ish Podcast](https://devopsish.com/podcast/) is off this week for KubeCon (I'll be at the Contributor Summit on Monday).
+[The DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish//) is off this week for KubeCon (I'll be at the Contributor Summit on Monday).
 
 [Join the Twitter Space](https://twitter.com/i/spaces/1dRKZMoeDzbxB) to participate **LIVE** next Monday, October 31th, 10 AM ET/14:00 UTC ([iCal](https://devopsi.sh/iCal) and [Google Calendar](https://devopsi.sh/GCal)).
 
 Bring some friends along too!
 
-Subscribe to the [DevOps'ish Podcast](https://devopsish.com/podcast) via your podcasting app of choice so you can listen on Mondays on your ride home or any ole time.
+Subscribe to the [DevOps'ish Podcast](https://creators.spotify.com/pod/profile/devopsish/) via your podcasting app of choice so you can listen on Mondays on your ride home or any ole time.
 
 ## O'Reilly Book on Observability Engineering—Get Yours Free from Honeycomb!
 
