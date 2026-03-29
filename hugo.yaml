@@ -69,6 +69,7 @@ params:
   footer:
     text: "1150 Atlantic St #108, Milford, MI 48381"
     aboutLink: "/about/"
+    contactLink: "/contact/"
     tosLink: "/terms/"
     firehoseLink: "/firehose/"
   label:
