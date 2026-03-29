@@ -1,12 +1,19 @@
 ---
+ShowReadingTime: false
+ShowToc: false
+TocOpen: false
 aliases:
 - thanks
 author: Chris Short
+cover:
+  alt: "Neon Thank You Sign"
+  caption: Thank you for subscribing to DevOps'ish
+  image: https://shortcdn.com/devopsish/thank-you.jpg
+  relative: false
 date: '2016-12-11'
 description: Thank You for Subscribing to DevOps'ish
+disableShare: true
 draft: false
-image: https://shortcdn.com/devopsish/thank-you.jpg
-imagealt: Thank You for Subscribing to DevOps'ish
 slug: thank-you
 title: Thank You
 ---
