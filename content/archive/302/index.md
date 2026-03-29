@@ -16,6 +16,11 @@ Sashiko is worth your full attention. Google engineers built an agentic AI code-
 [The era of the "black box" CI runner is over](https://fandf.co/4bPRygB)  
 Your CI is slow and it’s not the runner’s fault. It’s the 45-second cold starts, the sequential  steps, and the log files you’re scrolling through at 11pm. Depot CI is a new CI engine that runs your existing GitHub Actions workflows. Jobs start in 2-3 seconds. Steps run in parallel. You can SSH into a failing job instead of guessing from logs. One command to migrate, $0.0001/sec to run. Same YAML, same actions, no rewrite. *SPONSORED*
 
+## Events
+
+[Cloud Native Days Romania](https://cloudnativedays.ro/)  
+Two days of cloud native talks, hands-on workshops, and strong community momentum - **18–19 May** at the Radisson Blu, Bucharest. Join developers, platform engineers, DevOps practitioners, engineering leaders, and cloud enthusiasts for the 3rd edition of Romania’s community-driven Cloud Native Days, bringing practical Kubernetes use cases and modern cloud native systems to the stage.
+
 [Trivy Supply Chain Attack Expands to Compromised Docker Images](https://socket.dev/blog/trivy-docker-images-compromised) - Docker images for Trivy versions 0.69.4, 0.69.5, and 0.69.6 were found to contain malware and published to Docker Hub without corresponding GitHub releases, expanding the scope of the TeamPCP infostealer campaign targeting Aqua Security’s toolchain.
 
 [Guidance for Detecting, Investigating, and Defending Against the Trivy Supply Chain Compromise](https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/) - Microsoft’s security team analyzes how threat actors compromised the trusted Trivy vulnerability scanner distribution to inject credential-stealing malware into CI/CD pipelines globally, and provides defensive recommendations.

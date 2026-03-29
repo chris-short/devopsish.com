@@ -7,7 +7,6 @@
     - [Work work](#work-work)
     - [Choosing content for the newsletter](#choosing-content-for-the-newsletter)
   - [Prohibitions](#prohibitions)
-    - [No Medium, No Substack](#no-medium-no-substack)
     - [Trash talking](#trash-talking)
   - [Sections](#sections)
     - [Intro](#intro)
@@ -50,12 +49,6 @@ I asked Corey Quinn once about including a potentially controversial piece of co
 - Cloud
 
 ## Prohibitions
-
-### No Medium, No Substack
-
-I have a hard standing rule not to publish content from medium.com or substack.com (see [nomedium.dev](https://nomedium.dev)). The authenticity, accessibility, correctness, and page load speed are all problems on these sites. Additionally, Medium provides a terrible experience for readers.
-
-There are some exceptions here. Some brands are using Medium as a CMS only. The [Netflix Engineering blog](https://netflixtechblog.com/) is one such example. They are using Medium as a platform only, are bringing their domains, and not monetizing the content in any way. These are safer to link to, but the No Medium rule is best adhered to as often as possible.
 
 ### Trash talking
 
@@ -118,10 +111,10 @@ Once you've built out the web version of the newsletter in your IDE and are almo
 1. Use the issue number and description as the subject (testing shows putting the description in the subject improves open rates).
 1. Use the previous week's newsletter as a template for this week's newsletter.
 1. Iterate all numbers, titles, subjects, etc. as needed.
-3. Using a [Markdown to HTML converter](https://codebeautify.org/markdown-to-html), copy and paste the HTML into the body of the newsletter.
-4. Make sure you are proofreading as you go as you're in the browser tools like [Grammarly](https://grammarly.com/) or [Hemingway Editor](http://www.hemingwayapp.com/) are vitally important at typo and grammar correction. Be sure to make those corrections to the web issue in your IDE as well. You could also do this as a separate step entirely (for more extended intros, it's best to write them then run them through the tools for corrections sooner rather than later).
-5. Update the View in Browser​ link is updated. At the moment, update [devopsi.sh/latest](https://devopsi.sh/latest) [devopsi.sh/notes](https://devopsi.sh/notes) on [Rebrandly](https://app.rebrandly.com/).
-6. Schedule it to send at 0700 UTC on Sunday.
+1. Using a [Markdown to HTML converter](https://codebeautify.org/markdown-to-html), copy and paste the HTML into the body of the newsletter.
+1. Make sure you are proofreading as you go as you're in the browser tools like [Grammarly](https://grammarly.com/) or [Hemingway Editor](http://www.hemingwayapp.com/) are vitally important at typo and grammar correction. Be sure to make those corrections to the web issue in your IDE as well. You could also do this as a separate step entirely (for more extended intros, it's best to write them then run them through the tools for corrections sooner rather than later).
+1. Update the View in Browser​ link is updated. At the moment, update [devopsi.sh/latest](https://devopsi.sh/latest) [devopsi.sh/notes](https://devopsi.sh/notes) on [Rebrandly](https://app.rebrandly.com/).
+1. Schedule it to send at 0700 UTC on Sunday.
 
 ## Publishing the web version of the newsletter
 

@@ -6,3 +6,4 @@
 /node_modules
 /log
 /public
+!/public/_redirects

@@ -15,7 +15,7 @@ These can and should be modified every week a little to so that algorithms don't
 
 ### Sunday AM (Out Now)
 
-Hot off the presses! DevOps'ish XXX — DESC https://devopsish.com/XXX/ #DevOps #Cloud #Kubernetes #AI #Tech #News #Newsletter
+Hot off the presses! DevOps'ish XXX: DESC https://devopsish.com/XXX/ #DevOps #Cloud #Kubernetes #AI #Tech #News #Newsletter
 
 ### Monday Midday (11-1 Monday, Alt Jumpstart)
 
@@ -23,7 +23,7 @@ Get a jump start on your workweek with DevOps'ish XXX — DESC https://devopsis
 
 ### Tuesday 9 AM (Click)
 
-The latest in Cloud Native, DevOps, Open Source, AI, tech industry news, culture, and the 'ish between. DevOps'ish XXX — DESC https://devopsish.com/XXX #DevOps #Cloud #Kubernetes #AI #Tech #News #Newsletter
+The latest in Cloud Native, DevOps, Open Source, AI, tech industry news, culture, and the 'ish between. DevOps'ish XXX: DESC https://devopsish.com/XXX #DevOps #Cloud #Kubernetes #AI #Tech #News #Newsletter
 
 ### Wednesday PM (Influencer Social)
 
