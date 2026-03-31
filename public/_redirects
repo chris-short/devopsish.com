@@ -245,7 +245,7 @@
 /what-is-devops https://amzn.to/3rtgfJW 301
 
 # Subscriber flow redirect
-/confirm-subscription/* https://buttondown.com/devopsish/confirm-subscription/:splat: 302
+/confirm-subscription/* https://buttondown.com/devopsish/confirm-subscription/:splat 302
 
 # Dynamic redirects at the end for sake of processing power
 /*/Comments /:splat/ 301
