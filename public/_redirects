@@ -244,6 +244,9 @@
 /podcast https://creators.spotify.com/pod/profile/devopsish/ 302
 /what-is-devops https://amzn.to/3rtgfJW 301
 
+# Subscriber flow redirect
+/confirm-subscription/* https://buttondown.com/devopsish/confirm-subscription/:splat: 302
+
 # Dynamic redirects at the end for sake of processing power
 /*/Comments /:splat/ 301
 /archive/* /:splat/ 301
