@@ -4,7 +4,7 @@ date: '2026-04-05'
 description: ""
 draft: false
 slug: '303'
-title: "DevOps'ish 303: "
+title: "DevOps'ish 303: Claude Code's Source, Iran's Tech Hit List, Microsoft's rough times, and More"
 ---
 
 Happy Easter! This week, I needed a term to describe the Easter Bunny as sneaky, and I came up with "Resurrection Rabbit." Max thought it was funny in Elmer Fudd parlance, "Rascally Resurrection Rabbit."
