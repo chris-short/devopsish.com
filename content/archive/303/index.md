@@ -1,7 +1,7 @@
 ---
 author: Chris Short
 date: '2026-04-05'
-description: ""
+description: "Anthropic accidentally leaked 512,000 lines of Claude Code's TypeScript source; what does it reveal? Plus: Iran targets US tech companies, California's AI executive order, Microsoft's worst quarter since 2008, and more."
 draft: false
 slug: '303'
 title: "DevOps'ish 303: Claude Code's Source, Iran's Tech Hit List, Microsoft's rough times, and More"
