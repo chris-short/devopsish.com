@@ -28,6 +28,11 @@ Every week [**DevOps’ish**](/) is sent to discerning developers, DevOps profes
 - Brand recognition and engagement from our worldwide readers
 - Previous sponsors include O'Reilly, Indeed, Datadog, Honeycomb, ThoughtWorks, Depot, and many more
 
+## Newsletter Performance
+
+Open Rate: 46%
+Click Rate: 11%
+
 ## Pricing
 
 Effective 2026-01-18
