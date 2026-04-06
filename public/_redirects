@@ -237,19 +237,20 @@
 /275/notes https://github.com/chris-short/devopsish.com/blob/main/content/archive/275/notes.md 301
 /276/notes https://github.com/chris-short/devopsish.com/blob/main/content/archive/276/notes.md 301
 
+# Dynamic redirects at the end for the sake of processing power
+/*/Comments /:splat/ 301
+/archive/* /:splat/ 301
+/media/* https://medium.com/media/:splat 301
+/tagged/* / 301
+/trending* / 301
+
 # Redirects out of necessity, some because of Tumblr (add individual ones here)
 /all / 301
 /icons/favicon-hatch-editor.ico /favicons/favicon.ico 301
 /icons/favicon-medium-editor.ico /favicons/favicon.ico 301
 /podcast https://creators.spotify.com/pod/profile/devopsish/ 302
 /what-is-devops https://amzn.to/3rtgfJW 301
+/tags/* / 301
 
 # Subscriber flow redirect
 /confirm-subscription/* https://buttondown.com/devopsish/confirm-subscription/:splat 302
-
-# Dynamic redirects at the end for sake of processing power
-/*/Comments /:splat/ 301
-/archive/* /:splat/ 301
-/media/* https://medium.com/media/:splat 301
-/tagged/* /tags/:splat/ 301
-/trending* / 301
