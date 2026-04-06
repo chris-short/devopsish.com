@@ -30,8 +30,8 @@ Every week [**DevOps’ish**](/) is sent to discerning developers, DevOps profes
 
 ## Newsletter Performance
 
-Open Rate: 46%
-Click Rate: 11%
+- Open Rate: 46%
+- Click Rate: 11%
 
 ## Pricing
 
