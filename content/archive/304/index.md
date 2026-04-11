@@ -1,6 +1,6 @@
 ---
 author: Chris Short
-date: '2026-04-12'
+date: '2026-04-11'
 description: "AI conformance hits Kubernetes, quantum clocks are ticking, chips are worth billions, and the AGI debate is officially meaningless."
 draft: false
 slug: '304'
