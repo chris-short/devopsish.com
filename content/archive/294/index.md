@@ -1,4 +1,7 @@
 ---
+aliases:
+- devopsish-294
+- /archive/devopsish-294
 author: Chris Short
 date: '2026-01-25'
 draft: false
