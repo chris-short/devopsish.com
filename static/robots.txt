@@ -1,7 +1,5 @@
 User-Agent: *
 Disallow: /confirmation
-Disallow: /contact
-Disallow: /terms
 Disallow: /thank-you
 Allow: /
 
