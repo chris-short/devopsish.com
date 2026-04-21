@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --minify --enableGitInfo"
 
 [context.production.environment]
-HUGO_VERSION = "0.159.1"
+HUGO_VERSION = "0.160.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -11,13 +11,13 @@ HUGO_ENABLEGITINFO = "true"
 command = "hugo --minify --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.159.1"
+HUGO_VERSION = "0.160.1"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.159.1"
+HUGO_VERSION = "0.160.1"
 # Skip all post processing in deploy previews,
 # ignoring any other settings
 [context.deploy-preview.processing]
@@ -26,7 +26,7 @@ skip_processing = true
 [context.branch-deploy]
 command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.159.1"
+HUGO_VERSION = "0.160.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
