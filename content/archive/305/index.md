@@ -1,8 +1,7 @@
 ---
 author: Chris Short
 date: '2026-04-19'
-description: "AI is eating all the compute, Rust is finally stable in Linux 7.0, your smart glasses are a civil liberties problem, and Agile is
-  on its deathbed. The usual week in tech."
+description: "AI is eating all the compute, Rust is finally stable in Linux 7.0, your smart glasses are a civil liberties problem, and Agile is on its deathbed. The usual week in tech."
 draft: false
 slug: '305'
 title: "DevOps'ish 305: Rust ships, Agile dies, nobody has enough GPUs, and more"
