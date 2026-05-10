@@ -4,7 +4,7 @@ date: '2026-05-10'
 description: "CopyFail is being actively exploited, Antrea's Jenkins got owned via a malicious PR, NVIDIA chips have a Rowhammer problem that bypasses IOMMU, pgBackRest lost its sole maintainer, and Meta is being sued for torrenting 267TB of pirated books to train Llama. Kubernetes v1.36 shipped a lot too."
 draft: false
 slug: '308'
-title: "Actively Exploited, Actively Litigated, Actively Dead"
+title: "DevOps'ish 308: Actively Exploited, Actively Litigated, Actively Dead"
 ---
 
 [Build Real-Time Voice Agents with 90ms Latency](https://mistr.al/audio-devopsish-nl)  
