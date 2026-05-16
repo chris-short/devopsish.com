@@ -1,10 +1,10 @@
 ---
 author: Chris Short
 date: '2026-05-17'
-description: ""
+description: "Linux kernel page cache exploits keep coming. Plus: Kubernetes v1.36, Meta AI morale in freefall, GitLab restructures for the agentic era, and AWS overheats in Virginia -- again."
 draft: false
 slug: '309'
-title: "DevOps'ish 309: "
+title: "DevOps'ish 309: Dirty Pages All the Way Down, The Cloud Is Hot, and more"
 ---
 
 The Linux kernel vulnerabilities are coming in hot and heavy. I don't think I've ever updated a kernel due to security issues this frequently before. CopyFail, Dirty Frag, and Fragnesia I fear are the tip of a much bigger iceberg below the surface. There will be more and they could come very quick as more flaws in the kernel's page cache logic are discovered as more and more eyeballs focus on this exploit vector. As always, build safety into your systems and processes to make upgrades and reboots as painless as possible. Stay safe out there.
