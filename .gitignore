@@ -7,3 +7,4 @@
 /log
 /public
 !/public/_redirects
+content/archive/domain_counts.csv
