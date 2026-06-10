@@ -12,6 +12,7 @@ aliases:
 - /archive/sponsor
 author: Chris Short
 date: '2018-03-29'
+lastmod: '2026-06-10'
 description: Sponsor DevOps'ish
 disableShare: true
 draft: false
@@ -30,7 +31,7 @@ Every week [**DevOps’ish**](/) is sent to discerning developers, DevOps profes
 
 ## Newsletter Metrics
 
-- Subscribers: 5100+
+- Subscribers: 6200+
 - Open Rate: 46%
 - Click Rate: 10%
 
