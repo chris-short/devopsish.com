@@ -12,14 +12,14 @@ aliases:
 - /archive/sponsor
 author: Chris Short
 date: '2018-03-29'
-lastmod: '2026-06-10'
+lastmod: '2026-06-26'
 description: Sponsor DevOps'ish
 disableShare: true
 draft: false
 title: Sponsor
 ---
 
-Every week [**DevOps’ish**](/) is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, industry leaders, and readers from all walks of life across the globe.
+Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professionals, SREs, venture capitalists, C-suite executives, industry leaders, and readers from all walks of life across the globe.
 
 ## DevOps'ish Sponsorships Include
 
@@ -49,8 +49,9 @@ It is strongly encouraged to change CTAs and ad copy every week.
 
 ## Example Ad
 
-[Monitor Your Container Environment in One Place](https://www.datadoghq.com/dg/monitor/containers/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=DevOpsish-Newsletter04&utm_content=Containers)  
-With Datadog's Live Container view, you can see every container’s health, resource consumption, and running processes in real time. Datadog, a cloud-scale monitoring platform, allows you to easily monitor and manage your dynamic container fleet. Start today with a free 14-day trial. *SPONSORED*
+[**Monitor Your Container Environment in One Place**](https://www.datadoghq.com/dg/monitor/containers/?utm_source=Advertisement&utm_medium=Advertisement&utm_campaign=DevOpsish-Newsletter04&utm_content=Containers) (SPONSOR)
+
+With Datadog's Live Container view, you can see every container’s health, resource consumption, and running processes in real time. Datadog, a cloud-scale monitoring platform, allows you to easily monitor and manage your dynamic container fleet. Start today with a free 14-day trial.
 
 ## How to get started
 
