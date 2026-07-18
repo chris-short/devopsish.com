@@ -12,7 +12,7 @@ aliases:
 - /archive/sponsor
 author: Chris Short
 date: '2018-03-29'
-lastmod: '2026-06-26'
+lastmod: '2026-07-18'
 description: Sponsor DevOps'ish
 disableShare: true
 draft: false
@@ -23,10 +23,9 @@ Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professi
 
 ## DevOps'ish Sponsorships Include
 
-- Each newsletter features only one ad, giving you exclusive access to DevOps'ish readers
-- Ads are placed below the introduction for optimal visibility
-- The newsletter is text-based, not graphical, which guards against content blockers while maintaining the quality experience subscribers expect.
-- Brand recognition and engagement from our worldwide readers
+- Sponsors are placed at the top of the newsletter for optimal visibility
+- The newsletter is text-based, not graphical, which guards against content blockers while maintaining the quality experience subscribers expect
+- Brand recognition and engagement from subscribers across the globe that are trying to solve real problems everyday
 - Previous sponsors include O'Reilly, Indeed, Datadog, Honeycomb, ThoughtWorks, Depot, and many more
 
 ## Newsletter Metrics
@@ -39,7 +38,7 @@ Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professi
 
 Effective 2026-01-18
 
-A one (1) week sponsorship has a fixed fee of **$750 USD**. Each sponsorship requires a minimum four-week commitment.
+A one (1) week sponsorship has a fixed fee of **$750 USD**.
 
 Our audience spans developers, DevOps and SRE teams, VCs, and C-suite leaders at organizations ranging from early-stage startups to established global enterprises.
 
