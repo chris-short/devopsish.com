@@ -7,9 +7,11 @@ slug: '319'
 title: "DevOps'ish 319: An NTP server time-traveled to 2006, an OpenAI model broke into Hugging Face, and more"
 ---
 
+{{< subscribe >}}
+
 [**NTP server that traveled back in time caused massive Aussie mobile outage**](https://www.theregister.com/networks/2026/07/17/ntp-server-that-traveled-back-in-time-caused-massive-aussie-mobile-outage/5274059) (4 minute read)
 
-A Telstra NTP server reset its clock to 2006 during maintenance and cheerfully broadcast the wrong time across the network, knocking out service and failing emergency calls. Root cause was an undocumented design change that left the GPS card misbehaving on restart, plus a software update Telstra knew about but never applied. Time is still the hardest problem in distributed systems, and this is your weekly reminder to monitor your clocks.
+A Telstra NTP server reset its clock to 2006 during maintenance and cheerfully broadcast the wrong time across the network, knocking out service and failing emergency calls. The root cause was an undocumented design change that left the GPS card misbehaving on restart, plus a software update Telstra knew about but never applied. Time is still the hardest problem in distributed systems, and this is your weekly reminder to keep your clocks in sync.
 
 [**DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability**](https://www.infoq.com/news/2026/07/doordash-entity-cache-proxy/) (3 minute read)
 
@@ -29,11 +31,11 @@ Capital One open sourced VulnHunter, an AI-driven security tool that uses agenti
 
 [**The Arguments Against Open Source AI are Very Bad**](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/) (9 minute read)
 
-The author takes apart the usual objections to open source AI models, arguing that open source has historically proven impossible to suppress and that restricting it is both impractical and economically self-defeating. Strong opinions, reasonably argued.
+The author takes apart the usual objections to open source AI models, arguing that open source has historically proven impossible to suppress and that restricting them is both impractical and economically self-defeating. Strong opinions, reasonably argued.
 
 [**AI is more likely than humans to form biases when hiring**](https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/) (5 minute read)
 
-AI does not just inherit stereotypes from its training data, it manufactures fresh ones. New research finds hiring models can cook up their own biases, which is a fun wrinkle if you were hoping automation would make hiring fairer.
+AI does not just inherit stereotypes from its training data; it manufactures fresh ones. New research finds hiring models can cook up their own biases, which is a fun wrinkle if you were hoping automation would make hiring fairer.
 
 [**Why Netflix is betting on systems thinkers, not specialists, in the AI era | Elizabeth Stone (CPTO)**](https://www.youtube.com/watch?v=t0GiTyz4syY) (72 minute watch)
 
@@ -55,4 +57,4 @@ A longitudinal study of 11,286 U.S. adolescents found that year-over-year increa
 
 [**foru17/neko-master**](https://github.com/foru17/neko-master) - MIT - A tidy dashboard for visualizing local network traffic from gateways like OpenClash and Surge, with real-time metrics across domains, IPs, and proxy nodes, plus geolocation and multi-gateway support.
 
-{{< subscribe >}}
+{{< sponsor >}}
