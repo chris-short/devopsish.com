@@ -55,4 +55,5 @@ With Datadog's Live Container view, you can see every container’s health, reso
 ## How to get started
 
 - Review the [DevOps'ish Sponsorship Prospectus](https://shortcdn.com/devopsish/DevOps'ish-Sponsorship-Prospectus.pdf)
-- [Contact DevOps'ish](/contact/) with your sponsorship idea to get started today!
+- Check upcoming [availability](https://docs.google.com/spreadsheets/d/1t1iErcQ7EzTDhhgHpR9lEgJ_CccGeNv4erVlKOZ60WI/edit?usp=sharing)
+- [Contact DevOps'ish](/contact/) to get started today!
