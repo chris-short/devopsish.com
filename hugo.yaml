@@ -90,6 +90,8 @@ params:
   socialIcons: # optional
     - name: "reddit"
       url: "https://www.reddit.com/r/devopsish/"
+    - name: "substack"
+      url: "https://devopsish.substack.com/"
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/thechrisshort"
     - name: "Bluesky"
