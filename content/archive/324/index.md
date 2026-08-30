@@ -9,7 +9,7 @@ title: "DevOps'ish 324: Kubernetes v1.37 lands, most leaked AWS keys still work,
 
 {{< subscribe >}}
 
-[Every AI tool tells you what you spent. This one tells you what it built.](https://fandf.co/4y7dFJ3) (SPONSOR)
+[**Every AI tool tells you what you spent. This one tells you what it built.**](https://fandf.co/4y7dFJ3) (SPONSOR)
 
 89% of enterprises have adopted AI tools. Only 23% can measure the return. Tempo's Workforce Intelligence is an Atlassian Marketplace app that closes that gap: it pulls session cost from Claude Code, Codex, and Copilot and attaches it to the Jira issue the code landed on, then rolls it up to the epic and the initiative. Nothing to install on anyone's laptop, no new platform to log into, no change to how your engineers work — just a real answer the next time someone asks what the AI budget actually delivered.
 
