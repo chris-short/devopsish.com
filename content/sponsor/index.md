@@ -30,7 +30,7 @@ Every week [**DevOps'ish**](/) is sent to discerning developers, DevOps professi
 
 ## Newsletter Metrics
 
-- Subscribers: 6800+
+- Subscribers: 7000+
 - Open Rate: 46%
 - Click Rate: 10%
 
