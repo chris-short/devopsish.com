@@ -35,7 +35,7 @@ CVE-2026-111497 is an out-of-bounds write in the upstream Brotli C decoder, so i
 
 [**Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes**](https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html) (5 minute read)
 
-Trend Micro's ZDI reported two remote code execution bugs in KSMBD, the in-kernel SMB server. One needs SMB Direct and RDMA. The other needs no authentication at all, just port 445. Neither had a fix in mainline or linux-next at publication time, and there are no CVEs yet. The reports came from an AI scanner and went to public lists without patches, following the kernel's new "AI-found bugs are already public" guidance, and Greg Kroah-Hartman was not thrilled about it. Run `lsmod | grep ksmbd`; if it's loaded and you don't need it, unload it.
+Trend Micro's ZDI reported two remote code execution bugs in KSMBD, the in-kernel SMB server. One needs SMB Direct and RDMA. The other needs no authentication at all, just port 445. Neither had a fix in mainline or linux-next at publication time, and there are no CVEs yet. The reports came from an AI scanner and went to public lists without patches, following the kernel's new "AI-found bugs are already public" guidance, and Greg Kroah-Hartman was not happy about it. Run `lsmod | grep ksmbd`; if it's loaded and you don't need it, unload it.
 
 [**Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous)**](https://thenewstack.io/why-kubernetes-autoscalers-fight/) (5 minute read)
 
