@@ -2,7 +2,6 @@
 author: Chris Short
 date: '2026-11-08'
 description: "A trojaned Claude Code extension lands on Cursor's marketplace under Anthropic's real ID, a 9.8 Linux TCP use-after-free gets a Claude-written root exploit, OpenAI builds Pando to keep Git up with Codex agents, and AWS says committed capacity is mostly sold through 2027."
-draft: true
 slug: '334'
 title: "DevOps'ish 334: Claude Code gets trojaned on Cursor, a 9.8 Linux TCP bug, OpenAI rebuilds Git, and more"
 ---

@@ -2,7 +2,6 @@
 author: Chris Short
 date: '2026-11-15'
 description: "Jensen Huang resigns as Nvidia CEO, KubeVirt graduates from the CNCF, an outage grounds every US flight, a 256-character password walks into musl-based sshd, and GitHub rebuilds its Git storage to survive the agents."
-draft: true
 slug: '335'
 title: "DevOps'ish 335: Jensen Huang resigns, KubeVirt graduates, the FAA grounds everything, and more"
 ---
